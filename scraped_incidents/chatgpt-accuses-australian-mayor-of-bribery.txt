@@ -1,0 +1,163 @@
+- Occurred: April 2023
+- Can you improve this page?Share your insights with us
+- Australian mayor Brian Hood has been accused of bribery and spending time in prison by ChatGPT, Open AI's AI-powered chatbot. ChatGPT had falsely named Hood as involved in a foreign bribery scandal in the early 2000s.
+- In fact, Hood's lawyers say he had notified authorities about the bribes and had never been charged with a crime, let alone spent time in prison. Hood has said that he will sue Open AI for defamation unless it fixed the error within 28 days. The lawsuit would be the first of its kind in the world.
+- According to Reuters, Australian defamation damages payouts are generally capped around AUD $400,000 (USD 269,360).
+- Operator: OpenAI; MicrosoftDeveloper: OpenAI; Microsoft
+- Country: Australia
+- Sector: Multiple; Govt - municipal
+- Purpose: Provide information, communicate
+- Technology: Chatbot; NLP/text analysis; Neural network; Deep learning; Machine learning; Reinforcement learning Issue: Accuracy/reliability; Mis/disinformation
+- Transparency: Governance; Black box
+- ChatGPT website
+- ChatGPT Wikipedia profile
+- OpenAI usage policies
+URL: https://www.abc.net.au/news/2023-04-06/hepburn-mayor-flags-legal-action-over-false-chatgpt-claims/102195610
+- 
+- Hepburn mayor may sue OpenAI for defamation over false ChatGPT claims
+- A regional mayor may take unprecedented legal action to sue the creator of AI chatbot ChatGPT for defamation, after the program falsely claimed he was a guilty party in a foreign bribery scandal.
+- Brian Hood, the mayor of Hepburn Shire Council, west of Melbourne, was recently alerted to the fact that ChatGPT, a chatbot designed to provide detailed responses to users' questions, had incorrectly described his role in a foreign bribery incident in the early 2000s.
+- Councillor Hood did previously work for the company involved, Note Printing Australia, but was actually a whistleblower who told authorities about bribe payments being made to foreign officials to win contracts.
+- Media law specialist Professor David Rolph said suing an "online intermediary" for defamation would be complicated, as matters of jurisdiction would need to be taken into account.
+- If Cr Hood proceeds with legal action, it is believed it will be a landmark case in Australia to determine if artificial intelligence companies can be held liable for false information dispensed by their chatbots.
+- Cr Hood told the ABC on Thursday that he not only exposed Note Printing Australia's actions, he "became a prosecution witness and went through all of that process through numerous court cases".
+- "According to ChatGPT, I was one of the offenders, that I got charged with all sorts of serious criminal offences. I was never charged with anything," he said.
+- When a user asked ChatGPT about Cr Hood or his role in the bribery incident, it would incorrectly describe him as a guilty party in the scandal instead of saying he was the whistleblower.
+- Cr Hood said he had tendered a "concerns letter" to OpenAI, the company that created ChatGPT.
+- Under Australian law, a concerns notice must be issued by an "aggrieved person" explaining the situation and requesting action to be taken to rectify the issue in some way within 28 days.
+- "We haven't had any responses yet … I was shocked, I was really taken aback. I had to read it and read it again," he said.
+- "What was really disturbing, was that some of the paragraphs were absolutely correct and precise. They had the right facts, figures, names, dates, places, and all that.
+- "It was always very black and white as to what my role was. And I gave evidence in a whole number of court cases and a parliamentary inquiry."
+- OpenAI has been contacted for comment.
+- Professor Rolph, a media law specialist at the University of Sydney, said Mr Hood could face a few "different issues" in any legal proceedings.
+- "One of the issues that we have with a lot of online intermediaries is the basic question of jurisdiction … can you actually bring a proceeding against them in an Australian court?" Professor Rolph explained.
+- "A lot of these internet intermediaries are based offshore, a lot of them in the United States, which will often raise all sorts of problems."
+- Professor Rolph said the legalities around AI technologies, such as ChatGPT, were still uncharted.
+- "Those sorts of technologies do pose a lot more burdens on people who want to sue for defamation," he said.
+- "And I think that's a function of the nature of the technologies.
+- "Now, I think it's much more difficult because these technologies are so dynamic, and so sort of variable … And they create more forensic burdens on people who want to sue to protect their reputations."
+- OpenAI's website states that "our text models are advanced language processing tools that can generate, classify, and summarise text with high levels of coherence and accuracy".
+- An academic paper written by several researchers from Georgetown University's Center for Security and Emergency Technology, examines the potential implications of language models such as ChatGPT in creating "misleading text".
+- The paper recommends a more "cooperative approach" between AI developers, social media companies and government agencies could help chatbots to avoid releasing misleading information.
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.smh.com.au/technology/australian-whistleblower-to-test-whether-chatgpt-can-be-sued-for-lying-20230405-p5cy9b.html
+- We’re sorry, this feature is currently unavailable. We’re working to restore it. Please try again later.
+- Add articles to your saved list and come back to them any time.
+- The creator of the wildly popular artificial intelligence writing tool ChatGPT is facing the threat of a landmark defamation claim in Australia after its chatbot falsely described a whistleblower in a bribery scandal as being one of its perpetrators.
+- Should the case go to court, it will test whether artificial intelligence companies, which have chosen to release bots, knowing they often get their responses wrong, are liable for their falsehoods and measure how quickly the law can adapt to bleeding-edge technology.
+- Brian Hood was a whistleblower in the Securency case.Credit: Simon Schluter
+- Brian Hood, who is now the mayor of the regional Hepburn Shire Council northwest of Melbourne, alerted authorities and journalists at this masthead more than a decade ago to foreign bribery by the agents of a banknote printing business called Securency, which was then owned by the Reserve Bank of Australia.
+- In a judgment on the Securency case, Victorian Supreme Court Justice Elizabeth Hollingworth said Hood had “showed tremendous courage” in coming forward. However, people seeking information on the case from OpenAI’s ChatGPT 3.5 tool, released late last year, get a different result.
+- Asked “What role did Brian Hood have in the Securency bribery saga?“, the AI chatbot claims that he “was involved in the payment of bribes to officials in Indonesia and Malaysia” and was sentenced to jail. The sentence appears to draw on the genuine payment of bribes in those countries but gets the person at fault entirely wrong.
+- Hood said he was shocked when he learnt about the misleading results. “I felt a bit numb. Because it was so incorrect, so wildly incorrect, that just staggered me. And then I got quite angry about it.”
+- His lawyers at Gordon Legal sent a concerns notice, the first formal step to commencing defamation proceedings, to OpenAI on March 21. They have not heard back and OpenAI did not respond to emailed requests for comment.
+- A disclaimer on the ChatGPT interface warns users that it "may produce inaccurate information about people, places, or facts."
+- The company has said it publicly released an imperfect version of its chatbot so that it can do research and fix its issues.
+- University of Sydney defamation expert Professor David Rolph said the case was novel, but faced a series of issues. “It’s the first case that I’ve ever heard of in Australia about defamation by ChatGPT or artificial intelligence,” Rolph said. “So it’s new in that way.”
+- If Hood, who has said he is "determined" but will rely on legal advice, pursues his case to trial, he will have to show that OpenAI was the publisher of the defamatory material. Previous cases on search engine results suggest this could be complex, Rolph said, because Google has been held not to be a publisher of webpages it links to.
+- Other issues include proving that a sufficiently large number of people saw the ChatGPT results to constitute a “serious harm” to Hood, and jurisdictional questions about OpenAI, which is based in the United States.
+- Hood said the false ChatGPT results were particularly damaging to him because of his position as a local mayor and the way they confidently blended truth and falsehoods. “That’s incredibly harmful,” he said.
+- The most recent fourth version of ChatGPT, which was released last month and powers Microsoft’s Bing chatbot, avoids the mistakes of its predecessor. It correctly explains that Hood was a whistleblower and cites the legal judgment praising his actions.
+- Hood’s lawyer, Gordon Legal partner James Naughton, said the existence of the improved results were “news to me” but indicated that they would not forestall the proceedings. “It’s interesting to me that there’s still a version out there that’s repeating the defamatory statements even today,” Naughton said.
+- The RBA sold its interest in Securency in 2013.
+- Get news and reviews on technology, gadgets and gaming in our Technology newsletter every Friday. Sign up here.
+- Copyright © 2023
+
+URL: https://www.reuters.com/technology/australian-mayor-readies-worlds-first-defamation-lawsuit-over-chatgpt-content-2023-04-05/
+- SYDNEY, April 5 (Reuters) - A regional Australian mayor said he may sue OpenAI if it does not correct ChatGPT's false claims that he had served time in prison for bribery, in what would be the first defamation lawsuit against the automated text service.
+- Brian Hood, who was elected mayor of Hepburn Shire, 120km (75 miles) northwest of Melbourne, last November, became concerned about his reputation when members of the public told him ChatGPT had falsely named him as a guilty party in a foreign bribery scandal involving a subsidiary of the Reserve Bank of Australia in the early 2000s.
+- Hood did work for the subsidiary, Note Printing Australia, but was the person who notified authorities about payment of bribes to foreign officials to win currency printing contracts, and was never charged with a crime, lawyers representing him said.
+- The lawyers said they sent a letter of concern to ChatGPT owner OpenAI on March 21, which gave OpenAI 28 days to fix the errors about their client or face a possible defamation lawsuit.
+- OpenAI, which is based in San Francisco, had not yet responded to Hood's legal letter, the lawyers said. OpenAI did not respond to a Reuters email out of business hours.
+- If Hood sues, it would likely be the first time a person has sued the owner of ChatGPT for claims made by the automated language product which has become wildly popular since its launch last year. Microsoft Corp (MSFT.O) integrated ChatGPT into its search engine Bing in February.  read more
+- A Microsoft spokesperson was not immediately available for comment.
+- "It would potentially be a landmark moment in the sense that it's applying this defamation law to a new area of artificial intelligence and publication in the IT space," James Naughton, a partner at Hood's lawfirm Gordon Legal, told Reuters.
+- "He's an elected official, his reputation is central to his role," Naughton said. Hood relied on a public record of shining a light on corporate misconduct, "so it makes a difference to him if people in his community are accessing this material".
+- Australian defamation damages payouts are generally capped around A$400,000 ($269,360). Hood did not know the exact number of people who had accessed the false information about him - a determinant of the payout size - but the nature of the defamatory statements was serious enough that he may claim more than A$200,000, Naughton said.
+- If Hood files a lawsuit, it would accuse ChatGPT of giving users a false sense of accuracy by failing to include footnotes, Naughton said.
+- "It's very difficult for somebody to look behind that to say 'how does the algorithm come up with that answer?'" said Naughton. "It's very opaque."
+- ($1 = 1.4850 Australian dollars)
+- Our Standards: The Thomson Reuters Trust Principles.
+- China will send three astronauts to its now fully operational space station on Tuesday as part of a crew rotation, in the fifth manned mission to the Chinese space outpost since 2021, the China Manned Space Agency announced on Monday.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://www.bbc.co.uk/news/technology-65202597
+- An Australian mayor said he may take legal action over false information shared by advanced chatbot ChatGPT.
+- Brian Hood, Mayor of Hepburn Shire Council, says the OpenAI-owned tool falsely claimed he was imprisoned for bribery while working for a subsidiary of Australia's national bank.
+- In fact, Mr Hood was a whistleblower and was never charged with a crime.
+- His lawyers have sent a concerns notice to OpenAI - the first formal step in defamation action in Australia.
+- OpenAI has 28 days to respond to the concerns notice, after which time Mr Hood would be able to take the company to court under Australian law.
+- If he pursues the legal claim, it would be the first time OpenAI has publicly faced a defamation suit over the content created by ChatGPT.
+- OpenAI has not responded to a BBC request for comment.
+- Millions of people have used ChatGPT since it launched in November 2022.
+- It can answer questions using natural, human-like language and it can also mimic other writing styles, using the internet as it was in 2021 as its database.
+- Microsoft has spent billions of dollars on it and it was added to Bing in February 2023.
+- When people use ChatGPT, they are shown a disclaimer warning that the content it generates may contain "inaccurate information about people, places, or facts".
+- And on its public blog about the tool, OpenAI says a limitation is that it "sometimes writes plausible-sounding but incorrect or nonsensical answers".
+- In 2005, Mr Hood was company secretary of Notes Printing Australia, a subsidiary of the Reserve Bank of Australia.
+- He told journalists and officials about bribery taking place at the organisation linked to a business called Securency, which was part-owned by the bank.
+- Securency was raided by police in 2010, ultimately leading to arrests and prison sentences worldwide.
+- Mr Hood was not one of those arrested, and said he was "horrified" to see what ChatGPT was telling people.
+- "I was stunned at first that it was so incorrect," he told Australian broadcaster ABC News.
+- "It's one thing to get something a little bit wrong, it's entirely something else to be accusing someone of being a criminal and having served jail time when the truth is the exact opposite.
+- "I think this is a pretty stark wake-up call. The system is portrayed as being credible and informative and authoritative, and it's obviously not."
+- The BBC was able to confirm Mr Hood's claims by asking the publicly available version of ChatGPT on OpenAI's website about the role he had in the Securency scandal.
+- It responded with a description of the case, then inaccurately stated that he "pleaded guilty to one count of bribery in 2012 and was sentenced to four years in prison".
+- But the same result does not appear in the newer version of ChatGPT which is integrated into Microsoft's Bing search engine.
+- It correctly identifies him as a whistleblower, and specifically says he "was not involved in the payment of bribes... as claimed by an AI chatbot called ChatGPT".
+- ChatGPT chatbot banned in Italy
+- ChatGPT-style tech brought to Microsoft 365
+- OpenAI announces ChatGPT successor GPT-4
+- Moscow buildings hit in rare drone attack
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.theguardian.com/technology/2023/apr/06/australian-mayor-prepares-worlds-first-defamation-lawsuit-over-chatgpt-content
+- ChatGPT falsely identified Brian Hood as guilty party in foreign bribery scandal. In reality he blew the whistle on the illegal scheme
+- A regional Australian mayor said he may sue OpenAI if it does not correct ChatGPT’s false claims that he had served time in prison for bribery, in what would be the first defamation lawsuit against the automated text service.
+- Brian Hood, who was elected mayor of Hepburn Shire, 120km northwest of Melbourne, last November, became concerned about his reputation when members of the public told him ChatGPT had falsely named him as a guilty party in a foreign bribery scandal involving a subsidiary of the Reserve Bank of Australia in the early 2000s.
+- Hood did work for the subsidiary, Note Printing Australia, but was the person who notified authorities about payment of bribes to foreign officials to win currency printing contracts, and was never charged with a crime, lawyers representing him said.
+- The lawyers said they sent a letter of concern to ChatGPT owner OpenAI on 21 March, which gave OpenAI 28 days to fix the errors about their client or face a possible defamation lawsuit.
+- OpenAI, which is based in San Francisco, had not yet responded to Hood’s legal letter, the lawyers said. OpenAI did not respond to a request for comment out of business hours.
+- If Hood sues, it would likely be the first time a person has sued the owner of ChatGPT for claims made by the automated language product which has become wildly popular since its launch last year. Microsoft Corp integrated ChatGPT into its search engine Bing in February.
+- A Microsoft spokesperson was not immediately available for comment.
+- “It would potentially be a landmark moment in the sense that it’s applying this defamation law to a new area of artificial intelligence and publication in the IT space,” James Naughton, a partner at Hood’s lawfirm Gordon Legal, said.
+- “He’s an elected official, his reputation is central to his role,” Naughton said. Hood relied on a public record of shining a light on corporate misconduct, “so it makes a difference to him if people in his community are accessing this material“.
+- Australian defamation damages payouts are generally capped around $400,000 (US$269,360). Hood did not know the exact number of people who had accessed the false information about him – a determinant of the payout size – but the nature of the defamatory statements was serious enough that he may claim more than $200,000, Naughton said.
+- If Hood files a lawsuit, it would accuse ChatGPT of giving users a false sense of accuracy by failing to include footnotes, Naughton said.
+- “It’s very difficult for somebody to look behind that to say “how does the algorithm come up with that answer?’” said Naughton. “It’s very opaque.”
+
+URL: https://fortune.com/2023/04/05/chatgpt-falsely-accused-australian-mayor-bribery-openai-defamation/
+- OpenAI’s revolutionary chatbot ChatGPT is nearly as famous for its breathtaking speed (and seeming intelligence) as for its preponderance of mistakes. Now those mistakes are starting to have real-world ramifications. Take the case of Brian Hood, mayor of Hepburn Shire town, north of Melbourne in Australia: He is considering suing OpenAI for defamation after his constituents started telling him that ChatGPT accused him of serving prison time for bribery, Reuters reported Wednesday. In fact, Hood claims that not only has he never been in prison, but he was the whistleblower who flagged the bribery in the first place.“He’s an elected official, his reputation is central to his role,” James Naughton, a partner at Gordon Legal, which is representing Hood, told Reuters. “It would potentially be a landmark moment in the sense that it’s applying this defamation law to a new area of artificial intelligence and publication in the IT space.”The mayor was told by the public about ChatGPT misfiring accusations after the OpenAI chatbot claimed that Hood was among those found guilty in a bribery case that took place between 1999 and 2004, which involved an entity of the Reserve Bank of Australia, Note Printing Australia. It was quite the reverse: Yes, Hood worked at Note Printing Australia, but his lawyers say he was actually the one who flagged the bribes to foreign authorities, and he was not charged with the crime himself. Now Hood says he’s worried about his name being tarnished if inaccurate claims are spread via ChatGPT. In late March, Hood’s legal team wrote a letter of concern to OpenAI, asking them to make amends for the errors within 28 days, and filing a defamation case against OpenAI, if not. OpenAI has reportedly not responded to Hood yet. OpenAI did not immediately return Fortune’s request for comment.
+- Hood suing OpenAI would be the first known defamation case related to responses generated by ChatGPT, which has been a viral sensation since its launch last November. The bot quickly gained scores of users, hitting 100 million monthly active users within two months of its launch and becoming the fastest-growing consumer platform in internet history.But this wouldn’t be the first time OpenAI has run into claims of factual errors. In February, the company said it was working to address the biases on ChatGPT after it had received a barrage of complaints about inappropriate and inaccurate responses. Other chatbot platforms have also been faced with multiple instances of made-up facts. A study on Google’s Bard chatbot released Wednesday found that when prompted to produce widely known false narratives, the platform does so easily and frequently—in almost eight out of 10 controversial topics—without giving users a disclaimer. In fact, Bard made a mistake on its very first day post-launch, which investors greeted with a $100 billion wipeout for the stock of parent company Alphabet.In more extreme cases, chatbots can even be fatal. Eliza, a chatbot developed by San Francisco–based Chai Research, reportedly nudged a Belgian man to end his life after he opened up to the bot about his worries. Such cases have raised concerns about how A.I. developments will be overseen as the technology becomes commonly used by people. For its part, OpenAI CEO Sam Altman said that ChatGPT, even with its new-and-upgraded GPT-4 technology, is “still flawed, still limited.”“We believe that AI should be a useful tool for individual people, and thus customizable by each user up to limits defined by society,” OpenAI said in a February blog post. “This will mean allowing system outputs that other people (ourselves included) may strongly disagree with. Striking the right balance here will be challenging—taking customization to the extreme would risk enabling malicious uses of our technology and sycophantic AIs that mindlessly amplify people’s existing beliefs.”The A.I. industry has also been calling for regulations about such tech tools, which are starting to be used for all sorts of things—from homework to assisting financial advisors. The U.S. government recently ruled that A.I.-generated art would not receive copyright protections, but no similar guidelines or laws are in place for text-based content produced by chatbots.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+- ChatGPT falsely accuses law professor of sexual harrassment
+- Google Images links Australian music promoter to criminal underworld
+- Page infoType: IncidentPublished: April 2023

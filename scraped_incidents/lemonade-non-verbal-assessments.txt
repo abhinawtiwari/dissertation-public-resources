@@ -1,0 +1,260 @@
+- Occurred: May 2021
+- Can you improve this page?Share your insights with us
+- New York-based online insurer Lemonade has retracted a series of tweets saying it uses artificial intelligence to assess and deny claims based on its customers facial and emotional characteristics.
+- Lemonade Inc had claimed on Twitter that its AI Jim claims bot uses emotion recognition to automate the process of assessing and denying insurance claims based on 'non-verbal cues' in videos its customers must shoot to explain what had happened.
+- The claim triggered intense criticism of the company, with people accusing it of potential bias and of conducting phrenology and other forms of discredited pseudoscience.
+- Lemonade was forced to deny using AI or emotion recognition to 'automatically decline claims', going on to add that 'harmful concepts like phrenology and physiognomy has never, and will never, be used at Lemonade.'
+- The company had previously stated in a S-1 filing that its system collects approximately 1,700 customer data points from customers. It later said that this is 'about 100 times more data than traditional data carriers'.
+- Operator: Lemonade Inc Developer: Lemonade Inc Country: USA Sector: Banking/financial servicesPurpose: Assess & process insurance claims Technology: Facial recognition; Emotion recognition; Machine learningIssue: Pseudoscience - phrenology; Accuracy/reliability; Bias/discrimination - multipleTransparency: Governance; Black box; Marketing
+URL: https://archive.ph/i5m4v
+
+URL: https://www.lemonade.com/blog/lemonades-claim-automation/
+- There was a sizable discussion on Twitter around a poorly worded tweet of ours (mostly the term ‘non-verbal cues,’) which led to confusion as to how we use customer videos to process claims. There were also questions about whether we use approaches like emotion recognition (we don’t), and whether AI is used to automatically decline claims (never!).
+- The term non-verbal cues was a bad choice of words to describe the facial recognition technology we’re using to flag claims submitted by the same person under different identities. These flagged claims then get reviewed by our human investigators.
+- This confusion led to a spread of falsehoods and incorrect assumptions, so we’re writing this to clarify and unequivocally confirm that our users aren’t treated differently based on their appearance, behavior, or any personal/physical characteristic.
+- AI is non-deterministic and has been shown to have biases across different communities. That’s why we never let AI perform deterministic actions such as rejecting claims or canceling policies.
+- Here’s why: We do not believe that it is possible, nor is it ethical (or legal), to deduce anything about a person’s character, quality, or fraudulent intentions based on facial features, accents, emotions, skin-tone, or any other personal attribute.
+- The simple answer: Because it’s better for our customers, making it easier for them to describe what happened in their own words.
+- We also believe it may reduce fraud. Behavioral economics research, much of what inspired Lemonade’s business model and B-corp status, has shown that we humans are less prone to lying when we’re looking at ourselves speaking in a mirror/selfie camera.
+- Coupled with the Pledge of Honor we ask customers to sign, and the fact that your unclaimed premium goes to a charity you believe in, we think this brings out the best behavior in all of us (insurer and insured), and allows us to pay legitimate claims faster while keeping costs down.
+- In the past few years, we have had ongoing conversations with regulators across the globe about fairness and AI. We have published about this topic, and run an internal program (together with external AI Ethics Advisors) to look into the ways we use AI today and the ways in which we’ll use it going forward. We’ve even launched a podcast series around the topic of AI Ethics—it’s called Benevolent Bots, and you can check it out on Apple or Spotify.
+- Share
+- Algorithms we may never understand can be trusted to price insurance in a way that is far more precise, and far more fair, than today’s human equivalents.
+- Blond wigs, weird bots, and ad fails: The behind-the-scenes secrets and stats of 2019 at Lemonade.
+- B Corporations like Lemonade, Ben & Jerry’s, and Warby Parker recognize that business is about more than making profits—it’s about social good.
+- You might think insurance is painfully boring. At Lemonade, we’re challenging that idea each and every day.
+- If we want to save our environment, we need to be taking action constantly. 350 share some concrete ways you can get involved.
+- Discussing big topics, rather than small talk, creates more meaningful connections. Here are 52 questions that’ll help you deepen your relationships with your loved ones.
+- Property and casualty insurance is provided by Lemonade Insurance Company (LIC), 5 Crosby St., 3rd floor, New York, NY 10013 or Metromile Insurance Company (MIC), 3080 N. Civic Center Plaza, Scottsdale, AZ 85251. Life Insurance provided by North American Company for Life and Health Insurance®, Administrative Office, One Sammons Plaza, Sioux Falls, SD 57193.
+- Lemonade Insurance Agency, LLC (LIA) and Metromile Insurance Services LLC (MIS) are licensed insurance agents and appointed by LICand MIC and Both LIA and MIS receive compensation based on the premiums for the insurance policies each sells. Further information is available upon request.
+
+Lemonade Life Insurance Agency, LLC (LLIA) is acting as the agent of North American Company for Life and Health Insurance® (policy form LS181 and LS 182 or state version including all applicable endorsements and riders). LLIA receives compensation for the insurance policies it sells and is a sub-producer of Bestow Agency, LLC. Life insurance quotes are provided by Bestow Agency, LLC dba Bestow Insurance Services in CA, who is the licensed agent. Products or issue ages may not be available in all jurisdictions. Limitations or restrictions may apply. Not available in New York. Our application asks about your lifestyle and health; your answers allow us to save you time and avoid offline medical exams.
+- 
+- We use cookies and other technologies to give you the best possible user experience and to customize advertising on and off our website. In addition, our partners may use cookies and other technologies to provide you with marketing information. Read more about this and your right to opt-out in our Privacy Policy.
+
+URL: https://stories.lemonade.com/the-secret-behind-lemonades-instant-insurance-3129537d661
+
+URL: https://www.sec.gov/Archives/edgar/data/1691421/000104746920003846/a2241899zs-1a.htm
+- To allow for equitable access to all users, SEC reserves the right to limit requests originating from undeclared automated tools. Your request has been identified as part of a network of automated tools outside of the acceptable policy and will be managed until action is taken to declare your traffic.
+- Please declare your traffic by updating your user agent to include company specific information.
+- For best practices on efficiently downloading information from SEC.gov, including the latest EDGAR filings, visit sec.gov/developer. You can also sign up for email updates on the SEC open data program, including best practices that make it more efficient to download data, and SEC.gov enhancements that may impact scripted downloading processes. For more information, contact opendata@sec.gov.
+- For more information, please see the SEC’s Web Site Privacy and Security Policy. Thank you for your interest in the U.S. Securities and Exchange Commission.
+Reference ID: 0.ca3a2217.1685369392.3a2ea905
+
+More Information
+Internet Security Policy
+By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users.
+Unauthorized attempts to upload information and/or change information on any portion of this site are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 (see Title 18 U.S.C. §§ 1001 and 1030).
+To ensure our website performs well for all users, the SEC monitors the frequency of requests for SEC.gov content to ensure automated searches do not impact the ability of others to access SEC.gov content. We reserve the right to block IP addresses that submit excessive requests.  Current guidelines limit users to a total of no more than 10 requests per second, regardless of the number of machines used to submit requests. 
+If a user or application submits more than 10 requests per second, further requests from the IP address(es) may be limited for a brief period. Once the rate of requests has dropped below the threshold for 10 minutes, the user may resume accessing content on SEC.gov. This SEC practice is designed to limit excessive automated searches on SEC.gov and is not intended or expected to impact individuals browsing the SEC.gov website. 
+Note that this policy may change as the SEC manages SEC.gov to ensure that the website performs efficiently and remains available to all users.
+
+
+Note: We do not offer technical support for developing or debugging scripted downloading processes.
+- Reference ID: 0.ca3a2217.1685369392.3a2ea905
+- By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users.
+- Unauthorized attempts to upload information and/or change information on any portion of this site are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 (see Title 18 U.S.C. §§ 1001 and 1030).
+- To ensure our website performs well for all users, the SEC monitors the frequency of requests for SEC.gov content to ensure automated searches do not impact the ability of others to access SEC.gov content. We reserve the right to block IP addresses that submit excessive requests.  Current guidelines limit users to a total of no more than 10 requests per second, regardless of the number of machines used to submit requests.
+- If a user or application submits more than 10 requests per second, further requests from the IP address(es) may be limited for a brief period. Once the rate of requests has dropped below the threshold for 10 minutes, the user may resume accessing content on SEC.gov. This SEC practice is designed to limit excessive automated searches on SEC.gov and is not intended or expected to impact individuals browsing the SEC.gov website.
+- Note that this policy may change as the SEC manages SEC.gov to ensure that the website performs efficiently and remains available to all users.
+- Note: We do not offer technical support for developing or debugging scripted downloading processes.
+
+URL: https://www.bloomberg.com/news/articles/2021-05-26/lemonade-s-use-of-ai-to-study-claims-brings-uproar-after-tweet
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://fortune.com/2021/05/26/lemonade-insurance-ai-face-scanning-fraud/
+- Insurance upstart Lemonade backtracked Wednesday from a tweet it had posted earlier that said the company uses artificial intelligence to deny claims based on its customers’ facial characteristics.
+- In a since deleted tweet from its corporate Twitter account on Monday, Lemonade described using A.I. to “pick up non-verbal cues” in videos that customers are required to provide that help the company detect signs of insurance fraud. As part of Lemonade’s insurance claims process, users send the company videos of themselves “explaining what happened,” the company said in its original tweet.
+- The tweet was part of a larger thread in which Lemonade discussed using data science to lower its loss ratio, referring to how much money it pays out in claims versus how much it brings in.
+- A number of Twitter users criticized the company’s post, saying that it appeared as if Lemonade uses A.I. to determine a person’s emotional state or to read their facial movements to judge whether they’re more likely to commit fraud. Some users likened this technique to phrenology, a long-dismissed theory that measuring bumps on a person’s head can shed insight on their overall personality and behavior.
+- Amid the uproar, Lemonade published a blog post on Wednesday dismissing its earlier statements about A.I., saying it “does not use, and we’re not trying to build, AI that uses physical or personal features to deny claims.”
+- The company went on to deny using  use emotion recognition technologies or use A.I. to “automatically decline claims.” It added that “harmful concepts like phrenology and physiognomy has never, and will never, be used at Lemonade.”
+- Lemonade said that the “term non-verbal cues was a bad choice of words to describe the facial recognition technology” that it uses to “flag claims submitted by the same person under different identities.”
+- “These flagged claims then get reviewed by our human investigators,” the company added.
+- “It was wrong of us to write that in the first place,” a Lemonade spokesperson told Fortune. The spokesperson said that its use of facial recognition was “described accurately” in an older blog post.
+- Our mission to make business better is fueled by readers like you. To enjoy unlimited access to our journalism, subscribe today.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.vox.com/recode/22455140/lemonade-insurance-ai-twitter
+- Lemonade tweeted about what it means to be an AI-first insurance company. It left a sour taste in many customers’ mouths.
+- Lemonade, the fast-growing, machine learning-powered insurance app, put out a real lemon of a Twitter thread on Monday with a proud declaration that its AI analyzes videos of customers when determining if their claims are fraudulent. The company has been trying to explain itself and its business model — and fend off serious accusations of bias, discrimination, and general creepiness — ever since.
+- The prospect of being judged by AI for something as important as an insurance claim was alarming to many who saw the thread, and it should be. We’ve seen how AI can discriminate against certain races, genders, economic classes, and disabilities, among other categories, leading to those people being denied housing, jobs, education, or justice. Now we have an insurance company that prides itself on largely replacing human brokers and actuaries with bots and AI, collecting data about customers without them realizing they were giving it away, and using those data points to assess their risk.
+- Like These? pic.twitter.com/TloOtdxHWR
+- Over a series of seven tweets, Lemonade claimed that it gathers more than 1,600 “data points” about its users — “100X more data than traditional insurance carriers,” the company claimed. The thread didn’t say what those data points are or how and when they’re collected, simply that they produce “nuanced profiles” and “remarkably predictive insights” which help Lemonade determine, in apparently granular detail, its customers’ “level of risk.”
+- Lemonade then provided an example of how its AI “carefully analyzes” videos that it asks customers making claims to send in “for signs of fraud,” including “non-verbal cues.” Traditional insurers are unable to use video this way, Lemonade said, crediting its AI for helping it improve its loss ratios: that is, taking in more in premiums than it had to pay out in claims. Lemonade used to pay out a lot more than it took in, which the company said was “friggin terrible.” Now, the thread said, it takes in more than it pays out.
+- “It’s incredibly callous to celebrate how your company saves money by not paying out claims (in some cases to people who are probably having the worst day of their lives),” Caitlin Seeley George, campaign director of digital rights advocacy group Fight for the Future, told Recode. “And it’s even worse to celebrate the biased machine learning that makes this possible.”
+- Lemonade, which was founded in 2015, offers renters, homeowners, pet, and life insurance in many US states and a few European countries, with aspirations to expand to more locations and add a car insurance offering. The company has more than 1 million customers, a milestone that it reached in just a few years. That’s a lot of data points.
+- “At Lemonade, one million customers translates into billions of data points, which feed our AI at an ever-growing speed,” Lemonade’s co-founder and chief operating officer Shai Wininger said last year. “Quantity generates quality.”
+- The Twitter thread made the rounds to a horrified and growing audience, drawing the requisite comparisons to the dystopian tech television series Black Mirror and prompting people to ask if their claims would be denied because of the color of their skin, or if Lemonade’s claims bot, “AI Jim,” decided that they looked like they were lying. What, many wondered, did Lemonade mean by “non-verbal cues?” Threats to cancel policies (and screenshot evidence from people who did cancel) mounted.
+- By Wednesday, the company walked back its claims, deleting the thread and replacing it with a new Twitter thread and blog post. You know you’ve really messed up when your company’s apology Twitter thread includes the word “phrenology.”
+- So, we deleted this awful thread which caused more confusion than anything else. TL;DR: We do not use, and we're not trying to build AI that uses physical or personal features to deny claims (phrenology/physiognomy) (1/4)
+- “The Twitter thread was poorly worded, and as you note, it alarmed people on Twitter and sparked a debate spreading falsehoods,” a spokesperson for Lemonade told Recode. “Our users aren’t treated differently based on their appearance, disability, or any other personal characteristic, and AI has not been and will not be used to auto-reject claims.”
+- The company also maintains that it doesn’t profit from denying claims and that it takes a flat fee from customer premiums and uses the rest to pay claims. Anything left over goes to charity (the company says it donated $1.13 million in 2020). But this model assumes that the customer is paying more in premiums than what they’re asking for in claims.
+- And Lemonade isn’t the only insurance company that relies on AI to power a large part of its business. Root offers car insurance with premiums based largely (but not entirely) on how safely you drive — as determined by an app that monitors your driving during a “test drive” period. But Root’s potential customers know they’re opting into this from the start.
+- So, what’s really going on here? According to Lemonade, the claim videos customers have to send are merely to let them explain their claims in their own words, and the “non-verbal cues” are facial recognition technology used to make sure one person isn’t making claims under multiple identities. Any potential fraud, the company says, is flagged for a human to review and make the decision to accept or deny the claim. AI Jim doesn’t deny claims.
+- Advocates say that’s not good enough.
+- “Facial recognition is notorious for its bias (both in how it’s used and also how bad it is at correctly identifying Black and brown faces, women, children, and gender-nonconforming people), so using it to ‘identify’ customers is just another sign of how Lemonade’s AI is biased,” George said. “What happens if a Black person is trying to file a claim and the facial recognition doesn’t think it’s the actual customer? There are plenty of examples of companies that say humans verify anything flagged by an algorithm, but in practice it’s not always the case.”
+- The blog post also didn’t address — nor did the company answer Recode’s questions about — how Lemonade’s AI and its many data points are used in other parts of the insurance process, like determining premiums or if someone is too risky to insure at all.
+- Lemonade did give some interesting insight into its AI ambitions in a 2019 blog post written by CEO and co-founder Daniel Schreiber that detailed how algorithms (which, he says, no human can “fully understand”) can remove bias. He tried to make this case by explaining how an algorithm that charged Jewish people more for fire insurance because they light candles in their homes as part of their religious practices would not actually be discriminatory, because it would be evaluating them not as a religious group, but as individuals who light a lot of candles and happen to be Jewish:
+- The fact that such a fondness for candles is unevenly distributed in the population, and more highly concentrated among Jews, means that, on average, Jews will pay more. It does not mean that people are charged more for being Jewish.
+- The upshot is that the mere fact that an algorithm charges Jews – or women, or black people – more on average does not render it unfairly discriminatory.
+- Happy Hanukkah!
+- This is what Schreiber described as a “Phase 3 algorithm,” but the post didn’t say how the algorithm would determine this candle-lighting proclivity in the first place — you can imagine how this could be problematic — or if and when Lemonade hopes to incorporate this kind of pricing. But, he said, “it’s a future we should embrace and prepare for” and one that was “largely inevitable” — assuming insurance pricing regulations change to allow companies to do it.
+- “Those who fail to embrace the precision underwriting and pricing of Phase 3 will ultimately be adversely-selected out of business,” Schreiber wrote.
+- This all assumes that customers want a future where they’re covertly analyzed across 1,600 data points they didn’t realize Lemonade’s bot, “AI Maya,” was collecting and then being assigned individualized premiums based on those data points — which remain a mystery.
+- The reaction to Lemonade’s first Twitter thread suggests that customers don’t want this future.
+- “Lemonade’s original thread was a super creepy insight into how companies are using AI to increase profits with no regard for peoples’ privacy or the bias inherent in these algorithms,” said George, from Fight for the Future. “The automatic backlash that caused Lemonade to delete the post clearly shows that people don’t like the idea of their insurance claims being assessed by artificial intelligence.”
+- But it also suggests that customers didn’t realize a version of it was happening in the first place, and that their “instant, seamless, and delightful” insurance experience was built on top of their own data — far more of it than they thought they were providing. It’s rare for a company to be so blatant about how that data can be used in its own best interests and at the customer’s expense. But rest assured that Lemonade is not the only company doing it.
+- Explanatory journalism is a public good
+- At Vox, we believe that everyone deserves access to information that helps them understand and shape the world they live in. That's why we keep our work free.   Support our mission and help keep Vox free for all by making a financial contribution to Vox today.
+- $95/year
+- $120/year
+- $250/year
+- $350/year
+- We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+- Each week, we explore unique solutions to some of the world's biggest problems.
+- Check your inbox for a welcome email.
+- Oops. Something went wrong. Please enter a valid email and try again.
+- Filed under:
+
+URL: https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/
+- AI-powered insurance unicorn Lemonade attempted damage control Wednesday and deleted a series of Tweets after the messages led social media users to question if the company’s artificial intelligence software assesses users’ physical attributes and body language to auto-deny claims submitted through user videos.
+- Lemonade asks users to submit videos alongside insurance claims.
+- Lemonade shared a Twitter thread Monday that said its AI can “pick up on non-verbal cues” when analyzing customers’ submitted videos explaining the details of their insurance claims.
+- Social media users immediately questioned whether autistic customers or people from minority backgrounds would be flagged by the AI.
+- Lemonade’s communication VP Yael Wissner-Levy told Forbes in a statement the company deleted the tweets because the messages were “very much misunderstood and incorrect information was spreading.”
+- “We deleted this awful thread which caused more confusion than anything else,” the company said in a blog post Wednesday, adding that using the phrase “non-verbal cues” was a poor choice of words.
+- The company said it doesn’t use technology that relies on disproven pseudoscience like phrenology and physiognomy (theories that purport a link between physical appearance and intelligence or character), nor does it evaluate insurance claims based on customer “background, gender, appearance, skin tone, disability, or any physical characteristic.”
+- Lemonade clarified their AI uses a facial-recognition technology to highlight claims submitted by “the same person under different identities,” such as a person wearing disguises to submit multiple claims, adding that flagged claims are later reviewed by humans and no claim is ever auto-denied based on AI.
+- Lemonade launched in 2015 and was seen as a disruptor in the insurance business, being paper-free and using artificial intelligence and chatbots to help process insurance claims. Lemonade asks customers submitting claims to include a video of them explaining their situation in their own words, partly because the company believes it could reduce fraud. “Behavioral economics research … has shown that we humans are less prone to lying when we’re looking at ourselves speaking in a mirror [or] selfie camera,” the company said in a blog post Wednesday. The insurance firm operates in the U.S., Germany, the Netherlands and France, with plans to expand. In May, the company’s first quarter earnings report revealed Lemonade saw a net loss of $49 million, partially driven by insurance claims after the record-breaking storms in Texas earlier this year. Lemonade expects to earn between $117 million and $120 million through the rest of the year. Last month, the company announced plans to enter the auto insurance market.
+- Eliza Haverstock contributed to this story.
+- First, Fire All The Brokers: How Lemonade, A Millennial-Loved Fintech Unicorn, Is Disrupting The Insurance Business (Forbes)
+- 
+
+URL: https://www.theregister.com/2021/05/26/ai_insurance_lemonade/
+
+URL: https://frankonfraud.com/fraud-trends/lemonade-under-fire-for-using-ai-to-stop-insurance-fraud/
+- Lemonade, (not the drink) but the insurance startup is under fire for bragging that they use Ai to analyze up to 1,600 data points on insurance claims made via their video app, and then denying those claims if they suspect fraud.
+- And it didn’t go very well at all. Twitter and social media erupted when Lemonade boasted about this special use of AI to root out fraud claims.
+- The company has rocketed to one of the fastest growing insurance companies by using Ai and Chatbots to process insurance claims in under 3 seconds flat.
+- The company, which offers renters, homeowners, pet insurance and life insurance appeals to millennials. They have over 1 million customers. The average age of their customers is 35. But the highly digital experience also appeals to fraudsters who like the fast and easy nature of their claims process.
+- Lemonade is unique in that policy holders can submit claims by sending in a video message describing what happened and what their claim is for. They claim that this convenience is something customers love. There are no forms to fill out, you just speak to the camera and submit the claim.
+- But the company claims that they use that video to also detect if people might be lying on their claims.
+- In a Twitter thread Monday that the company later deleted, Lemonade announced that the customer service AI chatbots it uses collect as much as 1,600 data points from a single video of a customer answering 13 questions.
+- “Our AI carefully analyzes these videos for signs of fraud. It can pick up non-verbal cues that traditional insurers can’t, since they don’t use a digital claims process,” the company said in a now-deleted tweet. The thread implied that Lemonade was able to detect whether a person was lying in their video and could thus decline insurance claims if its AI believed a person was lying.
+- But Twitter was having none of it. Ai experts claimed that “emotion recognition” is “snake oil” pseudoscience that cannot be relied upon for fraud detection. This particular expert, thanked Lemonade for giving him great content on Ai Snake Oil that he could use to show his students.
+- And many claimed that these solutions are biased and can inordinately impact certain ethnicities. Some of those comments can be seen here.
+- By Wednesday of the same week, Lemonade had the deleted the “awful” tweet and attempted to explain themselves further in a blog post. Every claim that they flag is not automatically denied, rather sent to a human fraud investigator to scrutinize further.
+- “The term non-verbal cues was a bad choice of words to describe the facial recognition technology we’re using to flag claims submitted by the same person under different identities. These flagged claims then get reviewed by our human investigators, AI is non-deterministic and has been shown to have biases across different communities. That’s why we never let AI perform deterministic actions such as rejecting claims or canceling policies.”
+- As Motherboard explains in this article, “Lemonade has still left widespread confusion about how the technology at the foundation of its business works. The post says the company uses facial recognition technology, for example, but in its privacy policy it claims that it will never collect customers’ biometric information. And how it achieves 1,600 data points from a video of a person answering 13 questions without biometric information also isn’t clear.”
+- The in depth collection of video data and analyzing it against Ai tools make it clear that Lemonade must be storing at least some biometric data in order to train models to detect patterns of fraud.
+- In fact, Lemonade posted an article about rooting out fraud in their videos that seemed to suggest that they have been doing this for awhile.
+- It would be difficult to detect this fraud without collecting biometric information from prior submitted insurance claims.
+- Facial recognition and artificial recognition is under fire after recent studies suggest that it is highly prone to racial bias. In October of 2020, Harvard University published this study which found that facial recognition algorithms performed the worst on darker-skinned females, with error rates up to 34% higher than for lighter-skinned males.
+- And Amazon recently has recognized the problem and placed an indefinite global ban on the use of their facial recognition technology – Rekognition by police and others. Some claim that the software has lead to false arrest.
+- There is plenty of room to grow for Ai in this field, and I believe that technology will catch up. But for the moment Lemonade has found themselves in hot water and may need to tread lightly.
+- I am Frank McKenna. I am a fraud fighter from San Diego California.
+- frankiefoto
+- May 25
+- frankiefoto
+- May 21
+- frankiefoto
+- Apr 15
+- frankiefoto
+- Apr 14
+- frankiefoto
+- Apr 14
+- frankiefoto
+- Apr 13
+- frankiefoto
+- Apr 12
+- frankiefoto
+- Apr 12
+- frankiefoto
+- Apr 11
+
+URL: https://www.vice.com/en/article/z3x47y/an-insurance-startup-bragged-it-uses-ai-to-detect-fraud-it-didnt-go-well
+- An AI-driven insurance company that claimed it can detect fraud by analyzing "non-verbal cues" in videos of a person speaking has removed its claims after being called out by AI experts on Twitter, raising questions about not just the dystopian aims of the company but also about the actual capabilities of its AI and what that AI is used for.
+- Lemonade is an insurance startup that lets people file claims through videos submitted on an app. In a Twitter thread Monday that the company later deleted and called “awful,” Lemonade announced that the customer service AI chatbots it uses collect as much as 1,600 data points from a single video of a customer answering 13 questions. “Our AI carefully analyzes these videos for signs of fraud. It can pick up non-verbal cues that traditional insurers can't, since they don’t use a digital claims process,” the company said in a now-deleted tweet. The thread implied that Lemonade was able to detect whether a person was lying in their video and could thus decline insurance claims if its AI believed a person was lying.
+- AI experts on Twitter immediately mocked and contested the claim, pointing out that the entire premise of so-called "emotion recognition" systems, which claim to detect a person's mood or mental state, is highly suspect. They also raised the well-established point that these systems are inherently biased.
+- “These kinds of physiognomic systems don’t work period. It’s increasingly embarrassing [for companies] to talk about them … and yet somehow they keep bubbling up,” Luke Stark, a professor at Western University who studies physiognomic AI, told Motherboard. “There always seems to be the temptation to brag that you’re doing some new fancy thing, as this company did in their tweets.”
+- A screenshot from Lemonade's deleted Twitter thread.
+- On Wednesday, Lemonade deleted the Twitter thread, saying that it "caused more confusion than anything else." It also claimed that the company doesn't approve or reject insurance claims based solely on AI analysis: "We do not use, and we're not trying to build AI that uses physical or personal features to deny claims (phrenology/physiognomy)."
+- "The term non-verbal cues was a bad choice of words to describe the facial recognition technology we’re using to flag claims submitted by the same person under different identities. These flagged claims then get reviewed by our human investigators," the company wrote in a blog post after deleting its tweets. "AI is non-deterministic and has been shown to have biases across different communities. That’s why we never let AI perform deterministic actions such as rejecting claims or canceling policies."
+- In attempting to clarify the situation, Lemonade has still left widespread confusion about how the technology at the foundation of its business works. The post says the company uses facial recognition technology, for example, but in its privacy policy it claims that it will never collect customers’ biometric information. And how it achieves 1,600 data points from a video of a person answering 13 questions without biometric information also isn’t clear.
+- Lemonade did not immediately respond to questions from Motherboard about its process. It is worth noting that many so-called "artificial intelligence" startups actually rely on human labor behind the scenes. Many hope that human workers can train artificial intelligence systems that will ultimately replace them. It is not clear to what extent actual AI is involved in Lemonade's process at all; the blog post says AI "flags" certain claims which are then reviewed by a "human investigator."
+- When Lemonade went public in 2020, it did so with the promise of being a classic artificial intelligence-backed industry disrupter, but with a twist—it would be a public benefit corporation, or B Corp, with a dual mission of creating profit and social good.
+- But AI experts question how a commitment to social good can include using machine learning systems that the company itself admits are prone to bias and discrimination.
+- In its S-1 form filed with the U.S. Securities and Exchange Commission prior to the company going public—and in forms since—the company states that its proprietary AI algorithms are at the core of its business and that it could not function without them, but that they could also lead to profit loss should regulators ever crack down on their weaknesses.
+- “Our proprietary artificial intelligence algorithms may not operate properly or as we expect them to, which could cause us to write policies we should not write, price those policies inappropriately or overpay claims that are made by our customers,” the company wrote in the filing. “Moreover, our proprietary artificial intelligence algorithms may lead to unintentional bias and discrimination.”
+- At the same time, Lemonade claims that it can “vanquish bias” by using “algorithms we can’t understand.”
+- As Motherboard has previously reported, experts say the process of using AI to determine which non-verbal cues—such as eye movements, twitches, or even pauses in speech—are evidence of fraud or trustworthiness is far from a perfect science.
+- Research has shown that expressions of common emotions, or what behavior is most often associated with trustworthiness, varies not just between cultures and different people, but even between how a single person acts at different times and in different situations.
+- Chris Gilliard, a professor of English at Macomb Community College who has studied tech-based discrimination, says the usage of behavior-detection algorithms can be especially harmful in the insurance industry, where racial bias is already rampant.
+- "They are taking something that already has a long history of racism and discrimination—insurance—and increasing the likelihood that it will be even more discriminatory, given the well established research on how these kinds of systems often (mis)read Black people, disabled people, and trans and non-binary people," Gilliard told Motherboard.
+- He added that these algorithmic systems can cause harm regardless of whether or not they make the final determination, because human intermediaries tend to take their assessments as fact.
+- "I think part of the problem is that the tech claims to universalize something that is not universal, and in doing so assigns a designation based on the values of the people who designed the system—and then those values get hard coded into the system regardless of whether they make sense to/for the people being measured," said Gilliard.
+- "In short—if a computer says someone is lying, cheating, or guilty, people will tend to believe the system whether or not it’s accurate."
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+- inputmag.com/culture/lemonade-swears-it-totally-isnt-using-ai-for-phrenology
+URL: https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751
+- Less than a day after Lemonade tweeted about its facial recognition-powered fraud-detection systems, the insurance startup has fully backtracked. On Wednesday, the company put out a formal apology about what it’s saying were “poorly worded” claims, and took down what it’s now calling an “awful thread.”
+- For those that have never filed a claim using Lemonade before, the entire process is seemingly tailor-made for people who hate filling out forms. Instead, the company largely relies on an AI chatbot (named “Jim”) that walks you through a basic questionnaire before asking you to flip on your camera so that same chatbot can analyze your face for signs of potential fraud—and potentially decline your claim as a result.
+- In the now-deleted tweet thread, Lemonade bragged that the company picks up on more than 1,000 “non-verbal” cues that “traditional insurers” might not be able to pick up on, fully steamrolling over the obvious dystopian implications that come with this sort of tech. Thankfully, experts in the tech ethics community were quick to call the company out.
+- “Imagine that you’re an autistic person whose home just burned down. You’ve just gone through the most stressful event of your life—and now you have to worry about policing your own speech patterns so your insurance company doesn’t flag your claim as fraud,” said one follower. Others pointed out that this system was almost tailor-made to flag people who might be in a state of shock following, say, a house fire, or after having their car stolen.
+- There’s also the fact that facial recognition systems like the one touted out by Lemonade have—by and large—failed people of color. There’s a crushing amount of evidence detailing how the facial recognition tech that’s used in housing applications, airport security, and the entire criminal justice system inadvertently misclassify non-white faces. Naturally, Lemonade’s followers were sure to mention that as well.
+- The full apology that Lemonade posted on its site doesn’t address any of those issues, beyond saying that the company doesn’t use facial-recognition tech based on outdated concepts like “phrenology or physiognomy.”
+- The company went on to add that it “never, and will never” let its AI systems auto-reject claims. This statement is a pretty significant step back from what Lemonade was telling the SEC when it went public less than a year ago. If you comb through those documents, Lemonade lays out that in “approximately a third” of the claim cases its platform handles, their Jim chatbot carries the entire process “without any human involvement.”
+- When contacted about whether Jim had ever inadvertently auto-declined an applicant, a Lemonade spokesperson assured Gizmodo that wasn’t the case.
+- “We get the apparent contradiction [between what was said in the blog and what’s written in the SEC disclosures],” the spokesperson said. “In these sorts of documents and our marketing materials, we’ll use terms like ‘AI’ or ‘automation’ to cover more broad concepts.”
+- The spokesperson went on to explain that in cases where there’s “true claims”—i.e., a claim that fully falls within someone’s actual policy—then there’s always a human on the other end of the line, reviewing that application.
+- But when it came to claims of ableism, racial bias, or the other ills caused by facial recognition software, the company had nothing to add.
+
+URL: https://www.zdnet.com/article/lemonade-insurance-faces-backlash-for-claiming-ai-system-could-automatically-deny-claims/
+- Most Popular
+- Lemonade Insurance sparked outrage this week when it took to Twitter to boast about how its AI system was able to boost profits by automatically denying claims based on analyzing videos submitted by customers.
+- In a lengthy thread on Twitter Monday afternoon, the company lauded itself for how its AI was able to detect fraud.
+- "When a user files a claim, they record a video on their phone and explain what happened. Our AI carefully analyzes these videos for signs of fraud. It can pick up non-verbal cues that traditional insurers can't, since they don't use a digital claims process," the company wrote.
+- "This ultimately helps us lower our loss ratios (aka how much we pay out in claims vs. how much we take in) and our overall operating costs. In Q1 2017, our loss ratio was 368% (friggin' terrible), and in Q1 2021 it stood at 71%," the company added in the now-deleted thread.
+- These tweets caused immediate backlash from members of the disabled community who questioned how an AI system would be able to determine fraud based on videos, while others questioned the legality of touting a system that helped save the company money by denying more claims outright.
+- Realizing their mistake, Lemonade deleted the thread and released an apology, claiming it caused "confusion."
+- Despite what they initially wrote, the company said it does "not use, and [is] not trying to build, AI that uses physical or personal features to deny claims (phrenology/physiognomy)."
+- "We never let AI auto-decline claims. Our systems don't evaluate claims based on background, gender, appearance, skin tone, disability, or any physical characteristic (nor do we evaluate any of these by proxy)."
+- Yet in a blog post the company confirmed that it does use controversial facial recognition technology to flag some claims and said it "may reduce fraud" because people are "less prone to lying" when looking at themselves.
+- The blog did little to quell criticism about Lemonade's business tactics among experts who have repeatedly bashed companies for promoting any use of AI that purports to understand people's "true" emotional state.
+- Jon Callas, director of technology projects at the Electronic Frontier Foundation, called Lemonade's claims about its AI "flat-out pseudoscience" and "essentially phrenology."
+- "They would be better off using a magic 8-ball because at least the 8-ball doesn't discriminate," Callas said.
+- Callas added that many companies are now bringing in millions from investors based on faulty claims about AI's ability to read people's faces, and he referenced a recent controversy around test proctoring software that was proven to discriminate against students of color.
+- SEC documents show that Lemonade has long touted itself by marketing how they use AI in the insurance claims process. In the SEC filings, the company said that the "bot platform is built to understand and instantly resolve customer requests without human intervention." It added that "about a third of all customer inquiries are handled this way."
+- There are also concerns that other insurance companies are adopting some of the tactics Lemonade was being criticized for, and Callas expected regulators to look into Lemonade's claims now that there is controversy around them.
+- "There are things that AI can do very well, but it is utterly worthless at the things Lemonade was claiming they could do," Callas said, adding that systems like these often carry the biases of their creators and typically fail because of testing pools lacking in women and people of color.
+- Many experts said that it was absurd to expect an AI system to detect the emotional or mental state of someone going through a traumatic experience like a car accident or home break-in.
+- Navin Thadani, CEO of digital accessibility company Evinced, said that AI is baked into almost every digital service today, but with virtually no independent oversight, companies use AI software to make decisions without having to answer for how they're ensuring that programs aren't encoded, consciously or unconsciously, with structural biases.
+- "AI is meant to do things better, faster, more efficiently, with fewer errors than human interaction, but what it's lacking is human judgement, understanding, and consideration for factors beyond what it is programmed to evaluate," he said.
+- "The problem needs to be addressed directly, and as we've seen, those who are not compliant will face scrutiny and potentially lawsuits. Everyone, including differently-abled people, should be able to have confidence in their provider."
+- Other experts, like lawyer and Aleada partner Elena Elkina, said it was now common for insurance companies to use AI to automate manual tasks through things like chatbots to handle everything from document processing to fraud detection and more, all as a way to "improve customer experience" and eliminate errors.
+- Claim processing involves a number of manual tasks that AI can help handle, Elkina said, but she noted that any potential insurance claim denials should require human review.
+- "That said, I can see how in the future AI may change this process by creating the AI human-like reasoning process. AI algorithms can be biased and discriminating -- we've seen this in practice in the past," Elkina told ZDNet.
+- "We build AI machines, and we humans have biases -- conscious or unconscious. It is scary that we think that AI algorithms are safe and trust them to help us solve biases or unethical issues."
+- Activists have long fought against the use of AI in certain industries and processes, arguing that AI's implicit biases make it unsuitable for many tasks, especially those involving human emotion.
+- Caitlin Seeley George, campaign director for Fight for the Future, said the automatic backlash that caused Lemonade to delete the post clearly shows that people don't like the idea of their insurance claims being assessed by artificial intelligence.
+- George went on to call the Twitter thread by Lemonade "incredibly callous," noting how strange it was that the insurance company was touting its financial success by showing it was not paying out claims to people, some of whom were probably in the midst of the worst days of their lives.
+- "Lemonade's original thread was a super creepy insight into how companies are using AI to increase profits with no regard for peoples' privacy or the bias inherent in these algorithms. AI that analyzes 'non-verbal cues' is known for being racist and ableist, as it makes judgments of peoples' faces, eye and body movements, and backgrounds based on some 'baseline' of 'normal' or 'appropriate,'" she said.
+- "We've seen how similar AI, like that used in e-proctoring apps, discriminates against Black and brown people and differently-abled people. Most of these algorithms exist in a black box, and were created by white men, so I question if Lemonade can actually say with confidence that their algorithm doesn't make decisions that are influenced by peoples' skin color, ability, or other physical characteristics."
+- The increasing scale of AI is raising the stakes for major ethical questions.
+
+- Upstart consumer lending racial discrimination
+- US mortgage approvals algorithm racial discrimination
+- Page infoType: IncidentPublished:  April 2022Last updated: October 2022

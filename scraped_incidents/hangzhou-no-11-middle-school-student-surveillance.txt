@@ -1,0 +1,325 @@
+- Hangzhou No. 11 Middle School student surveillance
+- Occurred: May 2018
+- Can you improve this page?Share your insights with us
+- Hangzhou No. 11 Middle School has installed a 'smart classroom behaviour management system', which captures students’ expressions and movements and analyses them to make sure they are paying attention.
+- Jointly developed by Hikvision and the school, the system's 'wisdom eyes' scan students’ faces every 30 seconds to identify seven types of emotions and six types of behaviour, with students receiving a real-time attentiveness score. Teacher display screens issue notifications about which students were inattentive twenty minutes into each class.
+- The action resulted in debate on the value and effectiveness on the system, and others like it. It also triggered a backlash from students, parents and privacy advocates, leading to programme being stalled.
+- The Hangzhou school vice principal said that after a month-long trial, students had begun to accept the monitoring and had improved their behaviour.
+- Hikvision is a state-owned manufacturer and supplier of video surveillance products that has been linked to the surveillance of Uyghurs and other ethnic minorities in China, and under sanctions from the US and EU.
+- Operator: Hangzhou No. 11 Middle School Developer: China Electronics Technology Group/Hikvision
+- Country: China
+- Sector: Education
+- Purpose: Assess student attentiveness
+- Technology: Facial recognition; Emotion recognition; Deep learning; Neural network; Machine learning Issue: Accuracy/reliability; Bias/discrimination - gender, ethnicity; Surveillance; Privacy; Security
+- Transparency: Governance; Marketing; Privacy
+- Hikvision website
+- Hikvision Wikipedia profile
+- Article 19 (2021). Emotional Entanglement: China’s emotion recognition market and its implications for human rights (pdf)
+- IPVM (2018). The Hikvision Smart Classroom Behavior Management System
+URL: https://hznews.hangzhou.com.cn/kejiao/content/2018-05/17/content_7003432.htm
+- 最近，杭州第十一中学部分教室里多了一双“慧眼”。它“长”在教室黑板的上方，同学们和老师的一举一动都被它看的一清二楚。一天里你有多少时间是在专注听课？不专注时你在做什么？学生们最喜欢哪些老师的课？通过大数据，这些答案都不再神秘。
+- 5月15日，在杭十一中承办的“未来智慧校园的探索与实践”研讨活动中，记者见到了这双神奇的“慧眼”。它是由该校联合海康威视研发的全国首个智慧课堂行为管理系统。我们所说的“慧眼”就是它的3个组合摄像头。通过摄像头捕捉同学们的面部表情和动作，这套系统可以实现无感刷脸考勤；可以对课堂上学生的行为、表情等进行统计分析，并对异常行为及时反馈。
+- 记者在教室里做了个实验：当老师喊“上课起立”时，教室里那双“慧眼”，就会将学生们的脸“刷”遍，几秒钟完成点名。随后老师让同学作出听课、开小差的不同状态和不同表情。在统计数据的大屏幕上，很快显示了认真听课和开小差同学的数量。在全校表情数据一栏，会记录中性、高兴、难过、反感、惊讶等7种情绪的出现数量。如果有学生的不专注行为达到一定值，系统就会向显示屏上推送提醒，任课老师可以根据这个提醒对学生进行教育管理。系统还可以将学生课堂行为和教师的教学情况进行匹配，用课堂行为数据反过来指导老师的教学行为。
+- “自从教室装了慧眼，上课都不敢开小差了。”高一（3）班的汪同学说。“大班授课制下课堂管理以往都是凭感觉，不太精准。如今借助这套管理系统，就相当于老师多了一个助教，可以提高教育的针对性和课堂教学效果。”校长倪子元说，刚开始试验时，还有人提出过疑问，担心这套系统涉及学生的隐私。但其实，这个系统只采集学生的行为状态信息，不会进行课堂录像。例如，认真听课的为A，趴下睡觉的是B，系统只是统计这些符号信息。今年暑假，这套系统就会在杭十一中所有班级完成安装。
+- 
+- 
+
+URL: https://www.sixthtone.com/news/1003759/camera-above-the-classroom
+- Subscribe to our newsletter
+- FOLLOW US
+- BEIJING — Jason Todd first discovered his school’s secret on the internet.
+- It was late September 2018, less than a month after high school had started. Jason was idly scrolling through his news feed on the Chinese microblogging site Weibo when he saw a trending hashtag — #ThankGodIGraduatedAlready — and clicked it.
+- Under the hashtag, someone had posted a photo depicting a bird’s-eye view of a classroom. Around 30 students sat at their desks, facing the blackboard. Their backpacks lay discarded at their feet. It looked like a typical Chinese classroom.
+- Except for the colored rectangles superimposed on each student’s face. “ID: 000010, State 1: Focused,” read a line of text in a green rectangle around the face of a student looking directly at the blackboard. “ID: 000015, State 5: Distracted,” read the text in a red rectangle — this student had buried his head in his desk drawer. A blue rectangle hovered around a girl standing behind her desk. The text read: “ID: 00001, State 3: Answering Questions.”
+- Jason thought the photo was a scene from a sci-fi movie — until he noticed the blue school badges embroidered on the chest of the familiar white polos worn by the students. It was exactly the same as the one he was wearing.
+- “F**k, no,” he thought.
+- 
+- Jason is a 16-year-old student at Niulanshan First Secondary School in Beijing. He wears a pair of black-framed glasses and likes to read DC comics so much that he chose to use the name of one of his favorite characters for the sake of anonymity. If he hadn’t seen that image online, he wouldn’t have questioned the presence of the tiny white surveillance camera installed above his classroom’s blackboard. After all, Niulanshan never informed him — or any of its 3,300 other students — that facial recognition cameras were capturing their every move in class. In fact, it’s unlikely that the combined 28,000 students in the six other schools testing the same system know they are part of China’s grand artificial intelligence (AI) experiment.
+- In July 2017, China’s highest governmental body, the State Council, released an ambitious policy initiative called the Next Generation Artificial Intelligence Development Plan (NGAIDP).
+- The 20,000-word blueprint outlines China’s strategy to become the leading AI power in both research and deployment by 2030 by building a domestic AI industry worth nearly $150 billion. It advocates incorporating AI in virtually all aspects of life, including medicine, law, transportation, environmental protection, and what it calls “intelligent education.”
+- Following the NGAIDP’s release, Chinese tech companies have rushed to secure government support and investor funding for various AI projects, several of which are being tested in Chinese schools. Over the past two months, I interviewed a dozen students in schools that have installed different “intelligent education” systems and spoke to tech entrepreneurs whose companies are developing the systems used in those schools.
+- While advocates claim that using facial recognition to monitor students’ in-class behavior can accurately assess attention levels and help them learn more efficiently, most students I spoke with had a different opinion. They showed concern that the school never asked for their consent before harvesting their facial data. One student expressed anxiety at the idea that the times he was caught slacking off in class would eventually be used to determine his chances of attending his dream university. Other students disconnected the cameras at their school before final exams in protest.
+- In addition, teachers and experts question the extent to which facial recognition systems can improve student performance. Experts say there are many technological, legal, and moral barriers to overcome before facial recognition can be widely deployed in Chinese education. But the government’s AI push is already introducing this technology before settling such debates, leading experts to agree that regulations on the technology urgently need to catch up.
+- “Class Care System”
+- n the upper left corner of that photo Jason found on Weibo, you can just make out the words “CCS Class Care System.” CCS is one of the flagship products of Hanwang Education, a subsidiary of Hanwang Technology. Hanwang is a household name for China’s younger generation. Growing up, they watched catchy commercials for the company’s text-to-speech reading pen on television. Today, Hanwang builds hardware and software products that provide facial and biometric recognition services and optical character recognition, as well as air quality monitors and purifiers. Hanwang Education was founded in 2014 as part of an initiative to expand the company’s market into China’s education sector.
+- At the research center, which occupies a nondescript, three-story house in a residential estate in northwestern Beijing, Hanwang Education General Manager Zhang Haopeng rushes downstairs to greet me. He’s a busy man, currently helming the deployment of CCS in partner schools across the country. Fortunately, he’s managed to find time for an interview.
+- If transitioning from text-to-speech pens to facial recognition technology seems like something of a quantum leap, it’s really not, Zhang explains. Recognizing a student’s facial expression and reading out handwritten notes are variants of the same thing: pattern recognition. To the machines, faces and handwriting are just data, and identifying them is all about spotting patterns. Since 2015, Hanwang Technology has also been using deep learning, a type of AI that mimics the brain’s analytical models, to buttress its existing technology. “Hanwang is at the forefront of pattern recognition,” Zhang says proudly.
+- 
+- At first, Hanwang struggled to monetize its cutting-edge facial recognition products, which it only used for commercial purposes, such as face scanners that log employee work hours or smart billboards that tailor their advertisements to audience gender. Zhang tried unsuccessfully to push Hanwang into the education sector, marketing interactive whiteboards and an “e-schoolbag” tablet that acted as a multipurpose textbook. But once China announced the NGAIDP in 2017, Hanwang finally found its niche: education analysis.
+- The plan’s “intelligent education” section describes in detail how China’s government hopes to use AI to boost the country’s education system. Zhang reads me one paragraph from the guidelines without stammering. “So detailed. It’s like they wrote it with a [facial recognition] product right in front of them,” he says.
+- Zhang, who keeps a framed photo of his smiling children on his desk, says that parents in China are yearning for more information about their children’s school performance. It’s a country where test scores can make or break an individual’s future. Visit any Chinese primary school at the end of the day, he says, and you’ll see parents bombarding teachers with questions. “Did my son fall asleep during English class again?” he says, mimicking the questions parents might ask. “Did my daughter and her deskmate talk too much during class? Should we separate them?”
+- Zhang says that for most Chinese parents, school is the only time they let their kids out of their sight. “Parents worry when their children aren’t around. They want to take care of every aspect of their lives,” he tells me. “But the teacher only has one pair of eyes.”
+- 
+- “Do you know the two types of students teachers pay the most attention to?” Zhang asks. “The smartest and the naughtiest.” Hanwang’s CCS technology was born from the desire to care for every kid in the classroom, even the “often-ignored, average students,” he adds.
+- Zhang shows me one of Hanwang’s CCS cameras. It’s the size of a mandarin orange, but it can recognize all 50 students in a classroom. “Just five years ago, this kind of technology was unimaginable,” he says, explaining how the camera homes in on students’ unique facial features to identify each individual — and in a much less obtrusive way than a fingerprint or iris scanner. “We can identify a person’s face from just one picture, even when the frame size is as low as 640 x 480 pixels,” Zhang says.
+- Even though CCS hasn’t received official approval from China’s Ministry of Education yet, it’s already been implemented as a pilot project in seven schools around the country since its launch in December 2017. In these schools, a white, dome-shaped camera is installed above the blackboard at the front of each classroom. Once per second, it takes a photo of the entire class and sends the footage to a server where Hanwang’s deep-learning algorithms identify each student’s face and classify their behavior into five categories: listening, answering questions, writing, interacting with other students, or sleeping. The algorithms then analyze each student’s behavioral data and give them a weekly score, which is accessible through a mobile app.
+- Zhang takes out his phone and logs into a user account on CCS’s mobile app. The account belongs to a teacher at Chifeng No. 4 Middle School in the city of Chifeng in northern China’s Inner Mongolia Autonomous Region. The interface allows teachers to view scores for every student in class. A green down arrow appears next to the student’s score when it decreases, and a red up arrow when it increases. A bar graph shows how many minutes the student spent concentrating, sleeping, or talking in class.
+- 
+- “The parents can see it, too,” Zhang says, tapping on a student’s name. “For example, this student’s report shows that he rarely volunteers to answer the teacher’s questions in class. So his participation in English class is marked as low. Number of questions answered: one,” Zhang reads from the AI-generated report. “This week, the student spent 94.08 percent of class time focusing. His grade average is 84.64 percent. He spent 4.65 percent of the time writing, which was 10.57 percent lower than the grade average.”
+- “What’s your takeaway from the report?” Zhang asks, before once again answering his own question. “This student doesn’t like to answer questions in English class, so maybe his parents and teacher should do something.”
+- On the app, teachers and parents are also able to see up-to-date photos of the classroom and check students’ behavior, just like in that photo with the colorful rectangles. Zhang plans to expand CCS to 100 schools around the country by the end of 2019 and, eventually, he wants to create a nationwide platform for all schools.
+- “Now do you understand the ‘care’ part of our product name? Not a single student is missed,” Zhang says, smiling.
+- He leads me to a tiny room where two dusty CCS servers sit under a desk. One, which costs 60,000 yuan ($8,900), can analyze facial recognition data from five to six classrooms simultaneously. The other can monitor 20 classrooms and costs 150,000 yuan. Wiring a single classroom costs around 30,000 yuan. Zhang won’t tell me how much it costs per school, but if the high school I went to installed CCS in its 36 classrooms, it would cost at least 1.38 million yuan.
+- But so far, none of the schools using CCS have paid the staggering price. The government has offered financial incentives to local education bureaus to encourage them to use big data and AI — incentives that cover the installation costs. “[Local education bureaus] couldn’t be happier to implement the [AI development] policy,” Zhang tells me.
+- But if the social media reaction to CCS is anything to go by, the technology isn’t convincing everyone. I ask Zhang about the fearful messages posted under last year's leaked photo of the children at Jason Todd’s school. “People are overreacting,” Zhang says with a slight smile. “CCS doesn’t violate the students’ privacy. We don’t share the reports with third parties, and you see that on the in-class pictures we send to the parents, all the faces other than their child’s are blurred out.”
+- Before I leave, I ask Zhang one final question: “Do the students know?”
+- “Of course. You can’t use it without their consent,” he replies.
+- “What do they think of it?”
+- “They hate it.”
+- Zhang told me that at Chifeng No. 4, students unplugged the cameras before the day of their final exams. The cameras captured everything until the last moment.
+- 
+- #ThankGodIGraduatedAlready
+- wo hours away from Hanwang’s research center, I peep through the backdoor window of Jason Todd’s biology class. Most of the 30-odd 15- and 16-year-old students are listening carefully, taking notes from time to time. Some gaze out the window. Three nap with their heads buried behind stacks of books.
+- For the most part, it’s a run-of-the-mill classroom. The huge blackboard at the back of the room is decorated with drawings of red lanterns, snowmen, and fireworks to celebrate the coming Lunar New Year. Motivational quotes from Isaac Newton and Albert Einstein hang on the walls. However, there are three cameras installed in the classroom, including a small white one right above the blackboard.
+- Once the students notice me, a murmur of noise starts to build in the classroom. “Pay attention!” the teacher says, knocking on the blackboard. But nothing stops a classroom of curious teenagers, and it remains noisy until the bell rings for recess.
+- Before the students have a chance to leave, another teacher enters the classroom and announces: “Those of you who didn’t do the face sampling last time, go to the music room right now. Hurry.” The students empty out.
+- 
+- A group of six boys who completed the process stay in the classroom, handing out homework as their classmates leave. None of them, other than Jason, know what the face sampling was for — the teacher didn’t tell them. I ask what the cameras in the classroom are for. “To see if we are behaving well in class?” one tells me, although he says he isn’t sure. The students say the cameras have been there since they started school in September.
+- Since discovering that photo on Weibo, Jason’s been observing the cameras installed in the classroom, trying to guess their functions. The smaller one at the front is used for facial recognition, he deduces from the picture on Weibo. The bigger one at the back of the classroom is used for livestreaming, judging from the angle of the video he previously spotted on his teacher’s laptop. He’s not sure about the third camera on the window side of the classroom, though he thinks it’s a backup.
+- Jason’s teacher, Guo Yuzhuo, a short-haired woman with a calm voice and over 20 years of teaching experience, confirms his speculations. The two other cameras, besides the one used for Hanwang’s CCS, were installed by the school itself. The teachers use the camera in the back to check the class in real time, without having to peep through the backdoor window and interrupt the students. Guo says they tend to notice right away that teachers are watching, as I’ve experienced.
+- According to Guo, the teachers use Hanwang’s CCS occasionally to check for any abnormal statistics in the AI-generated weekly reports, but so far, the school hasn’t told the students about the system. She says the school will eventually inform the parents “when it’s time to do so,” explaining that they want to avoid possible obstructions from reluctant students and parents. Guo’s answer contrasts with Hanwang Education manager Zhang’s reassurances that the system wouldn’t be used without students’ consent. Dong Wencheng, a Hanwang Education technician responsible for installing CCS in Beijing, says it’s the school’s job to inform the students, not Hanwang’s. “We suggest the schools ask for the students’ consent before using CCS,” he says, “but it’s just our suggestion. If they don’t, there’s nothing we can do.”
+- 
+- Back in the classroom, my questions about the cameras evoke curiosity among the boys. Jason tells them everything he knows. There is a gasp, followed by silence. “I want to smash it,” one boy says. “Shhh!” Another boy shakes a warning glance at Hanwang’s camera behind us. “What if the camera just captured everything?”
+- The rest of Jason’s classmates are still unaware they are being watched by Hanwang’s CCS camera. But some 1,400 kilometers away at Hangzhou No. 11 Middle School in eastern China’s Zhejiang province, the students know exactly what the cameras in their classrooms are capable of.
+- Hangzhou No. 11 uses the “smart classroom behavioral management system” developed by Hangzhou-based Hikvision, the world’s largest manufacturer of video surveillance equipment. Like CCS, Hikvision’s facial recognition technology also monitors students using cameras installed above each classroom’s blackboard. In addition to in-class behaviors, which are divided into six categories — reading, writing, listening, standing up, raising hands, and lying on the desk — Hikvision also identifies seven different facial expressions: neutral, happy, sad, disappointed, angry, scared, and surprised. The data is used to generate a student’s score, which is displayed on a screen installed on the wall of each classroom. Each class’s overall attention level also displays on a huge screen in the hallway for the whole school to compare and rank.
+- Hangzhou No. 11’s facial recognition system made domestic and foreign headlines last May. Unsurprisingly, the program was met with criticism, but the school’s principal, Ni Ziyuan, said he believed the system would boost educational standards. “It’s the same as teachers having an assistant,” he said in an interview. Unlike a teaching assistant, facial recognition cameras don’t interrupt the class, and capture the most natural status of the students, he claimed. The school’s vice president, Zhang Guanchao, also said in later interviews that the system has had positive effects since its implementation.
+- However, the students feel differently about the system. One anonymous Hangzhou No. 11 student I found on the internet tells me she felt shocked and scared when the teacher demonstrated the system in front of the whole class. “The camera can magnify 25 times of what it captures,” she says, adding: “It can see not only your face, but the characters on your notebook. After all, it’s from Hikvision.” Another student tells me his classmates were totally “crushed” after the installation of the system. Because the system gives students a public score, he and his classmates don’t dare nap or even yawn in class for fear of being penalized, an incentive that doesn’t necessarily increase focus on learning. In fact, the students spend their time focusing on staying awake until class ends. “Nobody leaves the classroom during the class break,” he says. “We all collapse on the desks, sleeping.”
+- 
+- Online, China’s “intelligent education” systems have faced critical scrutiny. Under the #ThankGodIGraduatedAlready hashtag, which has over 23 million views, Weibo users have compared Hanwang’s CCS to George Orwell’s dystopian sci-fi novel “1984.” In a forum discussing Hangzhou No. 11’s system on Zhihu, China’s Quora-like online platform, the comments are uniformly critical. “The smiling face you see on a monkey in a circus is not a smile of joy, it’s a grimace of fear,” one user wrote. “Can you manage to focus in class when you know there’s someone standing behind the classroom? Let alone knowing there’s a camera.” And when students from other schools asked why their teachers started collecting facial data, someone responded: “The whole country is advocating ‘intelligent education.’ It’s probably your principal who wants to add glory to his career accomplishments.”
+- When I ask to visit Hangzhou No. 11, Vice President Zhang Guanchao declines my request but insists the facial recognition system is a good thing, assuring me over the phone that the system doesn’t violate students’ privacy, since it only records facial data rather than displaying the students’ faces. In addition, he sends me a promotional video set to lively background music, featuring a student in the school’s uniform break dancing around the campus, scanning his face to pay for food at the canteen, borrow books from the library, and buy water from a vending machine. It turns out that the “smart classroom behavioral management system” is just one part of Hangzhou No. 11’s “five-star smart campus initiative,” which implements facial recognition technology throughout the school’s campus.
+- 
+- Back at Niulanshan, the students who went in for face sampling are still not finished. I head to the music classroom, where I find the seats rearranged so that only 16 are in the center of the classroom. Four A4 pieces of paper with the numbers 1 to 4 on them are stuck to different points on the blackboard. Hanwang’s Dong Wencheng tells the students to look at each number for 15 seconds, switch seats, and do it all again.
+- The students were updating their facial data, Dong explains. When they move their heads to look at the numbers, CCS’s camera is able to capture their face from different angles. Schools normally capture the students’ facial data at the beginning of the semester and update it every couple of months. “These teenagers look different every two months. Puberty, you know!” Dong laughs.
+- I ask him about the facial recognition system used at Hangzhou No. 11. “I don’t know if you’ve seen Hikvision’s product,” Dong says about his company’s competitor, “but I am not impressed by it. They only scan the classroom every 30 seconds, 80 times in a 40-minute class. We do it once a second, 2,400 times in total!”
+- Jason’s teacher, Guo, tells me she’s quite impressed by CCS so far, although the teachers don’t use it that often. “It’s good, but it’s machines, not humans,” she says, adding that there are some features that need to be more “intelligent” — the reports are mostly numbers, but the teachers want to know more about what these numbers mean and reflect.
+- Niulanshan’s principal, Wang Peidong, who has over 40 years of teaching experience, is also dismissive of CCS. “It’s not very useful,” he says. “You think a teacher standing on a podium needs AI to tell her if a student is sleeping in class?”
+- “Then why is it still used in your classrooms?” I ask.
+- “Zhang Haopeng is an alumnus of our school. He wants to do experiments here, so we let him. We don’t need to pay for it anyway,” he says, already walking away to get to his next meeting.
+- 
+- A Booming Business
+- n May 27, 2017, AlphaGo, AI developed by Google’s DeepMind, defeated Chinese Go player Ke Jie — the best human Go player in the world. Chinese-American entrepreneur Kai-Fu Lee refers to this as China’s “Sputnik moment.” Indeed, China’s best player losing an ancient Chinese chess game to AI developed by a Silicon Valley tech company later became the catalyst for the country’s drive to close the gap on AI technology.
+- Less than two months after Ke Jie lost to AlphaGo, the Chinese central government issued its ambitious development plan to improve the country’s AI capabilities. By the end of 2017, China’s venture capital investors had responded to that call, pouring record sums into AI startups in all sectors, including education, health care, and finance. In total, Chinese capital made up 48 percent of all global AI venture funding for 2017, surpassing the United States for the first time.
+- According to Wang Shengjin, a professor at Tsinghua University’s Department of Electronic Engineering, facial recognition is currently the technology’s most feasible and mature application, based on a greater potential for widespread use. This is due to the technology’s ability to utilize deep learning, which has turbocharged the pattern recognition capabilities of machines.
+- As mentioned above, CCS uses deep-learning algorithms to analyze the identifying patterns of a person’s face. Wang tells me that, traditionally, this is done with the facial feature detection method called Eigenface, which can be unreliable and significantly limited to facial angles, distances, and resolution. “If you laugh or cry, the distances and shapes of your facial features change completely,” Wang says. But by utilizing deep learning, systems like CCS avoid these limitations. Professor Wang explains that this method essentially studies a multitude of different, labeled images and learns to identify a specific subject under all possible conditions.
+- It’s a complex process, but one thing is clear: Training machines to identify a person’s face with deep-learning methods requires massive amounts of data. Wang tells me that Silicon Valley-based tech companies and research institutes are still in the lead when it comes to advanced AI academic research. But China has one advantage: massive amounts of data. According to The New York Times, China had around 200 million public surveillance cameras as of July 2018; the country is expected to install 626 million by 2020. Not all of these surveillance cameras have facial recognition capabilities, but the images they gather could provide huge amounts of data to train deep learning-powered facial recognition tools like CCS.
+- 
+- The utilization of deep learning algorithms allows for three broad types of facial recognition: 1:1, 1:N, and M:N. The 1:1 type is often used at transportation hubs to verify that a person matches their ID photo, for example. 1:N is used to identify one person from a group of people, like when clocking in at the office. And M:N, the most complex of the three methods, is used to identify multiple people within a larger group, such as spotting criminals on the streets.
+- These methods create various market opportunities for facial recognition, the most obvious being policing and public safety. For example, in one instance, police used AI-based technology to identify and arrest 25 criminals at a beer festival in Qingdao, a city in eastern China’s Shandong province. However, many companies are also adapting this technology for commercial use, such as KFC and search engine giant Baidu, who have collaborated to develop facial recognition technology that can customize food orders by identifying a customer’s age, gender, and mood.
+- Last December, I visited a facial recognition tech company called Ovopark based in Suzhou, a canal city in eastern China’s Jiangsu province. Ovopark recently partnered with Meituan — China’s answer to Yelp — to help brick-and-mortar businesses install facial recognition cameras in their stores. When a customer enters the store, the camera uses facial recognition to identify if the person is a VIP customer or a frequent visitor. The camera captures the shopper’s shopping history and stores it, allowing the sales assistants to provide a more customized shopping experience. Ovopark CEO Zhou Youwen tells me the facial recognition cameras at Ovopark can also provide customized shopping suggestions.
+- 
+- In Ovopark’s showroom, I stand in front of the camera, which identifies me as an angry 40-year-old female — 15 years older than my actual age. “Try a bigger smile,” Ovopark Sales Manager Wu Yingxia suggests. This time it works. The angry face emoji next to my face on the screen changes to a happy one, and the machine correctly identifies me as 25 years old. I have to maintain my awkward smile, otherwise the emoji will immediately revert to an angry face.
+- Another huge screen fitted with a mounted camera tells me which celebrity I look like and scores me based on my perceived attractiveness — the higher the score, the bigger the discount. Ovopark sells this product to shopping malls for entertainment. I score 95 out of 100. Wu tells me Ovopark adjusted the scoring criterion so that it doesn’t give customers too low of a score — she scores a 93. “It’s just for fun, after all,” Wu says as her score flickers in bright blue lights on the LED screen with the message: “You look like an angel.”
+- It makes me think of the students at Hangzhou No. 11 Middle School.
+- 
+- A Modern-Day Panopticon
+- ccuracy isn’t much of a concern with the more frivolous applications of facial recognition, like the one I tested at Ovopark. But when the same technology is used in identification-sensitive fields like policing or finance, the resulting inaccuracies could lead to wrongful accusations and convictions, fraud, or theft. For instance, in November 2018, Chinese authorities wrongly accused entrepreneur Dong Mingzhu of jaywalking after a streetside camera identified her face in an ad on the side of a bus.
+- Everyone I talked to at Hangzhou No. 11 Middle School and Niulanshan First Secondary School expressed skepticism about the accuracy and reliability of facial recognition technology. As part of their smart campus initiative, Hangzhou No. 11 uses Hikvision’s facial recognition cameras to record the students’ attendance rate and for on-campus payments, but it doesn’t seem to work very well. A female student told me that Hikvision’s system is particularly inaccurate for girls. “Once we change our hairstyles or wear glasses, the camera won’t recognize [us] anymore,” she says through text. The different lighting and angles of their faces also slow down the recognition process, making the lines during lunch extremely long.
+- “The technology is not perfect yet,” admits Professor Wang Shengjin, “but you can’t always wait for technology to become perfect before using it.” Wang believes that practice makes perfect: The more we use facial recognition technology, the more problems we discover and solve, ultimately leading to perfected facial recognition systems.
+- 
+- The laws aren’t perfect, either. In fact, there are none. “No, there is no law regulating the use of facial recognition technology or other biometrics data in China,” says Hu Lin, an assistant law professor at Shanghai University of Economics and Finance. He tells me that, since there is currently no law prohibiting facial recognition in China, there’s nothing illegal about what these “intelligent education” systems are doing.
+- But there’s a bigger question: Even if it’s technologically possible and legally acceptable for schools and tech companies to use in-class evaluation systems powered by facial recognition, should we use them?
+- I ask He Shanyun, an associate professor of education at Zhejiang University. She tells me that the schools and “intelligent education” developers need to prove that the data they’re collecting is reliable for measuring educational performance. “If a student was burying his head in his desk but was actually looking for a pen, or if two students were talking but to discuss the teacher’s question, it’s not fair to classify them as being distracted,” He says.
+- Facial recognition technology would also need to consider the “cultural context” of people’s facial expressions and behaviors, He points out. She gives the example of a silent student who’s not answering questions or showing any expression on their face. “People from some cultures are more likely to express themselves through facial expressions and actions, but Chinese are normally more reserved,” He says. She also notes that classrooms are like mini ecosystems, where countless human interactions happen simultaneously in a small space. Each student brings their own culture, family values, and experiences. None of these factors are easily analyzed by capturing facial expressions. Machines are still less adept than humans at understanding cultural context and behaviors, according to Professor He. “We should encourage the use of new technology in daily life, but when it is used as a tool to evaluate individuals, more caution is needed,” she tells me.
+- Hangzhou No. 11 also seems to realize the technology’s inadequacies. Over the phone, Vice Principal Zhang Guanchao tells me the school has updated its facial recognition system and will no longer evaluate facial expressions. The students will now only be given a negative score if they’re captured lying on the desk.
+- 
+- But even if facial expressions accurately reflect students’ educational performance, does that justify the schools and developers using facial recognition on students? The answer, Professor He tells me, comes down to China’s philosophy on education.
+- “If our society thinks education is something that can be evaluated by statistics such as exam scores or in-class performance,” says He, “then don’t blame the schools for using algorithms to determine if you are a good student or bad student.”
+- She agrees that the intention of “intelligent education” is positive. As the NGAIDP guidelines suggest, the purpose of the initiative is to assist teachers in developing customized teaching methods and study plans for every student. But the current use of facial recognition technology in the classrooms worries her. “These statistics aren’t completely useless, but relying too much on them is not good for teaching,” He says.
+- “If in the end, the technology is only used to rank students by how many times each one yawns and punish them for doing so, it’s indeed a waste of the technology,” she says, suggesting that teachers should be trained on how to appropriately analyze and use the data as a reference rather than as decisive criteria. “We can’t push back the tide, but we should at least start trying to manage it.”
+- A focus on inaccurate statistics also worries most of the students I talked with about CCS. In particular, Jason Todd is afraid that his score will eventually be used to decide whether he is able to attend his dream school. Professor He believes schools and teachers should get the students’ consent and inform them of their intentions before using the data to evaluate performances.
+- 
+- Most students at Niulanshan First Secondary School still don’t realize how teachers know everything that happens in the classroom. And although the students at Hangzhou No. 11 know their every wink and yawn is captured and expressed as a score, the school never asked for consent. Neither school has published any information on their websites indicating that they obtained the consent of students or parents prior to installing the system. Jason Todd even checked with his mom, who confirmed the school never asked for her permission, either.
+- According to law professor Hu Lin, the lack of consent in the use of the surveillance systems creates an imbalance of power. “The schools hold the power to evaluate, punish, and expel,” he says. “The parents won’t sacrifice the students’ futures by standing up against the schools, which leaves the students in the most vulnerable position.”
+- Hu refers to the panopticon, a circular prison discussed by French philosopher Michel Foucault in his book “Discipline and Punish,” in which inmates are observed by a single watchman but cannot tell if and when they are being watched, forcing them to act as if they are always being watched. To Hu, using systems like CCS will have the same impact, encouraging students to simply act like they’re behaving.
+- But Hanwang’s Zhang Haopeng isn’t worried. “We are all role-players in certain circumstances,” Zhang says. “You can pretend for one hour, two hours. But if you can make it work by pretending to listen to class for eight hours a day, I respect you.” Even if students are simply acting like they’re listening in class to pass the CCS, maybe one day it will become a real habit rather than role-play, Zhang tells me.
+- The increasing use of facial recognition technology is already raising concerns in Western countries. In July 2018, Microsoft’s president and chief legal officer, Brad Smith, wrote an open letter calling for U.S. federal regulation of facial recognition technology. In February, Amazon followed suit. San Francisco is considering banning its city agencies from using facial recognition, and the European Union’s General Data Protection Regulation (GDPR) has categorized facial data as “sensitive personal data,” which affects how it can be handled.
+- 
+- But the current situation in China is worrisome. The government’s “intelligent education” initiative has attracted other companies eager to profit from bringing surveillance technology into China’s classrooms. According to a report published last December by state-run newspaper Global Times, 10 schools in southwestern China’s Guizhou province now use chip-equipped “smart uniforms” developed by a local company to track the exact locations of their students to encourage better attendance rates. A high school in southern Guangdong province has recently received criticism for forcing students to wear “smart bracelets” that also track their location. And a Massachusetts-based startup called BrainCo — founded by Chinese entrepreneurs — has signed a deal with a Chinese distributor to provide schools with 20,000 headsets that monitor student concentration levels by reading and translating their brain signals in class.
+- More schools and education bureaus are jumping on board, too. The Jiangsu Provincial Department of Education issued guidelines for developing “intelligent education” last May, calling for more schools to build “smart classrooms” that are capable of “collecting in-class behavioral data.” It also plans to subsidize more schools and companies to bring these AI-driven initiatives into classrooms.
+- Despite the shortcomings and ethical criticism, Hanwang Education’s Zhang Haopeng remains confident in the CCS initiative. “There have [always] been researchers in the academic field doing classroom behavioral observations. Do you remember in primary school, there were tutors occasionally sitting in the back of the classroom, taking notes and evaluating the teacher’s and the classroom’s performance?” Zhang asks me. “We just replaced them with a camera.”
+- On Lunar New Year, I text Jason Todd, wishing him good luck and following up to see whether his mom thinks his school should use CCS. His mom is right next to him, and he replies immediately. “She said yes, because she hopes the school will keep a better eye on us,” he writes, adding a string of emojis with bitter smiles.
+- I ask him to show his mom the classroom photo he discovered online — the one where each kid’s face is surrounded by a colored rectangle. A few minutes later, Jason texts back: “She says, ‘No way. It looks like a prison.’”
+- Illustrations: Wang Zhenhao; visual editor: Ding Yining; editors: Julia Hollingsworth, Chris Bolin, Clayton D’Arnault, and Matthew Walsh.
+- This article was published in collaboration with “The Disconnect.”
+- FOLLOW US
+- Subscribe to our newsletter
+
+URL: https://restofworld.org/2021/chinas-emotion-recognition-tech/
+- Every second, the surveillance cameras installed in each classroom at Niulanshan First Secondary School in Beijing snap a photo. The images are then fed into the Classroom Care System, an “emotion recognition” program developed by Hanwang Technology. It identifies each student’s face and analyzes their behavior: a student rifling through their desk might be labeled “distracted,” while another looking at the board would be labeled “focused.” Other behavioral categories include answering questions, interacting with other students, writing, and sleeping. Teachers and parents receive a weekly report through a mobile app, which can be unsparing: In one, a student who had answered just a single question in his English class was called out for low participation — despite the app recording him as “focused” 94% of the time.
+- The Beijing program, first described by journalist Yujie Xue in 2019, has attracted fresh scrutiny in a sweeping new report on emotion recognition technology in China published Monday by Article 19. The British human rights organization found that the dubious tech, while not yet widespread, is being promoted by dozens of Chinese corporations and academic researchers for a wide range of applications, including border screening and prison surveillance as well as assessing student behavior and performance.
+- Emotion recognition technology is based upon a fundamentally flawed idea: that an algorithm can analyze a person’s facial expressions and accurately infer their inner state or mood. In reality, when a person experiences emotions like joy, worry, or disgust, studies have found that they don’t necessarily respond by reacting in consistent, universal ways. While many people may frown if they feel sad, that reaction is also dependent on factors such as culture and the situation and moment.
+- A 2019 meta-analysis that looked at over 1,000 studies on emotion recognition found that it’s “not possible to confidently infer happiness from a smile, anger from a scowl, or sadness from a frown, as much of current technology tries to do when applying what are mistakenly believed to be the scientific facts.” In other words, using facial expressions to determine someone’s attention level, motivation, or trustworthiness — all things emotion recognition companies purport to do — simply isn’t achievable.
+- These findings haven’t stopped tech companies like Amazon, Microsoft, and Google from offering emotion recognition to their customers (though Amazon and Microsoft note their tools can’t make “a determination of the person’s internal emotional state” and that “facial expressions alone may not necessarily represent the internal states of people.”) Other startups have tried applying emotion recognition to sensitive tasks including screening job applicants. Overall, the global emotion recognition market for the tech will be worth more than $33 billion by 2023, according to one estimate. “New technologies proliferate in societies not necessarily because they work or have demonstrated impact,” said Vidushi Marda, senior program officer at Article 19 and a co-author of the report, “but because the actors and institutions that build, sell, and use these technologies claim that it works.”
+- In China, according to the report, some firms describe emotion recognition as an evolution of facial recognition, even though the technologies have disparate functions. One company, for example, called emotion recognition “biometrics 3.0.” While researchers have also found many facial recognition programs to be flawed, the tech is only designed to identify faces, rather than discern what a person may be feeling or thinking.
+- The authors of the Article 19 report recommend that China and other countries prohibit the sale and use of emotion recognition technology, and not only because it’s often based on junk science. They worry the tech has the potential to erode privacy and human rights, especially for minorities and other vulnerable populations. Shazeda Ahmed, a co-author of the report and a Ph.D. candidate at the University of California, Berkeley said many of the methods tech companies are using “reproduce racist, culturally biased assumptions about how humans express emotions.”
+- Two years ago, the AI Now Institute at New York University called for emotion recognition technology to be banned from use for “important decisions that impact people’s lives and access to opportunities,” including evaluating “student performance in school.” But there are still major incentives for companies in China and other countries to continue bringing the technology into classrooms.
+- “In the competitive Chinese educational environment, it’s easy for companies to pander to parents’ anxieties about their children’s success,” said Ahmed. School administrators may also see the technology as a way to attract state funding and produce educational improvements overnight. In places like the United States and India, facial and emotion recognition tools have been used in schools for safety and to boost attendance.
+- The Article 19 report documents a range of Chinese companies that offer emotion recognition for education, including tech giants like Lenovo. One firm claimed to have built an interface for teachers that displays “problem student warnings,” which flag emotions like sadness or fear. The program combines emotion recognition with academic performance to categorize students according to different archetypes. The “falsely earnest type,” for instance, is someone who listens in lectures but gets bad grades.
+- Some startups have incorporated emotion recognition tools into online learning platforms, which have exploded in popularity in China during the pandemic. In the U.S., the switch to remote learning has led schools and universities to adopt AI systems that purport to detect behavior like cheating, provoking criticism from students and administrators alike.
+- Yong Zhao, an education professor at the University of Kansas, cautioned that not only can these technologies amplify students’ anxieties, they’re also highly fallible. “We don’t know yet how good the algorithm is,” said Zhao. “Can you really capture all students’ emotional patterns? What does it really mean to be paying attention?”
+- Not everyone in China is in favor of using emotion recognition in schools. In an infamous 2018 incident, Hangzhou No. 11 Middle School, in southeastern Zhejiang Province, implemented a system developed by surveillance giant Hikvision that scanned students’ faces every 30 seconds to identify seven types of emotions and six types of behavior. It attracted local and international media attention, and after backlash from students and parents, the program was reportedly quickly paused.
+- But the Article 19 report found that positive media coverage of emotional recognition still prevails in China over accounts documenting the downsides of using it in schools. Ahmed said she wanted to believe the Hangzhou incident would deter other companies, “but many of the additional examples we found were launched after that trial.”
+- One of the overarching problems with emotion recognition is that it’s often unclear how educators should respond to the data. If the algorithm indicates students look more unhappy than usual, there are no obvious indications for how a teacher should adjust their lesson plan. “Education is about the development of human beings. For that purpose, I don’t think AI or emotion recognition technology can be of much help,” said Zhao. “Human beings need a lot of different experiences to grow, not only the knowledge they get through instruction.”
+
+URL: https://edtechchina.medium.com/schools-using-facial-recognition-system-sparks-privacy-concerns-in-china-d4f706e5cfd0
+- Member-only story
+- GETChina Insights
+- Follow
+- --
+- Share
+- Some startling action last week provoked contentious discussion regarding “privacy disclosure” and “data security” among public on China’s main social network platforms. These issues, which were not sensitive in Chinese society, finally got the attention it deserves after a face-swapping app sparked privacy concerns. The debate just went viral with many arguing that…
+- --
+- --
+- Supporting the EdTech ecosystem in China & globally. Operated by JMDedu, the leading B2B industry media company in China. Website: https://en.jmdedu.com/
+- GETChina Insights
+- --
+- 1
+- GETChina Insights
+- --
+- 1
+- GETChina Insights
+- --
+- 1
+- GETChina Insights
+- --
+- 1
+- SPX
+- in
+- Predict
+- --
+- 11
+- Aleid ter Weel
+- in
+- Better Advice
+- --
+- 309
+- Chris Newman
+- --
+- 69
+- The PyCoach
+- in
+- Artificial Corner
+- --
+- 380
+- Ing. Jan Jileček
+- in
+- ITNEXT
+- --
+- 1
+- Leon Eversberg
+- in
+- Geek Culture
+- --
+- 1
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.ft.com/content/2182eebe-8a17-11e8-bf9e-8771d5404543
+- Then 65 € per month  New customers only  Cancel anytime during your trial
+- During your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.
+- Standard Digital includes access to a wealth of global news, analysis and expert opinion.  Premium Digital includes access to our premier business column, Lex, as well as 15 curated newsletters covering key business themes with original, in-depth reporting.  For a full comparison of Standard and Premium Digital, click here.
+- Change the plan you will roll onto at any time during your trial by visiting the “Settings & Account” section.
+- If you do nothing, you will be auto-enrolled in our premium digital monthly subscription plan and retain complete access for 65 € per month.
+- For cost savings, you can change your plan at any time online in the “Settings & Account” section. If you’d like to retain your premium access and save 20%, you can opt to pay annually at the end of the trial.
+- You may also opt to downgrade to Standard Digital, a robust journalistic offering that fulfils many user’s needs. Compare Standard and Premium Digital here.
+- Any changes made can be done at any time and will become effective at the end of the trial period, allowing you to retain full access for 4 weeks, even if you downgrade or cancel.
+- You may change or cancel your subscription or trial at any time online. Simply log into Settings & Account and select "Cancel" on the right-hand side.
+- You can still enjoy your subscription until the end of your current billing period.
+- We support credit card, debit card and PayPal payments.
+- Find the plan that suits you best.
+- Premium access for businesses and educational institutions.
+- Check if your
+							
+university
+ or
+							
+organisation
+ offers FT membership to read for free.
+- We use
+								cookies
+								and other data for a number of reasons, such as keeping FT Sites reliable and secure,
+								personalising content and ads, providing social media features and to
+								analyse how our Sites are used.
+- International Edition
+
+URL: https://www.reuters.com/article/uk-china-surveillance-education/sleepy-pupils-in-the-picture-at-high-tech-chinese-school-idUKKCN1II128
+- Discover Thomson Reuters
+- By Pei Li, Adam Jourdan
+- 3 Min Read
+- BEIJING (Reuters) - High school students in one Chinese school may want to think twice before dozing off in class. Artificially intelligent cameras with facial recognition tools will be watching.
+- The Hangzhou No. 11 Middle School has installed a “smart classroom behaviour management system”, which captures students’ expressions and movements, analysing them with big data to make sure they’re paying attention, media reported on Thursday.
+- The “Big Brother” strategy underscores how AI and facial recognition tools are increasingly being used in China for a host of tasks, from verifying payments and catching criminals to checking the audience at big entertainment events and customers at fast-food joints.
+- The ubiquitous cameras - part of daily life in most big Chinese cities - are part of an array of surveillance technologies that have raised worries about privacy.
+- “The system only collects students’ facial expressions and behaviour information,” the school’s vice principal, Zhang Guanqun, told news outlet the Paper.
+- “It can improve interactions between the teachers and students.”
+- The system will be able to tell if students are reading or listening - or napping at their desks. It can detect expressions like happiness, repulsion, fear, anger and befuddlement.
+- Students will get a real-time attentiveness score, which will be shown to their teacher on a screen, media said.
+- The system is devised by Hikvision Digital Technology 002415.SZ, one of the world's biggest suppliers of security cameras and which is developing its own AI technology.
+- Hikvision did not reply when contacted by Reuters by telephone and email.
+- Pervasive surveillance has long been used in China to deter crime, but many fear that authorities are trying to create a surveillance state, both online and off, to keep track of citizens and crack down on dissent.
+- The extensive use of cameras has sparked some controversy.
+- Chinese cyber security firm Qihoo 360 shut down a livestreaming platform last year that allowed people to stream footage from surveillance cameras in locations such as classrooms, restaurants and grocery stores.
+- The Hangzhou school vice principal said that after a month-long trial, students had begun to accept the monitoring and had improved their behaviour.
+- But some people have been dismayed.
+- “Is this a concentration camp? They are kids, not the target of dictatorship,” wrote one person on the Weibo social media platform.
+- Reporting by Pei Li and Adam Jourdan; Editing by Robert Birsel
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://nypost.com/2018/05/17/china-is-using-ai-to-keep-high-school-students-in-line/
+- Thanks for contacting us. We've received your submission.
+- BEIJING — High school students in one Chinese school may want to think twice before dozing off in class. Artificially intelligent cameras with facial recognition tools will be watching.
+- The Hangzhou No. 11 Middle School has installed a “smart classroom behavior management system,” which captures students’ expressions and movements, analyzing them with big data to make sure they’re paying attention, media reported on Thursday.
+- The “Big Brother” strategy underscores how AI and facial recognition tools are increasingly being used in China for a host of tasks, from verifying payments and catching criminals to checking the audience at big entertainment events and customers at fast-food joints.
+- The ubiquitous cameras — part of daily life in most big Chinese cities — are part of an array of surveillance technologies that have raised worries about privacy.
+- “The system only collects students’ facial expressions and behavior information,” the school’s vice principal, Zhang Guanqun, told news outlet the Paper.
+- “It can improve interactions between the teachers and students.”
+- The system will be able to tell if students are reading or listening — or napping at their desks. It can detect expressions like happiness, repulsion, fear, anger and befuddlement.
+- Students will get a real-time attentiveness score, which will be shown to their teacher on a screen, media said.
+- The system is devised by Hikvision Digital Technology, one of the world’s biggest suppliers of security cameras and which is developing its own AI technology.
+- Hikvision did not reply when contacted by Reuters by telephone and email.
+- Pervasive surveillance has long been used in China to deter crime, but many fear that authorities are trying to create a surveillance state, both online and off, to keep track of citizens and crack down on dissent.
+- The extensive use of cameras has sparked some controversy.
+- Chinese cyber security firm Qihoo 360 shut down a livestreaming platform last year that allowed people to stream footage from surveillance cameras in locations such as classrooms, restaurants and grocery stores.
+- The Hangzhou school vice principal said that after a month-long trial, students had begun to accept the monitoring and had improved their behavior.
+- But some people have been dismayed.
+- “Is this a concentration camp? They are kids, not the target of dictatorship,” wrote one person on the Weibo social media platform.
+
+URL: https://www.latimes.com/world/la-fg-china-face-surveillance-2018-story.html
+
+URL: https://www.scmp.com/news/china/society/article/2146387/pay-attention-back-chinese-school-installs-facial-recognition
+- Pupil tells reporters he doesn’t dare let his mind wander after technology is installed in classroom to see who is paying attention
+- Published: 3:56pm, 16 May, 2018
+- Updated: 4:27pm, 16 May, 2018
+
+URL: https://www.securitytoday.in/international-news/hikvision-artificial-intelligence-to-watch-over-kids-in-chinese-school/
+- High school students in one Chinese school may want to think twice before dozing off in class. Artificially intelligent cameras with facial recognition tools will be watching. The Hangzhou No. 11 Middle School has installed a “smart classroom behaviour management system,” which captures the students’ expressions and movements, analysing them with big data to make sure that they’re paying attention, local media reported.
+- The ‘Big Brother’ strategy underscores how AI and facial recognition tools are increasingly being used in China for a host of tasks, from verifying payments and catching criminals to checking the audience at big entertainment events and customers at fast-food joints.
+The ubiquitous cameras — part of daily life in most big Chinese cities — are part of an array of surveillance technologies that have raised worries about privacy.
+- “The system only collects students’ facial expressions and behaviour information,” the school’s vice principal, Zhang Guanqun, said. “It can improve interactions between the teachers and students.” The system will be able to tell if students are reading or listening — or napping at their desks. It can detect expressions like happiness, repulsion, fear, anger and befuddlement. Students will get a real-time attentiveness score, which will be then shown to their teacher on a screen, media said. The system is devised by Hikvision Digital Technology, one of the world’s biggest suppliers of security cameras and which is developing its own AI technology.
+
+URL: https://www.straitstimes.com/asia/east-asia/tech-savvy-chinese-high-school-catches-napping-students-using-ai-cameras
+
+URL: https://www.techspot.com/news/74719-chinese-school-using-facial-recognition-analyze-students-emotions.html
+- When it comes to using facial recognition technology in surveillance systems, China leads the way. Now, one of the country's high schools is utilizing the technology to monitor students' facial expressions, letting teachers know what emotions the kids are experiencing.
+- The Hangzhou No. 11 Middle School is trialing the tech as part of its "Smart Classroom Behaviour Management System." The three cameras placed above the blackboard analyze pupils by scanning them every 30 seconds and determining if they're happy, confused, angry, surprised, fearful, or disgusted. They are also designed to log six types of student behaviors: reading, writing, hand raising, standing up, listening to the teacher, and leaning on the desk.
+- Hangzhou Network reports that the system can alert a teacher if a student's attention level falls below a certain point. Not only can it be used as a teaching aid, but it's also able to monitor class attendances by checking students' faces against a database.
+- Unsurprisingly, the use of the cameras has raised privacy questions as they are recording minors, but school vice principle Zhang Guanchao says the images themselves are not saved and the results are stored on a local server instead of the cloud.
+- One student said the system was having the desired effect. "Beforehand in some classes that I didn't like much, sometimes I would be lazy and do things like take naps on the desk or flick through other textbooks. Since the school has introduced these cameras, it is like there are a pair of mystery eyes constantly watching me, and I don't dare let my mind wander."
+- It's not just pupils that the cameras are observing; they're also being used to monitor the performance of teachers. The school claims this will help improve teaching techniques, though it's unlikely that the educators (and pupils) will appreciate being continually watched.
+- China already has around 170 million CCTV cameras, with 400 million more arriving over the next three years. Many of these feature some form of AI, including facial recognition.
+- Last month saw facial recognition tech pick out a suspect from a crowd of 50,000 in China. And reports from earlier this year revealed that some of the country's police have started using glasses with embedded facial scanning technology.
+- TECHSPOT : Tech Enthusiasts, Power Users, Gamers
+- TechSpot is a registered trademark. About Us Ethics Statement Terms of Use Privacy Policy Change Ad Consent Advertise
+- © 2023 TechSpot, Inc. All Rights Reserved.
+
+- China Pharmaceutical University student behavioural monitoring
+- Niulanshan First Secondary School Classroom Care System
+- Page infoType: IncidentPublished: February 2023

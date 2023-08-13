@@ -1,0 +1,23 @@
+[
+    {
+        "": "", 
+        "Developer(s)": "Meta/Facebook", 
+        "Summary/links": "", 
+        "Title": "Facebook teen alcohol, drug, gambling ad approvals", 
+        "Media trigger(s)": "Non-profit research report/study", 
+        "Type": "Incident", 
+        "Internal harms": "", 
+        "Occurred": "2021", 
+        "\ufeffAIAAIC ID#": "AIAAIC0621", 
+        "Risks(s)": "Accuracy/reliability", 
+        "Released": "", 
+        "Operator(s)": "Meta/Facebook", 
+        "Transparency": "Governance; Black box", 
+        "Sector(s)": "Technology", 
+        "Purpose(s)": "Review advertising", 
+        "External harms": "", 
+        "Country(s)": "USA; Australia", 
+        "System name(s)": "Facebook Ads", 
+        "Technology(ies)": "Advertising management system"
+    }
+]

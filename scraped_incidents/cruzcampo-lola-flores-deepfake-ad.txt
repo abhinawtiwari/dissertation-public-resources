@@ -1,0 +1,314 @@
+- Occurred: January 2021
+- Can you improve this page?Share your insights with us
+- Celebrated Spanish singer Lola Flores has been brought back to life in a controversial news advert by brewer Cruzcampo.
+- According to El País, Flores' voice, face, and features were recreated for the ad using deepfake technology and hours of audiovisual material and over 5,000 photographs.
+- Devised and created by advertising agency Ogilvy and production firm Metropolitana, the spot encourages people to be proud of their roots. Flores hailed from Anadalucia and died in 1995.
+- The campaign has been praised for its relevance and realism. However, others complain that it is unethical and unnecessarily commercial.
+- Operator: Cruzcampo
+- Developer: WPP/Ogilvy; Metropolitana; DeepFaceLab
+- Country: Spain
+- Sector: Consumer goods
+- Purpose: Imitate Lola Flores  Technology: Deepfake - video; Generative adversarial network (GAN); Neural network; Deep learning; Machine learning
+- Issue: EthicsTransparency:
+URL: https://www.youtube.com/watch?v=Yewm6TfLZ3Q
+
+URL: https://www.youtube.com/watch?v=BQLTRMYHwvE&t=1s
+
+URL: https://elpais.com/tecnologia/2021-01-21/una-campana-con-un-deepfake-de-lola-flores-se-hace-viral.html
+- La cervecera Cruzcampo ha lanzado su nueva campaña Con mucho acento, que cuenta con un vídeo modificado con inteligencia artificial (deepfake) de Lola Flores como protagonista para reivindicar la diversidad.“¿Tú sabes por qué a mí se me entendió en todo el mundo? Por el  acento. Y no solo me refiero a la forma de hablar...”. Mediante técnicas de inteligencia  artificial, Cruzcampo ha hecho posible que la folclórica, fallecida en 1995, vuelva a televisión y a as redes. El vídeo se ha hecho viral a las pocas horas de ver la luz.
+- Un deepfake es un tipo de bulo, un vídeo de una persona haciendo algo que nunca ha hecho o incluso que nunca ha dicho. Hay varios tipos de mediafakes, siendo un deepkafe el más sofisticado de todos: un modelo computacional basado en tecnología deep learning  (inteligencia artificial) cuyas imágenes han sido generadas  matemáticamente vía algoritmos a partir de fotos y vídeos de la persona a  la que se quiere recrear.
+- Aunque los primeros deepfakes fueron creados hace unos cinco  años, el término no fue acuñado hasta 2017 en la comunidad Reddit,  popularizándose paulatinamente desde entonces. Con el avance y la  progresión sobre todo en el campo de la inteligencia artificial, no está  siendo hasta este año donde por primera vez nos  encontramos una escala importante en la difusión de vídeos con imágenes  que, a simple vista, no podríamos ser capaces en discernir su  autenticidad.
+- La compañía ha explicado en un comunicado que conseguir la voz, el rostro y los gestos de la artista, que  todos tenemos tan presentes, ha supuesto todo un reto técnico para el  que han sido necesarias horas y horas de material audiovisual, más de 5.000 imágenes, y un minucioso proceso de composición y postproducción,  en el que Cruzcampo ha contado con la involucración personal de sus  hijas. Lolita y Rosario Flores han asesorado y participado
+- Puedes seguir a EL PAÍS TECNOLOGÍA RETINA en Facebook, Twitter, Instagram o suscribirte aquí a nuestra Newsletter.
+- O suscríbete para leer sin límites
+- Corresponsal en Canarias y miembro del equipo de edición del diario. Trabajó en la Cadena Ser, Cinco Días y fue jefe de EL PAÍS Retina y de la sección de Tecnología. Licenciado en Ciencias de la Información, diplomado en Traducción e Interpretación y Máster de Periodismo de EL PAÍS.
+- O suscríbete para leer sin límites
+- Suscríbete y lee sin límites
+
+URL: https://www.igamesnews.com/pc/lola-flores-and-deepfake-for-or-against/
+- At this point, there’s no way you haven’t seen Cruzcampo’s new commercial with Lola Flores. Yes, Lola Flores. The pharaoh. The multi-faceted Spanish artist who has become as famous for his talent on the stage as for speaking openly about taboo subjects.
+- From now on, the Sevillian beer brand wanted to find the character, the claw, the power, the accent this made her so beloved by the Spaniards for their latest advertising campaign. And, as expected, he gave a lot to say.
+- But the controversy goes far beyond the choice of character, and has more to do with the technology that was used to enable their presence. The controversial technique of deepfake That’s still news, but which side of the debate should you be on?
+- Lola Flores returned to our lives on the occasion of what would have been her 98th birthday with an advertisement for Cruzcampo that quickly became trending topic. The spot in question, which you can see below, shows the singer addressing the camera with a message that invites us to be proud of our roots.
+- 
+- In With a lot of emphasis, the campaign slogan, Cruzcampo “brings back” the singer so that we can resume our accent (with a special nod to Andalusia, where the company and the artist come from), but not only in speaking, but in all aspects of our life.
+- According to its creators in a recent interview, the announcement was scheduled just before the pandemic, but this quasi-year “as a gift” allowed them to further perfect the technique that was used to achieve it.
+- The technique we are talking about is the call deepfake, a word which results from the junction of the English terms “deep learning“and”false“. It’s about using artificial intelligence to create fake videos with incredible credibility.
+- In the case of Lola Flores’ ad, for example, it’s hard to believe it’s not about itself. Before knowing how it was done, surely more than one hadn’t thought that maybe it wasn’t the case.
+- It is true that his use of the word “accountability“It made us suspect that there was something behind it, but maybe not the hard work carried out for weeks by the teams of two companies in Barcelona: the advertising agency Ogilvy and the studio Metropolitana.
+- For the Cruzcampo spot, they recovered some 5,000 images from the Sevillian artist, which they had to optimize before putting them through the two programs of deepfake that they used to get the final product.
+- In the process, they got an actress similar to Lola Flores and created a 3D model of her that they would later work with to give the collected images the necessary gestures and movements to achieve such a believable result.
+- In addition to using the FaceSwap program to transfer the singer’s real face to that of the 3D model, the final touches to make the Lola Flores in the video look like the real Lola Flores in great detail were used Software DeepFaceLab.
+- 
+- Speak more technically, in the videos deepfake, the so-called RGA algorithms are used. In this system of two neural networks, a model is presented with photos or videos from which it creates false images, and another which is responsible for detecting the latter.
+- The process is repeated as many times as necessary until the second model cannot distinguish the counterfeit images. The more real images you have, the more convincing those created from scratch will be.
+- Lola Flores’ daughters, Lolita and Rosario Flores, were involved in the production process of the ad. And it’s important to take this into account before you start debating whether this place should have been done or not.
+- Few but can be put to the assertive and stimulating message of Cruzcampo’s advertising, and no one can deny that the result is spectacular. There is no doubt that this is a triumph of technology and science.
+- No one better than her daughters to know what Lola Flores would have liked or not, but it is inevitable to wonder to what extent our heirs have the power to consent that to our image and our voice, fake videos of this type are create.
+- 
+- 
+- Spanish legislation does not yet consider the specific case of deepfakes, but they can be included in the image rights which, once you die, pass into the hands of your heirs. The same goes for the power to manage its mission for commercial purposes, as in the case of Cruzcampo advertising.
+- Also, the key to differentiating what is a crime from what is not would be in the reason for its use and the end result. And in the ad, it doesn’t appear that anyone could be offended by the use that was made of the image of Lola Flores, including Lola Flores.
+- The expert in digital law, Borja Adsuara, explained a few years ago where the problem lay with this artificial intelligence technique: “Unless you are an expert in these technologies, it is very easy for everyone, including a judge in a process in which they provide a test with this technology, they can force it ”.
+- Thus, the debate goes beyond whether or not it is legal or not, or should be or not, to use images of the deceased to create fake videos. Although we can ask the same if it is about living people. Another big problem lies in what makes this technology so incredible: its verisimilitude.
+- The fact that you are watching Lola Flores’ video and not questioning that she isn’t really the one in it means that the technique could also be used with similar quality results but with less innocuous intentions.
+- A few years ago, this Barack Obama video went viral. It is not halfway that we realize that the atrocities he says there, and that it is surprising that someone as politically correct as Obama publicly says, has been made to say by someone. ‘another.
+- 
+- The dangers of deepfakes they have become more evident in their uses in industries such as pornography. In 2017, pornographic videos of actresses such as Daily Ridley or Scarlett Johansson began to circulate, but they turned out to be fake. Soon after, DeepNude was born, an app that uses technology to create nudes from images of people in clothes. It closed a few days after its creation.
+- “The deepfakes it’s a dangerous way to spread hoaxes. But the rolls they show that advanced technology is not necessary, ”says Panda Security of the threat of this new type of technology.
+- Anyone Can Create rolls, because you only need one Software (which is also generally cheap and accessible) which creates the fake videos for us. So to create deepfakes more advanced editing knowledge is needed, social networks like TikTok already have filters which cause a lot of problems.
+- But not everything will be negative, and Lola Flores’ announcement also helps us remember how far we’ve come in areas such as artificial intelligence. We usually associate it with humanoid robots, but it can also be applied in art.
+- The best-known example is probably that of the films of Star wars. Harrison Ford returned to his youth with this technique, which was used on actor Alden Ehrenreich’s face to help explain Han Solo’s origins.
+- Something similar was done more recently in the Spanish series on HBO 30 pieces. Instead of having other actors to make the youth versions of the protagonists, the creators decided to use the deepfakes to rejuvenate Eduard Fernández and Manolo Solo.
+- And it is that all is not what it seems.
+- .
+- Table of Contents
+- Gamer, passionate about video games, technologies, gadgets and everything related to the world of electronics.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- Website
+- Save my name, email, and website in this browser for the next time I comment.
+- 
+- 
+- Δ
+- © 2021 IgamesNews - The Best Video Game Website in English.
+- © 2021 IgamesNews - The Best Video Game Website in English.
+
+URL: https://www.esquire.com/es/tecnologia/a35322942/deepfake-tecnologia/
+- Esquire participa en varios programas de afiliación de marketing, lo que significa que Esquire recibe comisiones de las compras hechas a través de los links a sitios de los vendedores.
+- Todo lo que necesitas saber sobre la tecnología que supone un riesgo real para nuestra democracia.
+- Todos hemos alucinado con el último anuncio de una conocida marca de cervezas donde podemos ver a Lola Flores... aunque realmente no es Lola Flores. Es un trabajo muy conseguido de Deepfake que nos ha "devuelto" a la Faraona, que nos dejó en 1995. Ahora imagina lo siguiente: haces clic en un clip de noticias y ves al Presidente de los Estados Unidos en una rueda de prensa con un líder extranjero. El diálogo es real. La rueda de prensa es real. Lo compartes con tus amigos. Ellos lo comparten con otros amigoa. Pronto, todo el mundo lo ha visto. Más tarde te enteras de que la cabeza del presidente fue superpuesta en el cuerpo de otra persona. Nada de eso ocurrió realmente.
+- ¿Suena descabellado? No si has visto un vídeo salvaje del usuario de YouTube Ctrl Shift Face (echa un vistazo al clip de arriba). Desde el pasado mes de agosto, ha conseguido casi 9,5 millones de visitas.
+- En él, el cómico Bill Hader comparte una historia sobre sus encuentros con Tom Cruise y Seth Rogen. Mientras Hader, un hábil imitador, hace su mejor imitación de Cruise y Rogen, las caras de esos actores se funden con las suya de una forma perfecta y aterradora. La tecnología hace que las impresiones de Hader sean mucho más vívidas, pero también ilustra lo fácil -y potencialmente peligroso- que es manipular los contenidos de vídeo.
+- El vídeo de Hader es un deepfake elaborado por expertos, una tecnología inventada en 2014 por Ian Goodfellow, un estudiante de doctorado que ahora trabaja en Apple. La mayor parte de la tecnología de deepfake se basa en redes generativas adversariales (GAN).
+- Las GAN permiten a los algoritmos ir más allá de la clasificación de datos para generar o crear imágenes. Esto ocurre cuando dos GANs intentan engañarse mutuamente para hacer creer que una imagen es "real". Con tan sólo una imagen, una GAN experimentada puede crear un clip de vídeo de esa persona. El Centro de Inteligencia Artificial de Samsung ha publicado recientemente una investigación en la que comparte la ciencia que hay detrás de este enfoque.
+- "Lo más importante es que el sistema es capaz de inicializar los parámetros tanto del generador como del discriminador de forma específica para cada persona, de modo que el entrenamiento puede basarse en unas pocas imágenes y realizarse rápidamente, a pesar de la necesidad de afinar decenas de millones de parámetros", afirman los investigadores del trabajo. "Demostramos que este enfoque es capaz de aprender modelos de cabezas que hablan altamente realistas y personalizados de personas nuevas e incluso de retratos".
+- Por ahora, esto sólo se aplica a los vídeos de cabezas parlantes. Pero tebiendo en cuenta que el 47 por ciento de los estadounidenses ven las noticias a través de contenidos de vídeo online, ¿qué ocurrirá cuando los GAN puedan hacer que la gente baile, aplauda o se deje manipular de otra manera?
+- Si olvidamos el hecho de que hay más de 30 naciones involucradas activamente en la ciberguerra en cualquier momento, la mayor preocupación con los deepfakes podría ser cosas como el enfermizo sitio web Deepnudes, donde las caras de famosos y los rostros de mujeres anónimas podrían ser superpuestos en vídeos pornográficos.
+- El fundador de Deepnudes acabó cancelando el lanzamiento de la web, temiendo que "la probabilidad de que la gente haga un mal uso de él es demasiado alta". La pregunta es: ¿qué otra cosa podría hacer la gente con contenidos pornográficos falsos?
+- "En el nivel más básico, los deepfakes son mentiras disfrazadas para que parezcan verdades", dice Andrea Hickerson, directora de la Escuela de Periodismo y Comunicación de Masas de la Universidad de Carolina del Sur. "Si los tomamos como verdades o pruebas, podemos sacar fácilmente conclusiones falsas con consecuencias potencialmente desastrosas".
+- Gran parte del miedo a los deepfakes tiene que ver con la política, dice Hickerson. "¿Qué ocurre si un vídeo deepfake retrata a un líder político incitando a la violencia o al pánico? ¿Podrían otros países verse obligados a actuar si la amenaza fuera inmediata?"
+- Tras celebrarse las elecciones de 2020 en Estados Unidos y la continua amenaza de ciberataques y ciberguerra, tenemos que considerar seriamente algunos escenarios aterradores:
+- → Los deepfakes armados se podrían haber utilizado en el ciclo electoral de 2020 para condenar al ostracismo, aislar y dividir aún más al electorado estadounidense.
+- → Los deepfakes armados se podría usar para cambiar e influir en el comportamiento de voto, pero también en las preferencias de consumo de cientos de millones de estadounidenses.
+- → Los deepfakes armados se pueden usar en el phishing selectivo y en otras estrategias de ataque de ciberseguridad conocidas para dirigirse a las víctimas con mayor eficacia.
+- Esto significa que los deepfakes ponen en mayor riesgo a las empresas, los individuos y los gobiernos.
+- "El problema no es necesariamente la tecnología GAN", afirma Ben Lamm, director general de la empresa de IA Hypergiant Industries. "El problema es que los malos tienen actualmente una ventaja desmesurada y no existen soluciones para hacer frente a la creciente amenaza. Sin embargo, hay una serie de soluciones y nuevas ideas que están surgiendo en la comunidad de IA para combatir esta amenaza. Aun así, la solución debe ser primero el ser humano".
+- ¿Recuerdas tu primera llamada automática? Tal vez no, teniendo en cuenta que las llamadas telefónicas automatizadas eran bastante convincentes hace unos años, cuando la mayoría de nosotros aún no entendía lo que eran. Por suerte, esas llamadas cuyo objetivo era estafar han ido disminuyendo: la Comisión Federal de Comercio de Estados Unidos ha informado de que las quejas por llamadas automáticas pregrabadas cayeron un 68% en abril y un 60% en mayo, en comparación con los mismos períodos de 2019.
+- Sin embargo, la tecnología deepfake de audio podría reforzar fácilmente la táctica de engaño. Según Nisos, una empresa de ciberseguridad con sede en Alexandria, Virginia, los hackers están utilizando el aprendizaje automático para clonar las voces de personas. En un caso documentado, los hackers utilizaron audio sintético deepfake en un intento de estafar a una empresa tecnológica.
+- Nisos ha compartido este clip de audio con Motherboard. Escúchalo:
+- 
+- 
+- Esto llegó en forma de un mensaje de voz, que parecía provenir del CEO de la compañía tecnológica. En el mensaje, pide a un empleado que le devuelva la llamada para "finalizar un acuerdo comercial urgente".
+- "El destinatario inmediatamente pensó que era sospechoso y no se puso en contacto con el número. En su lugar, lo remitió a su departamento legal, y como resultado el ataque no tuvo éxito", señala Nisos en un documento del 23 de julio.
+- ⚠️ Qué hacer si recibes un mensaje de voz sospechoso⚠️
+- →  Alerta al consejero general de tu empresa o a otro ejecutivo de alto rango. A menudo, estos esquemas de ingeniería social se aprovechan de los empleados de nivel inferior.
+- → Puedes devolver la llamada directamente para que el potencial hacker se ponga al habla. Nisos dice que la tecnología deepfake "no es lo suficientemente sofisticada" para imitar una llamada telefónica completa.
+- → Haz que tu empresa prepare una serie de "preguntas de verificación" sobre información que no es de dominio público. Esto debería ayudar a investigar la identidad de la persona al otro lado de la llamada.
+- El verano pasado, el Comité de Inteligencia de la Cámara de Representantes de EE.UU. envió una carta a Twitter, Facebook y Google preguntando cómo planeaban los sitios de redes sociales combatir los deepfakes en las elecciones de 2020. La investigación se produjo en gran parte después de que el presidente Trump tuiteara un vídeo deepfake de la presidenta de la Cámara de Representantes, Nancy Pelosi:
+- A principios de este año, Facebook dio un paso positivo hacia la prohibición de los deepfakes. En un post del 6 de enero, Monika Bickert, vicepresidenta de gestión de políticas globales de Facebook, escribió que la compañía está haciendo nuevos esfuerzos para "eliminar los medios manipulados engañosos."
+- Facebook está adoptando un enfoque específico y doble para marcar y eliminar los deepfakes. Para que una imagen sea retirada, debe cumplir los siguientes criterios, según la publicación del blog:
+- Sin embargo, los vídeos satíricos y de parodia siguen estando a salvo, al igual que los vídeos que han sido editados únicamente para omitir o cambiar el orden de las palabras. Esto significa que determinadas noticias manipuladas todavía pueden el filtro. En particular, TikTok y Twitter tienen políticas similares.
+- Mientras tanto, instituciones gubernamentales como DARPA e investigadores de universidades como Carnegie Mellon, la Universidad de Washington, la Universidad de Stanford y el Instituto Max Planck de Informática también están experimentando con la tecnología deepfake. Otra empresa que lo está haciendo es Disney. Estas organizaciones están estudiando cómo utilizar la tecnología GAN, pero también cómo combatirla.
+- Mediante el uso de algoritmos de deepfake y de vídeo real, esperan ayudar a los ordenadores a identificar cuándo algo es un deepfake. Si esto parece una carrera armamentística, es porque lo es. Estamos utilizando la tecnología para luchar contra la tecnología en una carrera que no tiene fin.
+- Quizá la solución no sea la tecnología. Otras investigaciones recientes sugieren que los ratones podrían ser la clave. Los investigadores del Instituto de Neurociencia de la Universidad de Oregón creen que "un modelo de ratón, dadas las potentes herramientas genéticas y electrofisiológicas para sondear los circuitos neuronales de que disponen, tiene el potencial de aumentar poderosamente la comprensión mecánica de la percepción fonética".
+- 
+- Esto significa que los ratones podrían informar a los algoritmos de nueva generación que podrían detectar vídeo y audio falsos. La naturaleza podría contrarrestar la tecnología, pero sigue siendo una carrera armamentística.
+- 
+- Aunque los avances en la tecnología de deepfake podrían ayudar a detectar las falsificaciones, puede ser demasiado tarde. Una vez que se corrompe la confianza en una tecnología, es casi imposible recuperarla. Si corrompemos la fe en el vídeo, ¿cuánto tiempo pasará hasta que se pierda la fe en las noticias de la televisión, en los clips de Internet o en los acontecimientos históricos transmitidos en directo?
+- 
+- "Los vídeos deepfake amenazan nuestro discurso cívico y pueden causar un grave daño reputacional y psíquico a las personas", afirma Sharon Bradford Franklin, directora de políticas del Open Technology Institute de New America. "También hacen que sea aún más difícil para las plataformas participar en la moderación responsable de los contenidos online".
+- "Si bien es comprensible que el público pida a las empresas de medios sociales que desarrollen técnicas para detectar y prevenir la propagación de deepfakes, también debemos evitar el establecimiento de normas legales que empujen demasiado en la dirección opuesta, y presionen a las plataformas a participar en la censura de la libertad de expresión online".
+- Si una legislación restrictiva no es la solución, ¿debería prohibirse la tecnología? Aunque muchos sostienen que sí, nuevas investigaciones sugieren que las GAN podrían utilizarse para ayudar a mejorar "los esquemas de multirresolución que permiten una mejor calidad de imagen y evitan los artefactos de parche" en las radiografías, y que otros escenarios de uso médico podrían estar a la vuelta de la esquina.
+- 
+- ¿Es suficiente para compensar el daño? La medicina es importante. Pero también lo es garantizar los cimientos de nuestra democracia y nuestra prensa.
+- 
+- Muchos ciudadanos han perdido ya su fe en las noticias. Y a medida que la tecnología deepfake crece, el uso de noticias falsas va a proliferar.
+- "La mejor manera de protegerse de un deepfake es no tomar nunca un vídeo al pie de la letra", dice Hickerson. "No podemos asumir que ver es creer. El público debe buscar de forma independiente información contextual relacionada y prestar especial atención a quién y por qué alguien comparte un vídeo. En general, la gente no tiene excesivo cuidado con lo que comparte en las redes sociales. Incluso si tu mejor amiga lo comparte, deberías pensar de dónde lo ha sacado. ¿Quién o qué es la fuente original?".
+- 
+- La solución a este problema tiene que ser impulsada por los ciudadanos hasta que los gobiernos, los tecnólogos o las empresas puedan encontrar una solución. Sin embargo, si no hay un impulso inmediato para encontrar una respuesta, podría ser demasiado tarde.
+- Lo que todos deberíamos hacer es exigir que las plataformas que propagan esta información rindan cuentas, que los gobiernos hagan esfuerzos para garantizar que la tecnología tenga suficientes casos de uso positivos para compensar los negativos, y que la educación garantice que conozcamos los deepfakes y tengamos el suficiente sentido común para no compartirlos.
+- De lo contrario, podemos encontrarnos en una ciberguerra que un hacker inició basándose únicamente en un vídeo manipulado. ¿Y entonces qué?
+- Vía: Popular Mechanics
+
+URL: https://www.elmundo.es/f5/comparte/2021/01/21/6009656221efa06b038b45e1.html
+- Portada
+- Oferta 19,95€ 1 año
+- El discurso de Lola Flores centra la campaña 'Con mucho acento', que la cervecera andaluza ha convertido en viral
+- Cruzcampo ha lanzado su nueva campaña Con mucho acento, que cuenta con la icónica Lola Flores como protagonista para reivindicar la diversidad, según ha informado la cervecera en un comunicado.
+- "¿Tú sabes por qué a mí se me entendió en todo el mundo? Por el acento. Y no solo me refiero a la forma de hablar...". Así comienza Con mucho acento, un poderoso discurso con el que Lola Flores vuelve a las pantallas en 2021.
+- Mediante técnicas de inteligencia artificial, Cruzcampo ha hecho posible que, la que probablemente fuera la mayor influencer española del siglo XX, se dirija a las nuevas generaciones con un mensaje universal para poner en valor el orgullo de ser como somos, empoderando la diversidad y las diferencias que cada uno tenemos.
+- Según explica Cruzcampo, con Con mucho acento aborda un tema de gran actualidad para el que elige a Lola Flores como icono de la diversidad, de la defensa de las raíces y del poder de lo auténtico frente a los clichés.
+- "Si alguien entendió el acento en todas sus acepciones, si alguien conquistó el planeta gracias a su singularidad y carácter, ésa fue Lola Flores. Un fenómeno cuya vigencia perdura intacta a pesar del paso del tiempo", comenta Esteban Velasco, responsable de la marca.
+- Añade que conseguir la voz, el rostro y los gestos de la artista, que todos tenemos tan presentes, ha supuesto todo un reto técnico para el que han sido necesarias horas y horas de material audiovisual, más de 5.000 imágenes, y un minucioso proceso de composición y postproducción, en el que Cruzcampo ha contado con la involucración personal de sus hijas. Lolita y Rosario Flores han asesorado y participado para darle forma hasta llegar al resultado hiperrealista de Con mucho acento.
+- En el discurso, Lola va desgranando la importancia de manosear las raíces para conseguir la mejor versión de uno mismo, a través de expresiones llenas de poderío: "Acento es que se te vean las costuras y los dobladillos, que se te escuche hasta el hipo. Da igual si eres de la Conchinchina o de la Línea de la Concepción [...], manosea tus raíces, que de ahí siempre salen cosas buenas". Las encargadas de recoger este legado son las nuevas generaciones, representadas por el proyecto nacido en la Escuela de Arte de Sevilla, Habla tu andaluz, los responsables de la música electrónica y folklore andaluz que acompaña el spot, Califato 3/4, y la joven artista María José Llergo, que conversa con Lola al final de la pieza.
+- "Hablar con Lola ha sido algo precioso. Como si hubiera tenido el privilegio de conocerla. Compartir el espacio-tiempo con ella es algo que solo podría pasar en un sueño y aquí", comenta la cordobesa acerca de su participación en el proyecto. Llergo, que está triunfando gracias a su mezcla de flamenco y aderezado con todo tipo de sonidos, explica que "para mí el acento es una herramienta para descubrir el mundo de una forma personal, poniendo el foco en lo que yo he vivido, en mi tierra. Es algo tan grande que no se puede fingir, no se puede imitar. Es algo que toca, que te marca y te engrandece".
+- Con mucho acento es un proyecto que comenzó a gestarse hace muchos meses, y que también se ha visto afectado por la aparición de la pandemia. "Era 12 de marzo cuando estábamos rodando en Málaga junto a María José Llergo y el resto de protagonistas, entre incredulidad e incertidumbre ante lo que estaba por venir", explica Esteban Velasco. Fue a los pocos días cuando Cruzcampo decidió aplazar el lanzamiento de 'Con mucho acento', y centrar todos sus esfuerzos en el movimiento social de apoyo a la hostelería #FUERZABAR, aportando millones de cañas a bares y restaurantes, y creando piezas publicitarias --como aquella caña que caía a cámara lenta-- que se convirtieron en virales el año pasado.
+- "Estos meses nos han cambiado a todos. Hemos vuelto a la raíz y aprendido a valorar lo importante, a buscar en nuestra esencia para sacar lo mejor de nosotros mismos. El mensaje que nos transmite Lola cobra incluso más relevancia y actualidad tras lo sucedido", comenta la directora de marketing de Heineken España, familia a la que pertenece Cruzcampo, Marta García.
+- La marca destaca que Con mucho acento busca poner los estereotipos patas arriba y abandonar definitivamente ciertos estigmas alrededor del acento. "El acento está presente en todos los aspectos de la personalidad y todos, sin excepción, tenemos uno. El nuestro, como cerveza que nació hace más de un siglo en Andalucía, bebe del estilo de vida del sur, la cultura y la diversidad de esta tierra y, lejos de esconderlo o disimularlo, lo mostramos orgullosos. 'Con mucho acento' invita precisamente a que todos valoremos y celebramos nuestro acento propio, sea cual sea", explica Velasco.
+- Conforme a los criterios deThe Trust Project
+- El director de El Mundo selecciona las noticias de mayor interés para ti.
+- Es cierto, la diversidad es un tesoro para la humanidad. Entonces, ¿por qué los progres estáis empeñados en igualarnos a todos? hombres, mujeres, blancos, negros, homo, hetero...queréis hacer una masa humana informe, sin identidad. Lo llamáis globalismo, pero deberíais llamarlo uniformismo.
+
+URL: https://es.gizmodo.com/asi-se-hizo-el-deepfake-de-lola-flores-para-un-anuncio-1846099743
+- Lola Flores murió en 1995, pero hoy ha reaparecido con un discurso andalucista que nunca pronunció en un anuncio de cerveza.
+- El vídeo deepfake, aprobado por sus hijas, es parte de una campaña que la marca Cruzcampo encargó a  la agencia Ogilvy en España.
+- “¿Tú sabes por qué a mí se me entendió en todo el mundo? Por el acento. Y no solo me refiero a la forma de hablar...” dice la versión digital de la artista, perfectamente integrada en el anuncio gracias a un efecto analógico que hace que parezca que el vídeo está sacado de un programa de televisión de los 80.
+- Más allá de ser una oda a la diversidad, particularmente a la diversidad lingüística, el vídeo es una impresionante demostración de cómo la técnica del deepfake puede aplicarse a la publicidad.
+- El estudio de VFX encargado de resucitar digitalmente a Lola Flores, Metropolitana, partió de 5000 imágenes de la artista para entrenar un modelo de aprendizaje automático LIAEHD. Después ajustó el rostro de la cantaora sobre las facciones de la actriz que se había encargado de interpretar el discurso y reemplazó la voz de la actriz por la voz sintetizada de la auténtica Lola Flores.
+- La parte real del anuncio se grabó en Málaga en marzo del año pasado, pero el estreno se retrasó debido a la pandemia. La otra protagonista del vídeo es la cantaora cordobesa María José Llergo, quien de alguna manera recoge el testigo de Lola Flores para defender ese “acento” del que habla la campaña.
+- El anuncio se ha hecho viral y ha generado un pequeño debate sobre las implicaciones éticas de usar la imagen de un fallecido de esta manera.
+
+URL: https://wersm.com/new-cruzcampo-campaign-brings-lola-flores-back-to-life/
+- We and our partners use cookies to  Store and/or access information on a device. We and our partners use data for  Personalised ads and content, ad and content measurement, audience insights and product development. An example of data being processed may be a unique identifier stored in a cookie. Some of our partners may process your data as a part of their legitimate business interest without asking for consent. To view the purposes they believe they have legitimate interest for, or to object to this data processing use the vendor list link below. The consent submitted will only be used for data processing originating from this website. If you would like to change your settings or withdraw consent at any time, the link to do so is in our privacy policy accessible from our home page..
+- Manage Settings
+Continue with Recommended Cookies
+- Spanish beer company Cruzcampo’s latest campaign uses AI to bring legendary singer Lola Flores back to life.
+- In case you don’t know Lola Flores, she was a true icon of traditional Andalusian folklore, famous in her native Spain and around the world. A celebrated dancer, singer, and actress Lola Flores died 25 years ago in 1995, but well-known Spanish brewery Cruzcampo is resurrecting her with the power of AI.
+- The Sevillan company’s latest campaign features a deepfake of the star, created using many hours of audiovisual material, over 5,000 photos, and some pretty intense post-production. In “Con Mucho Acento,” Cruzcampo celebrates the Spanish language’s diversity – and accents in particular.
+- 
+- “Do you know why I was understood all over the world? Because of my accent,” says Flores’ impressively-recreated doppelganger in the video. “And I’m not just referring to the way I talk.”
+- Click To Tweet
+- Flores’ family was consulted for the campaign; specifically, her daughters Rosario and Lolita were also involved personally.
+- You can take a look at a video of part of the campaign below.
+- 
+- Impressive use of technology, really!
+- 
+- 
+- 
+- WhatsApp could soon introduce usernames and move away from using phone numbers as the core identifier for users.
+
+Your phone number …
+- Instagram Search Ads are now available to all advertisers via the Instagram marketing API.
+
+Just two months after it began to …
+- TikTok Tako is a new AI chatbot that could “radically change search and navigation” in the app.
+News of the test …
+- Twitter added a "Subscriptions" button to the user profile that lets anyone see who you are paying to subscribe to.
+
+Ever …
+- RETRO Clothing brought the infamous Ned Flanders Assassin Sneakers to life, Homer style.
+
+If there is one pair of sneakers that …
+- Missjourney is an AI tool that generates images exclusively of women, from CEOs to leaders, superheroes, doctors and engineers.
+
+TEDxAmsterdam Women …
+- Google is launching Product Studio, a new tool that lets merchants create product imagery for free, using generative AI.
+
+Google Product …
+- Shutterstock is set to acquire Giphy from Meta for $53 million, only 3 years after Meta had purchased it for …
+- Venmo, the digital wallet app, is introducing teen accounts, a new service allowing parents to open an account for children …
+
+URL: https://www.lavanguardia.com/economia/20210313/6374091/deepfake-resucita-lola-flores-brl.html
+- Economía
+- Entender el mundo y hablarle al mundo no es lo mismo: los publicitarios saben que explicar una idea no es lo mismo que decirla; las nuevas tecnologías tienen que convencer de que Lola Flores vive
+- Xavi Sastre
+- Tras el anuncio de Cruzcampo, ese en el que se resucita a Lola Flores para hacernos creer que lo más importante a la hora de hablar es el acento, por encima del lenguaje, el idioma o el vestido, nos damos cuenta de que la industria de la postproducción publicitaria ha avanzado a marchas forzadas. Devolver personajes del pasado que nos explican una idea increíble no es apto para todas las neuronas. Lo que se conoce como deepfake, el hipertrucaje o permutación inteligente de los rostros, es una técnica muy usada en el mundo de los videojuegos que ahora se ha popularizado con los programas de inteligencia artificial y ha llegado al cine y a la publicidad.
+- La postproducción ha cambiado los cromas por las pantallas led, que con luz, color y forma hace que prácticamente sea imposible distinguir realidad de ficción
+- Pero aquí no acaba la cosa: ahora también los escenarios se crean desde cero. La producción virtual con pantalla led es una técnica de filmación que utiliza escenarios proyectados en tiempo real para lograr complejos efectos visuales. Muchos especialistas de la industria la consideran ya como una de las técnicas más innovadoras de las últimas décadas que revolucionará la manera en la que se ruedan las producciones audiovisuales. Por ejemplo, recientemente se ha utilizado —con resultados espectaculares— en la serie de Star Wars The Mandalorian, de Disney.
+- Básicamente se trata de un set de rodaje en el que los actores y algunos elementos reales se sitúan en primer plano y detrás se coloca una serie de estas pantallas led de alta resolución que generan desde todos los ángulos los fondos 3D mediante luz, colores y reflejos auténticos. El resultado es que prácticamente imposible distinguir lo real de lo virtual. Y aún más: los escenarios se pueden modificar en tiempo real, el mismo día del rodaje, y ello abre infinitas posibilidades.
+- “Con estas nuevas técnicas de hiperrealismo o hiperrealidad lo que conseguimos es democratizar las ideas perfectas”, indica el chief creative officer de Ogilvy Roberto Fara, protagonista del equipo que recogió la idea de hacer aparecer la faraona como si existiese aún y hablara de un concepto tan actual como el empowerment. “La publicidad da una vuelta más a la tecnología y cambia los clásicos cromas verdes por las pantallas led de luz, así tenemos mucha más información en directo”, interviene el director de Metropolitana, Ramon Arteman. Ellos resolvieron el guion y convirtieron la historia conceptual de una mujer en lo que significa la tierra: Andalucía. Todo suma.
+- La técnica del unreal coge el motor de los videojuegos como Fortnite y permite crear realidades instantáneas: a medida que se mueve la cámara el fondo se mueve con nosotros
+- “La tecnología permite ahora unos servicios y unos efectos nunca vistos; ya no hace falta imaginarlo porque lo tenemos delante de nuestras propias narices cuando es necesario”, predica el tercer vértice del proceso, Albert Soler, el partner de Mama Team Productions. Y todo esto es posible por el unreal, un motor de videojuegos, como el de Fortnite, que permite crear realidades instantáneas: a medida que se mueve la cámara el fondo se mueve con nosotros”, insiste Soler. En otras palabras, que ahora la postproducción nos acompaña durante el propio proceso, no es algo que se tenga que hacer a posteriori.
+- Técnicas como el deepfake hacen que la postproducción nos acompañe durante el propio proceso de rodaje, ahora ya no es algo que se tenga que hacer a posteriori.
+- Este tipo de revolución publicitaria también llega en forma de robots (que podrán mover las cámaras con extrema precisión y tantas veces como se quiera) o ópticas y sensores full-frame, con una profundidad de campo jamás vista, o el mismo deepfake. “Estas técnicas han convertido el impacto visual en concepto de trabajo”, esgrimen desde Ogilvy. Quizá no estemos preparados aún para el futuro, pero empezamos a controlar el tiempo.
+- © La Vanguardia Ediciones, SLU Todos los derechos reservados.
+
+URL: https://www.rtve.es/noticias/20210321/deep-fakes-debate-suplantacion-identidad-inteligencia-artificial/2082845.shtml
+- 21.03.2021
+|
+
+									    09:18 horas
+- Una cuenta de 'deep fakes' de Tom Cruise y el 'deep nostalgia' para revivir las fotos antiguas de tus seres queridos fallecidos. Esto es lo que ha reavivado la moda de los 'deep fakes' en redes sociales y el debate sobre el uso de las IA para generar desinformación. En ‘Cuando No Era Viral’ te contamos todos los detalles de esta tecnología que cada vez avanza más para difuminar la línea entre lo real y lo falso.
+- En ##CuandoNoEraViral hablamos de ##deepfake ##deepnostalgia ##ia y ##ciberdelito | @antiareino
+- Imitadores de Tom Cruise ha habido muchos, pero ninguno como el de @deeptomcruise de TikTok. No solo por su parecido físico, su forma de vestir o sus gestos, sino porque combina todo eso con la tecnología de los 'deep fakes'. El resultado es tan asombroso, que muchos usuarios dudaban de si era el verdadero Tom Cruise o no. Sin embargo, por muy logrado que esté, siempre hay algún fallo técnico, ya sea en la voz o en la imagen, que nos indica que no estamos ante la estrella de Hollywood.
+- Chris Ume es quien está detrás de estos clips virales y explicó en una entrevista en The Verge la de horas y esfuerzo detrás de estos vídeos, además de trabajar con Miles Fisher, imitador de Tom Cruise: “No puedes hacerlo con solo presionar un botón”.
+- Los Deep fakes también han tomado un cariz entre enternecedor y estremecedor al “revivir” a nuestros seres queridos fallecidos. Con ‘deep nostalgia’ podemos animar cualquier fotografía antigua que tengamos y de esta manera veremos cómo se mueve esa persona ligeramente, como preparándose para ser fotografiado.
+- “
+
+
+
+
+
+
+
+
+
+
+
+Ver esta publicación en Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Una publicación compartida de RTVE Noticias (@rtvenoticias)“
+
+“
+- “Una publicación compartida de RTVE Noticias (@rtvenoticias)“
+- Pero la tecnología ha ido más allá y en TikTok se han hecho famosos dos filtros. Uno te permite sacarte una fotografía con esa persona que ya no está para que parezca que estáis juntos. El otro hace que te veas mayor y te parezcas a alguno de tus padres, lo que ha hecho que muchos lo hayan empleado para volver a ver a su progenitor fallecido.
+- Cómo te extraño #mama ! #flashbacks #teextraño #madres #parati #transformaciones
+- Y tampoco debemos olvidar que con el ‘deep fake’ de Cruzcampo se consiguió resucitar a la mismísima Lola Flores con la ayuda y permiso de sus hijas. La Inteligencia Artificial fue lo que dio vida a esta polémica campaña publicitaria.
+- Los 'deepfakes' han despertado la alarma entre los expertos, que creen que esta tecnología podría usarse para la suplantación de identidad de una manera casi indetectable. No solo se pude robar la imagen de alguien, también la voz ('deepvoice') y a veces se realizan llamadas falsas para poder conseguir estas muestras de audio. También se han usado los Deep fakes en grabaciones pornográficas para dañar la imagen de una persona y durante campañas electorales con fines políticos. Los técnicos en ciberseguridad trabajan constantemente para detectar estas falsificaciones que van mucho más allá que las fake news.
+- Pero hay quienes saben ver el potencial de este tipo de tecnología y los usos que podremos darle: desde el doblaje de actores hasta la restauración de fotografías. Este tipo de debate se ha planteado desde el inicio de la historia de la humanidad: siempre que la sociedad avanza el miedo a los cambios y a las posibles consecuencias nos impide ver las oportunidades. Y, como siempre, la clave no está en el invento en sí, sino en el uso que le damos. Por el momento, podemos respirar tranquilos sabiendo que estos 'deepfakes' siguen siendo imperfectos y aprovecharnos de ellos para hacer lo que mejor se nos da: reírnos.
+
+URL: https://www.expansion.com/economia-digital/innovacion/2021/01/27/60104acbe5fdeaa9248b4644.html
+- Así se hizo el anuncio que devolvió la vida a Lola Flores
+- El nuevo anuncio de Cuzcampo con Lola Flores reabre el debate sobre la difusión de vídeos falsos para alimentar la desinformación.
+- "Tú sabes por qué a mí se me entendió en todo el mundo? Por el acento", comienza diciendo Lola Flores en el nuevo anuncio de la cervecera espańola Cruzcampo. La tecnología ha conseguido que La Faraona vuelva a la vida gracias al deep fake, una técnica que permite crear vídeos falsos con personas que aparentemente son reales gracias al uso de la inteligencia artificial en base a imágenes o vídeos ya existentes. Y con ello, se vuelve a abrir el debate sobre cómo este tipo de técnicas alimentan la desinformación
+- "Para conseguir el resultado que actualmente veis en la tele o en redes, utilizamos más de 5.000 imágenes de las que extrajimos diferentes patrones de movimiento. Empleamos un software muy potente y además perfeccionamos aún más la imagen al retrasarse el lanzamiento de la campańa. Pero lo cierto es que cada vez más usuarios son capaces de utilizar este tipo de tecnologías. En publicidad es ficción, y evidentemente se ha hecho con el beneplácito de la familia, pero fuera de la publicidad hay un gran mundo de noticias falsas que tenemos que conocer ", explica Ramón Arteman, CEO de Metropolitana, estudio de diseńo encargado de la elaboración del deep fake de Cruzcampo.
+- Esta tecnología lleva ańos existiendo y no es la primera vez que se emplea en publicidad. En 2013, Haudrey Hepburn revivía para protagonizar un anuncio de chocolates, y hace dos ańos, David Beckham protagonizaba una campańa contra la malaria en un vídeo en el que hablaba 9 idiomas diferentes gracias al uso de esta técnica. "Sin duda el anuncio de Cruzcampo abre una reflexión sobre lo que es capaz de hacer la tecnología y hay que ir acostumbrándose a poner en tela de juicio todo lo que oimos y vemos, pues los deep fakes son muy empleados para difundir noticias falsas", apunta Arteman.
+- Mediante el uso de esta tecnología, la actriz Scarlett Johansson fue víctima de un vídeo pornográfico falso hace dos ańos, y a mediados de 2019, un grupo de cibercriminales lo utilizaron para hacerse pasar por la voz de un director ejecutivo y transferir de forma fraudulenta unos 220.000 euros de una compańía energética británica.
+- "Es muy importante que los usuarios sepan que esta tecnología existe, por lo que un anuncio como el de Cruzcampo puede ser útil para educar y demostrar que es posible engańar con vídeos y declaraciones que nunca han existido. La desinformación es un problema que está sobre la mesa y los deep fakes no se van a quedar atrás. La tecnología va a permitir que todos aquellos que quieran hacer el mal utilicen estas técnicas para extorsionar o difundir noticias falsas. Además, todos somos vulnerables de ser protagonistas de un vídeo de este tipo, no solo los famosos", explica Ruth García, técnico de ciberseguridad para ciudadanos de Incibe.
+- Según las previsiones de la compańía de ciberseguridad Avast, es probable que los deepfakes alcancen una calidad el próximo ańo en la que puedan utilizarse activamente en campańas de desinformación. "Las teorías de conspiración sobre el coronavirus, como su supuesta propagación a través de 5G, podrían volver a enfatizarse a través de videos deep fake, por ejemplo, mostrando erróneamente a los políticos como conspiradores. Es probable que la pandemia, el aumento resultante de personas teletrabajando y una mayor dependencia de la conectividad en línea, así como la creciente presión económica, combinada con la incertidumbre, contribuyan a la efectividad del uso de deep fakes para difundir desinformación", afirma Petr Somol, director de investigación de IA en Avast.
+- Tal y como apunta Ramón Arteman, discernir entre un vídeo verdadero o falso es cada vez más complicado, aunque los detalles y la sofisticación necesaria para conseguir un resultado de gran calidad, es el punto débil de estos vídeos falsos.
+- "Podríamos seguir varias pautas para detectar si un vídeo es verdadero o es un deep fake. La primera es fijarnos en la fuente desde la que llega esa información. O si la envía un amigo, ver si es un reenvio de un envío. Tenemos que afinar nuestro instinto de detectives para buscar pistas que nos hagan ver que estamos ante un engańo y esto lo podremos detectar cuando la procedencia de lo que nos mandan es incierta", afirma Ruth García, de Incibe.
+- "La segunda pista la podemos encontrar fijándonos en la imagen. Se pueden ver sombras raras o la iluminación o cosas que no cuadren. También tonos de piel diferentes al resto del cuerpo, por ejemplo, o partes del rostro extrańas, e incluso en el parpadeo de los ojos. Se dice que parpadeamos en intervalos de una media de 2 a 8 segundos, y en esos vídeos o hay pocos o son muy seguidos", ańade.
+- La tercera pauta a seguir es escuchar bien el audio, "pues podría delatar si estamos ante una falsificación. De hecho, últimamente estamos viendo muchos vídeos de declaraciones de políticos que son falsas, son memes, y se suele identificar que es un vídeo manipulado", afirma.
+- "Otra pista es si se dicen cosas que resultan extrańas en un determinado perfil o una persona. Declaraciones muy exageradas o que realmente van en contra de la reputación de alguien".
+- "Por último, hay que tener en cuenta la duración del vídeo. Elaborar este tipo de contenidos lleva bastante tiempo de realización y no suelen ser vídeos muy largos", concluye la experta de Incibe.
+- Tan y como explica García, grandes tecnológicas como Google están trabajando en herramientas para ayudar a detectar contenidos falsos. Bajo el nombre de Project Assembler.org, el gigante tecnológico emplea una tecnología de fact check para intentar identificar desinformación.
+- "Espańa tiene una gran proyección dentro de HPE"
+- Bill Gates cree que la Inteligencia Artificial acabará con Google y Amazon
+- La pandemia dispara el uso de las redes sociales, un 27% más que hace un ańo
+- Así nos ha cambiado la vida la tecnología
+- LuzIA: la inteligencia artificial que transcribe audios de WhatsApp
+- © 2023 Unidad Editorial Información General, S.L.U.
+- Síguenos en
+
+URL: https://www.elmundo.es/cultura/2021/02/20/602ffb8cfdddfffb1c8b461e.html
+- Portada
+- Oferta 19,95€ 1 año
+- El uso de la Inteligencia Artificial para 'resucitar' a estrellas fallecidas como Lola Flores o a personajes históricos como Franco aviva el debate sobre el uso de la imagen
+- Cuando Lolita y Rosario Flores asistieron al visionado del comentado anuncio de Cruzcampo, su respuesta no se hizo esperar. La réplica de su madre en la pantalla era incontestable. La misma pose. El mismo gesto. Pero no era su madre. Hicieron falta varios visionados más para dar con la tecla y afinar (aún más) el resultado. La respuesta fue tan sorprendente como obvia: "Lola Flores no se hacía la raya del pelo". El autor de esta afirmación es Ramón Arteman, cofundador de la compañía de posproduc
+- Hazte Premium desde 1€ el primer mes
+- Aprovecha esta oferta por tiempo limitado y accede a todo el contenido web
+- Cancela cuando quieras
+
+URL: https://thenextweb.com/neural/2021/01/22/ai-resurrects-legendary-spanish-singer-lola-flores-to-hawk-beer/
+- You have been blacklisted, KTHXBAI
+- XID: 9007535
+- Varnish cache server
+
+- LinkedIn deepfake salespeople
+- Hour One 'character' clones
+- Page infoType: IncidentPublished: January 2021Lsst updated: January 2022

@@ -1,0 +1,142 @@
+- Occurred: July 2019
+- Can you improve this page?Share your insights with us
+- Clarifai is a US-based company founded in 2013 that specialises in computer vision applications.
+- In July 2019, the New York Times published a story alleging that in 2014 dating site OkCupid had provided Clarifai with personal photographs of its users to build its facial recognition technology, and that it had done so without the knowledge or consent of its users. The article also asserted that an OkCupid founder who was also a Clarifai investor had supplied the photographs.
+- The revelation resulted in an outcry from civil rights and privacy advocates, and a Federal Trade Commission (FTC) investigation into the deal. In July 2022, Reuters reported that OkCupid owner Match.com had been actively styming the FTC's enquiries using a variety of legal manoeuvres.
+- The NYT story also resulted in a class action lawsuit accusing Clarifai of surreptitously violating the Illinois Biometric Information Privacy Act (BIPA) by failing to inform OKCupid users about the use of their pictures and getting their written consent.
+- In June 2018, WIRED revealed that Clarifai had been hacked by people in Russia, thereby potentially exposing its work for Project Maven, a controversial US Defense department project that uses machine learning and AI to analyse drone surveillance imagery.
+- The news led Clarifai CEO Matt Zeiler to publicly confirm the hack and basic details of the company's relationship. Six months later, a group of Clarifai employees disseminated an open letter (pdf) expressing concerns at the company's involvement in automonous weaponry.
+- Operator: Clarifai Developer: Clarifai; Match Group/OkCupid
+- Country: USA
+- Sector: Technology
+- Purpose: Train facial recognition systems
+- Technology: Dataset; Computer vision; Facial recognition; Machine learning; Neural networkIssue: Privacy; Ethics
+- Transparency: Governance; Marketing; Privacy; Legal
+- Website
+- Wikipedia article
+URL: https://cookcountyrecord.com/stories/579549218-judge-dismisses-biometrics-class-action-accusing-ai-firm-clarifai-over-scraping-okcupid-user-photos
+
+URL: https://s3.amazonaws.com/jnswire/jns-media/ac/34/11550997/stein_v_clarifai_dismiss_3-16-21.pdf
+
+URL: https://jnswire.s3.amazonaws.com/jns-media/73/37/11398060/20ch1810.pdf
+
+URL: https://dockets.justia.com/docket/illinois/ilndce/1:2020cv01937/374768
+- This docket was last retrieved on March 16, 2021. A more recent docket listing
+         may be available from PACER.
+- Use the links below to access additional information about this case on the US Court's PACER system.
+        A subscription to PACER is required.
+- Access this case on the Illinois Northern District Court's Electronic Court Filings (ECF) System
+- Disclaimer: Justia Dockets & Filings provides public litigation records from the federal appellate and district courts. These filings and docket sheets should not be considered findings of fact or liability, nor do they necessarily reflect the view of Justia.
+- Why Is My Information Online?
+- Ask a Lawyer
+- Find a Lawyer
+- Subscribe to Justia's Free Newsletters featuring summaries of federal and state court opinions.
+
+URL: https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.reuters.com/legal/litigation/pssst-matchcom-does-not-want-you-know-about-this-ftc-case-2022-07-06/
+- (Reuters) - The online dating company Match Group Inc really, really does not want anyone to know that it’s in a big fight with the U.S. Federal Trade Commission over the FTC’s investigation of a Match subsidiary that allegedly shared users’ photos with a facial recognition company.
+- The FTC filed a petition on May 26 to force Match to comply with a civil investigative demand for documents related to an alleged 2014 data-sharing deal between Match subsidiary OkCupid and Clarifai Inc, an artificial intelligence company. The FTC investigation follows a 2019 New York Times article asserting that Clarifai built its database of faces with OkCupid user photos supplied by an OkCupid founder who was also a Clarifai investor.
+- OkCupid and Match denied any commercial agreement with Clarifai in the Times story, but in 2020, the FTC demanded documents from the companies about the alleged deal. According to the FTC, Match responded with “blanket and sweeping” claims of attorney-client and work-product privilege. After more than a year of battling, the FTC filed its petition, asking the court to order Match to turn over 136 disputed documents.
+- Match responded a few days later, on June 2, with an emergency motion to seal everything: “all filings in this matter, including both the redacted and un-redacted versions of all exhibits, and any declarations, petitions, motions and memoranda filed to date.” The company also proposed that the FTC's original petition be pulled off the public docket so that Match could litigate the privilege dispute under a pseudonym.
+- I should clarify: That’s what I believe Match said, based on the FTC's opposition to Match’s emergency filing. Match has filed everything — motions, memos and exhibits — under seal. The only way I know what they company has proposed is from the FTC's briefs countering Match's efforts to keep the case under wraps.
+- Match did disclose in a May 6 quarterly filing with the Securities and Exchange Commission that it had received an FTC demand for “certain documents and information regarding the allegedly wrongful conduct of OkCupid in 2014 and our public statements in 2019 regarding such conduct.” The SEC filing also assured investors that Match believed the investigation was meritless. But that is all Match has said publicly.
+- U.S. District Judge Richard Leon in Washington, D.C., denied Match’s motion to seal the entire docket but allowed Match’s filings to remain under wraps temporarily. The judge's June 8 order temporarily sealed FTC exhibits, although Leon also ruled that the FTC’s original petition would remain public, as would a redacted version of the government’s memo backing the petition.
+- Match’s lawyers from Reed Smith appear to have renewed their push to litigate in secret in a sealed June 21 motion. (Once again, members of the public — including me — are forced to surmise Match’s arguments based on unsealed FTC responses.) The FTC’s July 5 opposition suggests that Match is pressing for Leon to maintain a seal on all case filings until the judge rules on the FTC’s petition.
+- Match counsel Edward Schwartz of Reed Smith declined to comment via email because “this litigation relates to a pending and otherwise private investigation.” The FTC declined to comment on the dispute.
+- I’m reflexively opposed to broad seal orders, but this case offers two powerful, specific reasons to keep things public.
+- First: The allegations underlying the FTC’s investigation are already known. Remember, the New York Times reported on OkCupid’s alleged data-sharing with Clarifai in 2019. An OkCupid user in Illinois subsequently sued Clarifai for violating Illinois’ biometric privacy law. That class action was dismissed in March 2021 on jurisdictional grounds, but the case added some flesh to the initial reporting on OkCupid and Clarifai. Plaintiffs alleged that one of OkCupid's founders used his personal email account to send profile photos of the site’s users to Clarifai’s CEO. The OkCupid founder, who was also a Clarifai investor, allegedly did not obtain permission from OkCupid users or even tell users that he was sharing their photos with the facial recognition company.
+- Match, moreover, further undermined its demand to litigate in secret by saying in its May 6 SEC filing that the company is cooperating with the FTC investigation even though it considers the underlying allegations to be meritless. Match's public proclamation of cooperation is all the more reason why the FTC’s case challenging the company's cooperation should be litigated in the open.
+- That leads me to the second big reason for public access: Match is apparently alleging that the FTC acted in bad faith, sandbagging the company in the midst of negotiations over the privileged documents by filing a public petition for enforcement. According to the FTC’s July 5 memo, Match has accused the agency of “specious allegations of bad faith conduct” and “gamesmanship designed to compromise Match’s ability to proceed pseudonymously.”
+- In a detailed declaration, FTC attorney Sarah Choi laid out all of the meetings and emails that preceded the FTC’s filing of the petition, including the agency’s unsuccessful attempt to round out its investigation by deposing Match witnesses instead of relying on purportedly privileged documents. The FTC insists that it followed all statutory and procedural requirements when it launched the enforcement proceeding, including an initial motion to keep its supporting brief under a temporary seal.
+- The FTC also defended the underlying investigation, in response to Match’s assertion that the agency already closed an investigation into OkCupid’s data-sharing practices back in 2015. The agency said Match had “conveniently” failed to disclose OkCupid’s alleged relationship with Clarifai during that previous investigation, even though the FTC said the information should have been turned over at the time.
+- At the moment, we’re only hearing the FTC’s side of the story, but that’s precisely my point: If the government is overreaching or playing games, as Match apparently alleges, we should know about it. And the only way to know is to litigate publicly, not to hide behind a sweeping seal.
+- Read more:
+- Match says DOJ closes probe into FTC complaint
+- Our Standards: The Thomson Reuters Trust Principles.
+- Thomson Reuters
+- Alison Frankel has covered high-stakes commercial litigation as a columnist for Reuters since 2011. A Dartmouth college graduate, she has worked as a journalist in New York covering the legal industry and the law for more than three decades. Before joining Reuters, she was a writer and editor at The American Lawyer. Frankel is the author of Double Eagle: The Epic Story of the World’s Most Valuable Coin.
+- Gayatri Joshi
+- Elizabeth Duffy
+- Zach Warren
+- Blake Brittain
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://www.nytimes.com/2021/03/15/technology/artificial-intelligence-google-bias.html
+- Please enable JS and disable any ad blocker
+
+URL: https://news.bloomberglaw.com/privacy-and-data-security/dating-site-profiles-capture-prompts-privacy-violation-lawsuit
+- By Daniel R. Stoller
+- An artificial intelligence company’s alleged capture of OkCupid Inc. profile data without users’ approval has prompted a state court lawsuit in Illinois.
+- The complaint filed Thursday in Illinois Circuit Court in Chicago alleges that the company, Clarifai, violated the Illinois Biometric Information Privacy Act.
+- The New York Times reported in July 2019 that Clarifai allegedly created a “face database” of OkCupid users to train its facial recognition tools, according to plaintiff Jordan Stein’s complaint. Stein claims Clarifai worked with an investor tied to OkCupid to gain access to the data.
+- The complaint follows Facebook Inc.'s $550 million settlement to end ...
+- AI-powered legal analytics, workflow tools and premium legal & business news.
+- Log in to keep reading or access research tools.
+
+URL: https://www.globaldatinginsights.com/news/ai-company-clarirfai-hit-with-lawsuit-over-okcupid-face-database/
+- An artificial intelligence company faces a state court lawsuit over claims that it used OkCupid profile photos to train facial recognition algorithms, without the consent of users.
+- Clarifai was accused by The New York Times in July of building a “face database” that was being used in the creation of controversial technology to keep track of the public.
+- Lead plaintiff Jordan Stein is complaining that the deed was in violation of the Illinois Biometric Information Privacy Act.
+- He believes that the company gained access to the images with the help of an OkCupid investor, although Clarifai CEO Matt Zeiler insists he was granted access by the dating app’s founders.
+- OkCupid’s Global Communications Officer Michael Kaye told Bloomberg Law: “OkCupid did not enter into any commercial agreement at that time with Clarifai, and has no relationship with the company now.”
+- It is unclear how many images Clarifai scraped from the dating platform but, under Illinois law, it could face a fine of up to $5,000 for each wilful violation.
+- Earlier this year, Facebook came to a $550 million settlement to bring an end to claims made against it under the same law.
+- A 47-year-old man was sentenced to two years probation in October, after pleading guilty to mailing threatening communications and conveying false information concerning purported biological weapons.
+- Liam MacLeod repeatedley made threats to OkCupid CEO Ariel Charytan when he was banned from the app for breaking the community guidelines. Over a four month period he sent nine letters to Charytan, two of which contained substances that he claimed were anthrax and HIV-infected blood. Both materials were found to be harmless.
+- Read more here.
+- Dominic is the Editor for Global Dating Insights. Originally from Devon, England he achieved a BA in English Language & Linguistics from The University of Reading. He enjoys a variety of sports and has a further passion for film and music.
+- oliver@webkick.co.uk
+- © Global Dating Insights 2019. Website by Webkick.
+
+URL: https://www.inverse.com/input/culture/okcupid-match-ftc-investigation-selling-user-data-facial-recognition
+- OkCupidity
+- OkCupid's owners at Match.com are really keen on keeping any info on the issue away from prying eyes, too.
+- The knowledge that dating apps routinely share users’ (often extremely) personal information with third-party marketing companies has been out in the open for at least a few years now. Just like social media, profiles on platforms such as Tinder, Hinge, and Grindr contain valuable troves of data for advertisers, and they’re willing to make some very lucrative offers to these companies, even if that goes against the preferences of consumers.
+- Knowing that, it’s unfortunate but unsurprising to hear the latest news that OkCupid is apparently under a U.S. Federal Trade Commission investigation for allegedly selling profile pictures to a facial recognition company without the public’s knowledge or consent. Reports that OkCupid’s parent corporation, Match.com, had provided facial ID provider Clarifai with photos first surfaced in 2019 via The New York Times, and a new analysis from Reuters looking into the subsequent legal stonewalling and recent attempts to litigate privately points to some very embarrassing information for the company.
+- Relationship status: It’s complicated — Now, there’s a lot of complex legalese and judicial red tape to this story, but the (very) basic gist of it is this: Back in 2014, one of OkCupid’s founders allegedly supplied Clarafai’s CEO with user profile photos to help build their facial recognition database via his personal email account. Oh, and lest we forget, this OkCupid founder also just so happens to be an investor for Clarafai.
+- Since then, there have been numerous back-and-forths involving class action suits, FTC demands, and Match.com counter-demands. As Reuters notes, we’ve only really heard the FTC’s side of the story, since Match.com is so keen on keep all its legal documents and filings sealed at the moment. Suffice to say, it’s not a great look for OkCupid or its parent company, and they likely can’t stonewall forever.
+
+URL: https://www.law360.com/articles/1472838
+- Try our Advanced Search for more refined results
+- In the legal profession, information is the key to success. You have to know what’s happening with clients, competitors, practice areas, and industries. Law360 provides the intelligence you need to remain an expert and beat the competition.
+- TRY LAW360 FREE FOR SEVEN DAYS
+- Already a subscriber? Click here to login
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- powered by Lex Machina®
+- © 2023, Portfolio Media, Inc. | About | Contact Us | Legal Jobs | Advertise with Law360 | Careers at Law360 | Terms | Privacy Policy | Cookie Settings | Help | Site Map | Resource Library | Explore Law360
+- Enter your details below and select your area(s) of interest to stay ahead of the curve and receive Law360's daily newsletters
+- 
+- 
+- 
+- Email (NOTE: Free email domains not supported)
+- First Name
+- Last Name
+- Job Title
+- PLEASE NOTE: A verification email will be sent to your address before you can access your trial.
+- Password (at least 8 characters required)
+- Confirm Password
+- Law360 may contact you in your professional capacity with information about our other products, services and events that we believe may be of interest.You’ll be able to update your communication preferences via the unsubscribe link provided within our communications.We take your privacy seriously. Please see our Privacy Policy.
+- 
+- 
+- 
+- Law360 takes your privacy seriously. Please see our Privacy Policy.
+- 
+
+- OkCupid psychological analysis dataset sharing
+- People of Tinder dataset
+- Page infoType: Incident Published: January 2023

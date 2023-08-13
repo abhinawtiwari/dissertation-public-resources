@@ -1,0 +1,307 @@
+- Facebook US political group recommendations
+- Occurred: January 2021
+- Can you improve this page?Share your insights with us
+- The Markup has found that Facebook is prompting users of its platform to join political and civic groups, despite having publicly committed to stop doing so ahead of the US 2020 presidential election.
+- According to The Markup, Facebook continued to recommend political groups throughout January 2021, having renewed its promise not to on January 11. Its data also suggests that Facebook remained disproportionately likely to recommend political groups to supporters of Donald Trump.
+- The finding prompted Senator Ed Markey to write to Mark Zuckerberg asking for an explanation, calling Facebook group 'breeding groups for hate'.
+- On January 11, Facebook had stated in a blog post that it was 'not recommending civic groups for people to join' on its platform.
+- Operator: Meta/Facebook
+- Developer: Meta/Facebook
+- Country: USA
+- Sector: Politics
+- Purpose: Recommend groups
+- Technology: Recommendation algorithm
+- Issue: Mis/disinformationTransparency: Governance; Black box
+URL: https://about.fb.com/news/2021/01/preparing-for-inauguration-day/
+- Meta
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Update on Saturday, January 16, 2021 at 11:00AM PT:
+- We are banning ads that promote weapon accessories and protective equipment in the US at least through January 22, out of an abundance of caution. We already prohibit ads for weapons, ammunition and weapon enhancements like silencers. But we will now also prohibit ads for accessories such as gun safes, vests and gun holsters in the US.
+- Update on January 15, 2021 at 1:57PM PT:
+- We’re monitoring for signals of violence or other threats both in Washington, D.C. and across all 50 states. In the lead up to Inauguration Day, we have implemented a series of additional measures to continue preventing attempts to use our services for violence. This includes our ongoing pause on all political advertising. And, as we did in the weeks after the presidential election, we are promoting accurate information about the election and the violence at the Capitol instead of content that our systems predict may be less accurate, delegitimizes the election or portrays the rioters as victims. We have also implemented specific measures to reduce opportunities for abuse in Groups.
+- Building on these steps, we have added two additional measures to further prevent people from trying to use our services to incite violence.
+- We will continue to monitor and add additional measures as needed.
+- Originally published on January 11, 2021 at 1:05PM PT:
+- We began preparing for Inauguration Day last year. But our planning took on new urgency after last week’s violence in Washington, D.C., and we are treating the next two weeks as a major civic event. We’re taking additional steps and using the same teams and technologies we used during the general election to stop misinformation and content that could incite further violence during these next few weeks.
+- We are now removing content containing the phrase “stop the steal” under our Coordinating Harm policy from Facebook and Instagram. We removed the original Stop the Steal group in November and have continued to remove Pages, groups and events that violate any of our policies, including calls for violence. We’ve been allowing robust conversations related to the election outcome and that will continue. But with continued attempts to organize events against the outcome of the US presidential election that can lead to violence, and use of the term by those involved in Wednesday’s violence in DC, we’re taking this additional step in the lead up to the inauguration. It may take some time to scale up our enforcement of this new step but we have already removed a significant number of posts.
+- Our teams are working 24/7 to enforce our policies around the inauguration. We will keep our Integrity Operations Center operating at least through January 22 to monitor and respond to threats in real time. We already had it active ahead of Georgia’s runoff elections and Congress’s counting of the Electoral College votes in the US presidential election. We extended it due to the violence at the Capitol last week.
+- As was the case through the 2020 elections, we’ve continued to proactively reach out to federal and local law enforcement and we are providing information in response to valid legal requests. As always, we will continue to remove content, disable accounts and work with law enforcement when there is a risk of physical harm or direct threats to public safety.
+- In addition to the indefinite suspension of President Trump’s account that we announced on January 7, we’re keeping our pause in place on all ads in the US about politics or elections. This means that we aren’t allowing any ads from politicians, including President Trump.
+- We are also connecting people with reliable information and high-quality news about the inauguration and the transition process. After the inauguration, our label on posts that attempt to delegitimize the election results will reflect that Joe Biden is the sitting president. Our Voting Information Center will stay active on Facebook and Instagram through the inauguration so it can continue to help people find reliable information and updates about the electoral process.
+- During inauguration week, we will add a news digest to Facebook News as a curated place for people to find reliable news about the inauguration. This will include live video of the inauguration at the US Capitol on January 20. Facebook News often includes news digests dedicated to events of national or global significance, such as “COVID-19” or “Unrest in America” with stories selected by the curation team. There will also be curated live video of the inauguration and other major moments on Facebook Watch.
+- We’ve had emergency measures in place since before the US elections such as not recommending civic groups for people to join. Last week, we implemented several additional ones, including increasing the requirement of Group admins to review and approve posts before they can go up, automatically disabling comments on posts in Groups that start to have a high rate of hate speech or content that incites violence, and using AI to further demote content that likely violates our policies. We’re keeping these measures in place.
+- We will stay vigilant to additional threats and take further action if necessary to keep people safe and informed.
+- Follow Us
+- © 2023 Meta
+- To help personalize content, tailor and measure ads, and provide a safer experience, we use cookies. By clicking or navigating the site, you agree to allow our collection of information on and off Facebook through cookies. Learn more, including about available controls: Cookies Policy
+
+URL: https://themarkup.org/citizen-browser/2021/01/19/facebook-said-it-would-stop-pushing-users-to-join-partisan-political-groups-it-didnt
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Citizen Browser
+- According to Citizen Browser data, the platform especially peppered Trump voters with political group recommendations
+        
+        
+          
+
+By 
+Leon Yin and 
+
+      Alfred Ng
+- In the run-up to the 2020 presidential election, Facebook said it was taking “emergency” measures to prevent people from using the platform to spread misinformation or coordinate violence. Among those measures, CEO Mark Zuckerberg testified under oath before Congress in October, Facebook had stopped recommending all “political content or social issue groups”—a practice its own internal research has suggested steers users toward divisive and extremist content.
+- Days after a riot organized at least partially on social media overtook the U.S. Capitol, Facebook reiterated in a Jan. 11 blog post that it was “not recommending civic groups for people to join.”
+- Citizen Browser
+- Following an investigation by The Markup, Sen. Ed Markey is asking for answers on why Facebook failed to stop recommending political groups
+- But contrary to Facebook’s claims, The Markup found the platform continued to recommend political groups to its users throughout December. We found 12 political groups among the top 100 groups recommended to the more than 1,900 Facebook users in our Citizen Browser project, which tracks links and group recommendations served to a nationwide panel of Facebook users. Our data shows Facebook also continued to recommend political groups throughout January, including after it renewed its promise not to on Jan. 11.
+- Facebook pushed political groups most often to the Trump voters on our panel. Almost one fourth of the top 100 groups suggested to Trump voters were political—and political groups accounted for half of the top 10 groups recommended to Trump voters. Some posts in those groups contained conspiracy theories, calls to violence against public officials, and discussions of logistics for attending the rally that preceded the Capitol riot.
+- “We have a clear policy against recommending civic or political groups on our platforms,” Facebook spokesperson Kevin McAlister wrote in response to The Markup’s findings, “and are investigating why these were recommended in the first place.”
+- A post in the “Rudy Giuliani [Common Sense]” group, which was recommended to 8 percent of Trump voters in our panel, called for Georgia’s governor and secretary of state to be hanged because of their refusal to overturn election results.
+- That post was removed after The Markup contacted Facebook.
+- In another group, “Donald Trump Is Our President,” House Speaker Nancy Pelosi was the target of a recent post. “Just wish they would have found her and marched her out of the building in handcuffs to citizen’s arrest,” a comment with 25 likes said. Facebook recommended the group to 19 of our panelists. The group is run by Ryan Fournier, co-chairman of the conservative group Turning Point Action.
+- The administrator of a group recommended to 19 percent of Trump voters in our panel posted an event called “#StormTheCapitol” on Dec. 30, 2020, telling the 58,000 members in “Candace Owens for POTUS, 2024” to show up in Washington, D.C., on Jan. 6.
+- Owens did not respond to a request for comment.
+- We’re investigating what content social media platforms amplify. Sign up for updates on what we uncover.
+- We’re investigating what content social media platforms amplify. Sign up for updates on what we uncover.
+- The administrator was later named among a group of Minnesotans who traveled to the D.C. rally. It is not clear if he went to the Capitol.
+- That group was among the three most frequently suggested political groups for our panelists who voted for Trump, along with “Tucker Carlson Fox News” and “Kayleigh McEnany Fan Club.” Each was recommended to one in five Trump voters on our panel.
+- Political groups were also suggested to our panelists who voted for Biden, albeit at a different rate—15 percent of the top recommended groups were political, but only two thirds were left-leaning. These political groups did not crack the top 10 most recommended groups.
+- The political group most frequently recommended to Biden voters on our panel was a fan page for Steve Schmidt, the Republican founder of the anti-Trump group The Lincoln Project. This page was the 13th most recommended group, with 8 percent of Biden voters receiving a suggestion they join.
+- Our 115 panelists who reported not voting in 2020 received no recommendations for political groups at all.
+- Most of the 97,443 groups recommended to our panelists were not political. The top recommended group for all panelists was for The Far Side comics, followed by groups for crafts, animals, relationships, cars, and recipes. (For the top 100 recommended groups, refer to our GitHub.)
+- Facebook, when it announced it would halt political group recommendations, did not detail how it would classify groups as political. The platform has a mechanism that allows administrators to tag their own groups as “civic” or “political,” but except for the “Dan Crenshaw for POTUS 2024” group, the groups The Markup identified had not tagged themselves as political.
+- To determine whether or not a group recommended to our panelists was political, The Markup looked at the group’s name, its “about” page, and its rules; and for groups that were public or that accepted our request to join, we read through recent posts in the group’s “discussion” feed to assess whether the group mentions politicians, political commentators, movements, parties, or ideologies. In some cases, as with the “Ben Shapiro Fans” group, the group’s own rules instructed members to “not post content unrelated to Ben Shapiro or politics.”
+- When possible, we contacted administrators for all the groups mentioned in this story. Of those that responded, the Candace Owens for POTUS, 2024 and Steve Schmidt fan club groups told The Markup they consider their groups “political.” The Giuliani fan group’s administrator, Patricia Brackett, said in a Facebook voice message that her page was meant for Trump supporters.
+- “Politics, I wouldn’t say that because I’m not for either side,” she said. “I’m for a man who I know can change the future and do good for this country.”
+- Show Your WorkCitizen Browser
+- The Citizen Browser project seeks to illuminate the content Facebook elevates in its users’ feeds
+- There are limitations to some of our findings. Our group of Citizen Browser panelists is small compared to the millions of Facebook users in the United States. The group recommendations shown to the 508 Trump and 1,214 Biden voters in our panel are not necessarily representative of what such voters are experiencing in the larger world of Facebook. Our panel also skews older, more educated, and whiter than the general population, and we are particularly short on Trump voters and Latinos. (Read more about how we built the panel and the custom browser that panelists use to automatically send us Facebook data here.)
+- However, Facebook does not provide data on its group recommendations for users, and nobody has to date found a way to otherwise access that data. Through Citizen Browser, we’re able to provide a rare look into the groups Facebook chooses to broadcast to hundreds of people in the United States.
+- Among the top recommended political groups for Biden voters, most were rife with anti-Trump posts.
+- A member of “Joe BIDEN POTUS 46 Official” posted a meme aimed at belittling Trump voters as overweight, gun-toting trailer park residents. One comment on the post described the image as “One of 70 million other deplorable ignorant ungrateful loser [sic].”
+- Another meme, in the “Last Week Tonight” group for fans of the political commentary program, suggested that Trump voters were incestuous terrorists.
+- If Facebook and other social media companies are serious about meeting this moment, they will make systematic changes on their platforms.
+- In one group that follows a conservative commentator, “Dr. Steve Turley Fans,” recommended to 18 Trump voter panelists, a member asked for advice on how to “stay positive and focused” if the events on Jan. 6 failed to change the election’s outcome.
+- The replies varied, from suggesting prayer to staying optimistic—but one was more sinister.
+- “At some point in time, it may come down to simple blood-shed,” a top reply said.
+- The original poster responded, “I know this and I feel like I was made for that moment which is thrilling and completely terrifying also.”
+- The group remains active, and the post was still up at press time.
+- Shown our findings, Sen. Ed Markey, a Democrat from Massachusetts, called on Facebook to act.
+- “If Facebook and other social media companies are serious about meeting this moment, they will make systematic changes on their platforms to stop prioritizing user engagement and advertising dollars over the wellbeing of our society and democracy,” he said in a statement.
+- Jessica González, co-CEO of Free Press and lead organizer of several coalitions that seek to stop hate speech on digital platforms, said Facebook has a history of announcing improvements to its platform that later fall flat.
+- “Their policy looks good on its face but they’re narrowly interpreting that policy so it doesn’t apply when things really get hot,” González said.
+- It’s unclear how Facebook chooses which groups to recommend to any given user—but its suggestions are powerful.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Documents examined by the Wall Street Journal last May show Facebook’s internal research found 64 percent of new members in extremist groups joined because of the social network’s “Groups you should join” and “Discover” algorithms. Facebook declined to comment to the Wall Street Journal about how it addressed the issues with groups but told the outlet that it has improved policies since 2016.
+- In the past year, Facebook groups have been linked to deaths at a protest in Kenosha, Wis., and the growth of the QAnon conspiracy theory, as well as providing a recruiting ground for hate groups.
+- Our analysis showed that for our panelists, the political groups Facebook recommended did not necessarily have much to do with their social connections: Panelists who voted for Trump were only recommended to join a political group containing one of their friends 1.4 percent of the time—for Biden voters it was 2.4 percent of the time.
+- González said group recommendations are likely a symptom of Facebook’s data profiles, which the social network creates to help advertisers find their target audience.
+- “The use of personal data to target people who may be vulnerable to those kinds of messages is something that I think Congress needs to get at with data privacy legislation,” she said.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Facebook Said It Would Stop Pushing Users to Join Partisan Political Groups. It Didn’t
+- From the series —
+    
+
+      Citizen Browser, 
+
+      Investigations, and 
+
+      Impact
+- Leon Yin
+Investigative Data Journalist
+- Alfred Ng
+Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://themarkup.org/citizen-browser/2021/01/26/lawmaker-questions-facebook-on-broken-election-related-promise
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Citizen Browser
+- Following an investigation by The Markup, Sen. Ed Markey is asking for answers on why Facebook failed to stop recommending political groups
+        
+        
+          
+
+By 
+Alfred Ng and 
+
+      Leon Yin
+- Sen. Ed Markey (D-MA) is demanding answers from Facebook CEO Mark Zuckerberg after The Markup published evidence last week that Facebook failed in its promise to stop recommending political groups to users during the presidential election and transfer of power.
+- Zuckerberg first announced the company had hit pause on suggesting political groups in October during a Senate hearing where Markey, along with other lawmakers, questioned the CEO about Facebook’s commitment to clamping down on election misinformation and calls to violence on its platform. Facebook reiterated that it had taken the step in a blog post on Jan. 6 and another post on Jan. 11.
+- In a letter sent to the Facebook CEO on Tuesday, Markey called out Facebook for failing to keep that commitment.
+- Citizen Browser
+- According to Citizen Browser data, the platform especially peppered Trump voters with political group recommendations
+- “Facebook must explain the apparent discrepancy between its promises to stop recommending political groups and what it has delivered,” Markey said in the letter. “Facebook’s system of recommending political groups poses grave threats to American democracy and public safety.”
+- The Markup’s investigation, using data from more than 1,900 Facebook users in our Citizen Browser project, found that the social network continued to recommend political groups to users throughout December and into January. Citizen Browser, a project that investigates the choices Facebook makes about which content to amplify to its users, allows users to automatically share data about their news feeds with us. Analyzing that data, we found 12 political groups among the top 100 groups recommended to our panelists in December.
+- Trump voters in our panel experienced the most political group recommendations, with one-fourth of the top 100 groups recommended related to politics. Panelists who voted for President Joe Biden were recommended 15 political groups out of the top 100, while non-voters received no political group recommendations.
+- Some of the groups included posts from members calling to storm the Capitol Building on Jan. 6, organizing bus trips to Washington, D.C., and spreading misinformation about election fraud.
+- “These findings cast serious doubt on Facebook’s compliance with the promises you have publicly made to me and to your users,” Markey said in the letter to Zuckerberg.
+- He asked the CEO to respond with an explanation of why Facebook failed to stop recommending political groups and details on how the company plans to correct the issues by Feb. 9.
+- When approached for comment on Markey’s letter, Facebook reiterated its response to our previous story. “We have a clear policy against recommending civic or political groups on our platforms,” said Facebook spokesperson Daniel Roberts, “and are investigating why these were recommended in the first place.”
+- Citizen Browser
+- Ahead of crucial senate runoffs, Facebook reversed its political ad ban, and the impact was visible on users’ feeds
+- Facebook has faced a deluge of criticism over its role in spreading political division. Last week, two members of Congress, Rep. Anna Eshoo, who represents a chunk of Silicon Valley, and Rep. Tom Malinowski of New Jersey sent a letter to Zuckerberg—and similar letters to Twitter CEO Jack Dorsey and Google CEO Sundar Pichai—laying some blame for the Jan. 6 attack on the Capitol on the three companies. In it, the lawmakers cited The Markup’s recent investigation finding that Facebook allowed partisan content to elbow out traditional news sources in the run-up to the Georgia special election.
+- “The horrific damage to our democracy wrought on January 6th demonstrated how these social media platforms played a role in radicalizing and emboldening terrorists to attack our Capitol,” the letter to Zuckerberg said. “These American companies must fundamentally rethink algorithmic systems that are at odds with democracy.”
+- Since Zuckerberg shifted Facebook’s focus to groups in 2017, researchers and journalists have found that they’ve become havens for extremist organizations. Last August, The Guardian reported that QAnon conspiracy groups were rapidly growing on Facebook, and The Wall Street Journal reported last May that Facebook’s internal research found 64 percent of new members joined extremist groups through Facebook’s recommendations.
+- Researchers from the Tech Transparency Project found Facebook groups spreading calls to overthrow the government and promoting calls to action in Washington, D.C.
+- “Users organize and coordinate violent and anti-democratic efforts on these pages, but Facebook does not just allow these dangerous pages to exist on its platform, it recommends them to users,” Markey said in his letter. “Your company’s group recommendation system aims to maximize users’ time spent on the platform but seems to disregard the dangerous behavior that many of these pages foster.”
+- This article has been updated to include the correct date by which Senator Markey has asked Facebook to provide information on how it intends to address the issues raised in his letter. That date is Feb. 9.
+- This article has been updated to include Facebook's response, which we received after press time.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Lawmaker Questions Facebook on Broken Election-Related Promise
+- From the series —
+    
+
+      Citizen Browser and 
+
+      Impact
+- Alfred Ng
+Reporter
+- Leon Yin
+Investigative Data Journalist
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://www.reuters.com/article/us-facebook-groups-idUSKBN29X00C
+- Discover Thomson Reuters
+- By Elizabeth Culliford
+- 2 Min Read
+- (Reuters) - Facebook Inc’s CEO Mark Zuckerberg said on Wednesday the company would no longer recommend civic and political groups to users of the platform.
+- The social media company said in October that it was temporarily halting recommendations of political groups for U.S. users in the run-up to the presidential election. On Wednesday Facebook said it would be making this permanent and would expand the policy globally.
+- On Tuesday, Democratic Senator Ed Markey wrote to Zuckerberg asking for an explanation of reports, including by news site The Markup, that Facebook had failed to stop recommending political groups on its platform after this move.
+- He called Facebook’s groups “breeding groups for hate” and noted they had been venues of planning for the Jan. 6 riot at the U.S. Capitol.
+- Speaking on a conference call with analysts about Facebook’s earnings, Zuckerberg said on Wednesday that the company was “continuing to fine-tune how this works.”
+- Facebook groups are communities that form around shared interests. Public groups can be seen, searched and joined by anyone on Facebook.
+- Several watchdog and advocacy groups have pushed for Facebook to limit algorithmic group recommendations. They have argued that some Facebook Groups have been used as spaces to spread misinformation and organize extremist activity.
+- Zuckerberg also said that Facebook was considering steps to reduce the amount of political content in users’ news feeds.
+- Reporting by Elizabeth Culliford; Editing by Cynthia Osterman
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://www.washingtonpost.com/politics/2021/01/28/technology-202-facebook-plans-limit-politics-reflect-growing-pressure-washington/
+- This article was published more than 2 years ago
+- with Aaron Schaffer
+- There may soon be less politics in your Facebook Newsfeed. The company is exploring limits on political discussion amid criticism that the social network has been used to foster extremism and spread disinformation about the recent U.S. elections.
+- “One of the top pieces of feedback that we are hearing from our community right now is that people don’t want politics and fighting to take over their experience on our services,” CEO Mark Zuckerberg told investors during the company’s quarterly earnings call.
+- “So, one theme for this year is that we’re going to continue to focus on helping millions of more people participate in healthy communities, and we’re going to focus even more on being a force for bringing people closer together,” he added.
+- Zuckerberg also announced the company would keep civic and political groups out of recommendations permanently – and expand that policy globally. Previously, the company had said it was only a short-term change related to the heated U.S. presidential race.
+- Zuckerberg explained that people still will be able to join political groups and engage in political discussions if they seek them out on Facebook.
+- The Department of Homeland Security yesterday warned of an increased risk of further violence driven by “ideologically-motivated violent extremists” agitated about President Biden’s inauguration and “perceived grievances fueled by false narratives.” Such warnings through the National Terrorism Advisory System are typically focused on foreign governments, not domestic extremists, my colleague Nick Miroff reports. The department said the “heightened threat environment” across the country is likely “to persist over the coming weeks.”
+- Rep. Bennie Thompson, who chairs the House Homeland Security Committee, told The Technology 202 in a statement that the companies “need to be doing much more to remove violent, extremist content from their platforms.” He also called for greater efforts to root out disinformation designed to undermine the election.
+- “Those two issues – election disinformation and violent extremism - converged on January 6th and we saw just how dangerous it is when platforms spend years ignoring the problem or trying to respond with half-measures,” Thompson (D-Miss.) said in a statement. "The top priority of these companies needs to be ensuring their platforms are not being used by domestic terrorists to wage future attacks.”
+- Facebook is in close contact with law enforcement, company spokesman Andy Stone told me. The company also recently announced it is being more aggressive in taking down content related to militarized social movements and conspiracy networks.
+- The company announced that as of Jan. 12, it had removed about 3,400 Pages, 19,500 groups, 120 events, 25,300 Facebook profiles and 7500 Instagram accounts linked to militarized social movements. The company also recently purged a wide range of accounts associated with the QAnon conspiracy theory from its service.
+- Twitter spokeswoman Katie Rosborough said in the statement that the company is “working closely with law enforcement and federal government partners, including the FBI, DHS, and others to help mitigate potential risks.” She also said the company is expediting requests from law enforcement.
+- YouTube did not respond to requests for comment on how it is addressing the continued threat of violence. However, the company did say that it was continuing its suspension of former president Donald Trump’s account indefinitely amid concerns that it could lead to further violence.
+- Treasury Secretary Janet Yellen is “monitoring the situation” along with other Biden administration officials, the White House said. GameStop, a chain of brick-and-mortar video game stores, has seen an extraordinary surge in activity from amateur traders on Reddit, who are trying to best hedge funds gambling on the company’s failure. The company’s stock reached a whopping $347 per share today, a dramatic change from the $18 it was trading at on Jan. 8.
+- AMC, which has been hit hard by the coronavirus pandemic, also saw shares quadruple to $19.90 following similar activity on Reddit. Trading for both companies was temporarily halted by the exchanges due to volatility, my colleagues reported.
+- The SEC said in a statement Monday that it was  “working with our fellow regulators to assess the situation and review the activities of regulated entities, financial intermediaries, and other market participants,” the SEC said in a statement Monday. The surge also was criticized by Sen. Elizabeth Warren (D-Mass.), who signaled increased oversight of the SEC:
+- It's long past time for the SEC and other financial regulators to wake up and do their jobs – and with a new administration and Democrats running Congress, I intend to make sure they do.
+- Reddit, meanwhile, says it has not been contacted by U.S. authorities about the trading. “Reddit’s site-wide policies prohibit posting illegal content or soliciting or facilitating illegal transactions," a spokesperson told Reuters. “We will review and cooperate with valid law enforcement investigations or actions as needed.” But Discord banned the Redditors' server on Wednesday, citing “hateful and discriminatory content” unrelated to its financial machinations, and the subreddit's moderators temporarily made the community private on Wednesday before it came back online and a moderator blasted Discord's behavior as “pretty unethical.”
+- Zuckerberg launched a broadside against Apple, calling the company anticompetitive at a time when Facebook itself is facing antitrust scrutiny, Elizabeth Dwoskin reports.
+- “We increasingly see Apple as one of our biggest competitors,” Zuckerberg said, noting that Apple’s iMessage software is preinstalled on iPhones — enabling it to become the most widely used messaging service in the United States and giving it an advantage over Facebook’s WhatsApp. Zuckerberg also said that Apple’s growing investment in services also enables it to compete with Facebook and other apps that use its iOS software platform.
+- Zuckerberg’s comment also criticized Apple’s privacy practices. Zuckerberg said Apple’s iMessage software is not as secure as Facebook’s WhatsApp, and he reiterated claims that upcoming privacy changes to iPhone software will hurt Facebook and small businesses.  Apple says the changes reflect efforts to limit data collection in order to protect user privacy.
+- The company told investors that it expects “more significant ad targeting head winds” this year with the iPhone software update and “the evolving regulatory landscape.”
+- The Justice Department says it charged Douglass Mackey, who went by the name Ricky Vaughn, with conspiring to push election misinformation in the run-up to the 2016 election. Mackey’s ads, which my colleague Derek Hawkins detailed at the time, appeared to be designed to target minority voters by duping them to into voting by text message, which is not a form of voting in the United States. The Justice Department says that more than 4,900 unique phone numbers texted the phone number on or before Election Day. If convicted, Vaughn could face up to 10 years in prison.
+- “There is no place in public discourse for lies and misinformation to defraud citizens of their right to vote,” Seth DuCharme, the acting U.S. attorney for the Eastern District of New York, said in a statement. “With Mackey’s arrest, we serve notice that those who would subvert the democratic process in this manner cannot rely on the cloak of Internet anonymity to evade responsibility for their crimes. They will be investigated, caught and prosecuted to the full extent of the law.”
+- The indictment raises questions about Twitter's pre-election content moderation. When Robert McNees, an associate professor of physics at Loyola University Chicago, alerted the company of the tweets in 2016, the company said it wasn't a violation of its terms of service, a move that it quickly reversed. McNees reacted to the news of the charges today:
+- How it started            How it’s going pic.twitter.com/ORM1dXpWq3
+- The Biden administration came out swinging against Chinese telecom equipment company Huawei.
+- “Let us be clear: Telecommunications equipment made by untrusted vendors, including Huawei, is a threat to the security of the U.S. and our allies,” White House press secretary Jen Psaki said. “We’ll ensure that the American telecommunications network do not use equipment from untrusted vendors, and we’ll work with allies to secure their telecommunications networks and make investments to expand the production of telecommunications equipment by trusted U.S. and allied companies.”
+- The hawkish comments come just a day after Biden's pick to lead the Commerce Department, Rhode Island Gov. Gina Raimondo, declined to detail whether she plans to keep the company on a department blacklist. And the Biden administration updated its ban on investments in Chinese military-linked companies, saying that most investments “whose name closely matches, but does not exactly match” those on the list of companies would be allowed for four additional months, until late May.
+- The rise of one of the first video game workers unions (Wired)
+- The Center for Democracy & Technology has announced 17 new members of its advisory board, including:
+- Do not be frightened by the Pandemic Wall pic.twitter.com/Kldzm29csl
+
+URL: https://www.inputmag.com/culture/facebook-is-breaking-promises-about-not-recommending-political-groups-to-users
+- Culture
+- Facebook says doesn't recommend political groups to users anymore. A new investigation from The Markup proves that's a lie.
+- In the fallout of the January 6 insurrection at the U.S. Capitol, Facebook has been focused on damage control, much of which comes in the form of public promises. Facebook is good at a few things, but following through on its frequent promises to "do better" is not on that list.
+- Facebook decided in the months leading up to the 2020 election that it would stop recommending “political content or social issue groups” on users’ feeds. Mark Zuckerberg said as much when he testified in Congress in October. Doing so, according to Facebook’s research, points users toward extremist content. Facebook then re-upped this commitment in a January 11 statement, in which the company said it was “not recommending civic groups for people to join.”
+- As usual, Facebook’s words have quickly proven to be just that: words, with no concrete action attached to them. A new investigation from The Markup found that, despite Facebook’s promises, the network has indeed been recommending political groups to users — and that Trump supporters received the most recommendations by far.
+- Not a great look, Zuck — Through its Citizen Browser project, which tracks links and group recommendations to Facebook users across the United States, The Markup found 12 political groups in the top 100 groups recommended to its survey group. Those groups were recommended through December and January as well, in spite of Facebook’s renewed promises not to do so.
+- Of the more than 1,900 users on the Citizen Browser panel, about 23 percent of Trump voters received recommendations to join political groups. No political groups were recommended to those who identified as non-voters, while about 15 percent of Biden voters saw recommendations for political groups.
+- These groups are, as you might expect, cesspools of misinformation, conspiracies, and calls for violence. Some included direct discussions of logistics for the Capitol insurrection. Others, like one dedicated to Rudy Giuliani, included posts calling for Georgia’s governor and secretary of state to be hanged because they refused to overturn the election results.
+- Facebook says no way, not us — Facebook, when contacted for comment on this matter, turned to its classic denial playbook.
+- “We have a clear policy against recommending civic or political groups on our platform, and are investigating why these were recommended in the first place,” company spokesperson Kevin McAlister stated.
+- At least one of the posts found by The Markup was removed after the company contacted Facebook.
+- It’s still unclear how, exactly, Facebook defines a “political” group; this confusion could account for some of the recommendations seen on the Citizen Browser panel. Even if Facebook did have a clear definition to work off of, though, it’s highly unlikely the company would manage to completely eradicate political groups from its recommendations algorithms. The platform is just way too enormous for effective moderation.
+- In the meantime, Facebook will continue making bold statements about its innocence, even when it’s easy to show they’re blatantly false.
+
+URL: https://gizmodo.com/facebook-promised-to-stop-promoting-political-groups-y-1846087253
+- Surprise! Despite repeated assurances from Facebook and its CEO, Mark Zuckerberg, that the company would stop recommending all “political and social issue groups” in order to slow down misinformation and coordinated political violence, it didn’t really do that.
+- The Markup reported on Tuesday that while Zuckerberg testified to Congress in October 2020 that the cessation of politically charged recommendations was part of the company’s “emergency” measures, and the company reiterated it was “not recommending civic groups for people to join” in a blog post on Jan. 11, is has still been prompting users to join such groups. According to the Markup, 12 of the top 100 recommended groups in their sample of 1,900 users were political, while Facebook remained disproportionately likely to recommend political groups to supporters of our banned president:
+- We found 12 political groups among the top 100 groups recommended to the more than 1,900 Facebook users in our Citizen Browser project, which tracks links and group recommendations served to a nationwide panel of Facebook users... Facebook pushed political groups most often to the Trump voters on our panel. Almost one fourth of the top 100 groups suggested to Trump voters were political—and political groups accounted for half of the top 10 groups recommended to Trump voters.
+- Moreover, the Markup found a number of the groups shown to Trump supporters included posts calling for political violence, spreading conspiracy theories, or discussing the logistics of attending a Jan. 6 extremist rally in Washington, DC, that became a riot at the Capitol, resulting in five deaths. Eight percent of the Trump supporters received recommendations to join a “Rudy Giuliani [Common Sense]” group, where one post called for Georgia’s governor and secretary of state to be executed by hanging, while  19 percent were recommended to join a group that advertised a “#StormTheCapitol” event on Dec. 30, 2020. Roughly one in five of the Trump supporters also received recommendations to join “Tucker Carlson Fox News” as well as “Kayleigh McEnany Fan Club”.
+- The 1,900 panelists did receive recommendations to join 97,443 different groups, the majority of which didn’t have any obvious political bent or association. Democratic-leaning voters also received invitations to politically-minded groups—many of which were full of anti-Trump memes—at a lower rate. However, the Markup cautioned the data set captures only a vanishingly tiny set of total group recommendations served up to U.S. Facebook users, and “skews older, more educated, and whiter than the general population, and [is] particularly short on Trump voters [508 in the sample] and Latinos.” The Markup’s data set is available on Github.
+- Facebook doesn’t clarify how it deems whether or not a particular group is devoted to “political and social” issues, though only one of the groups in the sample voluntarily tagged itself as about politics. (In an example of why this is not necessarily the best system, one administrator of a pro-Trump group told the Markup they were not politically minded but instead “for a man who I know can change the future and do good for this country.”)
+- Facebook itself knows that its growth-oriented recommendation tools, which aim to keep users engaged with others on the site for long periods of time, can be used to fuel groups with ill intent. A Wall Street Journal report in May 2020 relayed that internal Facebook research had found “64% of all extremist group joins are due to our recommendation tools.”
+- The company has claimed to be taking major steps to lock down certain features of its platform since the election season. Yet it allowed ads for military and survival gear to run alongside content boosting election conspiracy theories and news about the Capitol riot. Reporting by the Washington Post and New York Times showed that far-right content continued to proliferate on Facebook before the Capitol riot, including the #StopTheSteal hashtag, at least a dozen Republican Party-affiliated groups and individuals that coordinated transport for participants, and fake viral claims of election fraud.
+- Facebook is also largely responsible for the explosive growth of QAnon, a conspiracy theory that believes Democratic politicians and celebrities are part of a child-raping Satanic cabal that controls the government. It didn’t ban QAnon groups until October, and then only those that discussed violence, despite reports QAnon groups had racked up millions of followers on the site. Facebook has continued to play host for viral QAnon content (some of it simply more subtle) even after the theory’s adherents showed up en masse for the Capitol riots.
+- Anti-lockdown protests, many of which were attended by far-right gunmen, throughout 2020 were largely planned via public Facebook groups. In August 2020, Facebook got a preview of what might happen if it continued to fail to limit far-right extremists’ ability to organize on the platform when a self-declared “Kenosha Guard” group rallied a militia to confront Black Lives Matter protesters in Kenosha, Wisconsin, after which an armed vigilante shot three people.
+- “We have a clear policy against recommending civic or political groups on our platforms and are investigating why these were recommended in the first place,” Facebook spokesperson Kevin McAlister told the Markup in a statement.
+
+URL: https://www.buzzfeednews.com/article/ryanmac/facebook-suspended-group-recommendations-election
+- “This is a measure we put in place in the lead-up to Election Day. We will assess when to lift them afterwards, but they are temporary."
+- BuzzFeed News Reporter
+- BuzzFeed Staff
+- During a contentious presidential election in the US, Facebook quietly stopped recommending that people join online groups dealing with political or social issues.
+- Mentioned in passing by CEO Mark Zuckerberg during a Senate hearing on Wednesday, the move was confirmed to BuzzFeed News by a Facebook spokesperson. The company declined to say when exactly it implemented the change or when it would end.
+- “This is a measure we put in place in the lead-up to Election Day,” said Facebook spokesperson Liz Bourgeois, who added that all new groups have been filtered out of the recommendation tool as well. “We will assess when to lift them afterwards, but they are temporary."
+- Confirmation of the move, which Facebook did not publicly announce, comes after members of the Senate’s Commerce, Science, and Transportation Committee grilled Zuckerberg about Facebook Groups and the possibility for polarization and radicalization within them. Testifying alongside Twitter CEO Jack Dorsey and Google CEO Sundar Pichai about content moderation on their platforms, Facebook’s chief became the main focus of questioning from Massachusetts Sen. Ed Markey, who asked if the company would stop group recommendations on the social platform until the certification of results in the US presidential election.
+- “Senator, we have taken the step of stopping recommendations in groups for all political content or social issue groups as a precaution for this,” Zuckerberg replied.
+- Facebook’s use of algorithms to automatically identify and recommend similar groups for people to join was intended to boost engagement. Researchers have long warned that these recommendations can push people down a path of radicalization and that groups reinforce like-minded views and abet the spread of misinformation and hate.
+- More than a billion people are members of groups on Facebook, and the company has pushed users to join them by boosting their prominence in people's News Feeds. In announcing the company’s new focus on groups in 2017, Zuckerberg said that the social network had built artificial intelligence “to see if we could get better at suggesting groups that will be meaningful to you.”
+- “And it works!” he wrote in a post titled “Bringing the World Closer Together.” “In the first 6 months, we helped 50% more people join meaningful communities. And there's a lot more to do here."
+- Group recommendations may be harmless in a group for dog enthusiasts, but they can become problematic for others that are circulating conspiracy theories or scientific misinformation, according to Claire Wardle, a cofounder of misinformation research nonprofit First Draft. She said that based on anecdotal evidence she’s seen, Facebook’s automated group suggestions can drive people down radicalizing “recommendation journeys.”
+- “If I’m in a [group protesting stay-at-home precautions] in Wisconsin, what other groups am I being recommended? Anti-vax groups? Yellow vest groups?” she said, noting that it was impossible to study on a wide scale because it happens on people’s individual News Feeds.
+- In May, the Wall Street Journal reported that an internal Facebook researcher found in 2016 that “64% of all extremist group joins are due to our recommendation tools,” including the platform’s “Groups You Should Join” and “Discover” algorithms. “Our recommendation systems grow the problem,” read the researcher’s presentation.
+- When asked about the internal research at Wednesday’s Senate hearing by Michigan Sen. Gary Peters, Zuckerberg said he was “not familiar with that specific study,” despite the fact that he had criticized the Journal’s story internally to employees, according to audio of a recent company-wide meeting obtained by BuzzFeed News. Zuckerberg did note in the Senate hearing, however, that Facebook had taken steps to prevent groups that foster extremism or the spread of misinformation from appearing in suggested groups.
+- Despite those changes, organizations that violate Facebook’s own rules have managed to maintain groups on the platform. After Facebook banned right-wing militant groups and pages in August, a watchdog group found dozens of extremist groups and pages on the platform.
+- Earlier this month, federal and state prosecutors in Michigan charged 14 people in a plot to kidnap and possibly kill Michigan Gov. Gretchen Whitmer. A day after authorities announced the Whitmer plot, which was partly coordinated on Facebook, BuzzFeed News reported that the social network’s recommendation tools continued to suggest users follow pages espousing extremist messages.
+- It’s unclear how many groups are currently affected by Facebook’s limiting of recommendations for political and social issue groups in the run-up to the election. Facebook spokesperson Bourgeois declined to provide further details or say when the temporary change would be lifted.
+- A test of the Facebook platform for political groups showed that while the algorithmically generated suggested groups feature may have been removed, group administrators still had the power to manually suggest groups to members. Facebook’s search tool also surfaced political and social issue groups as normal.
+- Wardle wondered why Facebook, which had publicized several tweaks to its platform, including temporary political ad bans for the election, chose not to publicly announce the change to group recommendations. On Thursday, Instagram, which is owned by Facebook, announced it would temporarily suspend the “Recent” tab from hashtag pages, which can gather recently uploaded content tagged with a given hashtag, “to reduce the real-time spread of potentially harmful content that could pop up around the election.”
+- “I’m all for all platforms taking stronger steps on these things, but they need to be studying them,” Wardle said, noting that nothing would be learned if Facebook continued with business as usual after the election.
+- Jane Lytvynenko contributed reporting to this story.
+- 
+- BuzzFeed News Reporter
+- Contact Ryan Mac at ryan.mac@buzzfeed.com.
+- Got a confidential tip? 👉 Submit it here
+- BuzzFeed Staff
+- Contact Craig Silverman at craig.silverman@buzzfeed.com.
+
+URL: https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499
+- WSJ Membership
+- Customer Service
+- Tools & Features
+- Ads
+- More
+- Dow Jones Products
+
+- Facebook Georgia political partisanship
+- Twitter right-wing content amplification
+- Page infoType: IncidentPublished: January 2021

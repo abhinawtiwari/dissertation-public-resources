@@ -1,0 +1,117 @@
+Bard's suggestion on verification of values:
+
+Yes, you can verify the correctness of the values of the properties in the JSON object by comparing them to the definitions of the properties in the ontology. For example, the `hasImportance` property should have a value of one of the following strings: `high importance`, `moderate importance`, `neutral`, or `unimportant`. You can also check that the values of the properties are consistent with each other. For example, if the `intendedImpact` property is `negative`, then the `hasImportance` property should also be `negative`.
+
+Here are some specific things you can check:
+
+* The `forStakeholder` property should refer to a valid stakeholder.
+* The `forOutcome` property should refer to a valid outcome.
+* The `hasImportance` property should have a valid value.
+* The `isUnderserved` property should have a valid value.
+* The `intendedImpact` property should have a valid value.
+* The `hasIndicator` property should refer to a valid indicator.
+* The `hasImpactReport` property should refer to a valid impact report.
+* The `hasLikelihood` property should have a valid value.
+* The `hasConsequence` property should have a valid value.
+* The `hasMitigation` property should refer to a valid mitigation plan.
+
+If you find any errors in the values of the properties, you can correct them. You can also add additional properties to the JSON object to provide more information about the stakeholders, outcomes, and risks.
+
+Following is a sample json object for a use case.
+{
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Public safety",
+        "forOutcome": "Safety",
+        "fromPerspectiveOf": "Public safety",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "positive",
+        "hasIndicator": "The number of crimes that are prevented by the Xavier patrol robots",
+        "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+        "org:hasName": "Impact of Singapore Xavier patrol robots on public safety",
+        "org:hasDescription": "The impact of the Singapore Xavier patrol robots on public safety"
+      },
+      {
+        "forStakeholder": "Civil liberties",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "Civil liberties",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of people who feel that their privacy has been violated by the Xavier patrol robots",
+        "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+        "org:hasName": "Impact of Singapore Xavier patrol robots on civil liberties",
+        "org:hasDescription": "The impact of the Singapore Xavier patrol robots on civil liberties"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Public safety",
+        "hasDescription": "Government agencies responsible for public safety",
+        "hasCatchmentArea": "Singapore",
+        "hasStakeholderCharacteristic": "Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime",
+        "performs": "Enforcing the law",
+        "i72:located_in": "Singapore",
+        "oep:partOf": "The Singapore Xavier patrol robots incident"
+      },
+      {
+        "hasName (title)": "Civil liberties",
+        "hasDescription": "Organizations that are concerned about the protection of civil liberties",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy",
+        "performs": "Advocating for civil liberties",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Singapore Xavier patrol robots incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Safety of public",
+        "hasLikelihood": "medium",
+        "hasConsequence": "high",
+        "hasMitigation": "The Xavier patrol robots could be hacked and used to harm people",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that the Xavier patrol robots will be used to harm people"
+      },
+      {
+        "forOutcome": "Privacy of citizens",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "The Xavier patrol robots could be used to collect data on citizens without their consent",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that the Xavier patrol robots will be used to collect data on citizens without their consent"
+      }
+    ]
+  }
+
+  The following are reasonable properties to verify for.
+  StakeholderOutcome
+•	forStakeholder: Identifies the Stakeholder affected.
+•	forOutcome: Identifies the more general outcome this is part of.
+•	fromPerspectiveOf: Identifies the Stakeholder who is determining the importance of the Impact.
+•	hasImportance: Specifies the nature of the importance. One of {“high importance”, “moderate important”, “neutral”, “unimportant”}.
+•	isUnderserved: A Boolean that denotes if the stakeholder is underserved in relation to their specific outcome.
+•	intendedImpact: Identifies the intended direction of the change – note that ImpactReport captures the actual direction.
+•	hasIndicator: Identifies the set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder.
+•	hasImpactReport: identifies the set of ImpactReport that report on the results pertaining to each Outcome.
+•	org:hasName: string that is name of the StakeholderOutcome.
+•	org:hasDescription: string that is description of the StakeholderOutcome.</Literal>
+
+Stakeholder
+•	hasName (title): A title for the stakeholder as a string.
+•	hasDescription: A general description of the stakeholder as a string.
+•	hasCatchmentArea: Specifies the regional span of the stakeholders.
+•	hasStakeholderCharacteristic: Specifies characteristics of the stakeholder 
+•	performs: Links to the activities performed by the stakeholder.
+•	i72:located_in: Links to the specific geographic area in which the stakeholder is located.
+•	oep:part of: Links the Impact Model that the stakeholder is being specified for.</Literal>
+
+ImpactRisk
+•	forOutcome: Identifies the Outcome the risk is associated with.
+•	hasLikelihood: Identifies the likelihood that the risk will occur.
+•	hasConsequence: Identifies the degree of impact the risk could have.
+•	hasMitigation: A string that specifies a mitigation plan or references a document.
+•	hasIdentifier: A unique identifier for this risk.
+•	hasDescription: A description of this risk.</Literal>

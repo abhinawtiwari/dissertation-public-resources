@@ -1,0 +1,253 @@
+- Occurred: May 2021
+- Can you improve this page?Share your insights with us
+- The NHS General Practice Data for Planning and Research (GPDPR) is a system that collects, stores and manages data from General Practitioners (GPs) across England. In its own words, it is 'used every day to improve health, care and services through planning and research in England, helping to find better treatments and improve patient care.'
+- In May 2021, the Financial Times reported that NHS Digital was quietly planning to pool sensitive personal medical records on to a central database and make them available to third parties. Patients were given six weeks to opt out of the General Practice Data for Planning and Research (GPDPR) programme.
+- The news prompted an immediate and broad backlash from medical professionals, digital rights activists, and politicians accusing the government of inadequate transparency about the existence and nature of the programme, in particular about which types of organisations would have access to the data and what they would able to do with it.
+- The backlash resulted the opt-out period being extended for two months. However, despite widespread concerns about poor transparency, the UK government stated it will would not write to individual patients informing them about the programme.
+- Operator: National Health Service (NHS)Developer: NHS DigitalCountry: UK Sector: Govt - health Purpose: Centralise patient recordsTechnology: Database Issue: Privacy; Security Transparency: Governance; Marketing; Privacy
+- NHS Digital. General Practice Data for Planning and Research (GPDPR)
+- NHS Digital. About the GPDPR programme
+URL: https://www.ft.com/content/9fee812f-6975-49ce-915c-aeb25d3dd748
+- We use
+								cookies
+								and other data for a number of reasons, such as keeping FT Sites reliable and secure,
+								personalising content and ads, providing social media features and to
+								analyse how our Sites are used.
+- Madhumita Murgia in London
+- We’ll send you a myFT Daily Digest email rounding up the latest Data protection news every morning.
+- England’s NHS is preparing to scrape the medical histories of 55m patients, including sensitive information on mental and sexual health, criminal records and abuse, into a database it will share with third parties.
+- The data collection project, which is the first of its kind, has caused an uproar among privacy campaigners, who say it is “legally problematic”, especially as patients only have a few weeks to opt out of the plan.
+- NHS Digital, which runs the health service’s IT systems, confirmed the plan to pool together medical records from every patient in England who is registered with a GP clinic into a single lake that will be available to academic and commercial third parties for research and planning purposes.
+- Cori Crider, co-founder of Foxglove, a campaign group for digital rights, said: “We all want to see the NHS come out of the pandemic stronger” but noted that the NHS had been “completely silent” on who would have access to the data.
+- “Is it pharma companies? The health arm of Google Deepmind? If you ask patients whether they want details of their fertility treatment or abortion, or results of their colonoscopy shared with [those companies], they’re not going to want that,” she said.
+- Recommended
+- Foxglove has issued a legal letter to the Department of Health and Social Care, questioning the lawfulness of the plans under current data protection laws, and threatening further legal action.
+- Rosa Curling, a solicitor at Foxglove, wrote in the letter that she had “serious concerns” about the legality of the move because no explicit consent had been given and “very few members of the public will be aware that the new processing is imminent, directly affecting their personal medical data”.
+- Patients have until June 23 to opt out by filling in a form and taking it to their GP before their historical records will become a permanent and irreversible part of the new data set. Patients who opt out after the deadline can stop future data from being funnelled into the new system.
+- The plan to create a new data set was announced by Matt Hancock, health secretary, in early April and publicised mainly on blogs on the NHS Digital website, and through flyers at GP surgeries, said NHS Digital, which added that the plans had been in the works for three years.
+- But Phil Booth, founder of advocacy group MedConfidential, said: “They’re trying to sneak it out, they are giving you six weeks nominally and if you do not act based on web pages on the NHS digital site and some YouTube videos and a few tweets, your entire GP history could have been scraped, never to be deleted.”
+- He added that the NHS had “opaque” commercial relationships, often through middlemen, and that it would be difficult to trace who ultimately sees the data. NHS Digital says on its website that it publishes a monthly register of who it has released data to, and whether the data is anonymised or not.
+- Data that directly identifies patients will be replaced with unique codes in the new data set, but the NHS will hold the keys to unlock the codes “in certain circumstances, and where there is a valid legal reason”, according to its website.
+- NHS Digital said the Information Commissioner’s Office, the UK’s data regulator, had not objected to its plans, and that it was in the process of delivering a data protection impact assessment.
+- The plan comes following an attempt in 2013 to extract GP records into a central database, called the Care.data programme, which was abandoned in 2016 after complaints about confidentiality and commercial use.
+- ​Letter in response to this article:
+- Benefits of sharing NHS data outweigh the risks / From Hamish Innes, Glasgow, UK
+- International Edition
+
+URL: https://www.theguardian.com/society/2021/may/30/gps-warn-plans-share-patient-data-third-parties-england
+- Doctors say NHS Digital’s proposals could erode the relationship between them and their patients
+- Doctors have warned that plans to pool medical records on to a database and share them with third parties could erode the relationship between them and patients.
+- The warning came as the Royal College of GPs wrote to NHS Digital urging it to better communicate with the public about the plans and their options for opting out.
+- Critics have voiced concerns over the NHS Digital plans, which would put the medical histories of more than 55 million patients into a database available to academic and commercial third parties for research and planning purposes.
+- Privacy campaigners have already spoken out against the proposals, which include sharing anonymised mental and sexual health data, criminal records, and more sensitive information. The records would be scraped from every patient in England registered to a GP clinic by NHS Digital, which runs the country’s healthcare IT systems.
+- The Doctors’ Association UK (DAUK), a campaigning and lobbying organisation comprised of doctors, said it was concerned this would “erode the doctor/patient relationship, leaving patients reluctant to share their problems due to fears of where their data will be shared”.
+- Dr Ellen Welch, a GP and the editorial leader of DAUK, said: “NHS Digital has failed to publicise this adequately to patients or healthcare staff, and we feel more time is needed to explain to patients how exactly their data will be used, who will benefit from it and what implications it may have for individuals.”
+- Prof Martin Marshall, the chair of the Royal College of General Practitioners (RCGP), said it supported the principle of improved sharing of data for important healthcare planning and research, but it was “critical that this is transparent and that patients have confidence and trust in how the NHS and other bodies might use their information”.
+- He said the RCGP and the British Medical Association were engaged with the planning of the new data collection, adding it would continue to lobby “NHS Digital to ensure appropriate safeguards are in place for how the data collected is used”.Marshall said: “The job of informing the public must not be left to busy GPs, especially at a time of extreme workload pressures and focus on the Covid-19 vaccination programme, so we have written to NHS Digital urging them to undertake greater communications with the public about this new collection and their options for opting out.”
+- The health secretary, Matt Hancock, first announced the plan in April via blog posts on the NHS Digital website and flyers at GP surgeries.
+- However, the advocacy group MedConfidential told the Financial Times: ‘They’re trying to sneak it out, they are giving you six weeks nominally and if you do not act based on webpages on the NHS Digital site and some YouTube videos and a few tweets, your entire GP history could have been scraped, never to be deleted.”
+- The data will be anonymised and given “codes” that can be used to reveal the identity of the data’s owners if there is a “valid legal reason”. Privacy campaigners have said the plans are “legally problematic” and patients have been given a limited window to opt out. The deadline for opting out is 23 June and can be done by patients completing a form and giving it to their family doctor. The digital rights campaign group Foxglove has written to the Department of Health and Social Care. “Very few members of the public will be aware that the new processing is imminent, directly affecting their personal medical data,” their solicitor, Rosa Curling, said in the letter.
+- A spokesperson for the British Medical Association said it was engaged in the planning for the collection and “made representations on behalf of GP practices” to “ensure stronger arrangements were put in place over the security and intended uses of the data collected, and to minimise administrative burden for practices”.
+- “We will continue to hold NHS Digital to account,” they said.
+- The UK’s data regulator is reportedly producing a data protection impact assessment about the plans.
+- An NHS Digital spokesperson said: “Patient data is already used every day to plan and improve healthcare services, for research that results in better treatments, and to save lives.
+- “During the pandemic, data from GPs has been used to benefit millions of us: helping to identify and protect those most vulnerable, roll out our world-leading vaccine programme, and identify hospital treatments which have prevented people dying from Covid.
+- “We have engaged with doctors, patients, data, privacy and ethics experts to design and build a better system for collecting this data. The data will only be used for health and care planning and research purposes, by organisations which can show they have an appropriate legal basis and a legitimate need to use it.”
+- They added: “We are exploring further options to expand our communications approach and remain committed to being transparent with patients and the public about the collection and use of data.”
+
+URL: https://www.msn.com/en-gb/news/uknews/gps-urged-to-refuse-to-hand-over-patient-details-to-nhs-digital/ar-AAKATS6
+- This page has disappeared.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-30T09:28:29.7086046+00:00
+- 97e1b25c-4644-4966-b950-078128f87a63
+
+URL: https://ca.finance.yahoo.com/news/nhs-plans-mine-patient-records-084953888.html
+- Thank you for your patience.
+- Our engineers are working quickly to resolve the issue.
+
+URL: https://www.dailymail.co.uk/news/article-9646151/NHS-records-shared-secretive-tech-giant-campaigners-warn.html
+- By Jim Norton for the Daily Mail
+- Published:  23:12, 2 June 2021   |  Updated:  23:18, 2 June 2021
+- 
+- 161
+- View  comments
+- 
+- Medical histories of millions of NHS patients in England could be shared with a secretive US tech giant that has a 'terrible track record' with personal data, campaigners have warned.
+- From next month, sensitive information – including physical, sexual and mental health records – of every person registered with a GP are to be shared with third parties unless they opt out.
+- The NHS said the plan will help with research and planning to tackle Covid and other health issues.
+- Foxglove, a campaign group for digital rights, is urging the Government to reveal exactly who will have access to the data over fears it could include the US software firm Palantir, whose core business is providing big data and surveillance technology to the military, state security, and police.
+- From next month, sensitive information – including physical, sexual and mental health records – of every person registered with a GP are to be shared with third parties unless they opt out
+- Human rights groups have criticised the £30billion company for its involvement in controversial programmes and has accused it of failing to do due diligence on who it does business with.
+- Last night NHS Digital, which runs the health service's IT systems and is leading the project, said that only organisations with a 'legal basis and legitimate need to use' the GP database would have access to it.
+- It did not comment on whether Palantir would be involved but said any requests for access would be scrutinised by independent experts and GP representatives.
+- The firm has become increasingly involved in the NHS during the pandemic after offering to build a Covid-19 datastore. It has since won two more contracts worth a total £24million.
+- Foxglove said it was 'very concerned' that Palantir – which has been listed as a 'preferred partner' for procurement of NHS data service – may be used to manage the new GP database. It is among 50 organisations calling on the health service to end its involvement with the company.
+- Their petition states: 'Palantir is a US tech and security corporation with a terrible track record. They help governments, intelligence agencies, and border forces to spy on innocent citizens and target minorities and the poor.' Palantir declined to comment but a company source said it would only provide the software to hold the data and would not have access to it.
+- The NHS said the plan will help with research and planning to tackle Covid and other health issues
+- Foxglove director Cori Crider said: 'Palantir is the last company we want anywhere near the NHS.' The NHS is facing increasing criticism over plans to transfer 55million medical records to a database and share them with researchers and private companies.
+- Patients have until June 23 to opt out of the scheme, called general practice data for planning and research, by filling out a form and taking it to their GP.
+- NHS Digital said the anonymised data will only be shared with public sector bodies, charities or commercial organisations that meet a strict criteria to use it for research and health and care planning.
+- Its spokesman added: 'No organisation is able to access or use this data unless they have a legal basis and a legitimate need to use it.'
+- Palantir was founded in 2003 by Silicon Valley billionaire Peter Thiel, the co-founder of PayPal.
+- Foxglove said the company's technology specialised in security and surveillance and much of its work 'was secret'.
+- Many US police forces have used its software for 'predictive policing' which has been criticised for targeting poor and black communities.
+- Palantir has also helped the US and UK's digital spy agencies, NSA and GCHQ, manage mass surveillance programmes.
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://metro.co.uk/2021/05/27/nhs-england-set-to-share-medical-records-with-outside-third-parties-14655452/
+- NEWS... BUT NOT AS YOU KNOW IT
+- If you live in England, you have until June 23 to opt out of your data being included in a 'digital scrape' by the NHS, which it will share with third parties.
+- Privacy campaigners have harshly criticised the plans of NHS Digital, which will see the medical histories of more than 55 million patients ported into a database, including mental and sexual health data, criminal records and more sensitive information.
+- The records will be scraped from every patient in England registered to a GP clinic by NHS Digital, which runs the country's healthcare IT systems.
+- The data will reportedly be available to both academic and commercial third parties for research and planning purposes. Though NHS Digital publishes a monthly list of who it shares its data with, campaigners have said it will be difficult to find out who ultimately sees the data, due to the NHS' 'opaque' commercial relationships.
+- While the data will supposedly be anonymised, the NHS will hold secret 'codes' to unlock the identity of the data's owners if there is a 'valid legal reason'. Privacy campaigners have said the overall plans are 'legally problematic' and that not enough time has been given to patients to opt out of the plan.
+- Digital rights campaign group Foxglove has issued a letter to the Department of Health and Social Care which questions the legality of the move.
+- 'Very few members of the public will be aware that the new processing is imminent, directly affecting their personal medical data,' wrote solicitor Rosa Curling in the letter.
+- Why does ChatGPT keep lying? (Clue: It doesn't - it's hallucinating)
+- Ancient Egyptian necropolis reveals more stunning finds - including mummification workshop
+- Why AI could be the secret to better money management
+- If patients fail to opt out by June 23, which can only be done by filling out a form and taking it to your GP, their medical records will become a permanent feature of the NHS Digital data set. If you miss the deadline, and opt out after the deadline, you can only stop future data from being included in the system.
+- The plan was first announced by health secretary Matt Hancock at the beginning of April, through a series of blog posts on the NHS Digital website and flyers at GP surgeries, but critics have said the publicity hasn't been sufficient.
+- Advocacy group MedConfidential, who has sought to raise the alarm about the impending deadline, told the FT: 'They’re trying to sneak it out, they are giving you six weeks nominally and if you do not act based on web pages on the NHS digital site and some YouTube videos and a few tweets, your entire GP history could have been scraped, never to be deleted.'
+- It's not the first time the NHS has attempted to put GP records in a central database - in 2013, the Care.data programme looked to scrape patient records for better centralisation, but the plan was ultimately abandoned in 2016 after confidentiality complaints.
+- The UK's data regulator is reportedly producing a 'data protection' impact assessment about the current plans.
+- MORE : NHS workers are on the brink of burnout, their mental health needs protecting now
+- MORE : NHS staff asked to pay up to £10 per day to park at hospital they work at
+- Privacy Policy
+- 
+- Get us in your feed
+
+URL: https://www.dailymail.co.uk/health/article-9637979/Did-know-NHS-share-records.html
+- By Ross Clark for the Daily Mail
+- Updated:  02:52, 1 June 2021
+- 
+- 1.7k
+- View  comments
+- 
+- I am waiting for a letter from my GP’s surgery asking me whether I consent to having my medical data uploaded on to a national database and made available to researchers, but it doesn’t seem it is going to come.
+- In fact, I wouldn’t be surprised if there are millions of people in Britain who are unaware that, unless they formally object by June 23, then a week later their health records will be added to an NHS Digital database, which could then be shared, in anonymised form, with universities, pharmaceutical companies and technology companies.
+- The NHS says it has tried to make people aware of the move since 2018 when it launched a poster campaign in surgeries and hospitals — and put the information on its website.
+- Given that we have been discouraged from face-to-face appointments with our GPs over the past 15 months, I wonder how many people have ever seen such a poster. I certainly can’t remember it.
+- The past 15 months have shown us the importance of data collection in fighting a pandemic. Without the NHS being able to collect data on how many people are being infected, hospitalised and dying from Covid-19, we would have no way of knowing how the disease was spreading — and therefore little hope of fighting it
+- The NHS also says that you can opt out of sharing your health records via the NHS app — the pre-Covid app it launched in 2018 to help people book appointments and access advice on health conditions.
+- But then if you are the sort of person who is worried about the misuse of personal data there is a strong chance you haven’t signed up for the NHS app or, indeed, any app — given that apps in general seem to be elaborate devices to harvest our personal data.
+- Should I send in a letter to my surgery asking it to keep my data private? I am quite conflicted.
+- The past 15 months have shown us the importance of data collection in fighting a pandemic.
+- Without the NHS being able to collect data on how many people are being infected, hospitalised and dying from Covid-19, we would have no way of knowing how the disease was spreading — and therefore little hope of fighting it.
+- Moreover, without pharmaceutical companies having the ability to study personal data on symptoms and side-effects we would not now have the vaccines which are helping to beat the disease.
+- Nor would we have found out that dexamethasone reduces the death rate in hospital patients.
+- Many other medical breakthroughs, too, have been reliant on epidemiological studies which require the processing of vast quantities of personal medical data.
+- When you think of the medical advances we have benefited from in the past generation alone, it seems a small price to pay to share anonymised data about your bunions and the slight pain in your left ear.
+- The NHS says it has tried to make people aware of the move since 2018 when it launched a poster campaign in surgeries and hospitals — and put the information on its website
+- Yet there is a big difference between, say, a drug trial and what NHS Digital is proposing.
+- Drug trials work with volunteers who have actively made the decision to participate in a piece of medical research. They know that their personal information is going to feed into a study which will be published for all to read.
+- When it comes to developing a Covid vaccination, for example, huge numbers volunteered — not just to share their data but to be injected with an unproven vaccine.
+- Building a database containing our personal data with no specific purpose is a different matter. Such data has huge commercial value, and there are concerns that it could end up being used for, say, marketing purposes.
+- The fact that data will be anonymised provides little comfort. To take one example of the potential of this data, it could identify, say, that your postcode had a high obesity rate and be used to target you and your neighbours with advertisements for slimming aids.
+- More seriously, were the insurance industry able to get hold of this sort of data it could be used to blacklist certain postcodes for life insurance.
+- The information that you had given your GP on your drinking habits or your depression could — in theory at any rate — come back to bite you in the form of higher insurance premiums or prevent you from getting a mortgage.
+- NHS Digital rebuts any suggestion that the data could be used in this way. It has put out what it calls a ‘myth-busting’ document stating that ‘We do not sell health and care data’ and ‘We do not share data with marketing and insurance companies’.
+- That is not very reassuring. Sceptics will already have noticed that it uses the present tense — it doesn’t promise that our data will not be sold to commercial interests in future.
+- Moreover, it doesn’t say that our data won’t be shared with organisations other than marketing and insurance companies.
+- Indeed, the whole purpose of the database is to collect data so that it might be used for developing new drugs and treatments.
+- Pharmaceutical companies and the like will have to be able to access the data, otherwise there would be no point in collecting it.
+- When challenged on these points, NHS Digital is a little more forthcoming. It is, it says, forbidden by law to sell patient data. Yet it admits that private companies might well profit from products developed using data that is shared with them for free.
+- From the patient’s point of view it seems the worst of both worlds: we get our data used for private profit, yet the NHS is deprived of any revenue which could help subsidise services.
+- The other justification which NHS Digital offers for setting up a national database of patients’ records is shocking.
+- Individual GPs surgeries are already sharing anonymised patient records with commercial organisations and have been doing so for years. Moreover, they are allowed to enter into such agreements without seeking our permission — although they are supposed to offer us a general opt-out from sharing our data.
+- How many people are aware of that?
+- Collecting the data in one place, I am told, will make it easier to enforce data-sharing agreements so that the information is not misused — the argument being that NHS Digital has the resources to do this where individual GPs surgeries do not.
+- Yet the NHS’s record on data breaches does not inspire much confidence. In 2012, for example, someone who bought a second-hand computer on the internet was shocked to find that the hard drive contained confidential data on 3,000 NHS patients.
+- In turned out that NHS Surrey had sold 40 computers without first destroying the hard drives or wiping the information on them.
+- This sort of thing is still going on: just last year the NHS accidentally uploaded personal data relating to 18,000 patients who had tested positive for Covid-19.
+- There are legitimate reasons why our healthcare records should be used, in some circumstances, for medical research. If it helps develop new drugs and treatments, why not?
+- But it is unacceptable that we are not properly being asked for our consent — and that the rules for using our data are not more clearly defined in law.
+- We know what the world of Big Data is like — give it half a chance and it will make a grab for vast quantities of material on us.
+- The Government has failed to communicate to the public the creation of the new database.
+- No wonder NHS Digital is complaining that there are a lot of ‘myths’ circulating on the internet over its plans.
+- If it wants the public on its side, the very least it could do is to write to every one of us explaining what it wants to do with our data — and give us a proper chance to say no.
+- 
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.msn.com/en-gb/money/technology/nhs-plans-to-share-uk-patient-records-with-third-parties/ar-AAKrxny
+- This page has disappeared.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-30T09:28:32.5680683+00:00
+- 827411a5-5487-4cbe-8258-b6ef37c43d04
+
+URL: https://www.infosecurity-magazine.com/news/nhs-share-patient-data-third/
+- NHS patient data in England will be shared with third parties for research and planning purposes, fueling concerns about privacy and security, it has been reported today.
+- The Financial Times revealed that NHS Digital, which runs the health service’s IT systems, will create a database containing the medical records of around 55 million patients in England who are registered with a GP clinic. This includes sensitive data on mental and sexual health, criminal records and abuse.
+- This information will subsequently be made available to academic and commercial third parties involved in research and planning, although no details on the types of organizations that will have access have been provided.
+- The initiative follows suggestions that the UK’s response to the COVID-19 pandemic was hampered by lack of data sharing and access, including in a report published this year by the House of Commons Science and Technology Committee.
+- Patients will need to fill in a form and take it to their GP to opt out of the scheme by June 23, otherwise their historical records will become a permanent and irreversible part of the new data set. Any patients who opt out after this date will prevent any future data becoming part of the new system.
+- The idea for a database of this kind was first set out by UK Health Secretary Matt Hancock in April, and explained in blogs on the NHS website. This emphasized that patients will not be directly identified in the data set.
+- The plans have received significant criticism from privacy campaigners. The Financial Times cited a letter from Foxglove, a campaign group for digital rights, to the Department of Health and Social Care, questioning the legality of the proposals under current data protection legislation. Rosa Curling, a solicitor at the organization who penned the letter, wrote that “very few members of the public will be aware that the new processing is imminent, directly affecting their personal medical data.”
+- Cybersecurity experts have also warned that the database will be a tempting target for cyber-criminals. George Papamargaritis, MSS director at Obrela Security Industries, commented: “It is not surprising that the NHS is facing backlash in response to this move. Sharing medical data with third parties is very risky as there is no way to be sure they will have the proper security tools in place to keep the data safe. While it looks like the NHS has plans to anonymize patient data, this is not a 100% guarantee of security protection.”
+- David Sygula, senior cybersecurity analyst at CybelAngel, said: “This move from the NHS provides some strong benefits from an academic research standpoint. An initiative like this could have been useful in better controlling the magnitude of the pandemic, and all research work that goes with it.
+- “However, data collection on this scale is creating a new set of risks for individuals, where their Personal Health Information (PHI) is exposed to third-party data breaches. The extent of the unsecured database problem is growing. It's not simply an NHS issue, but the NHS' third, fourth or further removed parties too, and how they will ensure the data is securely handled by all suppliers involved. These security policies and processes absolutely need to be planned well in advance and details shared with both third parties and individuals.
+- “Several mechanisms must be put in place, starting with the anonymization of data, as data leaks will inevitably happen. Security researchers, attackers, and rogue states have all put in place processes to identify unsecured databases and will rapidly find leaked information. That's the default assumption we should start with. It's about making sure patients are not personally exposed in case of a breach, while setting up the appropriate monitoring tools to look for exposed data among the supply chain.”
+- NHS England previously tried to store all GP patient information in a central database back in 2013 in a project called Care.data, which was subsequently abandoned in 2016 due to privacy concerns.
+
+URL: https://telecareaware.com/nhs-digital-gpdpr-medical-database-plans-criticized-by-royal-college-of-gps-privacy-advocates/
+- Access to this resource on the server is denied!
+- Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.
+
+URL: https://www.bbc.co.uk/news/uk-politics-57400902
+- The creation of a central NHS digital database from GP records in England will be delayed by two months, the government has announced.
+- The system was due to begin on 1 July, but the date has now been pushed back to 1 September.
+- The NHS had been calling for a delay to allow patients more time to learn about the system.
+- The British Medical Association and the Royal College of GPs had also expressed concern.
+- Speaking in the House of Commons, Health Minister Jo Churchill said the GP data programme would "save lives".
+- However, she said the government was "absolutely determined to take people with us on this journey" and had therefore decided to push the implementation date back to the beginning of September.
+- She said ministers would use the extra time to "talk to doctors, patients and charities to strengthen the plan... and ensure data is accessed securely".
+- "Patients own their own data," she added.
+- Labour's shadow health minister Alex Norris welcomed the delay but argued that the "current plans to take data from GPs, assemble it in one place and sell it to unknown commercial interests for purposes unknown has no legitimacy."
+- He criticised the government for a lack of "public engagement" and said the plans had been "snuck out under the cover of darkness".
+- NHS Digital said that the data would only be accessible to organisations "which will legitimately use the data for healthcare planning and research purposes, and they will only get the specific data that is required".
+- It added that the information would never be used for insurance or marketing purposes, promoting or selling products or services, market research and advertising and any requests for data would be "scrutinised by NHS Digital against stringent criteria".
+- Under the proposed system - the General Practice Data for Planning and Research - information from surgeries in England will be added to an NHS Digital database.
+- The includes data from records created up to 10 years ago.
+- The collected data includes sex, ethnicity, sexual orientation, diagnoses, medications and information about a patients' physical, mental and sexual health.
+- It does not cover names and addresses - except for a postcode which is replaced by a unique code generated by de-identification software.
+- Simon Bolton, head of NHS Digital, said all collected data would be protected or pseudonymised before it leaves the GP "to ensure patients cannot be directly identified".
+- He also said patients would be able to opt out of sharing their data.
+- Patients can prevent their new data being shared at anytime, but would need to opt out before 1 September to stop past data being transferred to the new system.
+- During the pandemic, patient data was used to assess how effective certain treatments were and to identify which groups were most at risk from Covid.
+- GP data has also been used to identify disparities in care for individuals with learning disabilities and to improve services for diabetics.
+- Earlier this week, the British Medical Association and Royal College of General Practitioners expressed their concerns "about the lack of communication with the public".
+- In a joint letter, they urged NHS Digital to "take immediate action to run a public information campaign".
+- Welcoming the delay, Professor Martin Marshall, chair of the Royal College of GPs, said "appropriate use" of data was important for improving healthcare but added that any system should be "built around trust".
+- He said the NHS should communicate with "every patient… clearly articulating the benefits and risks of data sharing so that patients can make a genuinely informed decision about whether they are happy for their data to be shared - and if they are not, how they can opt out".
+- Analysis by Chris Vallance, BBC Technology reporter
+- It was evident last week that NHS Digital wanted a delay to a programme that proposes to transfer information from the records of every GP patient in England to a central NHS database.
+- Doctors representatives were clear: patients needed more time to learn about the programme to extract data and the job of informing them couldn't be left to GPs busy with the pandemic and its aftermath.
+- Now the government have conceded that a delay is necessary after maintaining as late as Friday that none was needed.
+- It's news that will be greeted with a strong sense of déjà vu with those who remember the cancelled Care.data programme, a previous effort to collect centrally GP record data.
+- It foundered in part because of a lack of awareness among patients, in spite of a national information campaign.
+- Today the Information Commissioners Office told me "the success of any project will rely on people trusting and having confidence in how their personal data will be used".
+- The NHS will need to use the time this delay affords to rebuild just that: trust.
+- Speaking to the BBC's Politics Live programme, Caroline Cake, chief executive of Health Data Research UK, said using data during the pandemic had helped find new Covid treatments and provide information on the impact of vaccines.
+- She said it was essential that all groups of society are "represented" within the new system.
+- Moscow buildings hit in rare drone attack
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+- NHS Digital/iProov facial recognition data sharing
+- Google DeepMind, Royal Free data sharing
+- Page infoType: DataPublished: December 2021

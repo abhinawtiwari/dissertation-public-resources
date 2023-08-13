@@ -1,0 +1,189 @@
+- Occurred: February 2018
+- Can you improve this page?Share your insights with us
+- A TV ad for Amazon's Echo Dot smart speaker caused a viewer's device to try to order Purina cat food, which the user had to cancel.
+- Amazon confirmed the order was triggered, but noted that the order needs to be confirmed to actually happen.
+- The incident persuaded the viewer to lodge a complaint with the UK Advertising Standards Authority (ASA) alleging that the ad was irresponsible as it caused their Echo Dot to order cat food.
+- The ASA ruled the advert was not in breach of the UK advertising code, and that Amazon had updated Alexa to automatically cancel any orders that had not been actively confirmed by the customer.
+- Operator:  Developer: Amazon Country: UK Sector: Consumer goods Purpose: Interact with users Technology: Speech recognition; Natural language understanding (NLU) Issue: Accuracy/reliabilityTransparency: Governance
+- Amazon Alexa developer website
+- Amazon Alexa Wikipedia profile
+URL: https://www.theguardian.com/technology/2018/feb/14/amazon-alexa-ad-avoids-ban-after-viewer-complaint-ordered-cat-food
+- Advertising watchdog rejects Echo Dot owner’s complaint that TV spot was irresponsible
+- An Amazon Echo owner has tried to get a television advertising campaign for the smart speaker banned after the Alexa virtual assistant attempted to order cat food when it heard its name on an ad.
+- An Amazon TV ad for the Echo Dot, which can perform functions such as make shopping lists and play music with voice commands, features people using the device in different situations. In one a man’s voice says: “Alexa, reorder Purina cat food.” Alexa responds: “I’ve found Purina cat food. Would you like to buy it?”
+- A viewer lodged a complaint with the Advertising Standards Authority (ASA), saying that the ad was irresponsible because it caused their Echo Dot to order cat food. Amazon confirmed that the complainant’s device did place an order for the cat food but it had been cancelled by the customer.
+- Amazon said it was aware of the potential issue and “marks” ads so that Alexa is not triggered. In addition, customers are required to confirm a purchase, which is automatically cancelled if they do not do so, the company said.
+- Earlier this month Amazon used its technology to stop devices from interacting with its Super Bowl TV spot, which featured celebrities including Gordon Ramsay, Rebel Wilson and Anthony Hopkins taking over from Alexa when she “loses her voice”.
+- The word “Alexa” was mentioned 10 times in the commercial, made by the London agency Lucky Generals, but it did not trigger action from devices in viewers’ homes.
+- The ASA assessed the complaint about the phantom cat food order but did not find it in breach of the UK advertising code.
+- It is not the first time that Amazon has run into trouble with Alexa taking orders from the TV. Last year an episode of South Park that featured the characters repeatedly yelling commands at cartoon versions of Alexa and rival Google Home wreaked havoc with some viewers’ devices.
+- Similarly, a TV presenter in San Diego commented on a story about a six-year-old girl who had asked Alexa to order her a dollhouse, which triggered orders for the dollhouse by Alexa on devices owned by viewers.
+- “The real problem, I think, is that it’s much harder for manufacturers of this kind of device to guard against ads created by a third parties,” said Geraint Lloyd-Taylor, of the law firm Lewis Silkin. “There’s not much Amazon can do to proactively guard against that.”
+
+URL: https://www.thesun.co.uk/tech/5570449/amazon-echo-dot-ad-cat-food/
+- Despite Amazon's audio safeguards, an Amazon Echo Dot allegedly went shopping by itself after hearing a voice command on an ad
+- AN AMAZON Echo Dot made a random shopping order all on its own after an ad activated its digital assistant Alexa.
+- The smart speaker's owner was miffed to find his device had taken it upon itself to place a request for cat food on Amazon.com.
+- The ad that set it off featured a man's voice that said: "Alexa, re-order Purina cat food."
+- And sure enough, this particular Echo Dot obliged, responding with: "I've found Purina cat food. Would you like to buy it?"
+- It was enough for its male owner to file a complaint with the UK's Advertising Standards Authority (ASA), in which he challenged whether the statement "Alexa, re-order Purina cat food" was socially irresponsible.
+- But the ASA announced today that the complaint has not been upheld.
+- In its defence Amazon assured the regulator that an extra security step was in place that requires customers to verbally confirm an order made through the Echo.
+- However, it did admit that an order was placed on the complainant's account on the day the ad was broadcast in October, which he immediately cancelled.
+- Oddly, the request went through regardless of Amazon's tech that prevents ads from interacting with users' devices.
+- The system, revealed as "acoustic fingerprints" earlier this month, helps your Echo understand when you're being advertised to, rather than making a voice command.
+- All you have to do to wake the digital assistant is utter "Alexa," making safeguards against incorrect orders a must.
+- Amazon directed the ASA to the audio-blocking technique and, in its assessment, the regulator said it was satisfied with the firm's response.
+- It concluded that the ad was not socially irresponsible and did not breach the advertising code.
+- “To shop with Alexa, customers must ask Alexa to order a product and then confirm the purchase with a “yes” response to purchase via voice," an Amazon spokesperson told The Sun Online.
+- "If you asked Alexa to order something by accident, simply say 'no' when asked to confirm. You can also manage your shopping settings in the Alexa app, such as turning off voice purchasing or requiring a confirmation code before every order.
+"Additionally, orders placed with Alexa for physical products are eligible for free returns.”
+- We pay for your stories! Do you have a story for The Sun Online news team? Email us at tips@the-sun.co.uk or call 0207 782 4368 . We pay for videos too. Click here to upload yours.
+- Find Amazon discounts and offer codes with The Sun Vouchers
+- Dani Dyer reveals adorable names she's called her twin daughters
+- Schofield breaks silence on This Morning axing blaming ‘people with grudges’
+- Phil Schofield snapped with young aide as insider says relationship was 'odd'
+- ITV loses millions in sponsorship deals over shamed Schofield's affair
+- ©News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy. To inquire about a licence to reproduce material, visit our Syndication site. View our online Press Pack. For other inquiries, Contact Us. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the Independent Press Standards Organisation (IPSO)
+- Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click this link: thesun.co.uk/editorial-complaints/
+
+URL: https://news.sky.com/story/amazon-cleared-after-alexa-ad-triggers-cat-food-order-11249840
+- An Echo Dot owner said an Amazon advert that triggered their device to order cat food was "socially irresponsible".
+- Wednesday 14 February 2018 12:58, UK
+- Amazon has been cleared by the advertising watchdog after a television ad for its Echo Dot smart speaker activated a viewer's device and placed an order for cat food.
+- The commercial, which aired on 5 October, showcased people using the device in various situations and included a man saying, "Alexa, re-order Purina cat food," to which the virtual assistant replied: "I've found Purina cat food - would you like to buy it?"
+- Although Amazon has said such ads are "marked" to prevent them from triggering responses from devices in homes, the complainant's device had gone ahead and placed the order.
+- The owner was able to cancel it, but complained to the Advertising Standards Authority (ASA) that the advert was "socially irresponsible".
+- However, Amazon has said that even if they had not cancelled the order themselves, it would not have been processed without the customer "confirming" the order.
+- "To shop with Alexa, customers must ask Alexa to order a product and then confirm the purchase with a 'yes' response to purchase via voice," said a spokesman for the retail giant.
+- "If you asked Alexa to order something on accident, simply say 'no' when asked to confirm."
+- Amazon posts strong profits but warnings over slowdown sparks dip in share gains
+- Amazon UK could be forced to recognise union for first time, GMB says
+- Apple and Google warn Amazon about children 'accessing porn' on Kindle app
+- Owners of any Alexa devices can also use the accompanying app to turn off voice purchasing or set up a code to authorise any orders.
+- The ASA said it was satisfied Amazon had done enough to protect owners of the devices from any accidental shopping via its adverts.
+- "In this instance, the complainant had cancelled the order themselves, but we understood that had they not done so, the order would nonetheless have been cancelled automatically," it said.
+- "Therefore we understood that it would not be possible for a purchase to be made without the account owner's knowledge, even in instances where technology, intended to stop ads interacting with devices, had not been effective.
+- "We concluded that the ad was not socially irresponsible and did not breach the code."
+- Last month a US TV station was inundated with complaints after viewers' Echo devices overheard a presenter's comments about doll houses and started ordering them.
+- A six-year-old girl was among those who took advantage, securing a shipment of a $160 (£130) doll house and a tin of biscuits after asking Alexa if it would "play doll house with me and get me a doll house".
+- © 2023 Sky UK
+
+URL: https://www.dailymail.co.uk/news/article-5388749/amp/Customer-complains-Amazon-Echo-orders-cat-food.html
+- By Jemma Buckley For The Daily Mail
+              
+01:22 14 Feb 2018, updated 10:38 14 Feb 2018
+- 
+- Comments
+- 
+- Comments
+- 
+- 
+- It is the voice-activated device that it supposed to make it simple to play music, check the weather or order a takeaway.
+- But things weren't quite so straightforward for one Amazon Echo owner – after an advert for the smart speaker triggered their own device and left them with an unwanted order for cat food.
+- The owner complained to the advertising regulator about the 'socially irresponsible' advert, which was shown on television screens on October 5.
+- The advert demonstrated various people using the Amazon Echo device – which is voiced by an 'intelligent personal assistant' known as Alexa.
+- At one point in the advert, a man's voice says: 'Alexa, re-order Purina cat food,' to which the virtual assistant replied: 'I've found Purina cat food. Would you like to buy it?'.
+- A viewer of the advert found the command, played through their TV speakers, triggered their own Amazon Echo Dot device to place an unwanted order for the cat food. They cancelled the order before it arrived.
+- The Advertising Standards Authority investigated but yesterday said it had cleared Amazon's advert and found it had not breached their code.
+- The Echo works by constantly listening for the 'wake word' – either 'Alexa' or 'Amazon' by default – and then records your voice and transfers it to a processor for analysis so that it can fulfil requests or answer questions.
+- It can be used for a wide range of tasks, including ordering groceries or a takeaway online, giving a weather report, ordering an Uber taxi, announcing the latest football scores and playing music or podcasts.
+- Bosses at the tech firm said there were measures in place to 'prevent its ads from interacting with the devices of their customers'.
+- An Amazon spokesman said adverts are 'digitally marked' to prevent them triggering other Echo devices. If that technology fails, customers are still required to 'confirm a purchase' before it is ordered. If they fail to do so, then the order should be 'automatically cancelled'.
+- Bosses at the ASA said: 'In this instance, the complainant had cancelled the order themselves, but we understood that had they not done so, the order would nonetheless have been cancelled automatically.
+- 'Therefore we understood that it would not be possible for a purchase to be made without the account owner's knowledge, even in instances where technology, intended to stop ads interacting with devices, had not been effective.
+- 'We concluded that the ad was not socially irresponsible and did not breach the Code.'
+- This is not the first time a command on the TV has caused an Amazon Echo to order a product.
+- A San Diego TV station sparked complaints after an on-air report about a girl who ordered a dollhouse via her parents' Amazon Echo caused the device in viewers' homes to also attempt to order the same item.
+- The six-year-old had asked her family's new Amazon Echo - which includes a virtual assistant called Alexa - 'can you play dollhouse with me and get me a dollhouse?' The device followed the command, ordering a £140 KidKraft Sparkle mansion dollhouse, as well as four pounds of sugar cookies.
+- But things were made worse when the phrase was repeated by TV anchor Jim Patton, who said: 'I love the little girl saying, 'Alexa ordered me a dollhouse'.' Viewers were stunned when their own Amazon Echoes picked up the voice requests in the report and also ordered the child's toy online.
+- The Echo, which currently costs £74.99 for the standard version or £39.99 for the smaller 'Dot' version, was one of the most popular Christmas presents last year.
+- 
+- 
+- Comments
+- 
+- Comments
+- 
+- 
+- ITV crisis deepens as it is claimed Phillip Schofield's younger ex-lover was NOT quizzed by bosses...
+- More photos of Phillip Schofield and his younger ex-lover emerge: Holly and Phil are seen alongside...
+- 'A handful of people have a grudge against me': Phillip Schofield hits back at growing accusations...
+- Woman discovers 'unbelievable' note left on her car windscreen by angry neighbours who say they are...
+- Holly Willoughby fights on: This Morning star hopes to 'ride out' Phillip Schofield scandal, sources...
+- This Morning goes into meltdown: Guests refuse to appear as ITV 'loses £2m in contracts' and main...
+- 'If you're looking for a fight you've picked on the wrong person': Eamonn Holmes slams 'delusional'...
+- Moment Ukraine tennis player Marta Kostyuk is BOOED off court at French Open after refusing to shake...
+- Let This Morning 'die with dignity': Former editor who launched the hit ITV show 36 years ago says...
+- Parents of 'beautiful' girl, five, who died in fire which ravaged family home while they were inside...
+- Oscar-winning Hollywood director who helps bankroll Just Stop Oil is accused of hypocrisy after it...
+- 'My mum and dad never got over it': Sister of man stabbed to death in 1979 by boss of children's...
+- Taxpayers may be forced to foot the bill for the Princess of Wales's parents coronavirus loan after...
+- British Airways pilot who bludgeoned his wife to death with a claw hammer could be the first...
+- Alleged leader of gang that smuggled 3,000 migrants into Britain fights extradition to Belgium:...
+- Taylor Swift's former home on Cornelia Street where she fell in love with Joe Alwyn is sitting on...
+- 
+
+URL: https://www.bbc.co.uk/news/business-43044693
+- A television ad for Amazon's Echo Dot smart speaker that caused a viewer's device to try to order cat food has been cleared by a UK regulator.
+- The advert, which aired in October, featured a man asking Amazon's voice assistant Alexa to order Purina cat food.
+- A viewer said the ad caused their Echo Dot device to respond after hearing the ad on the television.
+- The viewer complained that the ad was "socially irresponsible".
+- The Advertising Standards Authority (ASA) announced that it would not uphold the consumer's complaint because it did not find the advert to be in breach of the UK Code of Broadcast Advertising.
+- The regulator acknowledged that Amazon had taken measures to prevent its ads from triggering a response in devices that might "overhear" a command from a voice on the television.
+- In this case, the ad did cause the device to initiate an order for cat food, and the user cancelled the order personally.
+- However, ASA said that Amazon had programmed Alexa to automatically cancel any orders that had not been actively confirmed by the customer.
+- "We understood that it would not be possible for a purchase to be made without the account owner's knowledge, even in instances where technology, intended to stop ads interacting with devices, had not been effective," the regulator said in its decision.
+- "We concluded that the ad was not socially irresponsible and did not breach the Code."
+- In January 2017, there was a spate of such incidents in the US involving Amazon Echo devices.
+- The devices overheard a television news anchor on CW6 in San Diego talking about a child who managed to order a doll's house and a tin of cookies from Alexa because the family had not activated parental controls on their Echo device.
+- The anchor in question, Jim Patton, said: "I love the little girl saying, 'Alexa order me a dollhouse.'"
+- CW6 said that after the news segment aired, the TV station received numerous calls from viewers complaining that their smart speakers had all tried to order doll's houses after the words were uttered on the screen.
+- At the time, Amazon advised users to open the Alexa app and turn off the "voice purchasing" setting.
+- Customers were also advised to set up a confirmation code that would need to be typed in before each order was authenticated.
+- Amazon revamps Echo smart speaker family
+- First look at Amazon's new Echo speakers
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.mirror.co.uk/tech/amazon-echo-smart-speaker-accidentally-12020818
+
+URL: https://www.femalefirst.co.uk/bizarre/customer-angry-after-amazon-alexa-orders-cat-food-advert-1129301.html
+- 14 February 2018
+- A customer was left fuming after an Amazon Alexa device accidentally ordered cat food after hearing an advert on TV.
+- Amazon Alexa
+- The advert reportedly triggered the device to begin the order and the customer complained to the advertising watchdog and dubbed it ''socially irresponsible'' the Metro reported.
+- Originally screened last October, the advert features people using the technology in different situations, and the customer's device reacted after a man could be heard saying: ''Alexa, re-order Purina cat food''.
+- Despite complaining, the Advertising Standards Agency said it wouldn't be possible for a customer to not know if something had been purchased from their account.
+- They said: ''The complainant had cancelled the order themselves, but we understood that had they not done so, the order would have been cancelled automatically.
+- ''Therefore we understood it would not be possible for a purchase to be made without the account owner's knowledge.
+- ''We concluded that the ad was not socially irresponsible and did not breach the code.''
+- © 2023 FemaleFirst Ltd. all rights reserved.
+- duration : 0.31286s v4.2 - 2023-05-27 08:48:41
+
+URL: https://uk.pcmag.com/speakers/93352/amazon-tv-ad-triggers-echo-dot-to-order-cat-food
+- We review products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+- Amazon's Alexa, which is the intelligent assistant at the heart of every Echo smart speaker, is only meant to respond to its owner(s) commands. However, one Echo Dot owner in the UK has filed a complaint with the Advertising Standards Agency (ASA) after a TV ad triggered their Dot to attempt a Purina cat food order.
+- Adverts containing commands for Alexa aren't meant to do that. During Amazon's 90 second Super Bowl advert this year the word "Alexa" is spoken 10 times, but no Echo speakers were triggered. That's because, as Bloomberg explained earlier this month, Amazon uses a couple of techniques to stop it happening (audible command filtering and use of sounds outside of human hearing range).
+- As The Guardian reports, for some reason, the UK ad still managed to trigger this person's Echo Dot, which then proceeded to try and confirm an order for Purina cat food. The owner cancelled the order, but lodged a complaint in an attempt to get the ad banned. Amazon has since confirmed the order was triggered on the device, but also reminded everyone that the order needs to be confirmed to actually happen. So in this case no cat food was ordered.
+- The ASA decided the ad was not in breach of the UK advertising code. However, you can be sure Amazon is investigating why it happened and will take the required action to stop it happening again. If nothing else, it's embarrassing for a smart speaker to do something that's not very smart.
+- 
+- PCMag.com is a leading authority on technology, delivering lab-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+- PCMag is obsessed with culture and tech, offering smart, spirited coverage of the products and innovations that shape our connected lives and the digital trends that keep us talking.
+
+- Amazon Alexa recommends girl touches electric plug
+- Amazon Alexa plays child pornography
+- Page infoType: IncidentPublished: March 2023

@@ -1,0 +1,354 @@
+- Released: June 2020
+- Can you improve this page?Share your insights with us
+- Professors and a PhD student at Harrisburg University have developed software that automatically predicts whether someone is going to become a criminal based solely on a picture of their face with '80 percent accuracy and no racial bias'.
+- A backlash quickly followed the announcement, with the researchers accused of 'unsound scientific premises, research, and methods which … have [been] debunked over the years' by the Coalition for Critical Technology (CCT) in an open letter signed by over 1,700 academics demanding the research remains unpublished.
+- Springer Nature later confirmed it will not publish the research, which was subsequently withdrawn by Harrisburg University.
+- The research was intended to appear in a book series titled 'Springer Nature – Research Book Series: Transactions on Computational Science & Computational Intelligence.'
+- In a similar vein, researchers from Shanghai Jiao Tong University claimed their software could predict criminality using facial analysis in 2016.
+- Operator: Developer: Harrisburg University Country: USA Sector: Govt - police Purpose: Predict criminality Technology: Facial recognition; Emotion detection Issue: Accuracy/reliability; Bias/discrimination - race, gender, age, income; Ethics;   PseudoscienceTransparency:
+URL: http://archive.is/N1HVe
+
+URL: https://www.bbc.co.uk/news/technology-53165286
+- A US university's claim it can use facial recognition to "predict criminality" has renewed debate over racial bias in technology.
+- Harrisburg University researchers said their software "can predict if someone is a criminal, based solely on a picture of their face".
+- The software "is intended to help law enforcement prevent crime", it said.
+- But 1,700 academics have signed an open letter demanding the research remains unpublished.
+- One Harrisburg research member, a former police officer, wrote: "Identifying the criminality of [a] person from their facial image will enable a significant advantage for law-enforcement agencies and other intelligence agencies to prevent crime from occurring."
+- The researchers claimed their software operates "with no racial bias".
+- But the organisers of the open letter, the Coalition for Critical Technology, said: "Such claims are based on unsound scientific premises, research, and methods, which numerous studies spanning our respective disciplines have debunked over the years.
+- "These discredited claims continue to resurface."
+- The group points to "countless studies" suggesting people belonging to some ethnic minorities are treated more harshly in the criminal justice system, distorting the data on what a criminal supposedly "looks like".
+- University of Cambridge computer-science researcher Krittika D'Silva, commenting on the controversy, said: "It is irresponsible for anyone to think they can predict criminality based solely on a picture of a person's face.
+- "The implications of this are that crime 'prediction' software can do serious harm - and it is important that researchers and policymakers take these issues seriously.
+- "Numerous studies have shown that machine-learning algorithms, in particular face-recognition software, have racial, gendered, and age biases," she said, such as a 2019 study indicating facial-recognition works poorly on women and older and black or Asian people.
+- In the past week, one example of such a flaw went viral online, when an AI upscaler that "depixels" faces turned former US President Barack Obama white in the process.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- The upscaler itself simply invents new faces based on an initial pixelated photo - not really aiming for a true recreation of the real person.
+- But the team behind the project, Pulse, have since amended their paper to say it may "illuminate some biases" in one of the tools they use to generate the faces.
+- The New York Times has also this week reported on the case of a black man who became the first known case of wrongful arrest based on a false facial recognition algorithm match.
+- In the Harrisburg case, the university had said the research would appear in a book published by Springer Nature, whose titles include the well regarded academic journal Nature.
+- Springer, however, said the paper was "at no time" accepted for publication. Instead, it was submitted to a conference which Springer will publish the proceedings of - and had been rejected by the time the open letter was issued.
+- "[It] went through a thorough peer review process. The series editor's decision to reject the final paper was made on Tuesday 16 June and was officially communicated to the authors on Monday 22 June," the company said in a statement.
+- Harrisburg University, meanwhile, took down its own press release "at the request of the faculty involved".
+- The paper was being updated "to address concerns", it said.
+- And while it supported academic freedom, research from its staff "does not necessarily reflect the views and goals of this university".
+- The Coalition for Critical Technology organisers, meanwhile, have demanded "all publishers must refrain from publishing similar studies in the future".
+- Facial recognition fails on race, study says
+- Police 'miss' chances to improve face tech
+- IBM abandons 'biased' facial recognition tech
+- Passport facial checks fail to work with dark skin
+- Microsoft bars facial recognition sales to police
+- Amazon defends facial-recognition tool
+- Biased and wrong? Facial recognition tech in the dock
+- Drones hit Moscow buildings after strikes on Kyiv kill one
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Sidney Fussell
+- Application
+- Ethics
+- Face recognition
+- Prediction
+- End User
+- Government
+- Sector
+- Public safety
+- Technology
+- Machine vision
+- In early May, a press release from Harrisburg University claimed that two professors and a graduate student had developed a facial-recognition program that could predict whether someone would be a criminal. The release said the paper would be published in a collection by Springer Nature, a big academic publisher.
+- With “80 percent accuracy and with no racial bias,” the paper, A Deep Neural Network Model to Predict Criminality Using Image Processing, claimed its algorithm could predict “if someone is a criminal based solely on a picture of their face.” The press release has since been deleted from the university website.
+- Tuesday, more than 1,000 machine-learning researchers, sociologists, historians, and ethicists released a public letter condemning the paper, and Springer Nature confirmed on Twitter it will not publish the research.
+- But the researchers say the problem doesn't stop there. Signers of the letter, collectively calling themselves the Coalition for Critical Technology (CCT), said the paper’s claims “are based on unsound scientific premises, research, and methods which … have [been] debunked over the years.” The letter argues it is impossible to predict criminality without racial bias, “because the category of ‘criminality’ itself is racially biased.”
+- Advances in data science and machine learning have led to numerous algorithms in recent years that purport to predict crimes or criminality. But if the data used to build those algorithms is biased, the algorithms’ predictions will also be biased. Because of the racially skewed nature of policing in the US, the letter argues, any predictive algorithm modeling criminality will only reproduce the biases already reflected in the criminal justice system.
+- Mapping these biases onto facial analysis recalls the abhorrent “race science” of prior centuries, which purported to use technology to identify differences between the races—in measurements such as head size or nose width—as proof of their innate intellect, virtue, or criminality.
+- Race science was debunked long ago, but papers that use machine learning to “predict” innate attributes or offer diagnoses are making a subtle, but alarming return.
+- In 2016 researchers from Shanghai Jiao Tong University claimed their algorithm could predict criminality using facial analysis. Engineers from Stanford and Google refuted the paper’s claims, calling the approach a new “physiognomy,” a debunked race science popular among eugenists, which infers personality attributes from the shape of someone’s head.
+- In 2017 a pair of Stanford researchers claimed their artificial intelligence could tell if someone is gay or straight based on their face. LGBTQ organizations lambasted the study, noting how harmful the notion of automated sexuality identification could be in countries that criminalize homosexuality. Last year, researchers at Keele University in England claimed their algorithm trained on YouTube videos of children could predict autism. Earlier this year, a paper in the Journal of Big Data not only attempted to “infer personality traits from facial images,” but cited Cesare Lombroso, the 19th-century scientist who championed the notion that criminality was inherited.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Each of those papers sparked a backlash, though none led to new products or medical tools. The authors of the Harrisburg paper, however, claimed their algorithm was specifically designed for use by law enforcement.
+- “Crime is one of the most prominent issues in modern society,” said Jonathan W. Korn, a PhD student at Harrisburg and former New York police officer, in a quote from the deleted press release. “The development of machines that are capable of performing cognitive tasks, such as identifying the criminality of [a] person from their facial image, will enable a significant advantage for law enforcement agencies and other intelligence agencies to prevent crime from occurring in their designated areas.”
+- Korn didn’t respond to a request for comment. Nathaniel Ashby, one of the paper’s coauthors, declined to comment.
+- Springer Nature did not respond to a request for comment before this article was initially published. In a statement after the article was initially published, Springer said, “We acknowledge the concern regarding this paper and would like to clarify at no time was this accepted for publication. It was submitted to a forthcoming conference for which Springer will publish the proceedings of in the book series Transactions on Computational Science and Computational Intelligence and went through a thorough peer review process. The series editor’s decision to reject the final paper was made on Tuesday 16th June and was officially communicated to the authors on Monday 22nd June. The details of the review process and conclusions drawn remain confidential between the editor, peer reviewers and authors.”
+- Civil liberties groups have long warned against law enforcement use of facial recognition. The software is less accurate on darker-skinned people than lighter-skinned people, according to a report from AI researchers Timnit Gebru and Joy Buolamwini, both of whom signed the CCT letter.
+- In 2018, the ACLU found that Amazon’s facial-recognition product, Rekognition, misidentified members of Congress as criminals, erring more frequently on black officials than white ones. Amazon recently announced a one-year moratorium on selling the product to police.
+- The Harrisburg paper has seemingly never been publicly posted, but publishing problematic research alone can be dangerous. Last year Berlin-based security researcher Adam Harvey found that facial-recognition data sets from American universities were used by surveillance firms linked to the Chinese government. Because AI research created for one purpose can be used for another, papers require intense ethical scrutiny even if they don’t directly lead to new products or methods.
+- “Like computers or the internal combustion engine, AI is a general-purpose technology that can be used to automate a great many tasks, including ones that should not be undertaken in the first place,” the letter reads.
+- Updated, 6-24-20, 1:30pm ET: This article has been updated to include a statement from Springer Nature.
+- Caitlin Harrington
+- Khari Johnson
+- Justin Ling
+- Matt Burgess
+- Andy Greenberg
+- Khari Johnson
+- Tracy Wen Liu
+- Morgan Meaker
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.iflscience.com/technology/over-1000-experts-call-out-racially-biased-ai-designed-to-predict-crime-based-on-your-face/
+- Advertisement
+- Sign up today to get weekly science coverage direct to your inbox
+- © 2023 IFLScience.  All Rights Reserved
+- Sign up today to get weekly science coverage direct to your inbox
+- © 2023 IFLScience.  All Rights Reserved
+- More
+- Newsletters in your inbox!
+- Subscribe today for our Weekly Newsletter in your inbox!
+- James Felton
+- James Felton
+- Senior Staff Writer
+- James is a published author with four pop-history and science books to his name. He specializes in history, strange science, and anything out of the ordinary.
+- BookView full profile
+- BookRead IFLScience Editorial Policy
+- Senior Staff Writer
+- Shutterstock / metamorworks
+- Have you ever messed up so badly at work that 1,000 experts band together to tell your publishers to stop, rescind the offer of publication and thoroughly explain themselves? No? Well, spare a thought for Harrisburg University who find themselves in this exact situation today.
+- In an upcoming book to be published by Springer Nature, Transactions on Computational Science & Computational Intelligence, the team from Harrisburg University outlined a system they created that they claimed (in a press release that has now been removed from online), "With 80 percent accuracy and with no racial bias, the software can predict if someone is a criminal based solely on a picture of their face. The software is intended to help law enforcement prevent crime."
+- Alarmed by the many and immediate problematic assumptions and repercussions of using "criminal justice statistics to predict criminality," experts from a wide range of technical and scientific fields including statistics, machine learning, artificial intelligence, law, history, and sociology responded in the open letter, categorically stating:
+- "Let’s be clear: there is no way to develop a system that can predict or identify 'criminality' that is not racially biased — because the category of 'criminality' itself is racially biased," adding "data generated by the criminal justice system cannot be used to “identify criminals” or predict criminal behavior. Ever."Related StoriesNew York Lawyer Caught Using ChatGPT After Citing Cases That Don't ExistShould We All Be Meditating? Find Out In Issue 11 Of CURIOUS – Out NowGoodbye, WinRAR: Windows Is Finally Adding This Much-Wanted Feature
+- The authors of the letter write that research like this rests on the assumption that data on criminal arrests and convictions are "reliable, neutral indicators of underlying criminal activity," rather than a reflection of the policies and practices of the criminal justice system, and all the historical and current biases within it.
+- "Countless studies have shown that people of color are treated more harshly than similarly situated white people at every stage of the legal system, which results in serious distortions in the data," the group calling themselves the Coalition for Critical Technology write.
+- "Thus, any software built within the existing criminal legal framework will inevitably echo those same prejudices and fundamental inaccuracies when it comes to determining if a person has the 'face of a criminal.'"
+- Essentially – as with so many other forms of technology – the system will replicate the inherent racial biases of the data it's been fed. The system would identify the face of someone who the police may profile, a jury may convict, and a judge may sentence. All of which is tainted by prejudice.
+- The letter points out that "police science" has been used as a way to justify racially discriminatory practices. Despite being "debunked numerous times throughout history, they continue to resurface under the guise of cutting-edge techno-reforms, such as 'artificial intelligence.'"
+- The letter asserts that any AI systems that claim to predict criminal behavior on physical characteristics are a continuation of the long-discredited pseudoscience of phrenology. As well as being used by Europeans as a "scientific" justification for their racist beliefs of their superiority over non-white peoples, the authors state phrenology and physiognomy were and are "used by academics, law enforcement specialists, and politicians to advocate for oppressive policing and prosecutorial tactics in poor and racialized communities."
+- The Coalition for Critical Technology asks that Springer Nature condemn the use of criminal justice statistics to predict criminality and acknowledge their role in "incentivizing such harmful scholarship in the past".
+- A statement from Harrisburg University says that "All research conducted at the University does not necessarily reflect the views and goals of this University," and the faculty is "updating the paper to address concerns raised".
+- Advertisement
+- Advertisement
+- Advertisement
+- Sign up today to get weekly science coverage direct to your inbox
+- © 2023 IFLScience.  All Rights Reserved. | RSS
+
+URL: https://www.inputmag.com/culture/researchers-still-foolishly-think-ai-can-predict-criminality-by-looking-at-photos
+- Modern phrenology
+- This ethically compromised project would have made the notorious Cesare Lombroso proud.
+- Researchers at the Harrisburg University recently published a controversial press release — which is no longer available online but can still be viewed via archived pages — about how they (erroneously) believe artificial intelligence can predict the likelihood of someone being a criminal from a picture of their face alone. Which sounds disturbingly like 21st-century phrenology.
+- One of the study's authors is an NYPD veteran named Jonathan W. Korn who worked alongside professors Nathaniel Ashby and Roozbeh Sadeghian. At one point in the now-recanted press release for the bizarre study, researchers claimed that their project achieved "80 percent accuracy" and "no racial bias." Since then, Korn, Ashby, and Sadeghian's faulty and ethically dubious research — titled "Deep Neural Network Model to Predict Criminality Using Image Processing" — has been slammed all over the internet.
+- The problem with predictive policing — Although the press release has been scrubbed from the university's main website, the paper for the original research is expected to be published in the "Springer Nature Research Book Series: Transactions on Computational Science and Computational Intelligence." It will be interesting to see how other technology scholars react to it. Or anyone who's seen Minority Report.
+- The researchers sounded extremely confident about their undertaking, which has been repeatedly slammed for being fraught with legal risks, ethical quandaries, and for having unmistakable and dangerous implications for civil liberties. Curiously enough, though, none of these concerns come up in the press release.
+- "We already know machine learning techniques can outperform humans on a variety of tasks related to facial recognition and emotion detection," Sadeghian wrote. "This research indicates just how powerful these tools are by showing they can extract minute features in an image that are highly predictive of criminality."
+- Cesare Lombroso tried this ages ago — Italian criminologist and perennially debunked thinker Cesare Lombroso tried this ages ago and was ultimately proven wrong. According to Lombroso, one could predict the likelihood of criminality in an individual by simply assessing their physical appearance and the presence of any physical defects.
+- It sounds like a scam (much like psychic detectives or COVID-19-beating necklaces) because it is one. Harrisburg University's claim that artificial intelligence skimming through people's photos and predicting if "someone is likely going to be a criminal" falls in the same compromised category. It also carries the profound risk of inaccurately classifying innocent people — often minorities — as miscreants. We've seen this happen before over and over and over again.
+- It is stunning that well-established researchers continue to fail to see how unreliable the premise of their study is. They have yet to explain their methodology, but it is possible that the researchers would access massive prisoner databases, skim through said photos, and use rudimentary software like TensorFlow to examine the content. It's far too simple an approach to have toward something as complex as crime.
+- At the end of the day, artificial intelligence doesn't predict risk as much as it analyzes it. And it uses data that is curated by bias-riddled humans. The notion that it could accurately prophesize about a person's potential to commit crime is a terribly naive idea with potentially horrific repercussions.
+
+URL: https://www.techdirt.com/articles/20200505/17090244442/harrisburg-university-researchers-claim-their-unbiased-facial-recognition-software-can-identify-potential-criminals.shtml
+- (Mis)Uses of Technology
+- Given all we know about facial recognition tech, it is literally jaw-dropping that anyone could make this claim… especially without being vetted independently.
+- A group of Harrisburg University professors and a PhD student have developed an automated computer facial recognition software capable of predicting whether someone is likely to be a criminal.
+- The software is able to predict if someone is a criminal with 80% accuracy and with no racial bias. The prediction is calculated solely based on a picture of their face.
+- There’s a whole lot of “what even the fuck” in CBS 21’s reprint of a press release, but let’s start with the claim about “no racial bias.” That’s a lot to swallow when the underlying research hasn’t been released yet. Let’s see what the National Institute of Standards and Technology has to say on the subject. This is the result of the NIST’s examination of 189 facial recognition AI programs — all far more established than whatever it is Harrisburg researchers have cooked up.
+- Asian and African American people were up to 100 times more likely to be misidentified than white men, depending on the particular algorithm and type of search. Native Americans had the highest false-positive rate of all ethnicities, according to the study, which found that systems varied widely in their accuracy.
+- The faces of African American women were falsely identified more often in the kinds of searches used by police investigators where an image is compared to thousands or millions of others in hopes of identifying a suspect.
+- Why is this acceptable? The report inadvertently supplies the answer:
+- Middle-aged white men generally benefited from the highest accuracy rates.
+- Yep. And guess who’s making laws or running police departments or marketing AI to cops or telling people on Twitter not to break the law or etc. etc. etc.
+- To craft a terrible pun, the researchers’ claim of “no racial bias” is absurd on its face. Per se stupid af to use legal terminology.
+- Moving on from that, there’s the 80% accuracy, which is apparently good enough since it will only threaten the life and liberty of 20% of the people it’s inflicted on. I guess if it’s the FBI’s gold standard, it’s good enough for everyone.
+- Maybe this is just bad reporting. Maybe something got copy-pasted wrong from the spammed press release. Let’s go to the source… one that somehow still doesn’t include a link to any underlying research documents.
+- What does any of this mean? Are we ready to embrace a bit of pre-crime eugenics? Or is this just the most hamfisted phrasing Harrisburg researchers could come up with?
+- A group of Harrisburg University professors and a Ph.D. student have developed automated computer facial recognition software capable of predicting whether someone is likely going to be a criminal.
+- The most charitable interpretation of this statement is that the wrong-20%-of-the-time AI is going to be applied to the super-sketchy “predictive policing” field. Predictive policing — a theory that says it’s ok to treat people like criminals if they live and work in an area where criminals live — is its own biased mess, relying on garbage data generated by biased policing to turn racist policing into an AI-blessed “work smarter not harder” LEO equivalent.
+- The question about “likely” is answered in the next paragraph, somewhat assuring readers the AI won’t be applied to ultrasound images.
+- With 80 percent accuracy and with no racial bias, the software can predict if someone is a criminal based solely on a picture of their face. The software is intended to help law enforcement prevent crime.
+- There’s a big difference between “going to be” and “is,” and researchers using actual science should know better than to use both phrases to describe their AI efforts. One means scanning someone’s face to determine whether they might eventually engage in criminal acts. The other means matching faces to images of known criminals. They are far from interchangeable terms.
+- If you think the above quotes are, at best, disjointed, brace yourself for this jargon-fest which clarifies nothing and suggests the AI itself wrote the pullquote:
+- “We already know machine learning techniques can outperform humans on a variety of tasks related to facial recognition and emotion detection,” Sadeghian said. “This research indicates just how powerful these tools are by showing they can extract minute features in an image that are highly predictive of criminality.”
+- “Minute features in an image that are highly predictive of criminality.” And what, pray tell, are those “minute features?” Skin tone? “I AM A CRIMINAL IN THE MAKING” forehead tattoos? Bullshit on top of bullshit? Come on. This is word salad, but a salad pretending to be a law enforcement tool with actual utility. Nothing about this suggests Harrisburg has come up with anything better than the shitty “tools” already being inflicted on us by law enforcement’s early adopters.
+- I wish we could dig deeper into this but we’ll all have to wait until this excitable group of clueless researchers decide to publish their findings. According to this site, the research is being sealed inside a “research book,” which means it will take a lot of money to actually prove this isn’t any better than anything that’s been offered before. This could be the next Clearview, but we won’t know if it is until the research is published. If we’re lucky, it will be before Harrisburg patents this awful product and starts selling it to all and sundry. Don’t hold your breath.
+- Filed Under: ai, artificial intelligence, bias, facial recognition, precrime
+
+Companies: harrisburg university
+- “We already know machine learning techniques can outperform humans on a variety of tasks related to facial recognition and emotion detection,”
+- Do we now? Please state your peer reviews citations.
+- “We already know machine learning techniques can outperform humans on a variety of tasks related to facial recognition and emotion detection,”
+- I do like the comment, and have some real ugly types that would NEVER be considered NOT a Criminal.
+Facial recog from computers is about 20% at the MAX, mostly because of Lighting, and angles and Other things that can change how a person looks.
+Emotion detection? is only valid when you KNOW THAT PERSON.. I know allot of people that are MONOTONE, and you cant tell Squat about a joke until they tell you it was a JOKE. And Facial emotions ?? you have GOT to be kidding.
+- A friend and I thought about what to wear for Halloween, the Ugly thing that you dont want to get near or…that Nice looking SPIT eating grin of a person in a suit with candy, WHICh would be more scary??
+- For some reason I have the sudden urge to take their miracle technology and feed photos of all the researchers involved, every politician, and every cop they can get their hands on through it.
+- After all, if it’s capable of pre-crime then should be interesting to see who among that sampling is a criminal just waiting for their chance, and with an 80% accuracy rate well, that’s a lot of potential criminals to sort through and find, criminals who will have no excuse if they are flagged by such an amazingly accurate piece of technology since it couldn’t possibly be wrong.
+- Partial sarcasm aside I can but hope that this is a junk science PR stunt, with the hopes that after a while people will forget the ‘junk’ half of that description and only remember those involved for making something really cool, because if they actually think that they’re created a pre-crime facial recognition program then either they are running a scam that is likely to be all too successful given how eager cops are certain to be for yet another ‘violation of rights justification device’, or are so delusional that they have bought their own hype.
+- You might want to reconsider politicians and cops in your test sample as they have a tendency to commit crimes (or at least display criminal like behavior) at a greater rate than the general population.
+- That may be true, however the point of running them through the system is that it becomes somewhat more difficult for them to support a system for ‘accurately spotting criminals’ if people can dig up quotes not too long before regarding them objecting to the fact that it flagged them as criminals and how that simply must be a mistake.
+- Partial sarcasm aside I can but hope that this is a junk science PR stunt,
+- Or someone fishing for a big grant.
+- I would turn myself in right now, but I’m sequestered at home:(
+- I had some FTA warrants a few years ago, brought my toothbrush to 77th Street Police Station late on a Friday; cause jail is cheaper than "bail" (revenue enchantment) but the Cop at the computer lied and sent me back to the white suburbs. I had to wait the seven years to drive again:(
+- Another time i got picked up with an "expired license", the judge put me on probation! I kicked my court-appointed attorney and blurted out "Civil", the judge paused and said "civil" and dropped my probation. High white cheeks are a blessing.
+- After all, if it’s capable of pre-crime then should be interesting to see who among that sampling is a criminal just waiting for their chance, and with an 80% accuracy rate well, that’s a lot of potential criminals to sort through and find, criminals who will have no excuse if they are flagged by such an amazingly accurate piece of technology since it couldn’t possibly be wrong.
+- Be careful what you wish for. There’s nothing authoritarians like more than pushing a button and claiming "mission accomplished."
+- So what if it flags innocent people as criminals? As long as it avoids flagging the right people, a.k.a. the party in power and their buddies, it’s a perfect system in their book. Your questioning of it may actually get you flagged by it as a pre-terrorist.
+- Partial sarcasm aside I can but hope that this is a junk science PR stunt
+- Or it’s just another appeal to power hoping to get some sweet funding and good graces.
+- You know all that talk about how we should view 1984 as a warning instead of an instruction manual? Minority Report now deserves that same distinction.
+- Just lump in the entire cyberpunk genre. Dystopian corporate states should never be an end goal.
+- "Minority Report now deserves that same distinction."
+- Worse still. As an AC stated below, this is essentially phrenology – the long-disproven theory that you could predict a persons personality and moral fiber from the topology of their skulls. To my knowledge the last ones to even try to apply that as a "method" was a bunch of third reich quacks under Mengele who wanted a method to find out whether someone who looked like properly teutonic might actually have jewish or romani blood..or worse by far, be a homosexual.
+- That a few scientists are desperate for grants should not excuse them for trying to peddle pseudoscientific garbage whose only defendants in modern times consisted of Hitler’s Quack Squad.
+- Define "criminal". After all, if we commit on average 3 felonies a day, then every person is a criminal and their AI fails to recognize that 20% of the pictures actually have people in them.
+- 80% accuracy is weak numbers. I have almost no program writing training or experience (Qbasic and Turbo Pascal in high school) and I’m pretty sure I could write a program that could identify whether or not someone is a criminal with 99% or better accuracy. All it would need to do is be fed a picture, and say "Yes".
+- With the complexity of US and state laws, I’d say it’s a pretty sure bet that almost every person living in the US has committed, or will commit a crime at least once in their lives.
+- Then running the photos theough a color swapper to to make sure no color or ethic variance should be okay. Or swap skin color… I mean of unbiased then a simple swap should not cause issues, right?
+- Actually the expressions created by your verbal aggression are a good example of a red-flag for future criminal behavior.
+- How old were the newborns and what hospitals were involved?
+- Y’all missed something that was under the fold…
+- PHD Candidate and veteran NYPD.
+- https://twitter.com/dancow/status/1257824523585536000
+- I of course wanted to see the results when we gave the system the pictures of the cops who anally violated a detainee, the serial killer CBP agents, oh and those TSA guys who ran drugs & weapons.
+- Psuedoscience is never refuted, it just mutates in search of the next grant.
+- Minority Report wasn’t supposed to be an instruction manual. If anything, it showed the dangers of attempting to predict crime.
+- The software is able to predict if someone is a criminal with 80% accuracy and with no racial bias. The prediction is calculated solely based on a picture of their face.
+- Here’s the deal – what does ‘being a criminal’ even mean?
+- What about an adulterer? That’s illegal in some places. Would a picture of a person who cheated on their spouse in a place where that’s not illegal get a pass while it would detect the ‘criminality’ of someone who did it in a jurisdiction where its illegal?
+- Or two pictures of the same person, an earlier picture of a cheater in a jurisdiction where its not illegal and a later picture of the person from the jurisdiction where it is illegal?
+- ""Minute features in an image that are highly predictive of criminality." And what, pray tell, are those "minute features?"
+- Microexpressions of aggression, contempt, intransigence, hostility, SNARK, etc. Sounds like a very viable software actually. Takes "nothing to hide, nothing to fear" to a whole new level.
+- Let’s grant the conceit of this piece of bad fiction and assume as given that this software can predict who is going to be a criminal.
+- This is going to help police prevent crime in what way, exactly?
+- "This is going to help police prevent crime in what way, exactly?"
+- By pre-emptively locking up anyone identified by the system to be a future criminal, obviously.
+- Or fit them with ankle trackers, red-flag them in national police databases, kill their credit ratings, mandate they attend regular "parole" hearings, and blacklist them from any job having anything to do with government or security.
+- For a better example on how this might work – or not, as the case may be – google the wiki entry for "social credit score" as it’s being tested out in China.
+- Back in the 1800’s they claimed that you could tell if a person was a criminal by how they looked. Until recently, it was considered nonsense. (But there is money involved, so now we have phrenology 2.0.)
+- I can make a system that is 100% correct. Since everyone is guilty of something, you mark everyone as a criminal. Done. Now pay me.
+- The sad and crazy thing is they could have gotten way better numbers if they just made it to recognize a mugshots or active warrants database.
+- Even with the known limitations and issues of facial recognition making it dubious (issues with large data sets of examples exceeding their resolution) that would be a way better idea on so many levels. But it seems bias laundering is the main market for machine learning for law enforcement.
+- According to some embargoed pre-print that I just happen to have access to, it seems the new Harrisburg system will be called ClearBreach.
+- So going with the statements that have been made (that there are so many laws, good and bad, on the books), saying that everyone breaks at least 3 laws a day…
+- So by extrapolation, EVERYONE will be a criminal at some point in their life (by breaking some law they may not even be aware of, pulled a tag off a mattress… busted just kidding but you know what I mean).
+- My new AI can predict with 150% accuracy whether or not someone will be a criminal at some point in some country in their life… spoiler everyone will be a criminal at some point…
+- Ok, cops pay me all the money now, all your bases are belonging to us…
+- everyone breaks at least 3 laws a day…
+- The quote was 3 felonies per day. If you count every instance of law-breaking in a day, including multiple violations of the same law, you’ll get a much bigger number. That would include misdemeanors, traffic law violations, etc.
+- What are the chances that the training set for criminals is based on mugshots?
+- The software is able to predict if someone is a criminal with 80% accuracy and with no racial bias.
+- We don’t need any sort of predictive facial or other sort of system to come up with 80% accuracy.
+- Based on the incredible number of laws, ranging from local to state to federal to international, it’s nearly impossible to not break some sort of law on a daily basis. I probably break several traffic laws on my daily commute to work. Daily internet activity probably breaks some law somewhere – most likely copyright.
+- Therefore, picking any random sampling of any group of people, the chances are that 80% of them have committed some sort of crime today – ranging from speeding, turning without indicating, reading an article online, listening to a downloaded (and downloading!) an .mp3, to, hell, exceeding autrhorised access to a compiuter system in some readings of that law – let alone in their entire lifetimes.
+- "… they can extract minute features in an image that are highly predictive of criminality"
+- It’s the beady little eyes. Windows to the criminal soul.
+- They should try this software on Senators and see what happens.
+- This comment has been flagged by the community. Click here to show it.
+- Pseudocrimes, ememecrimes and metacrimes are going through the roof this year.
+- I do love it when people use hashtags in an environment where hashtags are useless.
+- In fairness, you can use hashtags properly in Markdown. But you have to escape the octothorpe with a backslash () if you place one at the beginning of a line.
+- #JustMarkdownThings
+- Are you assuming that these type of folks do due diligence to get things right?
+- Shouldn’t you know better at this point? 🙂
+- It’s still useless though even if formatted properly, because you can’t click on it to see other messages with the same tag like you can on Twitter.
+- Exactly. The entire reason for using hashtags is so that when you’re on a platform like Instagram or Twitter that uses them, you click on to the tag to see other posts with that hashtag. If you use them on a platform that doesn’t support that functionality, it’s just noise and an indication you don’t understand what you’re typing.
+- "In fairness, you can use hashtags properly in Markdown"
+- No, you can’t because the formatting isn’t the issue. It doesn’t matter how you format #JustMarkdownThings because it’s still just text. You don’t go to other posts that used the hashtag #JustMarkdownThings no matter how much you click on it, and since that’s the entire purpose of hashtags, you fail when trying to use them here.
+- It’s good to know they included all the #necessaryhashtags
+- Looks like they’ve removed the press release: https://harrisburgu.edu/hu-facial-recognition-software-identifies-potential-criminals/
+From experience, people who write press releases sometimes exaggerate to make the story more interesting, and they don’t always wait to get the researchers approval before publicising. It’s terrifying how much Comms departments and journalists will stretch the facts. I’ve had my work inaccurately described in the past. The issue could be more about bad journalism than bad research. But I’m speculating, based on the removal of the press release, and on the outlandish claims. It will be interesting to see the research once published.
+- The news release outlining research titled “A Deep Neural Network Model to Predict Criminality Using Image Processing” was removed from the website at the request of the faculty involved in the research. The faculty are updating the paper to address concerns raised.
+- Translation:
+- We fucked up, and we know we fucked up, but we can’t say “we fucked up”. We also can’t say “oops, we did phrenology”. So accept this long-winded bullshit instead.
+- …hell, I can identify a criminal just by reading a few facts about them.
+- For instance, By using my own methods of deduction I can state with at least 80% accuracy that the Harrisburg researchers mentioned in the OP are fraudulent con men bucking for easy money by selling snake oil and a miracle cure. And are probably libras.
+- Amazing what you can tell just by a casual glance, if you know how. You guys think I should patent the method?
+- Picture looks like a human? Return yes..
+- We are all criminals, therefore all the artificial intelligence needs to do is respond to all inquiries with Guilty! – Lock ’em up! That would be 100% accurate! They must have screwed something up.
+- Seriously tho – I doubt it can tell the diff between a human face and a dog.
+- This is the community that thinks polygraphs are 100% reliable – even more than computers, obviously since it’s a big electric thing with waving needle pens ans moving paper, so it must be scientific. They are considered proof positive anywhere but in court. FBI, CIA, Secret Service, most prosecutors’ offices, police forces…
+- So should we be surprised the same bunch think there’s something reliable to facial recognition, a tech that well-placed makeup or a facial hair or sunglasses can confuse?
+- I work with measurement devices. Any sensor that was only 80% accurate would go straight in the garbage.
+- "Any sensor that was only 80% accurate would go straight in the garbage."
+- Ah, but that’s science for scientific purposes.
+For Law Enforcement all you need is "Yeah, he probably did it. Or will. Whatever, lock him up"*
+- The target demographic is regularly in the news for managing to shoot and kill people over not dropping smartphones or remote controls fast enough. I don’t think they’ll be bothered about a 20% inaccuracy rate. It’d probably be a great improvement over what they currently use to determine whether they should apply lethal force or not.
+- What happens when a machine is 80% accurate:
+- https://www.youtube.com/watch?v=vBPFaM-0pI8
+- Matt Parker and Hannah Fry
+- "What happens when a machine is 80% accurate…"
+- You mean as in that machine then identifying 20% of everyone tested as a criminal? Yeah, rolled out across a larger demographic that may result in some future politician trying to include "1 in 5 people are CRIMININALS. Time to stop getting soft on crime!" in their platform.
+- This is why facial recognition tech – or ANY sort of automated algorithm meant to decide "suspicion" can’t be trusted. Even a 1% error margin becomes an incredible problem.
+- How could anything possibly go wrong with automated remote phrenology?
+- First, test the creators of this nonsense.
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://www.biometricupdate.com/202005/biometric-software-that-allegedly-predicts-criminals-based-on-their-face-sparks-industry-controversy
+- 
+- A group of academics and a Ph.D. student from Harrisburg University of Science and Technology in Pennsylvania have developed automated biometric facial recognition software that can allegedly predict criminal behavior in an individual, the university announced.
+- The researchers claim their technology has no racial bias and an 80 percent accuracy in predicting if an individual is a criminal based on their facial features in a picture. The software was developed to help law enforcement agencies.
+- The research is titled “A Deep Neural Network Model to Predict Criminality Using Image Processing,” and was conducted by Ph.D. student and NYPD veteran Jonathan W. Korn, Prof. Nathaniel J.S. Ashby, and Prof. Roozbeh Sadeghian.
+- “We already know machine learning techniques can outperform humans on a variety of tasks related to facial recognition and emotion detection,” Sadeghian said in a prepared statement. “This research indicates just how powerful these tools are by showing they can extract minute features in an image that are highly predictive of criminality.”
+- The research will be included in a book series named “Springer Nature – Research Book Series: Transactions on Computational Science & Computational Intelligence.”
+- “By automating the identification of potential threats without bias, our aim is to produce tools for crime prevention, law enforcement, and military applications that are less impacted by implicit biases and emotional responses,” Ashby said, in a prepared statement. “Our next step is finding strategic partners to advance this mission.”
+- “Crime is one of the most prominent issues in modern society. Even with the current advancements in policing, criminal activities continue to plague communities,” Korn added in a prepared statement. “The development of machines that are capable of performing cognitive tasks, such as identifying the criminality of person from their facial image, will enable a significant advantage for law enforcement agencies and other intelligence agencies to prevent crime from occurring in their designated areas.”
+- This research has sparked some controversy on LinkedIn, where industry experts have shared opinions regarding efficiency, privacy and ethical principles, calling the initiative “irresponsible,” “far-fetched” and “audaciously wrong,” as it may infer people are born criminals. The conversation was initiated by Michael Petrov, VP of Technology at EyeLock.
+- “In all my many years in the field of biometrics, I have never seen a study more audaciously wrong and still thought provoking than this,” Petrov wrote. “It’s wrong in its motivation (people are not born as criminals, and facial appearance is something we inherit from our likely non-criminal ancestors), technology (algorithm overtraining) and, most importantly, human privacy implications (by implying that the police can predict future criminals and correct them ahead of crimes).”
+- Once the controversy broke, Harrisburg University pulled down the announcement, but the text can still be read at archive today.
+- Tim Meyerhoff, Director at Iris ID Systems wrote he is “Quite curious about the data used to train this algorithm and the ground truth which accompanies it. This does nothing to help privacy concerns and claims of bias.”
+- Identity + Biometrics Industry Association (IBIA) Executive Director Tovah LaDier told Biometric Update in an email that IBIA members have responded negatively, though they have also expressed a desire to see the research article to confirm their understanding. LaDier also compared the idea of biometric prediction to phrenology, eugenics, astrology, and other pseudoscience fields, and expressed concern that it could “threaten facial recognition progress.”
+- This post was updated at 6:58pm Eastern on May 7, 2020 to remove it from the “facial recognition” category.
+- biometric software  |  biometrics  |  biometrics research  |  criminal ID  |  facial recognition  |  IBIA
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/
+- A collective of more than 2,000 researchers, academics and experts in artificial intelligence are speaking out against soon-to-be-published research that claims to use neural networks to “predict criminality.” At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to reconsider.
+- The controversial research is set to be highlighted in an upcoming book series by Springer, the publisher of Nature. Its authors make the alarming claim that their automated facial recognition software can predict if a person will become a criminal, citing the utility of such work in law enforcement applications for predictive policing.
+- “By automating the identification of potential threats without bias, our aim is to produce tools for crime prevention, law enforcement, and military applications that are less impacted by implicit biases and emotional responses,” Harrisburg University professor and co-author Nathaniel J.S. Ashby said.
+- The research’s other authors include Harrisburg University assistant professor Roozbeh Sadeghian and Jonathan W. Korn, a Ph.D. student highlighted as an NYPD veteran in a press release. Korn lauded software capable of anticipating criminality as “a significant advantage for law enforcement agencies.”
+- In the open letter opposing the research’s publication, AI experts expressed “grave concerns” over the study and urged Springer’s review committee to withdraw its offer. The letter also called on other publishers to decline to publish similar future research, citing a litany of reasons why both facial recognition and crime prediction technology should be approached with extreme caution and not leveraged against already vulnerable communities.
+- Google employees demand company stop selling tech to police
+- 
+- The publication’s opponents don’t just worry that the researchers have opened an ethical can of worms — they also cast doubt on the research itself, criticizing “unsound scientific premises, research, and methods, which numerous studies spanning our respective disciplines have debunked over the years.”
+- Update: Springer Nature Communications Manager Felicitas Behrendt reached out to TechCrunch and provided the following statement:
+- “We acknowledge the concern regarding this paper and would like to clarify at no time was this accepted for publication. It was submitted to a forthcoming conference for which Springer will publish the proceedings of in the book series Transactions on Computational Science and Computational Intelligence and went through a thorough peer review process. The series editor’s decision to reject the final paper was made on Tuesday 16th June and was officially communicated to the authors on Monday 22nd June. The details of the review process and conclusions drawn remain confidential between the editor, peer reviewers and authors.”
+- Facial recognition algorithms have long been criticized for poor performance in identifying non-white faces, among many other scientific and ethical concerns frequently raised about this kind of software. Given that the research in question developed facial recognition software that can be applied for predictive policing purposes, the technology’s stakes couldn’t be higher.
+- “Machine learning programs are not neutral; research agendas and the data sets they work with often inherit dominant cultural beliefs about the world,” the letter’s authors warn.
+- “The uncritical acceptance of default assumptions inevitably leads to discriminatory design in algorithmic systems, reproducing ideas which normalize social hierarchies and legitimize violence against marginalized groups.”
+- IBM ends all facial recognition business as CEO calls out bias and inequality
+- 
+
+URL: https://filtermag.org/crime-prediction-software-abolition/
+
+- China facial image criminal inference study
+- Stanford AI sexual orientation prediction study
+- Page info Type: ResearchPublished: January 2023

@@ -1,0 +1,242 @@
+- Released: 2015
+- Can you improve this page?Share your insights with us
+- VGG Face is a dataset of 2.6 million facial images of 2,622 people that was created to provide researchers working on facial recognition systems with access to biometric data.
+- The dataset mostly comprises celebrities, public figures, actors, and politicians whose names were chosen 'by extracting males and females, ranked by popularity, from the Internet Movie Data Base (IMDB) celebrity list.' Information about ethnicity, age, and kinship was also collected from IMDB.
+- At no point did any individual whose personal details were collected provide consent or information about how they were being used, according to Adam Harvey at exposing.ai, raising the question as to whether the images of public figures should be available for any organisation or person to use as they see fit.
+- The dataset has since been removed from Oxford University's website.
+- Operator: ChaLearn; Chinese Academy of Sciences; Delft University of Technology; Simula Research Laboratory; University of Applied Sciences & Arts Western Switzerland; University of California, Berkeley; Universitat Autònoma de Barcelona Developer: University of Oxford
+- Country: UK
+- Sector: Research/academia
+- Purpose: Develop facial recognition systems
+- Technology: Dataset; Facial recognition  Issue: Privacy; Copyright
+- Transparency: Privacy
+- Website
+- Research paper
+URL: https://paperswithcode.com/dataset/vggface2-1
+- Some tasks are inferred based on the benchmarks list.
+- The benchmarks section lists all benchmarks using a given dataset or any of
+                        its variants. We use variants to distinguish between results evaluated on
+                        slightly different versions of the same dataset. For example, ImageNet 32⨉32
+                        and ImageNet 64⨉64 are variants of the ImageNet dataset.
+- The VGGFace2 dataset is made of around 3.31 million images divided into 9131 classes, each representing a different person identity. The dataset is divided into two splits, one for the training and one for test. The latter contains around 170000 images divided into 500 identities while all the other images belong to the remaining 8631 classes available for training. While constructing the datasets, the authors focused their efforts on reaching a very low label noise and a high pose and age diversity thus, making the VGGFace2 dataset a suitable choice to train state-of-the-art deep learning models on face-related tasks. The images of the training set have an average resolution of 137x180 pixels, with less than 1% at a resolution below 32 pixels (considering the shortest side).
+- CAUTION: Authors note that the distribution of identities in the VGG-Face dataset may not be representative of the global human population. Please be careful of unintended societal, gender, racial and other biases when training or deploying models trained on this data.
+
+URL: https://paperswithcode.com/paper/vggface2-a-dataset-for-recognising-faces
+- 
+- 
+- 
+- 23 Oct 2017
+                        
+                         · 
+                        
+                            
+                                
+                                
+                                    
+Qiong Cao,
+                                
+                                    
+Li Shen,
+                                
+                                    
+Weidi Xie,
+                                
+                                    
+Omkar M. Parkhi,
+                                
+                                    
+Andrew Zisserman
+· 
+ Edit social preview
+- In this paper, we introduce a new large-scale face dataset named VGGFace2.
+The dataset contains 3.31 million images of 9131 subjects, with an average of
+362.6 images for each subject. Images are downloaded from Google Image Search
+and have large variations in pose, age, illumination, ethnicity and profession
+(e.g. actors, athletes, politicians). The dataset was collected with three
+goals in mind: (i) to have both a large number of identities and also a large
+number of images for each identity; (ii) to cover a large range of pose, age
+and ethnicity; and (iii) to minimize the label noise. We describe how the
+dataset was collected, in particular the automated and manual filtering stages
+to ensure a high accuracy for the images of each identity. To assess face
+recognition performance using the new dataset, we train ResNet-50 (with and
+without Squeeze-and-Excitation blocks) Convolutional Neural Networks on
+VGGFace2, on MS- Celeb-1M, and on their union, and show that training on
+VGGFace2 leads to improved recognition performance over pose and age. Finally,
+using the models trained on these datasets, we demonstrate state-of-the-art
+performance on all the IARPA Janus face recognition benchmarks, e.g. IJB-A,
+IJB-B and IJB-C, exceeding the previous state-of-the-art by a large margin.
+Datasets and models are publicly available.
+- Introduced in the Paper:
+- Used in the Paper:
+- Ranked #1 on
+                
+                    Face Verification
+                    on IJB-C
+                
+                
+                    (training dataset metric)
+
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+URL: https://syncedreview.com/2019/09/23/ai-vs-ai-fakespotter-studies-neurons-to-bust-deepfakes/
+- Synced
+- AI Technology & Industry Review
+- Synced
+- 56 Temperance St, #700
+Toronto, ON M5H 3V5
+- "Adversaries and strategic competitors probably will attempt to use deep fakes or similar machine-learning technologies to create convincing — but false — image, audio, and video files to augment influence campaigns directed against the United States and our allies and partners."
+- In 2017, new deepfake technology broke the internet when a Redditor used face-synthesize technology powered by generative adversarial networks (GAN) to create and spread a series of fake celebrity porn videos. In 2018, actress Scarlet Johansson, a frequent target of deepfake porn, spoke out against deepfakes in an interview with the Washington Post: “the internet is a vast wormhole of darkness that eats itself”.And in 2019, Facebook was criticized for failing to remove a viral video that had been manipulated to make US House Speaker Nancy Pelosi sound drunk. Also in 2019, China’s Standing Committee of the National People’s Congress amended its Civil Code Personality Rights (Draft) in an attempt to reduce the malicious spread of AI-empowered deepfake images and videos. The amendment states that no organization or individual may infringe the portrait rights of others through digital technology fakes.In its Worldwide Threat Assessment, the US Office of the Director of National Intelligence warns, “Adversaries and strategic competitors probably will attempt to use deep fakes or similar machine-learning technologies to create convincing — but false — image, audio, and video files to augment influence campaigns directed against the United States and our allies and partners.”Two weeks ago Facebook announced its “Deepfake Detection Challenge,” which aims to crowdsource deepfake detection solutions for exposing AI-synthesized videos that might mislead viewers. Now a team of researchers from Nanyang Technological University, Kyushu University, Alibaba Group, and Xiaomi AI Lab have introduced a new approach that monitors neuron behavior to spot AI-synthesized fake faces. Proposed in the paper FakeSpotter: A Simple Baseline for Spotting AI-Synthesized Fake Faces, the approach may prove to be the Sherlock Holmes of fake face detection. Researchers found that the neuron coverage behaviors between real and fake faces in deep face recognition systems can provide a critical clue for differentiating fake from real. Using this neuron coverage technique, researchers captured fine-grain facial features with deep facial recognition systems such as VGG-Face, OpenFace, and FaceNet. Because neurons can learn meaningful representations of inputs in image processing, the researchers focused on the behaviour of activated neurons as determined by a neuron coverage criteria they call “MNC.” The last piece of the FakeSpotter puzzle is the linear binary-classifier trained at detecting fake faces. The number of activated neurons in each layer can also be sorted as a feature vector during the linear binary-classifier training.
+- Experiment results show FakeSpotter reaching fake face detection accuracy of 78.23 percent, 80.54 percent, and 84.78 percent on VGG-Face, OpenFace, and FaceNet respectively, better performance than traditional deep CNNs.
+- Researchers believe the method can be effective in deepfake detection on face-swap videos. Their future work will involve localizing tampered areas in images for forensic study, and building a benchmark of high-quality fake images, tools for synthesizing fake images, and current detection methods.Rapid advancements in AI technologies have spawned fake speech, fake videos, and so on. Can AI now be used to counter these misuses and protect our privacy? Some are doubtful.A new report from nonprofit research institute Data & Society, Deepfakes and Cheap Fakes, examines the proliferation of fakes from a different perspective. Authors Britt Paris and Joan Donovan argue that technical solutions alone are not enough to address the problem: “News coverage claims that deepfakes are poised to destroy video’s claim to truth by permanently blurring the line between evidentiary and expressive video. But what coverage of this deepfake phenomenon often misses is that the ‘truth’ of AV (Audiovisual) content has never been stable — truth is socially, politically, and culturally determined. And people are able to manipulate truth with deepfakes and cheap fakes alike.” “With thousands of images of many of us online, in the cloud, and on our devices, anyone with a public social media profile is fair game to be faked,” note Paris and Donovan, who propose fighting deepfakes via social policy measures such as penalizing individuals for harmful behavior and increasing content moderation and positive social value promotion by tech giants.Similar sentiments are emerging in academia regarding the role of individuals and enterprises in the fight against manipulative AI. Turing award winner Yoshua Bengio, in his talk Learning High-Level Representations for Agents in last week’s MIT CSAIL Dertouzos Distinguished Lecture Series, spoke of declining to work on certain AI projects and identified “Manipulation from advertising and social media” and “Increased inequality and power concentration in few companies” as dangers associated with the misuse of AI technologies. Bengio told Synced: “I wish for my work to be used for good causes, not ones which are hurting humanity.”
+- The paper FakeSpotter: A Simple Baseline for Spotting AI-Synthesized Fake Faces is on arXiv.
+- Journalist: Fangyu Cai | Editor: Michael Sarazen
+- Machine Intelligence | Technology & Industry | Information & Analysis
+- hello
+the article is very very interesting.
+thanks for article.
+- hi.
+I wish for him that his work will be used for good goals, not for hurting humanity .
+the article is very nice.
+thanks.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name
+- Email
+- Website
+- Notify me of follow-up comments by email.
+- Notify me of new posts by email.
+- 
+- 
+- Δ
+- Email Address
+- Subscribe
+- Synced
+- 56 Temperance St, #700
+Toronto, ON M5H 3V5
+- One Broadway, 14th Floor, Cambridge, MA 02142
+- 75 E Santa Clara St, 6th Floor, San Jose, CA 95113
+- Contact Us @ global.general@jiqizhixin.com
+- Visit Us @ Synced China
+- Contribute to Synced Review
+- 
+
+URL: https://www.theverge.com/2017/9/21/16332760/ai-sexuality-gaydar-photo-physiognomy
+- By  James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.
+- Illustrations by Alex Castro
+- Two weeks ago, a pair of researchers from Stanford University made a startling claim. Using hundreds of thousands of images taken from a dating website, they said they had trained a facial recognition system that could identify whether someone was straight or gay just by looking at them. The work was first covered by The Economist, and other publications soon followed suit, with headlines like “New AI can guess whether you're gay or straight from a photograph” and “AI Can Tell If You're Gay From a Photo, and It's Terrifying.”
+- As you might have guessed, it’s not as straightforward as that. (And to be clear, based on this work alone, AI can’t tell whether someone is gay or straight from a photo.) But the research captures common fears about artificial intelligence: that it will open up new avenues for surveillance and control, and could be particularly harmful for marginalized people. One of the paper’s authors, Dr Michal Kosinski, says his intent is to sound the alarm about the dangers of AI, and warns that facial recognition will soon be able to identify not only someone’s sexual orientation, but their political views, criminality, and even their IQ.
+- some warn we’re replacing the calipers of physiognomy with neural networks
+- With statements like these, some worry we’re reviving an old belief with a bad history: that you can intuit character from appearance. This pseudoscience, physiognomy, was fuel for the scientific racism of the 19th and 20th centuries, and gave moral cover to some of humanity’s worst impulses: to demonize, condemn, and exterminate fellow humans. Critics of Kosinski’s work accuse him of replacing the calipers of the 19th century with the neural networks of the 21st, while the professor himself says he is horrified by his findings, and happy to be proved wrong. “It’s a controversial and upsetting subject, and it’s also upsetting to us,” he tells The Verge.
+- But is it possible that pseudoscience is sneaking back into the world, disguised in new garb thanks to AI? Some people say machines are simply able to read more about us than we can ourselves, but what if we’re training them to carry out our prejudices, and, in doing so, giving new life to old ideas we rightly dismissed? How are we going to know the difference?
+- First, we need to look at the study at the heart of the recent debate, written by Kosinski and his co-author Yilun Wang. Its results have been poorly reported, with a lot of the hype coming from misrepresentations of the system’s accuracy. The paper states: “Given a single facial image, [the software] could correctly distinguish between gay and heterosexual men in 81 percent of cases, and in 71 percent of cases for women.” These rates increase when the system is given five pictures of an individual: up to 91 percent for men, and 83 percent for women.
+- On the face of it, this sounds like “AI can tell if a man is gay or straight 81 percent of the time by looking at his photo.” (Thus the headlines.) But that’s not what the figures mean. The AI wasn’t 81 percent correct when being shown random photos: it was tested on a pair of photos, one of a gay person and one of a straight person, and then asked which individual was more likely to be gay. It guessed right 81 percent of the time for men and 71 percent of the time for women, but the structure of the test means it started with a baseline of 50 percent — that’s what it’d get guessing at random. And although it was significantly better than that, the results aren’t the same as saying it can identify anyone’s sexual orientation 81 percent of the time.
+- “People are scared of a situation where [you’re in a crowd] and a computer identifies whether you’re gay.”
+- As Philip Cohen, a sociologist at the University of Maryland who wrote a blog post critiquing the paper, told The Verge: “People are scared of a situation where you have a private life and your sexual orientation isn’t known, and you go to an airport or a sporting event and a computer scans the crowd and identifies whether you’re gay or straight. But there’s just not much evidence this technology can do that.”
+- Kosinski and Wang make this clear themselves toward the end of the paper when they test their system against 1,000 photographs instead of two. They ask the AI to pick out who is most likely to be gay in a dataset in which 7 percent of the photo subjects are gay, roughly reflecting the proportion of straight and gay men in the US population. When asked to select the 100 individuals most likely to be gay, the system gets only 47 out of 70 possible hits. The remaining 53 have been incorrectly identified. And when asked to identify a top 10, nine are right.
+- If you were a bad actor trying to use this system to identify gay people, you couldn’t know for sure you were getting correct answers. Although, if you used it against a large enough dataset, you might get mostly correct guesses. Is this dangerous? If the system is being used to target gay people, then yes, of course. But the rest of the study suggests the program has even further limitations.
+- It’s also not clear what factors the facial recognition system is using to make its judgements. Kosinski and Wang’s hypothesis is that it’s primarily identifying structural differences: feminine features in the faces of gay men and masculine features in the faces of gay women. But it’s possible that the AI is being confused by other stimuli — like facial expressions in the photos.
+- The AI might be identifying stereotypes, not biological differences
+- This is particularly relevant because the images used in the study were taken from a dating website. As Greggor Mattson, a professor of sociology at Oberlin College, pointed out in a blog post, this means that the images themselves are biased, as they were selected specifically to attract someone of a certain sexual orientation. They almost certainly play up to our cultural expectations of how gay and straight people should look, and, to further narrow their applicability, all the subjects were white, with no inclusion of bisexual or self-identified trans individuals. If a straight male chooses the most stereotypically “manly” picture of himself for a dating site, it says more about what he thinks society wants from him than a link between the shape of his jaw and his sexual orientation.
+- To try and ensure their system was looking at facial structure only, Kosinski and Wang used software called VGG-Face, which encodes faces as strings of numbers and has been used for tasks like spotting celebrity lookalikes in paintings. This program, they write, allows them to “minimize the role [of] transient features” like lighting, pose, and facial expression.
+- But researcher Tom White, who works on AI facial system, says VGG-Face is actually very good at picking up on these elements. White pointed this out on Twitter, and explained to The Verge over email how he’d tested the software and used it to successfully distinguish between faces with expressions like “neutral” and “happy,” as well as poses and background color.
+- Speaking to The Verge, Kosinski says he and Wang have been explicit that things like facial hair and makeup could be a factor in the AI’s decision-making, but he maintains that facial structure is the most important. “If you look at the overall properties of VGG-Face, it tends to put very little weight on transient facial features,” Kosinski says. “We also provide evidence that non-transient facial features seem to be predictive of sexual orientation.”
+- The problem is, we can’t know for sure. Kosinski and Wang haven’t released the program they created or the pictures they used to train it. They do test their AI on other picture sources, to see if it’s identifying some factor common to all gay and straight, but these tests were limited and also drew from a biased dataset — Facebook profile pictures from men who liked pages such as “I love being Gay,” and “Gay and Fabulous.”
+- Do men in these groups serve as reasonable proxies for all gay men? Probably not, and Kosinski says it’s possible his work is wrong. “Many more studies will need to be conducted to verify [this],” he says. But it’s tricky to say how one could completely eliminate selection bias to perform a conclusive test. Kosinski tells The Verge, “You don’t need to understand how the model works to test whether it’s correct or not.” However, it’s the acceptance of the opacity of algorithms that makes this sort of research so fraught.
+- AI researchers can’t fully explain why their machines do the things they do. It’s a challenge that runs through the entire field, and is sometimes referred to as the “black box” problem. Because of the methods used to train AI, these programs can’t show their work in the same way normal software does, although researchers are working to amend this.
+- In the meantime, it leads to all sorts of problems. A common one is that sexist and racist biases are captured from humans in the training data and reproduced by the AI. In the case of Kosinski and Wang’s work, the “black box” allows them to make a particular scientific leap of faith. Because they’re confident their system is primarily analyzing facial structures, they say their research shows that facial structures predict sexual orientation. (“Study 1a showed that facial features extracted by a [neural network] can be used to accurately identify the sexual orientation of both men and women.")
+- “Biology’s a little bit more nuanced than we often give it credit for.”
+- Experts say this is a misleading claim that isn’t supported by the latest science. There may be a common cause for face shape and sexual orientation — the most probable cause is the balance of hormones in the womb — but that doesn’t mean face shape reliably predicts sexual orientation, says Qazi Rahman, an academic at King’s College London who studies the biology of sexual orientation. “Biology’s a little bit more nuanced than we often give it credit for,” he tells The Verge. “The issue here is the strength of the association.”
+- The idea that sexual orientation comes primarily from biology is itself controversial. Rahman, who believes that sexual orientation is mostly biological, praises Kosinski and Wang’s work. “It’s not junk science,” he says. “More like science someone doesn’t like.” But when it comes to predicting sexual orientation, he says there’s a whole package of “atypical gender behavior” that needs to be considered. “The issue for me is more that [the study] misses the point, and that’s behavior.”
+- Reducing the question of sexual orientation to a single, measurable factor in the body has a long and often inglorious history. As Matton writes in his blog post, approaches have ranged from “19th century measurements of lesbians’ clitorises and homosexual men’s hips, to late 20th century claims to have discovered ‘gay genes,’ ‘gay brains,’ ‘gay ring fingers,’ ‘lesbian ears,’ and ‘gay scalp hair.’” The impact of this work is mixed, but at its worst it’s a tool of oppression: it gives people who want to dehumanize and persecute sexual minorities a “scientific” pretext.
+- Jenny Davis, a lecturer in sociology at the Australian National University, describes it as a form of biological essentialism. This is the belief that things like sexual orientation are rooted in the body. This approach, she says, is double-edged. On the one hand, it “does a useful political thing: detaching blame from same-sex desire. But on the other hand, it reinforces the devalued position of that kind of desire,” setting up hetrosexuality as the norm and framing homosexuality as “less valuable … a sort of illness.”
+- And it’s when we consider Kosinski and Wang’s research in this context that AI-powered facial recognition takes on an even darker aspect — namely, say some critics, as part of a trend to the return of physiognomy, powered by AI.
+- For centuries, people have believed that the face held the key to the character. The notion has its roots in ancient Greece, but was particularly influential in the 19th century. Proponents of physiognomy suggested that by measuring things like the angle of someone’s forehead or the shape of their nose, they could determine if a person was honest or a criminal. Last year in China, AI researchers claimed they could do the same thing using facial recognition.
+- Their research, published as “Automated Inference on Criminality Using Face Images,” caused a minor uproar in the AI community. Scientists pointed out flaws in the study, and concluded that that work was replicating human prejudices about what constitutes a “mean” or a “nice” face. In a widely shared rebuttal titled “Physiognomy’s New Clothes,” Google researcher Blaise Agüera y Arcas and two co-authors wrote that we should expect “more research in the coming years that has similar … false claims to scientific objectivity in order to ‘launder’ human prejudice and discrimination.” (Google declined to make Agüera y Arcas available to comment on this report.)
+- Kosinski and Wang’s paper clearly acknowledges the dangers of physiognomy, noting that the practice “is now universally, and rightly, rejected as a mix of superstition and racism disguised as science.” But, they continue, just because a subject is “taboo,” doesn’t mean it has no basis in truth. They say that because humans are able to read characteristics like personality in other people’s faces with “low accuracy,” machines should be able to do the same but more accurately.
+- Kosinski says his research isn’t physiognomy because it’s using rigorous scientific methods, and his paper cites a number of studies showing that we can deduce (with varying accuracy) traits about people by looking at them. “I was educated and made to believe that it’s absolutely impossible that the face contains any information about your intimate traits, because physiognomy and phrenology were just pseudosciences,” he says. “But the fact that they were claiming things without any basis in fact, that they were making stuff up, doesn’t mean that this stuff is not real.” He agrees that physiognomy is not science, but says there may be truth in its basic concepts that computers can reveal.
+- AI’s intelligence isn’t artificial: it’s human
+- For Davis, this sort of attitude comes from a widespread and mistaken belief in the neutrality and objectivity of AI. “Artificial intelligence is not in fact artificial,” she tells The Verge. “Machines learn like humans learn. We’re taught through culture and absorb the norms of social structure, and so does artificial intelligence. So it will re-create, amplify, and continue on the trajectories we’ve taught it, which are always going to reflect existing cultural norms.”
+- We’ve already created sexist and racist algorithms, and these sorts of cultural biases and physiognomy are really just two sides of the same coin: both rely on bad evidence to judge others. The work by the Chinese researchers is an extreme example, but it’s certainly not the only one. There’s at least one startup already active that claims it can spot terrorists and pedophiles using face recognition, and there are many others offering to analyze “emotional intelligence” and conduct AI-powered surveillance.
+- But to return to the questions implied by those alarming headlines about Kosinski and Wang’s paper: is AI going to be used to persecute sexual minorities?
+- This system? No. A different one? Maybe.
+- Kosinski and Wang’s work is not invalid, but its results need serious qualifications and further testing. Without that, all we know about their system is that it can spot with some reliability the difference between self-identified gay and straight white people on one particular dating site. We don’t know that it’s spotted a biological difference common to all gay and straight people; we don’t know if it would work with a wider set of photos; and the work doesn’t show that sexual orientation can be deduced with nothing more than, say, a measurement of the jaw. It’s not decoded human sexuality any more than AI chatbots have decoded the art of a good conversation. (Nor do its authors make such a claim.)
+- The research was published to warn people, say Kosinski, but he admits it’s an “unavoidable paradox” that to do so you have to explain how you did what you did. All the tools used in the paper are available for anyone to find and put together themselves. Writing at the deep learning education site Fast.ai, researcher Jeremy Howard concludes: “It is probably reasonably [sic] to assume that many organizations have already completed similar projects, but without publishing them in the academic literature.”
+- We’ve already mentioned startups working on this tech, and it’s not hard to find government regimes that would use it. In countries like Iran and Saudi Arabia homosexuality is still punishable by death; in many other countries, being gay means being hounded, imprisoned, and tortured by the state. Recent reports have spoken of the opening of concentration camps for gay men in the Chechen Republic, so what if someone there decides to make their own AI gaydar, and scan profile pictures from Russian social media?
+- Here, it becomes clear that the accuracy of systems like Kosinski and Wang’s isn’t really the point. If people believe AI can be used to determine sexual preference, they will use it. With that in mind, it’s more important than ever that we understand the limitations of artificial intelligence, to try and neutralize dangers before they start impacting people. Before we teach machines our prejudices, we need to first teach ourselves.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.forbes.com/sites/bernardmarr/2017/09/28/the-ai-that-predicts-your-sexual-orientation-simply-by-looking-at-your-face/
+- Even though there are examples throughout history from the ancient Greeks to the 18th century of people practicing physiognomy, basically judging a person’s character or lifestyle from their facial features, a recent study from Stanford University gives us a modern-day version to contemplate—computers determining if a person is gay or straight through facial-detection technology.
+- Shutterstock
+- Deep Neural Networks Used to Determine Sexual Orientation in Study
+- Yilun Wang and Michael Kosinski’s study took more than 35,000 facial images of men and women that were publicly available on a U.S. dating website and found that a computer algorithm was correct 81% of the time when it was used to distinguish between straight and gay men, and accurate 74% of the time for women. Accuracy improved to 91% when the computer evaluated five images per person. Humans who looked at the same photos were accurate only 61% of the time.
+- One pattern the machines detected in the study was gay women and men typically had “gender-atypical,” “grooming styles,” features and expressions—gay men appeared more feminine and gay women appeared more masculine. Another trend the machines identified was that gay women tended to have larger jaws and smaller foreheads then straight women while gay men had larger foreheads, longer noses and narrower jaws than straight men. The researchers found that the computers paid most attention to the neckline, mouth corners, hair and the nose on women and the chin, eyes, eyebrows, nose cheeks and hairline for men to help determine the person’s sexuality.
+- Wang and Kosinski used VGG-Face, a deep neural network that already exists and was originally trained for facial recognition by learning to spot patterns in a sample of 2.6 million images. A neural network is a set of algorithms that is loosely modeled after the human brain and designed to recognize patterns in a large dataset. It helps us to classify data. Similar AI systems could be trained to spot other human traits such as IQ or political views, Dr. Kosinski suggests.
+- Once the study was published in the Journal of Personality and Social Psychology it began to raise concerns about the potential for this type of profiling to go down a negative path.
+- Apprehensive of AI
+- There are billions of facial images of people that are publicly available on social media sites and in government databases. This study used existing technology to extract significant meaning just from facial characteristics and the study’s authors gave us a glimpse at how powerful it can be. One can just imagine how this capability could be used for nefarious reasons.
+- As quoted in an article by The Guardian on the subject, Nick Rule, an associate professor of psychology at the University of Toronto who has published research on the science of gaydar said, “It’s certainly unsettling. Like any new tool, if it gets into the wrong hands, it can be used for ill purposes.”
+- This study has raised several questions and adds another consideration to the list of things we need to navigate as a culture with the addition of artificial intelligence to our capabilities.
+- First, this study used publicly available images. There are certainly privacy concerns about how facial-detection technology is used. Is it OK to hunt down terrorists, criminals and missing persons, but do we cross a line when we just extract info from any face we can capture without that person’s consent? What are the ethics guidelines around this? How do we ensure this technology isn’t abused for anti-LGBT purposes or in the future for discrimination based on IQ or political views? How can we achieve the right balance of using the insights from this study to inform our AI strategies rather than over generalize (i.e. all men with gender-atypical expressions are gay)? As it stands, although the AI was better than humans at distinguishing sexual orientation, it wasn’t 100%. And, is it really anyone’s right to that info without a person’s consent?
+- In fact, Dr. Kosinski claims this study was done as a demonstration and to “warn policymakers of the power of machine vision.” In the last U.S. presidential race, the Trump campaign used “psychometric profiling” and similar models as the one used in this study to target voters on Facebook who had certain personality characteristics. As the always-growing volume of data feeds the machine algorithms of facial-detection programs, they will become better over time, and the potential uses will also grow.
+- Will we be able to keep anything private in the future? Time will tell.
+- 
+
+URL: https://techxplore.com/news/2017-09-photo-sexuality-power-deep-neural.html
+- Your browser sent an invalid request.
+We highly recommend setting a meaningful User-Agent header.
+- We highly recommend setting a meaningful User-Agent header.
+
+URL: https://analyticsindiamag.com/new-ai-algorithm-can-now-guess-what-you-look-like-based-just-on-your-voice/
+- In a bizarre-sounding experiment which walks a tightrope between Orwellian voyeurism and ingenious innovation, researchers at MIT have come up with an algorithm, which can listen to a voice and guess the face of the speaker with decent accuracy.
+- Picking information like gender, race or culture from social cues like speech or song is what humans have subconsciously devoted themselves throughout their evolutionary past. Now we can easily recognise the voice of a person be it through wireless communication or behind the wall. We can imagine the face of the person in case it is familiar or at least pick up whether it belongs to male or female based on pitch.
+- Now, imagine machines doing the same. It is eerie and exciting at the same time.
+- The authors of this paper, trained a neural network using millions of videos on the internet.
+- “During training, our model learns voice-face correlations that allow it to produce images that capture various physical attributes of the speakers such as age, gender and ethnicity. This is done in a self-supervised manner, by utilizing the natural co-occurrence of faces and speech in Internet videos, without the need to model attributes explicitly,” wrote the authors in their paper titled Speech2Face: Learning the Face Behind a Voice.
+- The picture below contains the speaker’s image in the first column followed by the results of the model.
+- 
+- Results illustrating the accuracy of the experiment via Speech2Face paper
+- Regressing from input speech to image pixels is not as impossible as it sounds because a model has to learn to factor out of many irrelevant variations in the data and to implicitly extract a meaningful internal representation of faces.
+- To sidestep these challenges, the researchers train their model to regress to a low-dimensional intermediate representation of the face by utilising the VGG-Face model.
+- Speech2Face pipeline consists of two main components:
+- During training, the face decoder is fixed, and only the voice encoder is trained that predicts the face feature. Whereas, the face decoder model is developed using face normalization model.
+- The voice encoder module is a convolutional neural network (CNN) that turns the spectrogram of a short input speech into a pseudo-face feature, which is subsequently fed into the face decoder to reconstruct the face image.
+- This voice encoder is trained in a self-supervised manner, using the natural co-occurrence of a  speaker’s speech and facial images in videos.
+- Up to 6 seconds of audio is taken from the beginning of each video clip in AVSpeech. If the video clip is shorter than 6 seconds, the audio is repeated such that it becomes at least 6-seconds long.
+- The resulting training and test sets include 1.7 and 0.15 million spectra–face feature pairs, respectively. The whole network is implemented in TensorFlow and optimized by ADAM with learning rate set at 0.001.
+- The results show that for age and gender the classification results are highly correlated. For gender, there is an agreement of 94 % in male/female labels between the true images and the reconstructions from speech. For ethnicity, there is a good correlation on the “white” and “Asian”, but less agreement on “India” and “black”.
+- The authors clearly have stated in their paper that this research is purely an academic investigation, the implications of which can be of a wide range- from eavesdropping and identifying speaker in remote locations to giving a voice to those with speech impediments by reverse engineering their facial features. However, it may be some time before it becomes reality.
+- Read more about the work here
+- Discover special offers, top stories, upcoming events, and more.
+- Stay Connected with a larger ecosystem of data science and ML Professionals
+- This blended learning programme from IIMA aims to equip candidates with essential skills to build data confidence and make informed decisions aligned with business objectives.
+- On the global accessibility awareness day, both Google and Apple released AI-powered accessibility features
+- During the recent Google I/O 2023 conference, Google introduced watermarking and metadata to all images generated by AI to promote transparency
+- Every tweet posted on the platform, becomes the property of the social media giant and can be used by others who have access to its API
+- So far, Meta has been reluctant with LLMs and chatbots, but is now rushing into the open-source without reinforcement learning with human feedback (RLHF)
+- A fake AI photograph of an explosion near the Pentagon surfaced on the internet and media houses circulated the hoax image on their channels
+- Intel’s long-delayed supercomputer, Aurora, might be what it needs to come back to power in the HPC market.
+- One of the most notable announcements made by Microsoft at Build was the integration of Bing with ChatGPT
+- Embracing uncensored models is crucial for scientific exploration, freedom of expression, diversity, storytelling, and composable nature of the open-source AI community
+- OpenAI rival, Anthropic AI has opened up the context window massively with its own chatbot Claude, pushing it to sound 75,000 words or 100,000 tokens.
+- © Analytics India Magazine Pvt Ltd & AIM Media House LLC 2023
+
+URL: https://www.biometricupdate.com/202205/scientists-publish-datasets-and-tools-for-detecting-face-morphed-identity-documents
+- A research paper published this month has tools to neutralize face morphing attacks, which use an altered biometric reference image in an ID document.
+- Four researchers from the Swiss Idiap Research Institute have provided, via IEEE, two datasets and tools for four kinds of morphing attacks against biometric systems. The scientists say efforts to detect these morphing attacks have been slowed because of a lack of relevant datasets and tools.
+- Germany two years ago banned face morphing in an attempt to prevent multiple identities from being attached to one altered image.
+- Two so-called classical types rely on facial landmarks based on OpenCV and FaceMorpher. The other two use StyleGAN 2 to create synthetic morphs from generative adversarial networks.
+- The team also analyzed the vulnerability of four facial recognition algorithms that they consider state of the art: FaceNet, ISV, ArcFace and VGG-Face.
+- At issue is the reliability of security systems — such as border and access control — that increasingly use face biometrics. In 2014, an Italian team of researchers showed that it was possible for, say, a wanted criminal to use a morphed photo to travel as someone who is not being pursued.
+- The researchers expressed surprise that despite creating images with “higher visual appeal,” GAN-based morph attacks are less of a security threat than are classical morphs.
+- biometrics  |  biometrics research  |  face biometrics  |  face morphing  |  fraud prevention  |  identity document  |  Idiap  |  spoof detection  |  synthetic data  |  travel documents
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+- DukeMTMC facial recognition dataset
+- Oxford Town Centre dataset
+- Page infoType: Data Published: January 2023

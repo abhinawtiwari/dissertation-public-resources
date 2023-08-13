@@ -1,0 +1,824 @@
+- Occurred: June 2021
+- Can you improve this page?Share your insights with us
+- Amazon delivery drivers are being forced to take dangerous routes and run across four-lane highways at night with multiple packages and boxes Vice News reports.
+- Per Vice, Amazon's routing algorithms sometimes group deliveries on both sides of a street into a single stop, forcing to risk their personal safety in order to satisfy the demands of the company's cost and speed-focused Flex routing algorithm.
+- Other drivers bring another person with them to park and look after their vehicles when they make deliveries.
+- Approximately 85,000 contracted delivery drivers across the US and Europe purportedly use Amazon's Flex algorithm.
+- Operator: Amazon Developer: Amazon Country: USA; EU; UK; Australia Sector: Transport/logistics Purpose: Manage package delivery Technology: Routing algorithmIssue: Safety; Fairness Transparency: Governance; Black box
+URL: https://flex.amazon.com/
+
+URL: https://www.vice.com/en/article/5db95k/amazons-cost-saving-routing-algorithm-makes-drivers-walk-into-traffic
+- Mike, an Amazon delivery driver in central Florida, is accustomed to jogging back and forth across three-lane highways to deliver packages. He has sprinted across busy commercial streets during rush hour, and crossed rural highways on foot at sundown.
+- "I find the most dangerous to be smaller two-lane highways with almost no room to pull off the road," Mike told Motherboard in May. (Mike spoke on condition of pseudonymity because he fears he could lose his job for speaking to the press.) "The speed limits on these roads will often be 50-60 mph and we’re having to pull halfway off the road and then [walk across] ... oftentimes at night."
+- If it were up to him, Mike said, he would never run across a highway with his arms full of packages. But the routing algorithm designed for its Flex app by Amazon's research scientists often makes it unavoidable, according to a source with direct knowledge of Amazon's routing algorithm. In North America and Europe, roughly 85,000 contracted delivery drivers rely on this algorithm to do their jobs. While crossing the street in a quiet suburban neighborhood is probably safe, doing so on a 50 mph highway can be deadly.
+- Motherboard spoke to Amazon delivery drivers who work in Florida, Illinois, Michigan, South Carolina, Tennessee, Indiana, and California who described sprinting across the street—or the highway—to follow the Flex app's directions.
+- This app determines delivery routes for both Amazon's contracted delivery drivers, who drive Amazon-branded vans, and members of its independent contractor workforce, known as Amazon Flex drivers, who drive their own cars. When a driver has to make deliveries to several addresses that are clustered together, the Flex app combines them into a single stop, rather than make a stop at each address. Drivers call these "group stops," while Amazon research scientists and engineers tasked with optimizing routes that incorporate hundreds of stops per shift refer to this routing mechanism as "stop consolidation."
+- “Stop consolidation is a big thing [at Amazon]. Without it, the routes would be too expensive.”
+- These stops often include addresses on both sides of a street—or highway. Rather than directing drivers to make a U-turn and deliver packages on one side of the street and then the other, the app instructs drivers to cross the street on foot. Depending on the size and number of packages, the driver might have to walk across the street multiple times, or run in order to meet Amazon's delivery quotas.
+- Amazon's routing algorithm combines multiple nearby addresses with deliveries into a single stop. In the example above, A, B, and C are stops. While stops A and C are deliveries to a single house, stop B requires a driver park and then deliver to seven houses on foot, walking—or sprinting—back and forth across the street to do so. This process saves time but can be highly dangerous for drivers crossing highways and busy commercial streets. (Joana Sobral)
+- An Amazon dispatcher whose job it is to monitor Amazon delivery drivers' progress on their routes using GPS on the Flex app said sometimes group stops on the Flex app are so spread out—with houses a quarter mile apart—that it takes 15 minutes to run up and down and back and forth across streets to make the deliveries. "You're hauling ass to get to these houses, sometimes running across four lanes of traffic," the dispatcher, who quit their job at an Amazon delivery depot in upstate New York in May, said.
+- Amazon's contracted delivery drivers must use the app and follow its directions to make deliveries, meanwhile Amazon's gig workers—who are independent contractors—can manually change Amazon's routing order, but must use the app to make their deliveries.
+- “Stop consolidation is a big thing [at Amazon]," a source with direct knowledge of Amazon's routing algorithm for delivery drivers said. "Without it, the routes would be too expensive.”
+- At Amazon, which pays delivery companies a fixed rate per delivery route each day regardless of how long it takes, the goal is to squeeze in as many deliveries as possible on a route, the source with internal knowledge of how Amazon creates its delivery routes said. Amazon delivery drivers have complained that their deliveries quotas have increased during the pandemic despite being asked to complete their deliveries in the same 10-hour shifts.
+- "The main goal [at Amazon] is to make them deliver the most packages as possible in [a shift] because then we have to hire fewer drivers," the source familiar with Amazon's routing algorithm said. Hiring fewer drivers means the employer can pay less into worker's compensation, disability, and other employment benefits.
+- Do you have a tip to share with us about Amazon? Do you have information about accidents involving Amazon delivery drivers? We’d love to hear from you. Please get in touch with the reporter Lauren via email lauren.gurley@vice.com or securely on Signal 201-897-2109.
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied  that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.
+- “Our routing system is designed to make the delivery experience as easy as possible for drivers and prioritizes same side of the street deliveries, unless the road is safe to cross," Miller said.
+- Amazon's delivery route algorithm is designed to maximize efficiency by finding the most optimal way to route drivers, according to the source with knowledge of Amazon's internal routing algorithms. These optimized routes, though, often have Amazon delivery drivers—who report working under excess pressure and time constraints to deliver upwards of 400 Amazon packages a day during 10-hour shifts—running across the street while in danger of getting hit by traffic.
+- “Sometimes you'll get a stop where you'll be delivering six packages on one side of the street and seven on the other side and someone ordered a 50 pound page of dog food or cat litter, and you're struggling."
+- Amazon's delivery drivers are technically employed not by Amazon but by third-party contractors, known as delivery service partners, of which there are more than 800 worldwide. Despite this employment arrangement, which removes Amazon's responsibility for accidents and other liabilities on the road, Amazon research scientists design the algorithms that determine the routes of drivers who deliver its packages.
+- "It’s fucking horrendous, honestly," an Amazon delivery driver in Grand Rapids, Michigan who quit in May told Motherboard. "[You're crossing] multiple lanes, busy traffic."
+- "I was mostly worried about getting hit by cars," said an Amazon delivery driver in Rosemead, California, who quit in April. "I had to be on the lookout for drivers speeding through, drivers who could lose control and end up hitting me."
+- "In our training, they promoted 'group stops,' saying that it would make our jobs easier," an Amazon delivery driver in Charleston, South Carolina, told Motherboard. "But sometimes you'll get a stop where you'll be delivering six packages on one side of the street and seven on the other side and someone ordered a 50 pound page of dog food or cat litter, and you're struggling."
+- "Sometimes I'm crossing a main highway, and I just park in the center meridian rather than run across a four-lane highway at dusk," he said.
+- Another Amazon dispatcher confirmed that so-called group stops where Amazon drivers must traverse busy streets on foot are common.
+- "This happens to my drivers every single day," the Amazon dispatcher in Indiana told Motherboard. "You have to park on one side of the street, and run across two lanes, when it's very, very busy."
+- The Flex app allows Amazon drivers to make U-turns, park in center turn lanes, or drive the wrong way down the street, but doing so sets them back on precious time to complete their routes and, breaking traffic laws and "parking [a] van unattended in a non-parking zone or area," can result in discipline that can lead to termination, according to Amazon's disciplinary policy.
+- Designing delivery routes for last-mile logistics companies like Amazon isn't a straightforward task. Rather than making hundreds of thousands of individual routes each day, research scientists create algorithms. These determine how routes are dispersed geographically to and from different Amazon delivery depots and in what order each driver must deliver packages to complete as many deliveries as possible in a given amount of time.
+- Unlike Uber and Lyft rides, which require algorithms to determine the single fastest route a driver can take between point A and point B, route designers at delivery companies like Amazon and FedEx are required to solve mathematical problems involving a large set of variables involving destinations and distances. Finding the most efficient path that travels through all of them is often called the "vehicle routing problem."
+- Research scientists have yet to develop a best solution for designing vehicle routes with multiple stops, despite decades of research, but delivery companies have developed different methods to create optimal routes. Typically, this means finding the shortest route, but some companies have chosen to focus on cutting delays, such as traffic and wait time making left-hand turns.
+- Motherboard reached out to the top package delivery carriers, UPS and FedEx, and the United States Postal Service to find out whether their routes also force package carriers to run across the street.
+- A spokesperson for the Postal Service said mail carriers occasionally cross the street on foot at crosswalks or deliver in zig-zag patterns in certain neighborhoods while following traffic rules. "Every carrier is required to observe all local traffic and safety laws, using crosswalks when crossing busy streets, and following traffic signals or the direction of traffic control personnel," said Kimberly Frum, a spokesperson for the Postal Service.
+- UPS told Motherboard that its drivers do not deliver on both sides of the street at once but deliver on the odd then even sides of the street. "We find it safer and more efficient to design delivery areas ('routes') that have our drivers delivering the odd side of the street from origin to an apex, turning once, then delivering the even side of the street," the spokesperson for UPS, said.
+- “FedEx couriers and service providers combine the use of advanced route optimization technologies with their local knowledge and experience to enhance delivery efficiencies," a FedEx spokesperson said, but did not answer a question about whether FedEx drivers were ever required to cross the street on foot.
+- Motherboard spoke to FedEx drivers in Michigan and Illinois, including a former Amazon delivery driver, who said FedEx had never required them to cross a busy street on foot, and that its internal routing system allows them to rearrange their stops.
+- Amazon delivery drivers also complain that stop consolidation makes it appear like a driver's workload is lighter than it actually is when the driver sees the number of stops on their route for the day. A group stop is considered a single stop even if it's a delivery to seven different buildings, or 20 units within an apartment complex, for example.
+- "They bunch stops together so it doesn't look like they're working us into the ground as much," an Amazon delivery driver in Windsor, New York told Motherboard. "It will say 200 stops on a route but in reality I'll have 240 stops."
+
+URL: https://www.cnet.com/news/amazon-delivery-drivers-risk-write-ups-and-injuries-as-they-race-to-your-door/
+- Your guide to a better future
+- Our expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may get a commission.  Reviews ethics statement
+- Amazon is hard to reach when things go wrong on a delivery route designed by the company, drivers tell CNET.
+- Amazon drivers can get written up for failing to deliver a package, even if it was beyond their control.
+- An 
+  Amazon
+ driver's task may seem simple: Get the package from the warehouse to you. But there's a lot between pickup and delivery -- hundreds of stops, difficult parking and the call of nature -- that can put a driver behind schedule.
+- That's why Samantha, a driver who works for an Amazon delivery subcontractor in Northern California, invested in a pee funnel. The device, which does exactly what you think it does, lets her urinate into a container without leaving her van.
+- "If I drive to a bathroom I'm going to be behind by five or six stops," said Samantha, who asked to be identified only by her first name.
+- Samantha isn't the only Amazon driver who worries about making a pit stop. The problem is so widespread that Amazon had to acknowledge it earlier this year after climbing down from a public pissing match with Rep. Mark Pocan, who'd assailed the company for its treatment of workers. Amazon had also mixed it up with Sens. Bernie Sanders and Elizabeth Warren over worker treatment and tax regulations in an unusually messy and public Twitter exchange.
+- Working for Amazon will only get tougher as Prime Day deals roll out, likely creating a surge in orders. In advance of the Amazon-invented holiday, reports of working conditions for warehouse workers and corporate employees have portrayed an overbearing, chaotic and, at times, demeaning workplace. According to a New York Times report, warehouse workers found themselves slipping through the cracks during the pandemic due to buggy HR software, getting no answers when they were fired unexpectedly. The company is also facing lawsuits over unpaid time workers spend in COVID-19 checks. Corporate employees are also criticizing the company for resisting efforts to change racially biased practices and racist encounters on the job, Vox reported Tuesday.
+- For drivers, finding time for bathroom breaks is an industrywide problem, a fact Amazon seized on when it finally acknowledged the "peeing in bottles thing." Samantha, who's driven for the US Postal Service and FedEx, said she dealt with the issue in previous jobs. But it isn't the only challenge faced by Amazon drivers, both those who work for subcontractors and those who are independent contractors driving their own vehicles. As they run their routes, delivery drivers face impossible parking situations, high rates of injuries, and write-ups for issues beyond their control.
+- Amazon disagreed with this picture of drivers' experiences, which are based on interviews with drivers and news reports. "These anecdotes don't represent the experiences of the vast majority of drivers who deliver for customers every day," an Amazon spokesperson said in a statement. "Whenever we hear concerns that drivers are having a poor experience, we take those matters seriously, and use the feedback to make improvements to better the experience for the future."
+- Van drivers can have more than 300 packages to deliver to as many as 200 locations during a 10-hour shift, according to drivers interviewed by CNET. Independent contractors, known as Flex drivers, work shorter shifts but at no slower pace. And Amazon controls almost every moment of their day, constructing the delivery order, mapping out street directions and, for van drivers, watching for unsafe driving with AI-powered cameras.
+- The common theme: Drivers are at the mercy of Amazon each time they start their routes.
+- Porch piracy is so common that Amazon instructs drivers to stash packages in secure areas, behind a bush for example, and text a photo to customers. Sometimes that isn't possible. A locked gate or uncooperative front desk can prevent drivers from reaching the door. Amazon, however, doesn't take this into account and dings drivers for failing to deliver the package.
+- More frustratingly, customers sometimes lie, saying a package wasn't delivered. Almost as frequent as porch piracy, the practice has gotten its own nickname in the driver community: a "scamazon." (The term is also sometimes used for fake product reviews on Amazon's website.) The company writes up drivers for an undelivered package even if the driver suspects a customer lied. Drivers say they get little response if they object to a decision. Amazon won't provide details on the incidents that got them in trouble, says Mike Ap, a Flex driver in Washington state.
+- "Whenever you question anything, they just respond with the same canned email responses and don't ever address our questions or concerns," Ap said.
+- Amazon pushed back on this portrayal of its systems. "We fully investigate customer complaints, while providing drivers the opportunity to give their version of events," the spokesperson said.
+- The stress of too many undelivered packages is real, Flex drivers said, because those dings can lead to deactivation on the Flex app, meaning a driver can no longer deliver for Amazon. So can negative marks for failing to verify someone's government-issued ID when delivering alcohol or cigarettes, common items delivered by Flex drivers as part of Amazon Fresh orders. If an ID card is damaged or from out of state, drivers have to choose whether to manually override the requirement to scan it, or decline to deliver the items, says Stephen Ignazio, a Flex driver in Washington state.
+- "If you do a manual override, you will basically get audited," Ignazio said. "But if you don't deliver it and return it to the station, then you'll get dinged for that."
+- Parking can be scarce in crowded areas. Drivers run the risk of angering neighbors if they block traffic or a driveway to make a delivery. The alternative is parking several blocks away and carrying several often heavy deliveries at once, drivers say.
+- Amazon's routing algorithms also sometimes group deliveries on both sides of a street into a single stop, Vice reported in June. As a result, drivers find themselves in the position of crossing through traffic on foot while carrying packages, sometimes on busy highways.
+- Amazon says its programs prioritize parking on the same side of the street as the delivery address. "If a safe parking location out of the flow of traffic is not available, drivers are instructed to drive to a safe location and contact Driver Support for assistance or additional instruction," the spokesperson said.
+- But slowing down can get drivers behind, drivers said. Even if drivers wanted to take their vehicle to the other side of the street, it might put them behind schedule, Ignazio said.
+- To overcome these challenges, some Flex drivers have begun bringing another person with them. Chelsey Greenwood, a Flex driver in Washington state, says she brings a companion for company, assistance with parking and security.
+- "It also allows me to keep my car running," she said.
+- Amazon drivers are also at high risk for injuries, according to an analysis of government numbers by union researchers, as well as a workers' compensation insurance company that tracks payments for injuries on the job.
+- The union research, compiled by the Strategic Organizing Center, found that drivers working for Amazon's subcontracted delivery companies suffered injuries at higher rates than any other workers along the company's delivery chain. (The delivery chain starts when warehouse workers pull a customer's purchases off the shelf and ends at delivery.) They had injury rates of more than 13 per 100 full-time employees in 2020. By comparison, injuries at Amazon's warehouses were more than six per 100 full-time employees in 2020.
+- The most common injuries affect ankles, knees and backs, according to a Denver Post report. A Colorado workers' compensation provider, Pinnacol Assurance, told the newspaper that new Amazon drivers were especially vulnerable to injuries. The insurer said 93% of claims from Amazon drivers were filed by workers who'd been on the job for less than a year. By comparison, new drivers in the delivery industry at large submitted about 58% of claims to the insurer.
+- Amazon pointed to its spending on injury prevention programs for drivers. "Safety is our top priority," the spokesperson said. "Whether it's state-of-the art safety technology in our vans, driver-safety training programs, a subsidized safety shoe program to prevent slips, trips, and falls, or continuous improvements with our route planning technology and navigation systems that direct drivers to their next delivery, we have invested more than $250 million to create an industry-leading experience for our delivery service partners."
+- Class-action attorneys are actively seeking out injured Amazon drivers to put together potential lawsuits. They'll likely face trouble suing Amazon directly, since the company subcontracts delivery to 1,300 "delivery service partners," small businesses in the US, Canada, UK, Spain and Germany that employ about 85,000 people, according to Amazon numbers from August 2020. Those small businesses are the direct employers of the drivers and don't have the same resources as Amazon would to pay out legal judgments to workers if they settle or lose in court.
+- Samantha, the Amazon delivery van driver, says delivery workers don't get the same benefits that Amazon touts for its warehouse workers. Instead, it's "basic" health care. Flex drivers have no benefits.
+- Dealing with an injury is a challenge for both groups, but drivers can't let that slow them down. Demanding routes leave them rushing with little recourse, said Samantha, who lets Amazon know what she thinks of her routes through the company's app.
+- "I tell them every day, 'This is not a possible route, this is impossible, dude,'" she said. "They never listen."
+
+URL: https://www.breitbart.com/tech/2021/06/05/report-amazons-delivery-algorithm-directs-drivers-to-walk-into-traffic/
+- A recent report states that Amazon’s cost-obsessed routing algorithm regularly instructs delivery drivers to walk through heavy traffic to make deliveries in the most efficient way possible.
+- Vice News reports that Amazon delivery drivers are being forced to take dangerous routes and often walk through traffic to deliver packages due to the company’s cost-saving routing algorithm which directs drivers to package destinations via the most cost-effective and fastest routes.
+- Vice News writes:
+- Mike, an Amazon delivery driver in central Florida, is accustomed to jogging back and forth across three-lane highways to deliver packages. He has sprinted across busy commercial streets during rush hour, and crossed rural highways on foot at sundown.
+- “I find the most dangerous to be smaller two-lane highways with almost no room to pull off the road,” Mike told Motherboard in May. (Mike spoke on condition of pseudonymity because he fears he could lose his job for speaking to the press.) “The speed limits on these roads will often be 50-60 mph and we’re having to pull halfway off the road and then [walk across] … oftentimes at night.”
+- If it were up to him, Mike said, he would never run across a highway with his arms full of packages. But the routing algorithm designed for its Flex app by Amazon’s research scientists often makes it unavoidable, according to a source with direct knowledge of Amazon’s routing algorithm. In North America and Europe, roughly 85,000 contracted delivery drivers rely on this algorithm to do their jobs. While crossing the street in a quiet suburban neighborhood is probably safe, doing so on a 50 mph highway can be deadly.
+- The Flex app determines the delivery routes for both Amazon’s contracted delivery drivers and members of its independent contractor workforce, known as Amazon Flex drivers. When a driver is making deliveries to multiple addresses that are located near to each other, the app combines them into a single stop. Drivers call these “group stops.”
+- Those stops often include addresses on both sides of a street — or highway. Instead of directing drivers to make a U-turn and deliver packages on one side of the street before driving to the other, the app tells drivers to cross the street on foot.
+- A former Amazon dispatcher, who monitorrf delivery drivers’ progress on their routes via GPS, said that sometimes group stops on the Flex app are so spread out that it can take 15 minutes to run up and down and across streets to make deliveries. The former dispatcher stated: “You’re hauling ass to get to these houses, sometimes running across four lanes of traffic.”
+- Read more at Vice News here.
+- Lucas Nolan is a reporter for Breitbart News covering issues of free speech and online censorship. Follow him on Twitter @LucasNolan or contact via secure email at the address lucasnolan@protonmail.com
+- EconomyTechAmazonJeff BezosMasters of the Universe
+- Please let us know if you're having issues with commenting.
+- 
+- 
+- 
+- 
+- Copyright © 2023 Breitbart
+
+URL: https://tech.slashdot.org/story/21/06/03/2032202/amazons-cost-saving-routing-algorithm-makes-drivers-walk-into-traffic
+- Slashdot is powered by your submissions, so send in your scoop
+- Nickname:
+- Password:
+- Nickname:
+- Password:
+- The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+- It's possible they don't actually have a choice. If the app updates automatically to the next delivery point the moment the van is moving again (because the driver is going up the road to where he can safely turn around) then he's screwed either way.
+- I would rather work for a morally bankrupt company than die of starvation if those are my only choices.
+- That is easy to say when you don't NEED the job.
+- I have walked off a  job I thought was to dangerous - as teenager with nothing real to lose, I could go home and my parents would feed me.
+- I have walked off a job (by which I mean resigned after several unsatisfactory meetings) where the employer was in my opinion exposing me to a lot of personal liability. I was still single at the time with a comfortable cushion of savings and investments.
+- I can totally understand why someone without a lot of savings, kids in school, and mortgage payment due might accept a great deal more personal risk than many of us would to keep the gig paying the bills. Remember if you are already more or less hand to mouth, even a short gap in income can mean major setbacks that will continue to hold you back for a long time, like piling on expensive credit card debt.
+- I am not making some commie what about the proletariat statement here. I don't have any problem with Amazon setting the terms of that employment. I am saying I would not be so quick to call someone stupid for taking risk, risk tolerance is situational and you don't know their situation. Both Amazon and the employee might be acting in their respective self interest. Both SHOULD BE PERMITTED to do so in a free society.
+- The root problem is culture! The technical problem is hard to solve.  You don't have the data or the data is incorrect you can't get good results.
+- Its probably even true the maintainers of the system really do react to reports and correct defects either in the data about road and barrier conditions or in the routing algorithm - but that same system pumps out all kinds of metrics on drivers viewed by other managers and more than likely not viewed after some period where adjustments to how long things should h
+- Also multiple deliveries to the same general location spread out through the day.  The post office delivers to my condo complex once a day. Amazon vans are there several times a day.  So much more efficient to just deliver once a day.  But then it makes the customers cry because they have to wait a little longer.
+- I swear it's true, but it wasn't Amazon, someone was delivering a single small box of tissue paper at the complex yesterday looking for the right house number while the car with the driver was left
+- The idea of users being able to flag dangerous instructions is an important one.  It's good to be data-driven, but it's possible to be mindlessly data-driven, to believe the map even when direct experience says it's incomplete.  A mindlessly data-driven organization using software that doesn't reify user experiences of danger will predictably treat those dangers as insignificant because they're not in the data model.
+- Hmm. It's very dangerous (and illegal) to cross a motorway in the UK but you can turn and travel in the other direction with ease.
+- It just takes time and potentially distance. No, it's not a simple U-turn but it's also viable without breaking the law or incurring more than trivial risk.
+- On a wide multi-lane road that includes specific spots for U-turns it's even quicker and easier. Even on a normal road, the simple act of slowing your vehicle to turn holds up the traffic behind you, meaning you already have t
+- In the US you can get ticketed for crossing a divided expressway without using a crosswalk. The fines vary by state but I was given a $340 ticket for doing it in California. (trying to take a shortcut on my lunch break)
+- I decided long ago to mostly ignore pedestrian restrictions in the US as they generally just don't make sense.
+- I've yet to have any issues resulting from applying my general 'nah, it looks safe enough' British approach to road crossing.
+- I don't try the Cambodian approach of 'step out confidently and trust that the traffic will miraculously split either side of you as you cross', although that's fun too. The trick in Cambodia is to never show hesitation - that confuses the other road users and causes them prob
+- So you're insane.
+- Slavery was not a job.  Slavery is treating another person as property, without their own rights or agency to speak of.  An enslaved person cannot choose to quit or change jobs.  Their legal rights and protections are largely or entirely erased.  It's not at all the same as taking a job, and people who equate the two are performing a monstrous sleight of hand.
+- Picking one job over others is not slavery.  Full stop.  Stop pretending they're the same, because that minimizes how terrible slavery is.
+- You go on thinking that this is only about people who made a "crap load of bad choices in life" if that makes you feel better since in reality at least 1/2 of your destiny is truly nothing more than luck.Bullshit. There are 3 things in life you have to do to have an 85% chance of ending up smack in the middle class.
+
+#1. Don't go to prison
+#2. Finish High School
+#3. Don't have a baby out of wedlock.
+
+I truly feel sorry for you religious people who think your fate is in the hands of the universe. (and yes, I do actually feel sorry for the 15% of the people who simply get fucked over by the fates)
+- You go on thinking that this is only about people who made a "crap load of bad choices in life" if that makes you feel better since in reality at least 1/2 of your destiny is truly nothing more than luck.
+- Bullshit. There are 3 things in life you have to do to have an 85% chance of ending up smack in the middle class.
+- #1. Don't go to prison
+- #2. Finish High School
+- #3. Don't have a baby out of wedlock.
+- I truly feel sorry for you religious people who think your fate is in the hands of the universe. (and yes, I do actually feel sorry for the 15% of the people who simply get fucked over by the fates)
+- You go on thinking that this is only about people who made a "crap load of bad choices in life" if that makes you feel better since in reality at least 1/2 of your destiny is truly nothing more than luck.Bullshit. There are 3 things in life you have to do to have an 85% chance of ending up smack in the middle class.#1. Don't go to prison#2. Finish High School#3. Don't have a baby out of wedlock.You missed "live in a country with reasonable social mobility" - the USA unfortunately is not near the top of the rankings. But it could be much worse, so hooray?  https://www.visualcapitalist.c... [visualcapitalist.com]
+- You go on thinking that this is only about people who made a "crap load of bad choices in life" if that makes you feel better since in reality at least 1/2 of your destiny is truly nothing more than luck.Bullshit. There are 3 things in life you have to do to have an 85% chance of ending up smack in the middle class.#1. Don't go to prison#2. Finish High School#3. Don't have a baby out of wedlock.
+- You go on thinking that this is only about people who made a "crap load of bad choices in life" if that makes you feel better since in reality at least 1/2 of your destiny is truly nothing more than luck.
+- Bullshit. There are 3 things in life you have to do to have an 85% chance of ending up smack in the middle class.
+- #1. Don't go to prison
+- #2. Finish High School
+- #3. Don't have a baby out of wedlock.
+- You missed "live in a country with reasonable social mobility" - the USA unfortunately is not near the top of the rankings. But it could be much worse, so hooray?
+- https://www.visualcapitalist.c... [visualcapitalist.com]
+- Yeah.. Meritocracy nonsense.   That's the crux of it.  That's what you lefty cowards hate.  You hate the very idea that you are ultimately responsible for your own destiny. You are exactly like the religious nutters.  They believe God controls everything and you believe circumstance controls everything.
+- Doesn't matter how many people claw their way up from abject poverty and the projects, to positions of great power, they have to be discarded as "aberrations" or one-off's.  To do otherwise causes your whol
+- > You don't like the way businesses treat their workers? THEN START YOUR OWN GODDAMN BUSINESS.
+- Wow! that makes so much sense.  I am enlightened now, thank you!
+- And if you don't like socialism or governments or hippy fucking faggots who want communist regulations to make industrial homicide illegal, then simply travel to another planet and START YOUR OWN GODDAMN COUNTRY.
+- Because, you know, that's about as realistic for most of the population as "START YOUR OWN GODDAMN BUSINESS".
+- Because, you know, that's about as realistic for most of the population as "START YOUR OWN GODDAMN BUSINESS".That is the crux of it. You're a defeatist.   It doesn't take much to start a business.  Of course, it most certainly does depend on what it is you want to do.  And you have to have the patience to build slowly. Y'all seem to have lost that.  Now it's "gotta have an IPO to raise hundreds of millions.. blah blah blah". Please... I started with $20K..  5 yrs in and I'm at 250K/yr in revenue.  Took a lot of sweat though.
+
+Neighbor girl started a home cleaning service with a bucket of cleaning supplies and a va
+- Because, you know, that's about as realistic for most of the population as "START YOUR OWN GODDAMN BUSINESS".
+- That is the crux of it. You're a defeatist.   It doesn't take much to start a business.  Of course, it most certainly does depend on what it is you want to do.  And you have to have the patience to build slowly. Y'all seem to have lost that.  Now it's "gotta have an IPO to raise hundreds of millions.. blah blah blah". Please... I started with $20K..  5 yrs in and I'm at 250K/yr in revenue.  Took a lot of sweat though.
+- Neighbor girl started a home cleaning service with a bucket of cleaning supplies and a va
+- Slavery was not a job.  Slavery is treating another person as property, without their own rights or agency to speak of.  An enslaved person cannot choose to quit or change jobs.  Their legal rights and protections are largely or entirely erased.In the worst end of job situations, in countries with little or no social care, in countries which have great wealth disparity, can end up with situations where, if people quit their jobs, they are unable to get new jobs, are blacklisted by the local wealthy people and can literally end up starving ends up with exactly thes same thing.  The people in these situations cannot choose to quit or change their jobs.  In many countries, people's legal rights have been eliminated by "at will" legislation and in some countries people who attempt to speak out end up killed or worse.It's not at all the same as taking a job, and people who equate the two are performing a monstrous sleight of hand.Why the faux outrage?  There's a continuum ranging from fully free highly paid contractors who can leave on a weeks notice or less with minor financial penalties, through normal employees via interns and zero hour employees towards serfs and slaves.  Pointing out that these boundaries have been getting more blurred in some cases is hardly controversial.  Employment at Amazon is nowhere near slavery, however having someone spend their entire life directed by a computer, micro-managed by the second as happens in Amazon warehouses is definitely getting towards an uncomfortable level of control over a human being..
+- Slavery was not a job.  Slavery is treating another person as property, without their own rights or agency to speak of.  An enslaved person cannot choose to quit or change jobs.  Their legal rights and protections are largely or entirely erased.
+- In the worst end of job situations, in countries with little or no social care, in countries which have great wealth disparity, can end up with situations where, if people quit their jobs, they are unable to get new jobs, are blacklisted by the local wealthy people and can literally end up starving ends up with exactly thes same thing.  The people in these situations cannot choose to quit or change their jobs.  In many countries, people's legal rights have been eliminated by "at will" legislation and in some countries people who attempt to speak out end up killed or worse.
+- It's not at all the same as taking a job, and people who equate the two are performing a monstrous sleight of hand.Why the faux outrage?  There's a continuum ranging from fully free highly paid contractors who can leave on a weeks notice or less with minor financial penalties, through normal employees via interns and zero hour employees towards serfs and slaves.  Pointing out that these boundaries have been getting more blurred in some cases is hardly controversial.  Employment at Amazon is nowhere near slavery, however having someone spend their entire life directed by a computer, micro-managed by the second as happens in Amazon warehouses is definitely getting towards an uncomfortable level of control over a human being..
+- It's not at all the same as taking a job, and people who equate the two are performing a monstrous sleight of hand.
+- Why the faux outrage?  There's a continuum ranging from fully free highly paid contractors who can leave on a weeks notice or less with minor financial penalties, through normal employees via interns and zero hour employees towards serfs and slaves.  Pointing out that these boundaries have been getting more blurred in some cases is hardly controversial.  Employment at Amazon is nowhere near slavery, however having someone spend their entire life directed by a computer, micro-managed by the second as happens in Amazon warehouses is definitely getting towards an uncomfortable level of control over a human being.
+- .
+- You are relying on scenarios that are largely fictional -- you say if this, and that, and the other thing, and a fourth thing happens, then MAYBE there's some terrible situation that happens.
+- Stop writing fiction and start dealing with problems in the real world.
+- In many countries, people's legal rights have been eliminated by "at will" legislation
+- No rights are ever removed by "at will" employment rules.  Why are you lying about something so fundamental?
+- Why the faux outrage?
+- It's not faux.  There's a quite malicious movement that tries to argue that something they call 'wage slavery" is a problem, or that being in a tough situation with a lousy job today is essentially the same as slavery.  NO, they are not the same thing.  You can find modern-day slaves.  People with crappy jobs don't look anything like the slaves, whether historical or modern-day.  The people making that false equivalence mostly do so for evil reasons.
+- No rights are ever removed by "at will" employment rules. Why are you lying about something so fundamental?This whole article is about removing the right to a safe workplace by forcing workers to run across busy highways, with the workers stuck between the get fired due to at will employment laws or working in unsafe conditions.
+- No rights are ever removed by "at will" employment rules. Why are you lying about something so fundamental?
+- This whole article is about removing the right to a safe workplace by forcing workers to run across busy highways, with the workers stuck between the get fired due to at will employment laws or working in unsafe conditions.
+- In most countries there are employment rights such as a) to know why you are fired b) to be able to answer those charges c) to get paid for a notice period if you have done nothing wrong. With at-will legislation, those rights disappear.  This isn't even a complex question, that is the whole point of at-will employment laws.  As ever, rights are very often about trading off one person's rights against another.  The employer gains the right to fire people at will, which can be quite useful to them. What you
+- I understood your point completely.  It's just absolutely wrong.  Someone claiming that argument X looks like argument Y does not mean that the conclusions of those arguments are equivalent.
+- Let me recast your logic: Single-payer health care means that people don't have to worry about how to pay for medical care.  Outlawing medical care means that people don't have to worry about how to pay for medical care.  By your logic, because those arguments look the same, single-payer health care is equivalent to outl
+- "Lost sale""Wage slave"
+- Interesting how nuanced people can be (or not) when it comes to serving their own needs.
+- It's one of the ten slavery myths [youtube.com] used.
+- Maybe it's serfdom? The people are tied to the land and must work the nearby or be destitute. "Nobody is forcing them" sort of false choice nonsense. Except the system is engineered against average people and exploited by Amazon and others.
+- It's not serfdom, either -- except maybe for people in rural areas, because of the relative sparsity of job opportunities and lack of public transit.  However, delivering packages there does not involve crossing busy roads, so those are not the situations that are of concern here.
+- In a city and even in most suburbs, there are plenty of job opportunities for people who want to work.  They don't have to work for Amazon, because there are lots of other employers looking for workers.
+- My home town of 200K people isn't exactly small, but public transit was pretty problematic for those living in the poor part of the city. People often took the jobs they could. For many people working unskilled jobs, those were filtered by travel distance and if they could manage the time between two of them. Luckily if you had two jobs and you lost one, you usually weren't immediately homeless and had a few weeks to find another.
+- They don't have to work for Amazon, because there are lots of other employers looking for workers.What if all the jobs are the same bullshit? Maybe I was particularly unlucky i
+- They don't have to work for Amazon, because there are lots of other employers looking for workers.
+- What if all the jobs are the same bullshit? Maybe I was particularly unlucky i
+- Good luck building a society where there aren't any below average people in it. It'd be easier to make their lives better than to defeat those mathematics.
+- Sometimes your stupid life is only good as an object lesson to others about how NOT to live.And sometimes you're an asshole.
+- Sometimes your stupid life is only good as an object lesson to others about how NOT to live.
+- And sometimes you're an asshole.
+- There is a middle road between enabling bad stupidity and throwing people who made a mistake away.
+- I would argue we have already struck that balance. As an example a lot of people believe for example here in the US we don't have public universal health care! We certainly do! Its called medicaid; but its means tested! We don't let anyone die in the gutter despite what your typical Democratic party member or foreign Marxist agitator believes. We do expect if you have means you come up with some way to pay for
+- I don't have any problem with someone who committed murder (or tried to, to the degree of a felony) having that hang over their head the rest of their lives.  I think "not killing people" is a fairly obvious bar to behavior that anyone can follow.
+- OTOH, my disregard for excons DOESN'T mean I accept or condone the felonyization (?) of drug crimes, either.  I'd amend your 'within the last 10 years' to 'for a violent crime'.
+- First, the app doesn't MAKE them walk into traffic. It has them stop in a particular location and suggest they make multiple deliveries on foot from that location. Sometimes the app assumes they will illegally cross the road, but they're not required to break the law. Moreover, from the article AND THE SUMMARY:
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied  that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.So, the app makes errors. Users then have to report the errors so that Amazon knows to correct the error.What is abnormal about that? What's newsworthy?
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied  that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.
+- So, the app makes errors. Users then have to report the errors so that Amazon knows to correct the error.
+- What is abnormal about that? What's newsworthy?
+- "Why didn't you stop here and deliver all these stops from this point?"
+'It was unsafe.'
+- If they push back, YOU push back with getting it in writing.  Hint:  They won't get it on paper to do something unsafe.
+- And then you will be let go for 'not meeting quota', 'insubordination', and 'appearing to be using drugs while at work'. You won't be let go for refusing to do unsafe things.
+- And then you get sued and have to defend your company in front of an administrative judge. Good luck!
+- You mean it gets taken to arbitration handled by a company that wants to keep getting the Amazon paycheck?
+- No, most equal opportunity and similar commissions aren't actually real courts. If you sue your employer for whatever reason you feel discriminated against, you go to an administrative judge, they generally decide in favor of the employee unless there is sufficient written evidence the claim is invalid.
+- Exactly. Enough people pushing back with SAFETY notices being ignored or shot down results in a HUGE class action.
+- Amazon won't change because of a VICE article. It will change via massive financial litigation and liabilities.
+- They get email reminders about staying on schedule. They're not fired on the spot. Moreover, if they were fired for NOT breaking the law (jaywalking), the class action lawsuit would be MASSIVE and Amazon knows about financial liabilities.
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.So, the app makes errors. Users then have to report the errors so that Amazon knows to correct the error.Heh. She is a spokesperson, so you have to make a baseline adjustment.
+If she said "We are looking into this claim", I would assume they might try to improve the recommendations.
+But if she says "This never happened. But even if it did, we fix it immediately", I know that's not based on any actual facts. If the drivers did jaywalk frequently, how would they even know or identify the associated "data quality issue"?
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.So, the app makes errors. Users then have to report the errors so that Amazon knows to correct the error.
+- Alexandra Miller, a spokesperson for Amazon Logistics, denied that Amazon delivery drivers frequently jaywalk across busy intersections and run across high-speed rural highways, and said that if the company identifies data quality issues or defects in its maps, it fixes them promptly.
+- So, the app makes errors. Users then have to report the errors so that Amazon knows to correct the error.
+- Heh. She is a spokesperson, so you have to make a baseline adjustment.
+If she said "We are looking into this claim", I would assume they might try to improve the recommendations.
+But if she says "This never happened. But even if it did, we fix it immediately", I know that's not based on any actual facts. If the drivers did jaywalk frequently, how would they even know or identify the associated "data quality issue"?
+- Considering Amazon says their warehouse workers are like industrial athletes [bbc.co.uk] and need to train themselves for the rigors of their daily activity, these drivers just need to keep practicing their Frogger [youtube.com] until they get high score.
+- While they're practicing their real-life Frogger skills, based on my recollections of important features in the game I feel the need to query: Could you suggest how they earn extra lives?
+- Out of mod points - THIS! Looking for a frogger reference!
+- What about if I'm walking down my street in a country area, and there's no crosswalk or traffic lights on my 'block'? I guess I'm just trapped since I can't walk across the road without a pedestrian crossing! Woe is me.
+- most state make the exception that if no crosswalk is visible you may cross when it is safe. though for a busy highway you may be waiting hours for a break in the traffic.
+- [T]he routing algorithm designed for its Flex app by Amazon's research scientists often makes [Amazon delivery drivers cross two- or three-lane highways], according to a source with direct knowledge of Amazon's routing algorithm. A lot of them are STROADS [youtu.be] which are poorly designed roads dangerous not just for delivery persons.
+- [T]he routing algorithm designed for its Flex app by Amazon's research scientists often makes [Amazon delivery drivers cross two- or three-lane highways], according to a source with direct knowledge of Amazon's routing algorithm.
+- A lot of them are STROADS [youtu.be] which are poorly designed roads dangerous not just for delivery persons.
+- That was a really interesting video, thanks!
+- The concern is not that AI will "take over the world" as part of some fiendish plan to eliminate humans.  The danger is that complex optimization  algorithms will find solutions that a reasonable human would reject, but because they are "better" solutions, people will follow them anyway.Its an extension of every time someone on the phone says "the computer won't let me..."We have chosen to give power to things that are far stupider than we areEvery AI application should have a "wrong solution" button that a human can press to signal a nonsensical result.A manager may still force you to follow the instructions in that particular instance, but at least if many solutions accumulate the button press, an engineer will be forced to find the common pattern and fix it, without it having to make headlines first.
+- The concern is not that AI will "take over the world" as part of some fiendish plan to eliminate humans.  The danger is that complex optimization  algorithms will find solutions that a reasonable human would reject, but because they are "better" solutions, people will follow them anyway.
+- Its an extension of every time someone on the phone says "the computer won't let me..."
+- We have chosen to give power to things that are far stupider than we are
+- Every AI application should have a "wrong solution" button that a human can press to signal a nonsensical result.
+- A manager may still force you to follow the instructions in that particular instance, but at least if many solutions accumulate the button press, an engineer will be forced to find the common pattern and fix it, without it having to make headlines first.
+- Maybe... You need to be really really careful with that sort of feedback because humans are intelligent too - they will game the system.
+- Its not AI - but as an example I when I was working as an independent contractor I had a few good clients I wanted to keep. As rule you don't generally want to tell your good clients you are not interested in a gig because you run the risk they will assume you are not interested in other future work, and might not shop you for it, or not first.
+- So if they come to you with a
+- In this case the risk is clearly traffic accidents, whether the driver is in the car or not. In general, independent contractors, who would more accurately be described "free lance indentured servants", are at higher risk, have fewer protections and no company benefits  compared to employees.
+- It's a perfect setup for corporations. All the cost and the risk are at the bottom, all the profit flows to the top, and there is no corporate responsibility. And corporate entities and executives pay a pittance in taxes. For US oligarchs it's better then slavery; they don't have to provide housing, food or any care to their disposable work force and they end up will all the money.
+- labor theft is how the system works, and we are told repeatedly from an early age that any other economic system is worse than this one. so I guess suck it up and quit complaining, uncle sam knows best.
+- The other day, I saw an Amazon driver in a left-turn lane at a red jump out and cross three lanes (the cross-street had a green), make a delivery, and get back to their truck after the left-turn arrow had been green for only a few seconds.  OK, I don't think they made the green, which I'm sure was happy for everyone behind them.
+- I admired the driver's chutzpah, though now I have to wonder if it was the routing algorithm!
+- by others. Not sure I've ever seen a UPS driver cross the street, I'm seeing AMZN drivers do it regularly.  And too often from in front of their vehicles.  At least now a significant portion of their vehicles are identified and have a livery - a lot of last year it was a no-name van with a hastily made sign taped to the inside of the windshield.  A company this big and flush should not be playing this much catch-up.
+- UPS also uses trucks that are optimized for delivering packages rather than Sprinter vans.  Not that there is anything wrong with a Sprinter van, but the UPS trucks are setup such that the driver gets out on the *right* hand side (in the US) so there is less risk of getting hit by traffic.
+- Not only does the right-hand exit *directly* improve safety but if an AI were monitoring how long things take, getting a package, exiting the vehicle on the right, and the crossing the street will take longer than if the vehicle is parked on the correct side of the street.  Therefore this would "push" the AI toward algorithms where the truck always parks on the correct side of the street.
+- UPS drivers are UPS employees not contractors.  UPS had experience delivering packages when they started building the AI.  And they may have made this a constraint from the beginning.
+- UPS drivers also have to cross the road. This article is just "because Amazon". They don't have to cross a 3-lane in both directions "highway", they have to cross a street where the speed limit is 55 - which is every rural road in America. Sure it's dangerous, then just cross the street with your van and get into the driveway.
+- ... get this app installed on all iPhones? I can't thimk of a more deserving  class of users that need to walk into traffic.
+- This is how Dave learned to survive pod bay door problems.
+- https://www.walmart.com/ip/Roa... [walmart.com]
+- In order to avoid firing employees and being sued, this is how Amazon eliminates employees who don't have basic horse sense.
+- Amazon, the company that doesn't want to provide healthcare, that didn't want to protect its workers in the warehouses from C-19, that admitted their drivers are peeing in bottles because they're so overworked.
+- Right? But Jeff Bezos is rich, so who cares about the people that make the company run?
+- I'd love to see the screaming and yelling from the posters critical of the employees if their Amazon Prime packages stopped appearing, if they employees went on strike.
+- There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+- Facebook To End Special Treatment for Politicians
+- Using Fake Reviews To Find Dangerous Extensions
+- I've looked at the listing, and it's right!
+		-- Joel Halpern
+
+URL: https://www.abc.net.au/news/2021-08-29/amazon-flex-delivery-drivers-voice-safety-concerns/100404498
+- 
+- Amazon Flex delivery drivers tell of insecurity, low pay and safety concerns in 'uber for parcels' scheme
+- When internet shoppers want their items yesterday, who pays the price? This is what it's like to deliver parcels for the world's biggest online retailer.
+- 阅读中文版本 | Dalam Bahasa Indonesia
+- Alex Ayliff starts every Amazon Flex shift worried it will be his last.
+- "I've had five violations so far," he says.
+- "I'm not sure if I'm allowed to have six."
+- As a driver for the retail giant's parcel delivery service, his livelihood depends on access to a smartphone app that tells him when to show up for his next shift, where to deliver his packages and how much he will be paid.
+- But he knows Amazon can — and will — cut him off from the app at any time for breaches of its strict rules.
+- "I could wake up tomorrow with an email saying that my agreement with Amazon Flex has been terminated," he says.
+- In the social media forums and WhatsApp threads where Flex drivers swap shifts and stories of life on the road, Alex regularly hears of Amazon terminating drivers without warning — and with little explanation.
+- "They've created an atmosphere of fear," he says.
+- "That's what they want.
+- "They want drivers to think like they can't do anything wrong.
+- "They have to do what Amazon says, like it or lump it."
+- Amazon launched Flex in Australia with little fanfare in 2020 and now has about 2,000 contractors for the service described by some drivers as "Uber for parcels".
+- Amazon promotes Flex as a way for people to earn extra money on top of their ordinary jobs, using their own cars to deliver packages to customers' homes in 4-hour shifts known as "blocks".
+- But ABC Investigations has spoken to more than a dozen drivers who depend on the platform for their livelihood, often juggling Flex blocks with other gig economy apps like Uber, Didi and Deliveroo.
+- Some, like Alex, rely on Flex for their entire income.
+- "For me, money isn't the only thing in the world," he says.
+- "But I would like to make enough money to actually live on. This is just no way to live."
+- Amazon says only a small proportion of drivers, which it calls "delivery partners", rely on Flex for their entire income.
+- "Eighty per cent of our drivers have another source of income and about 30 per cent of our drivers have a full-time job," says Michael Cooley, Amazon Australia's director of public policy.
+- "These are people who are looking for flexibility. They are looking to earn additional money around their existing commitments."
+- The platform is just one link in Amazon's rapidly expanding global supply chain, which has pioneered new ways of using contract labour and automation to drive down prices for customers and speed up delivery times.
+- It is among the many controversial workplace innovations that have helped Amazon become the world's richest retailer — earning $1.1 billion in Australia last year — and helped fund its founder Jeff Bezos's history-making trip into space last month.
+- "I want to thank every Amazon employee and every Amazon customer because you guys paid for all this," Bezos told a news conference in the West Texas desert after stepping off the spacecraft developed by his company, Blue Origin.
+- Flex is also emblematic of a wider shift in the workforces of established industries like the parcel delivery business, where salaried drivers are being replaced by subcontractors with fewer workplace rights and no guarantee of a secure income.
+- "This is the kind of work we saw in the 19th century, before the development of minimum standards under employment protection regimes," says Michael Rawling, a senior lecturer in employment law at the University of Technology Sydney.
+- "This is a David and Goliath battle between vulnerable workers and large, multinational tech companies breaking into the Australian market and making conditions worse."
+- Alex's day starts with a drive from his home in Melbourne's north-west to one of Amazon's four depots around the city.
+- By the time he arrives, there's usually a queue of other drivers waiting to collect their deliveries.
+- "If I start at 10 o'clock, I really have to be there at quarter-to-10 because of all the traffic of drivers queuing," he says.
+- Once inside, he loads up the 30 to 40 packages Amazon pays him $108 to deliver in his 4-hour block.
+- The company pays a higher rate on weekends and public holidays.
+- Drivers use their own vehicles, which according to Amazon's terms and conditions, must be a "four-door passenger vehicle, or a similar vehicle that is large enough to safely carry you and your packages."
+- Vans, utes and trucks are not allowed. However, Amazon told drivers earlier this month it plans to trial eight-hour blocks for contractors with vans later this year.
+- Alex usually has no trouble fitting the parcels into his 2002 Ford Laser but has seen other drivers struggle with their load.
+- "They've got parcels [stacked] up to the roof of their car," he says.
+- "I saw one guy having to wind down his window to put packages in because they were all spilling out."
+- Flex drivers have provided the ABC with photographs showing parcels densely packed in vehicles, obscuring their rear windows.
+- "It's just not safe," says one driver, who has asked not to be identified out of fear of retribution from Amazon.
+- "One day a Flex driver is going to have a serious crash because they can't see out of their windows and it's going to be Amazon's fault. I can't believe it hasn't happened already."
+- The ABC is investigating how Australian work life has changed in recent years. If you're a worker, manager or employer, and you think something unfair is going on, we want to hear your story.
+- Amazon says it is the responsibility of drivers to pack their parcels safely and ensure they can see out their rear window.
+- "If when doing that they feel that their view is compromised in some way, shape or form, then they can ask a friendly delivery station staff member to help them repack the car more effectively," Michael Cooley from Amazon says.
+- "If that happens, and there's still issues around visibility in the delivery station, staff will actually remove items from the car so that the view is in no way impeded. We want people to be safe on the roads when they're delivering."
+- But Alex believes some drivers avoid rejecting packages at the depot because they are afraid of getting a warning from Amazon.
+- "They always push it back on to the driver," he says.
+- "We have to do what they say otherwise we get a warning."
+- Once his car is loaded, the clock is ticking for Alex to deliver all his packages in the next 4 hours.
+- The Amazon Flex app gives him a pre-determined route for the block, which usually spans one or two suburbs in Melbourne.
+- On the day ABC Investigations joins Alex on one of his blocks, he has been assigned 36 packages to deliver in the city's outer west.
+- "This is going to be a dream compared to what you can get," he says.
+- Alex prefers suburban routes to the inner city, where traffic and parking problems can easily eat into the time allocated to deliver the packages.
+- "If you have to deliver to 40 apartments on your route, it doesn't take two or three minutes to deliver one parcel, it takes five or six," he says.
+- Before starting at Amazon Flex, Alex spent years working in call centres — including at Australia Post.
+- "This is a much more simple way of life than having somebody shouting at you all day," he says.
+- "It's great to be able to just pick up your block, do your work, and then go home."
+- Alex enjoys working alone and has an entrepreneurial streak.
+- More than a decade ago he made a living fishing off the beach on Tenerife in the Canary Islands, selling his daily catch to local restaurants.
+- He says working for Flex can be rewarding.
+- "I enjoy the interaction with customers," he says.
+- "I've had situations where I've delivered a parcel to somebody that they've been waiting for, and you just see their smile. And you just know that … you've made that that person happy, just for a minute."
+- But the enjoyment and flexibility come at a cost.
+- Amazon's flat rate does not include expenses like fuel, insurance, car maintenance and parking costs. Drivers must also pay their own superannuation and workers compensation insurance.
+- His total income last financial year was just above $23,000. He spent almost $4,000 on petrol and about $1,500 on car maintenance.
+- "I would like to keep on doing this, but I think I'm going to have to go back and find another job."
+- Alex usually manages to deliver all his parcels within the 4-hour block.
+- But on the days when he has packages left over, he has an unenviable choice: continue delivering without pay or return the parcels to the depot and risk getting a warning from Amazon.
+- "I will always return my parcels because I am not working for free. Why would you work for free?" he says.
+- Alex says he still loses out from returning the packages, because the trip back to the depot can often be an extra 20 or 30 kilometres' drive on top of his route.
+- "A couple of days later you'll usually get an email with a warning saying, 'you didn't deliver your parcels'."
+- Alex says he does not actually know whether drivers are required to deliver all their packages, even after their 4-hour-block has finished.
+- The wording in Amazon's service agreement is ambiguous.
+- "Amazon expects that you will deliver all the packages you picked up as part of your Delivery Block," it reads.
+- "In an instance where delivery is not possible, you are expected to return all packages to the Amazon delivery station, unless otherwise directed by Amazon."
+- Alex says it is unclear what "not possible" means. He thinks it should mean that the driver was unable to deliver all their packages within their 4-hour block
+- Amazon disagrees.
+- "We ask delivery partners to still attempt to deliver the packages, even if the 4-hour block has expired," Michael Cooley says.
+- "We know that approximately 90 per cent of delivery walks are actually completed in under the period of time it's allocated to them."
+- Amazon says if drivers cannot deliver all the packages within their 4-hour block, they can apply for a top-up payment through the Flex app.
+- Yet the company declined to say how many top-up applications have been lodged and how many have been successful.
+- Alex says he lodged one application for a top-up payment, but it was declined.
+- "We undertake a proactive pay reconciliation process across Australia, on a regular basis, to ensure all delivery partners are paid for excess time spent on delivery work," Michael Cooley says.
+- "The vast majority of compensation adjustments are made proactively through our reconciliation process."
+- The consequences of breaking the rules are clear — Amazon will terminate your access to the Flex app.
+- "We're asking for pretty simple things from our drivers," Mr Cooley says.
+- "Where we run into problems is where drivers, for instance, will commit to doing blocks and repeatedly not turn up, or they'll repeatedly cancel a block within 45 minutes of that block commencing or they'll repeatedly fail to deliver parcels.
+- "Obviously, If drivers can't do those things, then perhaps Flex is not the program for them."
+- The mystery for Alex and other drivers who spoke to the ABC is exactly how many warnings and violations lead to termination.
+- Alex has received warnings for returning undelivered packages, refusing shifts that he believed would take more than 4 hours, and in one case, after a warning from a customer that he was not wearing a face mask properly during a delivery — something he denies.
+- Ryan McBain still has no idea why he was terminated from Amazon Flex.
+- "It makes me feel worthless … like I'm just a number," he says.
+- He signed up for Amazon Flex in March last year, after being stood down from his job in retail during Australia's first round of COVID-19 lockdowns.
+- Ryan stopped using the platform in August last year when he started picking up more shifts at his regular job.
+- But when he tried to log back into Flex when Sydney's latest lockdown left him without work, he discovered Amazon had terminated him.
+- "I was devastated," he says.
+- Ryan recalls receiving a handful of warnings last year for returning undelivered parcels, but his termination email from Amazon does not say exactly why he has been cut off.
+- "Due to violation(s) of the Amazon Flex Independent Contractor Terms of Service … you are no longer eligible to participate in the Amazon Flex Platform."
+- Ryan says the email from "The Amazon Flex Team" made him feel like he was being fired by a robot.
+- "Not once did I speak to a human," he says.
+- "It was just a computer on the other end. You're not getting a human interaction."
+- He is now trying to dispute Amazon's decision though an internal appeals process.
+- "They said they would get back to me in about six days, but I still haven't heard from them."
+- After initially asking the ABC for details about Ryan's case, Amazon declined to comment on the reasons for his termination.
+- The company says drivers can apply to be reinstated after being terminated, with 24 drivers being reinstated through the process.
+- But Amazon declined to say the total number of terminations since Flex launched in Australia.
+- Michael Rawling from the UTS Law School believes cases like Ryan's show the Federal Government needs to give the Fair Work Commission powers to adjudicate disputes between contractors and tech companies like Amazon.
+- "These terminations are occurring for capricious and arbitrary reasons," he says.
+- "[While] employees have protections, unfair dismissal rights, and general protections rights in order to address these sorts of things, these workers don't necessarily have those rights."
+- He says the commission should also have powers to collectively bargain with Amazon to set the rate for blocks — something that Amazon currently decides on its own.
+- Amazon says it complies with pay standards set by owner-driver regulations in the states in which it operates.
+- The only way for gig economy workers to challenge the decisions of companies like Amazon and Uber is through the courts.
+- "By and large, the decisions are backing the companies saying that these workers are independent contractors, meaning that these workers have no rights: they have no minimum pay rights," Dr Rawling says.
+- This is made even more difficult by the fine print in the Flex contract, which includes a clause banning drivers from joining any future class actions against Amazon.
+- "Amazon seeks to resolve concerns on a case by case basis with individuals," Michael Cooley says.
+- At the end of each block, Alex questions how long he can continue delivering for Amazon Flex — and living with the uncertainty of each new day.
+- "The perception is that you do work for yourself, and you can set your own hours — you can be your own boss," he says.
+- "But the reality is no, you really can't. You're still dictated to by this big company.
+- "It really gives you a false sense of security."
+- Reporting: Pat McGrath, Marty Smiley and Max Chalmers
+- Photography and video: Danielle Bonica, David Maguire, Kyle Harley and Simon Winter
+- Graphics: Emma Machan
+- Video editing: Elahn Zetlin and Bridie Boyle
+- Digital production: Dan Harrison
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.abc.net.au/indonesian/2021-08-30/kesulitan-yang-dialami-pekerja-kurir-di-australia/100417724
+- Bahasa Indonesia
+- Sejumlah Pekerja Amazon Flexi Menceritakan Kesulitan Mereka Mengirimkan Paket
+- Jika ada yang belanja di internet dan barangnya telat sampai, siapa yang menanggungnya? Ini yang menjadi pertanyaan sejumlah kurir yang bekerja di toko ritel online di dunia.
+- Alex Ayliff memulai jadwal kerjanya bersama Amazon Flex, khawatir jika ia tidak bekerja lagi.
+- "Saya punya lima pelanggaran," katanya.
+- "Saya tidak yakin jika boleh melakukan enam pelanggaran."
+- Sebagai pekerja kurir, kehidupannya benar-benar tergantung dengan aplikasi di ponselnya yang akan memberitahu kapan jadwal kerjanya, kemana ia harus mengantarkan paket, dan berapa uang yang akan dihasilkannya.
+- Tapi ia tahun Amazon bisa dan akan memberhentikan dirinya lewat aplikasi kapan saja karena melanggar aturan.
+- "Saya bisa saja bangun besok dan dapat email jika perjanjian kerja dengan Amazon dihentikan," ujarnya.
+- Di sejumlah forum di jejaring sosial dan WhatsApp, tempat para pekerja kurir Amazon Flex saling bertukar jadwal kerja dan cerita, Alex sering mendengar Amazon menghentikan kerja kurir tanpa peringatan, bahkan dengan penjelasan yang sedikit.
+- "Mereka menciptakan rasa ketakutan," ujarnya.
+- "Itu yang mereka inginkan."
+- "Mereka ingin para kurir untuk berpikir jika mereka tidak bisa salah."
+- "Mereka pokoknya harus melakukan apa yang dikatakan oleh Amazon, senang atau tidak."
+- Amazon meluncurkan Flex di Australia di tahun 2020 dan kini memiliki sekitar 2.000 pekerja kontraktor, yang sebagian pengemudinya menyebut sebagai "Uber untuk paket".
+- Amazon mempromosikan program ini sebagai cara bagi orang-orang untuk mendapatkan penghasilan tambahan, dengan menggunakan mobil yang mereka miliki dan mengirimkan paket ke rumah pelanggan dengan jadwal kerja, atau 'shift', selama empat jam yang dikenal dengan istilah "blocks".
+- Penyelidikan ABC telah berbicara dengan lebih dari belasan pengemudi yang justru mengandalkan platform ini untuk kehidupan mereka, mereka bahkan harus berbagi waktu antara Amazon Flex dengan aplikasi lainnya, seperti Uber, Didi, dan Deliveroo.
+- Bahkan beberapa di antara mereka, seperti Alex, benar-benar mengandalkan Amazon Flex sebagai penghasilan utama mereka.
+- "Bagi saya, uang bukanlah segalanya," ujar Alex.
+- "Tapi saya ingin menghasilkan uang yang cukup untuk hidup. Tapi dengan cara ini tidak bisa hidup."
+- Amazon mengatakan hanya sebagian kerja dari para pekerja kurirnya, yang mereka sebut sebagai "mitra pengiriman" yang benar-benar menggantungkan diri pada Flex untuk seluruh penghasilannya.
+- "Delapan puluh persen pengemudi kami memiliki sumber penghasilan lain dan sekitar 30 persen memiliki pekerjaan full-time," ujar Michael Cooley dari Amazon Australia.
+- "Mereka ini adalah orang yang membutuhkan fleksibilitas. Mereka mencari uang tambahan dari komitmen yang mereka miliki."
+- Platform Flex ini merupakan satu dari rantai pasokan global milik Amazon yang terus berkembang dan menjadi salah satu pionir dalam cara terbaru menggunakan kontrak kerja dan teknologi otomasi untuk mengurangi biaya pengiriman dan mempercepat waktu pengiriman.
+- Menjadi satu dari sekian banyak inovasi di tempat kerja yang kontroversial, yang telah membantu Amazon menjadi pelaku sektor ritel terkaya di dunia. Pendapatannya di Australia saja telah mencapai AU$1.1 miliar tahun lalu dan membantu pendirinya, Jeff Bezos untuk mewujudkan impiannya pergi ke luar angkasa.
+- "Saya mau mengucapkan terima kasih kepada pekerja dan pelanggan Amazon karena kalian yang membayar ini semua," ujar Jeff bulan lalu saat menggelar konferensi pers di gurun pasir Texas, setelah keluar dari pesawat antariksa yang dibuat oleh perusahaannya, Blue Origin.
+- Flex juga menjadi sebuah simbol pergeseran dalam dunia kerja, dengan gaji pengemudi dan pengirim kurir digantikan oleh pekerja subkontraktor yang hanya memiliki sedikit hak kerja dan tak ada jaminan akan terus mendapat penghasilan tetap.
+- "Inilah jenis pekerjaan di abad ke-19 yang kita lihat, sebelum adanya pengembangan standar minimum di bawah perlindungan ketenagakerjaan," ujar Michael Rawling, dosen senior hukum ketenagakerjaan di University of Technology Sydney.
+- "Ini adalah pertarungan Daud dan Goliat antar pekerja yang lemah secara hukum dengan perusahaan-perusahaan besar teknologi multinasional yang masuk ke pasar Australia dan membuat kondisinya makin buruk."
+- Saat kerja dengan Amazon, Alex memulai harinya dengan pergi dari rumahnya di Melbourne ke empat depot Amazon.
+- Saat ia tiba, biasanya sudah ada antrean dari pengemudi yang mulai mengambil paket yang hendak dikirim.
+- "Jika saya mulai kerja jam 10 pagi, saya harus 15 menit sebelumnya karena antrean panjang dari mobil kurir lain."
+- Begitu ia masuk, ia harus mengambil 30 sampai 40 paket Amazon, yang dibayar AU$108 atau lebih sedikit dari Rp1juta, untuk empat jam.
+- Amazon biasanya memberikan tarif bayaran lebih untuk akhir pekan dan hari libur nasional.
+- Pengemudi menggunakan kendaraan mereka sendiri, yang menurut syarat dan ketentuan Amazon, harus berupa "kendaraan penumpang empat pintu, atau kendaraan serupa yang cukup besar membawa paket dengan aman."
+- Jenis mobil seperti, van, ute (mobil dengan bak terbuka) dan truk tidak diperbolehkan. Namun, Amazon mengatakan kepada pengemudi awal bulan jika mereka berencana untuk menguji coba blok delapan jam untuk kontraktor dengan van akhir tahun nanti.
+- Alex biasanya tidak kesulitan memasukkan paket ke dalam mobilnya, Ford Laser keluaran 2002, tapi ia kadang melihat pengemudi lain kesulitan melakukannya.
+- "Mereka punya parsel [ditumpuk] di atap mobil mereka," katanya.
+- "Saya melihat seorang pria harus membuka jendela mobilnya untuk memasukkan paket, karena tidak cukup di dalam mobil."
+- Pengemudi Flex memberikan beberapa foto yang menggambarkan paket-paket yang memenuhi mobil mereka hingga menutupi jendela belakang.
+- "Tidaklah aman," kata seorang pengirim kurir, yang meminta namanya tidak disebutkan karena takut kena sanksi oleh Amazon.
+- "Satu hari nanti bisa saja pengemudi Flex akan mengalami kecelakaan serius karena mereka tidak bisa melihat ke jendela dan akan menjadi kesalahan Amazon. Saya tak percaya ini belum juga terjadi."
+- Kami ingin mendengar cerita dari Anda, baik karyawan, manajer, atau pun pemberi kerja.
+- Amazon mengatakan menjadi tanggung jawab pengemudi untuk mengemas paket dan memastikan mereka bisa melihat kaca belakang mobil mereka.
+- "Jika merasa pandangan mereka terganggu, maka mereka bisa meminta anggota staf yang ramah untuk membantu mereka mengemas ulang paket agar lebih efektif," kata Michael Cooley dari Amazon.
+- "Jika pandangan masih terganggu, staf sebenarnya bisa mengeluarkan barang dari mobil sehingga pandangan mereka tidak terhalang. Kita ingin agar orang-orang aman saat berkendara ketika mereka mengirimkan paket."
+- Tapi Alex yakin beberapa pengemudi ketakutan untuk menolak mengangkut beberapa paket di depot, karena mereka takut mendapat peringatan dari Amazon.
+- "Mereka selalu kembali memaksa kepada kita," ujarnya.
+- "Kita harus melakukan apa yang diminta atau akan mendapat peringatan."
+- Setelah semua barang masuk ke mobilnya, Alex berpacu dengan waktu untuk mengirimkan semua paketnya dalam empat jam.
+- Aplikasi Amazon Flex memberinya rute yang sudah ditentukan, biasanya mencakup satu atau dua 'suburb' di Melbourne.
+- Saat ABC bergabung dengan jam kerja Alex, ia telah ditugaskan untuk mengirim 36 paket ke sebelah barat kota Melbourne.
+- "Ini akan menjadi mimpi dibandingkan dari apa yang kita dapatkan," ujarnya.
+- Alex mengatakan ia lebih memilih rute pinggaran kota karena masalah kemacetan dan parkir bisa dimasukkan ke dalam waktu yang dialokasikan.
+- "Jika harus mengirimkan paket ke 40 apartemen dalam rute tersebut, butuh waktu lima sampai enam menit, bukan dua atau tiga menit," ujarnya.
+- Sebelum mulai kerja dengan Amazon Flex, Alex bekerja selama beberapa tahun di sektor 'calll centre', termasuk bersama Australia Post.
+- "Sebenarnya ini lebih sederhana ketimbang diteriaki orang-orang di telepon setiap hari," ujarnya.
+- Alex lebih senang bekerja sendiri karena ia memiliki jiwa wirausaha.
+- Lebih dari satu dekade lalu dia mencari nafkah dengan memancing di lepas pantai di Tenerife, Kepulauan Canary, menjual tangkapan ikannya ke restoran lokal.
+- Dia mengatakan bekerja untuk Flex membawa sejumlah manfaat.
+- "Saya menikmati interaksi dengan pelanggan," katanya.
+- "Saya pernah mengalami situasi di mana saya mengirimkan paket kepada seseorang yang sudah beberapa hari menunggu, dan dengan hanya melihat senyuman mereka. Dan kita tahu telah membuat orang itu bahagia, meski hanya sebentar. "
+- Tapi tentu ada biaya yang harus dibayar dari perasaan senang dan fleksibilitas tersebut.
+- Tarif yang diterimanya dari Amazon tidak termasuk biaya untuk bahan bakar, asuransi, perawatan mobil, dan bayar parkir. Pengemudi juga harus membayar asuransi pensiun dan kompensasi pekerja mereka sendiri.
+- Total pendapatannya tahun kemarin hanya di atas AU$23.000 atau lebih dari Rp230 juta. Dia menghabiskan hampir AU$4.000, atau lebih dari Rp40 juta untuk bensin dan sekitar AU$1.500, atau lebih dari Rp15 juta untuk biaya perawatan mobil.
+- "Saya ingin terus melakukannya, tetapi saya rasa saya harus kembali dan mencari pekerjaan lain."
+- Alex biasanya berhasil mengirimkan semua paketnya dalam 4 jam.
+- Tetapi pada hari-hari saat ada paket yang tersisa, dia memiliki pilihan yang tidak menyenangkan: melanjutkan pengiriman tanpa bayaran atau mengembalikan paket ke depot dan berisiko mendapat peringatan dari Amazon.
+- "Saya akan selalu mengembalikan paket karena saya tidak bekerja secara gratis. Mengapa kerja tanpa bayaran?" ujarnya.
+- Alex mengatakan dia masih mengalami kerugian saat mengembalikan paket, karena perjalanan kembali ke depot sering kali memerlukan tambahan 20 atau 30 kilometer perjalanan.
+- "Beberapa hari kemudian kita biasanya akan mendapatkan email dengan peringatan yang mengatakan, 'Anda tidak mengirimkan paket seperti semestinya'."
+- Alex mengatakan dia sebenarnya tidak tahu apakah pengemudi atau pengirim kurir harus mengirim semua paket, bahkan setelah waktu kerja atau blok 4 jam mereka selesai.
+- Kata-kata dalam perjanjian layanan Amazon tidak jelas.
+- "Amazon mengharapkan Anda akan mengirimkan semua paket yang Anda ambil sebagai bagian dari Blok Pengiriman Anda," bunyi perjanjian tersebut.
+- "Jika pengiriman tidak mungkin dilakukan, Anda diharapkan mengembalikan semua paket ke stasiun pengiriman Amazon, kecuali jika diarahkan oleh Amazon."
+- Alex mengatakan tidak jelas apa artinya "tidak mungkin". Dia pikir artinya pengemudi tidak dapat mengirimkan semua paket mereka dalam blok 4 jam mereka
+- Amazon tidak setuju dengan pernyataan Alex.
+- "Kami meminta mitra pengiriman untuk tetap berusaha mengirimkan paket, bahkan jika blok 4 jam telah berakhir," kata Michael Cooley.
+- "Kami tahu sekitar 90 persen perjalanan pengiriman benar-benar selesai di bawah periode waktu yang dialokasikan untuk mereka."
+- Amazon mengatakan jika pengemudi tidak dapat mengirimkan semua paket dalam blok 4 jam, mereka dapat mengajukan pembayaran 'top-up' melalui aplikasi Flex.
+- Namun perusahaan menolak untuk mengatakan berapa banyak aplikasi 'top-up' yang telah diajukan dan berapa banyak yang berhasil.
+- Alex mengatakan dia mengajukan satu aplikasi untuk pembayaran 'top-up', tetapi ditolak.
+- Konsekuensi dari melanggar aturan sudah jelas: Amazon akan menghentikan akses mereka ke aplikasi Flex.
+- "Kami meminta hal-hal yang cukup sederhana dari pengemudi kami," kata Michael Cooley dari Amazon.
+- "Masalah kami adalah saat pengemudi, misalnya, berkomitmen untuk melakukan blok dan berulang kali tidak muncul, atau mereka berulang kali membatalkan blok dalam waktu 45 menit sejak waktu kerja mereka dimulai atau mereka berulang kali gagal mengirimkan paket."
+- "Jelas, jika pengemudi tidak dapat melakukannya, mungkin Flex bukan program untuk mereka."
+- Menjadi sebuah misteri bagi Alex dan pengemudi lain yang berbicara dengan ABC adalah berapa banyak peringatan dan pelanggaran yang berujung pada pemutusan hubungan kerja.
+- Alex telah menerima peringatan karena mengembalikan paket yang tidak terkirim, menolak 'shift' yang dia yakini akan memakan waktu lebih dari 4 jam, dan dalam satu kasus, ia mendapat peringatan dari pelanggan karena tidak mengenakan masker dengan benar saat mengirimkan barang, yang sudah ia sangkal.
+- Ryan McBain masih tidak tahu mengapa dia diberhentikan dari Amazon Flex.
+- "Itu membuat saya merasa tidak dihargai, saya jadi hanya sebatas angka," ujarnya.
+- Dia mendaftar ke Amazon Flex pada Maret tahun lalu, setelah mengundurkan diri dari pekerjaannya di ritel saat 'lockdown' pertama kali diberlakukan di Australia.
+- Ryan berhenti menggunakan platform pada Agustus tahun lalu, setelah ia mulai mengambil lebih banyak jam kerja di pekerjaan rutinnya.
+- Tetapi ketika dia mencoba masuk kembali ke Flex ketika 'lockdown' terakhir di Sydney, ia menjadi tidak bekerja dan Amazon telah menghentikannya.
+- "Saya merasa hancur," katanya.
+- Ryan ingat tahun lalu ia menerima beberapa peringatan, karena mengembalikan paket yang tidak terkirim, tetapi email penghentiannya dari Amazon tidak mengatakan dengan rinci mengapa ia diberhentikan.
+- "Karena pelanggaran terhadap Persyaratan Layanan Kontraktor Independen Amazon Flex … Anda tidak lagi memenuhi syarat untuk berpartisipasi dalam Platform Amazon Flex."
+- Ryan mengatakan email dari "Tim Amazon Flex" membuatnya merasa seperti dipecat oleh robot.
+- "Tidak sekali pun saya berbicara dengan manusia langsung [di Amazon]," katanya.
+- "Hanyalah komputer. Kita tidak berinteraksi dengan manusia."
+- Ryan sedang mencoba untuk membantah keputusan Amazon melalui proses banding.
+- "Mereka mengatakan akan menghubungi saya dalam waktu sekitar enam hari, tetapi saya masih belum mendengar kabar ."
+- Setelah awalnya meminta ABC untuk memberikan perincian kasus yang dialami Ryan, Amazon menolak berkomentar alasan penghentiannya.
+- Amazon mengatakan pengemudi dapat mengajukan permohonan untuk dipulihkan setelah dihentikan, dengan mengatakan 24 pengemudi dipulihkan melalui proses tersebut.
+- Tetapi Amazon menolak mengatakan jumlah total pengemudi yang diberhentikan sejak Flex diluncurkan di Australia.
+- Michael Rawling dari Law School di University of Technology Sydney percaya jika kasus-kasus, seperti yang dialami Ryan memperlihatkan kepada Pemerintah Federal Australia untuk memberikan wewenang kepada lembaga Fair Work Commission untuk mengadili perselisihan antara kontraktor dan perusahaan teknologi, seperti Amazon.
+- "Pemutusan ini terjadi karena alasan yang berubah-ubah dan sewenang-wenang," katanya.
+- "[Saat] karyawan memiliki perlindungan, hak pemecatan yang tidak adil, dan hak perlindungan umum untuk mengatasi hal-hal semacam ini, para pekerja belum tentu memiliki hak-hak itu."
+- Ia mengatakan Fair Work Commission juga harus memiliki kekuatan untuk secara kolektif dapat melakukan tawar-menawar dengan Amazon dalam menetapkan tarif blok, karena selama ini hanya diputuskan sendiri oleh Amazon.
+- Amazon mengatakan mereka mematuhi standar pembayaran yang ditetapkan oleh peraturan pengemudi di negara bagian tempat ia beroperasi.
+- Satu-satunya cara bagi pekerja di sektor 'gig-economy' untuk melawan keputusan perusahaan seperti Amazon dan Uber adalah melalui pengadilan.
+- "Pada umumnya, keputusan tersebut mendukung perusahaan yang mengatakan para pekerja ini adalah kontraktor independen, yang artinya para pekerja ini tidak memiliki hak upah minimum," kata Dr Rawling.
+- Hal ini semakin dipersulit karena dalam kontrak Flex, yang mencakup klausul melarang pengemudi bergabung dalam tindakan apa pun di masa mendatang terhadap Amazon.
+- "Amazon berusaha menyelesaikan masalah berdasarkan kasus per kasus dengan individu," kata Michael Cooley dari Amazon.
+- Di akhir jam kerja atau 'block'-nya, Alex mempertanyakan berapa lama lagi ia dapat terus bekerja sebagai kurir bersama Amazon Flex dan hidup dengan ketidakpastian.
+- "Anggapannya adalah kita bekerja untuk diri sendiri, dan kita dapat mengatur jam kerja sendiri dan bisa menjadi bos bagi diri kita sendiri."
+- "Tapi kenyataannya tidak, kita benar-benar tidak bisa. Kita masih didikte oleh perusahaan besar ini."
+- "Ini benar-benar memberikan rasa aman yang salah."
+- Baca beritanya dalam Bahasa Inggris
+- We are interested in everyone's perspectives on work in Australia, whether you are an apprentice, trainee or intern, an employee, contractor, manager or business owner, whatever industry you work in.
+- We want to hear from people from all over Australia and from all cultural backgrounds, whether you are an Australian citizen, permanent resident or visa holder.
+- If you'd like to know more about our investigation, check out our project page abc.net.au/unfairwork.
+- Laporan: Pat McGrath, Marty Smiley dan Max Chalmers
+- Fotography dan video: Danielle Bonica, David Maguire, Kyle Harley dan Simon Winter
+- Grafik: Emma Machan
+- Penyunting video: Elahn Zetlin dan Bridie Boyle
+- Produksi digital: Dan Harrison
+- Penerjemah: Erwin Renaldi
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.abc.net.au/chinese/2021-09-01/amazon-flex-delivery-drivers-voice-safety-concerns-australia/100423446
+- ABC中文
+- “无法生存”：在澳洲为亚马逊做快递员是怎样的体验？
+- 当网购者希望他们的商品“昨天”就到手时，谁来支付这笔费用？这篇文章将为您展示世界上最大的在线零售商如何将包裹送到顾客手中。
+- 每当亚历克斯·艾利夫（Alex Ayliff）开始亚马逊弹性送货轮班时，他都担心这会是最后一次。
+- “到目前为止，我已经五次违规了，”他说。
+- “我不确定是否还能允许我有第六次。”
+- 作为这家零售巨头的包裹递送服务司机，他的生计全靠登录一个智能手机应用程序，并从中得知何时开始下一个班次，去哪里递送包裹，以及他将获得多少报酬。
+- 但他知道，因其违反公司的严格规定，亚马逊有可能在任何时候而中断他的应用程序，并且也会这样做。
+- “我可能明天一觉醒来时就收到一封电邮，说我与亚马逊弹性送货（Amazon Flex）的协议已被终止，”他说。
+- 在社交媒体论坛和WhatsApp上，弹性送货的司机们交流着轮班和送货途中的生活故事，亚历克斯经常听说亚马逊在没有警告的情况下就终止与司机的协议，而且几乎没有任何解释。
+- “他们创造了一种恐惧的气氛，”他说。
+- “这就是他们想要的。
+- “他们想让司机认为他们不能做错任何事。
+- “他们必须按亚马逊说的做，不喜欢也得忍受。”
+- 2020年，亚马逊在澳大利亚推出了弹性送货Flex服务，没有什么大张旗鼓的宣传，现在有大约2000名合同工从事这项服务，它被一些司机描述为“快递界的优步（Uber for parcels）”。
+- 亚马逊宣传弹性送货是人们在普通工作之外赚取额外收入的一种方式，他们驾驶自己的汽车，在被称为“时段”的四小时轮班中向客户家中运送包裹。
+- 但是，澳大利亚广播公司（ABC）调查组已经与十几位依靠该平台谋生的司机进行了交谈，他们经常要在弹性送货的时段同时为优步、滴滴、送餐服务Deliveroo等其他零工经济应用程序工作。
+- 有些人，如亚历克斯，依靠弹性送货获得全部收入。
+- “对我来说，钱并不是世界上唯一重要的东西，”他说。
+- “但我希望能赚到足够的钱，可以真正生活下去。这实在无法生存。”
+- 亚马逊说，只有一小部分司机（它称之为 “送货合作伙伴”）的全部收入依赖于弹性送货。
+- “我们80%的司机有另一个收入来源，大约30%的司机有一份全职工作，”亚马逊澳大利亚公共政策总监迈克尔·库利（Michael Cooley）说。
+- “这些人都是在寻找弹性。他们寻求在自己现有的工作之外赚取额外的收入。”
+- 该平台只是亚马逊快速扩张的全球供应链中的一个环节，它开创了使用合同工和自动化的新方法，为客户降价并加快送货速度。
+- 这一具有争议的工作模式的创新帮助亚马逊成为世界上最富有的零售商。去年，亚马逊在澳大利亚赚了11亿澳元。这也为亚马逊创始人杰夫·贝佐斯在上个月创造历史的太空之旅提供了资金。
+- “我要感谢每一位亚马逊员工和每一位亚马逊客户，因为是你们为这一切出了钱，”在走下他的公司开发的蓝色起源航天器后，贝佐斯在西德克萨斯州的沙漠中举行的新闻发布会上说。
+- 对包裹递送业务等成熟行业而言，弹性送货也象征着劳动力的广泛转变。在这些行业中，受薪司机正在被合同工取代，这些合同工的劳动权利较少，也没有稳定的收入保证。
+- 悉尼科技大学就业法高级讲师麦克·洛林（Michael Rawling）说：“这是我们在19世纪、就业保护制度下最低标准还没出台时看到的那种工作。”
+- “这是一场弱势工人与大型跨国科技公司之间的’大卫与歌利亚‘之战，这些公司闯入澳大利亚市场，使条件变得更糟。”
+- 亚历克斯住在墨尔本西北部，他的一天从开车前往亚马逊在城市周边的一间仓库开始，这样的仓库共有四个。
+- 当他到达时，通常会有其他司机排队等候取货。
+- 他说：“如果我十点钟开始，我真的必须在9点45分到那里，因为所有的司机都在排队。”
+- 一旦进去，他就把亚马逊给他的30到40个包裹装上车，他要在四小时内送完，然后亚马逊才支付给他108澳元。
+- 亚马逊在周末和公共假期支付的费用较高。
+- 司机驾驶自己的车辆工作，根据亚马逊的条款和条件，这些车辆必须是“四门客车，或足够大的类似车型，可以安全搭载你和你的包裹”。
+- 厢式货车和卡车是不允许的。然而，亚马逊本月早些时候告诉司机，它计划在今年晚些时候为有货车的合同工试行八小时的工作时段。
+- 亚历克斯将包裹装入他的那辆2002年产的福特Laser车通常没有问题，但他看到其他司机在装车时很费劲。
+- 他说：“他们把包裹[堆积]到车顶。”
+- “我看到有个人不得不摇下车窗把包裹放进去，因为它们都满出来了。”
+- 一些从事弹性送货的司机向ABC提供的照片显示，车内塞满了密密麻麻的包裹，遮住了后车窗。
+- “实在不安全，”一位司机说，由于担心亚马逊会报复，他要求在报道中不透露姓名。
+- “总有一天，弹性送货的司机会因为看不到窗外的情况而发生严重的车祸，而这将是亚马逊的错。我简直不相信这还没有发生。”
+- 亚马逊表示，司机有责任安全地装车，并确保他们能看到后窗外的路况。
+- “如果在这样做的时候，他们觉得自己的视野以某种方式、形状或形式受到影响，那么他们可以要求快递站友好的工作人员帮助他们更有效地重新把包裹装上车，”来自亚马逊的迈克尔·库利说。
+- “如果发生这种情况，而且在快递站内仍然存在能见度方面的问题，工作人员会从车上移走一些包裹，以使视野不受任何阻碍。我们希望人们在送货时在路上是安全的。”
+- 但亚历克斯认为，一些司机避免在仓库拒绝包裹，因为他们害怕收到亚马逊的警告。
+- “他们总是推卸给司机，”他说。
+- “我们必须按他们说的做，否则就会被警告。”
+- 一旦包裹装上了他的车，就开始计时了，亚历克斯需要在接下来的四个小时内交付所有的包裹。
+- 亚马逊的弹性送货应用程序为他提供了一条预先确定的街区路线，通常横跨墨尔本的一两个郊区。
+- 在ABC调查组加入亚历克斯送货的那天，他被分配送36个包裹到城市西部远郊。
+- 他说：“与你能完成的任务相比，这像做梦一样。”
+- 与内城相比，亚历克斯更喜欢郊区路线，因为内城的交通和停车问题很容易吞噬分配给他的配件时间。
+- 他说：“如果你必须在你的路线上为40个公寓送货，那么送一个包裹不是两三分钟，而是五六分钟。”
+- 在开始为亚马逊弹性送货工作之前，亚历克斯在客服中心工作了多年，包括在澳大利亚邮政局的呼叫中心。
+- 他说：“这是一种更简单的生活方式，而不是整天有人对你大喊大叫。”
+- “能够拿起你的包裹，做你的工作，然后回家，这很好。”
+- 亚历克斯喜欢独自工作，并有创业的倾向。
+- 十多年前，他在加那利群岛特内里费岛的海滩上以捕鱼为生，把每天的渔获卖给当地餐馆。
+- 他说，为亚马逊弹性送货工作可以带来回报。
+- 他说：“我喜欢与客户的互动。”
+- “我曾遇到过这样的情况，我给他们送去了一直等待的包裹，你看到了他们的笑容。你就知道......你给他带来了喜悦，[哪怕]只是一分钟。”
+- 但这种享受和灵活性是有代价的。
+- 亚马逊的统一费率不包括燃料、保险、汽车维修和停车费用等开支。司机还必须支付自己的养老金和工人赔偿保险。
+- 他上个财政年度的总收入刚刚超过23,000澳元。他花了近4000澳元的汽油费和约1500澳元的汽车维修费。
+- “我想继续做下去，但我想我必须回去再找一份工作。”
+- 亚历克斯通常能在四个小时的时段内送完所有的包裹。
+- 但在有包裹剩余的日子里，他面临一个不可避免的选择：要么继续无偿送货，要么把包裹退回仓库，但可能会得到亚马逊的警告。
+- “我总是会退回我的包裹，因为我不是在免费工作。为什么要免费工作？”他说。
+- 亚历克斯说，他仍然因退回包裹而蒙受损失，因为回到仓库的路程往往是在他的路线之外再多开20或30公里。
+- “几天后，你通常会收到一封电子邮件，上面写着‘你没有交付你的包裹’的警告。”
+- 亚历克斯说，自己实际上都不知道，即便在四小时配送时间段结束后，亚马逊是否也要求司机将所有包裹送给客户。
+- 亚马逊的工作协议中使用的措辞模棱两可。
+- “亚马逊希望你能递送所有提走的包裹，作为你在递送时间段的工作部分”，协议中写道。
+- “在没有可能送出包裹的情况下，若非亚马逊另有指示，应将所有包裹送回亚马逊配送站。”
+- 亚历克斯称，不清楚“没有可能”是什么意思。他认为，这应该是指司机无法在四小时配送时间段内送完所有的包裹。
+- 亚马逊不同意这种说法。
+- “我们要求合作配送员即便在四小时送货期限后也要尝试送出包裹，”迈克尔·库利说。
+- “我们清楚，约90%的配送工作实际上在分配给他们的配送时间段内完成。”
+- 亚马逊称，如果司机不能在四小时配送时间段内送出所有包裹，可以通过亚马逊物流平台应用程序（Amazon Flex）申请加班费。
+- 然而，亚马逊拒绝透露有多少人申请加班费，又有多少人成功拿到这笔钱。
+- 亚历克斯说，他申请过一次加班费，但被拒付。
+- 违反规定的后果很明显——亚马逊将终止配送员访问亚马逊物流平台应用程序。
+- “我们对司机的要求很简单，”库利说。
+- “我们遇到的问题是，比如说，司机承诺在一些时段工作，但经常旷工，要不就是反复在配送前的45分钟取消上岗，要不就是经常不能配送包裹。
+- “显然，如果那些司机不能胜任工作，那么也许他们不适合从Flex应用程序上接活。”
+- 对亚历克斯和其他接受ABC采访的司机来说，让自己不解的地方在于，究竟接到多少次警告，出现多少次违规会导致亚马逊解约。
+- 亚历克斯收到过亚马逊发出的数次警告，因为他退回了未送出的包裹，还在自己认为配送时间可能超过四小时的情况下拒绝上岗。他还收到过一次警告，是因为有客户警告他在送货过程中没有戴好口罩。他对客户的说法予以否认。
+- 瑞恩·麦克贝恩（Ryan McBain）还是不知道自己为什么被送货平台Amazon Flex解约。
+- “这让我感到自己分文不值......好像我只是一个数字，”他说。
+- 澳大利亚在疫情中首次实施封锁限制后，在零售业工作的麦克贝恩下岗了。去年三月，他在亚马逊的Amazon Flex送货平台登记签约。
+- 去年八月开始，瑞恩从他的主业接到了更多的排班，于是他不再使用Amazon Flex平台接活送货。
+- 但在悉尼最近实施封锁限制期间，瑞恩再次下岗。他试着重新登录Flex平台，发现亚马逊已经和他解约。
+- “我很受打击，”他说。
+- 瑞恩记得自己去年曾因退回未送出的包裹而收到过几次警告，但亚马逊的终止合同邮件并未确切说明原因。
+- “由于违反Amazon Flex平台独立承包商服务条款......你不再有资格参与Amazon Flex平台的派送工作。”
+- 瑞恩说，“亚马逊物流平台团队”的电邮让他感觉自己被机器人开除了。
+- “我一次都没和真人说过话，”他说。
+- “[沟通的]另一端只是电脑，你不会与任何人互动。”
+- 他现在正试图通过内部申诉程序对亚马逊的决定提出异议。
+- “他们说会在大约六天内给我答复，但我还没有从亚马逊收到任何消息。”
+- 亚马逊一开始向ABC询问瑞恩一事的详情，但后来拒绝就其合约终止的原因发表意见。
+- 该公司表示，司机在合同遭终止后可以申请复职，有24名司机通过申诉程序复职。
+- 但亚马逊拒绝透露，亚马逊物流平台应用程序在澳大利亚推出后共有多少人被终止合约。
+- 悉尼科技大学（ UTS ）法学院的迈克尔·罗林（Michael Rawling ）认为，像瑞安这样的案例表明，联邦政府需要赋予公平工作委员会（ Fair Work Commission）权力，裁定物流配送承包者和亚马逊等科技公司之间的纠纷。
+- “出现终止合同的情况是由于那些任意且不正规的理由，”他说。
+- “[虽然]雇员拥有保护措施、免于受不公平解雇的权利以及受全面保护的权利来解决这类事情，但这些劳动者不一定拥有这些权利。”
+- 他说，公平工作委员会还应该有权与亚马逊进行集体谈判，确定一次配送货物的比率，目前这些内容由亚马逊自己来决定。
+- 亚马逊表示，公司遵守经营活动所在州为自备车司机规定的薪酬标准。
+- 零工经济一族挑战亚马逊和优步（Uber）等公司所做决策的唯一途径就是通过法院解决问题。
+- “大体来说，那些决定支持[大科技]公司的说法认为这些劳动者是独立承包商，意味着劳动者没有权利：他们没有享有最低工资的权利，”罗林博士说。
+- 亚马逊物流平台合同中用小字印的保留条款让问题更加麻烦。在亚马逊物流平台的合同中就包括一例条款，禁止司机今后参与任何针对亚马逊的集体诉讼。
+- “亚马逊设法因人而异解决司机的担忧，”迈克尔·库利说。
+- 每天配送结束后，亚历克斯都质疑自己还能继续为亚马逊物流平台送货多长时间。而且，在他的生活中每天都存在不确定性。
+- “有一种看法就是，你确实在为自己工作，可以自己设定工作时间，自己当老板，”他说。
+- “但现实却不是这样，真的做不到。你还是要服从于这家大公司。
+- “这种情况确实造成了虚假的安全感。”
+- 我们正在对工作中的不公平的待遇进行调查，并且听取您的经历。
+- 无论您是学徒、受训者或实习生、雇员、承包商、经理还是企业主，无论您在哪个行业工作，我们想了解每个人对在澳大利亚工作的看法。
+- 无论您是澳大利亚公民、永久居民还是短期签证持有者，无论您居住在澳大利亚的哪座城市、亦或来自哪一种文化背景，我们都希望了解您的经历。
+- 欲了解更多有关调查内容，请查看我们的调查专题网页。
+- 我们向你保证，您提交的任何信息都将被严格保密。在没有得到您的许可的情况下，我们不会公布您提交的任何信息，也不会调查或识别您的身份。
+- 本文版权归澳大利亚广播公司（ABC）所有。转载请务必注明出处为“澳大利亚广播公司ABC中文”，并附上原文链接。任何侵犯ABC版权的行为都可能被追究法律责任。
+- 澳大利亚广播公司（Australian Broadcasting Corporation, ABC）是澳大利亚全国公共广播机构，独立于政府、政治团体、商业或其他行业机构，不涉及任何利益关系，编辑自主，提供客观和公正的新闻报道。ABC中文遵循ABC编辑方针，以澳大利亚视角，报道国内外重大新闻事件、深度分析时事要闻、多方展现观点碰撞。
+- 您知道吗？超过70%的澳大利亚人每周都会阅读、收看和收听ABC的内容。我们也希望您能参与到我们的报道之中，让ABC中文的内容反映多元、平等和包容的澳大利亚现代社会。我们特地制作了一份参考指南，解答您在接受采访前的疑问。您可以点此下载PDF版本。
+- 欢迎就内容转载、反馈、线索提供等事宜联系我们:
+- Chinese@abc.net.au
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.cnbc.com/2021/07/30/amazon-dsps-tell-drivers-to-bypass-safety-inspections.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- In this article
+- Amazon delivery companies around the U.S. are instructing workers to bypass daily inspections intended to make sure vans are safe to drive.
+- Amazon requires contracted delivery drivers to inspect their vehicles at the beginning and end of their shift as a safety precaution. But some drivers say they're pressured to ignore damage and complete the inspections as quickly as possible, so that delivery companies can avoid taking vans off the road. If delivery companies take a van off the road, they risk forfeiting valuable package routes and drivers may lose a shift.
+- These inconsistent inspection practices undermine the company's public messaging around worker safety. They also highlight the tension that delivery partners face between ensuring drivers' safety and keeping up with Amazon's aggressive delivery quotas, which can stretch into hundreds of packages per day per driver.
+- CNBC spoke to 10 current and former Amazon delivery drivers in Georgia, Ohio, Indiana, Illinois, Kentucky and Texas who discovered their vans had issues ranging from jammed doors and tires with little to no tread to busted backup cameras and broken mirrors. They say managers told them to ignore these problems and complete their deliveries as usual. Some of these drivers asked to remain anonymous for fear of retribution from their employers or Amazon.
+- "They'd tell us, just make sure everything's great and go," said Chastity Cook, who quit working for an Amazon delivery company in Illinois earlier this year. "We just checked down the list. We don't even stop to read it and make sure everything is there."
+- Cook's former employer, Courier Express One, couldn't be reached for comment.
+- Amazon told CNBC in a statement that the company regularly audits delivery companies' compliance with safety policies, including two vehicle safety checks every day. Amazon takes vehicles out of operation until safety issues are addressed, the company said.
+- "When safety protocol is broken, we take various actions including ending our relationship with a DSP [delivery service partner] if warranted," the company said. "We're actively investigating the experiences in this story and don't believe they are representative of the more than 150,000 drivers that safely deliver packages every day."
+- Amazon's DSP program, launched in 2018, plays a critical role in the company's vast fulfillment and logistics operations. The DSP network is made up of at least 2,000 contracted delivery firms and 115,000 drivers in the U.S., often distinguishable by blue Amazon-branded vans, that handle the last mile to shoppers' doorsteps.
+- Because the DSP network is run by partners, drivers and managers operate at arm's length from the retail giant. The working environment and management quality varies greatly between DSPs, drivers say.
+- Amazon has previously said it informs drivers of best safety practices and has invested hundreds of millions of dollars in safety mechanisms across the DSP network. Before stepping down as CEO, Amazon founder and Executive Chairman Jeff Bezos pledged to make safety and employee satisfaction a greater focus at the company.
+- The company has increasingly relied on software and in-vehicle technology to monitor driver safety. Amazon in February rolled out AI-enabled cameras in its delivery vans that are designed to detect safety infractions and, for years, it has used an app called Mentor to track employees' driving behavior. Drivers and DSPs are scored by Amazon, in part, on their adherence to safety measures, which can determine their eligibility to receive bonuses.
+- Delivery companies have discovered workarounds to some of these tools. Vice reported in May that some DSPs were encouraging drivers to turn off Mentor while on their route to make sure they continue to hit Amazon's delivery targets.
+- Additionally, Amazon continues to face broad scrutiny around the safety and treatment of its warehouse and delivery workforce. Under the pressure of getting packages to Amazon's 200 million-plus Prime members, drivers are increasingly speaking out about working conditions, including claims that workers routinely urinate in bottles and are pushed into dangerous situations while on the road.
+- CNBC obtained a screen recording of the inspection process, referred to as a Driver Vehicle Inspection Checklist, showing a step-by-step breakdown of how it works.
+- Drivers open the Flex app and scan a barcode on their vehicle that pairs it to the app. After that, a window appears in the app, instructing drivers to start the inspection.
+- Drivers check their vehicle's front side, passenger side, back side, driver side and cab. Within each category are several subsections that require further inspection, such as the van's lights, tires, mirrors, steering, cameras and brakes.
+- If a driver marks issues with the van, the Flex app will immediately prompt them to contact their manager. The app also won't show drivers their package delivery route. Once the van is repaired, whichever driver is first assigned to the vehicle must verify in the Flex app that any issues were fixed.
+- Otherwise, a screen at the end of the checklist will say "you didn't report any issues with the vehicle." Drivers are required to check a box which states, "I hereby certify that my vehicle inspection report is true and accurate."
+- In its DSP safety manuals and instructional materials, Amazon encourages drivers not to drive dangerous vehicles. An inspection guide distributed to drivers and viewed by CNBC states, in bold and red font, "Do not operate any unsafe vehicle out on route."
+- A separate, 11-page safety manual for DSPs states that, "Drivers must report all vehicle deficiencies, including malfunctions and defects, immediately." The document, which is undated, also says that pre- and post-trip inspections are necessary to "ensure your assigned vehicle is road ready and doesn't pose any hazards that prevent the safe operation of the vehicle."
+- But drivers say there are persistent safety hazards in their vehicles, from jammed doors and broken backup cameras to bald tires and seatbelts that won't lock, and managers discourage them from reporting these issues on the checklist.
+- "They told us not to mark things if they were broken because then the van wouldn't be drivable," said Cook, the driver from Illinois. "They said to report damages to management."
+- One former driver from Austin, Texas, who asked to remain anonymous out of fear of retribution from their former employer, said a manager told them that if they marked anything wrong with their vehicle, they wouldn't have a shift that day.
+- The driver said they noticed numerous safety hazards while working for their DSP. Several vans had broken backup alarms, which alert pedestrians and other vehicles when the van is reversing. Check engine lights and other sensors were often flashing on the vans — enough that drivers joked it looked like Christmas lights, the driver said.
+- Andre Kirk, a former Amazon delivery driver in Indiana, recalled when he was inspecting his van and noticed the check engine light was on. Kirk thought it meant it was supposed to be taken out of service, but he was forced to drive it anyway.
+- Concerned for his safety, Kirk drove the van to a nearby Jiffy Lube. The repairman told Kirk he couldn't work on the Mercedes-Benz sprinter vans used by some DSPs, so Kirk decided to get back on the road and complete his shift as safely as possible.
+- Kirk said he was confused why his DSP wouldn't let employees report issues like he experienced during vehicle inspections.
+- "I felt like something wasn't right. Why not report this?" said Kirk, who was fired from his DSP in May, in an interview. "If this is not supposed to be in service, why am I still driving it?"
+- Kirk's former employer, FAE Distributors, couldn't be reached for comment.
+- After drivers flag an issue during inspections, Amazon requires DSP companies to "ground" the vehicle, or take it out of operation for repairs.
+- Drivers say that managers avoid grounding vehicles because they don't want to give up delivery routes. For example, if a DSP is forced to ground three vans for repairs, they may not have enough spare vans in their fleet to handle all the delivery routes Amazon assigned them that day.
+- Forfeiting a delivery route can cost a DSP.
+- Amazon pays contracted delivery companies for every package delivered each week and for every delivery route they pick up, according to drivers and a former DSP owner, who asked to remain anonymous because they are still in the logistics business.
+- The former DSP owner said they tried to get vehicle issues repaired as quickly as possible, but they would tell drivers not to mark issues in the Flex app in order to avoid grounding any vans and "dropping routes."
+- Dropping a route not only hurts DSPs financially, but it can also affect the score assigned to them by Amazon. Amazon ranks delivery partners on a scale of "Poor" to "Fantastic+," factoring in things like delivery performance. If a DSP's ranking falls, it may lose out on bonus payments or receive worse routes in the future.
+- "The side door could be broken, front door could be broken and you're not supposed to report it because they'll ground the vehicle," said one driver from Indiana. "And then there goes your route."
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+- Amazon Driveri delivery driver safety monitoring
+- Amazon DSP Ans Rana driver liability
+- Page infoPublished: June 2021Last updated: October 2021

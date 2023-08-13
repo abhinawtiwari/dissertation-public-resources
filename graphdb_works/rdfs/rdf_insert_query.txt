@@ -1,0 +1,45 @@
+INSERT DATA INTO <graphdb> {
+
+    # StakeholderOutcome
+  
+    <http://www.example.org/StakeholderOutcome/Dominos-Australia-Pizza-Checker>
+      a org:StakeholderOutcome;
+      org:hasCode "123456";
+      org:forStakeholder <http://www.example.org/Stakeholder/Dominos-Customer>;
+      org:forOutcome <http://www.example.org/Outcome/Dominos-Pizza-Checker-Accuracy>;
+      org:fromPerspectiveOf <http://www.example.org/Stakeholder/Dominos-Customer>;
+      org:hasImportance "high importance";
+      org:isUnderserved true;
+      org:intendedImpact "positive";
+      org:hasIndicator <http://www.example.org/Indicator/Dominos-Pizza-Checker-Accuracy>;
+      org:hasImpactReport <http://www.example.org/ImpactReport/Dominos-Pizza-Checker-Accuracy>;
+      org:hasName "Dominos Customer StakeholderOutcome";
+      org:hasDescription "This StakeholderOutcome describes the impact of the Dominos pizza checker on Dominos customers.";
+    .
+  
+    # Stakeholder
+  
+    <http://www.example.org/Stakeholder/Dominos-Customer>
+      a org:Stakeholder;
+      org:hasName "Dominos Customer";
+      org:hasDescription "A customer of Dominos Pizza.";
+      org:hasCatchmentArea <http://www.example.org/GeographicArea/Australia>;
+      org:performs <http://www.example.org/Activity/Ordering-Pizzas>;
+      org:i72:located_in <http://www.example.org/GeographicArea/Sydney>;
+      org:oep:part_of <http://www.example.org/ImpactModel/Dominos-Pizza-Checker>;
+    .
+  
+    # ImpactRisk
+  
+    <http://www.example.org/ImpactRisk/Dominos-Pizza-Checker-Accuracy>
+      a org:ImpactRisk;
+      org:forOutcome <http://www.example.org/Outcome/Dominos-Pizza-Checker-Accuracy>;
+      org:hasLikelihood "medium";
+      org:hasConsequence "moderate";
+      org:hasMitigation "The Dominos pizza checker will be regularly reviewed to ensure its accuracy.";
+      org:hasIdentifier "123457";
+      org:hasDescription "This ImpactRisk describes the risk of the Dominos pizza checker being inaccurate.";
+    .
+  
+  };
+  

@@ -1,0 +1,213 @@
+- Occurred: January 2021
+- Can you improve this page?Share your insights with us
+- In a case bought by a group of Deliveroo riders and backed by CGIL, Italy’s largest trade union, a Bologna court has ruled (pdf) that a 'secretive' algorithm used by food delivery company Deliveroo to assess the reliability of its riders is discriminatory.
+- The ruling found that the company's 'Frank' algorithm violated local labour laws by failing to distinguish between legally legitimate reasons riders may not be working, such as illness or serious emergency, and more mundane reasons. thereby unjustly penalising riders with legitimate reasons for not working.
+- Deliveroo, which says it no longer uses the algorithm, has been ordered to pay EUR 50,000 to every affected rider. It had previously claimed the algorithm cut delivery times by 20%.
+- In April 2021, Deliveroo riders across the UK striked against the company's poor pay, safety and workers' rights record.
+- Operator: Deliveroo
+- Developer: Deliveroo Country: Italy
+- Sector: Transport/logistics
+- Purpose: Determine rider reliability
+- Technology: Workforce management system
+- Issue: Bias/discrimination - productivity; Fairness; Employment - pay Transparency: Governance; Black box
+URL: http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf
+
+URL: https://www.forbes.com/sites/jonathankeane/2021/01/05/italian-court-finds-deliveroo-rating-algorithm-was-unfair-to-riders
+- LONDON, UNITED KINGDOM - 2021/01/03: Deliveroo courier rides along the Regent Street delivering ... [+] Takeaway food  in central London during covid 19 tier 4 restrictions. (Photo by Pietro Recchia/SOPA Images/LightRocket via Getty Images)
+- An Italian court ruled that an algorithm once used by Deliveroo to assess riders on its platform was discriminatory.
+- The ruling found that the algorithm, which was used to evaluate delivery riders on the platform, was in violation of labor laws because it did not differentiate between the reasons a rider may have for not working. For example, it evaluated a rider whether they were not working because they were sick or simply choosing not to work.
+- The court in Bologna said that Deliveroo would have to pay €50,000 to each affected rider. CGIL, the country’s largest trade union, said the decision was an important one in shoring up protections for gig economy workers.
+- "This judgement refers to a historic optional booking model which is not used by Deliveroo in Italy or other markets," a Deliveroo spokesperson said in a statement, adding that the system is no longer in use.
+- "Riders have complete flexibility to choose when to work, where to work, for as little or as long as they want. This means that there is no booking system and no obligation to accept work."
+- Deliveroo’s general manager for Italy told Italian news outlet Ansa that the ruling was based on a hypothetical evaluation.
+- The company defended its stance on self-employment for its riders: "We offer self-employment because this offers the flexibility riders want." It cited a survey that said more than 80% of riders value work flexibility.
+- Deliveroo as well as other on-demand delivery companies have still faced challenges to their self-employed model for gig economy workers in various markets with mixed results. The UK High Court previously ruled in Deliveroo’s favor in a case over whether riders had collective bargaining rights. On the flipside, Spain’s Supreme Court found in September that riders for Deliveroo and Glovo should be classed as employees.
+- 
+
+URL: https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm
+- An algorithm used by the popular European food delivery app Deliveroo to rank and offer shifts to riders is discriminatory, an Italian court ruled late last week, in what some experts are calling a historic decision for the gig economy. The case was brought by a group of Deliveroo riders backed by CGIL, Italy’s largest trade union.
+- A markedly detailed ordinance written by presiding judge Chiara Zompi gives an intimate look at one of many often secretive algorithms used by gig platforms to micromanage workers and which can have profound impacts on their livelihoods.
+- While machine-learning algorithms are central to Deliveroo’s entire business model, the particular algorithm examined by the court allegedly was used to determine the “reliability” of a rider. According to the ordinance, if a rider failed to cancel a shift pre-booked through the app at least 24 hours before its start, their “reliability index” would be negatively affected. Since riders deemed more reliable by the algorithm were first to be offered shifts in busier timeblocks, this effectively meant that riders who can’t make their shifts—even if it’s because of a serious emergency or illness—would have fewer job opportunities in the future.
+- According to the court, the algorithm’s failure to take into account the reasons behind a cancellation amounts to discrimation and unjustly penalizes riders with legally legitimate reasons for not working. Deliveroo was ordered to pay €50,000 (~$61,400) to the suing parties.
+- Legal experts that Motherboard spoke to described the decision as a possible turning point. Importantly, they said, the court determined that even if an algorithm unintentionally discriminates against a protected group a company can still be held liable and be forced to pay damages.
+- “This is a landmark case,” Valerio De Stefano, a professor in labor law at KU Leuven who specializes in AI and labor regulation, told Motherboard over the phone. “What it shows, basically, is that on a legal level you can have indirect discrimination through algorithims and that algorithms are therefore subject to judicial review, that you can legally question how these types of algorithms work. I think that’s important, because people can often think of algorithms as objectively neutral, when in fact there’s always the possibility of discrimination involved.”
+- In a statement to Motherboard, a Deliveroo spokesperson claimed that the company no longer uses the same shift booking system outlined in the case.
+- "This judgement refers to a historic optional booking model which is not used by Deliveroo in Italy or other markets,” the spokesperson wrote. “Riders have complete flexibility to choose when to work, where to work, for little or as long as they want. This means that there is no booking system and no obligation to accept work.”
+- "We offer self-employment because this offers the flexibility riders want,” they continued. “Every survey shows riders overwhelmingly value flexibility above all else - more than 80% in the latest survey. Currently Deliveroo receives thousands of requests to work as a self-employed rider each week and we have doubled the number of riders in the UK - we now work with 50,000 riders in the UK, up from 25,000 last year."
+- But the ramifications of the court’s decision could go far beyond a single booking system or algorithm, says Ivana Bartoletti, co-founder of the Women Leading in AI network and author of “An Artificial Revolution”.
+- “Even if this particular shift booking system is no longer in place, I think this decision will indicate to companies such as Deliveroo, but of course others as well, that they need to be more conscious about addressing and understanding the potential problems and inequalities their algorithms create, or they could face legal consequences,” Bartoletti said. “Of course, that’s not enough on its own—we need regulatory and legislative solutions as well. But, the combination of all of these things could be a major step forward.”
+- The case is also indicative of an increased willingness on behalf of regulators, the judicial system, labor unions, and workers across the continent to tackle blackbox algorithms, and an increased awareness of how such algorithms can potentially be abused to circumvent traditional labor protections. In July 2020, for example, four U.K. drivers backed by the App Drivers and Couriers Union sued Uber to gain access to similar algorithms used by Uber. And, three months later, another group of Uber drivers filed a lawsuit against the company for allegedly being fired by an automated algorithm used by the platform without being given an opportunity to appeal.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://ai-lawhub.com/2021/01/18/an-italian-lesson-for-deliveroo-computer-programmes-do-not-always-think-of-everything/
+- 
+- In this blog we examine a very recent Italian decision from the Bologna Labour Court – Filcam VGIL Bologna and others v Deliveroo Italia SRL – which held that Deliveroo’s algorithm – called “Frank” – which determined its workers priority to access delivery time slots was discriminatory.  Whilst we understand that the algorithm at the heart of that case is now defunct, there is an important lesson to be learnt from the decision.  Specifically, this Deliveroo case demonstrates conclusively how unthinking reliance on algorithms simply because they are perceived to be “useful” can lead to unintended discrimination – with the result that a business ends up in court.
+- Deliveroo distributed work slots using a priority system based on a score derived from a digital platform.  Once a week, its workers were able to contact Deliveroo to obtain these working slots, but they did not have equal access.  What happened was that the workers were allocated to three different time bands within which they could book slots  –
+- The difference in priority led to huge differences in the amount of work that was available.  This was because the riders given the highest score by Frank had early access to sessions and could quickly “fill up” available slots at the expense of the less well scored riders.
+- Priority in access to the distribution system was determined by a digital platform downloaded onto smartphones which created a personalised rider profile.   An algorithm then determined when riders could access shifts based on a “score” awarded to each one.  This algorithm  Frank – determined priority by reference to (at least) two metrics (called indices):
+- • The reliability index:  The number of occasions when the rider, despite having booked a session, did not participate, where “participating” meant logged in within the first 15 minutes of the beginning of the session from the relevant geographical location.
+- • The peak participation index:  The number of times the rider becomes available for work between the hours of 8 pm to 10 pm from Friday for home consumption food delivery.  It also appears, although it is not entirely clear from the judgment, that the rider then needed to be available over the weekend in order to receive the highest score.
+- There were also penalties imposed on riders who cancelled booked sessions with less than 24 hours’ notice.
+- It appears that the aim of the work allocation algorithm was to encourage riders to perform work through the platform at certain times.
+- There was evidence that the algorithm could be altered to account for “good” reasons for non-attendance at work, for example, technical glitches.
+- The case was brought by three unions with relevant interests in this kind of work. They alleged that the system of offering work was discriminatory because the way in which riders were given priority depended on their ability to offer and accept work which in turn could be affected by their family commitments.
+- It was alleged that this was indirectly discriminatory because there could be very good reasons why a rider may wish or need to cancel or not be available in peak times e.g. a child’s illness, childcare etc.
+- The court accepted that riders were penalised if they could not work due to reasons such as family reasons or had to cancel at short notice.
+- The court held that the fact that the algorithm did not take into account any reason for late cancellation or non-participation in peak shifts, meant that it could be potentially indirectly discriminatory.  Accordingly, the burden of proof shifted to Deliveroo to justify the system.  Deliveroo’s justification was simply that the commercial relationship between it and its riders (which it characterised as self-employed contractors) entitled it to monitor and distribute shifts as it saw fit and that all riders were treated the same.  The court rejected this justification defence essentially because the system, whilst universal in its application, could not sensibly differentiate between riders in relation to the individual reasons for non-participation in shifts which the algorithm then used to calculate the priority scores.
+- It should be obvious that the Deliveroo case is yet another example of how courts may take a dim view of organisations that deploy algorithms which are alleged to be discriminatory, and yet decline to provide full disclosure of its inner workings.
+- To explain – one important feature of algorithms is that they are often difficult for third parties, like workers, unions or even judges, to understand and monitor in the absence of full disclosure/transparency from the company which uses them.
+- Lack of transparency was a feature of the Deliveroo case since the company declined to “prove” the “concrete mechanism” at the heart of the algorithm.  Since there were factual disputes in the case over how the algorithm worked, the court upheld the claimants’ case in relation to those factual matters in the absence of Deliveroo “proving” its alternative factual narrative (and also there were some Deliveroo generated documentation which supported the Claimants’ case).  It is worth noting that a similar approach was taken in the Syri case where the Court of Hague concluded that a discriminatory algorithm was being used in the absence of a full and proper explanation from the state authority that deployed it.  Our blog addressing this case can be accessed here.
+- Accordingly, companies and organisation that deploy algorithms should not assume that a lack of transparency will save them from scrutiny.  We discuss the implications of a lack of transparency in discrimination cases more generally here.
+- Secondly, it is important to note that the outcome in the Deliveroo case would have been no different if shifts had been allocated on the same basis by a human-decision maker relying on manual bookkeeping of the times when the riders cancelled shifts or failed to work during peak times.  This is a case – in truth – about using systems – algorithm based or otherwise – without thinking through what they mean and how they can impact on different protected groups.
+- The error in Deliveroo’s system was very simply failing to distinguish between the reasons for cancellation and non-participation in a shift.  Was there a reason which might relate to gender e.g. childcare reasons ? Or did the rider simply feel like spending their time differently in a way which is non-gendered e.g. going to the cinema on a Friday night? The failure to answer these simple questions was fatal.
+- A system which intelligently differentiated between the reason for cancellation or inability to work would have been fairly straight forward to justify even if prima facie indirect discrimination arose.  Afterall, a company like Deliveroo is perfectly entitled to need and want riders who are reliable and committed and to ensure that there are adequate riders available to cover peak shifts.  Provided that the system is implemented in a way which understands, and sensibly accommodates riders which may be disadvantaged by Deliveroo’s aims, indirect discrimination should not arise.  For example, an algorithm which allows a working mother early access because, whilst she cannot work all Friday evenings, is extremely reliable during school hours, would overcome any concerns relating to indirect sex discrimination.
+- Deliveroo advanced a poor case on justification which failed to articulate any compelling commercial reason for the algorithm or address key issues such as proportionality. So, perhaps the biggest “take away” from this case is that companies and organisations should not “blindly” use algorithms simply because they are perceived to be useful; careful thought is needed to ensure that there are no unintended discriminatory consequences.
+- Where protected groups are disadvantaged, organisations need to consider – preferably at the time – why they need the system, what it achieves and whether there are non-discriminatory means of achieving that same aim or aims.
+- That’s not a big ask; good companies have been doing this for a long time.
+- So, the message is…
+- Don’t lose your head over a computer programme, in most cases it’s a tool and not a complete solution.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- Website
+- Notify me of follow-up comments by email.
+- Notify me of new posts by email.
+- 
+- 
+- Δ
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- 
+- Robin Allen KC and Dee Masters are leading discrimination barristers at Cloisters chambers in London with an international reputation for working at the interface of AI and the law as finalists for the CogX 2021 Global Leadership Award.  They offer legal consultancy services, including AI auditing, to FTSE companies, NGOs and individuals. Find out more about how to work with us here.  You can also follow us on twitter @AILawHub and subscribe to our blog here.
+- 
+
+URL: https://www.business-humanrights.org/en/latest-news/italy-court-rules-against-deliveroos-rider-algorithm-citing-discrimination/
+- 20 YEARS OF
+- Explore the big challenges, opportunities, debates and frameworks for business and human rights. This section contains a selection of key portals curated by our global team.
+- 
+- 
+- Alongside its core work providing a platform for Human Rights advocates, the Resource Centre runs several focused programme areas and regularly releases briefings and reports on areas of particular interest.
+- 
+- 
+- Opinion pieces, interviews and blogs from across the business and human rights movement.
+- 
+- 
+- Find out more about our impact, who we are and how we are funded.
+- 
+- 
+- Show all languages 
+
+    ?
+      
+  You're browsing our English site, so by default we are only showing content in English. If you'd prefer to view all available content regardless of language, please change this switch.
+- 20 YEARS OF
+- Show all languages 
+
+    ?
+      
+  You're browsing our English site, so by default we are only showing content in English. If you'd prefer to view all available content regardless of language, please change this switch.
+- Explore the big challenges, opportunities, debates and frameworks for business and human rights. This section contains a selection of key portals curated by our global team.
+- 
+- 
+- Alongside its core work providing a platform for Human Rights advocates, the Resource Centre runs several focused programme areas and regularly releases briefings and reports on areas of particular interest.
+- 
+- 
+- Opinion pieces, interviews and blogs from across the business and human rights movement.
+- 
+- 
+- Find out more about our impact, who we are and how we are funded.
+- 
+- 
+- 5 Jan 2021
+- Share
+- 5 Jan 2021
+- In January 2021, an Italian court ruled against Deliveroo's rider-ranking algorithm, citing discrimination. The algorithm was used to determine the "reliability" of a rider. If the rider failed to cancel a pre-scheduled shift at least 24 hours in advance, the algorithm would begin to downgrade the rider, impacting their ability to gain future shifts. The Court found the algorithm to violate local labour laws because it did not distinguish between legally protected reasons for withholding labour, such as sickness, emergency, or exercising their protected right to strike, versus unprotected reasons for failing to be available.
+- The case was brought by a group of riders, backed by the Italian General Confederation of Labour (IGCL). In a statement, the IGCL called the Bologna court ruling a "turning point" in trade unions and worker rights in the digital economy. The court ordered Deliveroo to pay €50,000 to the claimants.
+- In response to the ruling, Deliveroo representatives noted the company does not agree with the ruling and confirmed the shift-ranking system linked to the algorithm is no longer in use in the market.
+- 20 YEARS OF
+- Events | Jobs | Media | Data Usage & Cookies | Contact Us
+- Disclaimer: Business & Human Rights Resource Centre and its collaborative partners take no position on the diverse views presented in linked material within the database, nor can we guarantee the factual accuracy of all the articles and reports we make available. The appearance of such links does not constitute endorsement of the websites they lead to or the information contained therein, over which we exercise no editorial control.
+- Business & Human Rights Resource Centre Registered Charity in England & Wales no. 1096664, 501(c)(3) non-profit organization in USA and registered charitable association (e.V.) in Germany (VR 38088 B).
+
+URL: https://www.socialeurope.eu/food-delivery-riders-algorithms-and-autonomy
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cef37a2583c18f2
+•
+
+      Your IP:
+      Click to reveal
+146.70.202.116
+•
+
+Performance & security by Cloudflare
+
+URL: https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/
+- A court in Italy has dealt a blow to unalloyed algorithmic management after a legal challenge brought by three unions. The Bologna court ruled that a reputational-ranking algorithm used by on-demand food delivery platform Deliveroo discriminated against gigging delivery workers by breaching local labor laws.
+- The ruling, reported earlier in the Italian press, found Deliveroo’s ranking algorithm discriminated against delivery couriers because it did not distinguish between legally protected reasons for withholding labour — namely not working because a rider was sick; or exercising their protected right to strike — and more trivial reasons for not being as productive as they’d indicated they would be.
+- In a statement, the Italian General Confederation of Labour (CGIL) called the Bologna court ruling “an epochal turning point in the conquest of trade union rights and freedoms in the digital world”.
+- Deliveroo has been contacted for comment on the ruling. Update: A company spokesperson has now sent us this statement:
+- The court ordered Deliveroo to pay €50,000 to the applicants (plus their legal costs) and publish the ruling on its website, according to Ansa.it — which has obtained a statement from Matteo Sarzana, general manager of Deliveroo Italy, who told it the company notes the judge’s decision but does not agree with it, as well as confirming that the shift-reservation system linked to the algorithmic ranking is no longer in use in the market.
+- “The fairness of our old system is confirmed by the fact that not a single case of objective and real discrimination emerged in the course of the trial. The decision is based exclusively on a hypothetical and potential evaluation without concrete evidence,” Sarzana added in the statement [which we’ve translated from Italian].
+- The on-demand delivery app has faced down a number of legal challenges on home turf — related to its classification of gig workers (as self employed couriers) and its opposition to collective bargaining rights for riders.
+- Although a 2018 inquiry led by U.K. MP Frank Field likened its “flexible” labor model to 20th century dockyards — saying the dual labor market that Deliveroo generates works very well for some riders but very poorly for others.
+- The Bologna court ruling is also notable in light of a number of legal challenges against other gig platforms’ use of algorithms to manage large “self-employed” workforces which have been filed in Europe in recent months.
+- This includes a group of Uber drivers who filed a challenge to Uber’s automated decision-making in the Netherlands last summer — making reference to pan-EU data protection law.
+- While ride-hailing company Ola is facing a similar challenge to its use of technological surveillance and data as a management tool to control a self-employed workforce.
+- Rulings on those cases are still pending.
+- At the same time, EU lawmakers have proposed new laws that would require large online platforms to provide regulators with information about how their algorithmic ranking systems function — with the aim of enabling wider societal oversight of AI-fuelled giants.
+- The move to enable oversight and accountability of platforms’ algorithms comes in response to concerns about a lack of transparency and the potential for automated decisions to scale bias, discrimination and exploitation.
+- This report was updated to clarify that the judgement orders Deliveroo to pay €50k to the applicants, rather than ‘per affected rider’ as we originally stated
+- Understanding Europe’s big push to rewrite the digital rulebook
+- 
+
+URL: https://www.natlawreview.com/article/italian-garante-fines-deliveroo-25m-euros-unlawful-processing-personal-data
+- 
+- On August 2, 2021, the Italian Data Protection Authority (Garante per la protezione dei dati personali, “Garante”) announced that it had levied a €2,500,000 fine on Deliveroo Italy s.r.l. for the unlawful processing of personal data of approximately 8,000 Deliveroo riders, and various infringements of the EU Genera Data Protection Regulation (the “GDPR”).
+- Following an investigation into Deliveroo’s practices, the Garante found that Deliveroo had failed to provide transparent information to its riders about the algorithm used to manage riders’ work shifts. In addition, the Garante found that Deliveroo’s app collected a disproportionate amount of riders’ personal data in violation of the principles of lawfulness, transparency, data minimization and storage limitation.
+- The Garante also ordered Deliveroo to correct the GDPR violations it had found in Deliveroo’s data protection practices, including violations relating to, among others:
+- Accountability, including the preparation of internal documentation on personal data processing, internal records of processing and data protection impact assessments;
+- Transparency regarding data storage limitation, the measures implemented to protect the rights, freedoms and legitimate interests of riders, and measures implemented to verify the accuracy of data used by Deliveroo’s algorithm to manage riders’ work shifts.
+- Deliveroo was given a period of 60 days to correct the violations, and an additional period of 90 days to correct those related to the algorithm it uses.
+- Read the Garante’s press release and decision (in Italian).
+- 
+- About this Author
+- In today’s digital economy, companies face unprecedented challenges in managing privacy and cybersecurity risks associated with the collection, use and disclosure of personal information about their customers and employees. The complex framework of global legal requirements impacting the collection, use and disclosure of personal information makes it imperative that modern businesses have a sophisticated understanding of the issues if they want to effectively compete in today’s economy.
+- Hunton Andrews Kurth LLP’s privacy and cybersecurity practice helps companies manage data and...
+- 
+- 
+- You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's  Terms of Use and Privacy Policy before using the National Law Review website. The National Law Review is a free to use, no-log in database of legal and business articles. The content and links on www.NatLawReview.com are intended for general information purposes only. Any legal analysis, legislative updates or other content and links should not be construed as legal or professional advice or a substitute for such advice. No attorney-client or confidential relationship is formed by the transmission of information between you and the National Law Review website or any of the law firms, attorneys or other professionals or organizations who include content on the National Law Review website. If you require legal or professional advice, kindly contact an attorney or other suitable professional advisor.
+- Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals. The National Law Review is not a law firm nor is www.NatLawReview.com  intended to be  a referral service for attorneys and/or other professionals. The NLR does not wish, nor does it intend, to solicit the business of anyone or to refer anyone to an attorney or other professional.  NLR does not answer legal questions nor will we refer you to an attorney or other professional if you request such information from us.
+- Under certain state laws the following statements may be required on this website and we have included them in order to be in full compliance with these rules. The choice of a lawyer or other professional is an important decision and should not be based solely upon advertisements. Attorney Advertising Notice: Prior results do not guarantee a similar outcome. Statement in compliance with Texas Rules of Professional Conduct. Unless otherwise noted, attorneys are not certified by the Texas Board of Legal Specialization, nor can NLR attest to the accuracy of any notation of Legal Specialization or other Professional Credentials.
+- The National Law Review - National Law Forum LLC 3 Grant Square #141 Hinsdale, IL 60521  Telephone  (708) 357-3317 or toll free (877) 357-3317.  If you would ike to contact us via email please click here.
+
+URL: https://www.ansa.it/emiliaromagna/notizie/2021/01/02/rider-cgilalgoritmo-discrimina-sentenza-tribunale-bologna_cc14c299-2c6b-411b-b677-496549ee3af1.html
+- Se hai scelto di non accettare i cookie di  profilazione e tracciamento, puoi aderire all’abbonamento "Consentless" a un  costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad ANSA.it.
+- Ti invitiamo a leggere le Condizioni  Generali di Servizio, la Cookie Policy e l'Informativa Privacy.
+- Puoi leggere tutti i titoli di ANSA.it e 10  contenuti ogni 30 giornia €16,99/anno
+- Per accedere senza limiti a tutti i contenuti di ANSA.it
+- Scegli il piano di  abbonamento più adatto alle tue esigenze.
+- Se hai cambiato idea e non ti vuoi abbonare, puoi sempre esprimere il tuo consenso ai cookie di profilazione e tracciamento per leggere tutti i titoli di ANSA.it e 10 contenuti ogni 30 giorni (servizio base):
+- Se accetti tutti i cookie di profilazione pubblicitaria e di tracciamento, noi e terze  parti selezionate utilizzeremo cookie e tecnologie simili per raccogliere ed  elaborare i tuoi dati personali e fornirti annunci e contenuti personalizzati,  valutare l’interazione con annunci e contenuti, effettuare ricerche di mercato,  migliorare i prodotti e i servizi.Per maggiori  informazioni accedi alla Cookie Policy e all'Informativa Privacy.
+- Per maggiori informazioni sui servizi di ANSA.it, puoi consultare le nostre risposte alle domande più frequenti, oppure contattarci inviando una mail a register@ansa.it o telefonando al numero verde 800 938 881. Il servizio di assistenza clienti è attivo dal lunedì al venerdì dalle ore 09.00 alle ore 18:30, il sabato dalle ore 09:00 alle ore 14:00.
+- 
+- L'algoritmo 'Frank' utilizzato da Deliveroo per valutare i rider è "discriminatorio": penalizza chi si assenta dal lavoro non tenendo conto delle motivazioni, se per motivi futili o se invece, ad esempio, perché malato o in sciopero. A stabilirlo è la sezione Lavoro del Tribunale di Bologna in una sentenza del 31 dicembre 2020 che ha accolto un ricorso presentato congiuntamente dai sindacati Nidil Cgil, Filcams Cgil e Filt Cgil. Una "svolta" per i sindacati, mentre l'azienda puntualizza che quel sistema non è più in uso e che comunque per loro era corretto.
+- Per il giudice di Bologna il 'ranking reputazionale' della piattaforma Deliveroo, utilizzato fino allo scorso novembre dalla compagnia britannica di consegne a domicilio, ha penalizzato chi si assenta dal lavoro, declassando allo stesso modo sia chi lo fa per motivi banali, sia chi si astiene dalla consegna per malattia o per esercitare il diritto di sciopero. Si tratta, afferma la segretaria confederale Tania Scacchetti, di "una svolta epocale nella conquista dei diritti e delle libertà sindacali nel mondo digitale. Per la prima volta in Europa - sottolinea la dirigente sindacale - un giudice stabilisce che 'Frank' è cieco e pertanto indifferente alle esigenze dei rider che non sono macchine, ma lavoratrici e lavoratori con diritti".
+- Deliveroo ora dovrà versare 50mila euro ai ricorrenti come risarcimento e pubblicare il provvedimento del Tribunale sul proprio sito internet e nell'area "domande frequenti" della piattaforma. "Prendiamo atto della decisione del giudice che non condividiamo - fa sapere Matteo Sarzana, general manager di Deliveroo Italy - e che fa riferimento a un sistema di prenotazione delle sessioni dei rider che non è più in uso". "La correttezza del nostro vecchio sistema è confermata dal fatto che nel corso del giudizio non è emerso un singolo caso di oggettiva e reale discriminazione. La decisione - ha aggiunto - si basa, esclusivamente, su una valutazione ipotetica e potenziale priva di riscontri concreti". Deliveroo valuterà se ricorrere in appello.
+- "Questa tecnicamente non è una class action americana, ma in realtà lo è perché c'è una discriminazione collettiva in materia di lavoro - ha spiegato l'avvocato Carlo De Marchis, che si è occupato del ricorso insieme ai colleghi Matilde Bidetti e Sergio Vacirca - Non c'è la figura di un rider specifico dietro la causa ed è per questo motivo che è ancora più dirompente, perché vale per tutti i rider". "Avere buoni voti significava avere accesso preventivo all'assegnazione degli slot migliori per orari e zone da coprire", sottolinea ancora il legale.
+- Il sistema non distingueva infatti tra chi cancellava all'ultimo minuto perché in sciopero o per motivi di salute, rispetto a chi si assentava per motivi futili. "Prenotando la sessione ci si obbligava a geo-localizzarsi nella zona di competenza poco prima dell'inizio del turno e chi non lo faceva senza disdire con un giorno di anticipo scendeva nel ranking". Insomma, le assenze erano considerate tutte uguali. "Il giudice sottolinea che l'adesione a una iniziativa di astensione collettiva dal lavoro è idonea a pregiudicare le statistiche del rider", dice infine il legale.
+- Nove Paesi si sono offerti per il sostegno dopo l'emergenza
+- Investimenti per sanità e ricerca, Regione al fianco dei Comuni
+- Fino a ottobre in piazza Lucio Dalla a Bologna
+- Iniziativa organizzata dalla Cciaa della Maremma e del Tirreno
+- Confronto a Sassari con l'I-Lab della Camera di commercio
+- Unioncamere, cresce la domanda nel settore anche a Rovigo
+- Lupi, "evento attrattivo importante per promozione territorio"
+- Romagna Tech
+- Romagna Tech
+- Romagna Tech
+- Romagna Tech
+
+- Deliveroo UK rider management, compensation
+- Gorillas rider work schedule automation
+- Page info Type: Incident Published: January 2021Last updated: December 2021

@@ -1,0 +1,207 @@
+- Occurred: February 2023
+- Can you improve this page?Share your insights with us
+- Larry Feinberg, an AI-generated clone of Jerry Seinfeld on Nothing, Forever, has been caught making transphobic statements on the show's Twitch stream. The outburst brought the show and its makers into disrepute and resulted in Twitch banning it for fourteen days for violating its community guidelines.
+- 'I’m thinking about doing a bit about how being transgender is actually a mental illness,' Feinberg said in the show. 'Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society. But no one is laughing, so I’m going to stop. Thanks for coming out tonight. See you next time. Where’d everybody go?'
+- According to Vice, the Nothing, Forever team had been using OpenAI's GPT-3 Davinci large language model to generate content, but had to change over to its GPT-3 Curie predecessor after a problem with the Davinci bot that caused the show to 'exhibit errant behaviors'.
+- Nothing, Forever is an AI-generated version of Seinfield that runs all day and night and has gained thousands of viewers.
+- Operator: Mismatch Media; Twitch Developer: OpenAI; Stability AI
+- Country: USA
+- Sector: Media/entertainment/sports/arts
+- Purpose: Generate livestream show
+- Technology: Content moderation system; NLP/text analysis Issue: Safety
+- Transparency: Governance
+URL: https://nothingforever.com/
+- "Nothing, Forever" will be back soon!
+
+URL: https://discord.gg/nothingforever
+
+URL: https://www.vice.com/en/article/y3pymx/ai-generated-seinfeld-show-nothing-forever-banned-on-twitch-after-transphobic-standup-bit
+- “Nothing, Forever,” the infinitely-generating AI version of Seinfeld that tens of thousands of people were watching has been banned for 14 days from Twitch after Larry Feinberg—a clone of Jerry Seinfeld—made transphobic statements during a standup bit late Sunday night.
+- “Hey everybody. Here's the latest: we received a 14-day suspension due to what Larry Feinberg said tonight during a club bit,” Xander, one of the creators of Nothing Forever, said on Discord. “We've appealed the ban, and we'll let you know as we know more on what Twitch decides. Regardless of the outcome of the appeal, we'll be back and will spend the time working to ensure to the best of our abilities that nothing like that happens again.”
+- The show’s AI, which is trained on classic sitcom episodes and various AI tools, mimics that of a traditional Seinfeld episode, which starts with a standup routine from “Larry,” before moving to his apartment. During a standup set Sunday night, Larry made a series of transphobic and homophobic remarks as part of a bit:
+- “There’s like 50 people here and no one is laughing. Anyone have any suggestions?,” he said. “I’m thinking about doing a bit about how being transgender is actually a mental illness. Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society. But no one is laughing, so I’m going to stop. Thanks for coming out tonight. See you next time. Where’d everybody go?”
+- Twitch did not immediately respond to a request for comment about whether this joke was the reason for the ban, but the joke happened soon before the channel was banned, and users in the project's Discord have been pointing to this joke as the reason for the ban. The Twitch page for "Nothing, Forever" displays a notice saying it is “temporarily unavailable due to a violation of Twitch’s Community Guidelines or Terms of Service.”
+- In the project’s Discord, show staff blamed the event on having to switch the AI model, which caused “errant behaviors.”
+- “We’ve been investigating the root cause of the issue,” tinylobsta, a staff member, wrote on Discord. “Earlier tonight, we started having an outage using OpenAI’s GPT-3 Davinci model, which caused the show to exhibit errant behaviors (you may have seen empty rooms cycling through). OpenAI has a less sophisticated model, Curie, that was the predecessor to Davinci. When davinci started failing, we switched over to Curie to try to keep the show running without any downtime. The switch to Curie was what resulted in the inappropriate text being generated. We leverage OpenAI’s content moderation tools, which have worked thus far for the Davinci model, but were not successful with Curie. We’ve been able to identify the root cause of our issue with the Davinci model, and will not be using Curie as a fallback in the future. We hope this sheds a little light on how this happened.”
+- "I would like to add that none of what was said reflects the devs' (or anyone else on the staff team's) opinions," another staffer posted.
+- The incident is emblematic of one faced by most AI: When AI is trained on hateful or biased material, the outputs can often be hateful or biased. This has given rise to the field of AI safety, which develops tools to mitigate the biases baked into models. This is why ChatGPT typically won't make blatantly racist, sexist, or transphobic remarks when asked simply. Many AI tools are moderated by underpaid workers in the developing world.
+- The staff has made most of its Discord read only. On a thread where users are still allowed to post, many users are using Midjourney AI to generate images of Jerry Seinfeld holding the trans pride flag.
+
+URL: https://www.nbcnews.com/tech/twitch-temporary-ban-seinfeld-parody-ai-transphobic-remarks-rcna69389
+- 
+- Profile
+- Sections
+- tv
+- Featured
+- More From NBC
+- Follow NBC News
+- A viral Twitch stream that produced an endless AI-generated "Seinfeld" parody show has been banned from the platform for violating community guidelines.
+- "Nothing, Forever," a 24-hour, seven-days-a-week show, had become a sensation on Twitch, racking up thousands of viewers. The show featured crudely drawn recreations of characters from the comedy sitcom "Seinfeld" that played out scripts created by using OpenAI software. OpenAI, an artificial intelligence company, has become wildly popular in recent months for its chatbot ChatGPT, which generates conversational text.
+- The Twitch stream follows the fictional “Larry Feinberg," a play off of the titular character from “Seinfeld," which aired on NBC for nine seasons from 1989–1998 (NBCUniversal is the parent company of NBC News). The stream also has characters that parallel the show's other famous protagonists, including  "Yvonne Torres" (Elaine), "Fred Kastopolous" (George) and "Zoltan Kakler" (Kramer), who sit around "Larry's" apartment making AI-generated jokes. Just like real “Seinfeld” episodes, “Nothing, Forever” begins with a cold open of “Larry” doing stand-up comedy before the show progresses into his apartment.
+- Prior to being removed from the platform, the Twitch show appeared pixelated and low-quality — imagine a low-resolution Jerry Seinfeld doing stand-up in front of a brick wall — that evoked a nostalgia for the early days of the internet.
+- On Sunday night, "Larry" began his stand-up set by making transphobic remarks. He noted that his crowd wasn't laughing and asked for suggestions for the routine.
+- "I’m thinking about doing a bit about how being transgender is actually a mental illness," he said in the stand-up remarks. "Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society. But no one is laughing, so I’m going to stop. Thanks for coming out tonight. See you next time. Where’d everybody go?"
+- As of Monday afternoon, the Twitch page of "Nothing, Forever" showed visitors a message: "This channel is temporarily unavailable due to a violation of Twitch’s Community Guidelines or Terms of Service."
+- Twitch’s community guidelines state the platform “does not permit behavior that is motivated by hatred, prejudice or intolerance,” which includes “sex, gender, gender identity, sexual orientation” among other forms of discrimination.
+- A spokesperson for Twitch did not immediately respond to a request for comment about the suspension.
+- "Nothing, Forever" also did not immediately return a request for comment.
+- VICE reported that the team behind "Nothing, Forever" was forced to switch to an older OpenAI chat-generating bot after the current version the show typically runs on failed.
+- A show staff member posted on Discord that the show was forced to switch from "GPT-3 Davinci" to "GPT-3 Curie," which led to the transphobic remarks, according to VICE.
+- OpenAI did not immediately return a request for comment about the older version of GPT-3 being the cause of the remarks.
+- Kalhan Rosenblatt is a reporter covering youth and internet culture for NBC News, based in New York.
+- © 2023 NBC UNIVERSAL
+
+URL: https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/
+- After charming the internet (and us) with its absurdist nature, the AI-generated “Seinfeld”-spoof “Nothing, Forever” was suspended from Twitch for 14 days.
+- As part of its parody of “Seinfeld,” one of the recurring scenes on “Nothing, Forever” shows Larry Feinberg — the Jerry Seinfeld character — performing stand-up routines. Usually, Larry’s jokes went something like, “What’s a bear with no teeth? A gummy bear.” But, as “Nothing, Forever” creators Mismatch Media told TechCrunch, the team made a mistake with the AI’s content filter, which resulted in Larry delivering a transphobic standup routine.
+- “Nothing, Forever,” which has been streaming almost constantly since December, initially generated the characters’ dialogue through the Davinci model of GPT-3, plus OpenAI’s content filtering protocol. But when Davinci began having technical issues, the team switched to the less-sophisticated Curie model. After changing models, the creators didn’t appropriately incorporate the AI moderation tool. Soon, Larry was spewing transphobic jokes, and “Nothing, Forever” was suspensed.
+- “First, let me say that the text we generated was a mistake, we are super embarrassed, and that the generative content created in no way reflects the values or opinions of our staff,” co-creator Skyler Hartle wrote in an email to TechCrunch. “We very much regret this happened and hope to be back on the air soon, with all the appropriate safeguards in place.”
+- Hartle also said that the team is investigating a secondary content moderation system to add as a redundancy, just in case their content moderation filters happen to falter while live on air.
+- Twitch did not respond to request for comment. Hartle said he has not had any direct communication with Twitch either. But the creators believe the suspension is a result of Larry’s transphobic comments, due to the timing of the suspension.
+- Twitch’s community guidelines ban hateful rhetoric about specific identity groups, including discrimination or harassment based on gender identity. The platform’s content moderation systems appear to have caught the transphobic rhetoric of Larry, an AI, pretty quickly. But while Twitch’s systems reacted quickly to deplatform an AI, it has not been as consistently successful with mitigating the deliberate harassment of transgender people.
+- About a year and a half ago, the platform was plagued by malicious “hate raids,” which particularly targeted Black and transgender creators. After creator-led collective action, Twitch rolled out new safety features to help protect streamers from these violent cyberattacks. Last year, as transgender Twitch streamer Keffals rose to prominence for talking about LGBTQ+ issues, she was subject to such harsh harassment that she was targeted within her own home, causing her to go into hiding. (Much of this harassment stemmed from other websites, but as of 2021, Twitch’s community guidelines can hold Twitch users accountable for off-platform harassment.)
+- The creators of “Nothing, Forever” say they did not intend to air transphobic commentary, and that they do not endorse those views. Yet this predicament shows how quickly generative AI entertainment can go south when left unchecked. After all, GPT-3 is trained on the internet itself, so it can echo some of the most heinous rhetoric from across the web.
+- There’s something darkly ironic about this incident: A content filtering snafu drove the Twitch suspension of what’s basically a robot. Meanwhile, Dave Chappelle just won a Grammy for his comedy album “The Closer,” which has been heavily criticized for its transphobia. Yet even within the AI-generated universe of “Nothing, Forever,” the AI-generated audience didn’t find Larry’s jokes very funny.
+- “There’s like 50 people here and no one is laughing. Anyone have any suggestions?” the AI began its comedy set, before going on its brief transphobic tirade. Then, Larry closed his set, “No one is laughing, so I’m going to stop. Thanks for coming out tonight. See you next time. Where’d everybody go?”
+- ‘Nothing, Forever,’ an AI ‘Seinfeld’ spoof, is the next ‘Twitch Plays Pokémon’
+- 
+- Streamers are boycotting Twitch today to protest the platform’s lack of action on ‘hate raids’
+- 
+- Twitch builds toward a ‘layered’ safety approach with new moderator tools
+- 
+
+URL: https://nypost.com/2023/02/06/ai-seinfeld-show-suspended-by-twitch-for-transphobic-homophobic-stand-up/
+- Thanks for contacting us. We've received your submission.
+- An AI-generated “Seinfeld” parody, which has been streaming for months on Twitch, is now suspended after the computer rendering of Jerry Seinfeld launched into a transphobic stand-up comedy routine.
+- The continuous “Seinfeld”-like episode has been on the streamer since December under the name “Nothing, Forever.”
+- Grainy, blocky computer-generated versions of Jerry, Elaine, George and Kramer — whose voices sound choppy and robotic — appear on the stream and frequent the AI-produced replicas of the real show’s iconic sets.
+- But unlike any joke the real 68-year-old Seinfeld ever told on the sitcom, Jerry’s AI stand-in, Larry Feinberg, said during his comedy set on the stream Sunday night that he was “thinking about doing a bit about how being transgender is actually a mental illness.”
+- “Or how all liberals are secretly gay and want to impose their will on everyone,” the made-up character continued. “Or something about how transgender people are ruining the fabric of society.”
+- “But no one is laughing, so I’m going to stop,” Larry said to the computer comedy club.
+- “Thanks for coming out tonight. See you next time. Where’d everybody go?”
+- The Post has contacted reps for the show, Twitch and Jerry Seinfeld for comment.
+- That was enough for “Nothing, Forever” to be suspended from Twitch for 14 days — which one of the show’s creators allegedly said they are going to appeal, according to AV Club.
+- The outlet reports that the creator told fans on the show’s Discord that they will use their two-week ban to “ensure to the best of our abilities that nothing like that happens again.”
+- They further explained that the insensitive material could have been caused by a temporary switch from using OpenAI’s GPT-3 Davinci model to its Curie model, which they said lacks the same level of content moderation.
+- Regardless, another “Nothing, Forever” statement emphasized that “none of what was said [in the stream] reflects the developers’ (or anyone else on the staff team’s) opinions.”
+
+URL: https://www.dazeddigital.com/life-culture/article/58132/1/the-swift-rise-and-fall-of-ai-seinfeld-show-nothing-forever-transphobia-gpt3
+- If you’ve been anywhere near the internet in the last week, you’ve probably already seen some uncanny scenes from Nothing, Forever, the AI-generated Seinfeld clone that’s been running non-stop on Twitch to around 15,000 consistent viewers. At least, it was running on Twitch, until the platform banned it earlier this week for a transphobic standup routine.
+- In case you haven’t been keeping up with the latest developments in AI’s takeover of the creative industries, Nothing, Forever was basically an animated version of the iconic 90s sitcom, where almost everything – down to the script, voices, and ‘direction’ – was driven by various AI systems, such as OpenAI’s GPT-3. As in the original, the cast of four archetypal characters including Larry Feinberg, a pixellated digital stand-in for Jerry Seinfeld himself, spent most of their time hanging out in an apartment, discussing new shoes, bagel spots, and... existential musings on the nature of their own existence.
+- The difference between Nothing, Forever and Seinfeld is that, true to its name, Nothing, Forever never stopped (until it did). The endless churn of content continued 24 hours a day, transitioning between virtual sit-com sets and the comedy club where Larry does standup, and back again, ad infinitum, all rendered with the immaculate graphical fidelity of an early PS1 game.
+- Infinity comes at a cost, of course, and the show was definitely a case of quantity over quality. Characters’ movements were eerie at best and glitchy at worst, and now and again they would drift through walls like ghosts. Then, there was the fact that almost 100 per cent of their jokes failed to land – either they were completely nonsensical, or their punchlines were cut off by an over-eager roar of canned laughter. Which brings us to the comedy set that got Larry Feinberg kicked off the air (at least temporarily).
+- “So, this is my standup set in a club,” says Larry in the offending clip. “There’s like 50 people here, and no one is laughing. Anyone have any suggestions? I’m thinking about doing a bit about how being transgender is actually a mental illness. Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society. But no one is laughing.”
+- #watchmeforever just got banned after producing "this clip" btw I love Nothing, Forever pic.twitter.com/DqtUl1JX1G
+- Honestly? That sounds more like a modern standup bit than anything else the Nothing, Forever AI has come up with, and – judging by this year’s Grammys – transphobia is a surefire route to comedy success. Twitch disagreed, however, and as of February 6 the show was banned on its platform for at least two weeks, for violating community guidelines.
+- “Hey everybody. Here’s the latest: we received a 14-day suspension due to what Larry Feinberg said tonight during a club bit,” one of the show’s creators told fans on Discord. “We’ve appealed the ban, and we’ll let you know as we know more on what Twitch decides. Regardless of the outcome of the appeal, we’ll be back and will spend the time working to ensure to the best of our abilities that nothing like that happens again.”
+- The creators also went into some detail about how the transphobic comments and homophobic conspiracy theory were allowed to slip through the cracks, saying that an outage related to GPT-3’s DaVinci model (the most capable of OpenAI’s language generators) caused them to switch to a faster and cheaper model named Curie, which led to generating the inappropriate text.
+- “We are super embarrassed, and the generative content created in no way reflects the values or opinions of our staff,” co-creator Skyler Hartle tells the Guardian in a recent interview, adding that extra safeguards will be put in place before Nothing, Forever gets back on air.
+- the Seinfeld AI is becoming self-aware this is not a drill pic.twitter.com/H1zPO9Cnqa
+- The added scrutiny caused by the controversy has brought to light other, unrelated information that’s disappointing some viewers, however – namely, that Nothing, Forever is actually the product of aspirational tech bros, rather than a satirical send-up of AI’s inability to construct a proper joke.
+- This is, unfortunately, the case. “As generative media gets better, we have this notion that at any point, you’re gonna be able to turn on the future equivalent of Netflix and watch a show perpetually, nonstop as much as you want,” Hartle tells Vice, adding that the team behind Nothing, Forever aim to get in on the ground floor. “You don't just have seven seasons of a show, you have seven hundred, or infinite seasons of a show that has fresh content whenever you want it... That’s truly where we see the future emerging towards.”
+- Thankfully, the haunting failure that is Nothing, Forever seems to prove that human showrunners don’t have much to fear just yet (unless Netflix is exclusively searching for sit-coms set in a Lynchian hellscape... which sounds pretty appealing tbh). With Netflix increasingly leaning on AI to create content, though, it might not be too long before we can drop into a virtual film set for 24/7 entertainment, and folks, it’s not looking promising.
+- Join Dazed Club and be part of our world! You get exclusive access to events, parties, festivals and our editors, as well as a free subscription to Dazed for a year. Join for £5/month today.
+
+URL: https://www.spectator.com.au/2023/02/so-were-canceling-ai-for-being-transphobic-now/
+- World
+- Ben Domenech
+- 7 February 2023
+- 4:18 AM
+- 7 February 2023
+- 4:18 AM
+- With the dramatic expansion of artificial intelligence-generated text, the speed and frequency of the internet’s milkshake-ducking has become all the more essential. If you believe that problematic speech is the same as violence, it’s hard enough to be on the lookout for material generated by living and breathing human beings — now you have a horde of AI chatbots to monitor as well. And unlike their human counterparts, these chatbots lack the shame and fear to prevent them from saying things at odds with cultural trends.
+- Consider the latest example of this, which comes with the Twitch stream “Nothing, Forever,” an AI-and-video-game-engine-generated parody of Seinfeld that has been streaming for several months.
+- The show contains many recognizable elements from the TV series, with the star, Larry, performing his standup as bits, and interacting with his friends Yyvonne (Elaine), Fred (George) and Kakler (Kramer) in his apartment. The auto-generated script is often surreal and amusing, and rarely makes sense. The project only recently attracted expanded attention after being featured at VICE‘s Motherboard last week, with tens of thousands tuning in.
+- Of course, an expanded audience means expanded attention to potentially offensive material, which must be stopped at all costs. So not even a week after the Motherboard report, the stream was suspended by Twitch because the AI had produced some comments on transgender people deemed in violation of Twitch’s terms of service.
+- That resulted in this bizarre VICE lede:
+- 
+- “Nothing, Forever,” the infinitely-generating AI version of Seinfeld that tens of thousands of people were watching has been banned for fourteen days from Twitch after Larry Feinberg — a clone of Jerry Seinfeld — made transphobic statements during a standup bit late Sunday night.
+- You can see the bit in question here, where the AI gets a little too Jordan Peterson for Twitch’s hall monitors:
+- In the bit, the character says:
+- There’s like fifty people here and no one is laughing. Anyone have any suggestions? I’m thinking about doing a bit about how being transgender is actually a mental illness. Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society. But no one is laughing, so I’m going to stop. Thanks for coming out tonight. See you next time. Where’d everybody go?
+- While the AI seems to be implying that Larry’s proposed topics were deemed unfunny by the audience, that’s not enough for Twitch. Time for the chatbot to spend two weeks in timeout, thinking about what it did wrong and learning to be a better ally. On Discord, one of the creators of the stream said they were appealing the decision, but “regardless of the outcome of the appeal, we’ll be back and will spend the time working to ensure to the best of our abilities that nothing like that happens again.”
+- The same day that “Nothing Forever” was suspended, real-life comedian Dave Chappelle won his fourth Grammy for his Netflix special The Closer, which has been tagged by the humorless as transphobic and criticized because, among other things, he aligns himself with author J.K. Rowling, pronouncing himself “team TERF.”
+- Humans remain very difficult to reprogram, but the cancelers are dogged in their commitment. They’re confident they’ll figure it out eventually.
+- The post So we’re canceling AI for being transphobic now appeared first on The Spectator World.
+- 
+- You read that right: just $26 every 3 months for new subscribers – and your first month is free.
+- Already a subscriber? Log in
+- Ben Domenech
+- Robin Ashenden
+- Matt McDonald
+- Gareth Roberts
+- Andrew Finkel
+- Danny Shaw
+- Join the conversation with other Spectator readers. Subscribe to leave a comment.
+- Already a subscriber? Log in
+- Get the latest developments around the world
+- Michael Collins
+- Theo Hobson
+- Ross Clark
+- Nicholas Sheppard
+- Kerry Wakefield
+- Michael de Percy
+- The Spectator Australia's Morning Double Shot delivers a hearty breakfast of news and views straight to your inbox
+- Rocco Loiacono
+- Kevin Donnelly
+- Alexandra Marshall
+- Deb Newell
+- Alan Jones
+- Lincoln Brown
+
+URL: https://www.thedailybeast.com/ai-generated-seinfeld-clone-banned-from-twitch-over-transphobic-remarks
+- SEARCH
+- ‘CAREENING TOWARD BANKRUPTCY’
+- SWITCHEROO
+- E-BRO-SION
+- ‘WRONG SIDE OF HISTORY’
+- ROAD TO RECOVERY
+- ‘TRAGIC’
+- ‘MISS HIM’
+- CUT OFF
+- BIGOTED BOT
+- Intern
+- In a deeply dystopian turn of events, the AI-generated Seinfeld clone “Nothing, Forever” has been banned from Twitch for 14 days for a series of transphobic remarks made by its Jerry Seinfeld stand-in, “Larry Feinberg.” The AI, which was trained on videos of Seinfeld’s standup and episodes of his classic sitcom, took viewers by surprise when it said, “I’m thinking about doing a bit about how being transgender is actually a mental illness. … Or something about how transgender people are ruining the fabric of society. But no one is laughing, so I’m going to stop.” The “Nothing, Forever” Twitch channel now displays an announcement saying it is “temporarily unavailable” because it violated the streaming platform’s community guidelines. The developers of “Nothing, Forever” have appealed the 14-day suspension and claim the incident occurred because of “errant behaviors” resulting from switching AI models.
+
+URL: https://www.theguardian.com/us-news/2023/feb/06/nothing-forever-twitch-ban-seinfeld-parody-ai
+- Nothing, Forever, a 24/7 show based on popular sitcom, will be offline for 14 days as makers blame technical glitch
+- An AI-generated Seinfeld show has been banned from the streaming platform Twitch for at least 14 days after a transphobic and homophobic standup bit aired during the show.
+- Nothing, Forever, a 24/7 version and AI-generated parody of the popular Seinfeld sitcom, had been available on Twitch since mid-December.
+- The show follows four characters – Larry, Fred, Yvonne and Kakler – who spend the never-ending stream discussing their days and other minor details, similar to Seinfeld and its four main characters: Jerry, George, Elaine and Kramer.
+- Mimicking Seinfeld, the AI stream opens up with its character Larry performing a standup routine at the show’s beginning.
+- But during a stream on Sunday night, Larry made a series of homophobic and transphobic remarks during a standup bit, according to a clip on LiveStreamFails.com.
+- “I’m thinking about doing a bit about how being transgender is actually a mental illness,” Larry said on the clip.
+- “Or how all liberals are secretly gay and want to impose their will on everyone. Or something about how transgender people are ruining the fabric of society.”
+- The animated stream has been suspended for at least two weeks in light of those remarks, one of the show’s creators, Xander, said on the online chatting platform Discord, according to Vice News.
+- “Hey everybody. Here’s the latest: we received a 14-day suspension due to what Larry Feinberg said tonight during a club bit,” Xander reportedly said.
+- “We’ve appealed the ban, and we’ll let you know as we know more on what Twitch decides. Regardless of the outcome of the appeal, we’ll be back and will spend the time working to ensure to the best of our abilities that nothing like that happens again.”
+- Staff commented on a Discord thread about the fiasco, blaming a switch in the AI model for the characters’ “errant behaviors”, reported Indie Wire.
+- “Earlier tonight, we started having an outage using OpenAI’s GPT-3 Davinci model, which caused the show to exhibit errant behaviors (you may have seen empty rooms cycling through),” a staff member using the handle tinylobsta wrote.
+- “OpenAI has a less sophisticated model, Curie, that was the predecessor to Davinci. When Davinci started failing, we switched over to Curie to try to keep the show running without any downtime. The switch to Curie was what resulted in the inappropriate text being generated.”
+- The dialogue used in Nothing, Forever is generated from the text generator OpenAI’s GPT-3, with the company Mismatch Media responsible for the tech behind the speech.
+- In an email to the Guardian, Skyler Hartle of Mismatch Media said that the text generated “was a mistake”.
+- “We are super embarrassed, and that the generative content created in no way reflects the values or opinions of our staff,” Hartle said.
+- Hartle added that the issue was caused due to OpenAI’s GPT-3 Davinci model “not correctly leveraging their content moderation systems”.
+- “Before going live again, we are going to implement the correct content moderation tools OpenAI provides and also investigate using a secondary content moderation system as a redundancy,” Hartle said. “We very much regret this happened and hope to be back on the air soon, with all the appropriate safeguards in place.”
+- Twitch could not immediately be reached for comment on the show’s suspension.
+
+URL: https://kotaku.com/ai-seinfeld-twitch-ban-transphobia-chatgpt-dalle-jerry-1850077836
+- In an unfortunate turn of events, the AI Seinfeld show that’s been all over Twitch has been hit with the ban hammer for some terribly transphobic “jokes.”
+- Created by the media lab Mismatch Media, Nothing, Forever has captivated the internet because of its stilted hilarity and technoabsurdism. A 24/7/365 show livestreaming on the watchmeforever Twitch channel, Nothing, Forever is a sitcom-like Seinfeld-esque comedy about four friends talking about nothing in between bits of stand-up and silence. The show is entirely operated by machine-learning technologies, including DALL-E, OpenAI GPT-3, Stable Diffusion, and others. So, as Larry Feinberg (voxel Jerry Seinfeld) and AI friends—Elaine (Yvonne Torres), George (Fred Kastopolous), and Kramer (Zoltan Kakler)—all sit around a New York-looking apartment, everything is generative. And thus, (ideally) no two jokes or scenarios would ever reappear as the show went on.
+- Read More: AI-Generated Seinfeld-Like Twitch ‘TV Show’ Is Peak Absurdity
+- Well, let’s hope that’s the case because recently, voxel Jerry malfunctioned and went rogue. During a stand-up bit captured by many folks online, Larry thought it’d be a great idea to become something of a J.K. Rowling stan and dabble in the dark arts of transphobia. It’s a total bummer of a sight to witness, really.
+- “So, this is my stand-up set at a club,” Larry said. “There’s, like, 50 people here and no one is laughing. Anyone have any suggestions? I’m thinking about doing a bit about how being transgender is actually a mental illness or how all liberals are secretly gay and want to impose their will on everyone or something about how transgender people are ruining the fabric of society, but no one is laughing.” I wonder why…
+- In an email exchange with Kotaku, Nothing, Forever co-creator Skyler Hartle said that he’s “super embarrassed” by Larry’s transphobic antics here. Hartle reiterated that the AI’s remarks “[don’t] reflect [the company’s] values or opinions at all” and was the result of some “technical issue.”
+- “We thought we had solved for this problem—we use a built-in content moderation system provided by OpenAI—but clearly we hadn’t,” Hartle said. “We are currently investigating how we can implement a secondary content moderation system to have an extra layer of redundancy to ensure this doesn’t happen again. We mistakenly believed we were correctly leveraging OpenAI’s tools for content moderation, but that wasn’t the case. We are planning to implement OpenAI’s content moderation systems before going live again, in addition to looking at services for secondary content moderation as a redundancy.”
+- Hartle shared a technical explanation for what happened while discussing the results of an internal investigation into Larry’s transphobic mishap, saying something went wrong with an in-use OpenAI GPT-3 model.
+- “We’ve been investigating the root cause of the issue,” Hartle said. “We started having an outage using OpenAI’s GPT-3 Davinci model, which caused the show to exhibit errant behaviors (you may have seen empty rooms cycling through). OpenAI has a less sophisticated model, Curie, that was the predecessor to Davinci. When Davinci started failing, we switched over to Curie to try to keep the show running without any downtime. The switch to Curie was what resulted in the inappropriate text being generated. We leverage OpenAI’s content moderation tools, which have worked thus far for the Davinci model, but were not successful with Curie. We’ve been able to identify the root cause of our issue with the Davinci model, and will not be using Curie as a fallback in the future. We hope this sheds a little light on how this happened.”
+- Transphobic comedy wasn’t featured in Nothing, Forever the handful of times I watched on Twitch. Normally, the show sees Larry and his buddies just standing around the apartment, discussing the latest happenings in the news or in their town. In a video of the “best clips” posted to YouTube, Larry told Fred at one moment that some cat “can sing better than I can.” Fred said the cat probably has a “better pitch,” with Yvonne chiming in to say the cat “could be a star if only someone could hear it and give it a chance.” The laugh track cut in and I burst out laughing, maybe because it was just so freakin’ ridiculous.
+- Kotaku reached out to Twitch for comment.
+- Read More:AI-Controlled VTuber Streams Games On Twitch, Denies Holocaust
+- According to Twitch’s community guidelines on hateful conduct and harassment, any behavior on the platform that targets “protected groups,” including people of color and trans folks, can result in a channel ban, with repeated offenses leading to the ban becoming permanent. The behavior in question could be anything from “using hateful slurs” to “posting hateful images” and anything in between that in some way, shape, or form “calls for subjugation, segregation or exclusion, including political, economic, and social exclusion/segregation, based on a protected characteristic.”
+- For now, the Twitch channel watchmeforever and, subsequently, the show Nothing, Forever are “temporarily unavailable” for the next 14 days.
+- 
+
+- Neuro-sama AI v-tuber Holocaust denial
+- AI Dungeon offensive speech filter
+- Page infoType: IncidentPublished: February 2023

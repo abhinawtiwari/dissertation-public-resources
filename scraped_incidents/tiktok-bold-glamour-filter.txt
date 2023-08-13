@@ -1,0 +1,331 @@
+- Occurred: March 2023
+- Can you improve this page?Share your insights with us
+- TikTok's new Bold Glamour filter is dividing users, with some complaining it distortes reality, reinforces unattainable beauty standards, and causes anxiety. Some are calling for the filter to be banned.
+- The filter, which offers users a flawless complexion and irons out skin spots, has been downloaded millions of times and embraced enthusiatically by teenage girls and others.
+- But beauty professionals have railed against it, with some calling it 'profoundly disturbing' and warning it could easily impact users' mental health.
+- Beauty brand Dove encouraged users to post videos turning their backs on the filter using hashtags such as #TurnYourBack and #NoDigitalDistortion.
+- TikTok had previously been found to have been automatically touching up the videos of some users' faces without notifiying them or asking for their consent.
+- Operator: Bytedance/TikTok Developer: Bytedance/TikTokCountry: USA; Global Sector: Media/entertainment/sports/arts Purpose: Create flawless complexion Technology: Machine learning Issue: Safety Transparency: Marketing
+- TikTok Bold Glamour videos
+URL: https://www.cosmopolitan.com/entertainment/celebs/a43203022/tiktok-bold-glamour-filter/
+- “I don’t look anything like this.”
+- Filters are nothing new on social media. Hard stop. They range from the very obvious (think Snapchat’s OG dog ears filter) to the much more subtle (think beauty filters like Facetune that are always there, tempting you to digitally glow up your selfie before posting), but they’re here, ingrained in the social media landscape.
+- TikTok’s new “Bold Glamour” filter is somehow both of these things—it’s obvious in that it, in many cases, completely transforms the face of the person using it, but it’s subtle in how impressively, seamlessly, and, TBH, realistically it works its digital magic. The filter is already certifiably viral and has been used in more than 9 million videos and the #BoldGlamour tag has more than 355 million views. In addition to being massively popular, (from an objective look at its numbers, at least), the filter is also proving to be a lightning rod for criticism on multiple fronts. Here’s everything you need to know about the Bold Glamour filter controversy.
+- To start, let’s explain exactly what the Bold Glamour filter does. Bold Glamour is a beauty filter that simulates a set of conventionally attractive features (thinner nose, more defined jawline, fuller lips) and makeup techniques (smooth skin, full, arched brows, smoky eyes, contouring—you get the idea).
+- What makes Bold Glamour standout isn’t the beauty look it projects onto its users’ faces but just how well it projects it. Unlike many of its predecessors in the beauty filter world that were easy to spot, Bold Glamour blends flawlessly into the user’s face in a way most of us honestly haven’t seen before. It even appears to be able to adjust and remove makeup from the filter when the camera detects masculine features.
+- Both of these aspects—the beauty side and the tech side—are important in understanding why TikTok’s Bold Glamour filter is so controversial.
+- The biggest outcry about the Bold Glamour filter comes from people who are worried about how it will affect the self-esteem and self-image both of those who use it and those who just see it in their feeds.
+- In a video on the topic, TikToker Hira Mustafa shared her concerns about the filter and reflected on her own past use of filters on Instagram, the impact it had on her self-esteem, and why she stopped using filters entirely.
+- “I don’t want to make other people feel bad, so I stopped using filters,” she explained. “I really encourage you to not use these filters. It has a real impact on our mental health—and on anyone that views that content.”
+- Research shows that young girls are especially vulnerable to the negative effects of filters and photo retouching. A Dove study found that 85% of girls had used retouching apps by the time they were 13—and the negative impact on their mental health can be significant.
+- “Dove Self-Esteem Project research shows that more than half of girls say they can’t live up to the beauty standards projected on social media, and 1 in 2 girls say toxic beauty content on social media causes low self-esteem—this filter illustrates why young people feel this way,” Firdaous El Honsali, Dove global vice president, told Marie Claire UK.
+- There are also concerns about beauty filters like Bold Glamour prompting users to undergo actual cosmetic surgery to achieve their filtered look IRL—and for the record, these concerns are not unfounded. A 2021 study in the American Journal of Cosmetic Surgery found that “the use of face-altering software on social media has a significant association with subsequent desire to undergo facial cosmetic procedures” and the American Academy of Facial Plastic and Reconstructive Surgery recently reported that increasing numbers of people under 30 (aka zennials) are seeking cosmetic surgery or injectables.
+- For this reason, some even see the Bold Glamour filter (and other effects like it) as bumping up against TikTok’s Effect Guidelines, which state, “We do not promote content depicting participation in activities that could lead to harm. We also do not permit content that encourages others to take part in dangerous activities (for example, the depiction and promotion of cosmetic surgery such as facelifts or rhinoplasty).”
+- And then there’s the worry that Bold Glamour’s next-level tech could lead to even greater problems with body dysmorphia.
+- Related to the concerns about unrealistic body image, poor self-esteem, and body dysmorphia that filters can fuel are specific concerns about the role that the technology behind the Bold Glamour filter might play in exacerbating those problems. Unlike earlier filters that were readily identifiable as such, it would be easy to mistake a Bold Glamour-filtered selfie or video as real life.
+- Adding to the realness of the filter is the fact that nothing seems to shake it. Some TikTok users have tried to test the filter, only to be amazed as it stays perfectly in place even as they, say, literally try to wipe it off:
+- So what makes Bold Glamour capable of ushering in the next evolution of beauty filters? The Verge attempted to get to the bottom of the technology that's making Bold Glamour's seamless filtering possible and, while they speculate that AI is involved, TikTok reportedly ignored multiple requests from the publication to confirm or deny that theory. The Verge didn’t stop there, however, turning to Luke Hurd, an augmented reality consultant who’s worked on Snapchat and Instagram filters, for insight about what (potentially) makes Bold Glamour tick (and tock? Sorry. Couldn’t not.).
+- According to Hurd, the filter seems to be using machine learning technologies, specifically Generative Adversarial Networks, or GANs, which he says work by “pit[ting] two competing neural networks against each other in a fist fight to the death.” Those competing neural networks in this case happen to be the image of your face being accurate captured by your phone's camera and the bold/glamorous version of your face TikTok has been programmed to create. That programming includes a huge dataset of images that are used to create the Bold Glamour aesthetic and in the fight to the death, those images are matched against your actual features until the filter lands on a way to combine the two original neural networks (your actual face and the filter’s ideal you) into one output.
+- Obviously, this is happening faster than our brains can truly comprehend so that the filter achieves what Hurd describes as a “video framerate,” which is what makes the Bold Glamour filter possible.
+- This bit of technological wizardry can quickly venture into Dark Arts territory when, instead of a simple beauty makeup, the filter imposes much more drastic changes to a user’s look when it’s turned on. This is what happened to TikToker @JoannaJKenny, who pointed out in a video how the Bold Glamour filter altered her appearance to an unrecognizable degree.
+- “I don’t look anything like this, but the filter itself looks natural,” she explained in a clip with the filter active before heartbreakingly describing herself as “ugly” with the filter off.
+- “I don’t think my brain knows how to deal with looking like this one minute, and then this the next,” she says of the jarring effect of turning the filter off.
+- Wondering When AG7 Drops? Fans Are Sleuthing...
+- A Full Timeline of This Ariana/Tom/Raquel Scandal
+- Chrishell Reveals Why Amanza Blocked Her on Insta
+- An Investigative Timeline of Timmy and Kylie
+- The Moment Shiv Changed Her Mind About Kendall
+- Behold: The Roy Siblings' Post-Show Fates
+- 'Succession's Poster Fully Hinted at the Finale
+- Tom Wambsgans' Last Name Is Full of Spoilers
+- Twitter Is Losing It Over the 'Succession' Finale
+- Kourtney and Travis Are Officially "Done with IVF"
+- Hailey Bieber Layers a Wet Tee Over a Tiny Bikini
+- Here’s What Shawn and Camila’s ’Ship Was Rly Like
+- A Part of Hearst Digital Media
+- We may earn commission from links on this page, but we only recommend products we back.
+- ©2023 Hearst Magazine Media, Inc. All Rights Reserved.
+
+URL: https://www.cosmopolitan.com/uk/beauty-hair/beauty-trends/a43177683/tiktok-bold-glamour-filter/
+- Poreless skin, sculpted features, defined brows and pillowy lips – the AI beauty filter is distorting reality
+- It seems the days of Snapchat’s ‘dog filter’ are well and truly behind us. We’re hanging up our animal ears and anime heart eyes, and staring down a new era of hyperreality. Where filters used to be wacky and low-stakes, a new filter on TikTok is presenting a more sinister and serious dystopian reality. The ‘Bold Glamour’ filter has been causing discussion as of late – because it looks so good (well, real), which means, it’s very, very bad.
+- ‘Bold Glamour’ is a sophisticated AI technology, doing some unrealistic manipulation of a user’s features to provide a digital ‘fix’ – once applied, users are fitted with hollowed cheekbones, narrower noses, and poreless, airbrushed skin. Eyebrows are sharp, bronzer is placed high, and there’s a hint of metallic eyeshadow. It’s so realistic, some users are saying it should be banned.
+- At time of writing, there’s 10.6 million videos on TikTok using the Bold Glamour filter. Variations of the hashtag amount to over 385 million views.
+- It’s incredibly innovative technology that sets it apart from some of the other popular beauty filters on the app – like Blue Eyes, Tanned Cute, Pretty Baby x Lashes. Unlike some filters that glitch or slip as you move, this is created using AI, so you can yank your cheeks as much as you like, it sticks around.
+- The weariness around the effect is echoed across the app; “so glad these filters existed only after my prefrontal cortex fully developed,” says user @alexandriamorgz. “New confidence reducer just dropped” @yemaya captioned the filter.
+- It gives you some faith that the TikTok comment sections are being filled with proclamations of self-love and encouragement. At the same time, there’s also a worrying subsection forming of people internalising the results.
+- When I looked at the comments on just one video, they were pretty unsettling:
+- 
+- Others are using it as makeup inspo, creating “Bold Glamour makeup tutorials”, like influencer Mikayla Nogueira. She overhauls her usual everyday makeup look to do higher contour and a more bronzed tone. However, she does preface the tutorial to say she “prefers herself without the filter, totally”.
+- A study by the University of London’s Gender and Sexualities Research Centre found that 90% of young women used filters or editing software on their photos. The main goals were to “reshape their nose, appear to weigh less, and whiten teeth”. While research commissioned by the Dove Self-Esteem Project found that 80% have used a filter or used a retouching app to change the way they look by the age of 13.
+- Considering two out of every five TikTok users are between the ages of 18-25, with 27.37% aged just 12-17, it seems this issue is only going to get bigger, and younger. With female users making up a hefty 27.94% of the TikTok audience, it’s hard to feel like these kinds of filters being created aren't targeted at women.
+- Comestic surgeon Dr Monica Kieu, broke down in clinical terms what the AI filter was doing to her face; “overall, it gave me smoother-looking skin. My nose has been contoured to look slimmer and more refined and both the upper and lower lips are plumper”. Even though tweakments can provide both these changes, Dr Kieu concluded; “it makes me feel better to know this can be done with makeup and good lighting”.
+- It would be naive to think that filters aren’t going to be, more and more, a part of our future, but the way in which they’re developing rapidly into mirroring a deceiving, high gloss version of reality is looking more problematic as they grow. And when we’re all about busting societal beauty standards and expanding the idea of what beauty is, a homogenous, one size fits all ‘Bold Glam’ filter or otherwise feels all the more grim. How will we know what’s real and what’s not?
+- What is skin purging? Here's all you need to know
+- Kim looks so different with new wet-look fringe
+- Welcome to the world of skin cycling
+- Skin + Me Review – How does it work?
+- Do we need to start taking filler more seriously?
+- Is Rhode skincare worth the hype?
+- A guide to upper lip hair removal
+- Is the best skin of your life one orgasm away?
+- Best skincare products for rosacea and redness
+- 5 skin experts on how to tackle blemishes
+- "I tried a skincare routine for eczema-prone skin"
+- What are ombré brows? Here's what you need to know
+- Cosmopolitan, Part of the Hearst UK Fashion & Beauty Network
+- Cosmopolitan participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+- ©2023 Hearst UK is the trading name of the National Magazine Company Ltd, 30 Panton Street, Leicester Square, London, SW1Y 4AJ. Registered in England 112955. All Rights Reserved.
+
+URL: https://www.washingtonpost.com/technology/2023/03/08/tiktok-bold-glamour-filter-effect-generative-ai/
+- A real-time special effect has flooded TikTok in recent weeks, chiseling chins, plumping lips and serving Kardashian-style makeup contours for anyone with a smartphone. While it’s being touted as a remarkably convincing beauty filter, AI researchers say the effect leaves no clues to its presence, giving it unprecedented capacity to manipulate people inside and outside an app that has elicited scrutiny from governments around the world.
+- Bold Glamour, which has been downloaded more than 16 million times since its release last month, offers one of the most convincing effects that any person with a smartphone can use to create an enhanced version or avatar of themselves in real time, say independent filter creators, researchers and creative technologists.
+- Unlike other photo filters, Bold Glamour doesn’t falter when there’s too much motion or if a hand passes in front of the user’s face. It alters faces in real time, and there are no stray fake eyelashes. Users have been pulling their cheeks and tugging their eyebrows because they can’t believe what they’re seeing.
+- TikTok spokesperson Alexa Youssefian declined to discuss the technology behind the filter, but users and researchers say that the filter reads people’s skin tones, perceived gender and hair color, then determines the amount of makeup, lip fillers and skin tightening to apply for a certain SoCal influencer look. And AI may be driving that process.
+- “It looks like the filter used Kylie Jenner’s face as a model for a machine learning algorithm, and then blended her face onto mine,” Laura Gouillon, a social media filter creator, told The Washington Post.
+- The effect is probably teaching itself makeup techniques, she said. “In previous beauty filters, a face mesh was overlaid onto a user’s face, so if a hand or hair covered the face, the effect glitched,” Gouillon said. “This filter is probably using machine learning technology to blend these features onto your face.”
+- Hany Farid, a computer science professor at the University of California at Berkeley, said the filter is probably using “generative AI,” a technology that studies zillions of pictures and text samples, often scraped from the web, to create new images or words. (Farid was a member of TikTok’s content advisory council from 2020 to 2022.)
+- Luke Hurd, who creates Snapchat and Instagram filters, tweeted that the Bold Glamour effect is using machine learning.
+- “They use something called Generative Adversarial Network,” he said. “They take an image of the user and then compare it to a data set of other images and then redraw your face, pixel by pixel, on the output of your camera feed.”
+- The filter’s accessibility is what sets it apart from previous means of visual manipulation, said Halsey Burgund, a creative technologist in residence at the MIT Open Documentary Lab.
+- How to try the new AI tech everyone is talking about
+- “The capacity to believably manipulate yourself, and soon others, in videos has become commoditized [through this effect], and that is the real jump,” he said. “This tech has lived in labs, companies and in more esoteric settings on the web for a while, but now everyone can do it for free and see how it works.”
+- Videos with Bold Glamour can be posted across the internet without a label signifying that the user has applied the hyperrealistic effect, and researchers warned that it will get increasingly more difficult to believe what’s real online.
+- “The Bold Glam effect is a sign that very soon, technology that creates deepfakes can also be mainstreamed,” said Memo Akten, a professor of computational art and design at University of California in San Diego. “That doesn’t mean that tech will be released, just that it’s a sign it can be released.”
+- Deepfakes are videos or other media that use artificial intelligence to show people doing things that never really happened.
+- Big Tech was moving cautiously on AI. Then came ChatGPT.
+- Bold Glamour videos on TikTok are disclosed with a tag directly on the video for user transparency, but that tag disappears if the videos are moved outside the app.
+- Company spokesperson Youssefian declined to address concerns about the warning label dropping off videos that are exported to other apps. “TikTok can only speak to users’ experience on TikTok,” she said.
+- TikTok parent company ByteDance has been under scrutiny for years over concerns that the Chinese-owned company’s data collection could pose a security threat.
+- Recently, the U.S., Canadian and other governments have mandated that federal employees delete TikTok from government devices, citing concerns about potential surveillance. At least 28 U.S. states have prohibited the app on government devices because of unspecified risks to sensitive and confidential data. A bipartisan group of senators introduced a bill Tuesday that would give the U.S. Commerce Department powers to ban TikTok or other apps based in foreign countries.
+- On Wednesday, White House press secretary Karine Jean-Pierre said the Biden administration has “concerns” about national security as it relates to ByteDance.
+- Aside from the technological concerns the filter has raised, Bold Glamour can also contribute to feelings of inadequacy and unrealistic expectations in users, especially teens and other young people, said Linda Charmaraman, a senior research scientist at the Wellesley Centers for Women.
+- The poreless, airbrushed beauty standard it’s pushing is far from the real-world norm without thousands of dollars’ worth of plastic surgery and makeup.
+- “Beauty filters used without supervision and then internalized by younger people are worrying,” Charmaraman said. “The Bold Glam filter is very realistic, and it’s less obvious that it’s a filter. And that’s why it could be detrimental for the self-worth of younger users, especially women.”
+- People have posted shocked reactions about how “scary good” the Bold Glamour effect is; some said the effect makes them look like they should audition for modeling, and others joked that the filter looks so real that it should be illegal. “I look like a completely different person,” one TikTok user wrote.
+- Apps have been enhancing faces and filtering appearances for years, but it seemed “playful,” said Akten. The Bold Glamour effect, she said, feels “ominous.”
+- “It’s a step toward the world we have seen in sci-fi movies where we can no longer tell what is real,” Akten said. “As a result of that, we will no longer know what to believe or who to trust.”
+- Heather Kelly and Tony Romm contributed to this report.
+
+URL: https://nypost.com/2023/02/28/new-bold-glamour-ai-tiktok-filter-denounced-i-dont-look-like-me/
+- Thanks for contacting us. We've received your submission.
+- It sure is bold.
+- TikTok’s new “Bold Glamour” artificial intelligence filter has people ticked off, declaring it “should be illegal” since the hyper-realistic effect is just too filtered.
+- Appalled users are taking to the app to denounce the terrifying technology — which already has 120 million mentions on the platform — and warn of the “beauty” filter’s possible harmful effects.
+- The new scarily realistic filter using AI to create a full face of makeup look doesn’t seem to glitch or appear fake, many users noted, and some claim the heavily altered results are leading to mental health issues and body dysmorphia.
+- “DO NOT USE THIS FILTER,” content creator Joanna Kenny captioned a video of herself using the scandalous setting.
+- “I don’t want to say this about myself but I actually look ugly when I take this filter off,” the British influencer admitted in the clip. “I was happy with the way I looked until I tried this. These filters have to stop.”
+- Kenny explained that the filter “scares” her and has brought back some traumatic thoughts about her appearance.
+- “I’ve done a lot of work to unlearn that I owe prettiness to anyone,” she added. “I don’t think my brain knows how to deal with looking like this one minute [she said with the filter on] and then this [she said removing the filter] the next.”
+- Advertisement
+- Advertisement
+- Ummm….I hate this bitch.  #boldglamourfilter is not for me.
+- Ophelia, known online as @shoelover99, claimed the beauty filter can “mess with” people’s body dysmorphia and self-esteem as it negatively impacts “impressionable young girls'” ideas of beauty.
+- “I don’t like this,” she said bluntly while showing herself with and without the filter. “Sure I look beautiful, but I look beautiful without this damn thing … I don’t know what the hell I look like, but I don’t even look like me.”
+- Celebrities including Charli XCX and Katherine Heigl have also posted videos using the freaky filter.
+- “Ummm … I hate this b–ch #boldglamourfilter is not for me,” Heigl wrote in a video caption.
+- “I just woke up, this is not what I look like,” Kelly Strack said in a TikTok video of herself with the “Bold Glamour” filter on. “This should be illegal.”
+- Others have expressed their gratitude that “beauty” filters did not exist when they were younger.
+- Face filters first came out in 2015 when Snapchat released “Lenses,” which allowed users to vomit rainbows or snap a picture looking like a cute puppy dog.
+- Filters have since evolved as technology has advanced. Several social media sites, including Instagram and Facebook, have since created “beauty” filters that transform a person’s face to appear airbrushed, chiseled and completely done up with makeup.
+- While this filter may be the most recent and possibly most realistic filter to cause outrage, social media users have been noting the dangers of “beauty” filters for years.
+- Dr. Matthew Schulman, a board-certified plastic surgeon in New York City, coined the term “Snapchat Dysmorphia” in 2018 to describe the rising phenomenon of using filtered selfies as inspiration for plastic surgery.
+- Advertisement
+- “There’s an issue with losing perspective on what you actually look like, and it’s not something we talk about much,” Renee Engeln, professor of psychology at Northwestern University and author of “Beauty Sick: How the Cultural Obsession With Appearance Hurts Girls and Women,” told the Huffington Post.
+- “It’s not enough [to] have to compare yourself to these perfected images of models, but now you’ve got this daily comparison of your real self to this intentional or unintentional fake self that you present on social media. It’s just one more way to feel like your falling short every day,” Engeln added.
+- Meta seemingly attempted to crack down on this worrying issue in 2019 and banned all filters that allow people to look as though they’ve undergone plastic surgery over concerns about their impact on mental health.
+- But even without filters, body dysmorphia is on the rise. A disturbing study released in 2020 found a rise in feelings of dysmorphia brought on by staring at your own face through the lens of a computer camera all day, which experts dubbed “Zoom Dysmorphia.”
+- As these mental health disorders persist, Gen Z is booking cosmetic procedures more now than ever and the Centers for Disease Control and Prevention recently warned that teens feel more hopeless and suicidal than ever.
+- “So glad these filters existed only after my prefrontal cortex fully developed,” Alexandria Morgan confessed online.
+
+URL: https://www.theverge.com/2023/3/2/23621751/bold-glamour-tiktok-face-filter-beauty-ai-ar-body-dismorphia
+- By  Jess Weatherbed and  Mia Sato
+- If you’ve scrolled through TikTok over the past week, you’ve probably seen a video that goes something like this: a woman looks amazed as she stares at her face in the camera. She touches her lips, her eyelids, her cheeks, as if questioning that the parts of her face could actually be real. “It’s not me at all,” one user said.
+- That’s because, in fact, the face they’re touching isn’t really their own. It’s the result of an unusually impressive new face filter called “Bold Glamour” that’s been sweeping the app, with swaths of users filming their reactions to how believably it alters their appearance, be it with fascination, delight, or outright horror. And press coverage of the filter has been truly wild, with headlines referring to the filter as “psychological warfare” and “terrifying.”
+- The reactions are warranted: Bold Glamour is one of the most impressive TikTok effects yet, and it appears to be a first look at how AI-powered tools could make face transformations harder to detect and even better at transforming how people look. But for now, TikTok is keeping the secret behind Bold Glamour quiet — the company has ignored multiple emails from The Verge asking for confirmation that Bold Glamour is using AI even though the company rolled out a new set of AI filter tools for effects creators last month.
+- In a February 22nd update to Effect House, its filter creation tools, TikTok announced that effects creators would now have access to a handful of generative AI effects that change a user’s facial features in real time. The new effects include an eyebrow eraser, a lip puckering effect, and a smiling effect, and creators with early access have already made filters using the new tools. In its creator guides, TikTok promises the generative effects match a user’s skin and are seamless.
+- These techniques differ from how most filter effects have been made until now. Traditional filters will usually take your 2D camera feed and map your face onto an exaggerated 3D model, says Luke Hurd, an augmented reality consultant who’s worked on Snapchat and Instagram filters. These effects can warp or glitch when you obstruct them because the 3D overlay has a hard time adhering to the layout of your face.
+- “This is a bit of a milestone, and an indicator of the weirdness of the post-reality world that lies ahead,” says Memo Akten, assistant professor of computational art and design at UC San Diego Visual Arts, who’s been highlighting videos of how accurately the effect changes faces.
+- Bold Glamour transforms users’ faces in ways we’ve come to expect from traditional “beauty” filters, but in a vastly more impressive way. It adds sharp contouring on the sides of the face and nose over a matte, even complexion. Eyebrows are lusher and symmetrical. Lips are plumper. There’s a sparkly, glazed-over look to the eyes — present but empty. Since gaining traction sometime last week, more than 9 million videos using the filter have been shared on TikTok already.
+- But despite the face filter tropes present in Bold Glamour, TikTok users have noticed that something about this effect is different. Unlike other filters that make it look like cartoon eyelashes or exaggerated eyeshadow has been painted onto a user’s face, the Bold Glamour modifications seem to move with the human face beneath them and even adjust when applied to masculine faces. And most notably, the filter barely distorts when a user puts their hand in front of themselves, a common occurrence with other face effects.
+- Hurd says Bold Glamour is likely making use of machine learning technologies — and in particular, Generative Adversarial Networks, or GANs — to pull off this impressive feat.
+- “Simply put, GANs pit two competing neural networks against each other in a fist-fight to the death,” Hurd says. In the case of Bold Glamour, it’s a competition between the camera’s view of your face and the style TikTok wants to morph you into. “Because it uses you, it then compares aspects of your face to a dataset of images that start to match against your cheeks, eyes, eyebrows, lips, and more.” Eventually, the technology combines the two sets of images into one. “If we do this fast enough, we can achieve a video framerate,” Hurd says. “And now we have a next-level effect like Bold Glamour!”
+- Hurd says there are other effects that work in a similar manner, such as TikTok’s “teenage look” effect and the gender-swapping effects on Snapchat. But the reason Bold Glamour has stood out more may be because it’s less exaggerated. “It’s just subtle enough to still be you and be convincing.”
+- Akten says the technology used by Bold Glamour isn’t groundbreaking. “These technologies have been developing rapidly for the last few years.” While the tech itself isn’t new, he believes that what makes Bold Glamour so impressive is the engineering to bring that technology to mobile devices in a very robust manner with minimal glitches.
+- “This has already been possible on desktop PCs using specialist software of course (e.g. deepfakes),” Akten says. “But that requires specialist software and some technical understanding. TikTok’s filter runs on a mobile device, accessible by billions of people, with no technical knowledge required, in realtime, and often (not always) looks totally believable.”
+- Though many TikTok users are impressed with the Bold Glamour filter, many are also concerned with how an even more seamless facial modification tool could impact users’ self-esteem and sense of self. Spencer Burnham, an AR creator who’s made popular effects on TikTok and Instagram, notes that including some level of retouching in filters — even if they aren’t explicitly makeup or “beauty” effects — is the norm, not the exception. Even joke filters often have some level of facial editing, like making skin look more even or blurring acne.
+- That means the uncanny feeling that comes with Bold Glamour is just the beginning. TikTok users will likely begin to see more and more filters using AI as new generative tools are opened up to more creators. Burnham worries that having a suite of powerful tools that alter a user’s appearance in real time could be a “breeding ground for body dysmorphia.”
+- “We’re getting to a new place where it’s not just augmenting reality, it’s replacing reality. It kind of scares me,” he says.
+- These sentiments have also been echoed across TikTok by those using the feature. Joanna Kenny, a former esthetician who now challenges unrealistic beauty standards with her #poresnotflaws movement, said in a video that the filter manages to appear natural while creating an effect that looks nothing like her. “I’ve done a lot of work to unlearn that I owe prettiness to anyone,” said Kenny. She said the filter made her feel “ugly” upon removing the effect.
+- There’s a growing body of evidence that these filters are harmful to mental health because of the unrealistic expectations they set for body image. A 2021 study into the social impacts of filters by City, University of London researchers found that 94 percent of female and nonbinary participants felt pressured to look a particular way, while 90 percent admitted to using filters or otherwise editing their images. Another study from 2017 by the Cognitive Research journal found that people only recognize when an image is manipulated around 60–70 percent of the time.
+- These results likely won’t be a surprise to the social media platforms that create and implement beauty filters. A report from The Wall Street Journal in 2021 revealed that Meta was, at the time of publishing, already aware that Instagram made 1 in 3 teen girls feel bad about their bodies and that teens using the app felt higher rates of anxiety and depression.
+- For now, much of the reaction to Bold Glamour has been to highlight just how wild the effect is, calling attention to its use and transformations. But as more platforms adopt and improve on AI-powered filters, it likely won’t be long before creators are using beautifying filters and other cosmetic editing effects that are indiscernible from reality. There’s a good chance they already are.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.nbcnews.com/news/bold-glamour-tiktok-filter-explained-rcna72485
+- 
+- Profile
+- Sections
+- tv
+- Featured
+- More From NBC
+- Follow NBC News
+- The new “bold glamour” TikTok filter, which seamlessly applies makeup and sculpting effects to users’ faces, is impressive — but many viewers feel unsettled by how “terrifyingly realistic” the subtle facial enhancements look.
+- The filter, which has been used millions of times in recent days, has been compared to other editing apps associated with creating an unrealistic beauty standard among young women. Critics argue that the effect can have a negative impact on a person’s self-esteem and body image.
+- In addition to adding light makeup to a person’s face, the filter tweaks their bone structure, smooths their skin and enlarges their lips.
+- “When I first saw it, it was shocking how incredibly real it looked, compared to other filters,” said Lindsay Borow, 28, who tried the filter in a TikTok video.
+- In her video, Borow said she looked like a “catfish” and that she “never felt uglier” after she removed the filter’s effect from her natural face.
+- Borow and other TikTok users expressed concerns that the filter could be detrimental to users' mental health.
+- A recent study from the Centers for Disease Control and Prevention found that 57% of teenage girls reported feeling “persistently sad or hopeless.” Amid several stressors including the coronavirus pandemic, gender discrimination and dress codes, one teen told NBC News last week that girls can get caught in a cycle of comparison on social media.
+- “I feel awful for young girls with access to these filters honestly,” one TikTok user wrote in the caption of her video.
+- “I don’t think my brain knows how to deal with looking like this one minute and then this the next,” another user said in a video as she switched from the bold glamour effect to no effect.
+- “i am so happy my teenage self only had dog ears on snapchat,” one TikTok creator said in another video caption.
+- A spokesperson for TikTok did not respond to a request for comment.
+- Hira Mustafa, 26, said that various TikTok filters have previously affected her mental health because of how much they changed her face.
+- "I think it’s making a lot of heavy photoshopping filters that celebrities have on all of their images online more accessible to people," Mustafa, who made her own video critiquing the bold glamour filter, said. "But there are consequences to people seeing faces like that all the time and then being critical of themselves unnecessarily to compete with these unrealistic images."
+- One of the other problems with the filter, some users said, is that it's close enough to a person's natural appearance that it seems like an attainable look. However, re-creating it proves to be difficult.
+- Borow said after creating a makeup look similar to what the filter uses, she demonstrated that she could not totally re-create the filter’s effect on her own.
+- “I realized that whatever I did to my makeup to try and look like that, once I had the makeup on and put the filter back on, it still elevated whatever I currently had on,” she said. “So it’s like you’re never going to reach that goal.”
+- There are consequences to people seeing faces like that all the time and then being critical of themselves unnecessarily to compete with these unrealistic images.
+- — Hira Mustafa, 26, a tiktok user who made a video critiquing the filter
+- The filter's "physical changes to our bone structures and our natural features are drastically different than what can be achieved by makeup," Mustafa echoed.
+- She said she believes the filter promotes Eurocentric beauty standards.
+- “A lot of people of color, their skin is being lightened, their eyes are being lightened,” she said. “I mean we’re really catering to a very specific standard of beauty.”
+- Borow said the filter appears to be more technologically advanced compared to previous filters introduced by platforms like TikTok or Snapchat. The bold glamour filter stays on even if a user tries to obstruct it, making it more convincing because you can’t see where the effect ends.
+- “If you put your hand over a normal filter, you can see where the filter lies, whereas this one, it doesn’t do that,” she said. “I remember when Snapchat first came out with filters and everyone was obsessed with the dog filter. And now this is what we’re working with and the technology is insane.”
+- Borow found comfort in the fact that TikTok denotes whether a filter was used on a video and believes that disclosure is helpful in distinguishing what’s real from what’s an aspirational filter.
+- But Mustafa said she thinks it would be helpful for creators to avoid using and promoting the use of these filters altogether.
+- “If you fill your feed with people who look natural and are not using these things, you can kind of safeguard yourself a little bit to see normal humans on your feed day to day versus the opposite,” she said.
+- Already, the impact of filters is beginning to bleed into reality, according to Mustafa. She said she has noticed more of her peers reaching toward the look of these enhancing filters using cosmetic surgeries.
+- “There’s so many women that have been getting under-eye filler and Botox and all these things at a much younger age than I think was typical when we were younger,” she said. “And so seeing that, I feel like these filters are then coming to life in some way that we are then seeing people face-to-face who are looking more and more like these filters and we’re like, ‘Oh, is it the filter? Or is it that people just look like this naturally?’”
+- Daysia Tolentino is a culture and trends reporter for NBC News.
+- © 2023 NBC UNIVERSAL
+
+URL: https://www.tatlerasia.com/style/beauty/bold-glamour-filter-tiktok
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cf5f52d59e91b84
+•
+
+      Your IP:
+      Click to reveal
+31.193.221.194
+•
+
+Performance & security by Cloudflare
+
+URL: https://www.independent.co.uk/life-style/bold-glamour-filter-tiktok-b2291094.html
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- ‘Whoever made this... I’m scared of them,’ one person wrote
+- Find your bookmarks in your Independent Premium section, under my profile
+- Social media users have been left stunned by the effects of a new “Bold Glamour” filter on TikTok.
+- The “beauty” filter airbrushes a person’s face, chisels their jawline, and cheekbones, and darkens their eyes and eyebrows.
+- Facial filters, which are interactive, AI-programmed masks accessed via using a mobile phone’s front camera, can drastically alter the appearance of a person’s face. When facial filters first emerged in 2015, they were largely for novelty purposes, with one popular filter giving a person’s face dog-like ears and a nose.
+- Since then, filters have evolved to be more precise and incorporate machine learning to alter people’s faces in real-time. While most filters glitch when a person puts a hand between the filter and their face, the bold glamour looks more convincing in comparison.
+- The new filter is being criticised by social media users, who cite issues including mental health, low self-esteem and body dysmorphia as potential consequences of people using the filter to present themselves online. Many have flagged the fact that, unlike many filters, passing your hand over your face does not appear to disrupt the effect.
+- “Beauty filters are not new, but the precision on this is beyond uncanny. This is psychological warfare and pure evil,” one person complained.
+- Others have suggested that the filter will push young people to strive for an unattainable standard of beauty.
+- “Imagine all the teenage girls who will start using the scarily good ‘bold glamour’ filter on TikTok and feel like they need to obtain this certain standard of beauty,” wrote another. “This is not good for your mental health.”
+- Another added: “There’s a new filter on TikTok called ‘Bold Glamour’ and that s*** should be illegal because you can rub your brows and eyes and it won’t budge... whoever made this. I’m scared of them.”
+- Pop star Charli XCX even tried the filter on the platform, making a video of herself with and without the effect. She captioned the post: “Kharli Kardashian” to suggest she looked like one of the sisters from Keeping Up With The Kardashians when using the filter.
+- Meanwhile, TikTok users are using the filter as an opportunity to push back against unattainable beauty standards, with creators stitching together videos showing what their real face actually looks like.
+- “I just woke up. This is not what I look like right now. This filter should be illegal. Here’s the real me,” said one TikTok user in a voiceover.
+- “I don’t look like this,” said another person. “I don’t want to say this about myself but I actually look ugly when I take this filter off. I’ve done a lot of work to unlearn that I don’t owe prettiness to anyone. I don’t my brain knows how to deal with looking like this one minute and then this the next,” they said, before turning off the filter.
+- “Here’s a reminder for everyone, filtered skin is not the perfect skin type.”
+- The Independent has contacted TikTok for comment.
+- Join thought-provoking conversations, follow other Independent readers and see their replies
+- TikTok / @kellystrackofficial / @charlixcx / @katherinemheigl
+- Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Log in
+- New to The Independent?
+- Or if you would prefer:
+- Want an ad-free experience?
+- 
+
+URL: https://www.vice.com/en/article/pkg747/tiktok-beauty-filter-bold-glamor-problem
+- An ultra-realistic TikTok beauty filter is coming under fire—for being too good. The filter, which convincingly alters facial features to look more conventionally attractive and simulates a soft glam makeup look, has some users freaking out that it conveys unrealistic beauty standards without viewers realizing that the look comes from software.
+- The “Bold Glamour” effect has been used over 6 million times and is garnering mixed reviews by those simultaneously mortified and in awe of the “FaceApp in a filter,” referring to a popular editing app that alters users’ selfies using AI filters.  Several people said that they were “humbled” by the effect. Others were creeped out by the filter’s ability to evade glitches and remain realistic and natural-looking even when obstructed.
+- “Please the fact that this filter didn’t glitch even the tiniest bit when I’ve covered half of my face with a mug???!” TikTok user @katthesheperd wrote. “This is a whole new ballgame. I’m actually a wee bit scared now.”
+- Some users put the filter to the test by rubbing their faces in an attempt to elicit a glitch, but with little success. “This is a problem,” user @rosaura_alvrz said in another video, tapping her face. “You can’t even tell it’s a filter anymore.”
+- "As someone who experienced body [dysmorphia] growing up this makes me sick to my stomach; tik tok u can't be enabling this… it's sickening for our youth," they wrote in the video's caption.
+- People are also spooked by the filter’s ability to adapt based on gender (albeit inaccurately at times) forgoing makeup when it seems to detect masculine features. Las Vegas Raiders player Isaac Rochell observed that the filter “actually helps men too,” adding, “you can’t tell me that I don’t have a little sauce with this filter on.” In the video, Rochell says, "Let me take it off and show you what i really look like," then exclaims, "I'm down bad!" when it's turned off.
+- While some users have had fun toying with the effect, others have become distressed by the filter's promotion of unrealistic beauty standards.
+- “This filter would’ve emotionally destroyed me if I was just a few years younger,” TikTok user chars0far wrote in a video showing off the filter. The video is captioned, "my heart breaks for younger girls on this app that think everyone just looks like this naturally."
+- There is some research that backs up the panic over the filter. Studies show that while the impact of filters varies depending on baseline levels of self-esteem, and even users who were generally satisfied with their looks felt less certain about their natural appearance after using a filter.
+- This isn't the first time face filters have caused a panic due to their impact on how people perceive reality. TikTok filters have also been criticized for imposing eurocentric beauty standards and promoting unrealistic expectations, like the “Glow Look” effect, which gives users blue eyes and a thinner nose. Recently, the “Teenage Look” filter has garnered criticism for being “creepy,” and the “inverted” filter has faced backlash for destroying users’ self-esteem— which makes sense considering filters are linked to anxiety and body dysmorphia.
+- Los Angeles-based plastic surgeon Dr. Monica Kieu posted a video breaking down “why everyone looks so damn good” in the filter.
+- Using a side-by-side comparison of a selfie with and without the filter, Dr. Kieu observed that the filter gave her “smoother, glowy” skin, thicker and darker eyebrows and more prominent eyelashes.
+- “Filters are fun, but they are NOT reality and we shouldn’t be comparing ourselves to them,” Dr. Kieu captioned her video. “But wow. This one is good.”
+- She said that it makes her feel better knowing the look can be achieved with makeup and good lighting—something many are already attempting.
+- A slew of makeup tutorials has emerged promising to help users emulate the “Bold Glamour'' look. But some users have joked that the filter, which narrows the nose bridge and plumps the lips, has made them want to go under the knife.
+- High investment in social media is associated with increased consideration of cosmetic surgery, and people who use face filters have an increased acceptance of cosmetic surgery, one study found.
+- Regardless, as fascination ensues, “Bold Glamour” and other realistic face filters show no sign of slowing down.
+
+URL: https://www.dazeddigital.com/beauty/article/58326/1/tiktok-s-bold-glamour-filter-harmless-fun-or-symbol-of-dystopian-times
+- We‚Äôve collectively got filter blindness, over the last few years, through the sheer exposure and normalisation of them. Every day a new beauty filter is trending, a filter that smooths the skin, sharpens the jaw, plumps up the lips. Names like pretty babe, warm tan and hazel eyes pop up on TikTok, manipulating our faces into the beauty standards of the moment without us even noticing. Some body and skin positive influencers have tried to get us to think before we apply them, but the pushback is just a drop in the ocean compared to the masses who use them as second nature.¬Ý
+- So it‚Äôs rare when a filter truly goes viral and even rarer that it receives backlash. But that‚Äôs exactly what happened this week with ‚ÄòBold Glamour‚Äô, a heavy contour make-up filter that‚Äôs been used in 7.6 million videos over the space of a few days. While there‚Äôs no shortage of face changing, digital make-up filters on social media, this one felt different ‚Äì more insidious than its counterparts, more technologically advanced ‚Äì and the responses and backlash to it feels equally as different.¬Ý
+- ‚ÄòBold Glamour‚Äô initially went viral when people began using it with captions like ‚Äúthis filter shows what u could look like if u could do make-up‚Äù and ‚Äúthis filter humbled me so quickly‚Äù. Quickly, though, the tides turned and frustration prevailed. The filter tag is now filled with comments saying it has gone too far, that the filter should be illegal, that it ruined their day and made them feel like shit. ‚ÄúSo glad I grew up with the rainbow vomit and dog filter,‚Äù one user commented.
+- Joanna Kenny, an influencer who focuses on body confidence for the female gaze, told Dazed that she believes these filters should come with a trigger warning, although even that wouldn‚Äôt be enough. ‚ÄúI know when I‚Äôm creating these videos to raise awareness that I don‚Äôt really look like that. But when I remove the filter I feel instantly ‚Äòless than,‚Äô‚Äù she says. ‚ÄúAnd it‚Äôs not just my own personal use of these filters that impacts my mental health and self-esteem. It‚Äôs the level of content I am exposed to on a daily basis that I can‚Äôt help compare myself to.‚Äù¬Ý
+- While some people argue that filters are no different to wearing a lot of make-up, Kenny says it is for her. ‚ÄúI would never be able to achieve this look with make-up. And why should I? For those people who can and choose to present themselves this way, that‚Äôs fine. My choice is that I no longer want to, but showing up unfiltered or without heavily contouring my face doesn‚Äôt feel like a choice I can make without judgement. This is an entirely new kind of pretty pressure.‚Äù
+- It‚Äôs clear by now that the constant viewing and consumption of unrealistic digital content is a mental health risk. Research by Dove found that 50 per cent of girls believe they don‚Äôt look good enough without photo editing and 60 per cent feel upset when their real appearance doesn‚Äôt match the digital version. ‚ÄòBold Glamour‚Äô is particularly misleading because even being able to do a full face of make-up ‚Äòwell‚Äô will never fully achieve this look. No make-up product will remove the pores from your face, give you lip filler or make the whites of your eyes brighter. The seamlessness of the filter also makes it dangerous. Unlike previous generations of filters, nothing makes it falter ‚Äì not waving your hand in front of your face, touching and moving your face, wearing glasses. Glitches are something that have always occurred with beauty filters, even the most advanced ones, which have provided an often-needed pinch of reality, until now. If the mask never drops, people will forget who is and isn‚Äôt wearing one.
+- In our new era of AI and digital make-up, no one can tell what‚Äôs real and what‚Äôs not anymore. TikToker @itshermeteor went viral recently because people thought she was CGI¬Ý ‚Äì she is a real woman from Germany, who has alopecia. It was only a matter of time until a real woman was mistaken for an AI, given that we now have CGI influencers like Lil Miquela reaching almost 3 million followers. Within the context of rising AI and non-consensual deepfake porn, realistic filters like ‚ÄòBold Glamour‚Äô that promote said beauty ideals are terrifying. As of 2019, 96 per cent of deepfakes on the internet were pornography and almost all of these deepfakes depicted women.¬Ý
+- Recently, Twitter was alight with debate about whether certain AI porn images were ‚Äòrealistic‚Äô or not (note to reader: they were not). It seemed only to be men who couldn‚Äôt tell the difference. This is no surprise, given that technology and social media have made it possible for women to look a way that is impossible to achieve in real life. All of this feeds into misogyny and patriarchy: in a society that already views women as second-class, filters like this one could be adding to how dehumanised women are.¬Ý
+- So does the backlash to ‚ÄòBold Glamour‚Äô suggest people are finally waking up to how negative filters can be? It feels trite to say, because most of us know this to be true, but we contribute to the problem regardless. When the ‚ÄòParis‚Äô filter first launched on Instagram, I was going through a particularly bad bout of psoriasis and I felt a lot of shame around my skin. This magic filter smoothed my chronic illness away in one swipe and I thought I‚Äôd hit the jackpot. Until, that is, I had to leave the house and face my friends, who had been messaging me about how happy they were that my skin was clearing.¬Ý
+- Now I try to only use ones that only change colours or graininess and I feel passionately that filters are contributing to unrealistic, eurocentric and patriarchal beauty ideals. But, like a lot of things (say, capitalism or sustainability), it‚Äôs hard to create change when you‚Äôre just another cog in the system, and it can feel fruitless: so, why not join them? If everyone else is smoothing their skin, why should I be the only one showing my pores and pimples?
+- One TikTok user joked that they were glad this filter didn‚Äôt exist before their prefrontal cortex developed and isn‚Äôt that a scary thought? In my early twenties (I‚Äôm now 28) filters were more rudimentary, and they were fun. People knew they weren‚Äôt real, because they weren‚Äôt supposed to be. That‚Äôs all changed. Filters, now, are primarily about looking a certain way ‚Äì digital make-up was once garish, and now it‚Äôs a subtle eyelash or a slightly bronzed cheek. The point of them is to go unnoticed, and to create an illusion. This illusion is one society has collectively bought into; that it‚Äôs normal (and achievable) for women to homogeneously look a certain (poreless, snatched, youthful) way. And we‚Äôve internalised it.
+- Join Dazed Club and be part of our world!¬ÝYou get exclusive access to events, parties, festivals and our editors, as well as a free subscription to Dazed for a year.¬ÝJoin for ¬£5/month today.
+
+URL: https://www.dailymail.co.uk/femail/article-11816471/TikTok-users-concerned-new-bold-glamour-filter.html
+- By Abi Turner For Mailonline
+- Published:  07:56, 6 March 2023   |  Updated:  08:38, 6 March 2023
+- 
+- 6
+- View  comments
+- 
+- A TikTok filter which is offering users a flawless complexion without any technical glitches is leaving users of the app concerned.
+- Social media users are going into meltdown over the platform's new 'Bold Glamour' filter, which has been used over 10 million times after being launched just this week.
+- The effect lets the person look like a thick layer of makeup has been piled on the user's face, and irons out any skin spots.
+- Yet, these freakishly perfect looks are starting to unsettle people as they are flummoxed by how real it looks.
+- TikTok user Zoe George, from Australia, posted a video of her trying out the filter online, writing: 'So there's this new filter on TikTok and it's perfect, look at it.
+- A TikTok filter which is offering users a flawless complexion without any technical glitches is leaving users of the app concerned (left, one user without the filter, and right, with the filter)
+- Replying to @C
+- 'You used to do that with an old filter [covers eye] and you would see the lashes on your hand, like it would glitch.'
+- Posting under the user name @zoe_george_ she continued: 'But look how perfect, I am wearing no make up right now, this is all a filter and it's just scary.'
+- Elsewhere, users expressed their concern over the new addition to the popular video sharing platform.
+- Samantha Hoy, from London, tried the filter on TikTok and said she was extremely concerned with the results.
+- She explained: 'I do not look like this and normally when you put your hand over your face, it comes off.
+- 'This is not me. How toxic is this filter? And what is it teaching young kids of today?'
+- Posting under the username @amor_style_life, she continued: 'This is why so many people get so upset and think they should look like other people when realistically that is not them.'
+- Explaining how the filter creates a natural look, even enhancing pores and giving a natural glow, she then went on to say why it is dangerous.
+- She said: 'This is just so unfair on the youngsters that we are bringing up today in this world.
+- 'They will look at this and think "oh my God her make up is flawless, her skin is flawless, she just looks unreal."'
+- It doesn't look like a filter at all as however much you wiggle your eyebrows or cover your face, it doesn't glitch.
+- Samantha Hoy, from London, tried the filter on TikTok and said she was extremely concerned with the results (left, without the filter, and right, with it
+- I’m shocked, fresh new look? What a lie… #boldglamour #boldglamourmakeup #boldglamourfilter #toxicfilter #teachingourkids #teachingourchildren #ukmum #mumsuk #parenting #motherhood #mumof3 #ditchthefilter #tiktokvsreality #makeuptransformation #realitycheck #viralfilter
+- To test the filter out, a Swedish Linus Ekenstam shared a video on Twitter as he pulled a range of facial expressions to see how easily it would glitch.
+- He wrote: ‘I’m giving it a hard time here and it glitches just once when I’m covering my entire face.’
+- On Friday, Australian star Abbie Chatfield slammed the trend, hailing it as 'toxic' and 'harmful'.
+- The Aussie reality TV star, 27, unleashed on the viral Bold Glamour beauty filter which has stirred up some controversy in recent days.
+- Meanwhile, the former Bachelor contestant warned the filter as being harmful, and her fans were on board with her viewpoint.
+- This new AI powered beauty filter from TikTok is just insane. I’m giving it a hard time here and it glitches just once when I’m covering my entire face. “Bold Glamour” by TikTok pic.twitter.com/ScScU3AMaZ
+- To test the filter out, a Swedish Linus Ekenstam shared a video as he pulled a range of facial expressions to see how easily it would glitch
+- Abbie Chatfield has slammed one of TikTok's latest trends, hailing it as 'toxic' and 'harmful'. The Aussie reality TV star, 27, unleashed on the viral Body Glamour beauty filter which has stirred up some controversy in recent days
+- So she uploaded her version which went on to accumulate 192,000 views, altering her look and showing the contrast of when no edits were made.
+- 'If I wasn't a full grown adult, this would rot my brain to be honest,' her text read on top of the video.
+- She added in the caption alongside the video: 'Like it's funny but also this is so toxic'.
+- A variety of fans commented they didn't recognise her with the filter on, and said they preferred when her look when it wasn't used.
+- This isn't the first filter that TikTok has come under fire for, with the launch of its Teenage Filter last month.
+- Doing what it says on the packet, the teenager filter makes your face looks younger.
+- The default setting will require a passcode to continue scrolling through the app once the time limit is hit, but teens can opt out of the feature if they want.
+- And profiles owned by users aged 13 to 15 will also be set to private automatically.
+- The China-based company is also set to give parents and guardians more control, allowing them to mute notifications in their children's app during specific times of the day.
+- TikTok did not confirm an exact date for the new features to be rolled out, but confirmed it would be 'in the coming weeks.'
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+- TikTok mandatory beauty filtering
+- Qoves AI beauty scoring
+- Page infoType: SystemPublished: March 2023

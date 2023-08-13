@@ -1,0 +1,228 @@
+- Released: 2016
+- Can you improve this page?Share your insights with us
+- The UnConstrained College Students Dataset (UCSD) is a database comprising 16,000 photographs of approximately 1,700 students going about their lives at the University of Colorado, Colorado Springs, for the research and development of 'face detection and recognition research towards surveillance applications'.
+- The photographs were taken secretly on 20 different days between February 2012 and September 2013 using a 'long-range high-resolution surveillance camera without their knowledge,' according to Professor Terry Boult, the University of Colorado computer scientist who led the project.
+- The project was initially funded by the US government Office of Naval Research’s Multidisciplinary University Research Initiatives Program, and later by other US government entities.
+- The UCSD was first reported by the Colorado Springs Independent in May 2019, a month after the dataset had been taken down. The expose ignited a firestorm amongst the local media, which focused on its intrusiveness and opacity. It also faced criticism from a University of Denver law professor.
+- Shortly afterwards, the Financial Times cited the project as an example of an attempt to gather personal images to improve facial recognition systems in as natural (ie. 'wild') a manner as possible - ideally covertly.
+- 'Even [LFW] photos aren’t that wild because people know they are being photographed and uploaded on the internet. But these are students walking on a sidewalk on campus, who are unaware they are part of a data collection,' Boult told the Financial Times.
+- 'When you’re watching students on a sidewalk, there’s an awful lot of facing down looking at your phone. In Colorado, where it’s cold and snowy, they cover up in a natural way with scarves and hats. Our goal is to make it the most realistic unconstrained video surveillance facial recognition dataset in the world,' Boult said.
+- At the time, University of Colorado students had not been informed they were under surveillance nor were they told that images of them would be used to train military and intelligence agency facial recognition systems.
+- In addition, no infomation was provided as to how they could opt-out or have their photographs removed from the system.
+- Operator: Beckman Institute; Beihang University; Inception Institute of Artificial Intelligence, Abu Dhabi; Pontificia Universidad Católica de Chile; Queen Mary University of London; University of Notre Dame; Vision Semantics Developer: University of Colorado
+- Country: USA
+- Sector: Research/academia
+- Purpose: Train facial detection and facial recognition systems
+- Technology: Dataset; Facial recognition; Computer vision Issue: Privacy; Ethics
+- Transparency: Governance; Complaints/appeals; Marketing; Privacy
+- Website
+- Research paper
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+- Murgia M., Financial Times (2019). Who’s using your face? The ugly truth about facial recognition
+- Cheng Z., Zhu X., Gong S. (2018). Surveillance Face Recognition Challenge
+URL: https://www.csindy.com/coloradosprings/uccs-secretly-photographed-students-to-advance-facial-recognition-technology/content/
+
+URL: https://www.denverpost.com/2019/05/27/cu-colorado-springs-facial-recognition-research/
+- Digital Replica Edition
+- Sign up for Newsletters and Alerts
+- 
+- Sign up for Newsletters and Alerts
+- Digital Replica Edition
+- Trending:
+- A professor at the University of Colorado’s Colorado Springs campus led a project that secretly snapped photos of more than 1,700 students, faculty members and others walking in public more than six years ago in an effort to enhance facial-recognition technology.
+- The photographs were posted online as a dataset that could be publicly downloaded from 2016 until this past April.
+- While professor Terrance Boult and CU officials defended the project and its efforts to protect student privacy, a University of Denver law professor questioned whether this is an example of technological advancement crossing ethical boundaries.
+- “It’s yet another area where we’re seeing privacy intrusions that disturb us,” said Bernard Chao, who teaches the intersection of law and technology at DU and previously practiced law in Silicon Valley for almost 20 years.
+- The CU Colorado Springs project, first reported last week by the Colorado Springs Independent, began in 2012 with funding from a variety of U.S. intelligence and military operations, including the Office of Naval Research, Special Operations Command and the Office of the Director of National Intelligence. It was not clear how much funding the project received from government agencies.
+- Boult’s research originally was intended to analyze facial-recognition algorithms to determine whether they were up to snuff for use by the U.S. Navy. But it turned out the technology wasn’t as efficient as the Navy wanted.
+- “It was solved if you wanted to match two passport photos where the person is facing forward in good light, but not if you wanted to recognize someone 100 meters away,” Boult said.
+- Boult and his team did more advanced research to try to improve the facial-recognition technology.
+- “The study is trying to make facial recognition better, especially at long range or surveillance applications,” Boult said. “We wanted to collect a dataset of people acting naturally in public because that’s the way people are trying to use facial recognition.”
+- Facial-recognition technology is being used more and more, including for things such as enabling Facebook to tag people in pictures, in helping government agencies to check passports or visas, and beyond.
+- To conduct the study, Boult set up a long-range surveillance camera in an office window about 150 meters away from the West Lawn of the Colorado Springs campus, a public area where passers-by would not have a reasonable expectation of privacy.
+- The camera surreptitiously photographed people walking in the area of the West Lawn on certain days during the spring semesters of 2012 and 2013.
+- The candid shots caught students as they looked down at their phones, blurred in motion or walked out of frame altogether.
+- More than 16,000 images were taken, producing 1,732 unique identities. To protect student privacy, Boult said, he waited five years to release the dataset publicly. That way, people were unable to look at the pictures and figure out a student’s whereabouts in case of a domestic violence concern or a clandestine military placement, he said.
+- Jared Verner, a CU Colorado Springs spokesman, said the university is committed to academic freedom and the ability for faculty to study and research a variety of topics while also taking student privacy seriously.
+- “The research protocol was analyzed by the UCCS Institutional Review Board, which assures the protection of the rights and welfare of human subjects in research,” Verner wrote in a statement. “No personal information was collected or distributed in this specific study. The photographs were collected in public areas and made available to researchers after five years when most students would have graduated.”
+- DU’s Chao noted that if the study was approved by the university’s institutional review board, CU Colorado Springs determined that there was not substantial concern about individuals being harmed. Still, Chao called the project “surprising.”
+- “There’s creeping concern that maybe he has all this data and all these photos, and what other use could be used for that?” Chao said.
+- The dataset of photos was taken off the internet on April 15, but not because of privacy concerns, Boult noted. The CU Colorado Springs dataset was used in an April article in the Financial Times entitled, “Who’s using your face? The ugly truth about facial recognition.”
+- “They gave out more information in the article than we had intended,” Boult said.
+- The information published included the date and time the photos were taken, which Boult said thwarted the intended purpose of trying to randomize the photos in the dataset. Boult said he’s considering releasing another version of the data publicly that would fix this.
+- If a student objected to being unknowingly involved in the study, Boult said he would try to make amends.
+- “If somebody wants to come and sit in my lab and go through the thousands of photos and say, ‘That one is me,’ we can gladly remove them from the dataset,” Boult said.
+- But Boult argues the students’ faces are being used for the greater good, saying he balanced the privacy of students with the need to improve facial-recognition systems.
+- “As long as the systems are bad, their potential misuse is consistent,” Boult said. “If police use them and they match the wrong person, that’s not good. Our job as researchers is to balance the privacy needs with the research value this provides society, and we went above and beyond what was required.”
+- Chao countered by saying Boult’s reasoning assumes what government or federal agencies are doing is something society wants them to do when that might not be the case.
+- “He may be helping them do something that’s not right in the first place,” Chao said. “I’m not sure I want to be in a state where every place I walk, my picture is being taken and automatically uploaded into facial-recognition software. I actually know I would not like that. I think the response is, ‘Maybe we just shouldn’t be doing this, period.’ “
+- Sign up for Newsletters and Alerts
+- Copyright © 2023 MediaNews Group
+
+URL: https://gazette.com/woodmenedition/furor-over-facial-recognition-technology-lands-on-uccs-campus/article_f76710ce-ace7-11ea-9da2-4b97c1933a63.html
+
+URL: https://www.biometricupdate.com/201906/ms-celeb-and-other-facial-biometrics-datasets-taken-down
+- Several public facial recognition data sets have been deleted, including a Microsoft database of 10 million faces which is reported to have been the largest dataset in the world for biometric research and training in the world, the Financial Times reports.
+- The MS Celeb database was published in 2016, and has been used by a wide range of facial recognition researchers, including from militaries and high-profile biometrics companies like SenseTime and Megvii. Images of nearly 100,000 individuals scraped from the internet using search engines and videos under Creative Commons license terms, but consent was not sought from the individuals pictured.
+- “The site was intended for academic purposes,” Microsoft said in a statement. “It was run by an employee that is no longer with Microsoft and has since been removed.”
+- Data sets hosted by Stanford and Duke Universities have also been taken down, according to FT, which reported on them and the Microsoft dataset in April. The Duke MTMC surveillance data set, and Stanford’s Brainwash dataset, taken from a livestreaming camera in a San Francisco café, have both been taken offline. Duke did not respond to FT’s request for comment, while Stanford said one of the authors of a study Brainwash was used for requested the dataset’s removal.
+- The Megapixels project by researcher Adam Harvey documented all three datasets, along with the UnConstrained College Students (UCCS) dataset taken at the University of Colorado, and Oxford Town Centre Dataset. The UCCS dataset has been temporarily taken down because metadata was exposed in the FT article, while the Town Centre dataset remains active, according to the site. Harvey says Microsoft exploited the notion of celebrity, and included people who were vocal opponents of the technology’s development in its dataset.
+- The professor who made the UCCS dataset available says that he waited five years from when the images were collected to protect the privacy of those pictured, but has faced criticism from a University of Denver law professor, the Denver Post reports.
+- Use of the MS Celeb dataset has been cited in research papers by numerous facial recognition companies, including Microsoft itself.
+- “It’s indicative of Microsoft’s inability to hold their own researchers to integrity and probity that this was not torpedoed before it left the building,” technology writer Adam Greenfield, who was included in the MS Celeb dataset, told FT. “To me, it is indicative of a profound misunderstanding of what privacy is.”
+- Microsoft may also have violated GDPR by leaving the dataset up after the privacy regulation went into effect, FT reports.
+- biometrics  |  dataset  |  facial recognition  |  Microsoft
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://sociable.co/technology/should-govt-be-transparent-about-facial-recognition-use/
+- SHARE
+- Government transparency in deploying facial recognition software could gain more acceptance among citizens than trying to use it behind their back and later claiming it was for the greater good.
+- 
+- As the facial recognition criticism thickens, the US Homeland Security is already putting facial recognition software to use for biometric exits at US airports. Within the next four years, it plans to use facial recognition technology on 97% of passengers departing from airports.
+- The system, which captures images of passengers prior to boarding flights, has already been in practice since 2017, and by the end of 2018, has become operational in 15 US airports.
+- The system aims to help authorities to become more aware of people leaving and entering the country as well as aid them in identifying anyone overstaying their visas. According to Quartz, currently, US authorities rely on departing airline flight manifests for the same.
+- 
+- Opponents of facial recognition are arguing that creating a database that contains photographs of millions of people could create civil liberty transgressions.
+- Read More: Shareholders tell Amazon to stop selling Rekognition facial recognition tech to govt
+- Sharing such a database with other agencies, such as law enforcement or private organizations could spell uncomfortable times for citizens in the future. Looking over your shoulder could become a norm.
+- Facial recognition software is also being deemed too flawed and biased to be able to do a fair job of picking out actual culprits or suspicious characters, as The Sociable has also pointed out before.
+- Having said that, there is undoubtedly a dire need for upgrading security systems at airports. Relying only on human eyes is no longer wise. The tool could revolutionize safety in traveling.
+- With such benefits, it might not be wise to refrain from making use of such technology, provided the deployment is transparent. For example, before installing facial recognition software for biometric exits at airports, the Department of Homeland Security Science and Technology Directorate (S&T) conducted a Biometric Technology Rally in March last year at S&T’s Maryland Test Facility (MdTF).
+- Read More: Amazon proposes ethical guidelines on facial recognition software use
+- The rally selected innovative systems from 11 industry participants representing 10 countries from around the world to participate. S&T challenged the industry to meet specific objective performance goals along evaluation metrics of effectiveness, efficiency, and satisfaction.
+- The initiative gauged the performance of the biometric system in areas such as failures to acquire, process, and match images, and measured the average time volunteers spent in making use of the systems. S&T challenged industry systems to identify 99% of all volunteers using the system in less than 20 seconds and to design intuitive systems that volunteers could understand and use in just five seconds.
+- Agreed, there might be much more that remains to be explored. For example, the database thus gathered could be shared with other agencies. As Alvaro Bedoya, a student of facial recognition at Georgetown Law’s Center on Privacy & Technology told The Verge in 2017:
+- “Right now, other than the no-fly list, you do not have law enforcement checks on who can fly. But once you take that high-quality photograph, why not run it against the FBI database? Why not run it against state databases of people with outstanding warrants? Suddenly you’re moving from this world in which you’re just verifying identity to another world where the act of flying is cause for a law enforcement search.”
+- Not to mention that as the database grows, it might be begging for a data breach incident in a year or two. Still, they were being transparent about it. At least, subjects involved in the rally did so with full awareness of what they were doing.
+- Read More: ACLU files FOIA request demanding DHS, ICE reveal how they use Amazon Rekognition
+- While our trust in any government stems from the security they pledge to provide us, the knowledge that they might be getting under our skin to do so is creepy. For example, according to FT, a database called Janus Benchmark-C (IJB-C), built by IARPA, has put together a collection of images of 3,500 subjects with the aim of training facial-recognition algorithms.
+- The cinch is that none of the subjects whose photographs are available on the database are aware that they are being used for the initiative.
+- IARPA is a US government organization that backs research aimed at giving the US intelligence community a competitive advantage. The database contains 21,294 images of faces (other body parts are also there), with around six pictures and three videos per person. Researchers can apply to access the data.
+- Read More: Every move you make IARPA will be watching you
+- FT says the database contains photographs of three EFF board members, an Al-Jazeera journalist, a technology futurist and writer, three Middle Eastern political activists, including an Egyptian scientist, and a 36-year-old American activist Jillian York.
+- York was appalled when Adam Harvey, the researcher who first found her face in the database, asked her if she was aware that her image was available for facial recognition software training.
+- “What struck me immediately was the range of times they cover. The first images were from 2008, all the way through to 2015,” she told FT. “They were taken at closed meetings. They were definitely private in the sense that it was me goofing around with friends, rather than me on stage,” she added.
+- The images in the database were obtained without any explicit consent. Instead, they were uploaded in accordance with the terms of Creative Commons licences, an online copyright agreement that anybody can use to copy and reuse images for academic and commercial purposes. While that does not make it illegal, the ethical nuances are easily arguable.
+- 
+- Meanwhile, almost three years have passed since a congressional watchdog, the Government Accountability Office raised several concerns regarding the bureau’s use of facial recognition tech. The FBI is still refraining from evaluating if its systems comply with privacy and accuracy standards, according to Nextgov.
+- As long as complicated technology remains unknown, we might continue to resist it, especially when it continues to harbor flaws. However, if government agencies employ transparency in deploying said technology, citizens might ease into it with more acceptance.
+- Not that this gives facial recognition a complete green signal. As this technology becomes more prevalent in general society, there is no dearth of uses that agencies, or even individuals, could put it to. Government agencies, especially law enforcement organizations, could become oppressive.
+- Read More: Big tech employees voicing ethical concerns echo warnings from history: Op-ed
+- On an individual level, soon, spouses could be using it in court to accuse cheating partners. Assassins could be picking out targets even when they are disguised. We might not be able to hide from anyone.
+- At the same time, the technology could prove extremely useful in spotting perpetrators, securing crowded areas like airports, while putting less stress on the human system.
+- How can we ensure that this technology, which does have merits, only be used to aid us, without turning the state into authoritarian regimes? Could transparency be the answer?
+- SHARE
+- Navanwita Sachdev
+- An English literature graduate, Navanwita is a passionate writer of fiction and non-fiction as well as being a published author. She hopes her desire to be a nosy journalist will be satisfied at The Sociable.
+- When private companies gain access to ‘classified space’
+- Assange detention: bitcoin donations to WikiLeaks Defense Fund surge
+- This article originally appeared on Latin America Reports, an Espacio publication.
+Last...
+- The modern age of online communication has demonstrated some advantages and disadvantages, with the...
+- This article was originally published by Jorge Antonio Rocha on Aztec Reports, an Espacio...
+- Brains Byte Back interviews startups, entrepreneurs, and industry leaders that tap into how our brains work. We explore how knowledge & technology intersect to build a better, more sustainable future for humanity. If you’re interested in ideas that push the needle, and future-proofing yourself for the new information age, join us every Friday. Brains Byte Back guests include founders, CEOs, and other influential individuals making a big difference in society, with past guest speakers such as New York Times journalists, MIT Professors, and C-suite executives of Fortune 500 companies.
+- In today’s episode of the Brains Byte Back podcast, we speak with Venkatesh Sundar, Founder & CMO at Indusface, a company offering web app security, WAF and SSL Certificates to keep businesses safe.
+- In the conversation, Sundar shares tips to help listeners defend their businesses from hackers. He starts off by stressing the importance of ensuring that all software and systems are kept up to date with the latest security patches and updates. Doing this can help to shut down any known vulnerabilities that hackers may look to exploit.
+- Additionally, he underlines that it's important to make use of strong access controls and authentication measures to ensure that only authorized users are able to access sensitive data or systems. This consists of measures such as two-factor authentication, strong password policies, and limiting access to only those who require it.
+- Sundar adds that regular security assessments and penetration testing can be effective when it comes to identifying vulnerabilities before hackers can take advantage of them. This can entail simulating real-world attacks and attempting to exploit weaknesses in the system,to find potential areas where improvement is necessary.
+- Alongside the above, Sundar highlights specific tactics that listeners can use to defend against ransomware attacks, such as ensuring that data backups are regularly performed and stored securely. This can help to reduce the impact of a ransomware attack by allowing businesses to restore their systems and data from a previous backup.
+- And finally, Sundar covers why it is important to educate employees about the risks of phishing attacks and other social engineering tactics that hackers frequently use to gain access to sensitive data or systems.
+- He encourages business owners to provide regular security awareness training to make sure that employees are more knowledgeable and fully aware of the latest threats and how to avoid falling victim to them.
+- 
+- Links 🔗
+- Our Guest🙋:
+- Find out more about Venkatesh Sundar here (LinkedIn) –
+- https://in.linkedin.com/in/venkateshsundar
+- Find out more about Indusface (website) –
+- https://www.indusface.com/
+- 
+- Brains Byte Back 🧠👨‍💻🎙️:
+- Leave an iTunes review here – https://apple.co/3i60XWu
+- Subscribe on Youtube here – https://bit.ly/3o1M4Z3
+- Follow us on your favorite podcast platform here – https://bit.ly/3kTfNkY
+- 
+- Our Sponsor 💻☎️:
+- Find out more about our sponsor Publicize here – https://bit.ly/3X6p7SB
+- 2023 Copyright © All rights reserved
+
+URL: https://www.dailydot.com/layer8/college-students-secret-face-recognition-project/
+
+URL: https://williambowles.info/2019/07/17/massive-photo-databases-secretly-gathered-in-us-and-europe-to-develop-facial-recognition-by-kevin-reed/
+- 17 July 2019 — WSWS
+- A report in the New York Times on Sunday revealed that millions of facial photos have been scraped from online sources and taken by hidden surveillance cameras and then shared in databases for artificial intelligence (AI) research and development purposes for more than a decade. Created in secret by universities and tech companies, the photo data sets have been mined for the R&D of facial recognition and biometric technologies that are now used ubiquitously by police and state intelligence agencies around the world.
+- 
+- The large digital face and “selfie” photo databases—copied without authorization from websites, social media, photo sharing and online dating platforms and also taken by digital cameras in public places—have been used by state agencies, software engineers and researchers involved in perfecting AI algorithms and image pattern analyses in the quest for leading-edge facial recognition technology.
+- 
+- A collection of approximately 1600 student and pedestrian images in the Duke MTMC database
+According to the Times report—based largely on information available on the website MegaPixels.cc published by Adam Harvey and Jules LaPlace—at least 30 facial image datasets were accumulated going back to at least 2007. The Times report says that Megapixels “pinpointed repositories that were built by Microsoft, Stanford University and others, with one holding over 10 million images while another had more than two million.”
+- Summarizing the MegaPixels exposures published online in 2017, the T imes report went on, “companies and universities have widely shared their image troves with researchers, governments and private enterprises in Australia, China, India, Singapore and Switzerland for training artificial intelligence …” Although the Times does not mention it, this also includes access to these datasets for testing and development purposes by US government and military agencies through their connections with both the private companies and university research institutions.
+- For example, a project called Brainwash was launched jointly by Stanford University and the Max Planck Institute for Informatics in Germany in 2014 and deployed a hidden webcam in the Brainwash Café in downtown San Francisco. Stanford University is well known for its connections to US military-intelligence. For example, Google was developed at Stanford with funding from the Defense Advanced Research Projects Agency (DARPA) and other state intelligence agencies in the early 1990s. Although not mentioned by the Times, the Max Planck Institute has long standing and direct ties to German imperialism.
+- Over a three-day period, 11,917 video streams of 100 seconds each were captured without the consent of those in the Brainwash Café. According to MegaPixels, “No ordinary café customer could ever suspect that their image would end up in dataset used for surveillance research and development, but that is exactly what happened to customers at Brainwash Cafe in San Francisco.”
+- MegaPixels also said that the videos were published online using AngelCam, a web streaming service that is sold for home security purposes for as little as $6 per month. The Brainwash database was subsequently used for AI research purposes in China, Switzerland, Netherlands, the US, India and Canada.
+- In another case, the Times reported that Duke University researchers started a facial image database in 2014 called Duke MTMC using eight cameras on campus. The cameras had signs posted below them with a phone number and email address for people who wanted to opt out of the study. Two million synchronized video frames were gathered of approximately 2,700 individuals over 14 hours, most of them students.
+- However, the Times chose to conceal important details regarding US government use of the Duke MTMC dataset. While MegaPixels reports that the Chinese government used the Duke photos—with over 90 research projects in 2018 alone—for surveillance purposes, Harvey and LaPlace also explain that the original creation of the dataset was “supported in part by the United States Army Research Laboratory” and was for “automated analysis of crowds and social gatherings for surveillance and security applications.”
+- Furthermore, the MegaPixels report says, “Citations from the United States and Europe show a similar trend to that in China, including publicly acknowledged and verified usage of the Duke MTMC dataset supported or carried out by the United States Department of Homeland Security, IARPA, IBM, Microsoft (who has provided surveillance to ICE), and Vision Semantics (who has worked with the UK Ministry of Defence).”
+- The Times also reviewed the Microsoft dataset created in 2016 called MS Celeb that contained 10 million images of 100,000 people gathered from websites that was “ostensibly a database of celebrities.” However, many others had their names and pictures included in the database. Also not mentioned by the Times, is the fact that MegaPixels published a list of 24 names in the MS Celeb database who are authors, journalists, filmmakers, bloggers and digital rights activists.
+- Among them is Jeremy Scahill, a journalist and editor with the Intercept that has written extensively on US war crimes and defended WikiLeaks editor Julian Assange against imprisonment and rendition to the US. The MS Celeb dataset contains 200 facial photos of Scahill.
+- The MS Celeb data set had a goal of targeting 1 million people and included an additional 900,000 names that had no images attached. The 100,000-person dataset has been accessed internationally by more than a dozen countries. The MegaPixels web site shows that the MS Celeb data set was cited in 124 research projects that took place around the world in 2018, the majority of which were in China (47) and the US (42).
+- Two more image databases on the MegaPixels website were not reported by the Times, one from Oxford University and the other from University of Colorado. The Oxford Town Centre dataset contains video of 2,200 people captured in 2007 from a surveillance camera mounted at the corner of Cornmarket Street and Market Street in Oxford, England. The surveillance project was commissioned by Oxford University under the auspices of an EU artificial intelligence program called Project HERMES. MegaPixels reports that the image dataset has been shared extensively, with 80 research citations from all over the world.
+- The final dataset is from the University of Colorado, Colorado Springs campus in which 1,700 students and other pedestrians were “photographed using a long-range high-resolution surveillance camera without their knowledge,” according to MegaPixels. The photos were taken during the spring semester of the 2012-2013 academic year on the West Lawn of the Colorado campus and during the interval that students were walking between classes. MegaPixels reported that the Unconstrained College Student dataset was “providing the researchers with realistic surveillance images to help build face recognition systems for real world applications for defense, intelligence, and commercial partners.”
+- In total, MegaPixels located 24 million “non-cooperative, non-consensual photos in 30 publicly available face recognition and face analysis datasets” that “were collected without any explicit consent, a type of face image that researchers call ‘in the wild.’ Every image contains at least one face and many photos contain multiple faces. There are approximately 1 million unique identities across all 24 million images.”
+- Finally, the Times reported that a face database was gathered by the software company Clarifai with images from OKCupid, a dating site. Matthew Zeiler, the CEO of Clarifai, told the Times that he had access to the OKCupid images because “some of the dating site’s founders invested in his company.” Zeiler also said that he signed an agreement with a large unnamed social media company “to use its images in training face recognition models.”
+- Clarifai used the OKCupid photos to develop facial recognition software that can identify the age, sex and race of analyzed faces. When questioned about his intentions by the Times, Zeiler said, “Clarifai would sell its facial recognition technology to foreign governments, military operations and police departments provided the circumstances were right.”
+- The revelation that European- and US-based universities as well as Silicon Valley tech corporations have been involved in gathering “non-cooperative, non-consensual photos” for research purposes for more than ten years shows that the practical implementation of facial recognition and biometrics for state surveillance is well advanced. That these organizations secretly created and shared facial images for AI development also exposes the willingness of significant layers of academia and corporate America to participate overtly in attacking basic democratic rights.
+- Although the information published in the “independent art and research project” MegaPixels by Adam Harvey and Jules LaPlace—with support from the open source community at Mozilla—has been available since November 2017, the corporate media including the Times never saw fit to write about it until now. This is because there is growing public awareness and outrage in the US over facial recognition and biometrics surveillance of the entire population by local, state and federal police agencies.
+- Additionally, the Times story places emphasis on the use of facial image datasets by the Chinese government while deliberately leaving out significant details regarding the role of US, British and German military-intelligence in similar research. This position corresponds to the political and military strategy of ruling factions within these imperialist powers for a more aggressive posture toward China over strategic global interests.
+- The response of both Democrats and Republicans at every level of government is to push for legislation that will establish a legal framework for using facial recognition and AI tools to spy on the people. It is to this objective that the latest reports from the Times are directed and this is why certain key facts—especially those regarding the role of US military-intelligence—have been excluded from their coverage.
+- Fill in your details below or click an icon to log in:
+- You are commenting using your WordPress.com account.			
+				( Log Out / 
+				Change )
+- You are commenting using your Facebook account.			
+				( Log Out / 
+				Change )
+- Connecting to %s
+- Notify me of new comments via email.
+- Notify me of new posts via email.
+- 
+- 
+- Δ
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- A Revolutionary Black Molecule
+- 
+- Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+- Email Address:
+- Subscribe
+- Email Address:
+- Follow
+- Latest from Desultory Heroics
+
+URL: https://www.cpr.org/2019/05/28/study-on-colorado-springs-campus-took-secret-pictures-to-enhance-facial-recognition-technology/
+- A Colorado university professor took thousands of photos of students and faculty without their knowledge as part of research to improve facial recognition software for the U.S. military.
+- As first reported locally by the Colorado Springs Independent, for several days back in 2012 and 2013, Terrance Boult positioned a camera on a window ledge. He then took continuous photos of pedestrians on a particular stretch of sidewalk on the campus below.
+- Boult is a professor of innovation and security at the University of Colorado at Colorado Springs. The U.S. Navy funded his research to improve long range facial recognition capabilities.
+- “We were looking at making algorithms that understood the issues of blur,” said Boult. “Because as you go through the atmosphere things get blurry.”
+- Since it’s a university, some of the same people passed by the camera regularly. And Boult could use these matching photos to improve the algorithm overall.
+- Denise Mayes with the ACLU of Colorado is not impressed.
+- “I don’t know that there’s been consensus on whether or not facial recognition technology is a good thing,” she said. “I’m not sold.”
+- Mayes worries about the privacy issue when it comes to this technology.  She's also concerned about the people who ended up in Boult's dataset.
+- But Boult said this technology is already too entrenched to pull back.
+- “If we as researchers don’t make facial recognition better,” Boult said, “then we increase the chance that the system will misidentify people and then cause other violations of people’s rights.”
+- As for his research methods, he said his study was conducted in a public space where there is no inherent right to privacy. And he said he worked hard to protect the people he photographed. He waited five years to release the data to other researchers and even then, under strict license parameters. He said no names or identities were ever gathered or shared without permission.
+- This story was produced by the Mountain West News Bureau, a collaboration between Wyoming Public Media, Boise State Public Radio in Idaho, KUNR in Nevada, KUER in Salt Lake City, and KRCC and KUNC in Colorado.
+- 
+- Southern Colorado is changing a lot these days. We can help you keep up. Sign up for the KRCC Weekly Digest here and get the stories that matter to Southern Colorado, delivered straight to your inbox.
+- 
+- KRCC and Colorado Public Radio recently transformed a building in downtown Colorado Springs into a state-of-the-art space. Learn more about the Southern Colorado Public Media Center.
+- Colorado Postcards are snapshots of our colorful state in sound. They give brief insights into our people and places, our flora and fauna, and our past and present, from every corner of Colorado. Listen now.
+- StoryCorps is coming to Colorado Springs June 1-28. SIGN UP HERE to tell your story at the mobile recording booth at the Plaza of the Rockies (or submit a story recorded remotely).
+- Our newsletters bring you a closer look at the Southern Colorado stories that affect you and the music that inspires you.
+- 
+
+- WILDTRACK pedestrian detection dataset
+- DukeMTMC facial recognition dataset
+- Page infoType: DataPublished: February 2023

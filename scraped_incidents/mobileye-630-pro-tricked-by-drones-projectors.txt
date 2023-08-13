@@ -1,0 +1,180 @@
+- Mobileye 630 PRO tricked by drones, projectors
+- Occurred: June 2019
+- Can you improve this page?Share your insights with us
+- A team of researchers at Ben Gurion University, Israel, have defeated a Renault Captur's 'Level 0' Mobileye 630 PRO Advanced Driver Assist System (ADAS) by following it with drones that projected images of fake roadsigns.
+- As Boing Boing points out, the attack could be used to trick cars into making manoeuvers that compromised the safety or integrity of their passengers and other users of the road — from unexpected swerves to sudden speed-changes to detours into unsafe territory.
+- Operator: Renault Developer: MobileyeCountry: Israel Sector: Automotive Purpose: Automate steering, acceleration, braking Technology: Computer vision Issue: Security, Safety; Accuracy/reliability Transparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Wikipedia profile
+- Nassi D., Ben-Netanel R., Elovici Y., Nassi B. (2019). MobilBye: Attacking ADAS with Camera Spoofing (pdf)
+- Incident video
+URL: https://www.bldgblog.com/2019/07/ghosts-only-cars-can-perceive/
+- BLDGBLOG
+- [Image: An otherwise unrelated image of car-based LiDAR navigation, via Singularity Hub].
+- There was a lot of design interest a few years back in a product that allowed cyclists to project their own bike lanes, an idea that is still being honed today.
+- Transportation infrastructure that only exists in the form of a projection is a great analogy for the state of cycling in the U.S. today, but what we might call projected infrastructure—road signs, bike lanes, and crosswalks that aren’t really there—can apparently also be weaponized, turned against the machine-sensing systems that navigate and steer driverless vehicles.
+- Researchers at Ben-Gurion University, for example, have shown that fake, drone-projected street signs can spoof driverless cars. Amazingly, these fake street signs can apparently exist for only 100 milliseconds and still be read as “real” by a car’s sensing package. They are like flickering ghosts only cars can perceive, navigational dazzle imperceptible to humans.
+- As if pitching a scene for the next Mission: Impossible film, Ars Technica explains that “a drone might acquire and shadow a target car, then wait for an optimal time to spoof a sign in a place and at an angle most likely to affect the target with minimal ‘collateral damage’ in the form of other nearby cars also reading the fake sign.” One car out of twenty suddenly takes an unexpected turn.
+- Although this spoof is, for now, entirely visual, “a more advanced attacker might combine GNSS [Global Navigation Satellite System] spoofing and perhaps even active radar countermeasures in a very serious bid at confusing its target,” Ars Technica adds. Cars, lost in their own technical hallucinations, being steered to unknown destinations, unaware that they’ve even strayed.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- Website
+- 
+- 
+- Δ
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- BLDGBLOG (“building blog”) was launched in 2004 and is written by Geoff Manaugh. More.
+
+URL: https://aabgu.org/drone-with-a-projector-successfully-trolls-cars-ai/
+
+URL: https://www.newyorkmetropolitan.com/tech/signs-from-above-drone-with-projector-successfully-trolls-car-ai
+- After a recent demo using GNSS spoofing confused a Tesla, a researcher from [email protected] reached out about an alternative bit of car tech foolery. The [email protected] team recently demonstrated an exploit against a Mobileye 630 PRO Advanced Driver Assist System (ADAS) installed on a Renault Captur, and the exploit relies on a drone with a projector faking street signs.
+- 
+- The Mobileye is a Level 0 system, which means it informs a human driver but does not automatically steer, brake, or accelerate the vehicle. This unfortunately limits the “wow factor” of [email protected]’s exploit video—below, we can see the Mobileye incorrectly inform its driver that the speed limit has jumped from 30km/h to 90km/h (18.6 to 55.9 mph), but we don’t get to see the Renault take off like a scalded dog in the middle of a college campus. It’s still a sobering demonstration of all the ways tricky humans can mess with immature, insufficiently trained AI.
+- Ben Nassi, a PhD student at CBG and member of the team spoofing the ADAS, created both the video and a page succinctly laying out the security-related questions raised by this experiment. The detailed academic paper the university group prepared goes further in interesting directions than the video—for instance, the Mobileye ignored signs of the wrong shape, but the system turned out to be perfectly willing to detect signs of the wrong color and size. Even more interestingly, 100ms was enough display time to spoof the ADAS even if that’s brief enough many humans wouldn’t spot the fake sign at all. The [email protected] team also tested the influence of ambient light on false detections: it was  to spoof the system late in the afternoon or at night, but attacks were reasonably likely to succeed even in fairly bright conditions.
+- Ars reached out to Mobileye for response and sat in on a conference call this morning with senior company executives. The company does not believe that this demonstration counts as “spoofing”—they limit their own definition of spoofing to inputs that a human would not be expected to recognize as an attack at all (I disagreed with that limited definition but stipulated it). We can call the attack whatever we like, but at the end of the day, the camera system accepted a “street sign” as legitimate that no human driver ever would. This was the impasse the call could not get beyond. The company insisted that there was no exploit here, no vulnerability, no flaw, and nothing of interest. The system saw an image of a street sign—good enough, accept it and move on.
+- To be completely fair to Mobileye, again, this is just a level 0 ADAS. There’s very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would  be sufficient in semi-autonomous vehicles, relying only on other, conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+- This isn’t the first time we’ve covered the idea of spoofing street signs to confuse autonomous vehicles. Notably, a project in 2017 played with using stickers in an almost-steganographic way: alterations that appeared to be innocent weathering or graffiti to humans could alter the meaning of the signs entirely to AIs, which may interpret shape, color, and meaning differently than humans do.
+- However, there are a few new factors in BGU’s experiment that make it interesting. No physical alteration of the scenery is required; this means no chain of physical evidence, and no human needs to be on the scene. It also means setup and teardown time amounts to “how fast does your drone fly?” which may even make targeted attacks possible—a drone might acquire and shadow a target car, then wait for an optimal time to spoof a sign in a place and at an angle most likely to affect the target with minimal “collateral damage” in the form of other, nearby cars also reading the fake sign. Finally, the drone can operate as a multi-pronged platform—although BGU’s experiment involved a visual projector only, a more advanced attacker might combine GNSS spoofing and perhaps even active radar countermeasures in a very serious bid at confusing its target.
+- Latest Articles
+- Related Articles
+- ©2021 Copyright - New York Metropolitan Magazine
+
+URL: https://boingboing.net/2019/07/06/flickering-car-ghosts.html
+- 
+- In MobilBye: Attacking ADAS with Camera Spoofing, a group of Ben Gurion security researchers describe how they were able to defeat a Renault Captur's "Level 0" autopilot (Level 0 systems advise human drivers but do not directly operate cars) by following them with drones that projected images of fake roadsigns for a 100ms instant — too short for human perception, but long enough for the autopilot's sensors.
+- Such an attack would leave no physical evidence behind and could be used to trick cars into making maneuvers that compromised the safety or integrity of their passengers and other users of the road — from unexpected swerves to sudden speed-changes to detours into unsafe territory.
+
+As Geoff Manaugh writes on BLDGBLOG, "They are like flickering ghosts only cars can perceive, navigational dazzle imperceptible to humans."
+
+The "imperceptible to humans" part is the most interesting thing about this: we tend to think of electronic sensors' ability to exceed human sensory capacity as a feature: but when you're relying on a "human in the loop" to sanity-check an algorithm's interpretations of the human-legible world, attackers' ability to show the computer things that the human can't see is a really interesting and gnarly problem.
+
+
+To be completely fair to Mobileye, again, this is just a level 0 ADAS. There's very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would also be sufficient in semi-autonomous vehicles, relying only on other conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+
+
+MobilBye: Attacking ADAS with Camera Spoofing [Dudi Nassi, Raz Ben-Netanel, Yuval Elovici, Ben Nassi/Arxiv]
+
+Signs from above: Drone with projector successfully trolls car AI [Jim Salter/Ars Technica]
+
+
+Ghosts Only Cars Can Perceive
+ [Geoff Manaugh/BLDGBLOG]
+
+(via Beyond the Beyond)
+- Such an attack would leave no physical evidence behind and could be used to trick cars into making maneuvers that compromised the safety or integrity of their passengers and other users of the road — from unexpected swerves to sudden speed-changes to detours into unsafe territory.
+- As Geoff Manaugh writes on BLDGBLOG, "They are like flickering ghosts only cars can perceive, navigational dazzle imperceptible to humans."
+
+The "imperceptible to humans" part is the most interesting thing about this: we tend to think of electronic sensors' ability to exceed human sensory capacity as a feature: but when you're relying on a "human in the loop" to sanity-check an algorithm's interpretations of the human-legible world, attackers' ability to show the computer things that the human can't see is a really interesting and gnarly problem.
+
+
+To be completely fair to Mobileye, again, this is just a level 0 ADAS. There's very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would also be sufficient in semi-autonomous vehicles, relying only on other conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+
+
+MobilBye: Attacking ADAS with Camera Spoofing [Dudi Nassi, Raz Ben-Netanel, Yuval Elovici, Ben Nassi/Arxiv]
+
+Signs from above: Drone with projector successfully trolls car AI [Jim Salter/Ars Technica]
+
+
+Ghosts Only Cars Can Perceive
+ [Geoff Manaugh/BLDGBLOG]
+
+(via Beyond the Beyond)
+- The "imperceptible to humans" part is the most interesting thing about this: we tend to think of electronic sensors' ability to exceed human sensory capacity as a feature: but when you're relying on a "human in the loop" to sanity-check an algorithm's interpretations of the human-legible world, attackers' ability to show the computer things that the human can't see is a really interesting and gnarly problem.
+- To be completely fair to Mobileye, again, this is just a level 0 ADAS. There's very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would also be sufficient in semi-autonomous vehicles, relying only on other conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+- To be completely fair to Mobileye, again, this is just a level 0 ADAS. There's very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would also be sufficient in semi-autonomous vehicles, relying only on other conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+- MobilBye: Attacking ADAS with Camera Spoofing [Dudi Nassi, Raz Ben-Netanel, Yuval Elovici, Ben Nassi/Arxiv]
+
+Signs from above: Drone with projector successfully trolls car AI [Jim Salter/Ars Technica]
+
+
+Ghosts Only Cars Can Perceive
+ [Geoff Manaugh/BLDGBLOG]
+
+(via Beyond the Beyond)
+- MobilBye: Attacking ADAS with Camera Spoofing [Dudi Nassi, Raz Ben-Netanel, Yuval Elovici, Ben Nassi/Arxiv]
+
+Signs from above: Drone with projector successfully trolls car AI [Jim Salter/Ars Technica]
+
+
+Ghosts Only Cars Can Perceive
+ [Geoff Manaugh/BLDGBLOG]
+
+(via Beyond the Beyond)
+- Signs from above: Drone with projector successfully trolls car AI [Jim Salter/Ars Technica]
+- Ghosts Only Cars Can Perceive
+ [Geoff Manaugh/BLDGBLOG]
+
+(via Beyond the Beyond)
+- (via Beyond the Beyond)
+- A 26-year-old man was stopped by TSA workers at Boston Logan Airport while attempting to bring a metal drinking straw with a sharpened tip in his carry-on luggage. Known as…        READ THE REST
+- A gentleman with three margaritas under his belt was recently apprehended at an airport after attempting to board a flight while under the influence. Despite his best efforts to convince…        READ THE REST
+- "Whole time they missed a whole bomb in my bag," said Dorion Young Davis, 26, as TSA agents patted her down at the Fort Lauderdale-Hollywood International Airport on Tuesday. Apparently,…        READ THE REST
+- We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. TL;DR: Up your food prep game with…        READ THE REST
+- We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. TL;DR: Life is chaotic, and the last…        READ THE REST
+- We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. TL;DR: Rain, snow, or shine with this…        READ THE REST
+- Read the rules you agree to by using this website in our Terms
+                            of
+                            Service.
+- We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising
+                        program
+                        designed to provide a means for us to earn fees by linking to Amazon.com and affiliated
+                        sites.
+- Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise
+                        sales
+                        and affiliate links. Read about what we do with the data we gather in our Privacy Policy.
+- Who will be eaten first? Our forum rules are detailed in the Community Guidelines.
+- Boing Boing is published under a Creative Commons
+                            license except where otherwise noted.
+
+URL: https://arstechnica.com/cars/2020/01/how-a-300-projector-can-fool-teslas-autopilot/
+- Front page layout
+- Site theme
+- Jim Salter
+    -  Jan 28, 2020 1:00 pm UTC
+- Six months ago, Ben Nassi, a PhD student at Ben-Gurion University advised by Professor Yuval Elovici, carried off a set of successful spoofing attacks against a Mobileye 630 Pro Driver Assist System using inexpensive drones and battery-powered projectors. Since then, he has expanded the technique to experiment—also successfully—with confusing a Tesla Model X and will be presenting his findings at the Cybertech Israel conference in Tel Aviv.
+- The spoofing attacks largely rely on the difference between human and AI image recognition. For the most part, the images Nassi and his team projected to troll the Tesla would not fool a typical human driver—in fact, some of the spoofing attacks were nearly steganographic, relying on the differences in perception not only to make spoofing attempts successful but also to hide them from human observers.
+- Nassi created a video outlining what he sees as the danger of these spoofing attacks, which he called "Phantom of the ADAS," and a small website offering the video, an abstract outlining his work, and the full reference paper itself. We don't necessarily agree with the spin Nassi puts on his work—for the most part, it looks to us like the Tesla responds pretty reasonably and well to these deliberate attempts to confuse its sensors. We do think this kind of work is important, however, as it demonstrates the need for defensive design of semi-autonomous driving systems.
+- Nassi and his team's spoofing of the Model X was carried out with a human assistant holding a projector, due to drone laws in the country where the experiments were carried out. But the spoof could have also been carried out by drone, as his earlier spoofing attacks on a Mobileye driver-assistance system were.
+- From a security perspective, the interesting angle here is that the attacker never has to be at the scene of the attack and doesn't need to leave any evidence behind—and the attacker doesn't need much technical expertise. A teenager with a $400 drone and a battery-powered projector could reasonably pull this off with no more know-how than "hey, it'd be hilarious to troll cars down at the highway, right?" The equipment doesn't need to be expensive or fancy—Nassi's team used several $200-$300 projectors successfully, one of which was rated for only 854x480 resolution and 100 lumens.
+- Of course, nobody should be letting a Tesla drive itself unsupervised in the first place—Autopilot is a Level 2 Driver Assistance System, not the controller for a fully autonomous vehicle. Although Tesla did not respond to requests for comment on the record, the company's press kit describes Autopilot very clearly (emphasis ours):
+- Autopilot is intended for use only with a fully attentive driver who has their hands on the wheel and is prepared to take over at any time. While Autopilot is designed to become more capable over time, in its current form, it is not a self-driving system, it does not turn a Tesla into an autonomous vehicle, and it does not allow the driver to abdicate responsibility. When used properly, Autopilot reduces a driver's overall workload, and the redundancy of eight external cameras, radar and 12 ultrasonic sensors provides an additional layer of safety that two eyes alone would not have.
+- Even the name "Autopilot" itself isn't as inappropriate as many people assume—at least, not if one understands the reality of modern aviation and maritime autopilot systems in the first place. Wikipedia references the FAA's Advanced Avionics Handbook when it defines autopilots as "systems that do not replace human operators, [but] instead assist them in controlling the vehicle." On the first page of the Advanced Avionics Handbook's chapter on automated flight control, it states: "In addition to learning how to use the autopilot, you must also learn when to use it and when not to use it."
+- Within these constraints, even the worst of the responses demonstrated in Nassi's video—that of the Model X swerving to follow fake lane markers on the road—doesn't seem so bad. In fact, that clip demonstrates exactly what should happen: the owner of the Model X—concerned about what the heck his or her expensive car might do—hit the brakes and took control manually after Autopilot went in an unsafe direction.
+- The problem is, there's good reason to believe that far too many drivers don't believe they really need to pay attention. A 2019 survey demonstrated that nearly half of the drivers polled believed it was safe to take their hands off the wheel while Autopilot is on, and six percent even thought it was OK to take a nap. More recently, Sen. Edward Markey (D-Mass.) called for Tesla to improve the clarity of its marketing and documentation, and Democratic presidential candidate Andrew Yang went hands-free in a campaign ad—just as Elon Musk did before him, in a 2018 60 Minutes segment.
+- The time may have come to consider legislation about drones and projectors specifically, in much the same way laser pointers were regulated after they became popular and cheap. Some of the techniques used in the spoofing attacks carried out here could also confuse human drivers. And although human drivers are at least theoretically available, alert, and ready to take over for any confused AI system today, that won't be the case forever. It would be a good idea to start work on regulations prohibiting spoofing of vehicle sensors before we no longer have humans backing them up.
+- Listing image by David Butow | Getty Images
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://arstechnica.com/cars/2019/06/spoofing-car-ai-with-projected-street-signs/
+- Front page layout
+- Site theme
+- Jim Salter
+    -  Jun 28, 2019 4:00 pm UTC
+- After a recent demo using GNSS spoofing confused a Tesla, a researcher from Cyber@BGU reached out about an alternative bit of car tech foolery. The Cyber@GBU team recently demonstrated an exploit against a Mobileye 630 PRO Advanced Driver Assist System (ADAS) installed on a Renault Captur, and the exploit relies on a drone with a projector faking street signs.
+- The Mobileye is a Level 0 system, which means it informs a human driver but does not automatically steer, brake, or accelerate the vehicle. This unfortunately limits the "wow factor" of Cyber@BGU's exploit video—below, we can see the Mobileye incorrectly inform its driver that the speed limit has jumped from 30km/h to 90km/h (18.6 to 55.9 mph), but we don't get to see the Renault take off like a scalded dog in the middle of a college campus. It's still a sobering demonstration of all the ways tricky humans can mess with immature, insufficiently trained AI.
+- Ben Nassi, a PhD student at CBG and member of the team spoofing the ADAS, created both the video and a page succinctly laying out the security-related questions raised by this experiment. The detailed academic paper the university group prepared goes further in interesting directions than the video—for instance, the Mobileye ignored signs of the wrong shape, but the system turned out to be perfectly willing to detect signs of the wrong color and size. Even more interestingly, 100ms was enough display time to spoof the ADAS even if that's brief enough that many humans wouldn't spot the fake sign at all. The Cyber@BGU team also tested the influence of ambient light on false detections: it was easier to spoof the system late in the afternoon or at night, but attacks were reasonably likely to succeed even in fairly bright conditions.
+- Ars reached out to Mobileye for response and sat in on a conference call this morning with senior company executives. The company does not believe that this demonstration counts as "spoofing"—they limit their own definition of spoofing to inputs that a human would not be expected to recognize as an attack at all (I disagreed with that limited definition but stipulated it). We can call the attack whatever we like, but at the end of the day, the camera system accepted a "street sign" as legitimate that no human driver ever would. This was the impasse the call could not get beyond. The company insisted that there was no exploit here, no vulnerability, no flaw, and nothing of interest. The system saw an image of a street sign—good enough, accept it and move on.
+- To be completely fair to Mobileye, again, this is just a level 0 ADAS. There's very little potential here for real harm given that the vehicle is not meant to operate autonomously. However, the company doubled down and insisted that this level of image recognition would also be sufficient in semi-autonomous vehicles, relying only on other conflicting inputs (such as GPS) to mitigate the effects of bad data injected visually by an attacker. Cross-correlating input from multiple sensor suites to detect anomalies is good defense in depth, but even defense in depth may not work if several of the layers are tissue-thin.
+- This isn't the first time we've covered the idea of spoofing street signs to confuse autonomous vehicles. Notably, a project in 2017 played with using stickers in an almost-steganographic way: alterations that appeared to be innocent weathering or graffiti to humans could alter the meaning of the signs entirely to AIs, which may interpret shape, color, and meaning differently than humans do.
+- However, there are a few new factors in BGU's experiment that make it interesting. No physical alteration of the scenery is required; this means no chain of physical evidence, and no human needs to be on the scene. It also means setup and teardown time amounts to "how fast does your drone fly?" which may even make targeted attacks possible—a drone might acquire and shadow a target car, then wait for an optimal time to spoof a sign in a place and at an angle most likely to affect the target with minimal "collateral damage" in the form of other nearby cars also reading the fake sign. Finally, the drone can operate as a multi-pronged platform—although BGU's experiment involved a visual projector only, a more advanced attacker might combine GNSS spoofing and perhaps even active radar countermeasures in a very serious bid at confusing its target.
+- Listing image by Getty / Aurich Lawson
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+- Tesla Autopilot tricked into accelerating
+- Teslas tricked into reacting to false lane markers
+- Page infoType: IncidentPublished: March 2023

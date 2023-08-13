@@ -1,0 +1,667 @@
+- Released: August 2021
+- Can you improve this page?Share your insights with us
+- Optimus is a humanoid robot being developed by Tesla. First announced by Tesla CEO Elon Musk at the the company's AI Day in August 2021 as the 'Tesla bot', two working prototypes named Optimus were revealed in September 2022.
+- Optimus is a general purpose robot the purpose of which, according to Musk, is to fulfill 'dangerous, repetitive and boring' tasks. It is controlled by Tesla's automotive advanced driver-assistance system. Optimus, Musk says, will cost 'much less than USD 20,000' and be available by 2027.
+- Optimus has been met with a mixture of acclaim, scepticism, and disappointment.
+- Reaction to Musk's initial announcement of a Tesla bot/robot at the auto company's 2021 AI Day was dominated by scepticism about its purpose and perceived marketing hype, the latter given Musk's numerous unfulfilled claims and promises about fully autonomous cars, robotaxis, and other products.
+- Tesla's 2022 working prototype appears to justify this scepticism. Whilst some commentators and experts praised Tesla's quick work, others highlighted what they saw as its underwhelming quality and lack of clear vision.
+- Others questioned Optimus' humanoid form and asked why Musk appears intent on replacing human activity rather than working in tandem with it.
+- Operator: Tesla Developer: TeslaCountry: USA Sector: TechnologyPurpose: Eliminate 'dangerous, repetitive, boring tasks'Technology: Robotics; Computer vision; NLP/text analysis Issue: Appropriateness/need; Accuracy/reliability; Employment - jobs Transparency: Marketing
+URL: https://en.wikipedia.org/wiki/Optimus_(robot)
+- 
+- Optimus, also known as Tesla Bot, is a conceptual general-purpose robotic humanoid under development by Tesla, Inc.[1] It was announced at the company's Artificial Intelligence (AI) Day event on August 19, 2021.[1] CEO Elon Musk claimed during the event that Tesla would likely build a prototype by 2022.[2] Musk is on record having said that he thinks Optimus "has the potential to be more significant than the vehicle business over time."[3][4]
+- On April 7, 2022, a display for the product was featured at the Tesla Giga Texas manufacturing facility during the Cyber Rodeo event. Musk said that he hopes to have the robot production-ready by 2023 and claimed Optimus will eventually be able to do "anything that humans don’t want to do."[3]
+- In June 2022, Musk announced the display model at the second AI Day event and the Giga Texas opening will not look anything like the first prototype that Tesla hopes to unveil later in 2022.[5]
+- In September 2022, semi-functional prototypes of Optimus were displayed at Tesla's second AI Day.[6][7] One prototype was able to walk about the stage and another, sleeker version could move its arms.[8][9]
+- Tesla Bot is planned to measure 5 ft 8 in (173 cm) tall and weigh 125 lb (57 kg). According to the presentation made during the first AI Day event, a Tesla Bot will be "controlled by the same AI system Tesla is developing for the advanced driver-assistance system used in its cars" and have a carrying capacity of 45 lb (20 kg).[10] Proposed tasks for the product are ones that are "dangerous, repetitive and boring", such as providing manufacturing assistance.[11]
+- Soon after the first AI Day event, many publications reacted with skepticism about the proposed product. Bloomberg News claimed that such a product constituted "mission creep" and stood outside "the company’s clean-energy initiatives."[12] The Washington Post argued that "Tesla has a history of exaggerating timelines and overpromising at its product unveilings and investor presentations."[1] The Verge similarly noted that "Tesla’s history is littered with fanciful ideas that never panned out... it’s anyone’s guess as to whether a working Tesla Bot will ever see the light of day"[13] and, in an editorial, described the Tesla Bot reveal as a "bizarre and brilliant bit of tomfoolery".[14]
+- The progress made with the prototypes shown at the second AI Day was praised by some commentators.[15] Other commentators stipulated that all that was shown in these latest presentations had already been accomplished by other robotics programs,[16] and that there appears to be little to suggest Tesla could "outpace other companies working on similar things."[17]
+- Carl Berry, a lecturer of robotics engineering, described the AI Day presentation as "the usual overblown hype."[14] Following the Tesla Bot display at the Cyber Rodeo event, researcher Gary Marcus stated he would "bet that no robot will be able to do all human tasks by the end of 2023."[3]
+- Deutsche Welle cited experts (AI researcher Filip Piekniewski, robotics expert Cynthia Yeung and executive director of Mass Robotics Tom Ryden) who called it a "complete and utter scam", questioned how advanced it really was, and criticized the choice of a humanoid form.[18]
+
+URL: https://www.tesla.com/AI
+- We develop and deploy autonomy at scale in vehicles, robots and more. We believe that an approach based on advanced AI for vision and planning, supported by efficient use of inference hardware, is the only way to achieve a general solution for full self-driving, bi-pedal robotics and beyond.
+- Create a general purpose, bi-pedal, autonomous humanoid robot capable of performing unsafe, repetitive or boring tasks. Achieving that end goal requires building the software stacks that enable balance, navigation, perception and interaction with the physical world. We’re hiring deep learning, computer vision, motion planning, controls, mechanical and general software engineers to solve some of our hardest engineering challenges.
+- Build AI inference chips to run our Full Self-Driving software, considering every small architectural and micro-architectural improvement while squeezing maximum silicon performance-per-watt. Perform floor-planning, timing and power analyses on the design. Write robust tests and scoreboards to verify functionality and performance. Implement drivers to program and communicate with the chip, focusing on performance optimization and redundancy. Finally, validate the silicon chip and bring it to mass production in our vehicles.
+- Build AI training chips to power our Dojo system. Implement bleeding-edge technology from the smallest training nodes to the multi-die training tiles. Design and architect for maximum performance, throughput and bandwidth at every granularity. Dictate physical methodology, floor-planning and other physical aspects of the chip. Develop pre-silicon verification and post-silicon validation methods to ensure functional correctness. Write compilers and drivers to optimize power and performance for our neural networks throughout the entire Dojo system. For more information about Dojo’s arithmetic formats and methods, download our latest whitepaper.
+- Design and build the Dojo system, from the silicon firmware interfaces to the high-level software APIs meant to control it. Solve hard problems with state-of-the-art technology for high-power delivery and cooling, and write control loops and monitoring software that scales. Work with every aspect of system design where the limit is only your imagination, employing the full prowess of our mechanical, thermal and electrical engineering teams to create the next-generation of machine learning compute for use in Tesla datacenters. Collaborate with Tesla fleet learning to deploy training workloads using our massive datasets, and design a public facing API that will bring Dojo to the masses.
+- Apply cutting-edge research to train deep neural networks on problems ranging from perception to control. Our per-camera networks analyze raw images to perform semantic segmentation, object detection and monocular depth estimation. Our birds-eye-view networks take video from all cameras to output the road layout, static infrastructure and 3D objects directly in the top-down view. Our networks learn from the most complicated and diverse scenarios in the world, iteratively sourced from our fleet of millions of vehicles in real time. A full build of Autopilot neural networks involves 48 networks that take 70,000 GPU hours to train 🔥. Together, they output 1,000 distinct tensors (predictions) at each timestep.
+- Develop the core algorithms that drive the car by creating a high-fidelity representation of the world and planning trajectories in that space. In order to train the neural networks to predict such representations, algorithmically create accurate and large-scale ground truth data by combining information from the car's sensors across space and time. Use state-of-the-art techniques to build a robust planning and decision-making system that operates in complicated real-world situations under uncertainty. Evaluate your algorithms at the scale of the entire Tesla fleet.
+- Throughput, latency, correctness and determinism are the main metrics we optimize our code for. Build the Autopilot software foundations up from the lowest levels of the stack, tightly integrating with our custom hardware. Implement super-reliable bootloaders with support for over-the-air updates and bring up customized Linux kernels. Write fast, memory-efficient low-level code to capture high-frequency, high-volume data from our sensors, and to share it with multiple consumer processes— without impacting central memory access latency or starving critical functional code from CPU cycles. Squeeze and pipeline compute across a variety of hardware processing units, distributed across multiple system-on-chips.
+- Build open- and closed-loop, hardware-in-the-loop evaluation tools and infrastructure at scale, to accelerate the pace of innovation, track performance improvements and prevent regressions. Leverage anonymized characteristic clips from our fleet and integrate them into large suites of test cases. Write code simulating our real-world environment, producing highly realistic graphics and other sensor data that feed our Autopilot software for live debugging or automated testing.
+- Thank you for your application.
+- The website encountered an unexpected error. Please try again later.
+- Tesla participates in the E-Verify Program.
+- Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.
+- Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.
+- For quick access to screen reading technology compatible with this site, download a free compatible screen reader (view the free step-by-step tutorial).
+- 
+
+URL: https://www.youtube.com/watch?v=HUP6Z5voiS8
+
+URL: https://www.youtube.com/watch?v=ODSJsviD_SU
+
+URL: https://www.theverge.com/2021/8/20/22633958/tesla-bot-elon-musk-ai-day
+- By  James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.
+- After a dense presentation about the undeniably impressive work Tesla is doing with AI, the company’s self-anointed Technoking, Elon Musk, capped the evening by bringing out a dancer in a spandex suit. Behold, said Musk: my Tesla Bot.
+- The dancer in the suit, he said, was the model for a new humanoid robot Tesla will produce in the near future. After the dubstep and applause had faded, the vaguest of briefing slides promised that the Tesla Bot will stand five feet, eight inches (1.7m), weigh 125 pounds (56kg), have “human-level hands,” and eliminate “dangerous, repetitive, boring tasks.”
+- A robot is just a Tesla without wheels, says Musk
+- Musk said that building a human-replacement robot — something no company in the world is close to achieving — was a logical step forward from Tesla’s work developing self-driving cars. “Our cars are semi-sentient robots on wheels,” he said. “It kind of makes sense to put that on to a humanoid form. We’re also quite good at sensors and batteries and actuators so we think we’ll probably have a prototype some time next year that basically looks like this.”
+- Even by Musk’s standards, it was a bizarre and brilliant bit of tomfoolery: a multipurpose sideshow that trolled Tesla skeptics, fed the fans, ginned up the share price, and created some eye-catching headlines. The latter being particularly important in a week when most Tesla news has focused on a federal investigation into a tendency of the company’s Autopilot software to crash into parked emergency vehicles. Forget about all that, says Musk, just look at the person in the spandex suit! Next year, it’ll be a real robot, I promise.
+- Do you believe him? Should you believe him? I won’t answer that for you, but I want to restate the facts. Elon Musk got up on stage last night and promised that Tesla, a company whose driver assist software is unable to reliably avoid parked ambulances, would soon build a fully functioning humanoid robot. Musk said that the machine would be able to follow human instructions intuitively, responding correctly to commands like “please go to a store and get me the following groceries.” He outlined these scenarios and then said: “Yeah, I think we can do that.” This was minutes after he’d ushered away the best demo of the Tesla Bot available: a dancer in a spandex suit. If nothing else, you have to admire the chutzpah.
+- To put Musk’s claims in context, remember that Boston Dynamics, a company which makes Atlas, the most advanced bipedal robot in the world, has never described its machines as anything but R&D. Atlas, says Boston Dynamics, is simply a way to push the cutting edge of robotics: it’s not even close to commercial deployment. In recent videos of the machine, the company showed how difficult building a bipedal robot is and how often Atlas trips and falls. It’s also worth noting that Boston Dynamics has been working on Atlas and its bipedal predecessors for more than a decade. Musk thinks he can leapfrog their work in a year.
+- “[Calling it] horse shit sounds generous, frankly.”
+- Carl Berry, a lecturer in robotics engineering at the UK’s University of Central Lancashire, put things to me in less uncertain terms: “[Calling it] horse shit sounds generous, frankly. I’m not saying that he shouldn’t be doing research like this, but it’s the usual overblown hype.” Berry stressed that deploying robotics and AI in manufacturing usually required making the simplest machine possible: not the most complex.
+- “I’m not saying Tesla researching this stuff isn’t a good thing,” he said, “but between them and companies like Boston Dynamics they leave the public with unrealistic expectations of what robotics is currently capable of or will be for many years.”
+- I personally don’t doubt that if Musk wants to he can produce something that looks like a Tesla Bot in 2022. It wouldn’t be hard to make a decent automaton — something on the level of Disney’s more advanced theme park models, for example. Once he’s got it to walk out onstage he can even send it to space, just for the headlines. But if he does, it will be just another distraction. Robotics are having a huge effect on manufacturing, no doubt about that, but there’s no need to pretend that machines need to look human to do so.
+- This sort of bait-and-switch is often how Musk operates. Just think about how his plans for the Hyperloop changed over time. The technology was announced as a railgun-like train system that would move people from Los Angeles to San Francisco in less than half an hour. Over the years, these ambitions have shrunk until the project morphed into The Loop: a small tunnel that you can drive a car through, if you want. (Otherwise known as: a tunnel.)
+- What the Tesla Bot really reminded me of is Sophia: the mechanical chatbot that’s appeared on chat shows and magazine covers. Sophia relies on misdirection to fool audiences and is a regular target of AI experts’ scorn. But it also has a job to do. As one of the robot’s creators, Ben Goertzel, told me in 2017, Sophia works by priming our imagination, encouraging us to fool ourselves into thinking the future is closer than the evidence suggests. In the process, the robot generates funding and news coverage for its makers.
+- “If I tell people I’m using probabilistic logic to do reasoning on how best to prune the backward chaining inference trees that arise in our logic engine, they have no idea what I’m talking about,” said Goertzel. “But if I show them a beautiful smiling robot face, then they get the feeling that AGI may indeed be nearby and viable.”
+- That feeling is what Musk wants to inculcate in his audience, be they investors or otherwise. His twist on the Sophia strategy is that he doesn’t even need a simulacrum of a robot to sell the dream. All he needs is a dancer in a spandex suit. Now that’s innovation.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day
+- By  Sean O'Kane
+- Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla’s experience with automated machines in its factories, as well as some of the hardware and software that powers the company’s Autopilot driver assistance software.
+- Musk, who has spoken repeatedly about his fears of runaway artificial intelligence, said the Tesla Bot is “intended to be friendly,” but that the company is designing the machine at a “mechanical level” so that “you can run away from it, and most likely overpower it.” It will be five feet, eight inches tall, weigh 125 pounds, and have a screen for a face. The code name for the bot inside the company is “Optimus,” he said.
+- The robots will be designed to handle “tasks that are unsafe, repetitive or boring,” the company’s website reads, but little else, at least at first. (There, the bot is simply called “Tesla Bot.”) “I think essentially in the future, physical work will be a choice, if you want to do it you can,” Musk said.
+- Musk revealed drawings of the robot near the tail end of his company’s “AI Day” event, where it showcased some of the artificial intelligence and supercomputer technologies that it’s working on with the goal of one day powering self-driving cars. The company also had a mannequin version on the stage, which wasn’t working.
+- Tesla’s history is littered with fanciful ideas that never panned out — like a solar-powered Supercharger network, battery swapping, or robotic snake-style chargers — so it’s anyone’s guess as to whether a working Tesla Bot will ever see the light of day. But the company is where it is today because of Musk’s sheer will. Asked about the near-term economics of entering the robotics industry, though, Musk said “we will have to see.”
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.washingtonpost.com/technology/2021/08/19/tesla-ai-day-robot/
+- This article was published more than 1 year ago
+- SAN FRANCISCO — Tesla has a history of making big promises. But its newest one is just average size, about 5-foot-8 and 125 pounds, according to CEO and self-professed “Technoking” Elon Musk.
+- Tesla says it plans to build a humanoid robot to perform basic tasks, such as wrenching on cars or making grocery runs. It’s part of the company’s broader ambitions in automation, which include building its own computer chip, dubbed the D1, to power the networks for vehicles it hopes to one day make self-driving.
+- Tesla previewed the robot concept at a presentation at its Fremont, Calif., factory Thursday, calling it the “Tesla Bot” and “Optimus,” and said it would show a prototype next year. As part of the presentation, a human dressed as the machine made robotic gestures and then danced onstage, perhaps demonstrating the range of motion that Tesla hopes the bot could achieve. Musk was quick to clarify that the dancer was not a real robot.
+- The company touted hardware such as its Full Self-Driving computer and computer chips, which it said could be integrated into the robot. It said the robot would also be outfitted with a screen and Tesla’s Autopilot system, consisting of eight cameras.
+- Tesla’s driver-assistance systems have come under scrutiny recently from industry rivals and federal safety investigators concerned about their rapid deployment on public roads. The National Highway Traffic Safety Administration started an investigation last week into Tesla’s driver-assistance suite, known as Autopilot, following nearly a dozen crashes involving parked emergency vehicles. Musk has expressed confidence, however, that Tesla’s cars will one day be able to drive themselves.
+- “We have almost all the pieces needed for humanoid robots, since we already make robots with wheels,” Musk said on Twitter shortly after the presentation, referring to Tesla’s cars.
+- Tesla Autopilot faces U.S. safety regulator’s scrutiny after crashes with emergency vehicles
+- Musk, acknowledging the concept was in its very early stages, said the robots would have a personality of their own.
+- “It’s intended to be friendly, of course,” he said, “and navigate through a world built for humans and eliminate dangerous, repetitive and boring tasks.”
+- He said humans need to be prepared for robots to perform menial tasks and ultimately work alongside them — if not phase them out of the workplace.
+- “Essentially in the future, physical work will be a choice: If you want to do it you can, but you won’t need to do it,” he said.
+- Tesla has had a contentious relationship with its factory workforce at times, including findings that it violated labor rules in the past, and reports that it called employees back to work during coronavirus shutdowns and terminated them for not reporting to the factory line during the pandemic. The company’s efforts to automate tasks have sometimes been too rapid, forcing it to backtrack and reintegrate people into the process.
+- Tesla’s robot mock-up showed a white-clad humanoid outfitted with sensors. It would be “built by humans, for humans,” according to the presentation. The robot could dead lift up to 150 pounds and travel at 5 mph.
+- “We’re setting it so that it is at a mechanical and physical level you can run away from it and most likely overpower it,” Musk clarified.
+- Musk has been wary of the potential of artificial intelligence to outsmart humans, even citing it as the biggest threat to civilization.
+- Population collapse is 2nd biggest danger to civilization after AI imo
+- He said Tesla had decided to put its resources into what it believed would be an emerging field of technology.
+- “The robot is not prompted specifically by manufacturing needs. It’s just that we’re just obviously making the pieces that are needed for a useful humanoid robot so I guess we probably should make it,” he said. “And if we don’t someone else would. … I guess we should make it and make sure it’s safe.”
+- Tesla has a history of exaggerating timelines and overpromising at its product unveilings and investor presentations. The company unveiled its Cybertruck electric pickup in November 2019, though it recently acknowledged that the vehicle would not be delivered until 2022 at the earliest. The company also held a “Battery Day” event last year to debut its next-generation battery cell, which was to be included in its top-of-the-line Model S Plaid-Plus edition.
+- Earlier this year, however, Tesla announced it was canceling the Model S Plaid-Plus and delivered the Model S Plaid without the new battery.
+- Tesla is debuting the quickest-ever production car. But the question looms: Can Elon Musk still deliver?
+- Musk said Tesla’s robot might be called on to perform tasks such as driving a bolt into equipment using a wrench.
+- “This is why I think long term there will need to be universal basic income,” he said, “but not right now because this robot doesn’t work.”
+- “Join our team and help build this,” he added.
+
+URL: https://www.bloomberg.com/news/newsletters/2021-08-23/tesla-bot-started-with-a-human-dancer-will-it-become-real-robot
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.forbes.com/sites/jackkelly/2021/08/20/elon-musk-is-building-a-humanoid-robot-so-people-wont-have-to-do-boring-and-repetitive-tasks/
+- Tesla CEO Elon Musk is building a humanoid robot with artificial intelligence. (Photo by Frederic J. ... [+] BROWN / AFP)        (Photo credit should read FREDERIC J. BROWN/AFP via Getty Images)
+- Running Tesla, SpaceX, the Boring Company, Solar City, OpenAI and Neuralink isn’t enough for Elon Musk. In addition to all of his responsibilities, the multibillionaire CEO Musk unveiled a humanoid robot on Tesla’s AI Day.
+- It's called Tesla Bot. The humanoid robot, internally code-named Optimus, runs on the same artificial intelligence used by Tesla's autonomous vehicles. The prototype may be available next year, "but not right now because this robot doesn't work," Musk joked.
+- According to Tesla’s website, the Tesla Bot is part of the development of the “next generation of automation, including a general purpose, bi-pedal, humanoid robot capable of performing tasks that are unsafe, repetitive or boring.” The company said, “We’re seeking mechanical, electrical, controls and software engineers to help us leverage our AI expertise beyond our vehicle fleet.”
+- The Tesla Bot is “intended to be friendly.” For those who fear the robot running amuck, Musk says not to worry, as the company is designing the machine at a “mechanical level,” so that “you can run away from it and most likely overpower it.”
+- The humanoid robot will stand about 5 feet, 8 inches tall, weigh in at around 125 pounds and have a screen for a face. It will use sensors and other technologies that are found in Tesla’s automobiles. The bot can carry up to 45 pounds and deadlift up to 150 pounds. It's intended to move up to 5 mph.
+- The bot is built to take and carry out orders. You can “talk to it and say, 'please pick up that bolt and attach it to a car with that wrench,' and it should be able to do that," Musk said. "'Please go to the store and get me the following groceries.' That kind of thing. I think we can do that." He added, "We hope this does not feature in a dystopian sci-fi movie."
+- Unlike other carmakers that spend millions on advertising, Musk’s personality sells cars—and a lot of them. His lighthearted, slightly goofy schtick masks the dark side of AI. There is a real concern that as technology advances, there will be millions of Americans that could be displaced, lose their jobs and find themselves lacking the skills needed to compete.
+- Musk said the robot would have a "profound" impact on the economy, as AI and new technologies negate the need for human workers. He contends that physical work would be a choice in the future. With fewer jobs available, due to technological advancements, a universal basic income would be needed.
+- The AI Day comes on the heels of the National Highway Traffic Safety Administration’s investigation into the safety of Tesla's autonomous driving software. A couple of  U.S. senators turned to the Federal Trade Commission and asked the agency to investigate Tesla's marketing of its autonomous drive software to determine if it's been deceptive.
+- 
+
+URL: https://www.wired.com/story/tesla-promised-robot-recruiting-pitch/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Aarian Marshall
+- Application
+- Human-computer interaction
+- End User
+- Consumer
+- Sector
+- Automotive
+- Source Data
+- Images
+- Video
+- Technology
+- Machine vision
+- Robotics
+- The Tesla recruitment presentation ended Thursday night when a person in a tight white suit, their head encased in black, robot-walked onto the dark stage. Techno music blared, and the person began to Charleston. The person did the running man. The person waggled their shoulders and extended their arms into jazz hands. “All right. Thank you,” CEO Elon Musk said, an eternal-seeming 40 seconds into the freestyle, cutting off the dance.
+- The person represented a robot, what Musk alternatively called Tesla Bot and Optimus (“sub prime,” he joked). Someday—“sometime next year,” said Musk, the eternal optimist—a prototype of the robot will perform “boring, repetitive, and dangerous” tasks. Musk said the bot would use the same advanced artificial intelligence technology that may one day allow its cars to drive themselves—though today they are limited to simple tasks such as changing lanes and navigating parking lots. The robot would have “profound implications for the economy,” Musk explained. Then he got to the point: “Yeah, join our team and help build this.”
+- Thursday’s AI Day presentation, broadcast on the internet from a stage in Palo Alto, had all the trappings of prior primetime Tesla spectacles, which have included crowds of fans, free flowing alcohol, and lots of lighting gels. But AI Day was geared toward the geeky set, the folks who might make the company’s tech work. Think of the whole thing as a very fancy job fair. By minute two of the slide-laden presentation, Tesla AI director Andrej Karpathy was deep into the sort of talk usually confined to university classrooms and corporate conference rooms, and had displayed a schematic of a neural net on screen. Just after the robot’s debut, another slide made the message explicit, pointing viewers toward a webpage where engineers can apply for a job. Yet close to a million people have watched the presentation on Tesla’s YouTube channel—despite the fact that the show ended after 11 pm ET.
+- In this way, AI Day might have been the ur-Tesla event, combining clever, experimental technology with the bombastic goofiness of a person in a robot suit, hyping a product that won’t exist for some time. Tesla hopes the mix will help it finesse one of the hardest tasks of all: attracting AI engineers in a stretched market.
+- Forgotten were previous promises from earlier presentations. More than two years ago, Musk said that there would be 1 million Tesla robotaxis on the road by the end of 2020. But Tesla’s cars still can’t drive on their own, and the tech relies on human drivers to supervise the machine’s actions on the road. Meanwhile, a new and cutting edge battery first detailed during last September’s Battery Day event has hit production speed bumps, Musk said on an earnings call last month, and may not be ready for the debut of a new Model Y later this year. This would further delay Tesla’s promised cost reductions and its long-pledged dream of a $25,000 electric car.
+- The presentation also dodged mention of a preliminary investigation opened by federal regulators last week into Autopilot, Tesla’s controversial advanced driving assistance feature. The National Highway Traffic Safety Administration pointed to at least 11 incidents since 2018 in which Teslas on Autopilot slammed into police, fire, or ambulance vehicles stopped on roads, killing one person and injuring 17. The company’s driver manual warns that the system may not brake for stationary vehicles. Experts say these features are trained to detect things that are moving, not things that aren’t moving, in part to avoid false positives that might lead to sudden stops. If the investigation leads to a recall, it could affect more than 700,000 Models S, X, Y, and 3 on the road.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- A person dressed in a skintight "Tesla bot" suit gets down at the Tesla AI Day event on Thursday. Elon Musk said a prototype of the Tesla bot, codenamed Optimus, will be completed "sometime next year." He said it will stand 5'8", weigh 125 pounds, and move up to 5 mph. "If you can run faster than that, you'll be fine," he joked.
+- Musk’s deputies did get into the nitty-gritty of the company's tech, promising a future in which a Tesla might actually drive itself. (The company has sold what it calls a “full self-driving” software add-on for anywhere between $5,000 and $10,000 since 2015, and now offers a $199 monthly subscription.) Karpathy detailed a clever but experimental approach to stitching together information from a vehicle’s eight cameras into one neural network. Ganesh Venkataramanan, a senior director of Autopilot hardware, giggled as he showed off a 9-petaflop training chip that the company says will power its supercomputer, allowing it to process images four times faster than competitors. Presenters also flexed Tesla’s hyperrealistic simulations, which allow the company to train its vehicles’ software in virtual reality away from public roads. They said 1,000 people have worked on Tesla’s data labeling effort, labeling 371 million simulated images to transform them into teachable moments for machines.
+- The Tesla bot, which has dominated headlines, seemed the least-thought-out part of the presentation. In response to a question pointing to the difficulty of building a humanoid robot with five fingers, Musk mused that two fingers and a thumb might do the trick for most simple tasks, but “for now, we’ll give it five fingers and see if it works out OK. It probably will.” An audience member noted that repetitive and boring tasks are often poorly compensated, and wondered about the economics of building and selling the bot. He motioned toward an important point: Humanoid robots are great for GIFs, but have had trouble finding work in the real world. Musk went for a tried-and-true technique: a mysterious copout. “Well, I guess you’ll just have to see,” he said.
+- Will Knight contributed to this report.
+- Chris Stokel-Walker
+- Chris Stokel-Walker
+- Will Knight
+- Gregory Barber
+- Virginia Heffernan
+- Matt Burgess
+- Vittoria Elliott
+- Will Knight
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://spectrum.ieee.org/elon-musk-robot
+- IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.
+- Humanoid robots are way harder than Musk seems to think
+- Yesterday, at the end of 
+	Tesla's AI Day, Elon Musk introduced a concept for "Tesla Bot," a 125 lb, 5'8" tall electromechanically actuated autonomous bipedal "general purpose" humanoid robot. By "concept," I mean that Musk showed some illustrations and talked about his vision for the robot, which struck me as, let's say, somewhat naïve. Based on the content of a six-minute long presentation, it seems as though Musk believes that someone (Tesla, suddenly?) should just go make an autonomous humanoid robot already—like, the technology exists, so why not do it?
+- To be fair, Musk did go out and do more or less much exactly that for electric cars and reusable rockets. But humanoid robots are much different, and much more complicated. With rockets, well, we already had rockets. And with electric cars, we already had cars, batteries, sensors, and the 
+	DARPA competitions to build on. I don't say this to minimize what Musk has done with SpaceX and Tesla, but rather to emphasize that humanoid robotics is a very different challenge.
+- Unlike rockets or cars, humanoid robots aren't an existing technology that needs an ambitious vision plus a team of clever people plus sustained financial investment. With humanoid robotics, there are many more problems to solve, the problems are harder, and we're much farther away from practical solutions. Lots of very smart people have been actively working on these things for decades, and there's still a laundry list of fundamental breakthroughs in hardware and especially software that are probably necessary to make Musk's vision happen.
+- 
+- Are these fundamental breakthroughs impossible for Tesla? Not impossible, no. But from listening to what Elon Musk said today, I don't think he has any idea what getting humanoid robots to do useful stuff actually involves. Let's talk about why.
+- Watch the presentation if you haven't yet, and then let's go through what Musk talks about.
+- 
+- Okay, here we go!
+- I don't know what that even means. Semi-sentient? Sure, whatever, a cockroach is semi-sentient I guess, although the implicit suggestion that these robots are therefore somehow part of the way towards actual sentience is ridiculous. Besides, autonomous cars live in a highly constrained action space within a semi-constrained environment, and Tesla cars in particular have plenty of well-known issues with their autonomy.
+- Yes, because that's totally how it works. Look, the neural networks in a Tesla (the car) are trained to recognize the world from a car's perspective. They look for things that cars need to understand, and they have absolutely no idea about anything else, which can cause all kinds of problems for them. Same with navigation: autonomous cars navigate through a world that consists of roads and road-related stuff. You can't just "put that" onto a humanoid robot and have any sort of expectation that it'll be useful, unless all you want it to do is walk down the middle of the street and obey traffic lights. Also, the suggestion here seems to be that "AI for general purpose robotics" can be solved by just throwing enough computing power at it, which as far as I'm aware is not even remotely how that works, especially with physical robots.
+- It's plausible that by spending enough money, Tesla could construct a humanoid robot with batteries, actuators, and computers in a similar design to what Musk has described. Can Tesla do it by sometime next year like Musk says they can? Sure, why not. But the hard part is not building a robot, it's getting that robot to do useful stuff, and I think Musk is way out of his depth here. People without a lot of experience in robotics often seem to think that once you've built the robot, you've solved most of the problem, so they focus on mechanical things like actuators and what it'll look like and how much it can lift and whatever. But that's backwards, and the harder problems come after you've got a robot that's mechanically functional.
+- What the heck does "human-level hands" mean?
+- This is one of the few good reasons to make a humanoid robot, and I'm not even sure that by itself, it's a good enough reason to do so. But in any case, the word "intended" is doing a lot of heavy lifting here. The implications of a world built for humans includes an almost infinite variety of different environments, full of all kinds of robot-unfriendly things, not to mention the safety aspects of an inherently unstable 125 lb robot.
+- 
+- I feel like I have a pretty good handle on the current state of the art in humanoid robotics, and if you visit this site regularly, you probably do too. Companies like Boston Dynamics and Agility Robotics have been working on robots that can navigate through human environments for literally decades, and it's still a super hard problem. I don't know why Musk thinks that he can suddenly do better.
+- The "human-level hands" that you see annotated in Musk's presentation above are a good example of why I think Musk doesn't really grasp how much work this robot is going to be. What does "human-level hands" even mean? If we're talking about five-fingered hands with human-equivalent sensing and dexterity, those do exist (sort of), although they're generally fragile and expensive. It would take an enormous engineering effort to make hands like that into something practical just from a hardware perspective, which is why nobody has bothered—most robots use much simpler, much more robust two or three finger grippers instead. Could Tesla solve this problem? I have no doubt that they could, given enough time and money. But they've also got every other part of the robot to deal with. And even if you can make the hardware robust enough to be useful, you've still got to come up with all of the software to make it work. Again, we're talking about huge problems within huge problems at a scale that it seems like Musk hasn't considered.
+- Great. This is what robots should be doing. But as Musk himself knows, it's easy to say that robots will eliminate dangerous, repetitive, and boring tasks, and much more difficult to actually get them to do it—not because the robots aren't capable, but because humans are far more capable. We set a very high bar for performance and versatility in ways that aren't always obvious, and even when they are obvious, robots may not be able to replicate them effectively.
+- Uh, okay.
+- Robots can already navigate through the world without "explicit line-by-line instructions" when they have a pretty good idea of what "the world" consists of. If the world is "roads" or "my apartment" or "this specific shopping mall," that's probably a 95%+ solved problem, keeping in mind that the last 5% gets ridiculously complicated. But if you start talking about "my apartment plus any nearby grocery store along with everything between my apartment and that grocery store," that's a whole lot of not necessarily well structured or predictable space.
+- And part of that challenge is just physically moving through those spaces. Are there stairs? Heavy doors? Crosswalks? Lots of people? These are complicated enough environments for those small wheeled sidewalk delivery robots with humans in the loop, never mind a (hypothetical) fully autonomous bipedal humanoid that is also carrying objects. And going into a crowded grocery store and picking things up off of shelves and putting them into a basket or a cart that then has to be pushed safely? These are cutting edge unsolved robotics problems, and we've barely seen this kind of thing happen with industrial arms on wheeled bases, even in a research context. Heck, even "pick up that bolt" is not an easy thing for a robot to do right now, if it wasn't specifically designed for that task.
+- Economics is well beyond my area of expertise, but as Musk says, until the robot works, this is all moot.
+- "AI for General Purpose Robotics." Sure.
+- It's possible, even likely, that Tesla will build some sort of Tesla Bot by sometime next year, as Musk says. I think that it won't look all that much like the concept images in this presentation. I think that it'll be able to stand up, and perhaps walk. Maybe withstand a shove or two and do some basic object recognition and grasping. And I think after that, progress will be slow. I don't think Tesla will catch up with Boston Dynamics or Agility Robotics. Maybe they'll end up with the equivalent of Asimo, with a PR tool that can do impressive demos but is ultimately not all that useful.
+- Part of what bothers me so much about all this is how Musk's vision for the Tesla Bot implies that he's going to just casually leapfrog all of the roboticists who have been working towards useful humanoids for decades. Musk assumes that he will be able to wander into humanoid robot development and do what nobody else has yet been able to do: build a useful general purpose humanoid. I doubt Musk intended it this way, but I feel like he's backhandedly suggesting that the challenges with humanoids aren't actually that hard, and that if other people were cleverer, or worked harder, or threw more money at the problem, then we would have had general purpose humanoids already.
+- I think he's wrong. But if Tesla ends up investing time and money into solving some really hard robotics problems, perhaps they'll have some success that will help move the entire field forward. And I'd call that a win.
+- Evan Ackerman is a senior editor at IEEE Spectrum. Since 2007, he has written over 6,000 articles on robotics and technology. He has a degree in Martian geology and is excellent at playing bagpipes.
+- Occasionally a field of understanding can advance when those involved don't know that they are trying to do something "impossible" or extremely difficult. Musk could go on a technology buying spree and assemble a collection of best-in-class robotics solutions to create his Muskbot. But combining products that excel in a single domain still requires elusive General AI software to complete the package. Maybe that is where ignorance of the difficulty involved can produce novel solutions...
+- How would you add in Tesla's purchase of Grohmann to your thesis? Do not these robots work at a very high level of humanoid function in their current manufacturing scheme? Is it such a leapfrog to extrapolate combining Dojo AI, neural net learning features, visual and other sensors into a reconfigured humanoid form? I for one am very excited at the prospect. While Boston Dynamics and others have established a great presence in the field with impressive creations, have they vertically integrated their approach as Tesla will do? Maybe they have. I honestly don't know. Yet I see Tesla's natural path in its product line architecture leading to exactly this. Optimize energy generation and storage, mobility, AI learning, robotics, and safety. What do you get? A whole line of autonomous vehicles and semi sentient beings with a sustainable energy grid to power them? Could this become the Tesla Empire? Or an abject failure of massive proportions? It will be great fun to watch this play out! By 2025 many of the possible scenarios should be unfolding.
+- So many of the problems outlined have Already been Solved by Boston Dynamics and other companies entering the robotics market. Going over broken terrain, up stairs, doing backflips, dancing. These were already solved. Tesla knows this as they have had a Boston Dynamics "dog" named Spot for some time. They also know how hard it is, not merely to navigate the environment but to ascribe "behavior" charactoristics to each item noted. For example a human crossing a crosswalk has a minimum and maximum rate of travel. A swarm of bees might be dangerous to a human or animal, so you shouldn't walk the dog through a swarm circling a broken hive.
+- Will it be ready next year? Certainly not, what they present next year will be a shell of a design if they present it on time. Will they have a product in 5 years? Probably a specialized one. In 10 years the industry might see this type of robot produced by a number of vendors.
+- Their experience? Aside from already having the self-motivating software needed to navigate the world and understand it, which is a big part, they have Autopilot. And this would leverage that technology returning a greater return on the investment already years in the making. As to the actual body and its design, Tesla has Grohmann Manufacturing which specializes in building robots used in manufacturing... today. They are a world leader in designing robots for car manufacturing..... including grippers, actuators, sensors, use of tools to perform a job.
+- So what Musk is really suggesting is that Tesla combine his AI experience with cars and interpreting real world street driving with Grohmann's experience building a body to perform complex (though vertically integrated) tasks and produce a product that takes the experience of both to produce a more generalized "tool" that can perform tasks it is asked to do (little know fact is a Tesla car can also use verbal commands) in the real world.
+- The humanoid body has been used by many in the robotics industry. BD "Spot" is based off of the design of a grey hound, and moves in much the same way..... not instructed "line by line" but by neural net training.... much like a Tesla car.....
+- So yes. This is a natural leveraging of two of Tesla's greatest strengths. As for "leapfrogging" others who have been doing it for years...  I give you Spacex, Tesla, the Boring Company. The competition is years from a Mass market product. Tesla is arguably years into producing one of the great missing links that remains... navigating the real world and understanding not just the locations of the components.... but their likely behavior.
+- Do they need to learn how to build a humanoid robot that can balance, dance, go up stairs and do back flips? Yes, but that's already been done... it is not some new science as the author suggests. Do they need to design "human capable hands"? No. They have already done that. What does that mean? Hands that are agile, sense pressure, heat, can tell if a part is slipping in its grip and take appropriate action to remediate it as a human would. Ie increase pressure or rotate the part so it doesn't slip. Grohman has already done that. Manufacturing robots have to pick up parts all day long and attach them and be flexible enough to accept a range of parts... not one hand for each task.
+- So this has been done. They need to refine the hands, but they have done it before. They need to move like a human, but BD and others have done this. They need to understand the function of the components of the world and act appropriately as they carry out their spoken command... they have done this with autopilot.
+- It will be difficult but the have learning algorithms that go far beyond Roomba and have a piece of the puzzle that BD and others are still wrestling with. They know how to build robots, now they need to build human form robots that others have done and put it together.
+- So yes. It wont' be more than a concept demonstrator in a year, but in 5? Yes, they can have their prototypes, In 10 they could be mass marketing them and they have elements to bring to the table they are Already world leaders in.
+- Consider then the off-shoots that Other companies of Musk are Already working on. A Brain-computer interface that has already shown great promise for prosthetics for handicapped people. People with no sight having their optic nerve hacked to give sight of a sort through artificial eyes that allow one to navigate.... a leg that replaces a lost one and also leverages their world-leading battery tech to allow it to function independently etc.
+- Musk's companies are Far beyond cars. Check his AI company that does human-computer interfaces and you will see that he has Years of experience with human-form artificial components.
+- He is already working on bionics at his company Neuralink. Today. Getting results.
+- Imagine what the competition said when he proposed to have 42,000 satellites in orbit giving the world a second medium for the internet? He entered that market less than 5 years ago. Today with more than 1600 satellites in orbit and the means to launch 6x faster well underway (Starship) he is the undisputed leader in satellite production, launch and operations. He already has 100,000 subscribers and contracts with Microsoft, Google, the US Military among many others. He expects this fledgling enterprise  to make money on that in 2 more years.... lots of money to fund his Luna/Mars aspirations using a revolutionary rocket that is both reusable and can land 100 toms or 100 people on the moon.... NASA seems to believe he can and has contracted him to do so.
+- How is a human form robot far fetched?
+
+URL: https://spectrum.ieee.org/tesla-optimus-robot
+- IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.
+- Tesla fails to show anything uniquely impressive with its new humanoid robot prototype
+- Elon Musk unveiled the Optimus humanoid robot at Tesla’s AI Day 2022.
+- At the end of Tesla’s 2021 AI Day last August, 
+	Elon Musk introduced a concept for “Tesla Bot,” an electromechanically actuated, autonomous bipedal “general purpose” humanoid robot. Musk suggested that a prototype of Tesla Bot (also called “Optimus”) would be complete within the next year. After a lot of hype, a prototype of Tesla Bot was indeed unveiled last night at Tesla’s 2022 AI Day. And as it turns out, the hype was just that—hype.
+- While there’s absolutely nothing 
+	wrong with the humanoid robot that Musk very briefly demonstrated on stage, there’s nothing uniquely right, either. We were hoping for (if not necessarily expecting) more from Tesla. And while the robot isn’t exactly a disappointment, there’s very little to suggest that it disrupts robotics the way that SpaceX did for rockets or Tesla did for electric cars.
+- You can watch the entire 3+ hour live stream archived on YouTube 
+	here (which also includes car stuff and whatnot), but we’re just going to focus on the most interesting bits about Tesla Bot/Optimus.
+- Before revealing the robot, Musk attempted to set reasonable expectations for the prototype.Tesla
+- These quotes are all from Musk.
+- It’s far, far too late for Musk to be attempting to set reasonable expectations for this robot (or Tesla’s robotics program in general). Most roboticists know better than to use humans when setting expectations for humanoid robots, because disappointment is inevitable. And trying to save it at the literal last minute by saying “compared to not having a robot at all, our robot will be very impressive,” while true, is not going to fix things.
+- Yeah, I’m not touching that.
+- 
+- 
+- Right before the robot was brought on stage, one of the engineers made clear that this was going to be the first time that the robot would be walking untethered and unsupported. If true, that’s bonkers, because why the heck would you wait until 
+	this moment to give that a try? I’m not particularly impressed, just confused.
+- For some context on what you’re about to see, a brief callback to a year ago last August, when I predicted what was in store for 2022:
+- 
+- I’m reminded of the 2015 DARPA Robotics Challenge, because 
+	many of the humanoid platforms looked similar to the way Tesla Bot looks. I guess there’s only so much you can do with a mostly naked electromechanical humanoid in terms of form factor, but at first glance there’s nothing particularly innovative or futuristic about Tesla’s design. If anything, the robot’s movement is not quite up to DRC standards, since it looks like it would have trouble with any kind of accidental contact or even a bit of nonlevel floor (and Musk suggested as much).
+- On stage, the robot did very little. It walked successfully, but not very dynamically. The “moves” it made may well have been entirely scripted, so we don’t know to what extent the robot can balance on its own. I’m glad it didn’t fall on its face, but if it had, I wouldn’t have been surprised or judged it too harshly.
+- Tesla showed videos of the robot watering plants, carrying a box, and picking up a metal bar at a factory. Tesla
+- After the very brief live demo, Musk showed some video clips of the prototype robot doing other things (starting at 19:30 in the live stream). These clips included the robot walking while carrying a box of unspecified weight and placing it on a table, and grasping a watering can. The watering can was somewhat impressive, because gripping that narrow handle looks tricky.
+- “The robot can actually do a lot more than we’ve just showed you. We just didn’t want it to fall on its face.”
+	
+	—Elon Musk
+- However, despite the added footage from the robot’s sensors, we have no idea how this was actually done—whether it was autonomous or not, or how many tries it took to get right. There’s also a clip of a robot picking up an object and attempting to place it in a bin, but the video cuts right before the placement is successful. This makes me think that we’re seeing carefully curated best-case scenarios for performance.
+- 
+- This looks a bit more like the concept that Tesla showed last year, although obviously it’s less functional than the other prototype we saw. It’s tempting to project the capabilities of the first robot onto the second robot, but it would be premature to do so.
+- How Much Does Tesla’s Robot Cost?
+            
+            
+        
+	Musk expects the robot to cost less than a car: “much less than $20,000,” he said at the event.
+Our goal is to make a useful humanoid robot as quickly as possible. We’ve designed it using the same discipline that we use in designing the car, which is to design it for manufacturing, such that it’s possible to make the robot at high volume with low cost and high reliability. That’s incredibly important.… Optimus is designed to be an extremely capable robot, but made in very high volume, ultimately millions of units. And it is expected to cost much less than a car—much less than [US] $20,000 would be my guess.
+	I generally agree with Musk here, in that historically, humanoid robots were not designed for manufacturability. This is changing, however, and I think that other companies likely have a head start over Tesla in manufacturability now. But it’s entirely possible that Tesla will be able to rapidly catch up if it’s able to leverage all that car-building expertise into robot building somehow. It’s not a given that it’ll work that way, but it’s a good idea, potentially a big advantage.As for the production volume and cost, I have no idea what “expected” means. This line got some applause, but as far as I’m concerned, these numbers are basically meaningless at the moment.
+
+            
+                ​What Will the Tesla Robot Be Used for?
+            
+            
+        
+	Musk said the robot will be able to operate tools and do useful things like carrying and manipulating objects in factories and other settings.
+
+	Just like last year, he’s implying that the robot will be able to carry out useful tasks because it has the necessary degrees of freedom. But of course the hardware is only the first step toward operating tools and doing useful things, and the software is, I would argue, much harder and far more time consuming, and Tesla seems to have barely started work on that side of things.
+- Musk expects the robot to cost less than a car: “much less than $20,000,” he said at the event.
+- I generally agree with Musk here, in that historically, humanoid robots were not designed for manufacturability. This is changing, however, and I think that other companies likely have a head start over Tesla in manufacturability now. But it’s entirely possible that Tesla will be able to rapidly catch up if it’s able to leverage all that car-building expertise into robot building somehow. It’s not a given that it’ll work that way, but it’s a good idea, potentially a big advantage.
+- As for the production volume and cost, I have no idea what “expected” means. This line got some applause, but as far as I’m concerned, these numbers are basically meaningless at the moment.
+- Musk said the robot will be able to operate tools and do useful things like carrying and manipulating objects in factories and other settings.
+- Just like last year, he’s implying that the robot will be able to carry out useful tasks because it has the necessary degrees of freedom. But of course the hardware is only the first step toward operating tools and doing useful things, and the software is, I would argue, much harder and far more time consuming, and Tesla seems to have barely started work on that side of things.
+- I’m not exactly sure whom Musk is throwing shade at, but there are only a couple of companies that would probably qualify as having “very impressive humanoid robot demonstrations.” And those companies do, in fact, have robots that broadly have the kind of intelligence that allows them to navigate at least some of the world by themselves, much better than we have seen from Optimus at this point. If Musk is saying that those robots are insufficiently autonomous or world-aware, then okay, but so far Tesla has not done better, and doing better will be a lot of work.
+- While the actual achievements here have been mercilessly overshadowed by the hype surrounding them, this is truly an astonishing amount of work to be done in such a short time, and Tesla’s robotics team should be proud of what they’ve accomplished. And while there will inevitably be comparisons to other companies with humanoid robots, it’s critical to remember the context here: Tesla has made this happen in something like eight months. It’s nuts.
+- I can see the appeal of Tesla for someone who wants to start a robotics career, since you’d get to work on a rapidly evolving hardware platform backed by what I can only assume are virtually unlimited resources.
+- Maybe just, like, get your robot to reliably and affordably do A Single Useful Thing, first?
+- Three versions of the Optimus design: Concept, Development Platform, and Latest Generation. Tesla
+- Musk takes a break after this, and we get some actual specific information from a series of Tesla robotics team members about the latest generation Optimus.
+- We’ll come back to the hands, but that battery really stands out for being able to power the robot for an entire day(ish). Again, we have to point out that until Tesla actually demonstrates this, it’s not all that meaningful, but Tesla does know a heck of a lot about power systems and batteries, and I’m guessing that the company will be able to deliver on this.
+- Tesla is using simulations to design the robot’s structure so that it can suffer minimal damage after a fall.Tesla
+- I appreciate that Tesla is thinking very early about how to structure its robot to be able to fall down safely and get up again with only superficial damage—although the company doesn’t seem to be taking advantage of any kind of protective motion for fall mitigation, which is an active area of research elsewhere. And what is not mentioned in this context is the safety of others. I’m glad the robot won’t get damaged all that much when it falls, but can Tesla say the same for whoever might be standing next to it?
+- Optimus will use six different actuators: three rotary and three linear units.Tesla
+- Tesla’s custom actuators seem very reasonable. Not special, particularly, but Tesla has to make its own actuators if it needs a lot of them, which it supposedly will. I’d expect these to be totally decent considering the level of mechanical expertise Tesla has, but as far as I can tell nothing here is crazy small or cheap or efficient or powerful or anything like that. And it’s very hard to tell from these slides and from the presentation just how well the actuators are going to work, especially for dynamic motions. The robot’s software has a lot of catching up to do first.
+- Optimus will feature a bioinspired hand design with cable-driven actuators.Tesla
+- Each hand has six cable-driven actuators for fingers and thumb (with springs to provide the opening force), which Tesla chose for simplicity and to minimize part count. This is perhaps a little surprising, since cable drives typically aren’t as durable and can be more finicky to keep calibrated. The five-finger hand is necessary, Tesla says, because Optimus will be working with human tools in human environments. And that’s certainly one perspective, although it’s a big trade-off in complexity. The hand is designed to carry a 9-kilogram bag.
+- Tesla is using software components developed for its vehicles and porting them to the robot’s environment.Tesla
+- Software! The following quote comes from 
+	Milan Kovac, who’s on the autonomy team.
+- I still fundamentally disagree with the implied “humanoid robots are just cars with legs” thing, but it’s impressive that they were able to port much at all—I was highly skeptical of that last year, but I’m more optimistic now, and being able to generalize between platforms (on some level) could be huge for both Tesla and for autonomous systems more generally. I’d like more details on what was easy, and what was not.
+- Tesla showed how sensing used in its vehicles can help the Optimus robot navigate.Tesla
+- What we’re seeing above, though, is one of the reasons I was skeptical. That occupancy grid (where the robot’s sensors are detecting potential obstacles) on the bottom is very car-ish, in that the priority is to make absolutely sure that the robot stays very far away from anything it could conceivably run into.
+- By itself, this won’t transfer well to a humanoid robot that needs to directly interact with objects to do useful tasks. I’m sure there are lots of ways to adapt the Tesla car’s obstacle-avoidance system, but that’s the question: How hard is that transfer, and is it better than using a solution developed specifically for mobile manipulators?
+- Tesla explained the challenges of dynamic walking in humanoid robots, and its approach to motion planning.Tesla
+- The next part of the presentation focused on some motion planning and state-estimation stuff that was very basic, as far as I could make out. There’s nothing wrong with the basics, but it’s slightly weird that Tesla spent so much time on this. I guess it’s important context for most of the people watching, but the team sort of talked about it like they’d discovered how to do all of this stuff themselves, which I hope they didn’t, because again, very, very basic stuff that other humanoid robots have been doing for a very long time.
+- Tesla adopted a traditional approach to motion control, based on a model of the robot and state estimation.Tesla
+- One more quote from 
+	Milan Kovac:
+- Ignoring that last bit about changing the entire economy, and possibly also ignoring the time frame because “next few months or years” is not particularly meaningful, the push to make Tesla Bot useful is another substantial advantage that Tesla has. Unlike most companies working on humanoid robots, Tesla is potentially its own biggest customer, at least initially, and having these in-house practical tasks for the robot to train on could really help accelerate development.
+- “Optimus is designed to be an extremely capable robot, but made in very high volume, ultimately millions of units. And it is expected to cost much less than a car—much less than [US] $20,000 would be my guess.”
+	
+	—Elon Musk
+- However, I’m having trouble imagining what Tesla Bot would actually 
+	do in a factory that would be uniquely useful and not done better by a nonhumanoid robot. I’m very interested to see what Tesla comes up with here, and whether the company can make it happen in months (or years). I suspect it’s going to be much more difficult than it’s suggesting it will be, especially as it gets to 90 percent of where it wants to be and start trying to crack that last 10 percent that’s necessary for something reliable.
+- This was the end of the formal presentation about Optimus, but there was a Q&A at the end with Musk where he gave some additional information about the robot side of things. He also gave some additional noninformation, which is worth including just in case you haven’t yet had enough eye rolling for one day.
+- Musk expects Optimus to cost less than a car, “much less than [US] $20,00 dollars would be my guess,” he said.Tesla
+- This is a variation on the minimum-viable-product idea, although it seems to be more from the perspective of making a generalist robot, which is somewhat at odds with something minimally viable. It’s good that Musk views the hardware as something in flux, and that he’s framed everything within a plan for volume production. This isn’t the only way to do it—you can first build a useful robot and then figure out how to make it cheaper, but Tesla’s approach could get the company to production faster. If, that is, it is able to confirm that the robot is in fact useful. I’m still not convinced that it will be, at least not on a time scale that will satisfy Musk.
+- 
+- 
+- While Musk seems to be mostly joking here, the whole “it’s going to be your friend” is really not a good perspective to bring to a robot like this, in my opinion. Or probably any robot, at all honestly.
+- Less robotlike and more friendly than a human pretending to be a robot trying to be a human? Good luck with that.
+- I think it’s more likely that in the short-to-medium term, Tesla will struggle to find situations where Optimus is uniquely useful in an efficient and cost-effective way.
+- Uh. Maybe as a research platform?
+- Despite my skepticism on the time frame here, five years is a long time for any robot, and 10 years is basically forever. I’m also really interested to see these things happen, although Musk’s definitions of “incredible” and “mind-blowing” may be much different than mine. But we’ll see, won’t we?
+- Tesla’s AI Day serves as a recruitment event for the company. “There’s still a lot of work to be done to refine Optimus and improve it, and that’s really why we’re holding this event—to convince some of the most talented people in the world to join Tesla,” Musk said.Tesla
+- I think Elon Musk now has a 
+	somewhat better idea of what he’s doing with Tesla Bot. The excessive hype is still there, but now that the company has actually built something, Musk seems to have a much better idea of how hard it actually is.
+- Things are only going to get more difficult from here.
+- Most of what we saw in the presentation was hardware. And hardware is important and a necessary first step, but software is arguably a much more significant challenge when it comes to making robotics useful in the real world. Understanding and interacting with the environment, reasoning and decision-making, the ability to learn and be taught new tasks—these are all necessary pieces of the puzzle of a useful robot that Tesla is trying to put together, but they’re all also extremely difficult, cutting-edge problems, despite the enormous amount of work that the research community has put into them.
+- And so far, we (still) have very little indication that Tesla is going to be any better at tackling this stuff than anyone else. There doesn’t appear to be anything all that special or exciting from Tesla that provides any unique foundation for Musk’s vision in a way that’s likely to allow the company to outpace other companies working on similar things. I’ll reiterate what I said a year ago: The hard part is not 
+	building a robot, it’s getting that robot to do useful stuff.
+- “I think Optimus is going to be incredible in five years. In 10 years, mind-blowing. I’m really interested to see that happen, and I hope you are too.”
+	
+	—Elon Musk
+- I could, of course, be wrong. Tesla likely has more resources to throw at this problem than almost anyone else. Maybe the automotive software will translate much better and faster than I think it will. There could be a whole bunch of simple but valuable use cases in Tesla’s own factories that will provide critical stepping-stones for Optimus. Tesla’s battery and manufacturing expertise could have an outsized influence on the affordability, reliability, and success of the robot. The company’s basic approach to planning and control could become a reliable foundation that will help the system mature faster. And the team is obviously very talented and willing to work extremely hard, which could be the difference between modest success and slow failure.
+- Honestly, I would love to be wrong. We’re just starting to see some realistic possibilities with commercial legged and humanoid robots. There are lots of problems to solve, but also lots of potential, and Tesla finding success would be a huge confidence boost in commercial humanoids broadly. We can also hope that all of the resources that Tesla is putting toward Optimus will either directly or indirectly assist other folks working on humanoid robots, if Tesla is willing to share some of what it learns. But as of today, this is all just hoping, and it’s on Tesla to actually make it happen.
+- Evan Ackerman is a senior editor at IEEE Spectrum. Since 2007, he has written over 6,000 articles on robotics and technology. He has a degree in Martian geology and is excellent at playing bagpipes.
+- Teslabot that is unique in working toward a design for mass reproducibility as well as peformance.  But I'd like Tesla to not get too stuck on the idea of making the robot as much like a human as possible.
+- 
+- For example, if there are assembly line tasks where the humanoid form has advantages - maybe installing wiring harnesses - why not put the top half of Teslabot on the end of a big robot arm to simplify positioning it, as compared to making it learn to use legs to position itself?   Or mount it on an ATV to run around a factory or construction site.
+- 
+- If there are outdoor tasks above ground level, why insist the robot climb a ladder or even balance itself in a bucket lift, when you could just mount the top half of the bot on a lift truck arm for now?
+- 
+- I hope Tesla will apply essentially the same strategy they use on their cars: have humans teleoperate robots, so the robot can be almost immediately useful (e.g. tele-working right next to a big factory robot or on a roof installing solar panels or high up the side of a Starship) while generating a large database for AI to learn from.
+- thank you for watching it so we don't have to. this is indeed a recruiting effort for roboticists unfortunately, this myth-building runs contrary to the idea of "unlimited resources" you proffer tesla is throwing at this. budding roboticists will be asked to work 7 days a week as this team has done so far and to do so for below market wage: that is the cool-penalty you'll have to pay to join any of his companies. so idk, good luck to them, hope compensation on the team is worthy of the "economic upheaval" salaries but he's already quoted as saying tesla and spacex motivate their workers with the scope of work, so they're able to under-pay.
+- You at least gave more credit than your last article on this.  Your title was also a little condescending.   You have to admit that the pace they are on is pretty crazy.  I agree however that the last 10% will take many years to optimize.
+
+URL: https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- In this article
+- Tesla may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.
+- The electric vehicle maker first teased the robot, also known as the Tesla Bot, at its "AI Day" in Aug. 2021, saying it will be a general purpose machine capable of doing a wide range of tasks.
+- "We have a shot of being in production for version one of Optimus hopefully next year," Musk said Thursday at the opening of Tesla's new vehicle assembly plant in Austin, Texas, where he appeared on stage — in a cowboy hat and sunglasses — to Dr. Dre's "Still D.R.E."
+- Tesla has yet to reveal a working prototype of the robot, however, and it's unclear how sophisticated Optimus is at this stage.
+- Musk claimed that Optimus will eventually be able do anything that humans don't want to do, claiming that it will bring about an "age of abundance."
+- Striking a bullish tone, Musk also suggested that the robot will "transform the world ... to a degree even greater" than the cars Tesla is renowned for. "It's maybe hard to imagine it," he said.
+- EV startups conserve cash as make-or-break moment approaches. Here's where everyone stands
+- Tesla vs. BYD: Here's why one fund manager prefers the Buffett-backed automaker
+- Watch Elon Musk's full interview with CNBC's David Faber on Twitter, Tesla and A.I. advances
+- AI has been hailed as a potential threat to humanity and Musk said in 2018 that he thinks AI is more dangerous than nuclear weapons. "As you see Optimus develop, everyone's going to make sure it's safe," he said Thursday. "No Terminator stuff or that kind of thing."
+- He previously said Tesla was designing the robot so that humans would be capable of running away from it, or overpowering it.
+- When Musk first announced Tesla's robot, he said it will be based on the same chips and sensors that the company's cars use for self-driving features. It is five foot eight inches tall, according to Musk, and has a screen at head-height for useful information.
+- Many people initially thought that the bot was little more than an AI recruitment tool for Tesla, but Musk said in January that the robot is actually a top priority for new product development this year.
+- "I think it has the potential to be more significant than the vehicle business over time," Musk said of the robot at the time. The fact that he's now talking about production in 2023 suggests Optimus is indeed a serious endeavor.
+- AI researcher and entrepreneur Gary Marcus told CNBC he'd be willing to make a bet that no robot will be able to do all human tasks by the end of 2023.
+- "Tesla has not even (after years of effort) come close to reliably solving one relatively simple task (driving); to claim that a robot that has never been shown publicly will solve all of human tasks in the next year or two is preposterous," he said.
+- "He can ship whatever he wants next year, since he is the boss, but there is no way that version one will come anywhere near his ambitions, if it is released that quickly."
+- Musk is known for his showmanship, in which he announces that Tesla is working on exciting products scheduled for years into the future to energize backers including employees, customers, and investors. Often, products launches do not happen on the timeline predicted.
+- For instance, at an "Autonomy Day" event in April 2019, Musk said the company would have 1 million autonomous "robotaxis" on the road in 2020. Those robotaxis are nowhere to be seen.
+- And in October 2016, Musk held an event at Universal Studios' back lot in Los Angeles to show off a product he called the Solar Roof. The solar roof tiles on display turned out to be merely conceptual.
+- — Additional reporting by CNBC's Kif Leswing.
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://garymarcus.substack.com/p/sub-optimal
+- The Optimus demo turned out to be a bit of a dud.  Some wag on Twitter posted this, with footage drawn from the demo:
+- A whole pile of well-known roboticists gave their early reactions, too, and it wasn’t pretty.
+- The most positive thread I read from a roboticist was this one. It was justifiably impressed with Tesla’s quick turnaround (point 1 is legit!) but hardly dripping with wow:
+- Also, Animesh Garg noted that there might be some advances on the motor control side. And I think all of us appreciated how much Musk shared the spotlight with his engineers. It might not be state of the art, but no high school team could actually have pulled this off quite that fast.
+- But many roboticists, like Cynthia Yeung, were absolutely scathing; what makes a robot a robot is autonomy, the ability to navigate the world and make good safe choices without relying on humans. We didn’t see much of that:
+- And Yeung posted this tweet, too, (among many others in a long thread worth reading):
+- Ken Golberg, too, wondered what portion of what we saw was genuinely autonomous and what was merely tele-operated (ie operated by remote control), which is about as damning as one roboticist can be to another, while still being polite:
+- The biggest winner of the night, arguably, was the 30-year-old, thrice-sold  robotics firm Boston Dynamics, which started to trend on Twitter (thanks for the free PR!). As more than a few onlookers noted, BD seems way ahead of what we saw last night. (Visit YouTube to see this at a better frame rate):
+- §
+- The challenge for Tesla isn’t really so much the mere fact that Boston Dynamics robots are ahead (or that Agility Robotics is also doing similar work). With enough investment, Tesla might in principle catch up. If Musk really wants to win the robotics race,  he has the resources to do so. (Though he clearly has not invested nearly enough so far.)
+- What I didn’t see last night was vision.
+- I mean this in two different senses.
+- First,  there was no clearly outlined vision for what Optimus would do, nor much justification for why Tesla is building the robot the in this specific way. There was no decisive justification for why to use a humanoid robot (rather than e.g. just an arm), no clarity about the first big application, no clear go-to-market strategy, and no clear product differentiator. It was the kind of thing you see in a seed stage robotics startup, but it was surprising coming from the CEO at at one of the world’s largest companies. There was a lot of bluster (we will 100x the world’s productivity) but no road map.
+- Second, there was  very little vision for how Tesla would build the cognitive part of the AI they will need, beyond the basics of motor control (which Boston Dynamics already does so well), nor much recognition about why robotics is so hard in the real world. How will the system decide what is safe and worth doing in a home filled with unfamiliar objects, and humans and pets that are coming and going? How will it keep from wreaking accidental mayhem? How will it understand the difference between what people say and what they really mean?
+- All there was, really, was a prayer—to the god of big data. At one point, in the question period, Musk argued that Tesla was likely to contribute to AI (and solve whatever needs solving) because it would have the most data and and the compute,  weak version of the implausible alt intelligence hypothesis I discussed in May.
+- To begin with both premises are arguable. Does Tesla actually have more humanoid robotics data than Google or Boston Dynamics do? Certainly not yet. The implied subpremise is that lots of people will buy Tesla’s $20k robot, leading to the collection of a lot of data, but that’s speculative at best, and years away even in an optimistic scenario. (Nobody is paying $20k for what they saw last night.) With respect to raw computational power, Tesla might eventually outgun Boston Dynamics, depending on how things go, but I seriously doubt they could outgun Google if Google went all in on humanoid robotics.
+- The overall logic is even weaker. The reality is that AI needs genuine, paradigm-shift level innovation. Simply building ever bigger neural networks won’t cut it. The way I put it last night was this:
+- But don’t take my word for it. Here’s deep learning pioneer Yann LeCun giving a a talk earlier this week:
+- If you read the top of the slide, it says “Machine Learnings sucks! (compared to humans and animals)”. because it is so slow and inefficient by comparison. LeCun also points out (as too I have often said, eg in this 2015 review with Ernest Davis) that we know far too little about how to to embed common sense into AI. We in AI have a long long way to go. Data and compute alone won’t be enough. Meta, which has more data and compute than almost anyone, has finally woken up to that.  Musk still hasn’t.
+- LeCun would probably agree that addressing common sense is the single biggest challenge facing robotics; without a solution to it, you cannot have humanoid robots in the home and expect them to be safe. We disagree about how to solve the problem, but we both see it as front and center. Musk barely even acknowledged the problem, and certainly didn’t lay out any sort of credible strategy for attacking it..
+- For me the most worrisome part of last night’s presentation was not the lack of a world-beating demo, but a lack of recognition of what would even be required.
+- In recent interviews (e.g., at TED 2022), Musk has acknowledged that self-driving is a lot harder than he anticipated, and might even be an “AI complete” problem that requires general artificial intelligence. The thing about such problems is, as Wikipedia nicely puts it, “Currently, AI-complete problems cannot be solved with modern computer technology alone”. Sooner or later he will recognize that humanoid robots, too, pose a whole set of challenges that lie well beyond our current grasp.
+- I admire Musk for trying, but I would have more confidence if I thought he understood more deeply the nature of the challenge.
+- Subscribe for free :
+- 
+- Hi Gary, thanks for the excellent writeup! The Moravec 'coffee-making' challenge remains alive and well, Optimus (or even a BD robot) isn't about to solve it anytime soon.
+- An embodied presence by itself will not result in general intelligence, there needs to be matched 'embrainment' - a brain design that permits native representation of the world, using which the system can imagine, expect, reason, etc.
+- Instead, if the robot uses ML, it's simply computing outputs based on learned patterns in input data, which amounts to operating in a derivative computational world while being in the real physical one! There is no perception, no cognition, of the real world - because there is no innate experiencing of it.
+- Sure, it will work in a structured, mostly static, unchanging environment (a narrow/deep 'win' of sorts, in keeping with the history of AI) - but an average home is anything but.
+- Robustness in intelligence can only result from a design that can deal with exceptions to the norm (within limits - the more the limits, the less capable the system).
+- I always have thought of humanoid robots as the ornithopters of the robotics world. For a true AGI you need far more neurons and far denser connections than we can achieve in silico at present. I think the best we can do for now is use NNs for perception and higher level systems such as OpenCog and Open-NARS for higher level reasoning with a society of mind / drives approach.
+- No posts
+- Ready for more?
+
+URL: https://medium.com/enrique-dans/tesla-optimus-and-the-future-52367dcf8b92
+- Member-only story
+- Enrique Dans
+- Follow
+- Enrique Dans
+- --
+- 3
+- Share
+- A year ago, at Tesla AI Day 2021, the company “presented” the Tesla Bot, somebody dressed in a robot costume jumping up and down to music. A year later, on Friday, we saw a true prototype still in development, still very unglamorous, but real and tangible, as predicted in 2021.
+- The demonstration saw the prototype wave and take a few extremely cautious steps, while a second model that still cannot walk had to be…
+- --
+- --
+- 3
+- Enrique Dans
+- Professor of Innovation at IE Business School and blogger (in English here and in Spanish at enriquedans.com)
+- Enrique Dans
+- in
+- Enrique Dans
+- --
+- 31
+- Enrique Dans
+- in
+- Enrique Dans
+- --
+- 7
+- Enrique Dans
+- in
+- Enrique Dans
+- --
+- 11
+- Enrique Dans
+- in
+- Enrique Dans
+- --
+- 18
+- Will Lockett
+- in
+- Predict
+- --
+- 31
+- Will Lockett
+- in
+- Predict
+- --
+- 5
+- Shankar Narayan
+- --
+- 12
+- Cory Doctorow
+- --
+- 7
+- Anthony Signorelli
+- in
+- The New Climate.
+- --
+- 27
+- Will Lockett
+- --
+- 17
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.cnet.com/home/smart-home/tesla-reveals-optimus-a-walking-humanoid-robot-you-could-buy-in-2027/
+- Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027.
+- Elon Musk unveiled this Tesla Bot prototype at AI Day 2022.
+- Tesla CEO Elon Musk on Friday unveiled the company's Tesla Bot, a robot code-named Optimus that shuffled across a stage, waved, and pumped its arms in a low-speed dance move. The robot could cost $20,000 within three to five years, Musk said.
+- "Our goal is to make a useful humanoid robot as quickly as possible," Musk said. It could eventually "help millions of people," but the first uses will be in Tesla's car factories, he said.
+- The robot wasn't as flashy as some others, like Boston Dynamics' parkour-capable Atlas, but it's what Tesla put together in less than eight months. "The robot can do a lot more than what we showed you. We just didn't want it to fall on its face," Musk quipped at Tesla AI Day 2022, an event designed to showcase the robot and the company's autonomous vehicle technology, called Full Self-Driving, or FSD.
+- Ultimately, Musk wants to build Tesla Bots by the millions, taking advantage of hardware, software, manufacturing and supply chain advantages developed for its car business. Take the company's projections with a shakerful of salt, though. Tesla has succeeded as an automaker, leading the rest of the industry toward an electric vehicle future, but it's missed many deadlines along the way.
+- The Optimus effort, while still early, is among the most ambitious in the robotics world given how widespread and capable Tesla hopes the robots can become. But progress is hard. Rivals like Boston Dynamics have worked for years on humanoid robots but so far have produced only prototypes. More common are robots with more limited abilities, like wheeled delivery bots or Amazon's Astro, a household camera-equipped tablet on wheels.
+- Artificial intelligence technology works best with narrow jobs, but Tesla's car piloting technology and robots must reckon with immense real-world variety. Optimus will likely lead a sheltered life to start. The company plans to use it first in Tesla's own factories.
+- Jobs could include carrying parts to conventional robots on the manufacturing line, Musk said.
+- "The number of situations where Optimus is useful will grow exponentially," Musk said. "Really, really fast."
+- The first prototype of Optimus, the code name for the Tesla Bot, waves an arm at the Tesla AI Day 2022 event.
+- Musk showed two robots. The first, walking model was built with off-the-shelf mechanical actuators, cylindrical devices that combine a motor with gearing and sensors. The second, whose limbs and fingers were controlled by Tesla's own actuators, couldn't walk and was wheeled out on stage. But its actuators let it lift its leg out to the side and grip with its hands. In a video, the bots could do more, including picking up boxes, holding a watering can for plants and turning at the waist.
+- "It wasn't quite ready to walk, but I think it'll walk in a few weeks," Musk said of the second Optimus robot.
+- Tesla already had actuator engineers on staff for its vehicles. The strongest actuator, a linear model used in the Optimus leg, can hoist 1,000 pounds.
+- The second Optimus prototype weighs 161 pounds (73 kilograms). It uses a variation of the same computing hardware that powers Tesla's FSD autonomous vehicle technology. Its battery pack has a capacity of 2.3 kilowatt hours, "perfect for a full day's work," one engineer said. It consumes about 100 watts of power sitting and 500 watts when walking briskly. That's something like a high-end gaming PC.
+- The first robot walked at a slow, shuffling pace, with one foot placed just in front of the other. Its bent knees gave it a somewhat mincing gait, but that posture is common for robots since a straight-leg stance requires much more precise balance abilities. The robot was able to turn and flex at the waist. Its body was studded with mostly green LEDs, and its chest featured a large computer with dual spinning fans to cool the processors.
+- Tesla engineers emphasized the degrees of freedom in the Optimus robots -- essentially the different ways it can bend or twist at different joints. The full robot body has more than 28 degrees of freedom, and each hand has 11, Tesla said.
+- For safety reasons, the robots will include an external mechanism so people can stop them, Musk said, and that override mechanism won't be updatable over the internet. In the longer run, for safety reasons, the robots likely will be "governed by some laws of robotics that you cannot overcome, like not doing harm to others," Musk said, a reference to the three laws of robotics from science fiction author Isaac Asimov.
+- Tesla uses the same AI software to control the Tesla Bot as it uses in its cars. Some of the same technology applies, like gauging "occupancy" of nearby areas. It's just trained with real-world environments instead of driving video, Tesla said.
+- Musk didn't hold back on the sci-fi promises for Tesla's robots. With robots at work, economics enters a new age, a "future of abundance, a future where there is no poverty, a future where you can have whatever you want in terms of products and services," Musk said. "It really is a fundamental transformation of civilization as we know it."
+
+URL: https://www.dw.com/en/tesla-ai-robot-musks-new-humanoid-disappoints-experts/a-63304724
+- Tesla's Elon Musk has often boasted about his plan to sell millions of affordable robots to mark a "future of abundance." Critics think that future is still far off.
+- An early prototype of Tesla Inc.'s Optimus humanoid awkwardly walked onto the stage on Friday, while a crowd — largely made up of Tesla employees — cheered and roared. The robot waved its hand and moved its hips, seemingly dancing to the music. An advanced version of the Optimus, said to be constructed with Tesla-made parts, had to be wheeled to the stage and carried to a small podium where it waved and thrust its knee.
+- This limited activity disappointed several robot engineers, AI experts and tech enthusiasts hours later when the company's artificial intelligence event was streamed to the public.
+- "The robot can actually do a lot more than we just showed you, we just didn't want it to fall on its face," Tesla Founder Elon Musk said at the event, justifying the caution and fuss.
+- The tech billionaire disregarded robot demonstrations by other companies, saying that the problem with them is that the robots are "missing a brain" and hence the intelligence to navigate on their own. However, the event displayed little evidence that Tesla's Optimus was superior to its competitors.
+- To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+- Musk aims to build a robot that will eventually cost "probably less than $20,000" (about €20,400) and is designed to be replicated "millions of times over," he said at the event. In doing so, he said he wants to enable "a future of abundance" where Tesla robots mow the lawn, cook food and keep a watch on an aging relative.
+- "Our goal is to make a useful humanoid robot as quick as possible," the billionaire founder told the audience. "There is still a lot of work to be done."
+- He said he expects the robots to take another three to five years to be ready.
+- The humanoid's AI stems from the same technology Tesla uses in its automated car systems, which depend on cameras, sensors and thousands of images to teach itself. The team has been working on the robots for six to eight months. The reliability of Tesla's autopilot systems has come under some question recently and is under investigation by US regulators. One US agency reported that AI errors have led to five deaths.
+- The demonstration did not impress many outside Tesla's own employees. AI researcher Filip Piekniewski called the robots "next level cringe-worthy" and a "complete and utter scam." He argued that a test fall would be good and necessary for a robot, considering it would likely fall a lot.
+- Another robotics expert, Cynthia Yeung, pointed out that none of it was cutting edge.
+- Other experts criticized Musk's decision to choose the humanoid would make the robot relatively more expensive and difficult to navigate.
+- "When you're trying to develop a robot that is both affordable and useful, a humanoid kind of shape and size is not necessarily the best way," said Tom Ryden, executive director of the US-based nonprofit startup incubator Mass Robotics.
+- mk/sms (AP, AFP)
+
+URL: https://www.bbc.co.uk/news/technology-63130363
+- Fans of Tesla and Elon Musk were enthralled by the unveiling of Optimus, a prototype humanoid robot, in California last week.
+- I also enjoyed the theatrics - but I'm not alone in wondering why, apart from the wow factor, Optimus had to be human-like.
+- And while the fans hate any perceived criticism, Mr Musk himself has said Optimus is nowhere near market-ready.
+- The argument made for humanoids is they are best equipped to work with human tools, in human environments. People may feel more comfortable interacting with something that looks like a bit like them. And of course, they look great.
+- But how practical are they?
+- "A lot of companies work in the area of humanoids because it's interesting for the public to see," Owen Nicholson, chief executive of Slamcore, which specialises in sensor-driven vision, says.
+- "But wheel-based robots and even drones are so much easier to control. The amount of work that goes into just getting a humanoid to stand upright is huge."
+- This video can not be played
+- Some of the falls experienced by competitors in the Darpa Robotics Challenge
+- The robotics behind Optimus look sound - Tesla is not exactly a novice at all this - but, Mr Nicholson says, by its release, the machine will have evolved into something physically more practical.
+- "I'd put money on them having more wheel-based robots," he adds.
+- In my job, I have seen lots of robots - all shapes and sizes - designed to clean, care for the elderly, teach, perform surgery, work as receptionists and tour guides, play Scrabble and chess, sing and dance, mix cocktails, pack shopping, deliver groceries, have sex, perform search and rescue and build cars.
+- You name it, somebody is probably trying to build a robot for it.
+- Some of them work better than others - and demonstrations rarely go to plan.
+- But what the sci-fi films fail to show is all the wires, the pre-programming and the very brief battery life. As I discovered when trying to film them, early football-playing robots could last for only 10 minutes.
+- I have had excruciating "conversations" with conversational robots, watched many devices fail to complete the tasks they were designed for, and seen the panic in the eyes of the executives in the room when a developer brandishing a bunch of wires says: "We just need to reboot."
+- But robots have advanced considerably faster than humans in the past decade. The robots of 2022 are far more skilled than those I first saw, in 2008, whereas I have acquired little more than a few grey hairs.
+- Time and time again though, the most impressive performers tend not to look like people. Precision-surgery robots, warehouse robots, window-cleaning robots - none of them is remotely humanoid.
+- Expectation may be part of the problem.
+- Humanoids might be expected to function like people, performing a variety of different tasks - mowing the lawn, making a sandwich, cuddling a baby.
+- But Prof Helen Hastie, of the National Robotarium, in Edinburgh, says robots are a very long way off being able to multi-task.
+- "What's most important is that the robot is fit for the task it is designed for," she says.
+- Boston Dynamics' doglike quadruped Spot is ideally suited to rough terrains, such as bombed-out buildings - but a robot designed to, say, work in a kitchen may need no legs at all.
+- Robots designed to work with vulnerable people, for example in care homes, might be better suited to looking a bit more human - but not too much.
+- It is a phenomenon known as the uncanny valley - if something looks human-like but not believably so, it becomes unnerving and even frightening.
+- As Prof Helen Hastie says: "If it's too human-like, it will put off the human."
+- Elon Musk presents humanoid robot Optimus
+- Robots struggle to stay on their feet
+- Moscow buildings hit in rare drone attack
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.reuters.com/technohttps://www.bbc.co.uk/news/technology-63130363logy/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/
+- Reference #18.a7b01302.1685438588.379dfa2e
+
+- Amazon Astro home robot
+- CaliBurger Flippy robot
+- Page infoType: SystemPublished: August 2021Last updated: October 2022

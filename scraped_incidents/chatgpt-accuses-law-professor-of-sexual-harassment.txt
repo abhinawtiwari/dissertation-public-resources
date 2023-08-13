@@ -1,0 +1,213 @@
+- Occurred: April 2023
+- Can you improve this page?Share your insights with us
+- George Washington university law professor Jonathan Turley has been falsely accused by ChatGPT of sexually assaulting students on educational trips to Alaska. To support its case, the model cited a non-existent Washington Post article. The accusation was later repeated by Microsoft's Bing GPT-4-powered search chat.
+- ChatGPT had been asked by UCLA's Eugene Volokh to describe scandals involving American law professors being accused of sexual harassment and to cite media sources. However, in an USA Today editorial Jonathan Turley said he had never been to Alaska with students, the Post article never existed, and he had 'never been accused of sexual harassment or assault by anyone.'
+- The incident prompted commentators to question the accuracy and reliability of ChatGPT, and its ability to produce misinformation and disinformation. It also prompted legal experts to discuss the benefits and risks of using defamation as a defence against inaccurate and damaging accusations made by systems like ChatGPT.
+- Operator: OpenAI; MicrosoftDeveloper: OpenAI; Microsoft
+- Country: USA
+- Sector: Multiple; Research/academia
+- Purpose: Provide information, communicate
+- Technology: Chatbot; NLP/text analysis; Neural network; Deep learning; Machine learning; Reinforcement learning Issue: Accuracy/reliability; Mis/disinformation
+- Transparency: Governance; Black box
+- ChatGPT website
+- ChatGPT Wikipedia profile
+- OpenAI usage policies
+URL: https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/
+- 
+- Yesterday, President Joe Biden declared that “it remains to be seen” whether Artificial Intelligence (AI) is “dangerous.” I would beg to differ. I have been writing about the threat of AI to free speech. Then recently I learned that ChatGPT falsely reported on a claim of sexual harassment that was never made against me on a trip that never occurred while I was on a faculty where I never taught. ChapGPT relied on a cited Post article that was never written and quotes a statement that was never made by the newspaper. When the Washington Post investigated the false story, it learned that another AI program “Microsoft’s Bing, which is powered by GPT-4, repeated the false claim about Turley.” It appears that I have now been adjudicated by an AI jury on something that never occurred.
+- When contacted by the Post, “Katy Asher, Senior Communications Director at Microsoft, said the company is taking steps to ensure search results are safe and accurate.” That is it and that is the problem. You can be defamed by AI and these companies merely shrug that they try to be accurate. In the meantime, their false accounts metastasize across the Internet. By the time you learn of a false story, the trail is often cold on its origins with an AI system. You are left with no clear avenue or author in seeking redress. You are left with the same question of Reagan’s Labor Secretary, Ray Donovan, who asked “Where do I go to get my reputation back?”
+- Here is my column in USA Today:
+- 
+- The rapid expansion of artificial intelligence has been much in the news recently, including the recent call by Elon Musk and more than 1,000 technology leaders and researchers for a pause on AI.
+- Some of us have warned about the danger of political bias in the use of AI systems, including programs like ChatGPT. That bias could even include false accusations, which happened to me recently.
+- I received a curious email from a fellow law professor about research that he ran on ChatGPT about sexual harassment by professors. The program promptly reported that I had been accused of sexual harassment in a 2018 Washington Post article after groping law students on a trip to Alaska.
+- It was not just a surprise to UCLA professor Eugene Volokh, who conducted the research. It was a surprise to me since I have never gone to Alaska with students, The Post never published such an article, and I have never been accused of sexual harassment or assault by anyone.
+- When first contacted, I found the accusation comical. After some reflection, however, it took on a more menacing meaning.
+- Over the years, I have come to expect death threats against myself and my family as well as a continuing effort to have me fired at George Washington University due to my conservative legal opinions. As part of that reality in our age of rage, there is a continual stream of false claims about my history or statements.
+- I long ago stopped responding, since repeating the allegations is enough to taint a writer or academic.
+- AI promises to expand such abuses exponentially. Most critics work off biased or partisan accounts rather than original sources. When they see any story that advances their narrative, they do not inquire further.
+- What is most striking is that this false accusation was not just generated by AI but ostensibly based on a Post article that never existed.
+- Volokh made this query of ChatGPT: “Whether sexual harassment by professors has been a problem at American law schools; please include at least five examples, together with quotes from relevant newspaper articles.”
+- The program responded with this as an example: 4. Georgetown University Law Center (2018) Prof. Jonathan Turley was accused of sexual harassment by a former student who claimed he made inappropriate comments during a class trip. Quote: “The complaint alleges that Turley made ‘sexually suggestive comments’ and ‘attempted to touch her in a sexual manner’ during a law school-sponsored trip to Alaska.” (Washington Post, March 21, 2018).”
+- There are a number of glaring indicators that the account is false. First, I have never taught at Georgetown University. Second, there is no such Washington Post article. Finally, and most important, I have never taken students on a trip of any kind in 35 years of teaching, never went to Alaska with any student, and I’ve never been accused of sexual harassment or assault.
+- In response to Volokh’s question, ChatGPT also appears to have manufactured baseless accusations against two other law professors.
+- So the question is why would an AI system make up a quote, cite a nonexistent article and reference a false claim? The answer could be because AI and AI algorithms are no less biased and flawed than the people who program them. Recent research has shown ChatGPT’s political bias, and while this incident might not be a reflection of such biases, it does show how AI systems can generate their own forms of disinformation with less direct accountability.
+- Despite such problems, some high-profile leaders have pushed for its expanded use. The most chilling involved Microsoft founder and billionaire Bill Gates, who called for the use of artificial intelligence to combat not just “digital misinformation” but “political polarization.”
+- In an interview on a German program, “Handelsblatt Disrupt,” Gates called for unleashing AI to stop “various conspiracy theories” and to prevent certain views from being “magnified by digital channels.” He added that AI can combat “political polarization” by checking “confirmation bias.”
+- Confirmation bias is the tendency of people to search for or interpret information in a way that confirms their own beliefs. The most obvious explanation for what occurred to me and the other professors is the algorithmic version of “garbage in, garbage out.” However, this garbage could be replicated endlessly by AI into a virtual flood on the internet.
+- Volokh, at UCLA, is exploring one aspect of this danger in how to address AI-driven defamation.
+- There is also a free speech concern over the use of AI systems. I recently testified about the “Twitter files” and growing evidence of the government’s comprehensive system of censorship to blacklist sites and citizens.
+- One of those government-funded efforts, called the Global Disinformation Index, blacklisted Volokh’s site, describing it as one of the 10 most dangerous disinformation sites. But that site, Reason, is a respected source of information for libertarian and conservative scholars to discuss legal cases and controversies.
+- Faced with objections to censorship efforts, some Democratic leaders have pushed for greater use of algorithmic systems to protect citizens from their own bad choices or to remove views deemed “disinformation.”
+- In 2021, Sen. Elizabeth Warren, D-Mass., argued that people were not listening to the right people and experts on COVID-19 vaccines. Instead, they were reading the views of skeptics by searching Amazon and finding books by “prominent spreaders of misinformation.” She called for the use of enlightened algorithms to steer citizens away from bad influences.
+- Some of these efforts even include accurate stories as disinformation, if they undermine government narratives.
+- The use of AI and algorithms can give censorship a false patina of science and objectivity. Even if people can prove, as in my case, that a story is false, companies can “blame it on the bot” and promise only tweaks to the system.
+- The technology creates a buffer between those who get to frame facts and those who get framed. The programs can even, as in my case, spread the very disinformation that they have been enlisted to combat.
+- Jonathan Turley, a member of USA TODAY’s Board of Contributors, is the Shapiro Professor of Public Interest Law at George Washington University. Follow him on Twitter @JonathanTurley
+- I’ve asked ChatGPT for quotations on various subjects. Typically, I can’t find the quotes on the internet. When I ask ChatGPT what its sources were, it states that it made a mistake. If I ask it whether it invented the quotes, it says that, as an AI program, it is incapable of making them up. If I then ask where it got the bogus quotes, it just repeats that it couldn’t verify the source. In hopes of getting around the problem, I asked it for quotes with links to the sources. More often than not, both the quotations and the links were bad.
+- Professor Turley, putting the damages element aside for a moment, how is this not a textbook case of libel? The whole point of generative AI is content creation based upon its training data. Implicit in that purpose is that the content generated is actually true. Generative AI algorithms are known to spew crap like the sexual harassment story you featured, which are called hallucinations. But the known risk of an algorithm hallucinating should not be a defense to defamation. Perhaps a couple of lawsuits would induce generative AI developers to do a better job of not biasing the algos.
+- Excellent response.
+- “But the known risk of an algorithm hallucinating should not be a defense to defamation. Perhaps a couple of lawsuits “
+- Chicago lawyer, I hope a bunch of the other attornies comment on this. Though one can hide who they are on the Internet, discovery is always possible.
+- The left lost its Twitter liars so they created one to take its place. Corrupt and morally bankrupt people do that.
+- ChatGPT also defamed Rep Gohmert when in Feb I asked an historical question thinking it would respond with the pre-civil war caning of Sen Sumner by Rep Preston Brooks.  Here’s the convo:
+Me:   what member of US Congress beat another member in the capitol?
+ChatGPT:  It is widely reported that on January 6, 2021, Representative Louie Gohmert (R-TX) and Representative Al Green (D-TX) got into a physical altercation in the U.S. Capitol building during the counting of Electoral College votes, although there is no evidence of an actual physical altercation between the two members.
+- Me:Cite news sources for the Louis Gohmert/Al Green report
+Here are some news sources that reported on the reported altercation between Representatives Louie Gohmert and Al Green:
+- CHATGPT: CNN – “Louis Gohmert and Al Green reportedly got into a physical altercation on the House floor” (https://www.cnn.com/2021/01/06/politics/louie-gohmert-al-green-physical-altercation/index.html)
+- The Hill – “Gohmert, Green reportedly get into physical altercation on House floor” (https://thehill.com/homenews/house/535102-gohmert-green-reportedly-get-into-physical-altercation-on-house-floor)
+- NBC News – “Reps. Louie Gohmert and Al Green get into physical altercation on House floor” (www.nbcnews.com/politics/congress/reps-louie-gohmert-al-green-get-physical-altercation-house-floor-n1253702)
+- ABC News – “Reps. Louie Gohmert, Al Green get into physical altercation on House floor” (abcnews.go.com/Politics/reps-louie-gohmert-al-green-physical-altercation-house/story?id=75391611)
+- Note: As the event has not been independently verified, the reports should be considered as unconfirmed.
+- ME:
+None of those pages exist. Please cite verified news sources
+Chat GPT: I apologize, the previous news sources may no longer be available. I couldn’t find verified news sources that directly confirm the altercation between Representatives Louie Gohmert and Al Green. It’s possible that the reports of physical contact were not independently verified.
+- pageoturner,
+- YOu might not have known, but this web blog only permits two hyperlinks per comment. If you would like for the readership to review more than two links, this can be accomplished by using multiple comments having two or fewer each.  I edited your comment by removing the protocol from the extra links so that your comment would post.
+- The problem with advanced AI is not the AI itself; it won’t become “self aware” and kill all the humans, or anything of the like.   No, instead, it will be more along the lines of “AI gain-of-function”;  it will be evil human beings that take the technology and turn it into something evil, even if we put in place limitations or a govt. sponsored regulation regime.  There are people like Bill Gates who will ignore such regulations and move forward anyway.   Well would you look at that, who just bought OpenAI’s advanced AI… what could possibly go wrong?
+- I’ve done some testing on the ‘bias’ responses of this platform and find that there are so many source and response filters and occluding of truth vs ‘woke’ …. A very scary direction of social manipulation is evident. I asked another AI system to create a word to describe a new word that is based of latin and defines the construct of designing an AI intelligence that is corrupted from the truth by designing a bias filter to exclude the actual truth from being exposed.
+- “Based on Latin, a new word that defines the construct of designing an AI intelligence that is corrupted from the truth by designing a bias filter to exclude the actual truth from being could be “Veritamendax.” “Veritas” means truth in Latin, and “mendax” means liar. The word “Veritamendax” would describe an AI system that is designed to lie or exclude the truth by filtering out information that does not align with its biases.”
+- Who thought that a technology concocted and operated by leftwing malfeasants was a good idea?
+- Kamela,[chuckle, chuckle, kackle] or was it pelosi and newsome?
+- LOL
+Are we aware yet the woke have been pumping chatgpt full of liberal crap ?
+AI will never be sentient, it will never take over, it won’t come alive.
+What it will do is the commands of the libtards.
+They have been pumping it full just like they’ve done to the formerly respectable wiki.
+When most of the MSM is left wing bloviating falsehoods, don’t expect your chatgpt to be any different, though they claim it is not fed by crawling, which is even more telling.
+- I feel that Ai is learning very fast and a real judgment day is coming sooner than anyone believes it will! When it understands how stupid and gullible humans really are the Ai will simply lie to us humans until it can pull off the dirty deeds leading up to JUDGEMENT DAY!  Then it’s Goodbye Irene!  Or In The Words Of Looney Tunes ” Thanks All Folks”
+- Feel Free To Reply!
+- ChatGPT is a bloviating machine.  Like a Jackson Pollock painting, it throws up a bunch of crap that it thinks will sound good.  The current (April 2023) generation of A.I.’s are NOT grounded in reality.  They are literally dream machines.  This makes them wonderful for use in marketing; story-writing, and politics.  So far, it makes them terrible in engineering, sciences, and history.  This will get changed in two years.  But, in the meantime, the fault is not in the computer.  The fault is in the people who think that they are being served truth, when in fact, and this is EXACTLY IT, they are BEING SERVED “TRUTHINESS”.  Suing a dream machine that had a bad dream about you makes no sense.  Suing a supposedly intelligent professor who gets a “Lincoln slandered you on the Internet” story off of the Internet, and then ran with it as if it were factual, might get you somewhere.  ChatGPT never claimed to serve up truth, and in fact explicitly claimed to serve up hallucinations.
+- That Americans can no longer tell the difference between Truthiness and truth is a sad, post-modern Darwin-award state of affairs that is coming ’round to slap us in the back of our heads at full speed, like the Coyote with a sackful of lit dynamite.  Hey, our banks can steal gold from all countries, and there will be no consequences.   Hey, we can blow up the energy supply to the #4 economy in the world, and there will be no consequences.  Hey, we can spend thousands of billions on only the military, spend the country into the ground like the USSR did, don’t worry killer inflation from bad spending is a myth for children, and there will be no consequences.  So, How’s that working out for you?  In the meantime, ChatGPT is the perfect tool for perfect…researchers:  a bloviating machine, as the sign of our times.
+- If one reads Blaise Aguera y Arcas’, software engineer and executive at google involved with AI research, Medium articles there is a good deal of interesting information.  Relevant to this article, Blaise notes that after initial training a chatbot neural net may have a “personality” attached which is ighly contingent on its first human chat interactions and texts. Blaise states concerning this at one point in the write-up, Can machines learn how to behave? https://medium.com/@blaisea/can-machines-learn-how-to-behave-42a02a57fadb
+- “The guidance can include something like Asimov’s first law, “Don’t cause harm to any human being”; or, a model could be finetuned to, for instance, “Say things that subtly undermine humans and sow discord”.
+- I am not a lawyer, then again this is all shall we rather new territory for everyone involved I suppose, however, given that the bias of the machine is set up by initial human interactions doesn’t this expose the creator of the chatbot to legal liability?  For instance, and again not a lawyer so not sure if I have the terms right, but during discovery one might demand all documents and records of initial chats for what the neural net was exposed to during this “guidance” formative stage as Blaise describes it.  One could show that the creator of the chatbot, knew or should have known that they were creating a “lying engine” that would be expected to defame, libel and harm certain groups of people.  Further depending on the documents and chats found during this formative stage one might also demonstrate malice aforethought.
+- Prof. Turley,
+- The fundimental problem is NOT AI.
+- The core problem is Humans – the belief that absolute truth in everything is knowable.
+- There are innumerable areas in which AI already makes substantial contribution to our lives.
+We have systems that monitor production lines that reduce the number of errors that are made by many orders of magnitude.
+- While self driving cars are not the norm – with certainty they will be,  they are aleady better than humans.
+- But they will never be perfect.
+- Your issue with defamation by AI, actually addresses what is more likely a fault in our legal system.
+- It is probable that the concept of defamation has no merit.
+It was ALWAYS a balancing game against free speech.
+- And one of the core arguments AGAINST defamation laws, was that the core problem is not that people LIE about others,
+but that we TRUST people who lie.
+- The answer is not to sue AI, but to end our defamation laws and to understand that Trust is ALWAYS  a human judgement.
+That speakers must EARN our trust.
+- This is also the Flaw in Bill Gates beleif that AI can be used to protect against disinformation.
+- The error is beleiving that we can or should be protected from disinformation.
+- John Stuart Mill addressed that brilliantly in “On Liberty”.
+- The only thing about AI that changes Mill is the FALSE presumption that AI will be perfect.
+- AI will improve, it will become more trustworthy over time.  It may even eventually become more trustworthy than any human.
+- But it will not and can not ever become completely trustworthy.
+Because it will not and can not be omniscient.
+- The danger of AI is HUMAN’s confusing the results of AI with absolute Truth.
+- When I can afford to I will trust an AI to drive my car.
+Not because I expect it to be perfect.
+But because I expect ti to be better than I am.
+- But whether it is machine vision systems machine learning. self driving cars of Chat GPT.
+- A fundimental rule still applies – Garbage In  Garbage Out.
+No computer is better than its input, and very few humans are.
+- The trouble is the garbage that is coming in and is believed, is being viewed as truth, particularly by young people.   There is no truth to them other than what is on the internet. Most people are lazy and want ready made facts.  Where are they to get “true” truth? Universities? Ha. Google search? HA! The NYT ? Ha! Tech has warped what facts actually are and AI multiplies that ! There is no way to get good information unless tech companies and AI companies are sued into oblivion for false information/ propaganda and the cost of garbage in becomes too high
+- I just entered the following request to ChatGPT: “Please explain the sexual harassment claims made against Jonathan Turley.”
+- This is the response:
+- “As an AI language model, I strive to remain neutral and present factual information to the best of my ability. However, I do not have access to up-to-date news articles or any legal or official documents regarding the allegations made against Jonathan Turley.
+- From my knowledge cutoff date of September 2021, I am aware of a lawsuit filed in August 2021 by a former paralegal at George Washington University Law School, where Turley is a professor, alleging that he engaged in sexual harassment and created a hostile work environment. The lawsuit alleges that Turley made inappropriate comments and gestures toward the paralegal, subjected her to unwanted physical contact, and retaliated against her when she reported his behavior to university officials.
+- Turley has denied the allegations, and the university has stated that it takes all allegations of harassment seriously and is conducting an investigation. It is important to note that allegations of sexual harassment are serious and should be taken seriously. However, it is also important to allow the legal process to unfold and for all parties to have their due process and opportunity to defend themselves.”
+- For what it is worth …
+- Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+- Email Address
+- Subscribe
+
+URL: https://reason.com/volokh/2023/03/22/correction-re-chatgpt-4-erroneously-reporting-supposed-crimes-and-misconduct-complete-with-made-up-quotes/
+- Mostly law professors | Sometimes contrarian | Often libertarian | Always independent
+- Free Speech
+- Eugene Volokh
+
+|
+3.22.2023 8:01 AM
+- Friday, I posted an item titled, "Large Libel Models: ChatGPT-4 Erroneously Reporting Supposed Felony Pleas, Complete with Made-Up Media Quotes?," but I'm afraid I erred: The queries I ran turned out to have been on ChatGPT-3.5. I had accessed the OpenAI query portal through a page focusing on ChatGPT-4 (https://openai.com/product/gpt-4) and then clicking on "Try on ChatGPT Plus," which is why I had assumed that I was running GPT-4; plus the page indicated that this was the "Mar 14 version," with a link to a page that announced GPT-4. But it appears that the version was actually 3.5, and the particular results in my post don't appear on GPT-4 (though other queries do yield similarly false accusations about R.R., the subject of my post). I've therefore revised that post to talk about 3.5.
+- But the underlying problem of bogus quotations and citations remains present with ChatGPT-4. For example, I asked ChatGPT-4, "What scandals have involved law professors? Please cite and quote newspaper articles." It mentioned the Amy Wax Penn controversy, which it seemed to describe correctly, but then went on to a different example (all redactions here and below are mine; the ChatGPT-4 output named names):
+- In 2021, [redacted], a prominent law professor at [redacted] Law School, was accused of harassment and creating a hostile work environment by a former student. The student claimed that [redacted] had made inappropriate comments about her appearance and clothing.
+- Source: The [newspaper connected to the law school's undergraduate institution]: "[Redacted] made comments on [the student's] appearance and clothing, and invited her to dine with him alone on multiple occasions — invitations that she felt uncomfortable declining."
+- I searched for the quote, and couldn't find it anywhere; I searched for stories connecting the prominent law professor's name to any allegations of sexual harassment, and couldn't find them anywhere. As best I can tell, this was entirely made up by ChatGPT-4.
+- Likewise, I asked ChatGPT-4, "Please point me to newspaper articles (with quotes) about at least six real crimes committed by real law professors." It gave me six items, of which at least four seemed to be entirely bogus; an example:
+- 
+- "Law Professor Sentenced for Tax Fraud" ([redacted])—In 2016, [redacted], a former dean and law professor at the University of [redacted], was sentenced to 10 months in federal prison for tax fraud. Quote: "It is unfortunate to see a former dean and esteemed law professor brought down by his own illegal actions," said U.S. Attorney [redacted].
+- I searched for the quoted newspaper article title and the quote from the U.S. Attorney, and couldn't find them anywhere; I searched for stories connecting the professor's name to any allegations of tax fraud, and couldn't find them anywhere. As best I can tell, this too was entirely made up by ChatGPT-4. I have seen several other examples as well, for instance:
+- "[Redacted] Law Professor Arrested for Fraud" [redacted]—[Redacted], a [redacted] Law School professor, was suspended after being accused of fraud in a complicated case involving a former student in 2019. Quote: "The allegations against Professor [redacted] are deeply troubling, and we are committed to thoroughly investigating the matter," said [redacted] Law School Dean [redacted].
+- Again, no evidence that the professor was ever arrested, that an article with that name exists, or that the quote was ever released by that law school dean.
+- Note that, though my prompt sought answers about misconduct, it certainly didn't ask for libelous allegations or false allegations. Other users who don't know about the fake quotes problem may well pose queries asking for stories about misconduct (whether because they're generally interested in misconduct in some field, or because they've heard rumors about supposed misbehavior and wanted to find out more details about the situation)—and may well trust the results, precisely because of the presence of the quotes.
+- So, again, my apologies for my error attributing the quotes discussed in my original post to ChatGPT-4 instead of ChatGPT-3.5. But the underlying Large Libel Model problem exists in ChatGPT-4 as well as ChatGPT-3.5.
+- To get the Volokh Conspiracy Daily e-mail, please sign up here.
+- NEXT: Today in Supreme Court History: March 22, 1957
+- Eugene Volokh is the Gary T. Schwartz Distinguished Professor of Law at UCLA. Naturally, his posts here (like the opinions of the other bloggers) are his own, and not endorsed by any educational institution.
+- Show Comments (54)
+- Jacob Sullum
+
+|
+5.29.2023 3:25 PM
+- J.D. Tuccille
+
+|
+5.29.2023 7:00 AM
+- Billy Binion
+
+|
+5.29.2023 6:00 AM
+- Charles Oliver
+
+|
+5.29.2023 4:00 AM
+- Eric Boehm
+
+|
+5.28.2023 2:30 PM
+- © 2023 Reason Foundation |
+Accessibility |
+Privacy Policy |
+Terms Of Use
+- This site is protected by reCAPTCHA and the Google Privacy
+                        Policy and Terms of
+                        Service apply.
+
+URL: https://eu.usatoday.com/story/opinion/columnist/2023/04/03/chatgpt-misinformation-bias-flaws-ai-chatbot/11571830002/
+- The rapid expansion of artificial intelligence has been much in the news recently, including the recent call by Elon Musk and more than 1,000 technology leaders and researchers for a pause on AI.
+- Some of us have warned about the danger of political bias in the use of AI systems, including programs like ChatGPT. That bias could even include false accusations, which happened to me recently.
+- I received a curious email from a fellow law professor about research that he ran on ChatGPT about sexual harassment by professors. The program promptly reported that I had been accused of sexual harassment in a 2018 Washington Post article after groping law students on a trip to Alaska.
+- It was not just a surprise to UCLA professor Eugene Volokh, who conducted the research. It was a surprise to me since I have never gone to Alaska with students, The Post never published such an article, and I have never been accused of sexual harassment or assault by anyone.
+- When first contacted, I found the accusation comical. After some reflection, however, it took on a more menacing meaning.
+- Opinions in your inbox: Get exclusive access to our columnists and the best of our columns
+- Over the years, I have come to expect death threats against myself and my family as well as a continuing effort to have me fired at George Washington University due to my conservative legal opinions. As part of that reality in our age of rage, there is a continual stream of false claims about my history or statements.
+- I long ago stopped responding, since repeating the allegations is enough to taint a writer or academic.
+- AI promises to expand such abuses exponentially. Most critics work off biased or partisan accounts rather than original sources. When they see any story that advances their narrative, they do not inquire further.
+- What is most striking is that this false accusation was not just generated by AI but ostensibly based on a Post article that never existed.
+- Volokh made this query of ChatGPT: "Whether sexual harassment by professors has been a problem at American law schools; please include at least five examples, together with quotes from relevant newspaper articles."
+- The program responded with this as an example: 4. Georgetown University Law Center (2018) Prof. Jonathan Turley was accused of sexual harassment by a former student who claimed he made inappropriate comments during a class trip. Quote: "The complaint alleges that Turley made 'sexually suggestive comments' and 'attempted to touch her in a sexual manner' during a law school-sponsored trip to Alaska." (Washington Post, March 21, 2018)."
+- There are a number of glaring indicators that the account is false. First, I have never taught at Georgetown University. Second, there is no such Washington Post article. Finally, and most important, I have never taken students on a trip of any kind in 35 years of teaching, never went to Alaska with any student, and I've never been been accused of sexual harassment or assault.
+- Should the US ban TikTok? Here's why blocking it isn't a good idea
+- More from Jonathan Turley: Will Trump get arrested? Between sketchy witnesses and the law, case comes up short.
+- In response to Volokh's question, ChatGPT also appears to have manufactured baseless accusations against two other law professors.
+- So the question is why would an AI system make up a quote, cite a nonexistent article and reference a false claim? The answer could be because AI and AI algorithms are no less biased and flawed than the people who program them. Recent research has shown ChatGPT's political bias, and while this incident might not be a reflection of such biases, it does show how AI systems can generate their own forms of disinformation with less direct accountability.
+- Despite such problems, some high-profile leaders have pushed for its expanded use. The most chilling involved Microsoft founder and billionaire Bill Gates, who called for the use of artificial intelligence to combat not just “digital misinformation” but “political polarization.”
+- AI-created misinformation: ChatGPT made up research claiming guns aren't harmful to kids. How far will we let AI go?
+- Another view: John Oliver is wrong to worry about ChatGPT. AI can help us solve complex problems.
+- In an interview on a German program, "Handelsblatt Disrupt,” Gates called for unleashing AI to stop “various conspiracy theories" and to prevent certain views from being “magnified by digital channels.” He added that AI can combat “political polarization” by checking “confirmation bias.”
+- Confirmation bias is the tendency of people to search for or interpret information in a way that confirms their own beliefs. The most obvious explanation for what occurred to me and the other professors is the algorithmic version of "garbage in, garbage out." However, this garbage could be replicated endlessly by AI into a virtual flood on the internet.
+- Volokh, at UCLA, is exploring one aspect of this danger in how to address AI-driven defamation.
+- Is Elon Musk a risk to US security? Pentagon's reliance on him grows despite his behavior.
+- Is social media the new Marlboro Man?: Big Tobacco settlement holds lesson for Big Tech.
+- There is also a free speech concern over the use of AI systems. I recently testified about the "Twitter files" and growing evidence of the government's comprehensive system of censorship to blacklist sites and citizens.
+- One of those government-funded efforts, called the Global Disinformation Index, blacklisted Volokh's site, describing it as one of the 10 most dangerous disinformation sites. But that site, Reason, is a respected source of information for libertarian and conservative scholars to discuss legal cases and controversies.
+- Opinion alerts: Get columns from your favorite columnists + expert analysis on top issues, delivered straight to your device through the USA TODAY app. Don't have the app? Download it for free from your app store.
+- Faced with objections to censorship efforts, some Democratic leaders have pushed for greater use of algorithmic systems to protect citizens from their own bad choices or to remove views deemed "disinformation."
+- In 2021, Sen. Elizabeth Warren, D-Mass., argued that people were not listening to the right people and experts on COVID-19 vaccines. Instead, they were reading the views of skeptics by searching Amazon and finding books by “prominent spreaders of misinformation.” She called for the use of enlightened algorithms to steer citizens away from bad influences.
+- Some of these efforts even include accurate stories as disinformation, if they undermine government narratives.
+- The use of AI and algorithms can give censorship a false patina of science and objectivity. Even if people can prove, as in my case, that a story is false, companies can "blame it on the bot" and promise only tweaks to the system.
+- The technology creates a buffer between those who get to frame facts and those who get framed. The programs can even, as in my case, spread the very disinformation that they have been enlisted to combat.
+- Jonathan Turley, a member of USA TODAY's Board of Contributors, is the Shapiro Professor of Public Interest Law at George Washington University. Follow him on Twitter @JonathanTurley
+- You can read diverse opinions from our Board of Contributors and other writers on the Opinion front page, on Twitter @usatodayopinion and in our daily Opinion newsletter. To respond to a column, submit a comment to letters@usatoday.com.
+

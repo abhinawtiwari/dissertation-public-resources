@@ -1,0 +1,416 @@
+- Released: October 2022
+- Can you improve this page?Share your insights with us
+- Apple's iPhone 14 and Apple Watch Series 8 watches feature a new 'Crash detection' feature that automatically calls 911 in the US and Canada when the devices detect a sudden stop that indicates the user has been involved in a car, SUV, or van crash.
+- The system quickly proved useful in some instances, though reports in the Wall Street Journal and other publications of false crashes triggered by people riding rollercoasters suggest it was not working as it should.
+- Shortly afterwards, ski resort emergency despatch centres across the US and Canada were overwhelmed by hundreds of automated crash notifications calls, none of which turned out to be an emergency.
+- The calls diverted resources away from real emergencies, resulting in a loss of productivity. If the skier in question failed to answer a return call, ski patrollers were sent to check the location of the automated call.
+- Operator: Apple Developer: Apple Country: Apple Sector: Automotive Purpose: Detect vehicle crashes Technology: Motion sensor algorithm; Gyroscope: Accelerometer; GPS; Barometer Issue: Accuracy/reliability; Safety Transparency: Governance; Black box; Marketing
+URL: https://support.apple.com/en-us/HT213225
+- If your iPhone or Apple Watch detects a severe car crash, your device can help connect you to emergency services.
+- Crash Detection works on these iPhone and Apple Watch models:
+- Emergency calls use a cellular connection or Wi-Fi Calling with an Internet connection from your Apple Watch or iPhone.
+- 
+- Crash Detection is designed to detect severe car crashes—such as front-impact, side-impact, and rear-end collisions, and rollovers—involving sedans, minivans, SUVs, pickup trucks, and other passenger cars.
+- When a severe car crash is detected, your iPhone or Apple Watch sounds an alarm and displays an alert1.
+- 
+- 
+- If the vehicle has its own integrated way to detect a crash and make a call, that process will proceed without change. Crash Detection won't cancel any emergency calls already in progress on your iPhone. Crash Detection will cancel ongoing, non-emergency calls on your iPhone or Apple Watch.
+- 
+- On supported iPhone and Apple Watch models, Crash Detection is turned on by default. You can also take these steps to make sure that your device is able to share the information that your emergency contacts and emergency responders need.
+- 
+- Your iPhone or Apple Watch can connect you to emergency services after a severe car crash, even if you’re unresponsive2,3.
+- If you have iPhone 14 or iPhone 14 Pro, Crash Detection notifications to emergency services may be communicated by the Emergency SOS via satellite system when you're outside of cellular and Wi-Fi coverage, where Emergency SOS via satellite is available. Learn more about Emergency SOS via satellite.
+- 
+- 
+- You can turn off alerts and automatic emergency calls after a severe car crash. When you turn off these alerts and calls on one of your paired devices, you automatically turn them off on your other paired devices.
+- 
+- Sensor data from your devices are used to detect severe car crashes. All sensor data used to detect severe car crashes is processed on device and discarded after a crash is detected, unless you agree to share your data to improve Crash Detection. For example, the microphone on your iPhone is used to detect loud sound levels, characteristic of crashes. If you agree to share your data to improve Crash Detection, the sound levels are shared with Apple. Raw audio is never collected or stored for the purposes of Crash Detection or to improve Crash Detection.
+- If your iPhone or Apple Watch detects a severe car crash and contacts emergency services, it will include your device location as latitude and longitude coordinates. The call will share your location regardless of whether you have enabled Location Services.4
+- 
+- 1. Crash Detection cannot detect all car crashes.
+- 2. If you're unresponsive and there are multiple emergency numbers in your country or region, a single emergency number will be automatically dialed.
+- 3. In specific regions, once the emergency call connects, the local emergency system might require a manual input, such as “Press 1 for….“ In those very rare instances, the menu option cannot be automatically selected for you to complete emergency service notification, but your emergency contacts will still be notified.
+- 4. Location sharing with emergency services varies by country and region, and may not be available everywhere.
+
+URL: https://www.youtube.com/watch?v=ZqqraWbJWjA
+
+URL: https://apple.ent.box.com/s/vmfqxuqdxmov9rofz533hd88p8ycfb2b/folder/173575212381
+
+URL: https://techcrunch.com/2022/11/30/apples-ios-update-just-dropped-with-security-fixes-and-crash-detection-improvements/
+- Apple rolled out iOS 16.1.2 on Wednesday, citing updates involving user security. Apple hasn’t yet detailed the nature of the security updates, as the company doesn’t disclose security issues until after they’ve been investigated or patched.
+- The update also includes improved compatibility with wireless carriers, as well as crash detection optimizations for iPhone 14 and iPhone 14 Pro models. Crash detection, which was announced at Apple’s September event, is a new feature that triggers Emergency SOS if it suspects you’ve been in a crash. While this feature could be life-saving in certain situations, users have reported issues in which crash detection is falsely triggered while riding roller coasters. Apple doesn’t outright name the roller coaster issue in its patch notes, but it’s a bug that’s been on adrenaline-seeking customers’ minds.
+- To update to the latest version of iOS, navigate to your iPhone’s settings. Then, click “general.” At the top of your screen, you should see a tab called “software updates” that will allow you to check for new versions of iOS.
+- Apple offers a deeper dive into crash detection
+- 
+
+URL: https://www.digitaltrends.com/mobile/apple-watch-series-8-crash-detection-already-saved-someones-life/
+- The crash detection feature in Apple Watch Series 8 has passed the test with flying colors — it saved a man’s life by automatically calling first responders his car crashed into a pole.
+- Nolan Abell of Indianapolis told ABC News that he crashed into a telephone pole when he lost control of his car at 3:30 a.m. on October 15. As he sat in his car seat fighting to stay alive, he said he felt haptic feedback on his wrist and heard a voice from the watch asking if he was there. When he didn’t respond in a timely manner, the watch alerted first responders, who arrived at his location quickly.
+- “If it weren’t for this watch, who knows how long it would’ve been for help to get to me,” Abell said. “Someone would’ve found me eventually, but this had EMS to me within five minutes.”
+- Abell said he bought the Apple Watch Series 8 at Best Buy on a whim a week before he had his accident. He didn’t have any rhyme or reason to buy the watch, but he said, “something just told me to get it.” That impulse purchase became a blessing in disguise.
+- APPLE WATCH SAVES LIFE: A man credited his Apple Watch with saving his life by automatically contacting first responders after he slammed his car into a pole. ABC’s Rhiannon Ally reports. pic.twitter.com/WRvfaU07LF
+- &mdash; ABC World News Now (@abcWNN) October 28, 2022
+- Apple introduced the car crash detection feature into the Apple Watch Series 8 as part of the watchOS 9 software update in September. The feature is also used in the iPhone 14 and iPhone 14 Pro models, as well as the Apple Watch Ultra. It detects all types of severe car crashes you may never want to find yourself in: rear-end collisions, side impacts, rollovers, and front-impact crashes like Abell’s, and gives users 20 seconds to respond to the SOS alert before calling EMS on their behalf.
+- The crash detection feature was a little faulty at first when some iPhone 14 owners reported that their phones triggered 911 calls while they were riding roller coasters.
+- The Apple Watch Series 8 was a bit of a boring release for Apple’s wearable, as it wasn’t a huge upgrade over the Apple Watch Series 7; Apple seemed to spend more energy focusing on the Apple Watch Ultra instead. The only real upgrades for the Series 8 were the newer-generation S8 chip and a new body temperature sensor, though the use cases for that are pretty limited. But if you didn’t have a Series 7, then the Apple Watch Series 8 was still a great upgrade for those coming from older models.
+- We’re still a few months away from Apple revealing the next generation of Apple Watch with a Series 9 model, which is most likely coming sometime in the fall, along with the iPhone 15. But until then, here’s what I’m hoping Apple will put in the Apple Watch Series 9 when it finally comes out.
+Nonintrusive blood glucose monitoring
+- For years, rumors circulated that Apple was working on a more rugged Apple Watch, and in 2022, we finally got it in the form of the Apple Watch Ultra. Simply put, it's one of the best smartwatches you can buy in 2023.
+- But there’s one caveat that won’t appeal to everyone, aside from the aesthetics: the fact that this is a chonky boi. Yes, the Apple Watch Ultra is the biggest Apple Watch that Apple offers, coming in the form of a large 49mm case size with a 1.93-inch display. And according to the latest Apple Watch Ultra rumor from DigiTimes, the next iteration of it could get about 10% bigger in 2024, which would mean a screen size of about 2.1 inches. Though I’m sure plenty of people are excited about more screen estate on their wrist, I’m not a fan.
+What about those of us with small wrists?
+- The Crash Detection feature on the iPhone 14 and newer Apple Watches is continuing to cause issues for first responders based in ski resorts and elsewhere.
+- Crash Detection activates when an iPhone 14 or Apple Watch detects a sudden jolt in motion that suggests some kind of accident has occurred. The owner has 10 seconds to dismiss the alert if the feature has been activated in error or if the accident isn’t serious, thereby preventing a call from being placed. The problem is that if the phone is in a pocket or bag, erroneous activations are unlikely to be noticed, prompting the emergency services to respond to non-incidents. Such actions are a big waste of time and resources and can divert workers from genuine incidents requiring quick responses.
+- Upgrade your lifestyleDigital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks.
+
+URL: https://www.wsj.com/articles/the-owner-of-this-iphone-was-in-a-severe-car-crashor-just-on-a-roller-coaster-11665314944
+- WSJ Membership
+- Customer Service
+- Tools & Features
+- Ads
+- More
+- Dow Jones Products
+
+URL: https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/
+- The Colorado Sun
+- Telling stories that matter in a dynamic, evolving state.
+- Dispatchers at the Summit County 911 Center fielded 71 automated crash notifications from skiers’ iPhones and Apple watches at the county’s four ski areas last weekend. None of them involved an emergency.
+- But each of them took time to sort out. If the skier did not answer a return call, a special operations deputy contacted ski patrollers to check the location of the automated call.
+- “We are not in the practice of disregarding calls,” said Trina Dummer, the interim director of the Summit County 911 Center. “These calls involve a tremendous amount of resources, from dispatchers to deputies to ski patrollers. And I don’t think we’ve ever had an actual emergency event.”
+- The “crash detection” and “fall detection” features on the Apple iPhone 14 and watches automatically call 911 when the devices detect a sudden stop that, in concept, means the user has been involved in a car crash. The technology has been heralded for saving lives, but it’s not meshing well with skiers who can stop suddenly and often fall without the need for emergency help.
+- All of the automated 911 calls from skiers pouring into ski town emergency call centers this month — with a robot voice sharing latitude and longitude coordinates of a potentially injured party — were about snowy tumbles, not car wrecks.
+- Dispatch operators in Grand, Eagle, Pitkin, Routt and Summit counties — home to 12 very busy ski hills — are fielding record numbers of the automated calls from skiers’ Apple phones and watches, tying up emergency response resources. When 911 calls come in, they are handled in the order they arrive, so an automated call from a skier’s phone could delay response to a 911 caller with a real emergency.
+- “We are absolutely diverting essential resources away from people who need it toward a feature on a phone,” Dummer said.
+- To disable the automatic SOS call to 911 on an iPhone 14, go to Settings > Emergency SOS and turn off “Call After Severe Crash.” Users of older iPhones can turn off the “Call with Hold” feature.
+- Apple launched an automatic fall detection feature in its watches a couple years ago. That started a slow trickle of calls from the wrists of tumbling skiers to resort-area dispatch centers. The new iPhone 14 sends calls to 911 whenever the phone detects a jarring jolt it determines to be similar to a severe car crash. That has spiked the number of 911 calls from skier phones.
+- The Pitkin County 911 Center gets about 15 to 20 of these automated calls a day from the county’s four ski areas. Dispatchers try to return every call but often a call to a skier who has their phone deep in their pockets goes unanswered, dispatch center director Brett Loeb said.
+- Loeb usually has one or two operators taking 911 calls and existing emergency calls can be put on hold to field incoming calls from iPhones. While his team has helped fallen hikers and residents whose watches have notified emergency services when and where they need help, so far there have not been any real emergencies from the automated calls from the ski slopes.
+- Loeb was able to share his concerns with the feature with Apple this fall as the company tested a new system that allows users to call 911 using a satellite connection when they are out of range of their mobile network.
+- That satellite SOS technology will be a big benefit to mountain users, Loeb said.
+- “We did have a conversation with Apple about the crash detection this fall and they told us they were aware of the issue and were working on a fix they were hoping to have out in the first quarter of 2023,” Loeb said.
+- The emergency dispatchers at the Vail Police Department get about 20 automated iPhone calls a day. Dispatchers try to call the phone back to make sure there is not an emergency. Most of the time it’s a skier on the hill and there is no need for assistance. But earlier this week iPhones of two users simultaneously buzzed Vail’s 911 dispatch and both were involved in a car crash.
+- So the technology can be helpful, said Marc Wentworth, the director of the Vail Public Safety Communications Center.
+- Dispatchers in Grand County get about 20 to 30 of the automated calls a day from slopes at Winter Park and Ski Granby Ranch.
+- Grand County Sheriff Brett Schroetlin called the calls are “problematic and time-consuming,” but said they have not impacted dispatch operations. Grand County emergency dispatchers often can screen the calls to determine there is not an emergency and do not call back unless there is some other indication of trouble, Schroetlin said.
+- His dispatch supervisor has contacted Apple and received a response that the company is aware of the conflict between skiers and the crash detection technology and are working on a fix, Schroetlin said.
+- Summit County Sheriff Jaime FitzSimons earlier this year contacted Apple through the company’s online portal for law enforcement and expressed his concern about the automated calls to his dispatch center. The company told him this fall that an update had been completed and it would slow the number of automated 911 calls from skier iPhones and watches.
+- “But we have not seen our numbers change. We are seeing as many as 20 a day and it’s a tremendous drain on our resources,” FitzSimons said. “We are communicating with Apple to get them to pay more attention to this but it feels like we are trying to turn a battleship in a bathtub.”
+- Apple engineers developed the “advanced sensor fusion” technology for crash detection using data from crash labs, actual crashes and lots of driving. The technology uses an accelerometer and gyroscope, GPS, barometer and microphone to detect crashes. It is designed to call for help when it detects a “severe crash” capable of causing major lacerations, fractured bones, crushed limbs and bruised organs. Once the crash detection technology is triggered, an aggressive alarm sounds and begins a 20-second countdown during which users can cancel the 911 call.
+- The audio recording delivered to 911 operators, which repeats every five seconds, says “the owner of this iPhone was in a severe car crash and is not responding to their phone.”
+- “Apple has validated sensor and algorithm performance using extensive real world and simulated car crashes, allowing the feature to detect as many severe crashes as possible, while minimizing false positives,” reads a crash detection manual Apple released this fall.
+- Backcountry search and rescue teams also rarely dismiss calls for help. Colorado search and rescue volunteers often venture into the backcountry to rescue users of satellite-connected devices who triggered calls for help. Now that iPhones can send an SOS signal through a satellite and the newest phones can send that signal automatically without the user pressing any buttons, backcountry teams are watching Apple’s adjustments closely.
+- “Without a fix, this is likely to extend to backcountry snowmobilers and perhaps other backcountry recreationists,” said Anna DeBattiste with Colorado Search and Rescue, who pointed to a recent campaign by SAR teams in British Columbia urging backcountry travelers to be aware of the new crash detection technology in their iPhones.
+- Older iPhones would automatically call 911 whenever the user pressed and held the side button and either volume button. That triggered the first wave of hangup 911 calls from mobile devices in the pockets of skiers who were likely trying to adjust the volume on speakers in their helmets.
+- Now, the new crash and fall detection features — which are enabled on all new iPhones and watches — have added even more automatic calls to emergency dispatch centers. Dummer hopes more users — especially skiers — will learn more about the crash detection feature on their phones. (Go to Settings > Emergency SOS and iPhone 14 users can turn off “Call After Severe Crash” and users of older iPhones can turn off the “Call with Hold” feature.)
+- “People need to better understand their phones and know there is a measure of responsibility for owners of phones with these features,” she said.
+- The Colorado Sun — jason@coloradosun.com
+Email: jason@coloradosun.com Twitter: @jasonblevins							
+							More by Jason Blevins
+- Got a story tip? Drop us a note at tips@coloradosun.com
+- The Colorado Sun is a journalist-owned, award-winning news outlet based in Denver that strives to cover all of Colorado so that our state — our community — can better understand itself.
+
+URL: https://techcrunch.com/2022/10/10/apple-offers-a-deeper-dive-into-crash-detection/
+- Apple’s recent hardware events have been punctuated by a touch of doom and gloom. It’s a tonal shift from the usual celebratory nature of these presentations — all by design, of course. The Apple Watch was the first to the party. Features like AFib readings and Fall Detection gave way to video testimonials from users who survived close calls thanks to the wearable.
+- At September’s Far Out event, the company introduced another feature that falls into the category of updates you’ll hopefully never need. Crash Detection for the iPhone and Apple Watch has since proven to be something of a misunderstood addition, due in part to the fact that it’s an extremely difficult one to test.
+- The iPhone 14 and Apple Watch Series 8 can detect when you’re in a car crash
+- 
+- Last week, TechCrunch sat down with a pair of Apple executives for a conversation about the feature’s ins and outs. Vice president, Sensing & Connectivity, Ron Huang, and vice president, Worldwide iPhone Product Marketing, Kaiann Drance, answered some of our burning questions about Crash Detection, to give us a better picture of what Apple’s latest safety brings to the table for iPhone and Apple Watch users.
+- The addition of the feature arrives in large part courtesy of a new Gyroscope and Accelerometer. “It’s mostly the G Force detection,” says Drance. It’s able to detect G Force up to 256 Gs. That was one of the key differences for the new accelerometers that the new watches and phones have.”
+- Image Credits: Apple
+- Image Credits: Apple
+- Huang adds, “It started off with our fundamental understanding of what is experienced during a crash. In these crashes, you see impact forces over 100 (Gs). We started around 256. Any time you try to increase that range, there are trade-offs, in terms of precision at the higher range and the power costs. It took the team a lot of work to build the sensors in this way.”
+- The new gyroscope, meanwhile, is designed to sense speed changes more quickly than the older versions. As for the myriad other ways in which the components are utilized on the devices, Apple says, “they provide the same great level of performance for other things like camera stabilization, playing games, etc.”
+- Ultimately, the gyroscope and accelerometer are just two of the sensor pieces here. The list also includes the GPS to determine that the user is traveling at high speeds, the microphone to monitor for the sounds of a crash and the barometer, which detects the change in pressure that occurs when airbags are deployed. Not all of the systems have to collect associated data to trigger the system. For example, if the car’s windows are down, the change in barometric pressure will be too subtle to impact the reading.
+- “There’s no silver bullet, in terms of activating crash detection,” says Huang. “It’s hard to say how many of these things have to trigger, because it’s not a straight equation. Depending how fast the traveling speed was earlier, determines what signals we have to see later on, as well. Your speed change, combined with the impact force, combined with the pressure change, combined with the sound level, it’s all a pretty dynamic algorithm.”
+- The system does, however, need to detect multiple data points at once, so simply dropping the phone in a moving car shouldn’t accidentally trigger the feature.
+- Image Credits: Apple
+- Image Credits: Apple
+- “I actually had a rear-end fender bender when I was in New York earlier,” says Drance. “My crash detection did not go off, because it’s just one of those minor things where you just get out of your car and keep going. That’s part of the sensor fusion and accuracy, because we don’t want to be doing a lot of false calls to 9-1-1 when they’re not necessary.”
+- The company notes that the feature isn’t specifically designed for something like — god forbid — a train crash, though it adds that other features like Fall Detection have been used for cases outside their initial design. “We think Crash Detection could potentially be that, too,” says Huang.
+- Bluetooth and Carplay are also used to determine that you’re in a car, though neither are strictly necessary for the feature. “On top of that, we added a lot of signals,” says Huang. “Whether it’s road noise or engine noise, we can see that. We can see that the Wi-Fi routers that you’re using are changing very rapidly — faster than if you’re walking or biking and so forth.”
+- Apple worked with a number of crash labs to gather the necessary data and perform real-world testing, in order to assure an acceptable level of efficacy for the feature. It’s intentionally difficult to trigger outside the intended scenario, so you don’t accidentally call emergency services. That also goes for if your phone accidentally falls from the mount while driving, or even a less severe crash.
+- “We put iPhones in many different places throughout the car — on the dummies and the car itself and mounts and so forth,” says Huang. “And then we collect all of the raw sensor data coming from these devices during such a crash. We put cameras inside and outside the cars, as well, so from the footage, you can time the actual impact, what the pressure sensors see when the airbag goes off in slow motion. We’re able to look at data in high fidelity. We also look at DATA from the Department of Transportation or the NHTSA (National Highway Traffic Safety Administration) to understand what kinds of crashes are the leading causes of injuries.”
+- Image Credits: Apple
+- Image Credits: Apple
+- The company didn’t offer an exact number of car crashes that were required to create the final dataset, but did imply that it was more than “dozens” and added that “thousands” of its own devices were used in the process. Apple says such real-world crashes are difficult to simulate, particularly ones that can check off the necessary boxes.
+- It’s easy to see how the system might be the most valuable to drivers in rural areas. After all, getting into a crash in a more populated area significantly increases the chances of someone nearby being around to report the accident. In a more remote area — especially in the case when it’s a one-party crash involving an object like a tree — the feature could be a potential lifesaver.
+- However, much like bystanders, wireless signals can be harder to come by in such areas.
+- Image Credits:
+- Image Credits:
+- “Just like any 9-1-1 call, we would attempt to dial it first over your network. If your network is not available, we will try to route to any other available carrier, even if it’s not the carrier that you have with your SIM. When there’s no coverage, this will be linked to the emergency SOS via satellite feature. If you happen to get into an accident like that, and there’s absolutely no coverage where you are, we will still try to connect via satellite through the emergency SOS capability.”
+- Asked whether there are any differences in accuracy between the phone and watch, Apple only says “they’re both very accurate.” Huang adds, “There are differences. Watch is on your wrist, and the kind of impact you see on your wrist during a crash will be very different. There are those differences, but, for example, barometer is very similar with the iPhone and Watch. So there are differences based on how the devices are used, placed or worn.”
+- The feature is available for iPhone 14 and 14 Pro models, along with the Apple Watch Series 8 and Ultra.
+
+URL: https://www.techspot.com/news/96840-apple-crash-detection-continues-trigger-false-positives-time.html
+- Recap: Crash detection debuted in September as one of the standout features of Apple's new iPhones and Apple Watches. In short, crash detection utilizes a handful of on-device sensors and advanced algorithms to determine if you've been in an accident and can automatically notify emergency services and alert specified contacts on your behalf. It's the sort of feature you hopefully never have to rely on, and one that's proven to be a headache for Apple.
+- In October, The Wall Street Journal reported on a series of false positives stemming from roller coaster riders at multiple theme parks in the Midwest. Now, thrill seekers at ski resorts are inadvertently being a pain in the neck for emergency dispatchers in Utah.
+- 
+- Summit County dispatch center supervisor Suzie Butterfield told local news station KSL that on average, she is receiving three to five emergency calls from Apple devices per day. So far, none of the calls she has fielded have involved actual emergencies.
+- Most callers have no idea their devices have triggered an emergency call, Butterfield said.
+- Despite the false alerts, the call center supervisor urges users not to disable the feature, which is activated by default out of the box. She said they would rather people be safe. "We don't mind taking that call because if something really did happen, we want to be able to get to you," she added.
+- Related reading: YouTuber puts iPhone 14 crash detection feature to the test
+- But false alarms are a problem as they could tie up dispatchers and first responders should an actual emergency arise at the same time. Apple is well aware of the feature's shortcomings and is taking action.
+- The tech titan recently released iOS 16.1.2 which improves wireless carrier compatibility and optimizes crash detection on the iPhone 14 and iPhone 14 Pro models. Apple is already working on the next major update, iOS 16.2, which is being beta tested as we speak and is expected to go live to everyone sometime this month.
+- On an iOS device, head to Settings -> General -> Software Update to start the download and install process.
+- Image credit: Almaty, CDC
+- TECHSPOT : Tech Enthusiasts, Power Users, Gamers
+- TechSpot is a registered trademark. About Us Ethics Statement Terms of Use Privacy Policy Change Ad Consent Advertise
+- © 2023 TechSpot, Inc. All Rights Reserved.
+
+URL: https://appleinsider.com/articles/22/12/26/iphone-14-crash-detection-still-sending-deluge-of-false-alarms-from-skiers
+- Copyright © 2023, Quiller Media, Inc.
+- Contact Us | Privacy Policy
+- Crash Detection
+- Skiers in Colorado have had their iPhone 14 or Apple Watch automatically call 911 using a new feature, putting a strain on emergency resources.  In late December, dispatchers at the Summit County 911 Center had to field automated crash notifications from skiers' Apple devices. None were involved an emergency, but they took time to deal with, needing ski patrollers to travel to the location of the automated call if the skier didn't return a call from dispatchers."We are not in the practice of disregarding calls," Trina Dummer, the interim director of the Summit County 911 Center, told The Colorado Sun. "These calls involve a tremendous amount of resources, from dispatchers to deputies to ski patrollers. And I don't think we've ever had an actual emergency event."So far in December, all of the automatic 911 calls were triggered by skiing or snowboarding accidents instead of car crashes, which still helps injured people. However, dispatchers handle each 911 in the order it arrives, and an automated call from an iPhone 14 could delay responses to more life-threatening injuries."We are absolutely diverting essential resources away from people who need it toward a feature on a phone," Dummer said.Apple introduced refinements to Crash Detection in the iOS 16.2 update. However, it appears to not be perfected yet.Crash Detection affecting other responders Emergency dispatchers in Colorado aren't the only authorities getting Crash Detection calls. In early December, dispatchers in Utah were getting between three to five Apple crash alerts per day.However, they want skiers to leave the feature on. They confirm that the feature is an important tool and not a nuisance."Somebody could ski and hit a tree and be knocked unconscious and not be visible to other skiers," said Summit County Dispatch Center supervisor Suzie Butterfield. "We do not want you to turn the feature off. We would rather have you be safe. We don't mind taking that call because if something really did happen, we want to be able to get to you."And on December 14, British Columbia search and rescue teams are complaining about multiple false alarms, and asked Apple for changes. An automated call from Crash Detecion could cost responders as much as $10,000, and they have a limited budget.Some of them have asked Apple to make Crash Detection an opt-in feature to reduce chances of false positives."I don't think they accounted for the people in British Columbia who love the outdoors and go into the backwoods and literally crash through the backwoods, whether it is on mountain bikes, whether it is on skis," said Dwight Yochim, Dwight Yochim, a senior manager of British Columbia Search and Rescue Association. "It clearly doesn't take a whole lot to trigger it."Apple introduced Crash Detection with the iPhone 14 lineup and new Apple Watch models, including the Apple Watch Series 8, Apple Watch SE 2022, and Apple Watch Ultra.It uses hardware sensors and algorithms to detect if the user has been in a severe car accident. It has failed and succeeded, and it's a feature that Apple will need to continue to improve.
+- In late December, dispatchers at the Summit County 911 Center had to field automated crash notifications from skiers' Apple devices. None were involved an emergency, but they took time to deal with, needing ski patrollers to travel to the location of the automated call if the skier didn't return a call from dispatchers.
+- "We are not in the practice of disregarding calls," Trina Dummer, the interim director of the Summit County 911 Center, told The Colorado Sun. "These calls involve a tremendous amount of resources, from dispatchers to deputies to ski patrollers. And I don't think we've ever had an actual emergency event."
+- So far in December, all of the automatic 911 calls were triggered by skiing or snowboarding accidents instead of car crashes, which still helps injured people. However, dispatchers handle each 911 in the order it arrives, and an automated call from an iPhone 14 could delay responses to more life-threatening injuries.
+- "We are absolutely diverting essential resources away from people who need it toward a feature on a phone," Dummer said.
+- Apple introduced refinements to Crash Detection in the iOS 16.2 update. However, it appears to not be perfected yet.
+- Emergency dispatchers in Colorado aren't the only authorities getting Crash Detection calls. In early December, dispatchers in Utah were getting between three to five Apple crash alerts per day.
+- However, they want skiers to leave the feature on. They confirm that the feature is an important tool and not a nuisance.
+- "Somebody could ski and hit a tree and be knocked unconscious and not be visible to other skiers," said Summit County Dispatch Center supervisor Suzie Butterfield. "We do not want you to turn the feature off. We would rather have you be safe. We don't mind taking that call because if something really did happen, we want to be able to get to you."
+- And on December 14, British Columbia search and rescue teams are complaining about multiple false alarms, and asked Apple for changes. An automated call from Crash Detecion could cost responders as much as $10,000, and they have a limited budget.
+- Some of them have asked Apple to make Crash Detection an opt-in feature to reduce chances of false positives.
+- "I don't think they accounted for the people in British Columbia who love the outdoors and go into the backwoods and literally crash through the backwoods, whether it is on mountain bikes, whether it is on skis," said Dwight Yochim, Dwight Yochim, a senior manager of British Columbia Search and Rescue Association. "It clearly doesn't take a whole lot to trigger it."
+- Apple introduced Crash Detection with the iPhone 14 lineup and new Apple Watch models, including the Apple Watch Series 8, Apple Watch SE 2022, and Apple Watch Ultra.
+- It uses hardware sensors and algorithms to detect if the user has been in a severe car accident. It has failed and succeeded, and it's a feature that Apple will need to continue to improve.
+- Andrew is a writer and commentator who has been sharing his insights on technology since 2015. He has authored numerous online articles covering a range of topics including Apple, privacy, and security. Andrew joined ...
+- This, this is the reason that I … don’t ski.(Actually it’s only one of many.)/s
+- This, this is the reason that I … don’t ski.(Actually it’s only one of many.)/s
+- My brother was skiing in Colorado last week. Had a pretty good wipeout and was barely able to turn off the emergency alert before it called. He didn’t even know he had the feature, but he was impressed it was there if he needed it!
+- My brother was skiing in Colorado last week. Had a pretty good wipeout and was barely able to turn off the emergency alert before it called. He didn’t even know he had the feature, but he was impressed it was there if he needed it!
+- More likely it is alerting emergency that the person has had a hard fall - not that you have been in a car crash. That feature has been on the Apple Watch for a long time, it nearly called 911 after I had a big endo on a mountain bike,
+- More likely it is alerting emergency that the person has had a hard fall - not that you have been in a car crash. That feature has been on the Apple Watch for a long time, it nearly called 911 after I had a big endo on a mountain bike,
+- Unintended consequences. It should be opt in.
+- Unintended consequences. It should be opt in.
+- MisterKit said:
+Unintended consequences. It should be opt in.
+
+I respectfully disagree. It would never be activated by the majority of iPhone users who never look at their settings. Should be on by default.
+- I respectfully disagree. It would never be activated by the majority of iPhone users who never look at their settings. Should be on by default.
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- 
+- 
+- 
+- 
+- Google's new Pixel Tablet is its best attempt to promote large-format Android experience yet, but it still has to take on the well-loved iPad in the market. Here's how the two sets of specs compare.
+- Dell's 32-inch UltraSharp 6K monitor offers a cheaper alternative to Apple's Pro Display XDR, but while similar in size and resolution, they go after two very different markets. Here's how the specs of the two compare.
+- Months after release, there are a lot of bands designed for the Apple Watch Ultra. Here are our favorite bands from Apple and third parties for any situation.
+- The Sonos Era 100 and Era 300 are the audio company's new smart speakers, which include Dolby Atmos support. Here's how they compare to Apple's own HomePod and HomePod mini.
+- It's been well over a decade since Apple shipped the first iPad to the world. Here's how the modern ninth and tenth generation iPad, aimed at the same audience, have improved over the original model.
+- Canada Pension fund increases held Apple shares by 50%, slashes Tesla stake by 53%
+- Cryptic tease may suggest imminent 'No Man's Sky' launch on Mac
+- Apple sued by actor Brent Sexton over COVID vaccination mandate
+- Bargain bonanza: unbeatable Apple deals on Amazon this week
+- Foxconn raises joining bonuses in preparation for iPhone 15
+- Apple Wallet patent infringement suit heads to settlement conference
+- Memorial Day deals: iPads from $149, $230 off Apple Watch, LG TV & monitor sale, more
+- Crash Detection feature & Apple Watch alert police to fatal car crash
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- After years of rumors, Apple has delivered and shipped its professional video editing suite on iPad. While the app is incredibly full-featured, there are some big holes for pro workflows.
+- We got our hands on an exclusive set of mockup iPhone 15 units — complete with working buttons. Here's how the design changes and features compare to the iPhone 14 lineup.
+- We round up — and rank — the best MagSafe wallet choices that you can use with your iPhone, featuring more card slots, Find My support, stands, and more.
+- Apple has announced a major update to the Apple Arcade catalog, adding 20 new games across a multitude of genres.
+- With its latest update, Microsoft is enabling iMessage on Windows 11 — with some caveats. Here's how it works and what features are still missing.
+- The Tonor T90 RGB Boom Arm is an adjustable steel arm that holds your microphone in place, while also incorporating multiple lights to complement your desk setup.
+- Skullcandy's original Crusher ANC wireless headphones dialed up skull-rattling bass and this new model continues that same tradition, but with more comfort, sophistication, and added features.
+- With strong suction and intelligent navigation, the DreameBot D10s Plus tackles hard floors and carpets well, but the mopping feature is not very impressive.
+- There are plenty of features to consider when buying a new smoker grill. Arguably, a Wi-Fi connection is becoming one of those features, so Brisk It's Origin-580 smart grill with a sub-$1,000 price is a tempting consideration.
+- The Jackery Solar Generator 3000 Pro provides off-grid power to run just about anything you want, where you want to do it — assuming you've got the ability to move around 70 pounds of battery.
+- 
+
+URL: https://www.androidpolice.com/apple-rollercoaster-car-crash-detection/
+- Maybe it can learn something from the Pixels
+- One of the great things about living in 2022 is all the life-saving technology we have on our wrists or in our pockets. If you wear an Apple Watch, a Galaxy Watch, or, soon enough, a Pixel Watch, your device is able to tell when you've fallen and call for help when you aren't able to. Android and Apple devices can also detect when you've been involved in a car crash as well. That said, a number of Apple Watch and iPhone owners have found that their crash detection feature may be a little too eager to call 911.
+- A dispatch center in Warren County, Ohio, has shared six calls with The Wall Street Journal that came from iPhones whose owners were not involved in a car crash, but were on rides at the Kings Island, the local amusement park. Errant reports have also come from park goers at Six Flags Great America near Chicago.
+- When an iPhone 14 series device, an Apple Watch Series 8, 2nd-gen Apple Watch SE, or an Apple Watch Ultra detects a crash based on sensor and location data, the device will initiate Emergency SOS mode and, if unaddressed in 10 seconds, will make a call to 911. Dispatchers will hear an automated message saying that the owner of the device was "in a severe car crash" and is unable to respond. Ambient sound from around the device fades in as the message repeats and location data is sent. Other measures may take place depending on how the user has set up Emergency SOS, including sending a text to an emergency contact.
+- Various anecdotes are being shared around detailing different mechanical misunderstandings from people on thrill rides to a loosely-strapped iPhone 14 Pro Max flying away from a motorcyclist. While the number of false positives this buggy feature generates may be relatively small, any one of them can tie up first responders and resources from another potential emergency that actually needs a response.
+- An Apple spokesperson defended the technology to the Journal, saying that it will improve over time and that the feature provides peace of mind.
+- Google's Android smartphones from the Pixel 3 series onward with Android 13 or later interpret ambient sound in addition to analyzing sensor and location data to make the determination on whether a crash has happened. The company does have an advantage with its deep experience in machine analysis of sound through Google Assistant and other ambient features.
+- Both Apple and Google's methods do generate valid crash reports, but as we're hearing more growing pains coming from one camp than the other, it'd be fair to think that Apple could do better here.
+- Thanks: Armando
+- Jules joined the Android Police team in 2019. He currently contributes art for our stories and edits our podcast. Before that, he was managed weekend news and wrote AP's newsletter.
+
+Jules also contributes to our sister sites XDA-Developers and Pocket-lint. He also was editor at our now-sister site, Pocketnow.
+
+URL: https://calgary.ctvnews.ca/apple-crash-detection-feature-causing-false-alarms-for-b-c-search-and-rescue-crews-1.6196851
+- Members of search and rescue teams in the southeast corner of British Columbia are dealing with false alerts thanks to Apple's new crash detection feature.
+- Crash detection -- which is available on iPhone 14 and iPhone 14 Pro models, as well as Apple Watch Series 8, Apple Watch SE (2nd generation) and Apple Watch Ultra – will connect users with emergency services if a severe car crash occurs.
+- When a severe car crash is detected, your iPhone or Apple Watch sounds an alarm and displays an alert.
+- Then, if you don't respond within 20 seconds, your device automatically calls emergency services.
+- However, some first responders are complaining they're getting sent alerts from skiers, snowboarders and snowmobilers who don't actually need their help.
+- "In our case, it was an older gentleman whose daughters gave him an apple watch in order to keep track of him," said Peter Reid, a member of Kimberley Search and Rescue.
+- "He was out cross country skiing and discovered that the watch was sending out panic messages to his daughters and to us as well."
+- Golden Search and Rescue, meanwhile, says they've received three alerts in two days from people who didn’t need help, apparently caused by simply falling down or making quick movements.
+- Reid says helicopter rescue calls cost the province upwards of $10,000 per incident, and if they're sent to a bogus call it diverts their resources from those who truly need it.
+- Ritesh Kotak, a cyber and technology analyst based out of Toronto, says the crash detection software is actually built into new Apple devices.
+- "Think of it as an antenna that allows it to communicate with a satellite. So, older model iPhones or other types of devices won't work this service."
+- Despite the hiccups, Reid still believed the technology is a "wonderful thing" – though he says it needs to be used "in a proper fashion."
+- Apple has worked with the B.C. Search and Rescue Association and North Shore Rescue to fix the issue, and introduced updates for both iOS 16.1.2 and 16.2 on iPhone 14 and 14 Pro models on Dec. 13.
+- "Users are encouraged to get the update," said Apple.
+- For more information you can visit the Apple support website.
+- NDP Leader Jagmeet Singh is pushing for special rapporteur David Johnston to 'step aside' from his role examining the issue of foreign interference before he embarks on public hearings.
+- 
+- New Democrat MP Jenny Kwan said Monday that Canada's spy agency has confirmed her long-held belief she is being targeted by the Chinese government, as the prime minister granted the NDP's wish to allow more party members to review top-secret intelligence.
+- 
+- There's a heightened risk of wildfires across the country during what has been one of the earliest fire seasons on record. From British Columbia to Nova Scotia, here's where the risk is highest.
+- 
+- Overall health-care costs could be reduced in Canada by providing free prescription drugs to patients, according to a new study.
+- 
+- With the summer swimming season fast approaching, the Canada Safety Council is reminding people to be careful and take measures to prevent drowning, especially after three children died just days apart.
+- 
+- In Alberta today, the United Conservative Party is looking to win a second consecutive majority government while the NDP is fighting to regain the office it lost in 2019.
+- 
+- Three national health organizations want Canada's premiers to push for initiatives to reduce smoking during settlement negotiations with major tobacco companies, years after provinces sued to recoup health-care costs.
+- 
+- Exactly 12 years after she was reported missing, police announced Madison Scott was found dead in central B.C.
+- 
+- Dashcam footage shows the extent of the Tantallon wildfire as it raged in Hammonds Plains, N.S.
+- 
+- In Alberta today, the United Conservative Party is looking to win a second consecutive majority government while the NDP is fighting to regain the office it lost in 2019.
+- 
+- Watch CTV News Edmonton's special election broadcast on air and online when polls close.
+- 
+- Take Back Alberta says it is responsible for ousting Jason Kenney and that it backed Danielle Smith as his successor.
+- 
+- A beloved Boston terrier from Vernon, B.C., has doggy paddled to fame ahead of his fourth birthday.
+- 
+- A B.C. woman has been ordered to repay nearly $2 million that she misappropriated from her employer while working as a payroll administrator in what a judge describes as an "egregious case of employee theft."
+- 
+- Election day in Alberta has many agreeing it's a tight race between incumbent Danielle Smith of the United Conservative Party and NDP leader former premier Rachel Notley, in a campaign that has, in many ways, been unlike any other.
+- 
+- Officials say a wildfire that began in the Upper Tantallon, N.S., area Sunday afternoon is ongoing and still not under control.
+- 
+- Roughly 450 homes have been evacuated in Shelburne County as a wildfire burns out of control over thousands of hectares.
+- 
+- Pictures from across Nova Scotia highlight the destruction brought on by two wildfires that are burning out of control in the province.
+- 
+- Conservation officers have captured and killed six cougars near Victoria this year in response to multiple predatory attacks on sheep farms.
+- 
+- Saanich police are on the lookout for a man who allegedly stole a pricey wheel of cheese from a grocery store last month.
+- 
+- Capital Bike is encouraging Greater Victoria residents to choose cycling as a way to get around the region during "Go By Bike Week," which runs from May 29 to June 4.
+- 
+- New information has emerged about the fatal shooting of an engaged couple fleeing their landlord after a dispute near Hamilton, Ont.
+- 
+- Ontario referees will be outfitted with body cameras this summer in an effort to stop aggressive abuse at soccer games across the province.
+- 
+- The Philadelphia 76ers went all-in with their NBA championship pursuit on Monday, selecting veteran Nick Nurse as their new coach to try to win the franchise's first title since 1983.
+- 
+- The union representing the majority of Quebec's daycare workers is criticizing the government's decision to launch a skimpy 90-hour training program for people who want to be daycare workers but have no prior experience.
+- 
+- Montreal recorded its first 30-degree temperature of the year on Sunday, and the city could see three more days in the 30s later this week.
+- 
+- A Quebec driver who caused the death of another motorist when he swerved his truck to avoid hitting a family of ducks on the road has been sentenced to eight months in jail and a three-year driving ban.
+- 
+- The Sandy Hill Child Care Centre has an extra two weeks to get its new home up to code months after a fire destroyed its original site on Wilbrod Street.
+- 
+- Ottawa police are praising a local dad for quickly calling for help Sunday afternoon when he accidentally locked his keys in his car, and his infant child along with them.
+- 
+- Ontario Provincial Police say a driver from Augusta Township is facing an impaired driving charge after someone on Highway 416 spotted a vehicle moving erratically.
+- 
+- The rural Oxford County intersection where an OPP officer and a school bus driver were killed Monday was less than a month away from becoming a four-way stop when the deadly crash happened.
+- 
+- The death of an OPP officer Monday morning adds to a growing list of Ontario police officers who have died while on-duty in the past few months.
+- 
+- Work continues to make everyday life more accessible for those with disabilities across Waterloo region, and the need for that is especially highlighted on National AccessAbility Week in Canada.
+- 
+- The Blades drafted Benjamin Bowtell in the sixth round of the 2023 Bantam Draft back in April.
+- 
+- A memorial, featuring bouquets and a "ghost bike" now stands at the intersection where a Saskatoon teacher was killed last week.
+- 
+- A group of hundreds of students at the University of Saskatchewan Space Design Team (USST) as well as Saskatchewan Polytechnic are nearing the finale of a five-year project.
+- 
+- An Ontario Provincial Police officer and a school bus driver are dead after a violent crash north of Woodstsock Monday morning.
+- 
+- The body of a Winnipeg boy who fell into Sturgeon Falls on Saturday has been found following a desperate underwater search that lasted more than a day.
+- 
+- One person is in critical condition after hitting a moose on Highway 69 in Greater Sudbury on Friday night, police say.
+- 
+- Winnipeg police say a serious crash has shut down a section of Lagimodiere Boulevard.
+- 
+- A Winnipeg family is asking for help to find their missing teenage son whom they haven't seen since he left for school in the Fort Richmond area last Wednesday morning.
+- 
+- The body of a Winnipeg boy who fell into Sturgeon Falls on Saturday has been found following a desperate underwater search that lasted more than a day.
+- 
+- The first twister of 2023 in the country touched down near Regina over the weekend, according to an analysis from the Northern Tornadoes Project (NTP).
+- 
+- Weyburn and Fillmore RCMP are at the scene of a serious collision involving multiple vehicles on Highway 13 about 16 kilometres east of Weyburn.
+- 
+- Greg Ottenbreit and Ken Francis, the current Saskatchewan Party MLAs for Yorkton and Kindersley will not be seeking re-election in 2024.
+- 
+- CTV News Programs
+- Local News
+- © 2023 
+
+ All rights reserved. Use of this Website assumes acceptance of Terms & Conditions and Privacy Policy
+
+URL: https://www.theglobeandmail.com/canada/british-columbia/article-apple-updates-software-after-crash-detection-system-prompts-false/
+- Authorities in Canada and the United States have flagged concerns related to the sensitivity of Apple's crash detection system, which recently triggered a search-and-rescue mission in the backcountry in B.C.Jeff Bassett/The Canadian Press
+- Apple Inc. released a software update this week that it hopes will prevent its devices from placing unnecessary emergency calls, such as the one that prompted a search-and-rescue mission into British Columbia’s backcountry and a police response in Alberta, although the company declined to detail what changes it implemented.
+- The company released its new “crash detection” system in September and over the past week in B.C., iPhones and Apple watches have triggered at least four false alarms. The feature is supposed to pick up on whether someone has been in a serious vehicle crash and, if so, send messages to emergency officials or emergency contacts if the device’s user does not quickly dismiss alerts.
+- Apple posted a description of the update online, explaining that the patch includes “optimizations” for crash detection on its iPhone 14 and iPhone 14 Pro models. The company declined to comment.
+- Authorities in Canada and the United States have flagged concerns related to the crash detection system’s sensitivity. Since Dec. 10 in B.C., it has been set off by a snowmobiler in the backcountry and three people authorities believe were skiing or snowboarding at resorts. Collectively, these faulty messages triggered responses from RCMP in B.C. and Alberta, Emergency Health Services, a search and rescue crew in Golden, and Kicking Horse Mountain Resort’s ski patrol.
+- British Columbia Search and Rescue Association officials met with representatives from Apple on Wednesday, according to BCSARA manager Dwight Yochim. BCSARA originally requested the meeting to discuss its concerns over Apple’s emergency SOS via satellite technology, however, the organization used the session to seek information related to company’s crash detection feature in light of the wave of false alarms.
+- The crash detection system uses an accelerometer, listens for noise like breaking glass or metal crunching and has an atmospheric pressure gauge that picks up on airbag activity, Mr. Yochim said. “They had all of this stuff built in,” he said, noting this has not been enough to stop false activations. While Apple did not disclose the changes included in the patch, BCSARA is encouraging Apple users to update their devices and check their settings.
+- BCSARA first requested the meeting after Apple introduced a system that allows select iPhones to call or text emergency services via satellite when out of cell and WiFi range. (The crash detection system uses this system when WiFi and cell services are not available). The group was concerned the system only placed outgoing messages, leaving would-be rescuers scrambling for more details.
+- However, Apple told BCSARA that it is a two-way communications system and search-and-rescue personnel can directly contact the company’s emergency teams to gather more information about potential emergency situations, such as whether the subjects are moving or able to provide more details.
+- Apple, Mr. Yochim said, was “extremely responsive” to the group’s concerns over the SOS program and provided BCSARA with training material for managers. Mr. Yochim said Apple offered to conduct webinars for search-and-rescue managers.
+- Kelly Furey, a spokeswoman for E-Comm 9-1-1, which operates emergency call centres in B.C., said her organization does not tally calls placed through automatic systems such as Apple’s crash detection feature, but it is aware “some police agencies have been impacted by these false 911 calls.” E-Comm, she said, has “advised” Apple of these issues.
+- Sonia Sinha, a spokeswoman for Alberta Public Safety and Emergency Services, said local 911 call centres in the province have not yet reported any “issues” with Apple’s crash detection program.
+- Apple on Oct. 19 made a presentation to 911 professionals in Canada as part of the Canadian Radio-television and Telecommunications Commission (CRTC) emergency services working group meetings, Ms. Sinha said. “Apple explained how their new crash detection tool works, and they have made training and support resources available,” she said in a statement, noting more than 200 people who work in the 911 system were present.
+- The CRTC did not respond to messages seeking comment about the presentation and Apple’s faulty emergency calls.
+- A separate Apple system, designed to detect falls, also appears to be generating unnecessary messages. About two weeks ago in Kimberley, B.C., search and rescue responded to an emergency message from an Apple device indicating someone suffered a “hard fall,” according to Patrick Reid, a manager with Kimberley SAR. The watch’s owner was cross-country skate skiing on groomed trials and had saved Kimberley SAR as one of his emergency contacts. The skier had not fallen.
+- Follow Carrie Tait on Twitter: @CarrieTaitOpens in a new window
+- Report an error
+- Editorial code of conduct
+- Build your personal news feed
+- © Copyright 2023 The Globe and Mail Inc. All rights reserved.
+- Phillip Crawley, Publisher
+
+URL: https://jalopnik.com/iphone-14-crash-sensor-motorcycle-accident-false-alarm-1849574562
+- I love riding motorcycles, but not as much as I love my family. I’m sure many of you that ride can relate when I tell you how much I love riding my 2022 Livewire One around New York City – and how much my loved ones hate it. So when my new iPhone 14 Pro Max erroneously texted my mom, my girlfriend, and several close friends, telling them I’d been in a terrible accident, it certainly didn’t help.
+- As an Apple fanboy and the co-founder of a tech company, you better believe I picked up the new iPhone 14 Pro Max on Friday, the first day it came out. I normally use a Peak Design case and mount for my motorcycles, cars, and bicycles. They make a superior mounting solution that works on all of my random adventures. Unfortunately, Peak Design didn’t have a proper new case for the iPhone 14 Pro Max. As an alternative, the company offered an adhesive mount to use on the back of the phone’s regular case in the meantime.
+- The following day, my buddies Tim, Chris, and I went out on a motorcycle day trip out of NYC via Manhattan’s West Side Highway. As we were cruising at around 60 miles per hour, I hit a big bump and my phone flew off its handlebar mount. My Cardo bluetooth helmet speakers announced “your phone has been disconnected” and my music stopped playing as I looked down to see no phone on my handlebars. I should have known better. Normally, a Peak Design case is incredible in every situation, but I suspected that adhesive mount would be iffy. Goodbye one-day-old phone! There was no way I could run around the busy  highway to find my phone. At least everything was backed up on the cloud.
+- My buddies and I went to the nearest Apple store to buy a cheap iPhone SE to use while I dealt with Apple Care to replace my brand-new phone. As I’m standing in the Apple Store, my friend Tim Harney, a natural comedian, walks in and tells me my entire family thinks I was in a horrible accident. I thought he was joking, but what he said was true. My lovely and supportive girlfriend had dropped everything and was driving from four hours away to come find me; she, my brother, and my mom were calling all the New York City hospitals looking for my body.
+- Thanks to the new crash detection feature in the iPhone 14, my phone apparently texted everyone listed as “family” in my contacts, telling them I was in a vehicle accident. The phone even called the police – all because it sensed itself tumbling off my handlebars and thought I had crashed my motorcycle.
+- After securing my new temporary phone, I immediately called everyone to let them know I was alive and safe. My poor sweet family was in tears, thinking I’d crashed my bike horrifically. As you can imagine, this made me sick to my stomach hearing them all in such distress. And I had only been out of touch for 45 minutes!
+- It was good to know that crash detection really works, and that my family really loves me after all. But I hate how this harmless mishap scared them. I had no idea. I remember riding to the Apple store, playing out in my head how my family would laugh at me for destroying my new iPhone 14 in less than 24 hours. Little did I know I was unintentionally causing them borderline emotional trauma at that very moment.
+- After settling back home at the end of the day, I checked Apple’s “Find My iPhone” app. Apparently someone had found and retrieved my phone from the side of the highway, because the app showed the phone alive and active, sitting in someone’s residence in the Bronx, 40 minutes away from where I’d dropped it. I used the app to set my phone to “lost mode,” which locks the phone and displays a call back number on the screen. But after 24 hours, nobody was calling me back.
+- I debated my options and figured I would try my luck, drive over, and ask nicely about my phone. It was in my favor that the address showed an individual home on a residential street, not a huge apartment building where I would have no luck finding my phone.
+- I anxiously took the 40-minute drive across town and pulled up in front of the address, a nice suburban-looking home. I knocked on the door and a young man answered. As I told him my story, he called his dad, a city worker, who informed me he had found my phone soon after I lost it – just as it was getting run over. The smashed screen made it impossible for him to see the call-back number to contact me, so the gentleman just put the phone in his kitchen drawer until he figured out what to do with it.
+- I gave my hero a cash reward and took my phone to an Apple store. It was actually in decent shape, considering it was dropped on the highway at 60 mph and run over. The body of the phone was pretty intact, thanks to my temporary phone case, but the front screen was shattered and almost impossible to use. The Apple genius bar initially told me they could repair the phone, but a manager later informed me that, in fact, they had no replacement parts or training to fix an iPhone 14 Pro Max. The store gave me a replacement phone for a $29 deductible.
+- This iPhone 14 and Apple Watch Ultra crash detection feature is great, especially for someone like me, who regularly drives fast cars and motorcycles on and off the track. But clearly, the technology needs work. It scared my loved ones nearly to death when I was completely fine – and worse, I had no idea anybody had received this terrifying message. Wouldn’t you think you’d get a notification on your Apple Watch, allowing you to dismiss the crash alert before it gives your whole family a collective heart attack?
+- I’m grateful that this crash-detection technology exists, and I’m sure Apple put a ton of time, effort and thought into engineering it. I know false-alarms like mine will be rare, and the potential life-saving benefit far outweighs the inconvenience of my particular situation. But there has to be a better way to distinguish genuine crashes from phone-smashing mishaps. One thing is clear: I’m buying a more robust phone mount before I ever take another ride on the West Side Highway.
+- Douglas Sonders is a producer in the advertising and immersive tech spaces. He’s spent decades telling award-winning stories of brands and automakers through photography, film and immersive experiences. He currently owns and tinkers on a 2008 GX470 overland build, a 1990 Porsche 911 C4 Widebody Safari 911, and a 2022 Livewire One.
+
+URL: https://www.digitaltrends.com/mobile/iphone-14-crash-detection-system-false-alarm-scary-results/
+- Digital Trends may earn a commission when you buy through links on our site. Why trust us?
+- Apple’s new car crash detection feature for the iPhone 14 and Apple Watch Series 8 is one of the standout additions to an otherwise modestly upgraded product portfolio. The focus on user safety is definitely admirable, especially when it comes to calling for emergency assistance if you’re not in the shape to do so.
+- The idea is simple. When the sensors inside your iPhone detect a sudden impact, the screen lights up and shows a prompt asking the user if they need emergency aid. If the user doesn’t respond within 20 seconds, an SOS call is made to the emergency services, complete with the mishap’s location.
+- However, a false alarm can be quite a traumatic experience for folks in your family and friend circle that receive the ominous alert. Filmmaker Douglas Sonders learned it the hard way when his iPhone 14 Pro Max fell off while riding his motorcycle at 60 miles per hour and also got run over by other vehicles.
+- i activated my temp phone and had voicemails from mom and gf and business partner panicked thinking i was dead and were looking for me. Thankful @Apple crash alert works, sad i scared the hell out of my family
+- &mdash; Douglas Sonders (@douglassonders) September 18, 2022
+- Explaining the ordeal in a Jalopnik article, Sonders revealed that his bike “hit a bump” while cruising at high speed, and as a result, the “phone flew off” the bike’s handlebar. Sonders didn’t find it reasonable to search for his iPhone on a busy highway.
+- However, the sudden shock of being ejected from the bike’s mount and getting run over apparently triggered the car crash detection system. Naturally, the device reached out to the police as an emergency assistance measure. But that wasn’t all.
+- “My phone apparently texted everyone listed as “family” in my contacts, telling them I was in a vehicle accident,” Sonders wrote. Recalling the harrowing turn of events in a Twitter thread, Sonders mentioned that his family was worried sick, and his partner also embarked on a panicked drive to help him, assuming he got in an accident.
+- “It scared my loved ones nearly to death when I was completely fine – and worse, I had no idea anybody had received this terrifying message,” Sonders added.
+- It is apparent that the car crash detection feature, despite being potentially lifesaving, still needs some fine-tuning. However, this isn’t the first instance of an Apple product sending a false alarm and worrying users.
+- The Wall Street Journal has reported about false alarms going off regarding an AirTag nearby when none was actually found. There are also complaints regarding false positives from the Find My feature on the official Apple Community forum. Apple’s own research highlighted the chances of false positives being sent out by its controversial CSAM detection system.
+- The iPhone does a lot of things right. From serving a secure environment, a smooth operating system, unmatched performance, and consistently good cameras, there are plenty of practically justifiable reasons to overlook any of the best Android phones in favor of a pricey iPhone.
+- Interestingly, Apple tends to take a conservatively slow approach when it comes to smartphone innovations and only serves them after nearly near-perfecting the formula. But the default iPhone keyboard is a tale of stagnation. Or, to put it more accurately, it’s absurdly feature-devoid and depressingly non-exciting.
+- Apple has announced a slew of new accessibility features coming to the iPhone and its other devices later this year.
+- They include Personal Voice, which uses a synthesized version of your voice for spoken conversations, offering a more meaningful way to communicate with loved ones for those who have lost the ability to talk.
+- Apple iPhone 14 Pro Andy Boxall/Digital Trends
+- I had a ton of hope when I splurged the equivalent of $1,700 on the iPhone 14 Pro last year, buying into the camera hype of the new 48-megapixel sensor, the snazzy Dynamic Island, and a faster chip. I was sorely disappointed, especially when I looked at the competition and noticed I was missing out on meaningful perks like a folded lens telephoto camera for a higher lossless zoom range. I was not alone in sharing the disappointment.
+- Upgrade your lifestyleDigital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks.
+
+URL: https://gearjunkie.com/news/apples-crash-detection-911-false-alarms
+
+- Apple Cycle Tracking fertility predictions
+- Apple Watch blood oximeter racial bias
+- Page infoType: IncidentPublished: January 2023

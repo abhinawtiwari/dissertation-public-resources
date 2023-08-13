@@ -1,0 +1,237 @@
+- Released: June 2021
+- Can you improve this page?Share your insights with us
+- McDonald's AI-powered automated ordering system (AOR) uses voice recognition and natural language processing to enable customers to place orders quickly and easily from the comfort of their cars.
+- Based on technologies from voice recognition company Apprente and AI order taking outfit Dynamic Yield, the system was trialed at ten restaurants in Chicago in 2021.
+- According to McDonald's CEO Chris Kempczinski, the system is reputedly 85% accurate and able to take 80% of orders. 14,000 sites across the US are expected to use the technology, Kempczinski says.
+- Media reports indicate the company's AOR system has underperformed, with numerous TikTok users' recordings of their AI drive-thru fails going viral. One customer said the voice bot put 9 sweet teas on her order tab, when she only ordered one.
+- In June 2022, Restaurant Dive reported that 'McDonald’s drive-thru voice ordering accuracy rate at 24 Illinois restaurants was in the low 80% range, which is below the 95%-plus order accuracy rate the company wants before broader adoption,' citing a BITG research report.
+- In May 2021, McDonald's was accused of using voice recognition to identify customers in Chicago, USA, without their consent. The fast food company is being sued (pdf) by customer Shannon Carpenter for secretly using a voice recognition system when taking his drive-through order.
+- The class-action lawsuit claims McDonald's is using the technology to identify repeat customers at sites across Chicago, and that it is connecting personal voice data with car license plate numbers so that customers can be more easily recognised whichever restaurant they visit.
+- Under Illinois' Biometric Information Privacy Act (BIPA), the collection and use of voiceprints, fingerprints, facial scans, handprints, and palm scans requires user consent.
+- In December 2022, McDonald's opened a new test restaurant near Fort Worth, Texas, in which all aspects of the customer experience is automated, from request to conveyer belt delivery. Only the kitchen contains human beings.
+- McDonald's said in a blog post that the restaurant demonstrates its commitment to 'finding new ways to serve [customers] faster and easier than ever before.' Some customers seemed to appreciate the concept, but others complained about the loss of jobs, poor pay, and lack of personal service.
+- Operator: McDonald's/McD Tech Labs Developer: McDonald's/McD Tech Labs Country: USA Sector: Travel/hospitality Purpose: Personalise orders Technology: Voice recognition; NLP/text analysis; Automated license plate/number recognition (ALPR/ANPR) Issue: Accuracy/reliability; Privacy; Ethics; Employment - jobs Transparency: Governance; Privacy
+- McDonald's (2022). 5 Things to Know About McDonald’s New Test Restaurant in Texas
+- Carpenter vs McDonald's (pdf)
+URL: https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology
+- Search Restaurant Business
+- A customer at an Illinois McDonald’s has filed a lawsuit against the chain, saying that the company violated state law by not getting prior approval before using voice recognition technology to take his order.
+- Shannon Carpenter is seeking class status for a lawsuit filed in Illinois that last week was moved to a federal court there.
+- Attorneys for Carpenter say in the lawsuit that Carpenter visited a McDonald’s location in Lombard, Ill., early last year, went through the drive-thru and had his order taken with the company’s artificial intelligence-based voice assistance—Apprente, which it bought in 2019.
+- McDonald’s has been testing that ordering technology in 10 locations in and around Chicago and has been working to improve its accuracy to expand that to other restaurants around the country. Operators view it as a potential labor-saving device by enabling orders to be taken at a drive-thru by machine rather than with a person.
+- The lawsuit argues that the technology violates Illinois’ Biometric Information Privacy Act, or BIPA, which requires companies to inform customers that they are collecting their biometric information, which can include voiceprints, fingerprints, facial scans, handprints and palm scans.
+- The lawsuit says that, by using voice recognition technology to take Carpenter’s order, McDonald’s collected his voiceprint information without his consent and therefore violated that act. The lawsuit says that the requirements “are straightforward and easily satisfied, often requiring little more than acquiring a written record of consent” to the practices.
+- McDonald’s collects customers’ voiceprint biometrics “to be able to correctly interpret customer orders and identify repeat customers to provide a tailored experience,” the lawsuit says.
+- “McDonald’s AI voice assistant goes beyond real-time voiceprint analysis and recognition and also incorporates ‘machine-learning routines’ that utilize voice recognition in combination with license plate scanning technology to identify unique customers regardless of which location they visit and present them with certain menu items based on their past visits,” the lawsuit says.
+- McDonald’s has not responded to a request for comment on Monday.
+- The lawsuit highlights some of the challenges restaurants face as they work to make ordering easier and use technology to ease labor concerns.
+- Artificial intelligence is quietly playing a growing role inside restaurants, helping with everything from ordering to repair of espresso machines. As companies get more aggressive in using this technology to collect information from customers and ease ordering, they run into privacy and other regulations that could force them to adapt their plans or change them altogether.
+- Members help make our journalism possible. Become a Restaurant Business member today and unlock exclusive benefits, including unlimited access to all of our content. Sign up here.
+- Get today’s need-to-know restaurant industry intelligence. Sign up to receive texts from Restaurant Business on news and insights that matter to your brand.
+- The latest from Restaurant Business, sent straight to your inbox.
+- The Latest
+- More on this Topic
+- The Bottom Line: Remember when the fast-casual burger business was going to take loads of share from traditional fast-food chains? It never quite got there.
+- The Bottom Line: Cava Group’s filing of its initial public offering documents could be the first of a few industry IPOs this year. But restaurant M&A remains weak.
+- The kitchen is the centerpiece of the pizza chain’s new Atlanta headquarters, which makes sense. Innovation has been the centerpiece of the chain’s comeback.
+- Winsight is a leading B2B information services company focused on the food and beverage industry, providing insight and market intelligence to business leaders in every channel consumers buy food and beverage – convenience stores, grocery retailing, restaurants and noncommercial foodservice – through media, events, data products, advisory services, and trade shows.
+- Do not sell my personal infoPrivacy PolicyContact UsRSS
+- Copyright © Winsight, LLC. 2023
+
+URL: https://www.chicagobusiness.com/restaurants/mcdonalds-push-speed-drive-thrus-clashes-privacy-concerns
+- Staying current is easy with Crain’s news delivered straight to your inbox.
+- Ally Marotti is a senior reporter for Crain’s Chicago Business covering consumer products, food, restaurants and retail. She joined Crain’s in 2020 from the Chicago Tribune.
+- An Illinois privacy law that has ensnared Facebook, Six Flags and other companies in yearslong lawsuits with multimillion-dollar settlements is now threatening McDonald’s efforts to reduce its drive-thru times.
+- The Chicago-based fast-food giant has been working for years to speed up drive-thrus, a key element of CEO Chris Kempczinski's plan for revenue growth. The company streamlined menus, getting rid of more complicated items, and saw its efforts pay off during the pandemic in the form of same-store sales growth.
+- That was the relatively low-tech part. The high-tech part, however, could prove to be a legal snag.
+- In November, McDonald's announced a plan to deploy technology at some stores that allows automated ordering and payments, as well as tools that alert crew members when customers are nearby to ensure fast pickup.
+- A recent lawsuit takes aim at technology McDonald’s uses in some drive-thrus that allows voice automated ordering. The lawsuit alleges that McDonald’s artificial intelligence voice assistant violates an Illinois’ law protecting consumers' biometric information, which can include data from iris and fingerprint scans, facial maps and voice information.
+- The 2008 law is one of the strictest of its kind in the country. It allows private citizens, rather than just governmental entities, to file lawsuits and has turned Illinois into a hotbed of legal activity over the issue. Facebook last year agreed to pay $650 million to millions of its Illinois users to settle a lawsuit regarding its facial-tagging feature. Just last week, Six Flags Great America agreed to pay $36 million to settle a class-action lawsuit over its use of fingerprint scanners at the entry gates.
+- The law requires companies collecting biometric data to obtain prior consent from people. They must also detail how they’ll use it and how long it will be kept.
+- The new lawsuit homes in on voice assistant technology that McDonald’s acquired from startup Apprente in 2019. The tech analyzes speech signals when a customer is ordering, rather than just transcribing what they say, according to the complaint.
+- In other words, the assistant “extracts the customer’s voiceprint biometrics” and obtains identifying information on the customer, like age, gender, accent and more, according to the complaint. The lawsuit also alleges McDonald’s incorporates license plate scanning technology to identify customers, so they can be presented with certain menu items they’ve ordered previously.
+- Though that may speed up drive-thru times, the lawsuit alleges McDonald’s failed to inform customers that their voiceprint biometrics are being collected, and does not disclose what it does with the data or how long it will be stored.
+- Ultimately, the fate of McDonald’s with this lawsuit will depend on how exactly the technology works, said Matthew Kugler, an associate professor at Northwestern University Pritzker School of Law. If it is just transcribing the voices, it might not violate Illinois’ biometric privacy law.
+- But if the company is using voice recognition to identify people, it will either need to start abiding by the law’s consent requirements or find a different way to speed up drive-thru times, Kugler said.
+- “McDonald’s needs to know privacy law exists, but McDonald’s is not in a corner,” he said.
+- McDonald's said in a statement that its voice-ordering system enables automated drive-thru ordering but is not used to identify customers. It also doesn't try to match the voice of someone ordering with data on McDonald's customers. The company also said it does not store voice features or voiceprints that identify customers.
+- "This technology was specifically developed and deployed in a way that does not identify any customers, and the allegations in this complaint demonstrate a misrepresentation of the technology and its purpose," the statement said. "We intend to fully defend against these claims in court.”
+- The lawsuit was first filed in Cook County Circuit Court in April but was moved to federal court in Chicago late last month. It seeks class-action status. Attorneys representing the McDonald’s customer who filed the lawsuit, Shannon Carpenter, did not respond to requests for comment.
+- Lawsuits involving Illinois’ biometrics privacy law have thus far been focused largely on the collection of fingerprints or facial geometry, such as through social media tagging features. But voiceprints can be “very alarming,” said Adam Schwartz, senior lawyer at the Electronic Frontier Foundation, a nonprofit that advocates for user privacy.
+- Biometrics are important to protect because unlike a stolen credit card or social security number, you can’t change your fingerprints, face or voice, he said. That type of data can be easy to collect without a consumer knowing. Such technology also typically results in convenience for the company or the consumer.
+- “Certainly customer convenience is significant, but any customer convenience needs to be weighted against the very grave privacy issues,” Schwartz said.
+- Drive-thru business is vital for McDonald’s. Two-thirds of its restaurants worldwide—that’s 25,000—have drive-thrus, according to information the company released in November. During COVID, about 70 percent of sales in top markets occurred via drive-thrus.
+- The dependence on drive-thru orders during the pandemic was not unusual, especially among fast-food restaurants. Nearly all the major drive-thru joints managed either flat or positive sales growth in 2020, according to data from market research firm Technomic. That includes Wendy’s, Taco Bell, Chick-fil-A, Sonic and others.
+- Drive-thrus will likely remain invaluable resources that chains are willing to invest in, according to Technomic. Already, companies such as Pizza Hut, Chipotle and Shake Shack announced plans to develop more drive-thrus.
+- McDonald’s plans to roll out its new drive-thru concepts to 10,000 restaurants worldwide. It is unclear how many locations have the voice ordering feature targeted in the lawsuit.
+- Ally Marotti is a senior reporter for Crain’s Chicago Business covering consumer products, food, restaurants and retail. She joined Crain’s in 2020 from the Chicago Tribune.
+- An investment firm that once held a stake in the Famous Dave's barbecue chain submitted a stalking-horse bid to buy the fast-casual Corner Bakery chain.
+- In order for the Gold Coast location to be "truly viable and successful in the city of Chicago, it needed to become something that was outside of how we think of our business model," said CEO Tim McEnery.
+- Lettuce will sell items from its various restaurants throughout the course.
+- Staying current is easy with Crain's news delivered straight to your inbox, free of charge.
+- With a Crain’s Chicago Subscription you get exclusive access, insights and experiences to help you succeed in business.
+- All Rights Reserved.
+
+URL: https://www.law360.com/articles/1390989
+- Try our Advanced Search for more refined results
+- In the legal profession, information is the key to success. You have to know what’s happening with clients, competitors, practice areas, and industries. Law360 provides the intelligence you need to remain an expert and beat the competition.
+- TRY LAW360 FREE FOR SEVEN DAYS
+- Already a subscriber? Click here to login
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- © 2023, Portfolio Media, Inc. | About | Contact Us | Legal Jobs | Advertise with Law360 | Careers at Law360 | Terms | Privacy Policy | Cookie Settings | Help | Site Map | Resource Library | Explore Law360
+- Enter your details below and select your area(s) of interest to stay ahead of the curve and receive Law360's daily newsletters
+- 
+- 
+- 
+- Email (NOTE: Free email domains not supported)
+- First Name
+- Last Name
+- Job Title
+- PLEASE NOTE: A verification email will be sent to your address before you can access your trial.
+- Password (at least 8 characters required)
+- Confirm Password
+- Law360 may contact you in your professional capacity with information about our other products, services and events that we believe may be of interest.You’ll be able to update your communication preferences via the unsubscribe link provided within our communications.We take your privacy seriously. Please see our Privacy Policy.
+- 
+- 
+- 
+- Law360 takes your privacy seriously. Please see our Privacy Policy.
+- 
+
+URL: https://www.natlawreview.com/article/do-you-want-fries-mcdonald-s-customer-bipa-class-action-lands-federal-court
+- 
+- BIPA is a frequently litigated data privacy statute, and as readers of CPW know, we’ve been covering BIPA litigations for some time (for some of our prior coverage, check out here, here and here).  Often these claims are brought in the context of a preexisting employee-employer relationship, where employees allege that their employer improperly collected their data in violation of BIPA for timekeeping purposes.  A recent BIPA lawsuit against McDonalds filed on behalf of customers alleging that the fast food chain utilized drive-thru voice assistants in Illinois which captured and stored customers’ biometric voiceprint identifiers without their written consent breaks with this trend.  Carpenter v. McDonald’s Corporation, Case No. 1:21-cv-02906 (N.D. Ill.).  Read on to learn more.
+- First, a quick recap. The Illinois Biometric Information Privacy Act (“BIPA”) was enacted in 2008 and has standards regarding  the retaining and handling of the biometric data of Illinois residents.  At its core, BIPA protects the “biometric information” of Illinois residents, which is any information based on “biometric identifiers” that identifies a specific person—regardless of how it is captured, converted, stored, or shared.  740 ILCS 14/10.  Biometric identifiers are, “a retina or iris scan, fingerprint, voiceprint, or scan of hand or face geometry.”  Id. (collectively, with “biometric information,” “biometric data”).
+- The Carpenter complaint, which was initially filed in Illinois state court, alleges that “[i]n an effort to reduce costs and staff, beginning sometime in 2020 McDonald’s implemented an artificial intelligence (AI) voice assistant in the drive through of various McDonald’s restaurants across the nation, including in Illinois.”  Compl. ¶ 6.  The crux of Plaintiff’s claim is that “McDonald’s AI voice assistant’s voice recognition technology collects customers’ voiceprint biometrics in order to be able to correctly interpret customer orders and to identify repeat customers to provide a tailored experience.”  However, “McDonald’s has failed to comply with BIPA’s regulations and does not notify its customers that when they interact with McDonald’s AI voice assistant their voiceprint biometric information is used and collected, nor does McDonald’s obtain their consent to do so.”  Compl. ¶¶ 8-9.
+- Plaintiffs proposed class includes “[a]ll individuals whose voiceprint biometric identifiers or biometric information were collected, captured, stored, transmitted, disseminated, or otherwise used by or on behalf of Defendant within the state of Illinois any time within the applicable limitations period and for whom Defendant did not have any written record of consent to do so.”
+- While disputing Plaintiff’s allegations, McDonald’s had the case removed to federal court last week under the federal Class Action Fairness Act (“CAFA”).  There, the court will address whether Plaintiff’s Complaint should make it past the pleading stage and enter discovery, assuming McDonald’s moves to dismiss.  Ultimate questions of liability will depend largely on McDonald’s business practices, and whether it was simply collecting voiceprints to understand customers’ orders or alternatively if it was “connecting the dots” to ascertain customers’ exact identities.
+- For instance, the Complaint alleges that, “McDonald’s AI voice assistant goes beyond real-time voiceprint analysis and recognition and also incorporates ‘machine-learning routines’, that utilize voiceprint recognition in combination with license plate scanning technology to identify unique customers regardless of which location they visit and present them certain menu items based on their past visits.”  Of course, whether that allegation is well-founded based upon McDonald’s actual practices remains to be seen.
+- For more on this litigation, stay tuned.  As more states continue to enact biometric laws with a private right of action, more entities will find themselves named in similar litigation.  CPW will be there to keep you in the loop.  Stay tuned.
+- About this Author
+- Kristin Bryan is a litigator experienced in the efficient resolution of contract, commercial and complex business disputes, including multidistrict litigation and putative class actions, in courts nationwide.
+- She has successfully represented Fortune 15 clients in high-stakes cases involving a wide range of subject matters.
+- As a natural extension of her experience litigating data privacy disputes, Kristin is also experienced in providing business-oriented privacy advice to a wide range of clients, with a particular focus on companies handling customers’ personal data. In this...
+- 
+- 
+- You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's  Terms of Use and Privacy Policy before using the National Law Review website. The National Law Review is a free to use, no-log in database of legal and business articles. The content and links on www.NatLawReview.com are intended for general information purposes only. Any legal analysis, legislative updates or other content and links should not be construed as legal or professional advice or a substitute for such advice. No attorney-client or confidential relationship is formed by the transmission of information between you and the National Law Review website or any of the law firms, attorneys or other professionals or organizations who include content on the National Law Review website. If you require legal or professional advice, kindly contact an attorney or other suitable professional advisor.
+- Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals. The National Law Review is not a law firm nor is www.NatLawReview.com  intended to be  a referral service for attorneys and/or other professionals. The NLR does not wish, nor does it intend, to solicit the business of anyone or to refer anyone to an attorney or other professional.  NLR does not answer legal questions nor will we refer you to an attorney or other professional if you request such information from us.
+- Under certain state laws the following statements may be required on this website and we have included them in order to be in full compliance with these rules. The choice of a lawyer or other professional is an important decision and should not be based solely upon advertisements. Attorney Advertising Notice: Prior results do not guarantee a similar outcome. Statement in compliance with Texas Rules of Professional Conduct. Unless otherwise noted, attorneys are not certified by the Texas Board of Legal Specialization, nor can NLR attest to the accuracy of any notation of Legal Specialization or other Professional Credentials.
+- The National Law Review - National Law Forum LLC 3 Grant Square #141 Hinsdale, IL 60521  Telephone  (708) 357-3317 or toll free (877) 357-3317.  If you would ike to contact us via email please click here.
+
+URL: https://thenextweb.com/news/ai-mcdata-future-of-capitalism-mcdonalds
+- You have been blacklisted, KTHXBAI
+- XID: 15171950
+- Varnish cache server
+
+URL: https://www.wsj.com/articles/mcdonalds-tests-robot-fryers-and-voice-activated-drive-throughs-11561060920
+- WSJ Membership
+- Customer Service
+- Tools & Features
+- Ads
+- More
+- Dow Jones Products
+
+URL: https://datainnovation.org/2021/06/demonizing-how-fast-food-companies-use-ai-wont-help-consumers/
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cf5d7a61f419597
+•
+
+      Your IP:
+      Click to reveal
+31.193.221.194
+•
+
+Performance & security by Cloudflare
+
+URL: https://fortune.com/2023/02/14/mcdonalds-done-fast-food-chains-new-ai-ordering-system-mistakes-tiktok/
+- Nine sweet teas. Two pats of butter. Four sides of ketchup. A caramel sundae. These are among the unwanted items baffled customers have received as fast food chain McDonald’s continues to roll out its robot ordering system.
+- The restaurant giant’s A.I. venture has been a long time in the making. In 2021, it announced a joint venture with IBM to “further accelerate the development of its automated order taking (AOT) technology.”
+- Some 14,000 sites are expected to get the technology, McDonald’s CEO Chris Kempczinski has said, but some teething problems are already being raised by customers.
+- One video posted to TikTok by a user named Madilynn Cameron shows two women in a car driving up to one of the automatic screens. Attempting to buy a cup of ice cream and a bottle of water, the pair become increasingly bewildered as the A.I. continues to add unwanted items.
+- “Cream packet? No! I just want a large water and a cup of ice cream. Not a ketchup packet! Oh, my God,” the customer exclaims to the bot—which can be heard asking questions in the background.
+- “Where did the butter come from? I would just like a large water and a cup of ice cream,” she says laughing, and shows viewers her order on the screen. A companion in the background is heard advising that perhaps the pair should just order inside the restaurant.
+- The pair drive away after the customer once again attempts to buy a cup of ice cream and is asked what toppings she would like. “None, nothing, nada!” she says, before sighing when a caramel sundae appears at the bottom of her order.
+- How did I end up a butter #fyp
+- Other users have posted similar experiences. Three days ago, a video from Ren Adams shows a screenshot of an order with nine large sweet iced teas, a large Diet Coke, and hash browns.
+- She explains: “This morning I tried to go to McDonald’s and get my daily dose of caffeine and some breakfast. I was going to get a hash brown, a sweet tea, and a Coke. So I order, and I’m at the first drive-thru line, and as I order a car pulls up to the second drive-thru line.
+- #greenscreen @mcdonalds #nine #sweettea #mcdonalds #robots #friday #caffeine
+- “At this McDonald’s it’s all robot, there’s no person. So she [the robot] adds the Diet Coke from the next line to my screen. Tell me why when I tell the robot that I have no Diet Coke, for some reason, she took it off and made it nine sweet teas. Nine!
+- “I did not ask for this. I pulled out of the drive-thru and drove away.”
+- The videos have now been viewed tens of thousands of times. Commenters weighed in: “And this is exactly why a person should take your order.” Another added: “I don’t want to talk to anyone (including robots). I just order from the app. So much easier.”
+- McDonald’s boss Kempczinski previously revealed positive feedback for AOT, saying restaurants using the technology were seeing 85% accuracy. Speaking at Alliance Bernstein’s Strategic Decisions conference in 2021, he added that at the time 10 locations in Chicago were using the technology and as a result staff were taking just 20% of orders.
+- He continued that the brand may also look to automate some of its kitchen areas, such as fryer and grill stations, but added that even though it might be possible now, it won‘t be implemented within the next five years.
+- McDonald’s did not immediately respond when contacted by Fortune for comment.
+- Learn how to navigate and strengthen trust in your business with The Trust Factor, a weekly newsletter examining what leaders need to succeed. Sign up here.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.businessinsider.com/tiktokers-show-failures-with-mcdonalds-drive-thru-ai-robots-2023-2
+- Jump to
+- 
+- 
+- 
+- Fast-food chains like McDonald's, Sonic, and Chipotle have been experimenting with AI-powered voice bots for taking phone and drive-thru orders for a few years.
+- But some McDonald's customers on TikTok are expressing frustration – and in some cases uncontrollable laughter – after run-ins with voice bots that can't get their orders correctly.
+- 
+- A viral post by @themaddivlog shows a young woman in an Adidas beanie struggling to order a cup of vanilla ice cream.
+- "I just want a large water and a cup of ice cream," the TikToker insists.
+- She grows exasperated when the order display menu shows she ordered two butters and four ketchup packets. The text overlay on the video states: "Fighting with McDonald's robot."
+- After multiple attempts to get her order straight, she ends the video:
+- "McDonald's, I'm done. We're done."
+- Another TikToker generated 97,000 views on a post, where she explained how "robots are taking over the world" and they're messing up her McDonald's order. She said the voice bot put 9 sweet teas on her order tab, when she only ordered one sweet tea.
+- 
+- Another frustrated drive-thru customer posted a TikTok video titled, "The McDonald's robot is wild."
+- @typical_redhead_ could be heard laughing and snorting as she told the bot "stop" a few times. The digital menu board showed an excessive amount of McNugget meals ordered, totaling over $250.
+- 
+- TikToker @That_usa_guy_ was not as amused.
+- His video showed the bot replacing his order for a Mountain Dew with a medium Coke.
+- In the bot's defense, McDonald's restaurants don't serve Mountain Dew products. They serve Coca-Cola beverages.
+- When the TikToker tried to correct the beverage mistake, the voice bot appeared to ignore his request and went on to give him his check total.
+- "No, that's not correct," he told the bot.
+- He then canceled the meal and started over.
+- At that point, the bot handed the order to a "crew member" to complete the meal.
+- McDonald's has been testing AI-powered ordering in its drive-thru lanes since 2019. Some digital menu boards use artificial intelligence to upsell menu items based on trending food items or the weather. Those restaurants still have restaurant workers taking orders, but some McDonald's restaurants have voice bots. It's unclear how many.
+- McDonald's could not be reached for comment.
+- Despite the apparent kinks demonstrated by a few social media vloggers, restaurant chains are embracing automation and robots to help operations amid labor shortages. Checkers & Rally's, Taco Bell, Sonic, Panera Bread, and Popeyes are testing voice bots in drive-thru lanes. Chipotle uses bots to take phone orders, and is testing a robot fry cook in California.
+- Last year, McDonald's opened a new format restaurant in Texas that's nearly fully automated. It has an order-ahead lane for picking up digital orders from a food and beverage conveyor. Customers place orders on kiosks and pick them up on shelves.
+- 
+- Read next
+
+URL: https://www.dailydot.com/irl/mcdonalds-ai-9-sweet-teas/
+
+URL: https://www.cbsnews.com/news/mcdonalds-automated-restaurant-robots-drive-thru-conveyer-belt/
+- Watch CBS News
+- By Aimee Picchi
+- December 23, 2022 / 1:58 PM
+          / MoneyWatch
+- McDonald's new test restaurant near Fort Worth, Texas could be the future of fast-food operators: Instead of human workers handing you a bag at the drive-thru, an automatic conveyer belt brings your order to the window. Ordering is done through kiosks or an app — no humans involved there, either.
+- In a December blog post, McDonald's said the test restaurant demonstrates its commitment to "finding new ways to serve [customers] faster and easier than ever before."
+- But not all customers are loving it.
+- "Well there goes millions of jobs," one commenter on a TikTok video said about the new restaurant said.
+- "Oh no first we have to talk with Siri and Google [and] now we have to talk to another computer," another one opined.
+- "I'm not giving my money to robots," another commenter wrote. "Raise the minimum wage!"
+- Other customers had more personal concerns, expressing worries about how they could get their order fixed if it was incorrectly prepared or how to ask for extra condiments.
+- "And if they forget an item. Who you supposed to tell, the robot? It defeats the purpose of using the drive thru if you have to go inside for it," one consumer noted.
+- The test of the automated location comes as companies struggle to hire amid a shrinking labor pool that's pushing wages higher and giving workers more bargaining power. At the same time, automation is gaining a foothold in more industries, with experts predicting that 10 million jobs may be at risk over the next few years — low-wage positions in the fast-food and service industries most of all.
+- McDonald's, for its part, said the technology will allow its (human) kitchen staff to prepare customer orders more efficiently.
+- "The technology in this restaurant not only allows us to serve our customers in new, innovative ways, it gives our restaurant team the ability to concentrate more on order speed and accuracy, which makes the experience more enjoyable for everyone," Keith Vanecek, the franchisee operating the test restaurant, said in the blog post.
+- To be sure, not everyone had negative views about the concept. Some customers expressed optimism that the automated restaurant could improve service and their experience.
+- And a fair number of wags pointed out that machines aren't always the answer, with references to the burger chain's frequently broken McFlurry machines.
+- "Yeah but the ice cream machine is currently broken," one Twitter user joked about the new automated restaurant.
+- First published on December 23, 2022 / 1:58 PM
+- © 2022 CBS Interactive Inc. All Rights Reserved.
+- Copyright ©2023 CBS Interactive Inc. All rights reserved.
+- Quotes delayed at least 15 minutes.
+- Market data provided by ICE Data Services. ICE Limitations. Powered and implemented by FactSet. News provided by The Associated Press. Legal Statement.
+
+URL: https://www.newsweek.com/first-ever-mcdonalds-served-robots-texas-1769116
+
+- Wendy's voice recognition
+- Mercadona facial recognition
+- Page infoType: System Published: December 2021Last updated: May 2023

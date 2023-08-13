@@ -1,0 +1,581 @@
+- Occurred: December 2020
+- Can you improve this page?Share your insights with us
+- A study by a group of researchers exploring the risks of large language models resulted in the dismissal of a number of high-profile Google employees and raised questions about Google's values, culture and governance. It also prompted heated discussion about the role of ethics in technology decision-making, and its effective 'privatisation' by commercial interests.
+- Written by linguist Emily Bender and then Google ethicists Timnit Gehru and Margaret Mitchell, the 'Stochastic Parrots' study assessed the financial, social, and environmental risks of large language models such as Google's BERT and OpenAI's GPT-2, and set out a series of recommendations for minimising these risks.
+- Amongst other things, the paper referenced a 2019 University of Massachusetts, Amherst, study that had concluded that the energy consumption and carbon footprint of large language models had massively increased since 2017. The study also found that the training of a single model emits over 626,000 pounds of carbon dioxide equivalent, which is nearly five times the lifetime emissions of the average American car, including its manufacture.
+- The Information reported in May 2023 that OpenAI had incurred losses of USD 540 million during 2022 as it developed GPT-4 and ChatGPT, underscoring the huge costs of training its models.
+- Operator: Alphabet/GoogleDeveloper: Alphabet/GoogleCountry: USA Sector: Technology; MultiplePurpose: Generate text Technology: Large language model (LLM); NLP/text analysis; Neural networks; Deep learning; Machine learningIssue: Bias/discrimination - race, ethnicity; Ethics; Employment; Environment Transparency: Governance; Marketing
+- Google BERT Wikipedia profile
+- GPT-3 large language model
+- Timnit Gehru exit from Google - Wikipedia profile
+- Shaping AI - University of Warwick (2023). Shifting AI controversies (pdf)
+- Google Walkout for Real Change (2020). Standing with Dr Timnit Gehru
+- Bender E.M., Gebru T., McMillan-Major A., Mitchell M. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+- Strubell S., Ganesh A., McCallum A. (2019). Energy and Policy Considerations for Deep Learning in NLP
+URL: https://www.platformer.news/p/the-withering-email-that-got-an-ethical
+- This post is free for all to read thanks to the investment Platformer subscribers have made in independent journalism. If this work is meaningful to you, I invite you to become a subscriber today.
+- 
+- Last week, a prominent a co-leader of the Ethical Artificial Intelligence team at Google sent an email to her colleagues. Timnit Gebru had been working on a research paper that she hoped to publish, but ran into resistance from her superiors at Google. And so she sent a letter expressing her frustration to the internal listserv Google Brain Women and Allies.
+- A few days later, Gebru was fired — Google reportedly found the email “inconsistent with the expectations of a Google manager.” It details the struggles Gebru experienced as a Black leader working on ethics research within the company, and presents a bleak view of the path forward for underrepresented minorities at the company.
+- Gebru is well known and respected in the AI ethics community; here are Shelly Banjo  and Mark Bergen on her background at Bloomberg:
+- Gebru, an alumni of the Stanford Artificial Intelligence Laboratory, is one of the leading voices in the ethical use of artificial intelligence. She is well-known for her work on a landmark study in 2018 that showed how facial recognition software misidentified dark-skinned women as much as 35% of the time, whereas the technology worked with near precision on white men.
+- She has also been an outspoken critic of the lack of diversity and unequal treatment of Black workers at tech companies, particularly at Alphabet Inc.’s Google, and said she believed her dismissal was meant to send a message to the rest of Google’s employees not to speak up.
+- Platformer received the email Gebru sent; she herself did not have access to her account after Google terminated her. It is published in full below.
+- Google did not immediately respond to a request for comment. But on Thursday morning, Jeff Dean, the head of Google research, emailed employees with his account of what happened. Dean said Gebru had issued ultimatum and would resign unless certain conditions were met. Platformer obtained Dean’s email as well; you can find it below Gebru’s.
+- Hi friends,
+- I had stopped writing here as you may know, after all the micro and macro aggressions and harassments I received after posting my stories here (and then of course it started being moderated).
+- Recently however, I was contributing to a document that Katherine and Daphne were writing where they were dismayed by the fact that after all this talk, this org seems to have hired 14% or so women this year. Samy has hired 39% from what I understand but he has zero incentive to do this.
+- What I want to say is stop writing your documents because it doesn’t make a difference. The DEI OKRs that we don’t know where they come from (and are never met anyways), the random discussions, the “we need more mentorship” rather than “we need to stop the toxic environments that hinder us from progressing” the constant fighting and education at your cost, they don’t matter. Because there is zero accountability. There is no incentive to hire 39% women: your life gets worse when you start advocating for underrepresented people, you start making the other leaders upset when they don’t want to give you good ratings during calibration. There is no way more documents or more conversations will achieve anything. We just had a Black research all hands with such an emotional show of exasperation. Do you know what happened since? Silencing in the most fundamental way possible.
+- Have you ever heard of someone getting “feedback” on a paper through a privileged and confidential document to HR? Does that sound like a standard procedure to you or does it just happen to people like me who are constantly dehumanized?
+- Imagine this: You’ve sent a paper for feedback to 30+ researchers, you’re awaiting feedback from PR & Policy who you gave a heads up before you even wrote the work saying “we’re thinking of doing this”, working on a revision plan figuring out how to address different feedback from people, haven’t heard from PR & Policy besides them asking you for updates (in 2 months). A week before you go out on vacation, you see a meeting pop up at 4:30pm PST on your calendar (this popped up at around 2pm). No one would tell you what the meeting was about in advance. Then in that meeting your manager’s manager tells you “it has been decided” that you need to retract this paper by next week, Nov. 27, the week when almost everyone would be out (and a date which has nothing to do with the conference process). You are not worth having any conversations about this, since you are not someone whose humanity (let alone expertise recognized by journalists, governments, scientists, civic organizations such as the electronic frontiers foundation etc) is acknowledged or valued in this company.
+- Then, you ask for more information. What specific feedback exists? Who is it coming from? Why now? Why not before? Can you go back and forth with anyone? Can you understand what exactly is problematic and what can be changed?
+- And you are told after a while, that your manager can read you a privileged and confidential document and you’re not supposed to even know who contributed to this document, who wrote this feedback, what process was followed or anything. You write a detailed document discussing whatever pieces of feedback you can find, asking for questions and clarifications, and it is completely ignored. And you’re met with, once again, an order to retract the paper with no engagement whatsoever.
+- Then you try to engage in a conversation about how this is not acceptable and people start doing the opposite of any sort of self reflection—trying to find scapegoats to blame.
+- Silencing marginalized voices like this is the opposite of the NAUWU principles which we discussed. And doing this in the context of “responsible AI” adds so much salt to the wounds. I understand that the only things that mean anything at Google are levels, I’ve seen how my expertise has been completely dismissed. But now there’s an additional layer saying any privileged person can decide that they don’t want your paper out with zero conversation. So you’re blocked from adding your voice to the  research community—your work which you do on top of the other marginalization you face here.
+- I’m always amazed at how people can continue to do thing after thing like this and then turn around and ask me for some sort of extra DEI work or input. This happened to me last year. I was in the middle of a potential lawsuit for which Kat Herller and I hired feminist lawyers who threatened to sue Google (which is when they backed off--before that Google lawyers were prepared to throw us under the bus and our leaders were following as instructed) and the next day I get some random “impact award.” Pure gaslighting.
+- So if you would like to change things, I suggest focusing on leadership accountability and thinking through what types of pressures can also be applied from the outside. For instance, I believe that the Congressional Black Caucus is the entity that started forcing tech companies to report their diversity numbers. Writing more documents and saying things over and over again will tire you out but no one will listen.
+- Timnit
+- And here is the email that Jeff Dean sent out to Googlers on Thursday morning.
+- Hi everyone,
+- I’m sure many of you have seen that Timnit Gebru is no longer working at Google. This is a difficult moment, especially given the important research topics she was involved in, and how deeply we care about responsible AI research as an org and as a company.
+- Because there’s been a lot of speculation and misunderstanding on social media, I wanted to share more context about how this came to pass, and assure you we’re here to support you as you continue the research you’re all engaged in.
+- Timnit co-authored a paper with four fellow Googlers as well as some external collaborators that needed to go through our review process (as is the case with all externally submitted papers). We’ve approved dozens of papers that Timnit and/or the other Googlers have authored and then published, but as you know, papers often require changes during the internal review process (or are even deemed unsuitable for submission). Unfortunately, this particular paper was only shared with a day’s notice before its deadline — we require two weeks for this sort of review — and then instead of awaiting reviewer feedback, it was approved for submission and submitted.
+- A cross functional team then reviewed the paper as part of our regular process and the authors were informed that it didn’t meet our bar for publication and were given feedback about why. It ignored too much relevant research — for example, it talked about the environmental impact of large models, but disregarded subsequent research showing much greater efficiencies.  Similarly, it raised concerns about bias in language models, but didn’t take into account recent research to mitigate these issues. We acknowledge that the authors were extremely disappointed with the decision that Megan and I ultimately made, especially as they’d already submitted the paper.
+- Timnit responded with an email requiring that a number of conditions be met in order for her to continue working at Google, including revealing the identities of every person who Megan and I had spoken to and consulted as part of the review of the paper and the exact feedback. Timnit wrote that if we didn’t meet these demands, she would leave Google and work on an end date. We accept and respect her decision to resign from Google.
+- Given Timnit's role as a respected researcher and a manager in our Ethical AI team, I feel badly that Timnit has gotten to a place where she feels this way about the work we’re doing. I also feel badly that hundreds of you received an email just this week from Timnit telling you to stop work on critical DEI programs. Please don’t. I understand the frustration about the pace of progress, but we have important work ahead and we need to keep at it.
+- I know we all genuinely share Timnit’s passion to make AI more equitable and inclusive. No doubt, wherever she goes after Google, she’ll do great work and I look forward to reading her papers and seeing what she accomplishes.
+- Thank you for reading and for all the important work you continue to do.
+- -Jeff
+- As someone who was a researcher at Xerox's Palo Alto Research Center (PARC) for 20 years, I find the internal review process for Google researchers deeply troubling. At PARC our research papers were reviewed for intellectual property only, with questions of the quality of research content left up to peer review. An internal, corporate review process runs the serious risk of acting as a mode of censorship above and beyond questions of IP. So regardless of chronology, I think this process raises serious questions about research integrity at Google, particularly for those like Timnit Gebru who are committed to critical thinking about technology.
+- The root controversy here is a pretty big factual discrepancy about the nature of the review process. Did she turn it in a day before the deadline instead of the normal two weeks, or did Google ghost her and her coauthors for two months? Was the review a normal one or a confidential memo?
+- The issue was not clear from the New York Times' coverage, which neglects to include the fact that Dean's email contests her account of the timing. If the company's version is true Google's actions are far easier to defend; if Dr. Gebru's version is true then the scandal is even worse.
+- It would be helpful to have some background on how the review process normally works.
+- No posts
+- Ready for more?
+
+URL: https://www.bbc.co.uk/news/technology-55187611
+- Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google.
+- Timnit Gebru says she was fired after sending an internal email that accused Google of "silencing marginalised voices".
+- Hundreds of colleagues have signed a letter accusing the search giant of racism and censorship, while Twitter users have rallied around Dr Gebru using the hashtag #BelieveBlackWomen.
+- Google disputes her version of events.
+- Dr Gebru is a well-respected researcher in the field of ethics and the use of artificial intelligence.
+- She is well-known for her work on racial bias in technology such as facial recognition, and has criticised systems that fail to recognise black faces.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- Her co-author on one of those well-known papers, Joy Buolamwini, said Dr Gebru "deserved more" from Google.
+- "Ousting Timnit for having the audacity to demand research integrity severely undermines Google's credibility for supporting rigorous research on AI ethics and algorithmic auditing," she said.
+- "We owe her a debt of gratitude for advancing not just the field of artificial intelligence, but for advancing equality with humility and grace."
+- Dr Gebru alleges that as she was preparing to go on leave, she was called to a meeting about a research paper she had co-written.
+- She said she was ordered to retract the research paper and that Google was not prepared to engage in a discussion about the matter.
+- Following the meeting, she sent an email to an internal group called "Brain Women and Allies", criticising the decision. A copy of the email has been published by Platformer.
+- "You are not worth having any conversations about this, since you are not someone whose humanity... is acknowledged or valued in this company," she said in the email.
+- "Stop writing your documents because it doesn't make a difference."
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- Dr Gebru had emailed her management laying out some key conditions for removing her name from the paper, and if they were not met, she would "work on a last date" for her employment.
+- According to Dr Gebru, Google replied: "We respect your decision to leave Google... and we are accepting your resignation.
+- "However, we believe the end of your employment should happen faster than your email reflects because certain aspects of the email you sent last night to non-management employees in the brain group reflect behaviour that is inconsistent with the expectations of a Google manager."
+- Dr Gebru denied she had resigned, tweeting that she had been fired by Jeff Dean, a senior manager at Google dealing with AI Research.
+- "I guess [management] decided for me", she said.
+- The research paper remains unpublished, but MIT Technology Review has summarised its contents, saying it focused on the risks of training AI by drawing on huge archives of text data.
+- Since her dismissal, the open letter of support has attracted nearly 2,000 signatories, both from within Google and the wider industry.
+- News of her dismissal came on the same day that a US labour agency accused Google of illegally firing staff for their involvement in union activity.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- Google staff who worked with Dr Gebru have applauded her academic contributions and her work as a manager.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- "I cannot count the number of times Timnit Gebru has encouraged us, spoken out for us, defended us and stuck her neck out for us," tweeted Deb Raji, an AI researcher.
+- "She has made real sacrifices for the Black community. Now it's time to stand with her!"
+- In an email, Mr Dean said there had been "a lot of speculation and misunderstanding" about the firing.
+- He alleged that Dr Gebru's paper was submitted a day before its deadline, which was not enough time for Google's review process. He also said the paper ignored much relevant research.
+- "Timnit responded with an email requiring that a number of conditions be met in order for her to continue working at Google, including revealing the identities of every person who [we] had spoken to and consulted as part of the review of the paper and the exact feedback.
+- "Timnit wrote that if we didn't meet these demands, she would leave Google and work on an end date. We accept and respect her decision to resign from Google," Mr Dean wrote.
+- Google fired pro-union employees, says US agency
+- Google staff walk out over women's treatment
+- 'Thanksgiving Four' say Google is punishing them
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.protocol.com/timnit-gebru-fired-ethics-google
+- Timnit Gebru's firing could damage Google's reputation and ethical AI research within tech companies, industry leaders told Protocol.
+- Timnit Gebru said that she was forced out of Google because of an email she sent to members of the Google Brain Women and Allies listserv.
+- After Google fired one of the industry's most respected and well-loved AI ethics researchers on Wednesday, Google employees and tech industry leaders alike voiced their fear that her firing will have a "chilling effect" on ethics research within tech companies and at Google specifically.
+- Timnit Gebru, the now-former technical co-lead for Google's AI ethics team, said that she was forced out of Google because of an email she sent to members of the Google Brain Women and Allies Listserv that detailed her frustration with the company's diversity pledges and the exhausting experience of being a Black woman at Google, as well as conflict over an ethics research paper that Google wanted retracted. Over the last week, Gebru had been fighting to have the research paper — which discusses the ethics issues of large language models — published with her and other Google employees' names.
+- After Gebru said that she would plan to resign if Google didn't commit to further discussion about the company's demands over the research paper, Google immediately rejected her conditions and terminated her employment without discussion, according to Gebru's statement. In the email explaining her termination shared by Gebru, Google Research Vice President Megan Kacholia wrote that Gebru's email to the Listserv was "inconsistent with the expectations of a Google manager." Google declined to comment.
+- 
+- Gebru is best known for her research on discrimination within facial recognition models, including a groundbreaking study that illustrated gender and skin-type bias in the best commercial AI facial recognition systems at the time. "She's literally the best of the best. She's the best that we've got. Not only does Timnit encapsulate our hopes and dreams, and is the embodiment of the best of us, but she is strongly supported," said Mutale Nkonde, the CEO of AI for the People and a fellow at Harvard's Berkman Klein Center.
+- Gebru is also well-liked for supporting activism within Google and defending employees who've lost their jobs because of their protests. Shortly before she tweeted that she had been fired, the National Labor Relations Board filed a complaint that said Google had violated labor laws by spying on and then firing workers who were organizing employee protests. "If we have heroes in the AI ethics community, she's one of those heroes," said Susan Etlinger, an AI expert at the Altimeter Group. "She's someone who has, at great cost to herself, persisted in identifying, publicizing and trying to remediate a lot of the issues that arise with the use of intelligent technologies."
+- A number of people on her own team and others within Google tweeted their support for Gebru and anger with their employer. That includes Alex Hanna, a senior research scientist on the ethical AI team, who said that "to call her unbecoming of a manager is the height of disrespect." Dylan Baker, another Ethical AI team member, called her "the best manager I've had."
+- Gebru's departure could be damaging for Google's reputation in the ethical AI community and among tech workers broadly. The support for Gebru in the industry is nearly unanimous, and every leader who spoke to Protocol for this story echoed the same two sentiments: She is among the best at her technical work and Google's decision to fire her shocks and angers them. "The idea that this is going to be able to happen, and it's going to go away and it's not going to have an impact on tech … Google really needs to really look at itself in a mirror," Nkonde said.
+- 
+- All of the industry leaders who spoke with Protocol voiced their fear that her firing would have a chilling effect on other ethical researchers in the industry and at Google specifically. Academics and activists have long expressed skepticism about the integrity of ethical AI research at places like Google, but Gebru's reputation and leadership role lent credibility to Google's research and helped quell the critics. Earlier this year, Google even announced plans to launch an ethical AI consultancy that would provide tips for difficult problems learned from Google's own research and experience.
+- In firing her, Google not only gave up the voice that earned the ethical AI team respect in the first place, but also made it clear that there were consequences for speaking up, said Ansgar Koene, the global AI ethics and regulatory leader at EY and senior research fellow at the University of Nottingham. "Their division does great work, except a lot of the times they have their hands tied behind their backs because of such repressive policies," said Abhishek Gupta, a machine-learning engineer at Microsoft and founder of the Montreal AI Ethics Institute.
+- Gebru's firing was not entirely unexpected for people who knew her, including Gupta. Just the day before, while Gebru battled to get approval for the ethics research paper, Gupta and Gebru discussed how to create a legal system of protection for ethics whistleblowers inside tech companies. A few days before that, Gebru tweeted publicly that she wished there were a system of whistleblower protections.
+- "In a sense, this has been a long time in the making. This has, in bits and pieces, happened in the past, where she's tried to bring up relevant issues, and Google has sort of tried to suppress what she's saying," Gupta said, adding: "It's an unfortunate combination of what has been going on for months, I think."
+- 
+- Moving forward, people in her position need significant legal support to be able to express their concerns without fear of losing their jobs, said David Ryan Polgar, the founder and executive director of All Tech is Human. "There's a chilling effect for the people who don't have any type of national stature … You should have the ability to be a roadblock to what you would deem inappropriate activity."
+- And beyond the research work itself, firing Gebru makes Black women like her less likely to pursue the same career path, AI for the People's Nkonde said. "As Black women in tech, we all face similar issues, and not everybody is going to take the stand to stay within [the] industry," she said. For research scientists currently in school, choosing to work in the industry is far more intimidating after watching Gebru's experience play out, a feeling expressed by a number of those students on Twitter today.
+- If Gebru had decided to leave Google and announced that she would be going elsewhere, the reaction would have been celebratory, Nkonde explained. Instead, Google's decision to not only fire her but directly email the team she had managed about her departure creates a sense of fear and anger, showing that the tech sector, and Google specifically, "can be a hostile place for Black women," Nkonde said.
+- Ellen Pao, co-founder and CEO of Project Include and former CEO at Reddit, said that by firing Gebru, Google created an unfixable PR problem that illustrates a more systemic discrimination problem. "When I see Google in the context of its past, it has a terrible record of dealing with bias and discrimination, and it has a record of not hiring people from marginalized, underrepresented groups, not promoting them," she told Protocol.
+- "I think what it says is actually more important than what it says about Google. What this says is that the work of trying to remediate bias and create fairer technical systems is incredibly hard, and it's not just hard from a computational perspective. It's not just hard from a technical perspective. It's hard because it requires diversity of perspective, it requires diversity across many axes," Altimeter Group's Etlinger said.
+- 
+- Issie Lapowsky contributed additional reporting.
+- Anna Kramer is a reporter at Protocol (Twitter: @
+	anna_c_kramer, email: akramer@protocol.com), where she writes about labor and workplace issues. Prior to joining the team, she covered tech and small business for the San Francisco Chronicle and privacy for Bloomberg Law. She is a recent graduate of Brown University, where she studied International Relations and Arabic and wrote her senior thesis about surveillance tools and technological development in the Middle East.
+- His decisions on major cryptocurrency cases have quoted "The Big Lebowski," "SNL," and "Dr. Strangelove." That’s because he wants you — yes, you — to read them.
+- The ways Zia Faruqui (right) has weighed on cases that have come before him can give lawyers clues as to what legal frameworks will pass muster.
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- “Cryptocurrency and related software analytics tools are ‘The wave of the future, Dude. One hundred percent electronic.’”
+- That’s not a quote from "The Big Lebowski" — at least, not directly. It’s a quote from a Washington, D.C., district court memorandum opinion on the role cryptocurrency analytics tools can play in government investigations. The author is Magistrate Judge Zia Faruqui.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- The financial technology transformation is driving competition, creating consumer choice, and shaping the future of finance. Hear from seven fintech leaders who are reshaping the future of finance, and join the inaugural Financial Technology Association Fintech Summit to learn more.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- As AWS preps for its annual re:Invent conference, Adam Selipsky talks product strategy, support for hybrid environments, and the value of the cloud in uncertain economic times.
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- AWS is gearing up for re:Invent, its annual cloud computing conference where announcements this year are expected to focus on its end-to-end data strategy and delivering new industry-specific services.
+- It will be the second re:Invent with CEO Adam Selipsky as leader of the industry’s largest cloud provider after his return last year to AWS from data visualization company Tableau Software.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- Jamie Condliffe (
+	@jme_c) is the executive editor at Protocol, based in London. Prior to joining Protocol in 2019, he worked on the business desk at The New York Times, where he edited the DealBook newsletter and wrote Bits, the weekly tech newsletter. He has previously worked at MIT Technology Review, Gizmodo, and New Scientist, and has held lectureships at the University of Oxford and Imperial College London. He also holds a doctorate in engineering from the University of Oxford.
+- We launched Protocol in February 2020 to cover the evolving power center of tech. It is with deep sadness that just under three years later, we are winding down the publication.
+- As of today, we will not publish any more stories. All of our newsletters, apart from our flagship, Source Code, will no longer be sent. Source Code will be published and sent for the next few weeks, but it will also close down in December.
+- 
+- 
+- 
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- As companies expand their use of AI beyond running just a few machine learning models, and as larger enterprises go from deploying hundreds of models to thousands and even millions of models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- As companies expand their use of AI beyond running just a few machine learning models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- On any given day, Lily AI runs hundreds of machine learning models using computer vision and natural language processing that are customized for its retail and ecommerce clients to make website product recommendations, forecast demand, and plan merchandising. But this spring when the company was in the market for a machine learning operations platform to manage its expanding model roster, it wasn’t easy to find a suitable off-the-shelf system that could handle such a large number of models in deployment while also meeting other criteria.
+- Some MLops platforms are not well-suited for maintaining even more than 10 machine learning models when it comes to keeping track of data, navigating their user interfaces, or reporting capabilities, Matthew Nokleby, machine learning manager for Lily AI’s product intelligence team, told Protocol earlier this year. “The duct tape starts to show,” he said.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- To give you the best possible experience, this site uses cookies. If you continue browsing. you accept our use of cookies. You can review our privacy policy to find out more about the cookies we use.
+
+URL: https://www.bbc.co.uk/news/technology-55281862
+- This video can not be played
+- WATCH: Timnit Gebru accuses Google and the wider tech sector of institutional racism
+- Timnit Gebru, a highly influential artificial-intelligence computer scientist, is at the centre of a race row that has engulfed Google's AI research workforce and raised passions beyond.
+- She says she was fired by Google after it took issue with an academic paper she had co-authored.
+- And Dr Gebru and her supporters believe institutional racism played a role in her departure.
+- The paper focused on issues related to AI language models - including structural bias against women and people belonging to ethnic minorities.
+- Google says the paper omitted relevant research on the topic and Dr Gebru resigned.
+- An open letter demanding to know why the paper was rejected has been signed by more than 6,000 people, including prominent researchers at Google and its DeepMind division as well as Microsoft, Apple, Facebook, Amazon and Netflix, among others.
+- Google chief executive Sundar Pichai wrote in a memo: "We need to accept responsibility for the fact that a prominent black, female leader with immense talent left Google unhappily.
+- "It's incredibly important to me that our black, women, and under-represented Googlers know that we value you and you do belong at Google."
+- He added the company would investigate its handling of the matter but stopped short of apologising for Dr Gebru's departure.
+- Dr Gebru is far from satisfied with that response and has now spoken to the BBC. The following interview has been edited for brevity and clarity.
+- What have the past couple of weeks been like for you on a personal level?
+- They have been exhausting.
+- It is not fun to be in the spotlight like this.
+- I feel like I've been thrown into a storm.
+- What was the paper about?
+- I did not expect it to be such a wave-making paper or anything like that.
+- The paper was about the ethical considerations of development research and development of large language models - one of which was bias.
+- Google says the paper didn't contain some of the latest research on the subject.
+- First of all, that's not true.
+- Secondly, imagine if it was true - are you really going to justify terminating someone the way they terminated me because the paper didn't contain a literature review?
+- But it's absolutely not true.
+- Do you think that Google would have treated you differently if you were a white man?
+- I have definitely been treated differently.
+- In all of the cases that I've seen in the past, they [Google] try so hard not to make it a headline.
+- They try so hard to make it smooth.
+- When it's some other person who is toxic, there are always these conversations about: "Oh, but you know, they're so valuable to the company, they're a genius, they're just socially awkward, et cetera."
+- My entire team is completely behind me and they're taking risks.
+- They're taking actual risks to stand behind me.
+- My manager is standing behind me.
+- And even still, they decided to treat me in this way.
+- So definitely, I feel like I've been treated differently.
+- I suppose if you think that, the next obvious question is do you think Google itself is institutionally racist?
+- Yes, Google itself is institutionally racist.
+- That's quite a thing to say - you were a Google employee until a short while ago.
+- I feel like most if not all tech companies are institutionally racist.
+- I mean, how can I not say that they are not institutionally racist?
+- The Congressional Black Caucus is the one who's forcing them to publish their diversity numbers.
+- It's not by accident that black women have one of the lowest retention rates[, in the technology industry].
+- So for sure Google and all of the other tech companies are institutionally racist.
+- Google says it cares about diversity. Do you agree?
+- I don't agree that Google cares about diversity.
+- What they need to do is be comfortable with these kinds of uncomfortable discussions - don't silence people, don't retaliate against them.
+- What they're doing is saying: "OK, we're going to have some random committee," or: "We're going to invest a certain number of million dollars into something."
+- But when it comes to someone challenging the status quo in the slightest possible way, you see what just happened?
+- So I think it's just very difficult for me to believe that they care about diversity.
+- Sundar Pichai has apologised for the circumstances around your departure but not for the departure itself. How do you feel about that?
+- He didn't even apologise for the company's handling of it.
+- He said this has sowed doubts among some in our community, that they feel like they might not belong.
+- And for that, he's sorry.
+- So it doesn't say: "I'm sorry for the way we handled this. We were wrong. I'm sorry for what we did to her," - nothing.
+- I don't consider it an apology whatsoever.
+- I consider it a statement that had to be made to make them look better,
+- How do you see AI going forward? Do you do you worry about racial discrimination in AI?
+- Definitely - and a lot of people have said that they think the next frontier for discrimination… is in this in this kind of technological realm in AI.
+- And so because of that, I worry very much about it.
+- And I and many - especially black - women have been writing about this and even teaching classes about this.
+- Unless there is some sort of shift of power, where people who are most affected by these technologies are allowed to shape them as well and be able to imagine what these technologies should look like from the ground up and build them according to that, unless we move towards that kind of future, I am really worried that these tools are going to be used for more for harm than good.
+- What are you going to do now?
+- I need to take some time to think about what I'll be doing next.
+- Right now, my priority is the safety of the people who've been supporting me.
+- I do not want any sort of retaliation against them.
+- So that's my priority right now.
+- BBC News put the accusations in this interview to Google.
+- It declined to comment but directed BBC News to Mr Pichai's memo and a statement made by Google AI head Jeff Dean, raising concerns about "gaps" in Dr Gebru's research paper.
+- James Clayton is the BBC's North America technology reporter based in San Francisco. Follow him on Twitter @jamesclayton5.
+- Google boss apologises for Timnit Gebru row
+- Thousands more back Dr Gebru over Google 'sacking'
+- Google staff rally behind fired AI researcher
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+- The company's star ethics researcher highlighted the risks of large language models, which are key to Google's business.
+- On the evening of Wednesday, December 2, Timnit Gebru, the co-lead of Google’s ethical AI team, announced via Twitter that the company had forced her out.
+- Gebru, a widely respected leader in AI ethics research, is known for coauthoring a groundbreaking paper that showed facial recognition to be less accurate at identifying women and people of color, which means its use can end up discriminating against them. She also cofounded the Black in AI affinity group, and champions diversity in the tech industry. The team she helped build at Google is one of the most diverse in AI and includes many leading experts in their own right. Peers in the field envied it for producing critical work that often challenged mainstream AI practices.
+- A series of tweets, leaked emails, and media articles showed that Gebru’s exit was the culmination of a conflict over another paper she coauthored. Jeff Dean, the head of Google AI, told colleagues in an internal email (which he has since put online) that the paper “didn’t meet our bar for publication” and that Gebru had said she would resign unless Google met a number of conditions, which it was unwilling to meet. Gebru tweeted that she had asked to negotiate “a last date” for her employment after she got back from vacation. She was cut off from her corporate email account before her return.
+- Online, many other leaders in the field of AI ethics are arguing that the company pushed her out because of the inconvenient truths that she was uncovering about a core line of its research—and perhaps its bottom line. More than 1,400 Google staff members and 1,900 other supporters have also signed a letter of protest.
+- Many details of the exact sequence of events that led up to Gebru’s departure are not yet clear; both she and Google have declined to comment beyond their posts on social media. But MIT Technology Review obtained a copy of the research paper from  one of the coauthors, Emily M. Bender, a professor of computational linguistics at the University of Washington. Though Bender asked us not to publish the paper itself because the authors didn’t want such an early draft circulating online, it gives some insight into the questions Gebru and her colleagues were raising about AI that might be causing Google concern.
+- “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” lays out the risks of large language models—AIs trained on staggering amounts of text data. These have grown increasingly popular—and increasingly large—in the last three years. They are now extraordinarily good, under the right conditions, at producing what looks like convincing, meaningful new text—and sometimes at estimating meaning from language. But, says the introduction to the paper, “we ask whether enough thought has been put into the potential risks associated with developing them and strategies to mitigate these risks.”
+- The paper, which builds on the work of other researchers, presents the history of natural-language processing, an overview of four main risks of large language models, and suggestions for further research. Since the conflict with Google seems to be over the risks, we’ve focused on summarizing those here.
+- Training large AI models consumes a lot of computer processing power, and hence a lot of electricity. Gebru and her coauthors refer to a 2019 paper from Emma Strubell and her collaborators on the carbon emissions and financial costs of large language models. It found that their energy consumption and carbon footprint have been exploding since 2017, as models have been fed more and more data.
+- Strubell’s study found that training one language model with a particular type of “neural architecture search” (NAS) method would have produced the equivalent of 626,155 pounds (284 metric tons) of carbon dioxide—about the lifetime output of five average American cars. Training a version of Google’s language model, BERT, which underpins the company’s search engine, produced 1,438 pounds of CO2 equivalent in Strubell’s estimate—nearly the same as a round-trip flight between New York City and San Francisco. These numbers should be viewed as minimums, the cost of training a model one time through. In practice, models are trained and retrained many times over during research and development.
+- Gebru’s draft paper points out that the sheer resources required to build and sustain such large AI models means they tend to benefit wealthy organizations, while climate change hits marginalized communities hardest. “It is past time for researchers to prioritize energy efficiency and cost to reduce negative environmental impact and inequitable access to resources,” they write.
+- Large language models are also trained on exponentially increasing amounts of text. This means researchers have sought to collect all the data they can from the internet, so there's a risk that racist, sexist, and otherwise abusive language ends up in the training data.
+- An AI model taught to view racist language as normal is obviously bad. The researchers, though, point out a couple of more subtle problems. One is that shifts in language play an important role in social change; the MeToo and Black Lives Matter movements, for example, have tried to establish a new anti-sexist and anti-racist vocabulary. An AI model trained on vast swaths of the internet won’t be attuned to the nuances of this vocabulary and won’t produce or interpret language in line with these new cultural norms.
+- It will also fail to capture the language and the norms of countries and peoples that have less access to the internet and thus a smaller linguistic footprint online. The result is that AI-generated language will be homogenized, reflecting the practices of the richest countries and communities.
+- Moreover, because the training data sets are so large, it’s hard to audit them to check for these embedded biases. “A methodology that relies on datasets too large to document is therefore inherently risky,” the researchers conclude. “While documentation allows for potential accountability, [...] undocumented training data perpetuates harm without recourse.”
+- The researchers summarize the third challenge as the risk of “misdirected research effort.” Though most AI researchers acknowledge that large language models don’t actually understand language and are merely excellent at manipulating it, Big Tech can make money from models that manipulate language more accurately, so it keeps investing in them. “This research effort brings with it an opportunity cost,” Gebru and her colleagues write. Not as much effort goes into working on AI models that might achieve understanding, or that achieve good results with smaller, more carefully curated data sets (and thus also use less energy).
+- The final problem with large language models, the researchers say, is that because they’re so good at mimicking real human language, it’s easy to use them to fool people. There have been a few high-profile cases, such as the college student who churned out AI-generated self-help and productivity advice on a blog, which went viral.
+- The dangers are obvious: AI models could be used to generate misinformation about an election or the covid-19 pandemic, for instance. They can also go wrong inadvertently when used for machine translation. The researchers bring up an example: In 2017, Facebook mistranslated a Palestinian man’s post, which said “good morning” in Arabic, as “attack them” in Hebrew, leading to his arrest.
+- Gebru and Bender’s paper has six coauthors, four of whom are Google researchers. Bender asked to avoid disclosing their names for fear of repercussions. (Bender, by contrast, is a tenured professor: “I think this is underscoring the value of academic freedom,” she says.)
+- The paper’s goal, Bender says, was to take stock of the landscape of current research in natural-language processing. “We are working at a scale where the people building the things can’t actually get their arms around the data,” she said. “And because the upsides are so obvious, it’s particularly important to step back and ask ourselves, what are the possible downsides? … How do we get the benefits of this while mitigating the risk?”
+- In his internal email, Dean, the Google AI head, said one reason the paper “didn’t meet our bar” was that it “ignored too much relevant research.” Specifically, he said it didn’t mention more recent work on how to make large language models more energy efficient and mitigate problems of bias.
+- However, the six collaborators drew on a wide breadth of scholarship. The paper’s citation list, with 128 references, is notably long. “It’s the sort of work that no individual or even pair of authors can pull off,” Bender said. “It really required this collaboration.”
+- The version of the paper we saw does also nod to several research efforts on reducing the size and computational costs of large language models, and on measuring the embedded bias of models. It argues, however, that these efforts have not been enough. “I’m very open to seeing what other references we ought to be including,” Bender said.
+- Nicolas Le Roux, a Google AI researcher in the Montreal office, later noted on Twitter that the reasoning in Dean’s email was unusual. “My submissions were always checked for disclosure of sensitive material, never for the quality of the literature review,” he said.
+- Now might be a good time to remind everyone that the easiest way to discriminate is to make stringent rules, then to decide when and for whom to enforce them.My submissions were always checked for disclosure of sensitive material, never for the quality of the literature review.
+- Dean’s email also says that Gebru and her colleagues gave Google AI only a day for an internal review of the paper before they submitted it to a conference for publication. He wrote that “our aim is to rival peer-reviewed journals in terms of the rigor and thoughtfulness in how we review research before publication.”
+- I understand the concern over Timnitâ€™s resignation from Google.  Sheâ€™s done a great deal to move the field forward with her research.  I wanted to share the email I sent to Google Research and some thoughts on our research process.https://t.co/djUGdYwNMb
+- Bender noted that even so, the conference would still put the paper through a substantial review process: “Scholarship is always a conversation and always a work in progress,” she said.
+- Others, including William Fitzgerald, a former Google PR manager, have further cast doubt on Dean’s claim.
+- Google pioneered much of the foundational research that has since led to the recent explosion in large language models. Google AI was the first to invent the Transformer language model in 2017 that serves as the basis for the company’s later model BERT, and OpenAI’s GPT-2 and GPT-3. BERT, as noted above, now also powers Google search, the company’s cash cow.
+- Bender worries that Google’s actions could create “a chilling effect” on future AI ethics research. Many of the top experts in AI ethics work at large tech companies because that is where the money is. “That has been beneficial in many ways,” she says. “But we end up with an ecosystem that maybe has incentives that are not the very best ones for the progress of science for the world.”
+- Update (Dec 7): Additional details have been added to clarify the environmental costs of large language models.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story
+- .
+- By now, we’ve all heard some version of the story. On December 2, after a protracted disagreement over the release of a research paper, Google forced out its ethical AI co-lead, Timnit Gebru. The paper was on the risks of large language models, AI models trained on staggering amounts of text data, which are a line of research core to Google’s business. Gebru, a leading voice in AI ethics, was one of the only Black women at Google Research.
+- The move has since sparked a debate about growing corporate influence over AI, the long-standing lack of diversity in tech, and what it means to do meaningful AI ethics research. As of December 15, over 2,600 Google employees and 4,300 others in academia, industry, and civil society had signed a petition denouncing the dismissal of Gebru, calling it “unprecedented research censorship” and “an act of retaliation.”
+- The company's star ethics researcher highlighted the risks of large language models, which are key to Google's business.
+- Gebru is known for foundational work in revealing AI discrimination, developing methods for documenting and auditing AI models, and advocating for greater diversity in research. In 2016, she cofounded the nonprofit Black in AI, which has become a central resource for civil rights activists, labor organizers, and leading AI ethics researchers, cultivating and highlighting Black AI research talent.
+- Losing her job didn’t slow Gebru down. The following week, she took part in several workshops at NeurIPS, the largest annual AI research conference, which over 20,000 people attended this year. It was “therapeutic,” she says, to see how the community she’d helped build showed up and supported one another. Now, another week later, she’s just winding down and catching her breath—and trying to make sense of it all.
+- On Monday, December 14, I caught up with Gebru via Zoom. She recounted what happened during her time at Google, reflected on what it meant for the field and AI ethics research, and gave parting words of advice to those who want to keep holding tech companies accountable. You can also listen to a special episode of our podcast, In Machines We Trust, for highlights from the interview. (Google declined a request for comment on the contents of this interview.)
+- The following has been edited and condensed.
+- I feel like I haven’t really had the time to process everything that happened and its repercussions emotionally. I’m just sort of going and going and going. So I feel like I’ll probably fall apart at some point when there’s a little bit of a lull. But right now I’m just highly concerned about my team and the people supporting me, and the types of risks they’re taking, and making sure that they’re not retaliated against.
+- I think Samy [Bengio, a director at Google AI] and Jeff [Dean, the SVP of Google Research] were at the Black in AI workshop [at NeurIPS in 2017]. They were asking me what I did, and they said, “Oh yeah, you should come work at Google.” I wasn’t planning on it. I was doing my postdoc at the time at Microsoft Research [MSR]. I hadn’t figured out what I was going to do next. But I knew I wanted to go back to the Bay Area, and they were creating an office in Accra, Ghana. I thought it would be good for me to help with that.
+- I had a lot of reservations. I was in New York City at MSR, and there were a lot of vocal women there—Danah Boyd, Hannah Wallach, Jen [Wortman Vaughan], Kate Crawford, Mary Gray. There weren’t really women of color. The only Black women I know out of all of Microsoft Research are Danielle Bellgrave in the UK and Shawndra Hill in New York. But still, even the men were very supportive. I was very hesitant to go to an environment where I knew Google Research was not well known for its advocacy for women. There were a number of issues that I had heard through my whisper networks. In fact, when I said I was going to go to Google Research, a number of people actually sat me down. So I was just already dreading it, like “Oh, man, okay, what am I going into?”
+- I was definitely the first Black woman to be a research scientist at Google. After me, we got two more Black women. That’s, like, out of so many research scientists. Hundreds and hundreds. Three out of God knows how many.
+- They did not disappoint. It was just constant fighting. I was trying to approach it as talking to people, trying to educate them, trying to get them to see a certain point of view. I kept on thinking that they could do better, you know? With Samy, he has become such a huge advocate. People were complaining that this organization [Google Research] hired just 14% women. Samy, my manager, hired 39% women. It wasn’t like he had any incentive to do that whatsoever. He was the only reason I feel like this didn’t happen to me before. It’s probably because he was protecting us. And by protecting us, he would get in trouble himself. If other leaders are tone-policing you, and you’re too loud, you’re like a troublemaker—we all know that’s what happens to people like me—then if someone defends you, they’re obviously going to also be a problem for the other leaders.
+- So that was my two years at Google. I actually thought that maybe we were making progress until the last incident, because our team grew. It went from almost disintegrating—two months into my time at Google, my co-lead, Meg Mitchell, was going to quit. But then we expanded our team, and we are now, like, 12 people. So I thought that we were inching forward.
+- There was so much talk about diversity and inclusion, but so much hypocrisy. I’m one of 1.6% Black women at Google. In [Google] Research, it’s not 1.6%—it’s way lower. I was definitely the first Black woman to be a research scientist at Google. After me, we got two more Black women. That’s, like, out of so many research scientists. Hundreds and hundreds. Three out of God knows how many.
+- So at some point I was just like, you know what? I don’t even want to talk about diversity. It’s just exhausting. They want to have meetings with you, they don’t listen to you, and then they want to have meetings with you again. I’ve written a million documents about a million diversity-related things—about racial literacy and machine learning [ML], ML fairness initiatives, about retention of women, and the issues. So many documents and so many emails.
+- So it’s just been one thing after another. There’s not been a single vacation I took inside Google where I wasn’t in the middle of some issue or another. It’s just never been peace of mind. Imagine somebody’s shooting at you with a gun and you’re screaming. And instead of trying to stop the person who’s shooting at you with a gun, they’re trying to stop you from screaming. That’s how it felt. It was just so painful to be in that position over and over and over again.
+- We had to battle all sorts of stuff. I had to be a manager, and then people did not want me to be a manager. I was like, “Okay, I’ve started a very well-known nonprofit. Why do you have ‘concerns’ about me being a manager?” Samy didn’t say this to me, but he had to deliver this message: “Does she know that she can get fired for things? Does she know that if she becomes a manager, then she’s going to have to be a representative of Google?” Then people raised concerns about me seeming unhappy at Google. It’s not like, “Oh, there’s a toxic culture that’s making people like her unhappy. So let’s fix that culture.” No, that was not the conversation. The conversation was “She seems to be unhappy, so let’s not make her a manager.”
+- I was livid at that time. I was so angry. I was asking every other person who became a manager at my level what their experience was. I’m like, “This person became a manager and nobody ever asked them if they knew they were going to be fired for X, Y, and Z. This other person became a manager. Nobody had to talk to them. There was no discussion whatsoever.” For me it wasn’t like that.
+- Imagine somebody’s shooting at you with a gun and you’re screaming. And instead of trying to stop the person who’s shooting at you with a gun, they’re trying to stop you from screaming.
+- Another thing: we wanted to hire social scientists. A lot of times researchers just hire their friends, and we didn’t want to do that. We put out a call. We got 300 applications. We looked through them by hand because we wanted to make sure that recruiters were not filtering out certain groups of people. We had a quick call with 20-something, we had an onsite interview with 10 people, and then we hired two of them.
+- Why I thought we were making progress was because we were able to get resources to hire these people. So I thought that maybe Jeff was starting to support our team and support the kinds of stuff we were doing. I never imagined—I don’t know exactly how this thing happened at all—but I just did not imagine that he would sign off on it [my firing]. I can’t imagine him initiating it, but even him signing off on it was just something so surprising to me.
+- Most people on our team are inundated with requests from other teams or other people. And one of our challenges was to not always be in the middle of a fire, because we wanted to have foresight. We wanted to shape what happens in the future and not just react.
+- The biggest mismatch I see is that there are so many people who respect us, but then there’s people at the top, like VPs, who just maybe can’t stand us or just don’t respect our authority or expertise at all. I’ve seen that a number of times. But people in Google Cloud, or Cloud AI specifically, some of the senior leadership—they were very supportive. I felt like they really respected our leadership, so they would try to pull us into many things. On the other hand, this latest fiasco was not from them. I have my suspicions of which VPs it was coming from, and they certainly did not respect our expertise or leadership.
+- Well, even if you just see the email from Jeff—I’m assuming he didn’t write this email; I’m assuming somebody wrote it and he sent it—it talks about how our research [paper on large language models] had gaps, it was missing some literature. [The email doesn’t] sound like they’re talking to people who are experts in their area. This is not peer review. This is not reviewer #2 telling you, “Hey, there’s this missing citation.” This is a group of people, who we don’t know, who are high up because they’ve been at Google for a long time, who, for some unknown reason and process that I’ve never seen ever, were given the power to shut down this research.
+- We had 128 citations [on that paper], and we sent our paper to many of these people that we cited. We were so thorough. I said, okay, I want to bucket the people that we’re going to ask feedback from in four buckets. One is the people who have developed large language models themselves, just to get their perspective. One is people who work in the area of understanding and mitigating the bias in these models. One is people who might disagree with our view. One is people who use these large language models for various things. And we have a whole document with all of this feedback that we were supposed to go through to address, and which I want to do still before we release this work.
+- But the way they [Google leadership] were talking to us, it wasn’t like they were talking to world-renowned experts and linguists. Like Emily Bender [a professor at the University of Washington and a coauthor of the paper] is not some random person who just put her name on a random paper out there. I felt like the whole thing was so disrespectful.
+- I felt like there were prior instances where they watered down the research results a lot. People had conversations with PR and policy or whatever, and they would take issue with certain wording or take issue with certain specifics. That’s what I thought they might try to do with this paper, too. So I wrote a document, and I kept asking them, “What exactly is your feedback? Is your feedback to add a section? To remove? What does this mean? What are you asking us?”
+- This was literally my email on Friday after Thanksgiving [November 27, five days before Gebru’s dismissal] because on Thanksgiving day I had spent my day writing this document instead of having a good time with my family. The next day, on Friday, which is when I was supposed to retract this paper, I wrote: “Okay, I have written this six-page document addressing at a high level and low level whatever feedback I can gather. And I hope that there is at the very least an openness for further conversation rather than just further orders.” I wrote that email. Like that. How does Megan [Kacholia, the VP of engineering at Google Research] respond to this email? Monday, she responds to it and says, “Can you please confirm that you have either retracted the paper or taken the names of the authors out of this paper. Thank you. And can you please confirm after you’ve done this. Send me an email and confirm.” As if I have no agency.
+- That’s not what they do to people who’ve engaged in gross misconduct. They hand them $80 million, and they give them a nice little exit. They don’t do what they did to me.
+- Then in that document, I wrote that this has been extremely disrespectful to the Ethical AI team, and there needs to be a conversation, not just with Jeff and our team, and Megan and our team, but the whole of Research about respect for researchers and how to have these kinds of discussions. Nope. No engagement with that whatsoever.
+- I cried, by the way. When I had that first meeting, which was Thursday before Thanksgiving, a day before I was going to go on vacation—when Megan told us that you have to retract this paper, I started crying. I was so upset because I said, I’m so tired of constant fighting here. I thought that if I just ignored all of this DEI [diversity, equity, and inclusion] hypocrisy and other stuff, and I just focused on my work, then at least I could get my work done. And now you’re coming for my work. So I literally started crying.
+- I don’t know. Samy was horrified by the whole thing. He was like, this is not how we treat researchers. I mean, this is not how you treat people in general. People are talking about how, if this happens to somebody this accomplished—it makes me imagine what they do to people, especially people in vulnerable groups.
+- They probably thought I’d be super quiet about it. I don’t know. I don’t think the end result was just about this paper. Maybe they were surprised that I pushed back in any way whatsoever. I’m still trying to figure out what happened.
+- I thought that they might make me miserable enough to leave, or something like that. I thought that they would be smarter than doing it in this exact way, because it’s a confluence of so many issues that they’re dealing with: research censorship, ethical AI, labor rights, DEI—all the things that they’ve come under fire for before. So I didn’t expect it to be in that way—like, cut off my corporate account completely. That’s so ruthless. That’s not what they do to people who’ve engaged in gross misconduct. They hand them $80 million, and they give them a nice little exit, or maybe they passive-aggressively don’t promote them, or whatever. They don’t do to the people who are actually creating a hostile workplace environment what they did to me.
+- I found out from my direct reports, you know? Which is so, so sad. They were just so traumatized. I think my team stayed up till like 4 or 5 a.m. together, trying to make sense of what happened. And going around Samy—it was just all so terrible and ruthless.
+- I thought that if I just...focused on my work, then at least I could get my work done. And now you’re coming for my work. So I literally started crying.
+- I expected some amount of support, but I definitely did not expect the amount of outpouring that there is. It’s been incredible to see. I’ve never, ever experienced something like this. I mean, random relatives are texting me, “I saw this on the news.” That’s definitely not something I expected. But people are taking so many risks right now. And that worries me, because I really want to make sure that they’re safe.
+- You know, there were a number of people comparing Big Tech and Big Tobacco, and how they were censoring research even though they knew the issues for a while. I push back on the academia-versus-tech dichotomy, because they both have the same sort of very racist and sexist paradigm. The paradigm that you learn and take to Google or wherever starts in academia. And people move. They go to industry and then they go back to academia, or vice versa. They’re all friends; they are all going to the same conferences.
+- I don’t think the lesson is that there should be no AI ethics research in tech companies, but I think the lesson is that a) there needs to be a lot more independent research. We need to have more choices than just DARPA [the Defense Advanced Research Projects Agency] versus corporations. And b) there needs to be oversight of tech companies, obviously. At this point I just don’t understand how we can continue to think that they’re gonna self-regulate on DEI or ethics or whatever it is. They haven’t been doing the right thing, and they’re not going to do the right thing.
+- I think academic institutions and conferences need to rethink their relationships with big corporations and the amount of money they’re taking from them. Some people were even wondering, for instance, if some of these conferences should have a “no censorship” code of conduct or something like that. So I think that there is a lot that these conferences and academic institutions can do. There’s too much of an imbalance of power right now.
+- I think there needs to be some sort of protection for people like that, or researchers like that. Right now, it’s obviously very difficult to imagine how anybody can do any real research within these corporations. But if you had labor protection, if you have whistleblower protection, if you have some more oversight, it might be easier for people to be protected while they’re doing this kind of work. It’s very dangerous if you have these kinds of researchers doing what my co-lead was calling “fig leaf”—cover-up—work. Like, we’re not changing anything, we’re just putting a fig leaf on the art. If you’re in an environment where the people who have power are not invested in changing anything for real, because they have no incentive whatsoever, obviously having these kinds of researchers embedded there is not going to help at all. But I think if we can create accountability and oversight mechanisms, protection mechanisms, I hope that we can allow researchers like this to continue to exist in corporations. But a lot needs to change for that to happen.
+- I have to think more about this. I think that the public needs to be more educated in the role that tech companies, and also AI, are playing in our daily lives. A lot of people have been doing a really good job of that. People have been writing books—Weapons of Math Destruction was a very good book for me to read. There’s Coded Bias, the documentary. I’m also happy that I’m starting to see universities offering some of these classes in computer science. I think they should be required. Nicki Washington has a class at Duke that I wish I could’ve taken. Ruha [Benjamin] has a class [at Princeton]. I think our understanding of how science is developed and how engineering is developed—it just needs to change. The public needs to understand the political nature of this work. Higher education systems, in my opinion, are very behind in this way. They need to do a lot of work.
+- In terms of the public, I think that if I were to go back to three, four years ago, there was a lot less awareness. Now entities like the ACLU [American Civil Liberties Union] are heavily involved; you have the Algorithmic Justice League, Data for Black Lives, doing a lot of work here. So I think that the public can learn more. But I think this is more on actually the politicians, because we do have a mechanism to involve the public in various things. But the politicians are not giving the public a way to get involved. For instance, [data analytics company] Palantir was being used in New Orleans for predictive policing and nobody knew. There was no vote. There was no bill. There was no discussion about it. So our government needs to actively give the public a chance to weigh in on these kinds of issues.
+- I think maybe it means that you can question the fundamental premises and fundamental issues of AI. You don’t have to just cover things up, or you don’t have to just be reactionary. You can have foresight about the future, and you can get in early while products are being thought about and developed, and not just do things after the fact. That’s the number one thing I think about. And that the people most impacted by the technology should have a very big say, starting from the very beginning.
+- If people at the margins don’t have power, then there’s no incentive for anyone to listen to them or to have them shape the discussion. So I think that people at the top need to foster an environment where people at the margins are the ones shaping the discussions about these things, about AI ethics, about diversity and inclusion.
+- We are taught when we’re learning science “objectively,” what’s called “the view from nowhere,” as if you’re not supposed to bring your point of view to it. I think people should do the exact opposite.
+- That’s not what’s happening right now. You go to Google and you see all of the high-level people doing AI ethics—they’re absolutely not even people from underrepresented groups at all. That was the conversation we were having when I was there, and many of us were super frustrated by it. We had these principles called “Nothing about us without us,” and the very first thing we came up with was psychological safety. Can you imagine? That means don’t punish me for speaking up, which is exactly what they did. So you need to seek the input, but then again, don’t do it in a predatory way. Before you even think about the products that you’re building or the research that you’re doing, you need to start imagining: how can you work with people at the margins to shape this technology?
+- I wasn’t trying to be one, and I don’t think I’m a martyr right now. I’m hoping that I’m more of an agent for change. But yeah, Google kind of made me one, more so than I would have been if they didn’t do this to me.
+- Oh, man. I have not had any time to think about that. Right now I’m literally trying to make sure that my team is safe, make sure that the narrative around what’s going on with me is accurate, and take a little bit of a breather when I can. Hopefully drink some wine, have some food, eat some chocolate, hang out with family. And maybe I’ll figure it out after. But my biggest priority is to not be in the kind of environment I was in. That’s my biggest priority.
+- My advice is to read up on some of the works that I mentioned, especially by Ruha [Benjamin], Meredith [Broussard], Safiya [Noble], Simone Browne, and a number of other people. And bring your lived experience into it. Don’t try to take yourself out of this work. It has a lot to do with you. So your angle and your strength will depend on what your lived experience is. I gave a talk called “The Hierarchy of Knowledge and Machine Learning,” and it was sort of about that: How we are taught when we’re learning science “objectively,” what’s called “the view from nowhere,” as if you’re not supposed to bring your point of view to it. I think people should do the exact opposite.
+- Update: We clarified Samy Bengio's job title and corrected a reference to a researcher. Timnit was referring to Jen Wortman Vaughan, a senior principal researcher at MSR, not Jen Chayes, a former director at the same company.
+- The invasion of Ukraine supercharged the decline of the country’s already struggling tech sector—and undercut its biggest success story, Yandex.
+- AI is already being used in the legal field. Is it really ready to be a lawyer?
+- Following recent announcements by Google and Twitter, more data deletion policies are coming.
+- Google will delete accounts after two years of inactivity, and experts expect more data deletion policies to come
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.theverge.com/2020/12/3/22150355/google-fires-timnit-gebru-facial-recognition-ai-ethicist
+- By  Zoe Schiffer
+- Timnit Gebru, one of Google’s top artificial intelligence researchers, says the company abruptly fired her yesterday. The technical co-lead of Google’s Ethical Artificial Intelligence Team claims managers were upset about an email she’d sent to colleagues.
+- The email, which was sent to the Brain Women and Allies listserv, voiced frustration that managers were trying to get Gebru to retract a research paper. The full text was first published in Platformer. “A week before you go out on vacation, you see a meeting pop up at 4:30pm PST on your calendar,” it reads. “Then in that meeting your manager’s manager tells you ‘it has been decided’ that you need to retract this paper by next week... You are not worth having any conversations about this, since you are not someone whose humanity (let alone expertise recognized by journalists, governments, scientists, civic organizations such as the electronic frontiers foundation etc) is acknowledged or valued in this company.”
+- After the email went out, Gebru told managers that certain conditions had to be met in order for her to stay at the company. Otherwise, she would have to work on a transition plan.
+- Megan Kacholia, vice president of engineering at Google Research, said she could not meet the conditions and accepted Gebru’s resignation as a result, according to OneZero. Kacholia added, “However, we believe the end of your employment should happen faster than your email reflects because certain aspects of the email you sent last night to non-management employees in the brain group reflect behavior that is inconsistent with the expectations of a Google manager,” according to Gebru. On Twitter, she claimed the decision to fire her ultimately came from Google’s head of AI, Jeff Dean.
+- Dean sent an email to Google staff Thursday morning explaining his view Gebru’s departure, which was first obtained and published by Platformer.
+- “Timnit co-authored a paper with four fellow Googlers as well as some external collaborators that needed to go through our review process (as is the case with all externally submitted papers),” the email reads. “Unfortunately, this particular paper was only shared with a day’s notice before its deadline — we require two weeks for this sort of review — and then instead of awaiting reviewer feedback, it was approved for submission and submitted. A cross functional team then reviewed the paper as part of our regular process and the authors were informed that it didn’t meet our bar for publication and were given feedback about why...We acknowledge that the authors were extremely disappointed with the decision that Megan and I ultimately made, especially as they’d already submitted the paper.”
+- The Google Walkout Twitter account, which is run by current and former employees, came out in force for Gebru. “Dr. Gebru is a pathbreaking scientist doing some of the most important work to ensure just and accountable AI and to create a welcoming and diverse AI research field,” they wrote.
+- Gebru is famous for her work on algorithmic bias, particularly in facial recognition technology. In 2018, she co-authored a paper with Joy Buolamwini showing error rates for identifying darker-skinned people were far higher than the error rates for identifying white-skinned people, in part because the datasets used to train algorithms were overwhelmingly white.
+- News of Gebru’s alleged firing swept through Twitter yesterday, prompting an outpouring of support from colleagues and collaborators. “I have your back as you have always had mine,” Buolamwini tweeted. “You are brilliant and respected. You listen to those others readily ignore. You ask hard questions not to advance yourself but to uplift the communities we owe our foundations. I am proud to call you leader mentor friend sister.”
+- Hours earlier, news broke about the National Labor Relations Board filing a complaint against Google for firing two workers last year in the wake of employee organizing efforts. At the time, Google said the employees, Laurence Berland and Kathryn Spiers, had violated security policies and internal systems. But the NLRB found these rules violated labor laws and alleged Berland and Spiers had done nothing wrong.
+- Update December 3rd, 3:20PM EST: This article has been updated to include the email Jeff Dean sent to Google staff.
+- Update December 3rd, 7:39PM EST: This article has been updated to include tweets from Google Walkout.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://hbcuconnect.com/content/361900/hbcu-recruiting-firm-terminates-partnership-with-google-following-tweet-exposing-the-company-s-race-discrimination
+
+URL: https://www.jpost.com/breaking-news/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-gebru-657755
+- By subscribing I accept the terms of use and privacy policy
+
+URL: https://fortune.com/2020/12/04/google-timnit-gebru-backlash-firing/
+- Our mission to make business better is fueled by readers like you. To enjoy unlimited access to our journalism, subscribe today.
+- Google faced mounting criticism Friday over its treatment of a prominent Black A.I. ethics researcher who says she was fired after questioning the company’s commitment to diversity in an email to colleagues.By midmorning Pacific Time on Friday, more than 1,400 people, including nearly 600 who work at Google, had signed an open letter expressing solidarity with the researcher, Timnit Gebru. The letter also called on Google to strengthen its commitment to research integrity and support ethics research in line with the company’s own A.I. principles.Gebru, who was co-lead of Google’s A.I. ethics team, is well known among machine learning researchers for her exploration of the racial and gender bias inherent in many A.I. systems. She was also one of Google AI Research’s most prominent Black employees and is a cofounder of Black in AI, an organization that has sought to highlight the work of Black machine learning researchers and provide mentorship and support to Black scholars in the field. She says she was fired after writing a message to members of a “women and allies” email list within Google AI Research in which she accused the company of paying lip service to diversity and inclusion.She said her managers informed her that the message was “inconsistent with the duties of a manager” at the company and immediately terminated her employment. Jeff Dean, the senior vice president in charge of Google’s A.I. research, said in an email to staff that Gebru had offered to resign and that the company had accepted her resignation.
+- Google declined to comment on the open letter.Both Gebru and the company say that her departure followed an incident in which the company asked Gebru to withdraw a research paper she and several other Google researchers had coauthored and submitted to an A.I. conference. In it, Gebru and her fellow researchers highlighted the racial bias inherent in a kind of cutting-edge natural language processing A.I., known as large language models, that Google and several other companies have developed. Google now uses one of these large language models to power parts of its search results.In his email to staff, Dean says that the paper “didn’t meet our bar for publication” because “it ignored too much relevant research,” including information on how some of the issues Gebru and her coauthors were raising could be mitigated.Gebru has said that the process used to review the paper was opaque and irregular. The open letter calls on Dean and others involved in the decision to reject the paper to meet with the Google A.I. ethics team to explain the process they used. It also calls on the company to explain to the broader public what took place. And it demands that Google Research “make an unequivocal commitment to research integrity and academic freedom.”
+- Google has said that it is “committed to making diversity, equity, and inclusion part of everything we do,” but the company has for years struggled to make good on that stance. According to Google’s 2020 diversity report, Black employees make up just 3.4% of its U.S. staff, up from 2.4% in 2014. The company also noted that its attrition rate among Black women, who make up 1.6% of its U.S. workforce, had increased in the past year.
+- Gebru’s departure is almost certain to be a significant blow to the company’s effort to reverse this trend. Many, including Gebru, pointed out on Twitter that Google had in the past often held her and her work up as examples of the strides the company was making in addressing diversity and inclusion issues. Gebru said in her email to colleagues that her treatment had convinced her that “there is zero accountability” at Google for actually improving its culture.Many machine learning researchers posted messages on Twitter saying that Gebru’s exit dealt a serious blow to Google’s reputation on A.I. ethics and diversity issues.
+- Joy Buolamwini, a computer scientist who founded the Algorithmic Justice League, a group dedicated to fighting algorithmic bias, and who had coauthored an influential paper with Gebru on racial bias in facial recognition systems, said Gebru’s firing “severely undermines Google’s credibility for supporting rigorous research on AI ethics and algorithmic auditing.”
+- 
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+- Google DeepMind, Royal Free London NHS data sharing
+- Google GoEmotions dataset mis-labelling
+- Page infoType: IssuePublished: April 2023

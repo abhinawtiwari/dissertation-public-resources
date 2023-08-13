@@ -1,0 +1,102 @@
+- AccessiBe automated web accessibility
+- Occurred: October 2021
+- Can you improve this page?Share your insights with us
+- Eyewear retailer Eyebobs has settled with a customer who had sued the company for failing to provide users of its website with screen readers of equal access to its services, and for misleading marketing.
+- The software was supplied by Israel-based web accessibility start-up AccessiBe, which claims to make websites for people with disabilities easier to use by providing an 'automated, state-of-the-art AI technology'.
+- Over 600 blind people, accessibility advocates and software developers had previously signed an open letter calling on website operators to stop using AccessiBe and similar companies.
+- Operator: Eyebobs, Masterbuilt Manufacturing Developer: AccessiBe Country: USA, Israel Sector: Business/professional services Purpose: Improve website accessibility Technology: Web accessibility overlay Issue: Accuracy/reliability Transparency: Legal; Marketing
+URL: https://overlayfactsheet.com/
+- Overlays are a broad term for technologies that aim to improve the accessibility of a website. They apply third-party source code (typically JavaScript) to make improvements to the front-end code of the website.
+- Website add-on products claiming to improve accessibility go back to the late 1990s with products like Readspeaker
+      and Browsealoud. They added text-to-speech capabilities to the website(s) on which they were installed.
+- Then similar products came to market that added more tools to their software. These allow user-based control of things like font-sizes and colors to improve readability.
+- Some newer overlay products aim to fix any problems in the site's code that are preventing assistive technology from being used easily. They apply a script to the page which scans the code and automatically attempts to repair the problem.
+- Some examples of web accessibility overlays (by alphabetical order):
+- *: denotes that these products are no longer developed or marketed.
+- Overlay products are sometimes white labelled (sold under other names), or re-branded for certain markets, so this is not a complete list of the type of products discussed on this page.
+- Overlay widgets are unnecessary and are poorly placed in the technology stack.
+- As stated above, some overlay products contain widgets which present a
+      series of controls that modify the presentation of the page they're on.
+      Depending on the product, those changes may do things like change the page
+      contrast, enlarge the size of the page's text, or perform other changes to
+      the page that are intended to improve the experience for users with
+      disabilities.
+- To laypersons, these features may seem beneficial, but their practical
+      value is largely overstated because the end users that these features claim
+      to serve will already have the necessary features on their computer, either
+      as a built-in feature or as an additional piece of software that the user
+      needs to access not only the Web but all software.
+- On this latter point, it is a mistake to believe that the features
+      provided by the overlay widget will be of much use by end users because if
+      those features were necessary to use the website, they'd be
+      needed for all websites that the user interacts with. Instead, the widget is 
+      —at best—redundant functionality with what the user already has.
+- While some automated repair is possible, customers should be
+      discouraged from using an overlay as a long-term solution.
+- Some overlay products have capabilities aimed at providing accessibility
+      repairs to the underlying page on which the overlay is added. These repairs
+      are applied when the page loads in the user's browser.
+- While it is true that a non-trivial array of accessibility problems can be
+      repaired in this manner, the nature, extent, and accuracy of such repair are
+      limited by a number of important factors:
+- In addition to the above, overlays do not repair content in Flash, Java,
+      Silverlight, PDF, HTML5 Canvas, SVG, or media files.
+- While the use of an overlay may improve
+      compliance with a handful of provisions in major accessibility standards,
+      full compliance cannot be achieved with an overlay.
+- Among the many claims made by overlay vendors is the claim that the use of
+      their product will bring the site into compliance with accessibility
+      standards such as WCAG 2.x, related and derivative standards, and laws that
+      mandate compliance with those standards.
+- Given that conformance is defined as meeting all
+      requirements of the standard, these products' documented inability to repair
+      all possible issues means that they cannot bring a website into compliance.
+      Products marketed with such claims should be viewed with significant
+      skepticism.
+- Adding an overlay to your site may run counter to end users' preference for privacy and may create risk of noncompliance with GDPR, UK GDPR, CCPA, et al.
+- Overlays that automatically enable certain settings, like those for screen reader or speech recognition users, do
+      so by detecting when an assistive technology is running on the device. This exposes the fact that the person using
+      the device at the time has a disability. In certain cases, like screen reader users where the majority are blind
+      or have low vision, it exposes even more detail about the nature of their disability. Like age, ethnic background,
+      or preferred gender, disability is sensitive personal information. It is not data that should be collected without
+      the informed consent of the person it belongs to.
+- Some overlays have been found to persist users' settings across sites which use the same overlay. This is done by
+      setting a cookie on the user's computer. When the user enables a setting for an overlay feature on one site, the
+      overlay will automatically turn on that feature on other sites. While the overlay company might think they're
+      doing good by the end user, the big privacy problem is that the user never opted in to be tracked and there's also no
+      ability to opt-out. Due to this lack of an opt-out (other than explicitly turning off that setting) this creates
+      General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) risk for the overlay customer.
+- Many users with disabilities have expressed strong words of
+        dissatisfaction with overlay products. As shown below, overlays
+        themselves may have accessibility problems significant enough for users
+        to take steps to actively block overlays from appearing at all.
+- Please note: while this section may mention specific vendors, these
+        comments are par-for-the-course when it comes to the user experience
+        provided by overlay widgets which have, in themselves, a pattern of
+        negatively impacting the user experience.
+- No overlay product on the market can cause a website to become fully
+      compliant with any existing accessibility standard and therefore cannot
+      eliminate legal risk.
+- Accessibility on the Web is a big challenge, both for owners of websites
+      and for the users of those websites. The invention of novel approaches to
+      resolving this challenge is to be commended.
+- However, in the case of overlays—especially those which attempt to add
+      widgets that present assistive features—the challenge is not being met. Even
+      more problematic is the deceptive marketing provided by some overlay
+      vendors who promise that implementing their product will give their
+      customer's sites immediate compliance with laws and standards.
+- The ineffectiveness of overlays is something that has broad agreement among
+      accessibility practitioners, per the WebAIM
+        Survey of Web Accessibility Practitioners
+      which found:
+- As a result of the above information:
+- Some overlay vendors have attempted to frame the overlay factsheet as an effort by their competitors to discredit them.
+      Such overlay claims are a textbook case of an attempt to gaslight people to deflect criticism.
+- As of today, the signatories to the overlay factsheet include:
+- In short, the list of signatories below are people who are experts in this field & have dedicated their professional careers to the
+        improvement of accessibility or are end users with disabilities (or both). Discounting the names listed below as "competitors" is both inaccurate and
+        misses the point: overlays are not an effective means of ensuring accessibility - a point on which all of the people below agree.
+- Add your name to this list
+
+URL: https://www.adatitleiii.com/wp-content/uploads/sites/121/2021/01/Murphy-v.-Eyebobs.pdf
+

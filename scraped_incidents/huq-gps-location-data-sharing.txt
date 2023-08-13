@@ -1,0 +1,273 @@
+- Occurred: October 2021
+- Can you improve this page?Share your insights with us
+- App analysis company AppCensus, alongside Vice's Motherboard, has discovered that location data merchant has been receiving GPS coordinates even when mobile users have explicitly opted-out of the collection of this data on individual Android apps.
+- Huq claims to collect and process over one billion mobility events every day.
+- While Huq appeared unaware of the vulnerability, the findings raise questions about the nature and effectiveness of Huq's customer/partner compliance checks, which it says it runs monthly.
+- Civil rights and privacy advocates suggest the problem reflects inadequate advertising and marketing industry data sharing practices and governance.
+- Operator: Huq IndustriesDeveloper: Huq Industries, Kaibits Software, AppSourceHub
+- Country: UK
+- Sector: Technology
+- Purpose: Track user location
+- Technology: Location tracking algorithms
+- Issue: PrivacyTransparency: Governance; Privacy
+URL: https://blog.appcensus.io/2021/10/25/what-the-huq/
+- Automate verification of Apple's new privacy labels
+- Published by Joel Reardon on October 25, 2021October 25, 2021
+- Huq Industries is a UK company that provides location-based services and mobility data, some of which is collected via an SDK that is integrated with various apps. From Huq’s marketing materials: “The most accurate grade of mobility data is derived from the mobile OS via (A-)GPS using a first-party specialised SDK such as ours.” We had previously seen Huq’s SDK present in a number of apps, collecting precise GPS location, as well as both connected and nearby router MAC addresses and router SSIDs. In the last couple of years, however, we noticed that they no longer seemed to collect location information. We decided to look into what was happening, especially because we continued to see it access location and router information, while not obviously transmitting it.
+- To understand what Huq is doing, we’ll look at one example app, but at the end give a summary of more than a dozen apps containing this SDK that exhibit similar behaviours. We use QR & Barcode Scanner, an app with more than 5 million installations. Its privacy policy reports that it shares location and router information with Huq (and thus its partners), but in our testing we did not see anything that struck us as troubling—not even the advertising ID was sent!
+- Despite the lack of transmissions, we looked at what files were opened and written to, and found a few Huq-related files, one of which was called huqVisitAwaitingSubmissionStore.xml. You can find it in the per-app local storage, so if Huq’s code was in an app named com.some.app, the data file for Huq would be found in /data/user/0/com.some.app/shared_prefs/huqVisitAwaitingSubmissionStore.xml.
+- We looked inside this “awaiting submission” file, and found a XML-formatted file that contained a list of strings, each of which was an encoding of a JSON object storing a network scan. For example, a snippet of it looks like this:
+- Here’s a better formatted version:
+- From this, it appears that Huq is queuing up these location data reports to send, but not sending them out right away. Looking at the timing of location tracking, it looks like Huq does a batch upload every nine minutes or so while the phone is on—including when the app containing the Huq SDK is not in use.
+- At each of these times, there were 10 separate reports sent, each with its own date and time. Thus it appears that what is happening is that Huq waits until there are 10 events to report, and then sends that batch. We found one app that had a telling variable, VISIT_SUBMISSION_BATCH_SIZE, which was set equal to 10 in a shared preferences file called huqPreferenceStore.xml.
+- The trend of about nine minutes thus seems like the time it takes to reach a threshold of 10 events so that the server gets notified.
+- These reports are given different event type names, such as HuqGeoEvent, to track when a user moves; HuqNetworkJoinEvent, when the user connects to WiFi; and HuqNetworkChangedEvent, which sometimes also sends a scan of nearby WiFi networks, as in this example when I took our testing phone on a stroll to downtown Bowness, hoping to trigger different events. I found that it uploaded WiFi networks for Bow Cannabis and its adjacent snack shop, Munchies.
+- We also tested to see if it respects an opt-out mechanism for people who do not want their home router’s data getting scooped up in a broad data collection: appending “_nomap” to the network’s SSID. We combined this with Microsoft’s now defunct opt-out mechanism (for an alternative purpose) of appending “_optout” to the SSID. We tested each individually and both orderings of the two by inserting fake scan results, and found that Huq collected them all:
+- Each of these batch reports seems to be linked to multiple identifiers, including the advertising ID and a random-looking one called HuqIID. Originally believing that the HuqIID was an installation identifier, we found that it persisted across installations (that is, it was the same value after uninstalling and reinstalling the same app). It also was the same for different apps by the same developer. This suggests that it is derived from the Android ID, which is a non-resetable per-developer identifier. We confirmed this by looking at the app’s use of the system’s SHA1 implementation at runtime: the HuqIID is a UUID generated by the SHA1 output of the hex bytes 0650522fafbd415e97b249ab863a0884 concatenated with the ASCII representation of the Android ID. We found that all apps we saw communicate with Huq used this same method (with the same prefix) to compute the HuqIID. We also saw that transmissions included the phone’s “Bluetooth Name”, which is user-configurable—though yours may very well be set to “Your Name’s Phone”.
+- The advertising ID can be reset by the user, but linking it to a persistent identifier that remains the same as long as the app is installed means that a motivated entity with access to the data can bridge the advertising ID, thus defeating the purpose of any resettable or ephemeral ID. When not collected with explicit user consent—which wasn’t requested by any of the apps that we examined—this appears to potentially violate Google’s platform policies: “The advertising identifier may only be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) with the explicit consent of the user.” We previously wrote a report on this so-called “identifier bridging” jointly with the IDAC. Many of the apps that we found Huq’s code present in included ultimatum-style demands to accept terms of service before the app could be used. Some sent data even when the user did not accept the terms, but instead quit the app. In two cases, the app had options to opt-out of data collection, yet in our testing Huq continued to collect and transmit location data despite that status. That is, clicking “NO” in the figure below (left) or ensuring data collection was off (right) did not observably impact Huq’s data collection.
+- Thankfully, this aggressive tracking of people’s location and linking it to multiple identifiers does not seem to be prevalent among apps. Looking at tens of thousands of apps, we only found Huq in 17. As mentioned, we didn’t observe any apps sending location data until we discovered this batching technique, and since then, we have tested some apps more exhaustively to see that nearly all are, in fact, sending location data linked to both the advertising ID and an Android-ID-derived HuqIID. Despite that, some of these apps are quite popular, so this may affect many users (e.g., Huq claims to receive over a billion daily events). The table below summarizes the apps in which we found Huq’s SDK. Note that just because we do not have a “yes” in the “Sent Geolocation” column does not mean that it doesn’t, only that we haven’t done a lengthy manual analysis of that app.
+- 
+- Dr. Joel Reardon is the Forensics Lead and Co-Founder of AppCensus. Dr. Reardon is also a professor at the University of Calgary and a world-renowned expert in digital forensics and security.
+- The technique we invented to uncover the active exploitation of side and covert channels continues to work. One such side channel comes from an obscure, purportedly-Panamanian company. A look at their code makes for an Read more…
+- Recently, Canada’s Citizen Lab released a detailed investigation of the mobile app provided by the Government of the People’s Republic of China that appears mandatory for all attendees of the upcoming Winter Olympic games. We took a look to see if there was anything else we could find (version 2.0.4, released January 2022), and noticed evidence of a side channel being exploited. In particular, we found that the MAC address of the mobile device is being sent to the domain “bigdata.beijing2022.cn”.
+- Earlier, we wrote about some attacks that can be done in GAEN-based contact-tracing systems, which is the Google-Apple Exposure Notification system that is used by many countries and regions worldwide to do digitally-assisted contact tracing. Read more…
+- Terms of Service
+- Copyright © AppCensus 2022
+- Privacy Policy
+
+URL: https://www.vice.com/en/article/5dgmqz/huq-location-data-opt-out-no-consent
+- Huq, an established data vendor that obtains granular location information from ordinary apps installed on people’s phones and then sells that data, has been receiving GPS coordinates even when people explicitly opted-out of such collection inside individual Android apps, researchers and Motherboard have found.
+- The news highlights a stark problem for smartphone users: that they can’t actually be sure if some apps are respecting their explicit preferences around data sharing. The data transfer also presents an issue for the location data companies themselves. Many claim to be collecting data with consent, and by extension, in line with privacy regulations. But Huq was seemingly not aware of the issue when contacted by Motherboard for comment, showing that location data firms harvesting and selling his data may not even know whether they are actually getting this data with consent or not.
+- “This shows an urgent need for regulatory action,” Joel Reardon, assistant professor at the University of Calgary and the forensics lead and co-founder of AppCensus, a company that analyzes apps, and who first flagged some of the issues around Huq to Motherboard, said in an email. “I feel that there's plenty wrong with the idea that—as long as you say it in your privacy policy—then it's fine to do things like track millions of people's every moment and sell it to private companies to do what they want with it. But how do we even start fixing problems like this when it's going to happen regardless of whether you agree, regardless of any consent whatsoever.”
+- Do you have access to documents about the location data industry? We'd love to hear from you. Using a non-work phone or computer, you can contact Joseph Cox securely on Signal on +44 20 8133 5190, Wickr on josephcox, or email joseph.cox@vice.com.
+- In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+- Huq is based in the UK and claims to collect and process over one billion mobility events every day, and says it sources that data from 161 different countries, according to the company’s website. Like many other firms in the location industry, Huq sells access to or products based upon that harvested location data to a range of different sectors, including local governments, financial investors, retail, and real-estate, its website adds. An article from the Financial Times published earlier this month about UK drivers flocking to petrol stations used data from Huq.
+- Huq obtains this data by paying app developers to include its software development kit (SDK) in apps, a bundle of code that transfers location data to Huq. Huq sources data from both iOS and Android devices.
+- “Join our Partner Network today and earn ad-free revenue for your mobile apps,” a section of Huq’s website where app developers can apply reads. “It’s fast, privacy-secured and financially rewarding for your mobile app business.” The site adds that developers can “begin earning” after a decision is made by Huq within 7 days. (The Google Play Store prohibits app developers selling personal or sensitive data collected via their apps, including location data; Google has banned other location vendors that bought location data such as X-Mode and Predicio after Motherboard’s reporting).
+- Huq does not publicly say which apps it has relationships with. Earlier this year Motherboard started to investigate Huq by compiling a list of apps that contained code related to the company. Some of the apps have been downloaded millions or tens of millions of times, including “SPEEDCHECK,” an internet speed testing app; “Simple weather & clock widget,” a basic weather app; and “Qibla Compass,” a Muslim prayer app.
+- Independently, Reardon and AppCensus also examined Huq and later shared some of their findings with Motherboard. Reardon said in an email that he downloaded one app called “Network Signal Info” and found that it still sent location and other data to Huq after he opted-out of the app sharing data with third parties.
+- Motherboard also downloaded the Network Signal Info app and intercepted its traffic. Motherboard granted the app the relevant Android permission to access location data in the first place, but selected a setting in the app that should have stopped the transfer of that data to other companies. Motherboard saw that even when the option in the app’s settings said no data would be shared with third parties, the app still sent location information to Huq. The data included precise GPS locations of the phone, timestamps, and the name of the WiFi network the device was connected to and other nearby WiFi networks.
+- “Data collection is disabled, there will be no data shared with third parties,” the setting read. That was false.
+- Reardon said he also observed similar behavior from another app called “QR & Barcode Scanner” with 5 million downloads. Reardon shared a capture of the traffic between his device and Huq; the transfer of location data names the app specifically.
+- “Again never consented, escaped the screen after seeing it,” Reardon wrote in an email.
+- KAIBITS Software GmbH, the developer of Network Signal Info, did not respond to requests for comment. Neither did AppSourceHub, the company behind QR & Barcode Scanner.
+- A screenshot of Network Signal Info's page on the Google Play Store. Image: Screenshot.
+- On its website Huq says that its direct, first-party relationship with apps “allows us to guarantee control over data quality and the collection of end-user consent.” But in an email to Motherboard, Huq Chief Technology Officer Isambard Poulson said app developers are the ones responsible for obtaining that consent.
+- “Our SDK should only be initialised when users provide consent. The app developer is responsible for the implementation of their own consent management system,” Poulson wrote. Poulson said Huq has not yet verified that Network Signal Info is sending data to Huq without consent, but that the company is investigating and will work with the app publisher to fix any issue.
+- “We work with our publishers regularly to check their consent processes and guide them on best practices. If issues are found then we consult with the publisher to rectify them,” Poulson said in another email.
+- In a letter sent to the Danish Data Protection Authority (DPA) earlier this year, Huq said it performs automated testing on a monthly basis to ensure compliance by participating apps. Motherboard also tested an earlier version of the Network Signal Info app from 2020 and found it also sent location data to Huq after opting-out, raising further questions on how effective Huq’s own compliance efforts are.
+- When asked if Huq’s dataset is compliant under the General Data Protection Regulation (GDPR)—Europe’s privacy legislation—or the California Consumer Protection Act (CCPA)—the state’s own privacy law—Poulson said “Our systems and processes are compliant with relevant regulations and if issues arise then we work with our partners to remedy them.” In order for the data processing to be legal under the GDPR, personal data should be processed on the basis of consent of the data subject—that is, the app user—or some other legitimate basis. Under CCPA, consumers have a right to demand companies stop using their data in certain ways and companies must follow this demand.
+- Johnny Ryan, a fellow at the Irish Council for Civil Liberties and formerly chief policy officer of the Brave web browser, said the issue of Huq receiving location data without consent “reflects a wider pattern of behaviour.”
+- “The industry standard consent system (IAB Transparency and Consent Framework) has no technology built in to it to stop data being passed around, so it does not matter what people click. In other words, the mere appearance of control,” he added.
+- Google told Motherboard in a statement that “We are aware of the report and are investigating.”
+- Google also said the company is updating its policies to prohibit linking persistent device identifiers to personal and sensitive user data or resettable device identifiers unless they are being used for pre-approved use cases. A resettable device identifier might include an Android advertising ID, a unique code provided by Google that advertisers often use to cross-correlate activity; Android users can reset their advertising ID in their device settings. Google said those changes would come into effect on October 28.
+- Subscribe to our cybersecurity podcast CYBER, here. Subscribe to our new Twitch channel.
+
+URL: https://www.bbc.co.uk/news/technology-59063766
+- A British firm which sells people's location data has admitted that some of its information was gained without seeking permission from users.
+- Huq uses location data from apps on people's phones, and sells it on to clients, which include dozens of English and Scottish city councils.
+- It told the BBC that in two cases, its app partners had not asked for consent from users.
+- But it added that the issue had now been rectified.
+- In a statement, the firm said it was aware of two "technical breaches" of data privacy requirements.
+- But it added that it had asked both to "rectify their code and republish their apps", which they had done.
+- "Huq data is used anonymously. Nevertheless consent is a vital pillar of data collection and must be taken seriously. We strive to ensure consent is explicitly sought by all our app partners. If there is a breach, we always act swiftly," said Conrad Poulson, chief executive of Huq.
+- Kaibits Software, which developed one of the apps in question. admitted that there had been "problems with the permissions" but they were now resolved. The second app developer did not respond.
+- Huq did not rule out the possibility that other apps may have failed to ask for proper consent. "It is possible that we or our partners may uncover future technical issues, but what's important is how quickly we act and how seriously we take the issue," the firm told the BBC.
+- The apps in question - one which measured wi-fi strength and another that scanned barcodes - had been highlighted in a story published by Vice. It questioned how clear it was to users that apps they had downloaded for one purpose were sharing information for a completely different one.
+- Huq advertises a range of services on its website, promoting how its "real-time footfall metrics" can be used "to discover where people go and why".
+- So, for instance, a council could use the data it provides to estimate how many people visited a High Street within a given timeframe.
+- AppCensus, a company that analyses the privacy of apps, looked at which apps Huq did business with. It found ones for flight-tracking, weather, and Muslim prayers were among those sending information to the company.
+- Co-founder Joel Reardon told the BBC: "Looking across a dozen or so apps that include Huq, I've noticed large variations in how users are given notice of how their GPS location tracker, along with information about their home wi-fi router, is being collected.
+- "If users are expected to read through countless privacy policies, then I feel that these should at least be an accurate description of what is actually happening," he said.
+- According to analysis from Danish TV2, Android apps are far more likely to pass on location data than those on iPhones.
+- Google told the BBC that it was investigating.
+- Firms that collect location data from apps and then sell it on are under increased scrutiny. The Danish data authority is currently looking into whether there is "a legal basis" for the way Huq has processed personal data.
+- Meanwhile, the UK's Information Commissioner's Office has issued a reprimand to another UK-based location data collection firm, Tamoco, for "failing to provide sufficient privacy information to UK citizens".
+- It told the BBC that it had asked the firm to "review the personal data they collected to ensure that UK citizens' data is no longer processed and that any remaining records should be deleted".
+- In 2019, Norwegian broadcaster NRK bought raw location data from Tamoco for £3,000. For this fee, it received 460 million rows of data from more than 140,000 phones and tablets. While this did not contain any names or mobile numbers, it did offer granular insights into people's movements which enabled the broadcaster to find out the real identities of people.
+- It allowed them to track people, in what journalist Martin Gundersen described as "frightening detail".
+- The data showed one man as he went to a hospital and a job interview. Another, a member of the military, had their movements tracked from an army base to other locations.
+- The BBC has asked Tamoco for comment.
+- How will data and AI change London?
+- Digital ad industry accused of huge data breach
+- Moscow buildings hit in rare drone attack
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.heise.de/news/Populaere-Apps-leaken-Bewegungsprofile-6228973.html
+- 
+- 
+- Das SDK des britischen Anbieters Huq speichert laut AppCensus ausgiebige Bewegungsprofile und lädt diese auch hoch, wenn Nutzer widersprechen.
+- (Bild: ra2studio/Shutterstock.com)
+- Die systematische Erfassung von Bewegungsprofilen von Smartphones ist ein Milliarden-Geschäft, aber nur wenig ist darüber bekannt, wie genau diese Daten erfasst und wofür genau sie verwendet werden. Eine neue Recherche von AppCensus zeigt: Selbst harmlos erscheinende Apps wie Barcode-Scanner, GPS-Tachometer oder Wetter-Apps sammeln systematische detaillierte Bewegungshistorien ihrer Nutzer und Nutzerinnen.
+- Wie AppCensus in einem Blogbeitrag ausführt, war die Datensammlung bei üblichen Tests nicht aufgefallen, da das SDK nicht permanent die Nutzerdaten in Echtzeit hochlädt, sondern in einer Datei lokal zwischenspeichert. Zu dieser Datensammlung gehören nicht nur GPS-Daten, sondern auch Informationen über in der Nähe befindliche WLAN-Netze.
+- Solche Daten werden für eine Reihe von Zwecken erhoben. So können Kommunen etwa Bewegungsdaten für die Verkehrsplanung nutzen, Investoren günstige Standorte etwa für Ladenlokale ermitteln. Sie eignen sich aber auch für individuelle Werbung, da die Daten Rückschlüsse zulassen, in welchen Geschäften Benutzende einkaufen. Um die genau zuordnen zu können, erfasst Huq laut Analyse nicht nur die Werbe-ID von Android, sondern weist ihnen auch eine eigene permanente ID zu.
+- Apple und Google haben den Zugriff auf den genauen Standort von App-Nutzern und App-Nutzerinnen eingeschränkt, um deren Privatsphäre zu schützen. Deshalb müssen in aktuellen Versionen von Android und iOS der Zugriff auf GPS und andere Ortungsdaten explizit bestätigt werden. Dies ist aber kein perfekter Schutz. So finden sich die SDKs der entsprechenden Anbieter häufig in Apps, die die Ortung für ihre normale Funktionalität benötigen. AppCensus fand das SDK von Huq zum Beispiel in einer App, die Radarfallen anzeigt und über 10 Millionen Mal installiert wurde.
+- Auf seiner Homepage wirbt der britische Anbieter damit, täglich eine Milliarde Datenpunkte aus 161 Ländern auszuwerten, lässt aber offen, woher genau diese Daten stammen. Diese Angaben muss man sich aus den Datenschutzerklärungen der einzelnen Apps heraussuchen. Wie das US-Magazin Vice berichtet, ergab die Analyse der Kommunikation zweier Apps, dass diese auch dann Daten übertragen, wenn ausdrücklich der Erfassung der Daten widersprochen wurde. Gegenüber Vice macht Huq für dieses Verhalten die App-Entwickler verantwortlich. Diese dürften das SDK erst initialisieren, wenn eine Zustimmung vorliege.
+- (mho)
+- Keine News verpassen! Jeden Morgen der frische Nachrichtenüberblick von heise online
+- Ausführliche Informationen zum Versandverfahren und zu Ihren
+    Widerrufsmöglichkeiten erhalten Sie in unserer
+    Datenschutzerklärung.
+- 
+- All you can read: Alle Magazine und zusätzliche exklusive Artikel wie Tests, Ratgeber und Hintergrundberichte auf heise online lesen. Nur für kurze Zeit!
+
+URL: https://informationsecuritybuzz.com/expert-comments/location-data-collection-firm-admits-privacy-breach/
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cf5f42c5fd671e1
+•
+
+      Your IP:
+      Click to reveal
+31.193.221.194
+•
+
+Performance & security by Cloudflare
+
+URL: https://iapp.org/news/a/location-data-firms-technical-breach-from-lack-of-user-consent/
+- The day’s top stories from around the world
+- Where the real conversations in privacy happen
+- Original reporting and feature articles on the latest privacy developments
+- Alerts and legal analysis of legislative trends
+- Exploring the technology of privacy
+- A roundup of the top Canadian privacy news
+- A roundup of the top European data protection news
+- A roundup of the top privacy news from the Asia-Pacific region
+- A roundup of the top privacy news from Latin America
+- A roundup of US privacy news
+- Talk privacy and network with local members at IAPP KnowledgeNet Chapter meetings, taking place worldwide.
+- Have ideas? Need advice? Subscribe to the Privacy List. It’s crowdsourcing, with an exceptional crowd.
+- Looking for a new challenge, or need to hire your next privacy pro? The IAPP Job Board is the answer.
+- Locate and network with fellow privacy professionals using this peer-to-peer directory.
+- Review a filterable list of conferences, KnowledgeNets, LinkedIn Live broadcasts, networking events, web conferences and more.
+- Understand Europe’s framework of laws, regulations and policies, most significantly the GDPR.
+- Steer a course through the interconnected web of federal and state laws governing U.S. data privacy.
+- Learn the intricacies of Canada’s distinctive federal/provincial/territorial data privacy governance systems.
+- Develop the skills to design, build and operate a comprehensive data protection program.
+- Add to your tech knowledge with deep training in privacy-enhancing technologies and how to deploy them.
+- Introductory training that builds organizations of professionals with working privacy knowledge.
+- Learn the legal, operational and compliance requirements of the EU regulation and its global influence.
+- Meet the stringent requirements to earn this American Bar Association-certified designation.
+- The global standard for the go-to person for privacy laws, regulations and frameworks
+- The first and only privacy certification for professionals who manage day-to-day operations
+- As technology professionals take on greater privacy responsibilities, our updated certification is keeping pace with 50% new content covering the latest developments.
+- Recognizing the advanced knowledge and issue-spotting skills a privacy pro must attain in today’s complex world of data privacy.
+- The first title to verify you meet stringent requirements for knowledge, skill, proficiency and ethics in privacy law, and one of the ABA’s newest accredited specialties.
+- The IAPP’S CIPP/E and CIPM are the ANSI/ISO-accredited, industry-recognized combination for GDPR readiness. Learn more today.
+- Mostre seus conhecimentos na gestão do programa de privacidade e na legislação brasileira sobre privacidade.
+- Certification des compétences du DPO fondée sur la législation et règlementation française et européenne, agréée par la CNIL.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources covering AI connections to the privacy space.
+- This report explores the state of AI governance in organizations and its overlap with privacy management.
+- This report explores the compensation, both financial and nonfinancial, offered to privacy professionals.
+- This report shines a light on what consumers around the globe think about privacy and the companies that collect, hold and use their data.
+- This year’s governance report goes back to the foundations of governance, exploring “the way that organizations are managed, and the systems for doing this."
+- The IAPP’s US State Privacy Legislation Tracker consists of proposed and enacted comprehensive state privacy bills from across the U.S.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources related to international data transfers.
+- IAPP members can get up-to-date information here on the California Consumer Privacy Act and the California Privacy Rights Act.
+- Access all reports and surveys published by the IAPP.
+- Use the Vendor Demo Center, Privacy Vendor List and Privacy Tech Vendor Report to easily identify privacy products and services to support your work.
+- Leaders from across the country’s privacy field deliver insights, discuss trends, offer predictions and share best practices.
+- Hear expert speakers address the latest developments in data protection globally and in the Netherlands.
+- Hear top experts discuss global privacy issues and regulations affecting business across Asia.
+- Join top experts for practical discussions of issues and solutions for data protection in the DACH region.
+- P.S.R. 2023 is the place for speakers, workshops and networking focused on the intersection of privacy and technology.
+- Europe’s top experts predict the evolving landscape and give insights into best practices for your privacy operation.
+- Explore the full range of U.K. data protection issues, from global policy to daily operational details.
+- Expand your network and expertise at the world’s top privacy event featuring A-list keynotes and high-profile experts.
+- View our open calls and submission instructions.
+- Increase visibility for your organization — check out sponsorship opportunities today.
+- Start taking advantage of the many IAPP member benefits today
+- See our list of high-profile corporate members—and find out why you should become one, too
+- Don’t miss out for a minute—continue accessing your benefits
+- 
+- 
+- British location data firm Huq announced it experienced two "technical breaches" where third party applications did not obtain user consent before collecting location data, BBC News reports. Huq Chief Executive Conrad Poulson said, "Huq data is used anonymously. ... We strive to ensure consent is explicitly sought by all our app partners." Both apps revised their consent collection system and updated the app at the request of Huq. Full Story
+- If you want to comment on this post, you need to login.
+- The IAPP is the largest and most comprehensive global information privacy community and resource. Founded in 2000, the IAPP is a not-for-profit organization that helps define, promote and improve the privacy profession globally.
+- The IAPP is the only place you’ll find a comprehensive body of resources, knowledge and experts to help you navigate the complex landscape of today’s data-driven world. We offer individual, corporate and group memberships, and all members have access to an extensive array of benefits.
+- © 2023 International Association of Privacy Professionals.All rights reserved.
+- Pease International Tradeport, 75 Rochester Ave.Portsmouth, NH 03801 USA • +1 603.427.9200
+
+URL: https://yro.slashdot.org/story/21/10/28/1919238/location-data-firm-got-gps-data-from-apps-even-when-people-opted-out
+- Follow Slashdot blog updates by subscribing to our blog RSS feed
+- Nickname:
+- Password:
+- Nickname:
+- Password:
+- The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+- ... they can't actually be sure if some apps are respecting their explicit preferences around data sharing.
+Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?  If not, why not, 'cause that's the way it should work.
+- ... they can't actually be sure if some apps are respecting their explicit preferences around data sharing.
+- Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?  If not, why not, 'cause that's the way it should work.
+- ... they can't actually be sure if some apps are respecting their explicit preferences around data sharing.
+Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?  If not, why not, 'cause that's the way it should work.
+Adding: Presuming the data is via some permission that can be controlled on the device and not data the app needs to operate but the user has opted out of sharing upstream.  Circumventing the former is an OS problem, the latter an app-dick-move problem.
+- ... they can't actually be sure if some apps are respecting their explicit preferences around data sharing.
+Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?  If not, why not, 'cause that's the way it should work.
+- ... they can't actually be sure if some apps are respecting their explicit preferences around data sharing.
+- Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?  If not, why not, 'cause that's the way it should work.
+- Adding: Presuming the data is via some permission that can be controlled on the device and not data the app needs to operate but the user has opted out of sharing upstream.  Circumventing the former is an OS problem, the latter an app-dick-move problem.
+- Circumventing the former is an OS problem, the latter an app-dick-move problem.
+- This is a good summary.  The OS obviously can't stop the apps from breaking their own promises, but the app store should.  If an app promises not to share your data but does, the company should be kicked out of the app store and not allowed back.  It's the only way to make app makers take this kind of thing seriously.
+- Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?
+- This isn't about the OS level permissions regarding location information.  This is about the app's own promise not to share that information.  If there's an app that has legitimate need for your location and for internet access, there's nothing the OS can do to enforce the app's promises about what it will do with the data.
+- Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?This isn't about the OS level permissions regarding location information.  This is about the app's own promise not to share that information. 
+Thanks for confirming that. I actually followed up to my own comment to include/ask about this situation.
+- Um, doesn't (shouldn't) the OS restrict that access rather than relying on apps to "respect" those settings?
+- This isn't about the OS level permissions regarding location information.  This is about the app's own promise not to share that information.
+- Thanks for confirming that. I actually followed up to my own comment to include/ask about this situation.
+- I had the same question, so I skimmed the article and found this, which answers what’s going on:
+- In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+- In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+- I had the same question, so I skimmed the article and found this, which answers what’s going on: In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+Thanks, I missed that.
+- I had the same question, so I skimmed the article and found this, which answers what’s going on:
+- In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+- In recent years, both Apple and Google have given users more control over which permissions they give to specific apps. In the case of Huq, the Android-level permissions to allow or block Huq-affiliated apps access to GPS data are working as expected, but settings within the apps include options for opting-out of that location data then being shared with others. These app-level data sharing opt-outs are being ignored, according to the AppCensus’ and Motherboard’s tests.
+- Thanks, I missed that.
+- I turn off location in the settings and I think that kills everything.  Then if I need a map or something I want, I turn location on, use it, and turn it off. I get plenty of spam, and don't need location based spam too.
+- "This shows an urgent need for regulatory action," Joel Reardon, assistant professor at the University of Calgary and the forensics lead and co-founder of AppCensus, a company that analyzes apps, and who first flagged some of the issues around Huq to Motherboard, said in an email.âoe
+- Laws, regulations, rulesâ¦mere words unless there are real, enforceable consequences that actually HURT the offender. âoeOh no, we got hit with a multi-million dollar fine?  Oh no what will we do?  Now excuse me while I rake in billions in revenue to pay this pocket-change fine.â
+- Two strikes.  Thatâ(TM)s all you get. First strike, 50% of the highest yearly revenue in the companyâ(TM)s history. Second strike, 100% fine and dissolution.  Make it hurt.
+- But it has to be the corporate death penatly, just allowing their assets to be purchased in a bankruptcy auction won't solve the problem.
+- In fact, allowing assets to be purchased when the company is dissolved makes the problem much, much worse. A dead company cannot attach conditions to the sale of its assets including its data, so if one of these personal data hoovering companies goes bust, even worse companies can buy their data and use it without any conditions except legal limitations.
+- That's why this needs to be regulated by national law, and collecting this sort of data to sell onwards needs to be entirely illegal.
+- They should have known, it's right in the name!
+- Huq would be pronounced "Huck" as in "Huckster"!
+- Also, as far as I'm concerned, if an app requests system permission for something, assume the worst.  Just because they "promise not to be evil" today, it may not be the case tomorrow, or with a new management someday.
+- No, if an app requests permission, it's fair to assume they will (ab)use it as far as they are able.
+- Alright, this is truly weird.  In my personal profile, it shows a double print (duplicate) of the last 2 posts I made, prior to this one.  IOW I had my most recent post from another thread in my profile, then after making the above post, I now see TWO of the older post from the other topic, instead of seeing the above post!  I believe my profile is public so people can see it, if you don't believe it, check it out here:
+- https://slashdot.org/~Mister+T... [slashdot.org]
+- Something with the post database is fucked up somehow, a
+- Wow, it got even weirder.
+- The above post didn't show up AT ALL in my profile!  The "most recent" post shown is the one from the other thread (the duplicate) but now it's different.  The post title is duplicated, but the body is not.  It shows the 2nd post down's body, but the title of the post is a dupe of the most recent, well the one at the top.
+- More disturbing, the duplicated post title of the 2nd post in my profile appears as the actual post title in the big thread to which it was posted, so the indexing
+- Expect that if you opt out of GPS tracking data being sent, you are more likely to have it collected.
+- Understand that if you are doing something where you don't want to be tracked, you turn your phone off, and place it in a metal box.
+- a
+
+It's a simple matter, really. Unless you see the code, and see who your phone is communicating with, you are placing a whole lot of trust in something that might be doing just about anything.
+- Y
+- There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+- Global Covid Cases and Deaths Rise for the First Time in Two Months, WHO Says
+- US Climate Credibility on the Line as Biden Heads To COP26
+- The beer-cooled computer does not harm the ozone layer.
+		-- John M. Ford, a.k.a. Dr. Mike
+
+- Tamoco location data sharing
+- Crisis Text Line data sharing
+- Page infoType: IncidentPublished: October 2021

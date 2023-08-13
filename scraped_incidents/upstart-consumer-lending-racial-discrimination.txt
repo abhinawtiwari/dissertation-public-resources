@@ -1,0 +1,1899 @@
+- Occurred: September 2022
+- Can you improve this page?Share your insights with us
+- Law firm Relman Colfax has found that a loan decision model deployed by San Mateo-based AI consumer lender Upstart produced 'significant disparities' in how often loans were made to Black and non-Hispanic white borrowers.
+- Upstart assesses and predicts creditworthiness using so-called 'Alternative Data', including a person's educational and employment history. The company says its approach is more inclusive than the underwriting methods used by many banks.
+- The AI lender claims its algorithmic lending model approved 30% more Black borrowers than traditional models in 2020. However, academic research published in January 2022 indicates discriminatory pricing exists in both traditional and fintech lending.
+- In July 2022, Upstart directors were hit by a class-action investor lawsuit claiming it made false and misleading statements about its  business, operations, and prospects.
+- The company went public in 2020.
+- Operator: Upstart Holdings; Multiple Developer: Upstart HoldingsCountry: USASector: Banking/Financial services Purpose: Assess creditworthiness Technology: Machine learning Issue: Bias/discrimination - race, ethnicity, education, employment Transparency: Governance; Black box; Marketing - misleading
+URL: https://en.wikipedia.org/wiki/Upstart_Holdings
+- 
+- Upstart is an AI lending platform that partners with banks and credit unions to provide consumer loans using non-traditional variables, such as education and employment, to predict creditworthiness.
+- The founding team includes Dave Girouard, former President of Enterprise Google, Paul Gu, a Thiel Fellow, and Anna Counselman, former Manager of Global Enterprise Customer Programs and Gmail Consumer Operations at Google.[2]
+- Upstart first launched in April 2012 with an Income Share Agreement (ISA) product, which enabled individuals to raise money by contracting to share a percent of their future income. In May 2014, Upstart pivoted away from this product and toward the personal loan marketplace.[3] With this pivot, Upstart began offering a traditional 3-year loan, and has since expanded to offer a 5-year loan product as well.
+- Upstart developed an income and default prediction model to determine creditworthiness of a potential borrower. This means that in addition to traditional underwriting criteria—FICO score, credit report, and income—the Upstart underwriting considers education variables—colleges attended, area of study, GPA, and standardized test scores— and work history to develop a statistical model of the borrower's financial capacity and personal propensity to repay.[4]
+- Upstart raised a $1.75M seed round from First Round Capital, Kleiner Perkins Caufield & Byers, New Enterprise Associates, Google Ventures, Crunchfund and Mark Cuban. They subsequently raised a series A round of $5.9M which included new investors Eric Schmidt (Google Executive Chairman), Marc Benioff, Khosla Ventures, Correlation Ventures, Founders Fund, and Collaborative Fund.[2]  Upstart raised a Series C round of $35M from Third Point Capital in June 2015,[5] and $32.5M from Rakuten in 2017.[6] Upstart raised a Series D round of $50M from The Progressive Corporation in 2019.[7]
+- In late 2020, Upstart went public via an IPO.[8]
+
+URL: https://www.upstart.com/
+- Please stand by, while we are checking your browser...
+- Redirecting...
+- Please enable Cookies and reload the page.
+
+URL: https://ir.upstart.com/news-releases/news-release-details/upstart-announces-second-quarter-2022-results
+- SAN MATEO, Calif.--(BUSINESS WIRE)--Aug. 8, 2022--
+Upstart Holdings, Inc. (NASDAQ: UPST), a leading artificial intelligence (AI) lending marketplace, today announced financial results for its second quarter of fiscal year 2022 ended June 30, 2022. Upstart will host a conference call and webcast at 1:30 p.m. Pacific Time today. An earnings presentation and link to the webcast are available at ir.upstart.com.
+- “This quarter’s results are disappointing and reflect a difficult macroeconomic environment that led to funding constraints in our marketplace,” said Dave Girouard, co-founder and CEO of Upstart. “In response we’re taking the necessary actions to build a more resilient and committed funding model over time. We're confident that our AI-based risk model is more accurate than ever, and provides the opportunity for long-term, sustainable growth.”
+- Second Quarter 2022 Financial Highlights
+- Financial Outlook
+- For the third quarter of 2022, Upstart expects:
+- Upstart has not reconciled the forward-looking non-GAAP measures above to comparable forward-looking GAAP measures because of the potential variability and uncertainty of incurring these costs and expenses in the future. Accordingly, a reconciliation is not available without unreasonable effort.
+- Key Operating Metrics and Non-GAAP Financial Measures
+- For a description of our key operating measures, please see the section titled “Key Operating Metrics” below.
+- Reconciliations of non-GAAP financial measures to the most directly comparable financial results as determined in accordance with GAAP are included at the end of this press release following the accompanying financial data. For a description of these non-GAAP financial measures, including the reasons management uses each measure, please see the section titled "About Non-GAAP Financial Measures” below.
+- Conference Call and Webcast
+- About Upstart
+- Upstart is a leading AI lending marketplace partnering with banks and credit unions to expand access to affordable credit. By leveraging Upstart’s AI marketplace, Upstart-powered banks and credit unions can have higher approval rates and lower loss rates for every race, ethnicity, age, and gender, while simultaneously delivering the exceptional digital-first lending experience their customers demand. More than two-thirds of Upstart loans are approved instantly and are fully automated. Upstart was founded by ex-Googlers in 2012 and is based in San Mateo, California and Columbus, Ohio.
+- Forward-Looking Statements
+- This press release contains forward-looking statements, including but not limited to, statements regarding our outlook for the third quarter of 2022. You can identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. These statements may include words such as "anticipate", "estimate", "expect", "project", "plan", "intend", “target”, “aim”, "believe", "may", "will", "should", “becoming”, “look forward”, “could”, "can have", "likely" and other words and terms of similar meaning in connection with any discussion of the timing or nature of future operating or financial performance or other events. Forward-looking statements give our current expectations and projections relating to our financial condition; macroeconomic factors; plans; objectives; product development; growth opportunities; assumptions; risks; future performance; business; and any investments; and results of operations, including revenue, contribution margin, net income (loss), non-GAAP adjusted net income, adjusted EBITDA, adjusted EBITDA margin, basic weighted-average share count and diluted weighted-average share count. Neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. The forward-looking statements included in this press release and on the related teleconference call relate only to events as of the date hereof. Upstart undertakes no obligation to update or revise any forward-looking statement as a result of new information, future events or otherwise, except as otherwise required by law.
+- All forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those that we expected. More information about factors that could affect our results of operations and risks and uncertainties are provided in our public filings with the Securities and Exchange Commission, copies of which may be obtained by visiting our investor relations website at www.upstart.com or the SEC’s website at www.sec.gov. These risks and uncertainties include, but are not limited to, our ability to sustain our growth rates; the effectiveness of our credit decisioning models and risk management efforts; overall economic conditions, including interest rate changes; geopolitical events, such as the Russia-Ukraine conflict; disruptions in the credit markets; our ability to retain existing, and attract new, bank partners and lenders; our ability to access sufficient loan funding; and our ability to operate successfully in a highly-regulated industry.
+- Key Operating Metrics
+- We review a number of operating metrics, including transaction volume, dollars; transaction volume, number of loans; and conversion rate to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans and make strategic decisions.
+- We define “transaction volume, dollars” as the total principal of loans transacted on our platform between a borrower and the originating bank during the period presented. We define “transaction volume, number of loans” as the number of loans facilitated on our platform between a borrower and the originating bank during the period presented. We believe these metrics are good proxies for our overall scale and reach as a platform.
+- We define “conversion rate” as the number of loans transacted in a period divided by the number of rate inquiries received that we estimate to be legitimate, which we record when a borrower requests a loan offer on our platform. We track this metric to understand the impact of improvements to the efficiency of our borrower funnel on our overall growth.
+- About Non-GAAP Financial Measures
+- In addition to our results determined in accordance with generally accepted accounting principles in the United States (“GAAP”), we believe the non-GAAP measures of contribution profit, contribution margin, adjusted EBITDA, adjusted EBITDA margin, adjusted net income, and adjusted net income per share are useful in evaluating our operating performance. Certain of these non-GAAP measures exclude stock-based compensation and certain payroll tax expense, warrant expenses, depreciation, amortization, and other non-operating expenses. We exclude stock-based compensation and income and expense on warrants and other non-operating expenses because they are non-cash in nature and excluded in order to facilitate comparisons to other companies’ results.
+- We believe non-GAAP information is useful in evaluating the operating results, ongoing operations, and for internal planning and forecasting purposes. We also believe that non-GAAP financial measures provide consistency and comparability with past financial performance and assist investors with comparing Upstart to other companies, some of which use similar non-GAAP financial measures to supplement their GAAP results. Non-GAAP financial measures are presented for supplemental informational purposes only and should not be considered a substitute for financial information presented in accordance with GAAP and may be different from similarly titled non-GAAP financial measures used by other companies.
+- Key limitations of our non-GAAP financial measures include:
+- Reconciliation tables of the most comparable GAAP financial measures to the non-GAAP financial measures used in this press release are included below.
+- UPSTART HOLDINGS, INC.
+- CONSOLIDATED BALANCE SHEETS
+- (In Thousands, Except Share and Per Share Data)
+- (Unaudited)
+- 
+- December 31,
+- 
+- June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 2022
+- Assets
+- 
+- 
+- 
+- Cash
+- $
+- 986,608
+- 
+- $
+- 790,431
+- Restricted cash
+- 
+- 204,633
+- 
+- 
+- 123,990
+- Loans (at fair value)
+- 
+- 252,477
+- 
+- 
+- 623,763
+- Property, equipment, and software, net
+- 
+- 24,259
+- 
+- 
+- 36,054
+- Operating lease right of use assets
+- 
+- 96,118
+- 
+- 
+- 90,352
+- Non-marketable equity securities
+- 
+- 40,000
+- 
+- 
+- 41,000
+- Goodwill
+- 
+- 67,062
+- 
+- 
+- 67,062
+- Intangible assets, net
+- 
+- 19,906
+- 
+- 
+- 17,768
+- Other assets (includes $26,676 and $39,869 at fair value as of December 31, 2021 and June 30, 2022, respectively)
+- 
+- 129,392
+- 
+- 
+- 126,598
+- Total assets
+- $
+- 1,820,455
+- 
+- $
+- 1,917,018
+- 
+- Liabilities and Stockholders’ Equity
+- 
+- 
+- 
+- Liabilities:
+- 
+- 
+- 
+- Accounts payable
+- $
+- 6,563
+- 
+- $
+- 22,030
+- Payable to investors
+- 
+- 107,598
+- 
+- 
+- 105,712
+- Borrowings
+- 
+- 695,432
+- 
+- 
+- 856,555
+- Accrued expenses and other liabilities (includes $13,095 and $11,812 at fair value as of December 31, 2021 and June 30, 2022, respectively)
+- 
+- 103,418
+- 
+- 
+- 75,785
+- Operating lease liabilities
+- 
+- 100,366
+- 
+- 
+- 99,865
+- Total liabilities
+- 
+- 1,013,377
+- 
+- 
+- 1,159,947
+- Stockholders’ equity:
+- 
+- 
+- 
+- Common stock, $0.0001 par value; 700,000,000 shares authorized; 83,659,665 and 82,188,372, shares issued and outstanding as of December 31, 2021 and June 30, 2022, respectively
+- 
+- 8
+- 
+- 
+- 8
+- Additional paid-in capital
+- 
+- 740,849
+- 
+- 
+- 688,021
+- Retained earnings
+- 
+- 66,221
+- 
+- 
+- 69,042
+- Total stockholders’ equity
+- 
+- 807,078
+- 
+- 
+- 757,071
+- Total liabilities and stockholders’ equity
+- $
+- 1,820,455
+- 
+- $
+- 1,917,018
+- UPSTART HOLDINGS, INC.
+- CONSOLIDATED STATEMENTS OF OPERATIONS and COMPREHENSIVE INCOME (LOSS)
+- (In Thousands, Except Share and Per Share Data)
+- (Unaudited)
+- 
+- Three Months Ended June 30,
+- 
+- Six Months Ended June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- Revenue:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Revenue from fees, net
+- $
+- 187,297
+- 
+- 
+- $
+- 258,345
+- 
+- 
+- $
+- 303,467
+- 
+- 
+- $
+- 572,327
+- 
+- Interest income and fair value adjustments, net
+- 
+- 6,649
+- 
+- 
+- 
+- (30,183
+- )
+- 
+- 
+- 11,824
+- 
+- 
+- 
+- (34,029
+- )
+- Total revenue
+- 
+- 193,946
+- 
+- 
+- 
+- 228,162
+- 
+- 
+- 
+- 315,291
+- 
+- 
+- 
+- 538,298
+- 
+- Operating expenses:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Sales and marketing
+- 
+- 75,916
+- 
+- 
+- 
+- 105,212
+- 
+- 
+- 
+- 125,292
+- 
+- 
+- 
+- 238,661
+- 
+- Customer operations
+- 
+- 24,164
+- 
+- 
+- 
+- 51,072
+- 
+- 
+- 
+- 41,552
+- 
+- 
+- 
+- 99,479
+- 
+- Engineering and product development
+- 
+- 31,431
+- 
+- 
+- 
+- 57,045
+- 
+- 
+- 
+- 50,419
+- 
+- 
+- 
+- 107,036
+- 
+- General, administrative, and other
+- 
+- 26,141
+- 
+- 
+- 
+- 46,940
+- 
+- 
+- 
+- 46,160
+- 
+- 
+- 
+- 90,396
+- 
+- Total operating expenses
+- 
+- 157,652
+- 
+- 
+- 
+- 260,269
+- 
+- 
+- 
+- 263,423
+- 
+- 
+- 
+- 535,572
+- 
+- Income (loss) from operations
+- 
+- 36,294
+- 
+- 
+- 
+- (32,107
+- )
+- 
+- 
+- 51,868
+- 
+- 
+- 
+- 2,726
+- 
+- Other income (expense)
+- 
+- 2
+- 
+- 
+- 
+- 2,260
+- 
+- 
+- 
+- (5,249
+- )
+- 
+- 
+- 138
+- 
+- Net income (loss) before income taxes
+- 
+- 36,296
+- 
+- 
+- 
+- (29,847
+- )
+- 
+- 
+- 46,619
+- 
+- 
+- 
+- 2,864
+- 
+- (Benefit) provision for income taxes
+- 
+- (988
+- )
+- 
+- 
+- 24
+- 
+- 
+- 
+- (767
+- )
+- 
+- 
+- 43
+- 
+- Net income (loss)
+- $
+- 37,284
+- 
+- 
+- $
+- (29,871
+- )
+- 
+- $
+- 47,386
+- 
+- 
+- $
+- 2,821
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Net income (loss) per share, basic
+- $
+- 0.49
+- 
+- 
+- $
+- (0.36
+- )
+- 
+- $
+- 0.63
+- 
+- 
+- $
+- 0.03
+- 
+- Net income (loss) per share, diluted
+- $
+- 0.39
+- 
+- 
+- $
+- (0.36
+- )
+- 
+- $
+- 0.51
+- 
+- 
+- $
+- 0.03
+- 
+- Weighted-average number of shares outstanding used in computing net income (loss) per share, basic
+- 
+- 76,674,129
+- 
+- 
+- 
+- 83,833,963
+- 
+- 
+- 
+- 75,160,037
+- 
+- 
+- 
+- 84,031,109
+- 
+- Weighted-average number of shares outstanding used in computing net income (loss) per share, diluted
+- 
+- 94,802,123
+- 
+- 
+- 
+- 83,833,963
+- 
+- 
+- 
+- 93,193,153
+- 
+- 
+- 
+- 94,509,060
+- 
+- UPSTART HOLDINGS, INC.
+- CONSOLIDATED STATEMENTS OF CASH FLOWS
+- (In Thousands)
+- (Unaudited)
+- 
+- Six Months Ended June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- Cash flows from operating activities
+- 
+- 
+- 
+- Net income
+- $
+- 47,386
+- 
+- 
+- $
+- 2,821
+- 
+- Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+- 
+- 
+- 
+- Change in fair value of financial instruments
+- 
+- (4,167
+- )
+- 
+- 
+- 49,103
+- 
+- Stock-based compensation
+- 
+- 29,808
+- 
+- 
+- 
+- 55,379
+- 
+- Gain on loan servicing arrangement, net
+- 
+- (2,102
+- )
+- 
+- 
+- (17,732
+- )
+- Depreciation and amortization
+- 
+- 2,799
+- 
+- 
+- 
+- 6,135
+- 
+- Non-cash interest expense
+- 
+- 216
+- 
+- 
+- 
+- 1,537
+- 
+- Net changes in operating assets and liabilities:
+- 
+- 
+- 
+- Purchase of loans for immediate resale
+- 
+- (3,414,231
+- )
+- 
+- 
+- (4,797,036
+- )
+- Proceeds from immediate resale of loans
+- 
+- 3,414,231
+- 
+- 
+- 
+- 4,797,036
+- 
+- Purchase of loans held-for-sale
+- 
+- (38,311
+- )
+- 
+- 
+- (1,125,765
+- )
+- Principal payments received for loans held-for-sale
+- 
+- 3,676
+- 
+- 
+- 
+- 66,790
+- 
+- Proceeds from sale of loans held-for-sale
+- 
+- 57,183
+- 
+- 
+- 
+- 634,599
+- 
+- Other assets
+- 
+- (19,651
+- )
+- 
+- 
+- 13,196
+- 
+- Operating lease liability and right-of-use asset
+- 
+- 448
+- 
+- 
+- 
+- 5,265
+- 
+- Accounts payable
+- 
+- 3,380
+- 
+- 
+- 
+- 15,079
+- 
+- Payable to investors
+- 
+- 31,446
+- 
+- 
+- 
+- (1,886
+- )
+- Accrued expenses and other liabilities
+- 
+- 23,785
+- 
+- 
+- 
+- (24,959
+- )
+- Net cash provided by (used in) operating activities
+- 
+- 135,896
+- 
+- 
+- 
+- (320,438
+- )
+- 
+- 
+- 
+- 
+- Cash flows from investing activities
+- 
+- 
+- 
+- Purchase of loans held-for-investment
+- 
+- (42,548
+- )
+- 
+- 
+- (13,876
+- )
+- Proceeds from sale of loans held-for-investment
+- 
+- 9,718
+- 
+- 
+- 
+- 83
+- 
+- Principal payments received for loans held-for-investment
+- 
+- 7,488
+- 
+- 
+- 
+- 18,524
+- 
+- Principal payments received for notes receivable and repayments of residual certificates
+- 
+- 6,349
+- 
+- 
+- 
+- 3,912
+- 
+- Purchase of non-marketable equity security
+- 
+- —
+- 
+- 
+- 
+- (1,000
+- )
+- Purchase of property and equipment
+- 
+- (1,997
+- )
+- 
+- 
+- (5,578
+- )
+- Capitalized software costs
+- 
+- (2,148
+- )
+- 
+- 
+- (6,829
+- )
+- Acquisition, net of cash acquired
+- 
+- (16,561
+- )
+- 
+- 
+- —
+- 
+- Net cash used in investing activities
+- 
+- (39,699
+- )
+- 
+- 
+- (4,764
+- )
+- 
+- 
+- 
+- 
+- Cash flows from financing activities
+- 
+- 
+- 
+- Repurchases of common stock
+- 
+- —
+- 
+- 
+- 
+- (125,042
+- )
+- Proceeds from secondary offering, net of underwriting discounts, commissions, and offering costs
+- 
+- 263,931
+- 
+- 
+- 
+- —
+- 
+- Proceeds from borrowings
+- 
+- 5,831
+- 
+- 
+- 
+- 261,199
+- 
+- Repayments of borrowings
+- 
+- (62,455
+- )
+- 
+- 
+- (101,613
+- )
+- Taxes paid related to net share settlement of equity awards
+- 
+- (236
+- )
+- 
+- 
+- —
+- 
+- Proceeds from issuance of common stock under employee stock purchase plan
+- 
+- —
+- 
+- 
+- 
+- 4,431
+- 
+- Proceeds from exercise of stock options
+- 
+- 2,932
+- 
+- 
+- 
+- 9,407
+- 
+- Net cash provided by financing activities
+- 
+- 210,003
+- 
+- 
+- 
+- 48,382
+- 
+- Change in cash and restricted cash
+- 
+- 306,200
+- 
+- 
+- 
+- (276,820
+- )
+- Cash and restricted cash at beginning of period
+- 
+- 311,333
+- 
+- 
+- 
+- 1,191,241
+- 
+- Cash and restricted cash at end of period
+- $
+- 617,533
+- 
+- 
+- $
+- 914,421
+- 
+- ​​
+- UPSTART HOLDINGS, INC.
+- RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+- (In Thousands, Except Share and Per Share Data)
+- (Unaudited)
+- 
+- Three Months Ended June 30,
+- 
+- Six Months Ended June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- Revenue from fees, net
+- $
+- 187,297
+- 
+- 
+- $
+- 258,345
+- 
+- 
+- $
+- 303,467
+- 
+- 
+- $
+- 572,327
+- 
+- Income (loss) from operations
+- 
+- 36,294
+- 
+- 
+- 
+- (32,107
+- )
+- 
+- 
+- 51,868
+- 
+- 
+- 
+- 2,726
+- 
+- Operating Margin
+- 
+- 19
+- %
+- 
+- 
+- (12
+- ) %
+- 
+- 
+- 17
+- %
+- 
+- 
+- 0
+- %
+- Sales and marketing, net of borrower acquisition costs(1)
+- $
+- 4,984
+- 
+- 
+- $
+- 11,927
+- 
+- 
+- $
+- 8,237
+- 
+- 
+- $
+- 21,562
+- 
+- Customer operations, net of borrower verification and servicing costs(2)
+- 
+- 4,469
+- 
+- 
+- 
+- 6,941
+- 
+- 
+- 
+- 7,595
+- 
+- 
+- 
+- 13,021
+- 
+- Engineering and product development
+- 
+- 31,431
+- 
+- 
+- 
+- 57,045
+- 
+- 
+- 
+- 50,419
+- 
+- 
+- 
+- 107,036
+- 
+- General, administrative, and other
+- 
+- 26,141
+- 
+- 
+- 
+- 46,940
+- 
+- 
+- 
+- 46,160
+- 
+- 
+- 
+- 90,396
+- 
+- Interest income and fair value adjustments, net
+- 
+- (6,649
+- )
+- 
+- 
+- 30,183
+- 
+- 
+- 
+- (11,824
+- )
+- 
+- 
+- 34,029
+- 
+- Contribution Profit
+- $
+- 96,670
+- 
+- 
+- $
+- 120,929
+- 
+- 
+- $
+- 152,455
+- 
+- 
+- $
+- 268,770
+- 
+- Contribution Margin
+- 
+- 52
+- %
+- 
+- 
+- 47
+- %
+- 
+- 
+- 50
+- %
+- 
+- 
+- 47
+- %
+- (1)
+- Borrower acquisition costs were $70.9 million and $93.3 million for the three months ended June 30, 2021 and 2022, respectively, and were $117.1 million and $217.1 million for the six months ended June 30, 2021 and 2022, respectively. Borrower acquisition costs consist of our sales and marketing expenses adjusted to exclude costs not directly attributable to attracting a new borrower, such as payroll-related expenses for our business development and marketing teams, as well as other operational, brand awareness and marketing activities.
+- (2)
+- Borrower verification and servicing costs were $19.7 million and $44.1 million for the three months ended June 30, 2021 and 2022, respectively, and were $34.0 million and $86.5 million for the six months ended June 30, 2021 and 2022, respectively. Borrower verification and servicing costs consist of payroll and other personnel-related expenses for personnel engaged in loan onboarding, verification and servicing, as well as servicing system costs. It excludes payroll and personnel-related expenses and stock-based compensation for certain members of our customer operations team whose work is not directly attributable to onboarding and servicing loans.
+- UPSTART HOLDINGS, INC.
+- RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+- (In Thousands, Except Share and Per Share Data)
+- (Unaudited)
+- 
+- Three Months Ended June 30,
+- 
+- Six Months Ended June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- 
+- 
+- 2021
+- 
+- 
+- 
+- 2022
+- 
+- Total revenue
+- $
+- 193,946
+- 
+- 
+- $
+- 228,162
+- 
+- 
+- $
+- 315,291
+- 
+- 
+- $
+- 538,298
+- 
+- Net income (loss)
+- 
+- 37,284
+- 
+- 
+- 
+- (29,871
+- )
+- 
+- 
+- 47,386
+- 
+- 
+- 
+- 2,821
+- 
+- Net Income (loss) Margin
+- 
+- 19
+- %
+- 
+- 
+- (13
+- ) %
+- 
+- 
+- 15
+- %
+- 
+- 
+- 1
+- %
+- Adjusted to exclude the following:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Stock-based compensation and certain payroll tax expenses(1)
+- $
+- 21,186
+- 
+- 
+- $
+- 30,836
+- 
+- 
+- $
+- 29,808
+- 
+- 
+- $
+- 56,765
+- 
+- Depreciation and amortization
+- 
+- 1,983
+- 
+- 
+- 
+- 3,354
+- 
+- 
+- 
+- 2,799
+- 
+- 
+- 
+- 6,135
+- 
+- Expense on convertible notes
+- 
+- 13
+- 
+- 
+- 
+- 1,170
+- 
+- 
+- 
+- 31
+- 
+- 
+- 
+- 2,339
+- 
+- (Benefit) provision for income taxes
+- 
+- (988
+- )
+- 
+- 
+- 24
+- 
+- 
+- 
+- (767
+- )
+- 
+- 
+- 43
+- 
+- Acquisition-related costs
+- 
+- 17
+- 
+- 
+- 
+- —
+- 
+- 
+- 
+- 1,237
+- 
+- 
+- 
+- —
+- 
+- Adjusted EBITDA
+- $
+- 59,495
+- 
+- 
+- $
+- 5,513
+- 
+- 
+- $
+- 80,494
+- 
+- 
+- $
+- 68,103
+- 
+- Adjusted EBITDA Margin
+- 
+- 31
+- %
+- 
+- 
+- 2
+- %
+- 
+- 
+- 26
+- %
+- 
+- 
+- 13
+- %
+- Excludes the amount of employer payroll tax-related expense on employee stock transactions, as the amount is dependent on our stock price and other factors that are beyond our control and do not correlate to the operation of our business.
+- UPSTART HOLDINGS, INC.
+- RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+- (In Thousands, Except Share and Per Share Data)
+- (Unaudited)
+- 
+- Three Months Ended June 30,
+- 
+- Six Months Ended June 30,
+- 
+- 
+- 2021
+- 
+- 
+- 2022
+- 
+- 
+- 
+- 2021
+- 
+- 
+- 2022
+- Net income (loss)
+- $
+- 37,284
+- 
+- $
+- (29,871
+- )
+- 
+- $
+- 47,386
+- 
+- $
+- 2,821
+- Adjusted to exclude the following:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Stock-based compensation and certain payroll tax expenses(1)
+- 
+- 21,186
+- 
+- 
+- 30,836
+- 
+- 
+- 
+- 29,808
+- 
+- 
+- 56,765
+- Acquisition-related costs
+- 
+- 17
+- 
+- 
+- —
+- 
+- 
+- 
+- 1,237
+- 
+- 
+- —
+- Adjusted Net Income
+- $
+- 58,487
+- 
+- $
+- 965
+- 
+- 
+- $
+- 78,431
+- 
+- $
+- 59,586
+- Net income (loss) per share:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Basic
+- $
+- 0.49
+- 
+- $
+- (0.36
+- )
+- 
+- $
+- 0.63
+- 
+- $
+- 0.03
+- Diluted
+- $
+- 0.39
+- 
+- $
+- (0.36
+- )
+- 
+- $
+- 0.51
+- 
+- $
+- 0.03
+- Adjusted Net Income per Share:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Basic
+- $
+- 0.76
+- 
+- $
+- 0.01
+- 
+- 
+- $
+- 1.04
+- 
+- $
+- 0.71
+- Diluted
+- $
+- 0.62
+- 
+- $
+- 0.01
+- 
+- 
+- $
+- 0.84
+- 
+- $
+- 0.63
+- Weighted-average common shares outstanding:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Basic
+- 
+- 76,674,129
+- 
+- 
+- 83,833,963
+- 
+- 
+- 
+- 75,160,037
+- 
+- 
+- 84,031,109
+- Diluted
+- 
+- 94,802,123
+- 
+- 
+- 93,340,659
+- 
+- 
+- 
+- 93,193,153
+- 
+- 
+- 94,509,060
+- Excludes the amount of employer payroll tax-related expense on employee stock transactions, as the amount is dependent on our stock price and other factors that are beyond our control and do not correlate to the operation of our business.
+- 
+- 
+- View source version on businesswire.com: https://www.businesswire.com/news/home/20220808005712/en/
+- Press
+press@upstart.com
+- Investors
+Jason SchmidtVice President, investor Relations
+ir@upstart.com
+- 
+- Source: Upstart Holdings, Inc.
+- Footer
+
+URL: https://www.businesswire.com/news/home/20220513005551/en/INVESTOR-ALERT-Upstart-Holdings-Inc.-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-the-Upstart-Class-Action-Lawsuit---UPST
+- SAN DIEGO--(BUSINESS WIRE)--Robbins Geller Rudman & Dowd LLP announces that purchasers of Upstart Holdings, Inc. (NASDAQ: UPST) securities between November 9, 2021 and May 9, 2022, inclusive (the “Class Period”) have until July 12, 2022 to seek appointment as lead plaintiff in Ward v. Upstart Holdings, Inc., No. 22-cv-02856 (N.D. Cal.). Commenced on May 13, 2022, the Upstart class action lawsuit – captioned Ward v. Upstart Holdings, Inc., No. 22-cv-02856 (N.D. Cal.) – charges Upstart and certain of its top executive officers with violations of the Securities Exchange Act of 1934.
+- 
+- If you suffered significant losses and wish to serve as lead plaintiff of the Upstart class action lawsuit, provide your information here:
+- https://www.rgrdlaw.com/cases-upstart-holdings-inc-class-action-lawsuit-upst.html
+- You can also contact attorney J.C. Sanchez of Robbins Geller by calling 800/449-4900 or via e-mail at jsanchez@rgrdlaw.com. Lead plaintiff motions for the Upstart class action lawsuit must be filed with the court no later than July 12, 2022.
+- CASE ALLEGATIONS: Upstart is a cloud-based artificial intelligence (“AI”) lending platform. Upstart claims that “AI lending enables a superior loan product with improved economics that can be shared between consumers and lenders.” Moreover, Upstart “leverage[s] the power of AI to more accurately quantify the true risk of a loan.” Upstart recognizes revenue primarily from fees paid by banks.
+- The Upstart class action lawsuit alleges that, throughout the Class Period, defendants made false and misleading statements and failed to disclose that: (i) Upstart’s AI model could not adequately account for macroeconomic factors such as interest rates that impact the market-clearing price for loans; (ii) as a result, Upstart was experiencing negative impact on its conversion rate; (iii) thus, Upstart was reasonably likely to use its balance sheet to fund loans; and (iv) consequently, defendants’ positive statements about Upstart’s business, operations, and prospects were materially false and/or misleading and/or lacked a reasonable basis.
+- On May 9, 2022, Upstart announced its first quarter 2022 financial results in a press release. Therein, Upstart reduced its fiscal 2022 guidance, expecting revenue of approximately $1.25 billion and contribution margin of 48%. During the related conference call, Upstart’s Chief Financial Officer cited “rising interest rates and rising consumer delinquencies putting downward pressure on conversion.” On this news, Upstart’s stock price fell approximately 56%, damaging investors.
+- THE LEAD PLAINTIFF PROCESS: The Private Securities Litigation Reform Act of 1995 permits any investor who purchased Upstart securities during the Class Period to seek appointment as lead plaintiff in the Upstart class action lawsuit. A lead plaintiff is generally the movant with the greatest financial interest in the relief sought by the putative class who is also typical and adequate of the putative class. A lead plaintiff acts on behalf of all other class members in directing the Upstart class action lawsuit. The lead plaintiff can select a law firm of its choice to litigate the Upstart class action lawsuit. An investor’s ability to share in any potential future recovery of the Upstart class action lawsuit is not dependent upon serving as lead plaintiff.
+- ABOUT ROBBINS GELLER RUDMAN & DOWD LLP: Robbins Geller Rudman & Dowd LLP is one of the world’s leading complex class action firms representing plaintiffs in securities fraud cases. The Firm is ranked #1 on the 2021 ISS Securities Class Action Services Top 50 Report for recovering nearly $2 billion for investors last year alone – more than triple the amount recovered by any other plaintiffs’ firm. With 200 lawyers in 9 offices, Robbins Geller’s attorneys have obtained many of the largest securities class action recoveries in history, including the largest securities class action recovery ever – $7.2 billion – in In re Enron Corp. Sec. Litig. Please visit the following page for more information:
+- https://www.rgrdlaw.com/services-litigation-securities-fraud.html
+- Attorney advertising.
+Past results do not guarantee future outcomes.
+Services may be performed by attorneys in any of our offices.
+- Robbins Geller Rudman & Dowd LLP
+655 W. Broadway, San Diego, CA 92101
+J.C. Sanchez, 800-449-4900
+jsanchez@rgrdlaw.com 
+
+https://www.linkedin.com/company/rgrdlaw 
+https://twitter.com/rgrdlaw 
+https://www.facebook.com/rgrdlaw
+- The suit alleges defendants issued false statements concerning Upstart business and prospects, resulting in its stock trading at inflated prices.
+- Robbins Geller Rudman & Dowd LLP
+655 W. Broadway, San Diego, CA 92101
+J.C. Sanchez, 800-449-4900
+jsanchez@rgrdlaw.com 
+
+https://www.linkedin.com/company/rgrdlaw 
+https://twitter.com/rgrdlaw 
+https://www.facebook.com/rgrdlaw
+
+URL: https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-girouardd-20210507.pdf
+
+URL: https://www.relmanlaw.com/media/news/1332_PUBLIC_Upstart_Monitorship_3rd_Report_FINAL.pdf
+
+URL: https://www.relmanlaw.com/media/news/1182_PUBLIC%20Upstart%20Monitorship_2nd%20Report_FINAL.pdf
+
+URL: https://www.relmanlaw.com/media/cases/1086_Upstart%20Initial%20Report%20-%20Final.pdf
+
+URL: https://www.sciencedirect.com/science/article/abs/pii/S0304405X21002403?via%3Dihub
+- Please contact us via our
+                            support center for more information and provide the details below.
+- Reference Number: 7cf5d71e1e7371c6
+- IP Address: 31.193.221.194
+- Timestamp:
+- About ScienceDirect
+Shopping cart
+Contact and
+                                supportTerms and
+                                conditionsPrivacy policy
+- We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the
+                        use of
+                                cookies.
+- Copyright ©
+                        2020
+                        Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+
+URL: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=6335&context=wvlr
+
+URL: https://www.degruyter.com/document/doi/10.1515/9783110749472-006/pdf
+
+URL: https://protectborrowers.org/wp-content/uploads/2020/02/Education-Redlining-Report.pdf
+
+URL: https://www.americanbanker.com/news/upstart-says-its-improving-ai-models-after-report-finds-race-approval-disparities
+
+URL: https://www.americanbanker.com/news/fresh-off-ipo-upstart-aims-to-push-boundaries-of-ai-based-lending
+
+URL: https://www.marketwatch.com/story/fico-scores-leave-out-people-on-the-margins-upstarts-ceo-says-can-ai-make-lending-more-inclusive-without-creating-bias-of-its-own-11627040436
+- The Value Gap is a MarketWatch Q&A series with business leaders, academics, policymakers and activists on reducing racial and social inequalities.
+- When a congressional task force on artificial intelligence convened virtually in May for a hearing exploring how “human-centered AI” can increase racial equity in housing and financial services, concerns that machine-learning algorithms may exacerbate systemic racism were closely intertwined.
+- Dave Girouard, the chief executive of the AI lending platform Upstart Holdings Inc. 
+        UPST,
+        +4.80%
+       in Silicon Valley, understood the worry.
+- “The concern that the use of AI in credit decisioning could replicate or even amplify human bias is well-founded,” he said in his testimony at the hearing.
+- But Girouard, who co-founded Upstart in 2012, also said he had created the San Mateo, Calif.-based company to broaden access to affordable credit through “modern technology and data science.” And he took aim at the shortcomings he sees in traditional credit scoring.
+- The FICO score, introduced in 1989, has become “the default way banks judge a loan applicant,” Girouard said in his testimony. “In reality, FICO is extremely limited in its ability to predict credit performance, because it’s narrow in scope and inherently backward looking.”
+- Girouard testified that “for the past two decades, study after study has found that African American and Latino communities have lower credit scores as a group than white borrowers.” The CEO said Upstart views potential borrowers as more than their credit scores and has a more inclusive lending model.
+- “The heart of an AI system is that it keeps learning and is constantly getting better,” Girouard told MarketWatch in an interview. “Someone in my system who might not have been approved a year ago, today, it will approve them, or it might approve them at a lower rate.”
+- Upstart provides its machine-learning software to community banks and credit unions across the U.S. to help them assess the creditworthiness of customers seeking personal loans, he said.
+- Related: Upstart prices IPO at $20, for market cap of $1.45 billion
+- For 2020, Upstart estimates that its AI lending model approved 30% more Black borrowers than a traditional model, and with interest rates that are 11% lower, according to an email from a company spokesman. Similarly for 2020, Upstart approved 27.2% more Hispanic borrowers with 10.5% lower rates compared to a traditional model, based on the company’s estimates using standard industry methodology, according to the email.
+- “‘It’s very reasonable to be concerned about AI because it’s a very sophisticated system and it does have the potential to introduce bias or unfairness. Our answer to that concern is very rigorous testing.’”
+- As promising as AI may be for expanding credit to underserved communities, academic researchers have pointed to potentially discriminatory pricing in both traditional and fintech lending.
+- In an updated paper titled “Consumer-lending discrimination in the FinTech Era,” published this year in the Journal of Financial Economics, researchers from the University of California, Berkeley, said they found rate disparities in the mortgage market that appeared unrelated to creditworthiness.
+- “Risk-equivalent Latinx/Black borrowers pay significantly higher interest rates on GSE-securitized and FHA-insured loans, particularly in high-minority-share neighborhoods,” they wrote. “We estimate these rate differences cost minority borrowers over $450 million yearly.”
+- GSE references the government-sponsored entities Fannie Mae and Freddie Mac, which buy mortgages from lenders and package them into securities; the FHA, or the Federal Housing Administration, insures mortgages. A spokesman for Freddie Mac couldn’t immediately provide comment on the study when reached by MarketWatch. Fannie Mae and the FHA didn’t immediately return requests for comment.
+- “Fintech lenders’ rate disparities were similar to those of non-fintech lenders for GSE mortgages, but lower for FHA mortgages issued in 2009–2015 and for FHA refi mortgages issued in 2018–2019,” the researchers wrote.
+- Study co-author Robert Bartlett, a professor of law at UC Berkeley, said in an interview that AI lending requires caution to avoid inadvertently further entrenching inequality. “The risk of bias is very real,” he said, even for “well-intentioned” algorithms.
+- Longstanding structural disparities underlie them, and data may be embedded with bias, Bartlett said. He added that machine learning should be done in an environment highly attentive to fairness, and with some form of oversight that allows regulators to understand how their models work.
+- Upstart’s platform doesn’t include home mortgages, though “it’s certainly something we could do in the future,” said Girouard, who was previously president of Google’s 
+        GOOGL,
+        +0.92%
+       enterprise business and built the tech giant’s cloud-apps business globally. Upstart has mainly focused on personal loans, he said. Last year the company, which also has an office in Columbus, Ohio, added auto refinancing products.
+- Upstart connects consumers with banks that offer the loans, while also providing banks with its machine-learning software, according to Girouard. One borrower who came to Upstart in search of a loan is Dayana Flores, who was introduced to MarketWatch by a company spokesman.
+- In a phone interview, Flores, 26, said she received an $8,000 personal loan through Upstart to pay off credit-card debt she had accumulated while juggling a low-paying cashier job with studying at Lone Star College in Texas. Flores got a “cheaper rate” from Upstart, fully repaying the personal loan in January, before it was due, she said. The loan, obtained through Upstart in late 2017, had a 17.54% interest rate, she added in an email.
+- Flores, who came to the U.S. from Mexico as a child, told MarketWatch that she is now free of debt and has started taking classes at Houston Community College, with the aim of transferring to a university to study psychology. She said she expects to work various jobs while attending school, and hopes to one day open her own therapist practice.
+- Upstart’s AI model seeks “accuracy in predicting and understanding who has the capacity to repay” their loans, Girouard said during the congressional hearing. The CEO, who said “we believe bias is always wrong,” also defended Upstart in what he described at the hearing as a “disagreement” with the Student Borrower Protection Center, a Washington, D.C., advocacy group that last year raised concerns about its lending model.
+- See also: How artificial intelligence could replace credit scores and reshape how we get loans
+- The SBPC in February 2020 called on Congress and regulators to examine the use of education data in consumer lending due to concerns it may discriminate against people of color. In its report, titled “Educational redlining,” the group alleged that Upstart charged borrowers who went to a Historically Black College or University (HBCU) more for their loans.
+- “Their conclusions, in our view, were inaccurate,” said Girouard at the hearing. “The use of education data without question improves access to credit” for Black and Latino Americans, as well as for “almost any demographic you can speak to,” he said. “Our models aren’t perfect, but they certainly are not discriminatory.”
+- “‘FICO scores are very narrow in scope and backward looking, meaning they’re an accumulation of your historical use of credit. But how do you successfully use credit if you don’t have a FICO score?’”
+- Upstart agreed last year to work with the SBPC and NAACP Legal Defense and Educational Fund Inc. on a review of its fair lending practices for possible improvements. The company also works with the Consumer Financial Protection Bureau (CFPB) in an effort to “build the most inclusive program possible,” according to a statement from Girouard emailed to MarketWatch.
+- “Upstart runs fairness tests on every applicant and every loan that goes through our platform,” he said in the statement. “Because these models are new, we share the test results with the government and consumer groups on a regular basis.”
+- As for industry monitoring, Girouard told the congressional task force that he believes a supervisory system is needed to ensure companies aren’t introducing bias into their AI models.
+- MarketWatch spoke further with the Upstart CEO for a Value Gap interview, which has been edited for length and style:
+- MarketWatch: Why do FICO scores fall short?
+- Girouard: A three-digit number can only represent so much. FICO scores are very narrow in scope and backward looking, meaning they’re an accumulation of your historical use of credit. But how do you successfully use credit if you don’t have a FICO score? It’s a bit of a circular argument.
+- FICO scores tend to serve well people with 20 or 30 years of credit, steady income, and who have paid back all their loans. It just sort of down the middle serves people who are in traditional roles.
+- That leaves out a lot of people on the margins. It leaves out young people and recent immigrants, while disparately leaving out Black Americans and Americans with low and moderate incomes. So many people aren’t well served by the traditional system through no fault of their own. The heart of what our system tries to do is use a lot more data to identify creditworthy people.
+- MarketWatch: What are the key data points that you focus on in your system?
+- Girouard: There’s a whole variety of them. There’s actually like 1,600 different data points in our system. The more things you can know about a person, the more chance you have that you can identify reasons that they’re creditworthy.
+- To simplify it, one person might be given a good rate because they do have a high FICO score, with the use of credit being a good thing. Another person might get a good loan because he works as a nurse, and nurses tend to be very steadily employed. Another person might have studied economics at a prestigious school, which tends to mean they’re going to have good economic outcomes. Another person might be in the military, and people in the military also tend to have steady employment.
+- I’m kind of humanizing it. It’s really done by the software. People are far more creditworthy than a three-digit FICO number could ever recognize.
+- If a nurse’s credit score is 580, which is not a very good credit score, most lenders would say, “No, thank you, I’m sorry I can’t offer you a loan.” But our system might say, I know you have a 580 credit score, but it turns out it’s because you’re really young and haven’t used credit much. Also, you’re a nurse working for a hospital system, and that’s a very reliable source of income.
+- MarketWatch: So your software considers data points like profession and age?
+- Girouard: Yes, your credit score, your age, maybe your highest degree of education, your area of study, the industry you work in.  It’s this forever list of things. There’s just a lot of subtlety to all of it. [Editor’s note: An Upstart spokesman later clarified that the company does not use age as a data point.]
+- Here’s an important thing to realize: Less than half of Americans have credit scores that qualify them for prime credit, but something like 80% to 85% of Americans have never defaulted on anything.
+- What our software is trying to do is fill in that gap. Who are these people who are 40% to 50% of Americans who have never defaulted on anything, and yet they don’t have good access to credit? We’re trying to identify them in as many other ways as we can.
+- MarketWatch: How has Upstart helped marginalized communities?
+- Girouard: If you just look at a FICO count, which is one way to look at it, our model approves 86% more near-prime borrowers. Near prime means borrowers whose credit score is between 620 and 660. So almost twice as many people in that range are approved by our model compared to a traditional model, and with an interest rate that’s an average 5 percentage points lower.
+- In another example, banks that use our technology will approve on average 34% more Black applicants than a traditional model would have, and with an average 4 percentage points lower interest rate. [Editor’s note: That’s over the past three years, Girouard explained in his written testimony for the congressional hearing.]
+- MarketWatch: How do you address concerns that bias may be built into AI lending models?
+- Girouard: It’s very reasonable to be concerned about AI because it’s a very sophisticated system and it does have the potential to introduce bias or unfairness.
+- Our answer to that concern is very rigorous testing. You have to test every single application for bias, not just every loan, looking at how rates, or approval rates, compare for different groups of people. We’ve been doing this for many years, and the results of the tests are submitted every quarter to the Consumer Financial Protection Bureau.
+- This article was originally published July 23, 2021, and has been updated.
+- Cool places where you may be able to find a home at an affordable price.
+- Christine Idzelis is a markets reporter at MarketWatch and is based in New York.
+- 
+- Visit a quote page and your recently viewed tickers will be displayed here.
+
+URL: https://www.law360.com/articles/1516114/upstart-investor-sues-execs-over-ai-based-lending-claims
+- Try our Advanced Search for more refined results
+- In the legal profession, information is the key to success. You have to know what’s happening with clients, competitors, practice areas, and industries. Law360 provides the intelligence you need to remain an expert and beat the competition.
+- TRY LAW360 FREE FOR SEVEN DAYS
+- Already a subscriber? Click here to login
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- © 2023, Portfolio Media, Inc. | About | Contact Us | Legal Jobs | Advertise with Law360 | Careers at Law360 | Terms | Privacy Policy | Cookie Settings | Help | Site Map | Resource Library | Explore Law360
+- Enter your details below and select your area(s) of interest to stay ahead of the curve and receive Law360's daily newsletters
+- 
+- 
+- 
+- Email (NOTE: Free email domains not supported)
+- First Name
+- Last Name
+- Job Title
+- PLEASE NOTE: A verification email will be sent to your address before you can access your trial.
+- Password (at least 8 characters required)
+- Confirm Password
+- Law360 may contact you in your professional capacity with information about our other products, services and events that we believe may be of interest.You’ll be able to update your communication preferences via the unsubscribe link provided within our communications.We take your privacy seriously. Please see our Privacy Policy.
+- 
+- 
+- 
+- Law360 takes your privacy seriously. Please see our Privacy Policy.
+- 
+
+URL: https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524
+- Hello and welcome back to MarketWatch’s Extra Credit column, a weekly look at the news through the lens of debt.
+- Our system of providing credit has a well-documented history of discrimination that in many cases has made financing more expensive, predatory or non-existant, for non-white consumers.
+- For the past several years, financial technology, or fintech, companies, have been touting the potential of artificial intelligence and machine learning to help combat this problem. That promise rests on two main ideas. The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas, which have discriminatory data baked into their design.
+- Some legal experts and computer scientists have been more wary. Just because something is a machine doesn’t mean it’s free of human biases, they say, as the use of machine learning and artificial intelligence in other areas illustrates. In the criminal justice sphere, for example, use of this type of technology was once seen as a way to reduce bias in sentencing, but now evidence indicates that the data it pulls in reproduces already present inequality.
+- One of the takeaways from that example, said David Rubenstein, a professor at Washburn University School of Law, is that “the use of AI systems won’t necessarily solve the problem and in fact can make it worse.”
+- “You launder biases from the past into the future, under the auspices of a neutral computer system and then you do it at scale because you can do so many more of these computations,” said Rubenstein, who studies AI regulation.
+- This week, we’re digging into the findings of a report that’s being used to work through these questions in the consumer lending context. Though companies and regulators evaluate lending algorithms to test for whether they’re discriminating, the methods they use are rarely public.
+- What makes the report released last week different is that it’s working through these thorny issues in documents that everyone can see. It’s the result of an agreement between Upstart 
+        UPST,
+        +4.80%,
+       a consumer lending company, the Student Borrower Protection Center, a student loan borrower advocacy group, and the NAACP Legal Defense and Education Fund.
+- Relman Colfax was chosen as an independent monitor for the project, but before we get to what the civil rights firm found, a little background about how we got here.
+- Concerns about educational redlining
+- Last year, the Student Borrower Protection Center published a secret shopping exercise to get a sense of the impact of Upstart’s use of certain educational data in its lending decisions. For the past few years, the organization has been concerned about the implications of using factors, like where someone went to school, their standardized test score and their college major, when pricing a loan.
+- That’s because these attributes are often correlated with race and gender. Inequities in the K-12 school system and stratification in higher education mean that non-white and low-income students are more likely to end up at colleges with fewer resources to get them to and through school and into decent paying jobs.
+- Those outcomes combined with discrimination in the labor market increase the possibility that applicants who attended a historically Black college or university, or a minority serving institution could look like a bigger credit risk in models that use this kind of educational data. Students who attend these schools or who major in a lower paying field like education, are more likely to be non-white or women, respectively, groups the law prohibits financial institutions from discriminating against in lending decisions.
+- ““You launder biases from the past into the future, under the auspices of a neutral computer system and then you do it at scale because you can do so many more of these computations”
+- To test how these factors played out in Upstart’s model, the Student Borrower Protection Center created hypothetical applicants with the same characteristics, except where they went to school. Each of these applicants applied for a $30,000 student loan refinancing product through Upstart’s platform. The organization found that an applicant from Howard University, an HBCU, and an applicant from New Mexico State University, a Hispanic-serving institution, would pay a higher interest rate than an applicant who attended New York University.
+- At the time, Upstart officials took issue with the report’s methodology, describing it as  “inaccurate and misleading.” They noted that the rate quotes were based on submitting the same individual’s credit report over a two-and-a-half month period, during which time their credit score changed. About half of the differences in the quotes could be explained by these changes, they said.
+- The Student Borrower Protection Center countered that changes in the applicant’s credit score didn’t take place during the report period and didn’t change the nature of its findings. (This back-and-forth between the two organizations is detailed in Relman Colfax’s first report on the monitoring agreement published in April).
+- The findings caught the attention of the Senate Committee on Banking, Housing and Urban Affairs, which asked Upstart to explain how it used educational data to make credit decisions. In its response letter, Upstart officials said factors like an applicant’s most recent school attended, their highest degree and area of study were among the more than 1,500 variables the company’s model considers. Upstart then placed the school into different groups based on certain data, including average incoming standardized test score, and passed that through the model.
+- That approach anonymized the schools, but it also sparked concern from some Senators, because non-white students are overrepresented in schools with lower standardized test scores, in part because of the correlation between standardized test scores, income and race. The concerned lawmakers wrote to the Consumer Financial Protection Bureau to look into whether these practices and practices by other lenders violated the Equal Credit Opportunity Act.
+- Ultimately, Upstart stopped using average incoming standardized test scores to group schools. A few months later, the company, the Student Borrower Protection Center and the Legal Defense Fund agreed to have a third-party monitor test Upstart’s model for fair lending concerns.
+- The monitor’s first detailed findings
+- That testing is ongoing, but last week, the monitor released its first detailed report on its findings so far.
+- Although some APR disparities existed, the monitor didn’t find practically significant differences in pricing between Black, white and Hispanic applicants or men and women. With regards to pricing, “the monitor confirms or found that whatever issues there may have been in the past, those issues don’t seem to exist,” said Matthew Bruckner, an associate professor at Howard University School of Law. “That’s really big.”
+- The report did find that there was a difference in approval ratings for Black and white applicants, — “less of a win for Upstart,” Bruckner said. These disparities were measured without controlling for legitimate creditworthiness criteria and, on its own, the difference doesn’t constitute a fair lending violation, according to the monitor’s report. But the disparities were both statistically and practically significant, the monitor found. That means that not only were the disparities not explained by chance — what statistical significance tests for in many contexts — but they were meaningful.
+- For example, it’s easy to imagine that a court or a regulator may not find a 1% difference in approval ratings between two groups to be meaningful enough to indicate that a model is having a disparate impact on one the groups. But as that difference widens it has more practical impact. Relman Colfax has established its own cutoff based on case law to determine when differences become practically significant.
+- The difference in approval between white and Black applicants was large enough to meet that threshold and to “trigger an obligation to investigate,” if there are less discriminatory alternatives to the model Upstart is currently using, the authors wrote in the monitor’s report.
+- Separately, the monitor also looked at whether variables in Upstart’s model are proxies for certain protected groups. Put another way, they were checking to see if the variables’ predictive power come solely or largely from a correlation with race or national origin.
+- What they found is that none of Upstart’s variables on their own have a high likelihood of functioning as proxies for race or national origin, and that all of them together don’t have a high likelihood of functioning as proxies for race or national origin either. What’s less clear is whether the variables interact with each other in Upstart’s model in a way where they function as proxies for protected groups. “We cannot eliminate the possibility that proxies exist,” the authors of the report wrote.
+- This finding pushed Relman Colfax to suggest that Upstart weigh the feasibility of using a model that’s easier to understand alongside the benefits of its current model, which could include the model’s performance and the flexibility of the structure to implement improvements on certain fairness metrics.
+- This challenge of balancing a model’s accuracy and interpretability is a key issue companies, regulators and other stakeholders are still sorting through. A more accurate model can result both in better profits for a lender and also could theoretically better identify credit-worthy consumers.
+- For these models, “we know what the inputs and the outputs are,” said Rubenstein. “The problem is that the inner logic of the model that turns inputs into outputs can be a black box because of their sheer complexity.”
+- In the fair lending context, lenders have to give reasons for why a particular loan was denied, but it’s not entirely clear how these complex models will meet that requirement for reason-giving, Rubenstein said.
+- “That’s very much an open and important question that I think the law will have to resolve at some point,” he said.  “These types of studies undertaken by the monitor might be on a path at beginning to answer those questions.”
+- Agreement provides potential for industry-wide insight
+- Indeed, stakeholders view the approach of the Upstart agreement and its public-facing reports as one that could provide insight on these questions with the potential to be used industry-wide.
+- “The progress made under this agreement shows that all lenders should be transparent and rigorous about testing their models with independent third parties,” Mike Pierce, the executive director of the Student Borrower Protection Center, said in a statement, accompanying the report.  “The process we have chosen to work on with Upstart could help guide the lending industry to set high standards when using new technology and data sources.”
+- Nat Hoopes, vice president and head of public policy and regulatory affairs at Upstart, said in a statement that he hopes the reports serve as “a guide that can help all lenders better understand the obligation to test transparently and to improve on the status quo by relentlessly optimizing models for fairness and inclusion, as well as accuracy.”
+- Gerron Levi, senior vice president and head of government affairs at the American Fintech Council, an industry advocacy group, said the reports and efforts like them could provide the public and regulators with more confidence in lenders’ use of this technology.
+- “They have ground breaking models,” Levi said of fintech companies using this new technology to make credit decisions. “But it’s also important that through third-party reviews, through the regulatory framework, that the public have confidence that they are producing fair outcomes.”
+- So far, there is some data indicating that Upstart’s model is doing better at providing financing to creditworthy, but often invisible, borrowers than traditional underwriting criteria. For example, an October analysis of data provided by Upstart found that borrowers with credit scores below 640 who had their loans approved by Upstart had a 60% probability of being rejected by traditional lenders.
+- (One of the authors listed on the paper is an Upstart employee. He set up the data environment for the research and didn’t participate in the analysis, according to Marco Di Maggio, Ogunlesi Family Professor of Finance at Harvard Business School, and another author of the study. Di Maggio added that the company didn’t have any say on the outcome of the research and that he and the third co-author have no financial ties to the company).
+- Upstart’s model was more likely to spot creditworthy borrowers the more traditional formula had missed, even if they had little credit history, in part thanks to data on their jobs — salaried applicants benefitted more than those doing hourly work — and their educational attainment, Di Maggio said.
+- Questions remain
+- It’s “terrific” that Upstart’s model is performing better than more traditional underwriting criteria that have been notorious for discriminating against certain protected groups both in credit availability and credit pricing, Bruckner said. “I’m super excited that that’s the case,” he said.
+- Still, questions remain. For example, it’s unclear from the report how Upstart’s model impacts people at the intersection of certain protected groups, for example, women of color, Rubenstein said. Previous research on the use of artificial intelligence and machine learning in facial recognition has found that those algorithms perform worse on people of color, especially women of color.
+- “If you only tested Black versus white and men versus women you wouldn’t have known,” Rubenstein said.
+- Opening that “pandora’s box” of intersectionality does create challenges in terms of deciding which categories are relevant to test and what might be relevant when it comes to the law, Rubenstein said. Still, that doesn’t mean that these questions shouldn’t be investigated, he said.
+- “It’s fair to say that the promise of using artificial intelligence and machine learning systems is to improve equity in lending,” he said. “It should also be the case that they do have the ability to test for these cross sections.”
+- In addition, just because one company’s model is performing well now doesn’t mean it will perform well in the future, Bruckner said.
+- “The big issue that I worry about is that models degrade,” he said. That’s particularly concerning, Bruckner said, because in 2017, the Consumer Financial Protection Bureau granted Upstart a No-Action Letter, essentially a document indicating the agency has no present intention to bring an enforcement action against a company over a particular product or service. The agency provided Upstart with a No-Action Letter again in 2020. As part of the No Action Letter program, Upstart agreed, among other things, to test its model for adverse impacts by group and provide the agency with the results.
+- “Will the model continue to perform well in the future? Will other companies’ models continue to perform as the Upstart model is performing today,” Bruckner said. “Why is a private nonprofit consumer watchdog the ones who are doing this? We have a federal consumer protection agency whose job it is to do this and they said we have no present intention to bring an enforcement action.”
+- It appears the Biden-era Consumer Financial Protection Bureau will be looking at this issue closely. A CFPB spokesperson wrote in an email that artificial intelligence and machine learning models that use non-traditional data in underwriting “are accountable for discriminatory lending outcomes.” The spokesperson added that the agency will “use all its tools” to prevent these models “from entrenching biases in underwriting systems.”
+- During a Congressional hearing last month, Rohit Chopra, the recently-confirmed director of the CFPB, emphasized the need to look carefully at the way lenders’ models use alternative data to make credit decisions. “There has been a myth that algorithms can be completely neutral,” Chopra said. “In reality, many of those algorithms reinforce the biases that already exist.”
+- ‘He's too tired to leave, and we don’t have anything but bills.’
+- Jillian Berman is the deputy enterprise editor at MarketWatch, where she covers student loans and consumer debt. You can follow her on Twitter @JillianBerman.
+- Jillian Berman is the deputy enterprise editor at MarketWatch, where she covers student loans and consumer debt. You can follow her on Twitter @JillianBerman.
+- Visit a quote page and your recently viewed tickers will be displayed here.
+
+URL: https://www.nationalmortgagenews.com/news/upstart-says-its-improving-ai-models-after-report-finds-race-approval-disparities
+
+URL: https://www.nytimes.com/2020/09/18/business/digital-mortgages.html
+- Please enable JS and disable any ad blocker
+
+URL: https://fortune.com/2020/12/18/upstart-ipo-ceo-dave-girouard-artificial-intelligence/
+- Our apologies. It may have expired or there could be a typo. Search for what you are looking for or find what you need on ourhomepage
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.protocol.com/fintech/upstart-loans-balance-sheet
+- The AI-powered lender will hold some loans on its balance sheet as it seeks partners for long-term capital.
+- Despite the current struggles, Upstart views the marketplace model as the best way to write to keep its loan business growing.
+- After a revenue drop its CEO called “unacceptable,” the leadership at fintech lender Upstart is making a bet on the strength of its ability to underwrite loans with AI.
+- The San Mateo company is planning to leave some loans on its balance sheet that investors do not want to buy, as concerns about the economy shift Wall Street away from backing riskier consumer debt. Rather than pull back on its lending in response, the company said it will hold some loans as it seeks longer-term capital partners.
+- "Historically, as soon as there is a whiff of macro risk, credit markets shut down altogether," CFO Sanjay Datta told Protocol. "Our holy grail has always been to convince markets that you can use technology to react more quickly and more precisely to macro risk, and navigate economic cycles, without shutting down."
+- Upstart is among a long list of fintechs working to answer the doubts of investors as consumer sentiment declines and the economy shifts from the low-interest, stimulus-boosted environment that proved fertile ground for the industry in 2021.
+- 
+- But the company says it is not becoming a balance-sheet lender and has no plans to pursue a banking charter, as other lenders have: It is making a temporary change in response to the market.
+- Founded in 2012 by former Google executives, Upstart uses an algorithm to identify worthy borrowers overlooked by traditional creditors. As a marketplace lender, it gets most of its revenue from fees for matching financial institutions with borrowers. Personal loans are its main business, but the company has expanded into auto and small-business lending.
+- Business was good last year. Upstart originated nearly $12 billion in loans and its share price soared from $20 at its December 2020 IPO to $400 in October.
+- Those good times didn’t last. The firm’s share price has fallen nearly 80% this year, as Wall Street in general has soured on fintech stocks.
+- Upstart reported $228 million in second-quarter revenue, down 26% from the first three months of the year. That was in line with preliminary earnings the company published in July. But it projects further revenue declines in the third quarter, to $170 million.
+- Those declines are "obviously disappointing and unacceptable to us," CEO Dave Girouard said on Upstart’s Aug. 8 earnings call.
+- Upstart facilitated $3.3 billion in loans during the quarter, compared to $4.5 billion in the first. "Lenders and institutional credit investors reacted more quickly and abruptly than we anticipated" to economic uncertainty, Girouard said.
+- The company said it would like to find more long-term deals from institutions willing to back its loans, rather than rely on one-off purchases. Girouard made Upstart’s case in a blog post accompanying earnings, stating that Upstart’s lending systems have been better at identifying risks than traditional credit scores and its loans have consistently delivered returns to investors.
+- But finding more partners will take time, so Upstart will for now rely on about $800 million on its balance sheet to cover funding gaps between borrowers and investors.
+- Wall Street analysts already reacted negatively when Upstart revealed it was holding some loans on its balance sheet at the start of the year — prompting the company to reverse course and sell off the loans. Holding loans introduces risks that investors in Upstart’s marketplace lending model did not previously have to worry about, said Andrew Boone, a managing director at investment firm JMP Securities.
+- 
+- JMP has a neutral assessment of Upstart, noting in its second-quarter report that “the company continues to have significant runway ahead as it addresses more credit products; however, we await greater stability in its core business before we become more positive.”
+- Upstart acknowledged to analysts that it is now going back on what it said publicly by putting some loans on its balance sheet. Datta said the firm’s thinking has evolved along with the market.
+- “Now we can see very clearly that this is of use, it is an asset,” Datta told Protocol. “And we would be myopic to try navigating the current macro choppiness not using an $800 million unrestricted cash pile, just because of some religious edict that we're not to touch it.”
+- Upstart has no plans to become a chartered bank itself, as its leaders made clear several times during the earnings call. That’s despite other marketplace lenders SoFi and LendingClub becoming chartered through acquisitions in recent years.
+- Charters bring higher regulatory costs, but they allow institutions to lend off of low-cost deposits. LendingClub CEO Scott Sanborn recently told analysts the firm was “leaning more towards the bank model, being conservative on credit and using our low cost deposit funding to hold more loans for investment and drive recurring revenue.”
+- Upstart sees a banking charter as a potential impediment to its focus on finding worthy borrowers overlooked because of their credit score.
+- Banks are “set up to be very robust and survive macro shocks,” Datta said. “But as a result, those entities tend to struggle with a mission of trying to provide capital to Americans who are either less affluent or, through a traditional lens, less credit-worthy.”
+- Despite the current struggles, it views the marketplace model as the best way to write to keep its loan business growing.
+- 
+- “We set up our mission to partner with banks,” Datta said, “because we want to leverage as much of the capital out there as possible.”
+- Along with planning changes to the funding of its loans, Upstart also recently indicated it planned to make adjustments to its AI-loan underwriting in response to the changing market. That led to the company’s request to have its no-action letter with the Consumer FInancial Protection Bureau terminated, because the agency said approving such changes would require a lengthy review.
+- Girouard was asked on the earnings call about working with the CFPB and how the change could affect its algorithms. He said the company uses state-of-the-art fairness testing for its lending models and expects to continue working with the regulator.
+- “We do continue to have open communication with CFPB and would expect to do so in the future as well,” he said. It’s one more way that Upstart is leaving itself open to change.
+- His decisions on major cryptocurrency cases have quoted "The Big Lebowski," "SNL," and "Dr. Strangelove." That’s because he wants you — yes, you — to read them.
+- The ways Zia Faruqui (right) has weighed on cases that have come before him can give lawyers clues as to what legal frameworks will pass muster.
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- “Cryptocurrency and related software analytics tools are ‘The wave of the future, Dude. One hundred percent electronic.’”
+- That’s not a quote from "The Big Lebowski" — at least, not directly. It’s a quote from a Washington, D.C., district court memorandum opinion on the role cryptocurrency analytics tools can play in government investigations. The author is Magistrate Judge Zia Faruqui.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- The financial technology transformation is driving competition, creating consumer choice, and shaping the future of finance. Hear from seven fintech leaders who are reshaping the future of finance, and join the inaugural Financial Technology Association Fintech Summit to learn more.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- As AWS preps for its annual re:Invent conference, Adam Selipsky talks product strategy, support for hybrid environments, and the value of the cloud in uncertain economic times.
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- AWS is gearing up for re:Invent, its annual cloud computing conference where announcements this year are expected to focus on its end-to-end data strategy and delivering new industry-specific services.
+- It will be the second re:Invent with CEO Adam Selipsky as leader of the industry’s largest cloud provider after his return last year to AWS from data visualization company Tableau Software.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- Jamie Condliffe (
+	@jme_c) is the executive editor at Protocol, based in London. Prior to joining Protocol in 2019, he worked on the business desk at The New York Times, where he edited the DealBook newsletter and wrote Bits, the weekly tech newsletter. He has previously worked at MIT Technology Review, Gizmodo, and New Scientist, and has held lectureships at the University of Oxford and Imperial College London. He also holds a doctorate in engineering from the University of Oxford.
+- We launched Protocol in February 2020 to cover the evolving power center of tech. It is with deep sadness that just under three years later, we are winding down the publication.
+- As of today, we will not publish any more stories. All of our newsletters, apart from our flagship, Source Code, will no longer be sent. Source Code will be published and sent for the next few weeks, but it will also close down in December.
+- 
+- 
+- 
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- As companies expand their use of AI beyond running just a few machine learning models, and as larger enterprises go from deploying hundreds of models to thousands and even millions of models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- As companies expand their use of AI beyond running just a few machine learning models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- On any given day, Lily AI runs hundreds of machine learning models using computer vision and natural language processing that are customized for its retail and ecommerce clients to make website product recommendations, forecast demand, and plan merchandising. But this spring when the company was in the market for a machine learning operations platform to manage its expanding model roster, it wasn’t easy to find a suitable off-the-shelf system that could handle such a large number of models in deployment while also meeting other criteria.
+- Some MLops platforms are not well-suited for maintaining even more than 10 machine learning models when it comes to keeping track of data, navigating their user interfaces, or reporting capabilities, Matthew Nokleby, machine learning manager for Lily AI’s product intelligence team, told Protocol earlier this year. “The duct tape starts to show,” he said.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- To give you the best possible experience, this site uses cookies. If you continue browsing. you accept our use of cookies. You can review our privacy policy to find out more about the cookies we use.
+
+- Lemonade 'non-verbal cue' insurance claim assessments
+- US mortgage approval data algorithm racial discrimination
+- Page infoType: Incident Published: October 2022Last updated: November 2022

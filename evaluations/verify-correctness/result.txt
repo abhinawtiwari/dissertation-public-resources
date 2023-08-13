@@ -1,0 +1,787 @@
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dominos-australia-pizza-checker
+Property name: stakeholder_outcomes
+  List of values:
+    - Dictionary:
+      - name: decreased_customer_satisfaction - 0.0
+      - for_stakeholder: customers - 0.5544098734362997
+      - for_outcome: overall_customer_satisfaction - 0.0
+      - from_perspective_of: customers - 0.5544098734362997
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: customer_satisfaction_surveys - 0.0
+      - has_impact_report: customer_satisfaction_reports - 0.0
+      - org_has_name: decreased_customer_satisfaction - 0.0
+      - org_has_description: customers are less satisfied with Dominos Australia's pizza checker algorithm. - 0.8285677362058211
+    - Dictionary:
+      - name: negative_media_coverage - 0.0
+      - for_stakeholder: employees - 0.5189632625194802
+      - for_outcome: overall_job_satisfaction - 0.0
+      - from_perspective_of: employees - 0.5189632625194802
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: employee_surveys - 0.0
+      - has_impact_report: employee_satisfaction_reports - 0.0
+      - org_has_name: negative_media_coverage - 0.0
+      - org_has_description: employees are less satisfied with their jobs due to negative media coverage of the incident. - 0.8943082459514045
+    - Dictionary:
+      - name: calls_for_boycott - 0.0
+      - for_stakeholder: employees - 0.5189632625194802
+      - for_outcome: overall_job_security - 0.0
+      - from_perspective_of: employees - 0.5189632625194802
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: employee_surveys - 0.0
+      - has_impact_report: employee_satisfaction_reports - 0.0
+      - org_has_name: calls_for_boycott - 0.0
+      - org_has_description: employees are less confident about their job security due to calls for a boycott of the company. - 0.9162667407362125
+    - Dictionary:
+      - name: job_losses - 0.0
+      - for_stakeholder: employees - 0.5189632625194802
+      - for_outcome: overall_job_security - 0.0
+      - from_perspective_of: employees - 0.5189632625194802
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: employee_layoffs - 0.0
+      - has_impact_report: employee_satisfaction_reports - 0.0
+      - org_has_name: job_losses - 0.0
+      - org_has_description: employees lose their jobs due to the incident. - 0.809512946390332
+    - Dictionary:
+      - name: increased_stress_levels - 0.0
+      - for_stakeholder: employees - 0.5189632625194802
+      - for_outcome: overall_mental_health - 0.0
+      - from_perspective_of: employees - 0.5189632625194802
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: employee_stress_surveys - 0.0
+      - has_impact_report: employee_mental_health_reports - 0.0
+      - org_has_name: increased_stress_levels - 0.0
+      - org_has_description: employees experience increased stress levels due to the incident. - 0.8564065414860322
+    - Dictionary:
+      - name: decreased_morale - 0.0
+      - for_stakeholder: employees - 0.5189632625194802
+      - for_outcome: overall_morale - 0.0
+      - from_perspective_of: employees - 0.5189632625194802
+      - has_importance: high_importance - 0.0
+      - is_underserved: no - 0.22968142795249472
+      - intended_impact: negative - 0.6247987841565568
+      - has_indicator: employee_morale_surveys - 0.0
+      - has_impact_report: employee_morale_reports - 0.0
+      - org_has_name: decreased_morale - 0.0
+      - org_has_description: employees experience decreaed morale due to increased survelience and reporting to higher management - 0.8210886976743187
+    - Dictionary:
+      - hasCode: NA - 0.10129824647668051
+      - forStakeholder: franchisees - 0.4887805114630653
+      - forOutcome: decreased sales for franchisees - 0.6918552818209365
+      - fromPerspectiveOf: Dominos Australia - 0.39192395998771973
+      - hasImportance: high importance - 0.6327753566302405
+      - intendedImpact: negative - 0.6247987841565568
+      - hasIndicator: sales - 0.3974418941692897
+      - hasImpactReport: none yet - 0.36802786113346786
+      - org:hasName: decreased sales for franchisees - 0.6918552818209365
+      - org:hasDescription: This stakeholder outcome specifies that franchisees may see a decrease in sales and revenue from their stores due to the negative publicity surrounding the Dominos Australia pizza checker incident. This could lead to financial difficulties for franchisees. - 0.9415340109018814
+Property name: stakeholders
+  List of values:
+    - Dictionary:
+      - name: customers - 0.5544098734362997
+      - has_name_title: customers - 0.5544098734362997
+      - has_description: individuals or businesses that purchase pizzas from Dominos Australia. - 0.8324317539481795
+      - has_catchment_area: australia - 0.39676009155120123
+      - performs: ordering_pizzas_from_dominos_australia - 0.0
+      - i72_located_in: australia - 0.39676009155120123
+      - oep_part_of: dominos_australia_pizza_checker_incident_impact_model - 0.0
+    - Dictionary:
+      - name: employees - 0.5189632625194802
+      - has_name_title: employees - 0.5189632625194802
+      - has_description: individuals who work at Dominos Australia. - 0.6886110887399471
+      - has_catchment_area: australia - 0.39676009155120123
+      - performs: making_pizzas - 0.0
+      - i72_located_in: australia - 0.39676009155120123
+      - oep_part_of: dominos_australia_pizza_checker_incident_impact_model - 0.0
+    - Dictionary:
+      - hasName: franchisees - 0.4887805114630653
+      - hasDescription: Individuals or businesses that have been granted the right to operate a Dominos Australia store under the Dominos Australia brand. - 0.924230884923854
+      - hasCatchmentArea: Australia - 0.4276989520418897
+      - hasStakeholderCharacteristic: Businesses - 0.45197407031895925
+      - performs: Operate Dominos Australia stores, order pizzas, provide feedback on pizzas - 0.8066941815603953
+      - i72:located_in: Australia - 0.4276989520418897
+      - oep:part of: Dominos Australia pizza checker incident - 0.5420845131718737
+Property name: impact_risks
+  List of values:
+    - Dictionary:
+      - forOutcome: decreased_customer_satisfaction - 0.0
+      - hasLikelihood: high - 0.3980360911639042
+      - hasConsequence: high - 0.3980360911639042
+      - hasMitigation: NA. A mitigation plan could be kept in place to address this risk. - 0.8536605415227162
+      - hasDescription: This risk is that customers will be less satisfied with Dominos Australia's pizza checker algorithm if it is found to be inaccurate or biased. This could lead to a decrease in sales and revenue for Dominos Australia. - 0.892558422064381
+    - Dictionary:
+      - forOutcome: negative_media_coverage - 0.0
+      - hasLikelihood: high - 0.3980360911639042
+      - hasConsequence: high - 0.3980360911639042
+      - hasMitigation: NA. A public relations plan could be kept in place to address this risk. - 0.8690042736090934
+      - hasDescription: This risk is that negative media coverage of the Dominos Australia pizza checker incident could damage the company's reputation and make it more difficult to attract and retain customers. It could also lead to calls for a boycott of the company, which could further damage its reputation and financial performance. - 0.9609493433457441
+    - Dictionary:
+      - forOutcome: calls_for_boycott - 0.0
+      - hasLikelihood: medium - 0.520599544389557
+      - hasConsequence: high - 0.3980360911639042
+      - hasMitigation: NA. A social media plan could be kept in place to address this risk. - 0.8701076879191492
+      - hasDescription: This risk is that customers or other stakeholders may call for a boycott of Dominos Australia if the pizza checker incident is not handled properly. This could lead to a decrease in sales and revenue for the company. It could also damage the company's reputation and make it more difficult to attract and retain customers. - 0.9524485552271147
+    - Dictionary:
+      - forOutcome: job_losses - 0.0
+      - hasLikelihood: low - 0.3041238264061178
+      - hasConsequence: high - 0.3980360911639042
+      - hasMitigation: NA. A financial plan could be kept in place to address this risk. - 0.8512606274953378
+      - hasDescription: This risk is that Dominos Australia may experience financial difficulties as a result of the pizza checker incident. If this happens, it could lead to job losses for employees. - 0.9195901252615454
+    - Dictionary:
+      - forOutcome: increased_stress_levels - 0.0
+      - hasLikelihood: medium - 0.520599544389557
+      - hasConsequence: medium - 0.520599544389557
+      - hasMitigation: NA. An employee assistance program could be planned to address this risk. - 0.8203518266971501
+      - hasDescription: This risk is that the Dominos Australia pizza checker incident could lead to increased stress levels for employees. This could be due to a number of factors, such as workplace surveilance fear, negative media coverage, calls for a boycott, or job losses. Increased stress levels can have a number of negative consequences for employees, including physical and mental health problems, decreased productivity, and increased turnover. - 0.9488859517071565
+    - Dictionary:
+      - forOutcome: decreased_morale - 0.0
+      - hasLikelihood: medium - 0.520599544389557
+      - hasConsequence: medium - 0.520599544389557
+      - hasMitigation: NA. A team-building program could be planned to address this risk. - 0.8672921835312659
+      - hasDescription: This risk is that the Dominos Australia pizza checker incident could lead to decreased morale for employees. This could be due to a number of factors, such as negative media coverage, calls for a boycott, or job losses. Decreased morale can have a number of negative consequences for employees, including decreased productivity, increased turnover, and difficulty attracting and retaining top talent. - 0.9564614822787826
+    - Dictionary:
+      - forOutcome: decreased_sales_for_franchisees - 0.0
+      - hasLikelihood: high - 0.3980360911639042
+      - hasConsequence: high - 0.3980360911639042
+      - hasMitigation: NA. A mitigation plan could be planned to address this risk. - 0.8268563174877412
+      - hasDescription: This risk is that franchisees may see a decrease in sales and revenue from their stores due to the negative publicity surrounding the Dominos Australia pizza checker incident. This could lead to financial difficulties for the franchisees. - 0.945320533432941
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/virginia-non-violent-risk-assessment
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Person being assessed - 0.7112325138119945
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - fromPerspectiveOf: The person being assessed, the person's family, or the criminal justice system - 0.9175164769592365
+      - hasImportance: high importance - 0.6374300644539052
+      - intendedImpact: To reduce the risk of the person committing a violent crime - 0.8407537482233116
+      - hasIndicator: The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder - 0.8905865137177661
+      - hasImpactReport: identifies the set of ImpactReport that report on the results pertaining to each Outcome - 0.8896353558589728
+      - org:hasName: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - org:hasDescription: The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime - 0.8781989502113615
+    - Dictionary:
+      - forStakeholder: Criminal justice system - 0.6817871493965839
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - fromPerspectiveOf: The criminal justice system - 0.7420307350987614
+      - hasImportance: high importance - 0.6374300644539052
+      - intendedImpact: To make more informed decisions about the person's risk of committing a violent crime - 0.8487896461354674
+      - hasIndicator: The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder - 0.8905865137177661
+      - hasImpactReport: identifies the set of ImpactReport that report on the results pertaining to each Outcome - 0.8896353558589728
+      - org:hasName: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - org:hasDescription: The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime - 0.8781989502113615
+    - Dictionary:
+      - forStakeholder: Family of the person being assessed - 0.8488853139056562
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - fromPerspectiveOf: The family of the person being assessed - 0.8501156490718831
+      - hasImportance: high importance - 0.6374300644539052
+      - intendedImpact: To help the family understand the person's risk of committing a violent crime - 0.842075867375047
+      - hasIndicator: The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder - 0.8905865137177661
+      - hasImpactReport: identifies the set of ImpactReport that report on the results pertaining to each Outcome - 0.8896353558589728
+      - org:hasName: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - org:hasDescription: The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime - 0.8781989502113615
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Person being assessed - 0.7112325138119945
+      - hasDescription: A person who is being assessed by the Virginia Non-Violent Risk Assessment - 0.7309806723902672
+      - hasCatchmentArea: The state of Virginia - 0.7021816304868458
+      - hasStakeholderCharacteristic: The person's age, gender, and criminal history - 0.8485059687028321
+      - performs: Being assessed by the Virginia Non-Violent Risk Assessment - 0.665716435704903
+      - i72:located_in: The state of Virginia - 0.7021816304868458
+      - oep:part of: The Virginia Non-Violent Risk Assessment - 0.4856912617379902
+    - Dictionary:
+      - hasName (title): Criminal justice system - 0.6817871493965839
+      - hasDescription: The criminal justice system in the state of Virginia - 0.8330887661137909
+      - hasCatchmentArea: The state of Virginia - 0.7021816304868458
+      - hasStakeholderCharacteristic: The criminal justice system's policies and procedures - 0.8538602667580882
+      - performs: Making decisions about the person's risk of committing a violent crime - 0.8646887117344241
+      - i72:located_in: The state of Virginia - 0.7021816304868458
+      - oep:part of: The Virginia Non-Violent Risk Assessment - 0.4856912617379902
+    - Dictionary:
+      - hasName (title): Family of the person being assessed - 0.8488853139056562
+      - hasDescription: The family of the person being assessed - 0.8501156490718831
+      - hasCatchmentArea: The state of Virginia - 0.7021816304868458
+      - hasStakeholderCharacteristic: The family's relationship to the person being assessed - 0.8477026063216616
+      - performs: Supporting the person being assessed - 0.8756457633321559
+      - i72:located_in: The state of Virginia - 0.7021816304868458
+      - oep:part of: The Virginia Non-Violent Risk Assessment - 0.4856912617379902
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - hasLikelihood: Moderate - 0.5044461259625947
+      - hasConsequence: Moderate - 0.5044461259625947
+      - hasMitigation: The Virginia Non-Violent Risk Assessment is regularly reviewed and updated to mitigate the risk of bias - 0.8930793410032519
+      - hasIdentifier: 1 - -0.04529374826345108
+      - hasDescription: The risk that the Virginia Non-Violent Risk Assessment is biased against certain groups of people - 0.8807842619667725
+    - Dictionary:
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - hasLikelihood: High - 0.06667261189118544
+      - hasConsequence: High - 0.06667261189118544
+      - hasMitigation: The Virginia Non-Violent Risk Assessment is not a perfect tool, and there is always the possibility that it will make an incorrect assessment - 0.8630449005581585
+      - hasIdentifier: 2 - -0.05908513907386822
+      - hasDescription: The risk that the Virginia Non-Violent Risk Assessment is not accurate in predicting whether a person will commit a violent crime - 0.8876122596438294
+    - Dictionary:
+      - forOutcome: Whether the person is at risk of committing a violent crime - 0.8402683786596175
+      - hasLikelihood: Low - 0.06244492626182891
+      - hasConsequence: Low - 0.06244492626182891
+      - hasMitigation: The Virginia Non-Violent Risk Assessment is designed to be fair to all stakeholders, and there is no evidence to suggest that it is unfair to any particular group - 0.8425819250535115
+      - hasIdentifier: 3 - -0.04253527023669889
+      - hasDescription: The risk that the Virginia Non-Violent Risk Assessment is not fair to all stakeholders - 0.8627089008763259
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-chemical-food-preservative-suicides
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Family of suicide victim - 0.5843973846107025
+      - forOutcome: Mental health of family members - 0.7025529599864557
+      - fromPerspectiveOf: The family of the suicide victim - 0.7515092045612031
+      - hasImportance: high importance - 0.6092629127233056
+      - intendedImpact: negative - 0.6271257434585189
+      - hasIndicator: The number of family members of suicide victims who have experienced mental health problems - 0.83098610819351
+      - hasImpactReport: The National Suicide Prevention Lifeline's report on the impact of suicide on families - 0.7706937271765018
+      - org:hasName: Impact of Amazon chemical food preservative suicides on family members - 0.8033941824955739
+      - org:hasDescription: The impact of Amazon chemical food preservative suicides on family members - 0.8305542494910818
+    - Dictionary:
+      - forStakeholder: Amazon employees - 0.4329941794162199
+      - forOutcome: Mental health of Amazon employees - 0.6693580216896882
+      - fromPerspectiveOf: The Amazon employees - 0.5545649210866683
+      - hasImportance: high importance - 0.6092629127233056
+      - intendedImpact: negative - 0.6271257434585189
+      - hasIndicator: The number of Amazon employees who have experienced mental health problems - 0.8415519558254058
+      - hasImpactReport: The American Foundation for Suicide Prevention's report on the impact of suicide on the workplace - 0.8093742382911759
+      - org:hasName: Impact of Amazon chemical food preservative suicides on Amazon employees - 0.7587192179132863
+      - org:hasDescription: The impact of Amazon chemical food preservative suicides on Amazon employees - 0.7948582611435264
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Family of suicide victim - 0.5843973846107025
+      - hasDescription: The family of a suicide victim who died after consuming food that had been preserved with a chemical that was later found to be toxic - 0.892968822029585
+      - hasCatchmentArea: National - 0.35075541432307844
+      - hasStakeholderCharacteristic: The family members are experiencing mental health problems - 0.7976124929632783
+      - performs: Seeking support from mental health professionals - 0.75829170082589
+      - i72:located_in: United States - 0.4940163460699842
+      - oep:part of: The Amazon chemical food preservative suicides incident - 0.7587505506274984
+    - Dictionary:
+      - hasName (title): Amazon employee - 0.41159194011647576
+      - hasDescription: An Amazon employee who is experiencing mental health problems after learning that a chemical that was used to preserve food at Amazon warehouses was later found to be toxic - 0.8877331998582632
+      - hasCatchmentArea: National - 0.35075541432307844
+      - hasStakeholderCharacteristic: The employee is experiencing anxiety and depression - 0.8021195599533762
+      - performs: Seeking support from mental health professionals - 0.75829170082589
+      - i72:located_in: United States - 0.4940163460699842
+      - oep:part of: The Amazon chemical food preservative suicides incident - 0.7587505506274984
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Mental health of family members - 0.7025529599864557
+      - hasLikelihood: high - 0.37670803550979587
+      - hasConsequence: high - 0.37670803550979587
+      - hasMitigation: Amazon could provide more support to the families of suicide victims - 0.8729233355618456
+      - hasIdentifier: 1 - -0.12388493514481382
+      - hasDescription: The risk that the mental health of family members of suicide victims will be negatively impacted by the Amazon chemical food preservative suicides - 0.8811241379187179
+    - Dictionary:
+      - forOutcome: Mental health of Amazon employees - 0.6693580216896882
+      - hasLikelihood: high - 0.37670803550979587
+      - hasConsequence: high - 0.37670803550979587
+      - hasMitigation: Amazon could provide more support to employees who are experiencing mental health problems - 0.801529993480329
+      - hasIdentifier: 2 - -0.1276953712352931
+      - hasDescription: The risk that the mental health of Amazon employees will be negatively impacted by the Amazon chemical food preservative suicides - 0.8688230431912818
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Women - 0.041368452460597976
+      - forOutcome: Financial well-being - 0.6912110049446883
+      - fromPerspectiveOf: Women - 0.041368452460597976
+      - hasImportance: high importance - 0.6145478995995171
+      - intendedImpact: negative - 0.6528932569072097
+      - hasIndicator: The number of women who are denied Apple Card credit - 0.7547941070720736
+      - hasImpactReport: The New York Times' report on the Apple Card gender bias - 0.592556507101897
+      - org:hasName: Impact of Apple Card gender bias on women - 0.6935522253844428
+      - org:hasDescription: The impact of Apple Card gender bias on women - 0.7369821329225258
+    - Dictionary:
+      - forStakeholder: Apple - 0.16401157106184241
+      - forOutcome: Reputation - 0.6594833496387863
+      - fromPerspectiveOf: Apple - 0.16401157106184241
+      - hasImportance: high importance - 0.6145478995995171
+      - intendedImpact: negative - 0.6528932569072097
+      - hasIndicator: The number of people who are aware of the Apple Card gender bias - 0.8050787164688589
+      - hasImpactReport: The New York Times' report on the Apple Card gender bias - 0.592556507101897
+      - org:hasName: Impact of Apple Card gender bias on Apple - 0.6414111750595289
+      - org:hasDescription: The impact of Apple Card gender bias on Apple - 0.6933496983622633
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Women - 0.041368452460597976
+      - hasDescription: Women who have been denied Apple Card credit - 0.589578702689917
+      - hasCatchmentArea: Global - 0.15208287708434942
+      - hasStakeholderCharacteristic: Women are more likely to be denied Apple Card credit than men - 0.7275595094512891
+      - performs: Applying for Apple Card credit - 0.551310520291387
+      - i72:located_in: Global - 0.15208287708434942
+      - oep:part of: The Apple Card gender bias incident - 0.5783736224012602
+    - Dictionary:
+      - hasName (title): Apple - 0.16401157106184241
+      - hasDescription: Apple, the company that issued the Apple Card - 0.7922961509326655
+      - hasCatchmentArea: Global - 0.15208287708434942
+      - hasStakeholderCharacteristic: Apple is a large technology company with a global reach - 0.7816276804748139
+      - performs: Issuing the Apple Card - 0.5380557373551575
+      - i72:located_in: Cupertino, California - 0.6127866920369638
+      - oep:part of: The Apple Card gender bias incident - 0.5783736224012602
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Financial well-being of women - 0.7491445293706904
+      - hasLikelihood: high - 0.3756737248435215
+      - hasConsequence: high - 0.3756737248435215
+      - hasMitigation: Apple could change the way it calculates credit scores - 0.805998963979361
+      - hasIdentifier: 1 - -0.12537569744191562
+      - hasDescription: The risk that women will be disproportionately harmed by the Apple Card gender bias - 0.8038835143831841
+    - Dictionary:
+      - forOutcome: Reputation of Apple - 0.6208210179057531
+      - hasLikelihood: high - 0.3756737248435215
+      - hasConsequence: high - 0.3756737248435215
+      - hasMitigation: Apple could apologize for the Apple Card gender bias and take steps to address it - 0.8597214847613376
+      - hasIdentifier: 2 - -0.13565632146878406
+      - hasDescription: The risk that Apple's reputation will be damaged by the Apple Card gender bias - 0.8016958836079809
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-flex-delivery-driver-routing-safety
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Amazon Flex delivery drivers - 0.5259622665484
+      - forOutcome: Safety - 0.1386771374811833
+      - fromPerspectiveOf: Amazon Flex delivery drivers - 0.5259622665484
+      - hasImportance: high importance - 0.6053845105152588
+      - intendedImpact: negative - 0.6217696536487812
+      - hasIndicator: The number of Amazon Flex delivery drivers who are injured or killed in accidents - 0.8074335474629879
+      - hasImpactReport: The New York Times' report on the Amazon Flex delivery driver routing safety - 0.6794497272676105
+      - org:hasName: Impact of Amazon Flex delivery driver routing safety on Amazon Flex delivery drivers - 0.7236683995763171
+      - org:hasDescription: The impact of Amazon Flex delivery driver routing safety on Amazon Flex delivery drivers - 0.7595486921497089
+    - Dictionary:
+      - forStakeholder: Customers - 0.36222158200992066
+      - forOutcome: Delivery reliability - 0.594194125937374
+      - fromPerspectiveOf: Customers - 0.36222158200992066
+      - hasImportance: high importance - 0.6053845105152588
+      - intendedImpact: negative - 0.6217696536487812
+      - hasIndicator: The number of Amazon Flex deliveries that are late or not delivered - 0.8437831969938814
+      - hasImpactReport: The New York Times' report on the Amazon Flex delivery driver routing safety - 0.6794497272676105
+      - org:hasName: Impact of Amazon Flex delivery driver routing safety on customers - 0.755059697439473
+      - org:hasDescription: The impact of Amazon Flex delivery driver routing safety on customers - 0.7869483211207211
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Amazon Flex delivery drivers - 0.5259622665484
+      - hasDescription: Amazon Flex delivery drivers who are assigned routes that are too long or dangerous - 0.7992600248640384
+      - hasCatchmentArea: Global - 0.09488337923528771
+      - hasStakeholderCharacteristic: Amazon Flex delivery drivers are often paid by the delivery, so they are incentivized to take on risky routes - 0.8701233831625277
+      - performs: Delivering packages for Amazon Flex - 0.5937149554322464
+      - i72:located_in: Global - 0.09488337923528771
+      - oep:partOf: The Amazon Flex delivery driver routing safety incident - 0.7166240382629692
+    - Dictionary:
+      - hasName (title): Customers - 0.36222158200992066
+      - hasDescription: Customers who order packages from Amazon and expect them to be delivered on time and safely - 0.8478703117632713
+      - hasCatchmentArea: Global - 0.09488337923528771
+      - hasStakeholderCharacteristic: Customers are often reliant on Amazon Flex delivery drivers to deliver their packages - 0.8043687932118866
+      - performs: Ordering packages from Amazon - 0.6139561995598686
+      - i72:located_in: Global - 0.09488337923528771
+      - oep:partOf: The Amazon Flex delivery driver routing safety incident - 0.7166240382629692
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Safety of Amazon Flex delivery drivers - 0.6269444414814762
+      - hasLikelihood: high - 0.38237793483364035
+      - hasConsequence: high - 0.38237793483364035
+      - hasMitigation: Amazon could improve its routing algorithm to take into account safety risks - 0.8476517526538629
+      - hasIdentifier: 1 - -0.1337975829469617
+      - hasDescription: The risk that Amazon Flex delivery drivers will be injured or killed in accidents due to unsafe routing - 0.8587196862360675
+    - Dictionary:
+      - forOutcome: Delivery reliability for customers - 0.7062674489098822
+      - hasLikelihood: high - 0.38237793483364035
+      - hasConsequence: high - 0.38237793483364035
+      - hasMitigation: Amazon could improve its routing algorithm to take into account delivery reliability - 0.8555519287394218
+      - hasIdentifier: 2 - -0.1339520231442385
+      - hasDescription: The risk that Amazon Flex deliveries will be late or not delivered due to unsafe routing - 0.841437183617038
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teleperformancetp-observer-employee-monitoring
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Teleperformance employees - 0.6794227521410567
+      - forOutcome: Privacy - 0.19216810145523347
+      - fromPerspectiveOf: Teleperformance employees - 0.6794227521410567
+      - hasImportance: high importance - 0.6260400051259624
+      - intendedImpact: negative - 0.6346656365607857
+      - hasIndicator: The number of Teleperformance employees who feel that their privacy has been violated by the TP-Observer software - 0.8719661262633696
+      - hasImpactReport: The New York Times' report on the Teleperformance TP-Observer employee monitoring - 0.6637617997084849
+      - org:hasName: Impact of Teleperformance TP-Observer employee monitoring on Teleperformance employees - 0.7552930736242777
+      - org:hasDescription: The impact of Teleperformance TP-Observer employee monitoring on Teleperformance employees - 0.7912216915042097
+    - Dictionary:
+      - forStakeholder: Customers of Teleperformance - 0.6603575917689569
+      - forOutcome: Trust - 0.1325403970325967
+      - fromPerspectiveOf: Customers of Teleperformance - 0.6603575917689569
+      - hasImportance: high importance - 0.6260400051259624
+      - intendedImpact: negative - 0.6346656365607857
+      - hasIndicator: The number of customers of Teleperformance who feel that their trust has been eroded by the TP-Observer software - 0.8630050160152389
+      - hasImpactReport: The New York Times' report on the Teleperformance TP-Observer employee monitoring - 0.6637617997084849
+      - org:hasName: Impact of Teleperformance TP-Observer employee monitoring on customers of Teleperformance - 0.7576431874676273
+      - org:hasDescription: The impact of Teleperformance TP-Observer employee monitoring on customers of Teleperformance - 0.7851327735865481
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Teleperformance employees - 0.6794227521410567
+      - hasDescription: Teleperformance employees who are monitored by the TP-Observer software - 0.7720805609524423
+      - hasCatchmentArea: Global - 0.17652143455832056
+      - hasStakeholderCharacteristic: Teleperformance employees are often paid by the hour, so they are incentivized to avoid being monitored - 0.8535695918398497
+      - performs: Working for Teleperformance - 0.6985326069772234
+      - i72:located_in: Global - 0.17652143455832056
+      - oep:partOf: The Teleperformance TP-Observer employee monitoring incident - 0.6810717358421958
+    - Dictionary:
+      - hasName (title): Customers of Teleperformance - 0.6603575917689569
+      - hasDescription: Customers of Teleperformance who interact with employees who are monitored by the TP-Observer software - 0.8345377497479659
+      - hasCatchmentArea: Global - 0.17652143455832056
+      - hasStakeholderCharacteristic: Customers of Teleperformance often rely on the company to provide them with accurate and timely information - 0.9250650057259403
+      - performs: Using the services of Teleperformance - 0.7944721084347087
+      - i72:located_in: Global - 0.17652143455832056
+      - oep:partOf: The Teleperformance TP-Observer employee monitoring incident - 0.6810717358421958
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Privacy of Teleperformance employees - 0.7093574027455349
+      - hasLikelihood: high - 0.38736877211224874
+      - hasConsequence: high - 0.38736877211224874
+      - hasMitigation: Teleperformance could implement stricter controls over the use of the TP-Observer software - 0.8889797440248863
+      - hasIdentifier: 1 - -0.10627624730315026
+      - hasDescription: The risk that Teleperformance employees will have their privacy violated by the TP-Observer software - 0.8791886979926568
+    - Dictionary:
+      - forOutcome: Trust of customers of Teleperformance - 0.6315793216921717
+      - hasLikelihood: high - 0.38736877211224874
+      - hasConsequence: high - 0.38736877211224874
+      - hasMitigation: Teleperformance could provide more transparency about the use of the TP-Observer software - 0.9029692949589773
+      - hasIdentifier: 2 - -0.11202353272496827
+      - hasDescription: The risk that customers of Teleperformance will lose trust in the company due to the TP-Observer software - 0.9209941136937498
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Rite Aid customers - 0.31503136970241097
+      - forOutcome: Privacy - 0.16138577668537607
+      - fromPerspectiveOf: Rite Aid customers - 0.31503136970241097
+      - hasImportance: high importance - 0.6199272666664422
+      - intendedImpact: negative - 0.6188275918981118
+      - hasIndicator: The number of Rite Aid customers who feel that their privacy has been violated by the facial recognition software - 0.8817629302865707
+      - hasImpactReport: The New York Times' report on the Rite Aid facial recognition - 0.6672060432694719
+      - org:hasName: Impact of Rite Aid facial recognition on Rite Aid customers - 0.6554933206012522
+      - org:hasDescription: The impact of Rite Aid facial recognition on Rite Aid customers - 0.7117341841086501
+    - Dictionary:
+      - forStakeholder: Rite Aid employees - 0.31588001636344143
+      - forOutcome: Job security - 0.33271112155885335
+      - fromPerspectiveOf: Rite Aid employees - 0.31588001636344143
+      - hasImportance: high importance - 0.6199272666664422
+      - intendedImpact: negative - 0.6188275918981118
+      - hasIndicator: The number of Rite Aid employees who feel that their jobs are at risk due to the facial recognition software - 0.8904486751449909
+      - hasImpactReport: The New York Times' report on the Rite Aid facial recognition - 0.6672060432694719
+      - org:hasName: Impact of Rite Aid facial recognition on Rite Aid employees - 0.6528093231314144
+      - org:hasDescription: The impact of Rite Aid facial recognition on Rite Aid employees - 0.7088606831005118
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Rite Aid customers - 0.31503136970241097
+      - hasDescription: Rite Aid customers who are scanned by the facial recognition software - 0.7744942577687423
+      - hasCatchmentArea: United States - 0.5476299133047106
+      - hasStakeholderCharacteristic: Rite Aid customers are often concerned about their privacy - 0.7020836548426167
+      - performs: Shopping at Rite Aid - 0.2913035920836142
+      - i72:located_in: United States - 0.5476299133047106
+      - oep:partOf: The Rite Aid facial recognition incident - 0.6267579265579958
+    - Dictionary:
+      - hasName (title): Rite Aid employees - 0.31588001636344143
+      - hasDescription: Rite Aid employees who are scanned by the facial recognition software - 0.7729749880035001
+      - hasCatchmentArea: United States - 0.5476299133047106
+      - hasStakeholderCharacteristic: Rite Aid employees are often concerned about their job security - 0.7134301802616702
+      - performs: Working at Rite Aid - 0.3315885425007691
+      - i72:located_in: United States - 0.5476299133047106
+      - oep:partOf: The Rite Aid facial recognition incident - 0.6267579265579958
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Privacy of Rite Aid customers - 0.5946771051171172
+      - hasLikelihood: high - 0.3901769748308456
+      - hasConsequence: high - 0.3901769748308456
+      - hasMitigation: Rite Aid could implement stricter controls over the use of the facial recognition software - 0.8909005947654711
+      - hasIdentifier: 1 - -0.06967802467370202
+      - hasDescription: The risk that Rite Aid customers will have their privacy violated by the facial recognition software - 0.8608411017823414
+    - Dictionary:
+      - forOutcome: Job security of Rite Aid employees - 0.5920627213560411
+      - hasLikelihood: high - 0.3901769748308456
+      - hasConsequence: high - 0.3901769748308456
+      - hasMitigation: Rite Aid could provide more transparency about the use of the facial recognition software - 0.8809903560277751
+      - hasIdentifier: 2 - -0.08443402262919544
+      - hasDescription: The risk that Rite Aid employees will lose their jobs due to the facial recognition software - 0.8496965123341897
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: MoviePass users - 0.44215552391303764
+      - forOutcome: Privacy - 0.1792353293102308
+      - fromPerspectiveOf: MoviePass users - 0.44215552391303764
+      - hasImportance: high importance - 0.6131196926267206
+      - intendedImpact: negative - 0.6226856837522418
+      - hasIndicator: The number of MoviePass users who feel that their privacy has been violated by the eye-tracking software - 0.864011953748867
+      - hasImpactReport: The New York Times' report on the MoviePass preshow eye-tracking - 0.6367485445183872
+      - org:hasName: Impact of MoviePass preshow eye-tracking on MoviePass users - 0.7108946044624036
+      - org:hasDescription: The impact of MoviePass preshow eye-tracking on MoviePass users - 0.7592095712407184
+    - Dictionary:
+      - forStakeholder: MoviePass employees - 0.4832668592583514
+      - forOutcome: Job security - 0.3123781532473437
+      - fromPerspectiveOf: MoviePass employees - 0.4832668592583514
+      - hasImportance: high importance - 0.6131196926267206
+      - intendedImpact: negative - 0.6226856837522418
+      - hasIndicator: The number of MoviePass employees who feel that their jobs are at risk due to the eye-tracking software - 0.9077743988788328
+      - hasImpactReport: The New York Times' report on the MoviePass preshow eye-tracking - 0.6367485445183872
+      - org:hasName: Impact of MoviePass preshow eye-tracking on MoviePass employees - 0.7095958103976845
+      - org:hasDescription: The impact of MoviePass preshow eye-tracking on MoviePass employees - 0.7570000605545443
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): MoviePass users - 0.44215552391303764
+      - hasDescription: MoviePass users who are scanned by the eye-tracking software - 0.7587221811657773
+      - hasCatchmentArea: Global - 0.14154854849651546
+      - hasStakeholderCharacteristic: MoviePass users are often concerned about their privacy - 0.7460962210516984
+      - performs: Watching movies at MoviePass-participating theaters - 0.5362846700710171
+      - i72:located_in: Global - 0.14154854849651546
+      - oep:partOf: The MoviePass preshow eye-tracking incident - 0.6301896816804053
+    - Dictionary:
+      - hasName (title): MoviePass employees - 0.4832668592583514
+      - hasDescription: MoviePass employees who are responsible for implementing and maintaining the eye-tracking software - 0.8791146548819985
+      - hasCatchmentArea: Global - 0.14154854849651546
+      - hasStakeholderCharacteristic: MoviePass employees are often concerned about their job security - 0.7535154685831648
+      - performs: Working at MoviePass - 0.3073456816872199
+      - i72:located_in: Global - 0.14154854849651546
+      - oep:partOf: The MoviePass preshow eye-tracking incident - 0.6301896816804053
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Privacy of MoviePass users - 0.6181314261218259
+      - hasLikelihood: high - 0.3888646432406917
+      - hasConsequence: high - 0.3888646432406917
+      - hasMitigation: MoviePass could implement stricter controls over the use of the eye-tracking software - 0.8867225529812641
+      - hasIdentifier: 1 - -0.08277487298147657
+      - hasDescription: The risk that MoviePass users will have their privacy violated by the eye-tracking software - 0.8717594007974482
+    - Dictionary:
+      - forOutcome: Job security of MoviePass employees - 0.5797766630695778
+      - hasLikelihood: high - 0.3888646432406917
+      - hasConsequence: high - 0.3888646432406917
+      - hasMitigation: MoviePass could provide more transparency about the use of the eye-tracking software - 0.8911804514242095
+      - hasIdentifier: 2 - -0.08954986601028626
+      - hasDescription: The risk that MoviePass employees will lose their jobs due to the eye-tracking software - 0.8937233767857329
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Hollie Mengert - -0.22373955321198347
+      - forOutcome: Intellectual property - 0.5887953024325083
+      - fromPerspectiveOf: Hollie Mengert - -0.22373955321198347
+      - hasImportance: high importance - 0.6009222772425389
+      - intendedImpact: negative - 0.6401275317648735
+      - hasIndicator: The number of times Hollie Mengert's artwork is used without her permission - 0.7901561190705533
+      - hasImpactReport: The New York Times' report on the Hollie Mengert AI model incident - 0.5320256708454607
+      - org:hasName: Impact of Hollie Mengert AI model on Hollie Mengert - 0.5579357574524311
+      - org:hasDescription: The impact of the Hollie Mengert AI model on Hollie Mengert - 0.6700399340216733
+    - Dictionary:
+      - forStakeholder: Art community - 0.18288776009031724
+      - forOutcome: Creativity - 0.3904666703807441
+      - fromPerspectiveOf: Art community - 0.18288776009031724
+      - hasImportance: high importance - 0.6009222772425389
+      - intendedImpact: negative - 0.6401275317648735
+      - hasIndicator: The number of artists who feel that their creativity is being threatened by AI - 0.811037879054967
+      - hasImpactReport: The New York Times' report on the Hollie Mengert AI model incident - 0.5320256708454607
+      - org:hasName: Impact of Hollie Mengert AI model on art community - 0.6674548830985843
+      - org:hasDescription: The impact of the Hollie Mengert AI model on the art community - 0.7520312047333837
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Hollie Mengert - -0.22373955321198347
+      - hasDescription: Hollie Mengert, the illustrator whose artwork was used to create the AI model - 0.8585665116697827
+      - hasCatchmentArea: Global - 0.08419991042849861
+      - hasStakeholderCharacteristic: Hollie Mengert is a professional illustrator who is concerned about the unauthorized use of her artwork - 0.8362620585577912
+      - performs: Creating illustrations - 0.6116528021633011
+      - i72:located_in: United States - 0.3801173829780503
+      - oep:partOf: The Hollie Mengert AI model incident - 0.48334096883069483
+    - Dictionary:
+      - hasName (title): Art community - 0.18288776009031724
+      - hasDescription: The art community, which is concerned about the impact of AI on creativity - 0.8415445480727222
+      - hasCatchmentArea: Global - 0.08419991042849861
+      - hasStakeholderCharacteristic: The art community is a group of people who are passionate about art and are concerned about the potential impact of AI on their industry - 0.8673990696085474
+      - performs: Creating and appreciating art - 0.6983211421420281
+      - i72:located_in: Global - 0.08419991042849861
+      - oep:partOf: The Hollie Mengert AI model incident - 0.48334096883069483
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Intellectual property of Hollie Mengert - 0.5500641846231937
+      - hasLikelihood: high - 0.3631542322136027
+      - hasConsequence: high - 0.3631542322136027
+      - hasMitigation: Hollie Mengert could copyright her artwork - 0.5752645635481038
+      - hasIdentifier: 1 - -0.15845410015374561
+      - hasDescription: The risk that Hollie Mengert's artwork will be used without her permission - 0.8273994286249726
+    - Dictionary:
+      - forOutcome: Creativity of art community - 0.6058623806949482
+      - hasLikelihood: high - 0.3631542322136027
+      - hasConsequence: high - 0.3631542322136027
+      - hasMitigation: The art community could work with AI developers to ensure that AI is used in a way that is beneficial to creativity - 0.9071201356066856
+      - hasIdentifier: 2 - -0.15483528550621284
+      - hasDescription: The risk that AI will stifle creativity in the art community - 0.8383702322634379
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-nhs-digital-medical-history-database
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Patients - 0.46434980380731045
+      - forOutcome: Privacy - 0.2150007515201609
+      - fromPerspectiveOf: Patients - 0.46434980380731045
+      - hasImportance: high importance - 0.6211210617663497
+      - intendedImpact: negative - 0.6451960073246147
+      - hasIndicator: The number of patients who feel that their privacy has been violated by the digital medical history database - 0.8843521553070711
+      - hasImpactReport: The Guardian's report on the UK NHS digital medical history database - 0.7481295134063817
+      - org:hasName: Impact of UK NHS digital medical history database on patients - 0.7384060292070144
+      - org:hasDescription: The impact of the UK NHS digital medical history database on patients - 0.808107599946494
+    - Dictionary:
+      - forStakeholder: NHS staff - 0.3320774838145219
+      - forOutcome: Job security - 0.355707874769185
+      - fromPerspectiveOf: NHS staff - 0.3320774838145219
+      - hasImportance: high importance - 0.6211210617663497
+      - intendedImpact: negative - 0.6451960073246147
+      - hasIndicator: The number of NHS staff who feel that their jobs are at risk due to the digital medical history database - 0.9122132259183351
+      - hasImpactReport: The Guardian's report on the UK NHS digital medical history database - 0.7481295134063817
+      - org:hasName: Impact of UK NHS digital medical history database on NHS staff - 0.6852958772314977
+      - org:hasDescription: The impact of the UK NHS digital medical history database on NHS staff - 0.7675768249004549
+    - Dictionary:
+      - forStakeholder: Public health - 0.48638910441648475
+      - forOutcome: Healthcare - 0.35235896122928495
+      - fromPerspectiveOf: Public health - 0.48638910441648475
+      - hasImportance: high importance - 0.6211210617663497
+      - intendedImpact: negative - 0.6451960073246147
+      - hasIndicator: The number of people who are denied access to healthcare due to the digital medical history database - 0.9209965780183548
+      - hasImpactReport: The Guardian's report on the UK NHS digital medical history database - 0.7481295134063817
+      - org:hasName: Impact of UK NHS digital medical history database on public health - 0.754636334952904
+      - org:hasDescription: The impact of the UK NHS digital medical history database on public health - 0.814756177205757
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Patients - 0.46434980380731045
+      - hasDescription: Patients who use the UK NHS digital medical history database - 0.785722278126928
+      - hasCatchmentArea: United Kingdom - 0.43900213528816107
+      - hasStakeholderCharacteristic: Patients are concerned about the privacy of their medical records - 0.8704460621560682
+      - performs: Seeking medical care - 0.6135263553949325
+      - i72:located_in: United Kingdom - 0.43900213528816107
+      - oep:partOf: The UK NHS digital medical history database incident - 0.6710951270968991
+    - Dictionary:
+      - hasName (title): NHS staff - 0.3320774838145219
+      - hasDescription: NHS staff who use the UK NHS digital medical history database - 0.7197633368449201
+      - hasCatchmentArea: United Kingdom - 0.43900213528816107
+      - hasStakeholderCharacteristic: NHS staff are concerned about the impact of the digital medical history database on their jobs - 0.8987873370038305
+      - performs: Providing medical care - 0.6067445835404972
+      - i72:located_in: United Kingdom - 0.43900213528816107
+      - oep:partOf: The UK NHS digital medical history database incident - 0.6710951270968991
+    - Dictionary:
+      - hasName (title): Public health - 0.48638910441648475
+      - hasDescription: Public health organizations that are responsible for ensuring that everyone has access to healthcare - 0.9125108796988741
+      - hasCatchmentArea: United Kingdom - 0.43900213528816107
+      - hasStakeholderCharacteristic: Public health organizations are concerned about the impact of the digital medical history database on access to healthcare - 0.9231883658471605
+      - performs: Providing healthcare - 0.661836725121236
+      - i72:located_in: United Kingdom - 0.43900213528816107
+      - oep:partOf: The UK NHS digital medical history database incident - 0.6710951270968991
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Privacy of patients - 0.6617332004477247
+      - hasLikelihood: high - 0.37642755454373117
+      - hasConsequence: high - 0.37642755454373117
+      - hasMitigation: The NHS could implement stronger security measures to protect patient data - 0.8604058679150609
+      - hasIdentifier: 1 - -0.09555240142743793
+      - hasDescription: The risk that patient data will be accessed by unauthorized individuals - 0.8103754523410268
+    - Dictionary:
+      - forOutcome: Job security of NHS staff - 0.6027100158386988
+      - hasLikelihood: medium - 0.4866193662420542
+      - hasConsequence: medium - 0.4866193662420542
+      - hasMitigation: The NHS could provide training to NHS staff on how to use the digital medical history database - 0.8690388386885076
+      - hasIdentifier: 2 - -0.1077986522355438
+      - hasDescription: The risk that NHS staff will lose their jobs due to the digital medical history database - 0.9006885053805761
+    - Dictionary:
+      - forOutcome: Healthcare - 0.35235896122928495
+      - hasLikelihood: low - 0.2780321125720163
+      - hasConsequence: low - 0.2780321125720163
+      - hasMitigation: The NHS could develop a plan to ensure that everyone has access to healthcare even if they are denied access to the digital medical history database - 0.9089339193723155
+      - hasIdentifier: 3 - -0.0860657502345534
+      - hasDescription: The risk that people will be denied access to healthcare due to the digital medical history database - 0.9130420781806068
+
+Source url: https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots
+Property name: StakeholderOutcomes
+  List of values:
+    - Dictionary:
+      - forStakeholder: Public safety - 0.47038392465887696
+      - forOutcome: Safety - 0.2172431274160368
+      - fromPerspectiveOf: Public safety - 0.47038392465887696
+      - hasImportance: high importance - 0.6307742649996912
+      - intendedImpact: positive - 0.5923994344858209
+      - hasIndicator: The number of crimes that are prevented by the Xavier patrol robots - 0.8226051231002353
+      - hasImpactReport: The Straits Times' report on the Singapore Xavier patrol robots - 0.6764298520447118
+      - org:hasName: Impact of Singapore Xavier patrol robots on public safety - 0.7837529217580372
+      - org:hasDescription: The impact of the Singapore Xavier patrol robots on public safety - 0.8405893428601546
+    - Dictionary:
+      - forStakeholder: Civil liberties - 0.39413412481208526
+      - forOutcome: Privacy - 0.1952044924517107
+      - fromPerspectiveOf: Civil liberties - 0.39413412481208526
+      - hasImportance: high importance - 0.6307742649996912
+      - intendedImpact: negative - 0.6226960580714409
+      - hasIndicator: The number of people who feel that their privacy has been violated by the Xavier patrol robots - 0.8394119478252384
+      - hasImpactReport: The Straits Times' report on the Singapore Xavier patrol robots - 0.6764298520447118
+      - org:hasName: Impact of Singapore Xavier patrol robots on civil liberties - 0.7630965316483292
+      - org:hasDescription: The impact of the Singapore Xavier patrol robots on civil liberties - 0.8244199799902787
+Property name: Stakeholders
+  List of values:
+    - Dictionary:
+      - hasName (title): Public safety - 0.47038392465887696
+      - hasDescription: Government agencies responsible for public safety - 0.7875465684841927
+      - hasCatchmentArea: Singapore - 0.4838799904308648
+      - hasStakeholderCharacteristic: Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime - 0.8954897714006311
+      - performs: Enforcing the law - 0.663448213187258
+      - i72:located_in: Singapore - 0.4838799904308648
+      - oep:partOf: The Singapore Xavier patrol robots incident - 0.630058765385199
+    - Dictionary:
+      - hasName (title): Civil liberties - 0.39413412481208526
+      - hasDescription: Organizations that are concerned about the protection of civil liberties - 0.8626000701800522
+      - hasCatchmentArea: Global - 0.20094153572500445
+      - hasStakeholderCharacteristic: Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy - 0.9014886785584533
+      - performs: Advocating for civil liberties - 0.7381490416404403
+      - i72:located_in: Global - 0.20094153572500445
+      - oep:partOf: The Singapore Xavier patrol robots incident - 0.630058765385199
+Property name: ImpactRisks
+  List of values:
+    - Dictionary:
+      - forOutcome: Safety of public - 0.6565266317921765
+      - hasLikelihood: medium - 0.5104121402551784
+      - hasConsequence: high - 0.4026661285581067
+      - hasMitigation: The Xavier patrol robots could be hacked and used to harm people - 0.8159096586440014
+      - hasIdentifier: 1 - -0.06209453718449559
+      - hasDescription: The risk that the Xavier patrol robots will be used to harm people - 0.8247877431913483
+    - Dictionary:
+      - forOutcome: Privacy of citizens - 0.6615687377017533
+      - hasLikelihood: high - 0.4026661285581067
+      - hasConsequence: high - 0.4026661285581067
+      - hasMitigation: The Xavier patrol robots could be used to collect data on citizens without their consent - 0.8423217460511241
+      - hasIdentifier: 2 - -0.0684610202764923
+      - hasDescription: The risk that the Xavier patrol robots will be used to collect data on citizens without their consent - 0.8699206646797515

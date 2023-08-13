@@ -1,0 +1,178 @@
+- Occurred: April 2022
+- Can you improve this page?Share your insights with us
+- A mobile phone-based anti-speeding app is drawing criticism for its privacy implications and potential use as a surveillance tool, according to The Guardian.
+- Speedcam Anywhere's AI-based app works by taking a short video clip of a passing vehicle, which is automatically assessed to gauge vehicle speed against local speed limits, with a report (pdf) generated which can be shared with authorities.
+- While not formally approved by the police, the app is being trialed in the UK by speed safety campaigners 20’s Plenty For Us and is described by the NGO's founder Rod King MBE as a 'game changer'. A senior police officer told the Guardian it is a 'potentially very significant' deterrent to dangerous driving.
+- However, drivers and rights activists worry Speedcam Anywhere is overly intrusive and the clips and reports can too easily be used for a number of unethical purposes. App users also complain the app is difficult to use and unreliable on Google Play.
+- Operator: Speedcam Anywhere; 20’s Plenty For Us Developer: Speedcam AnywhereCountry: UK Sector: AutomotivePurpose: Estimate vehicle speed Technology: Automated license plate/number recognition (ALPR/ANPR); Computer vision Issue: Accuracy/reliability; Dual/multi-use; Surveillance; Privacy Transparency: Privacy
+URL: https://speedcamanywhere.com/
+- Putting the power of AI in your hands to help make our roads safer and our
+                        air cleaner.
+- App Store Coming Soon!
+- Vehicle exhaust emissions - CO2, PM2.5 and NOx - are highest during acceleration. Microplastic particulates from tire emissions are highest during braking, accelerating and cornering quickly. In urban areas, vehicles accelerate and decelerate repeatedly due to junctions and traffic. Allowing for the emissions when vehicles are accelerating and they typically have the lowest NOx and CO2 emissions, and the best mpg, when driven at maximum speeds of 15-20mph. Particulate Matter (PM2.5) from tyre wear and brake pad wear is a lot higher when decelerating from higher speeds, and also from cornering at higher speeds.
+                                Because of the extra emissions during acceleration, NOx and CO2 go up rapidly when driving at higher speeds in urban areas.
+- For details see here.
+- Electric cars are always more efficient and always have lower PM emissions at lower speeds.
+- Speedcam Anywhere does not issue speeding tickets or fines like a conventional speed camera and has not been approved in the UK to be used as one. Speedcam Anywhere is the same as a dashcam, that can be used to gather evidence of motoring offences. As with a dashcam, any prosecution would always have to be done by the Police, and at the discretion of the local Police force.
+- Speedcam Anywhere do not ourselves pass on any information to the Police. We may be requested to do so at some future date.
+- In Pro Mode, Speedcam Anywhere is substantially more accurate than +/-2mph. You should check in the report that the vehicle details are correct and the wheel locations are accurately identified before using the speed measurement. If any of those are wrong, the speed will not be correct.
+                        Speedcam Anywhere does not rely on any sensors that require calibration. The only two measurements it uses are the length of the vehicle wheelbase, and the video timestamps taken from the internal clock in the phone. Your phone's clock is substantially more accurate than is required to measure a vehicle speed from a video. To get an error of 0.1mph in a 30mph measurement would require an error of 1 part in 300 in the phone clock. This would mean your phone clock losing 5 minutes a day. If the internal clock was that inaccurate, it would be unable to stay synchronised with the mobile phone network.
+                        
+In Basic Mode, accuracy is around +/- 10% of the vehicle speed. Errors will be higher for non-standard sized vehicles.
+- Speedcam Anywhere does not rely on any sensors that require calibration. The only two measurements it uses are the length of the vehicle wheelbase, and the video timestamps taken from the internal clock in the phone. Your phone's clock is substantially more accurate than is required to measure a vehicle speed from a video. To get an error of 0.1mph in a 30mph measurement would require an error of 1 part in 300 in the phone clock. This would mean your phone clock losing 5 minutes a day. If the internal clock was that inaccurate, it would be unable to stay synchronised with the mobile phone network.
+- In Basic Mode, accuracy is around +/- 10% of the vehicle speed. Errors will be higher for non-standard sized vehicles.
+- Vehicle exhaust emissions - CO2, PM2.5 and NOx - are highest during acceleration. Microplastic particulates from tire emissions are highest during braking, accelerating and cornering quickly. In urban areas, vehicles accelerate and decelerate repeatedly due to junctions and traffic. Allowing for the emissions when vehicles are accelerating and they typically have the lowest NOx and CO2 emissions, and the best mpg, when driven at maximum speeds of 15-20mph. Particulate Matter (PM2.5) from tyre wear and brake pad wear is a lot higher when decelerating from higher speeds, and also from cornering at higher speeds.
+                            Because of the extra emissions during acceleration, NOx and CO2 go up rapidly when driving at higher speeds in urban areas.
+
+
+For details see here.
+Electric cars are always more efficient and always have lower PM emissions at lower speeds.
+- 
+- For details see here.
+- Electric cars are always more efficient and always have lower PM emissions at lower speeds.
+- Speedcam Anywhere needs to be able to get a clear view of the whole vehicle passing across the screen. It needs to have a clear view of the wheels, and to get an accurate measurement, a clear view of the numberplate as the vehicle passes. Aim the camera at about 45 degrees across the road for best results. The phone must be held still for 2 seconds whilst the capture takes place. Do not pan the camera to follow the vehicle. Practice in Basic Mode before using more credits in Pro Mode.
+- Lower spec phone cameras, rain, bad light and being further away from the vehicle will reduce the likelihood of the capture succeeding.
+- App Store Coming Soon!
+- Copyright © 2022 Speedcam Anywhere - All rights reserved - mailto:contact@speedcamanywhere.com
+
+URL: https://www.20splenty.org/how_sca_works
+- There was an article on the Speedcam Anywhere app in the Road CC website and a few comments where readers had not understood how it works. I posted the following as an explanation and thought it might be useful.
+- Optional email code
+- Optional email code
+- Sign in with Facebook, Twitter or email.
+- Created with NationBuilder
+- Follow @20splentyforus on Twitter
+
+URL: https://assets.nationbuilder.com/20splentyforus/pages/590/attachments/original/1648742200/Speedcam_Anywhere_Example_Report.pdf?1648742200
+
+URL: https://www.theguardian.com/world/2022/apr/10/speed-camera-app-developers-face-abuse-from-uk-drivers
+- Speedcam Anywhere allows anyone to submit evidence of drivers speeding
+- The developers of a new app that uses AI to estimate the speed of a passing car say they have been forced into anonymity by the vicious response from drivers.
+- The app, Speedcam Anywhere, is the product of a team of AI scientists with backgrounds in Silicon Valley companies and top UK universities. Its creators hope it will encourage police to take speeding more seriously and enable residents, pedestrians and cyclists to document traffic crimes in their area.
+- But since it launched in March, the vitriol levied at the team is such that they are afraid of sharing their real identities. “We’re getting quite abusive emails,” said Sam, the app’s founder, who spoke on condition of anonymity. “It’s a Marmite product – some people think it’s a good idea, some people think that it turns us into a surveillance state.
+- “I can see both sides of that, but I think that if you’re going to have speed limits, then it’s the law that you obey them, and you should enforce the law. It’s not a personal vendetta against anyone, it’s just – how do we make our roads safe? There are 20,000 serious injuries on the roads every year – how can we reduce them? And the way we reduce them is we make a deterrent to speeding.”
+- One online review for the app said: “In East Germany, citizens were encouraged to report their neighbours to the Stasi for even the smallest societal infraction. ‘Congratulations’ on creating a modern day version of that. If you couldn’t tell, I’m being sarcastic. This app disgusts me.”
+- The app has faced difficulties. Google refused to allow the team to publish it on the Play Store, saying it was not possible to estimate the speed of a passing vehicle using AI alone – a claim proved wrong when the company provided a demonstration of the technology. An iOS version has also been developed but Apple has yet to approve it for distribution and has not given a reason for the delay. “We’re not sure why they would block a useful piece of technology, something that could save people’s lives,” Sam said.
+- For several years, police forces have accepted user-uploaded footage of traffic crimes. That has enabled some citizens, such as cyclist Mike van Erp, to submit evidence leading to hundreds of prosecutions for unsafe driving. “What we did is extended the sort of capabilities that dashcam systems have, so that you can automate the forensic video analysis that dashcams already do. So instead of a human looking at a video working out the offence, we’ve created software that automates the process.”
+- The app cannot lead to drivers receiving speeding tickets. Since Speedcam Anywhere’s algorithm has not been vetted by the Home Office, it is not legally a speed camera, and cannot provide sufficient evidence for a police force to issue a prosecution for speeding, although the broader “dangerous driving” offence may apply if the driving is sufficiently negligent.
+- Sam hopes widespread use of the app will instead alert police to speeding hotspots and encourage them to take more action to prevent dangerous driving. “I think this is a step in the bigger journey of how we make our roads safer and more accessible for everybody.
+- “Having roads that are just too dangerous for kids to cycle to school on, having roads that are too dangerous for parents let their kids cross – I think that’s wrong, and society needs to get over it. Make the roads safer, make them less unpleasant, and then we can start to look at how else we can move around.”
+- Apple has been contacted for comment.
+- A user of the app opens it when they hear a speeding car approaching and films the car passing.
+- The app uses the number plate of the passing car to search the DVLA’s public registration database to find the make and model of the car.
+- From there, it determines the distance between the axles of the car, and compares it with the footage to calculate the speed.
+- The user then has the option of saving the video, or generating a report from it to share with the authorities.
+
+URL: https://www.thesun.co.uk/tech/18156725/speed-camera-app-cops-smartphone-police-citation/
+- A NEW app boasts that it can turn any smartphone into a speed camera and make it more difficult for drivers to get away with traffic violations.
+- Speedcam Anywhere lets users record videos of vehicles as they drive past, before uploading them to a site that determines the approximate speed it was traveling.
+- Developers claim that the app is accurate to within two percent in "pro" mode, or 10 percent in "basic" mode, the Express reports.
+- The footage can even be submitted to the police, who can decide whether to issue a citation.
+- The app can not only estimate a vehicle's speed, but also its location, in addition to identifying hotspots for speeding.
+- Recordings taken with the app are saved as links, which are automatically emailed to the user.
+- Already launched in the UK, the app has yet to be approved by any law enforcement department, and it is questionable whether the footage would be admissible in a court.
+- Developers of the app have said that the communication between law enforcement and the public will make the streets safer and encourage people to drive more responsibly.
+- “The app is not critically dependent upon the angle of approach or departure of the vehicle as long as the number plate and side can be seen in the video captured," developer Sam Bailey said to Local Transport Today.
+- "Only a two-second clip of the passing vehicle is needed.”
+- Law enforcement officials agree that the app could serve as a deterrent to dangerous driving habits.
+- Detective chief superintendent at Lincolnshire Police Andy Cox told Local Transport Today that five people on average die per day in UK road crashes.
+- “This devastation is preventable and we need to develop innovative methods to eradicate road danger," said Cox.
+- "One such method is the use of dashcam and headcam technology by the public to capture dangerous and reckless driving and report it to the police."
+- "The police cannot be everywhere all of the time but the public can be and as word spreads of this capability it is likely to act as a deterrent to bad driving.”
+- According to the app's website, Speedcam Anywhere is "being evaluated for launch in the United States."
+- Currently, the app works anywhere in the UK and is not yet available to download outside of the country.
+- Do you have a story for The US Sun team?
+- Email us at exclusive@the-sun.com or call 212 416 4552.
+- Like us on Facebook at www.facebook.com/TheSunUS and follow us from our main Twitter account at @TheSunUS
+- More details of Schofield’s affair with young lover including trysts at ITV flat
+- Phillip Schofield's lover appeared on NTAs stage with This Morning star
+- Countdown's Rachel Riley says romance with hubby Pasha Kovalev is 'on hold'
+- Toddler, 3, dies after catching herpes as parents share devastating warning
+- ©News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy. To inquire about a licence to reproduce material, visit our Syndication site. View our online Press Pack. For other inquiries, Contact Us. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the Independent Press Standards Organisation (IPSO)
+- Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click this link: thesun.co.uk/editorial-complaints/
+
+URL: https://www.express.co.uk/life-style/cars/1590459/speed-camera-app-driving-fine
+- Concerns have been raised over a new app that lets members of the public register the speed of passing cars and submit footage to police. The ‘Speedcam anywhere’ app allows users to take video of passing cars before uploading it to a site which analyses the footage to get the speed they are doing.
+- The site charges users £14.99 per 1000 pieces of footage processed and promises to be accurate to within 2 percent in ‘pro’ mode or 10 percent in ‘basic’ mode.
+- According to the app’s website the server “can measure the vehicle speed from the video, check vehicle speeds against speed limits, and provide a report showing evidence of the vehicle speed".
+- “It also generates road safety reports and identifies speeding hotspots.”
+- The app is currently being trialled by volunteers from the ‘20’s Plenty For Us’ charity, which campaigns for lower speed limits.
+- READ MORE: Motorists warned of major driving law changes in April - Car tax rise
+- 
+- While the app website says that it doesn’t issue speeding tickets or send footage to police, it does encourage users to ‘gather evidence’.
+- It states: “Speedcam Anywhere does not issue speeding tickets or fines like a conventional speed camera and has not been approved in the UK to be used as one.
+- “Speedcam Anywhere is the same as a dashcam, that can be used to gather evidence of motoring offences.
+- “As with a dashcam, any prosecution would always have to be done by the Police, and at the discretion of the local Police force.
+- “Speedcam Anywhere do not ourselves pass on any information to the Police. We may be requested to do so at some future date.”
+- It tells users to: “Simply install the app, stand in a safe place at the side of the road and point your camera at a passing vehicle and tap to capture a short video, which will be analysed to accurately calculate its speed.”
+- Rod King, Founder and Campaign Director for 20's Plenty for Us said : “By allowing communities and local authorities to submit clear and unambiguous evidence of careless and inconsiderate driving this technology will be a game-changer in speed limit enforcement.
+- “It allows police forces to align with community needs for compliance without imposing an increased load on the police.
+- “We expect it to be welcomed by all those interested in making our communities safer.”
+- 
+- More than one in six speeding offences detected by police in England and Wales is cancelled, according to data from the RAC.
+- Of the 2.4 million speeding cases recorded in the 12 months to the end of March last year, 400,000 - 17 percent - had been dismissed, analysis of Home Office data revealed.
+- It said offences were dropped against motorists for a number of reasons, including faulty and incorrectly calibrated speed cameras.
+- There were also delays in issuing notices of intended prosecution and a lack of resources to bring cases to court.
+- 
+- According to Gov.uk: “The minimum penalty for speeding is a £100 fine and 3 penalty points added to your licence.
+- “You could be disqualified from driving if you build up 12 or more penalty points within a period of three years.
+- “If you’re caught by a speed camera, within 14 days of your car being caught speeding you’ll be sent a Notice of Intended Prosecution (NIP) and a Section 172 notice.
+- “You must return the Section 172 notice within 28 days, telling the police who was driving the car.”
+- See today's front and back pages, download the newspaper, order back issues and use the historic Daily Express newspaper archive.
+
+URL: https://www.eta.co.uk/2022/03/29/new-smartphone-app-allows-pedestrians-to-report-speeding-drivers/
+- Call us now 0333 000 1234
+- 1 Comment
+View now
+- Following news that New Yorkers can now earn a generous bounty if they submit camera footage of illegal idling lorries, comes a British-designed app that can identify and help report speeding drivers.
+- With speeding on British roads commonplace and for the most part unchallenged due to an underfunded police force and a government unwilling to fully expand a network of speed cameras, there’s bound to be an appetite for the Speedcam Anywhere app.
+- Speedcam Anywhere is able to use a video clip to calculate the speed of a vehicle as well as its location. It generates a link which is  automatically emailed to the user for uploading to police dashcam web sites.
+- Point and click: The app automatically calculates the speed of the vehicle you’re filming
+- The app has not yet been Type Approved by the Home Office, so cannot issue speeding tickets, but evidence from the app can be presented to police forces so they can issue Anti-Social Driving Orders for Section 59 offences, where inconsiderate driving causes alarm and distress.
+- Rod King MBE, founder and campaign director of 20’s Plenty for Us, described the system as a “game changer”.
+- “Speedcam Anywhere bypasses the current resource bottlenecks associated with enforcement,” said King. “We have police forces that desperately want to reduce road offences and speeding offences, but many will only prioritise minimal resources to the task.
+- 
+- “Speedcam Anywhere can be discreetly and safely used by pedestrians in a very similar way to drivers using dashcams. But unlike dashcam footage the ‘analysis report’ requires little police back office analysis other than deciding whether and which offence to sanction. In addition, being digital it can be connected directly to current back-office systems to process the paperwork. Hence police retain full control of the outcome.”
+- 
+- Developer of the app, Sam Bailey, told Local Transport Today: “The app is not critically dependent upon the angle of approach or departure of the vehicle as long as the number plate and side can be seen in the video captured. Only a two-second clip of the passing vehicle is needed.”
+- Detective chief superintendent at Lincolnshire Police  Andy Cox said the new app is “potentially very significant” as a deterrent to dangerous driving. “Sadly, five people on average die every day in a road crash within the UK,” said Cox, who is the national lead for fatal collision investigation reporting to the National Police Chiefs’ Council.
+- “This devastation is preventable and we need to develop innovative methods to eradicate road danger.  One such method is the use of dashcam and headcam technology by the public to capture dangerous and reckless driving and report it to the police. The police cannot be everywhere all of the time but the public can be and as word spreads of this capability it is likely to act as a deterrent to bad driving.”
+- Cox told LTT:  “Public referrals are increasing and enforcement of these referrals is high and outcomes include drivers losing their license. To further develop this important work I am keen it tackles the biggest single contributory factor in fatal crashes – ‘speed’. I am therefore keen technology providers enable dashcam and headcam devices to capture speeding offences.”
+- It  is hoped the app will act as a deterrent because any of the people you drive past could be filming and reporting your speed – very different from drivers feeling they only have to comply with the law when approaching a speed camera or when someone in a hi-vis jacket at the side of the road is pointing a speed gun at them.
+- The app is available to download from SpeedcamAnywhere.com or the Google Play Store.
+- The ETA was established in 1990 as an ethical provider of green, reliable travel services. Over 30 years on, we continue to offer cycle insurance , breakdown cover  and mobility scooter insurance while putting concern for the environment at the heart of all we do.
+- The Good Shopping Guide judges us to be the UK’s most ethical provider.
+- Cycle Insurance Quick Quote
+            
+
+
+
+
+
+                    Start now
+- 
+- 1 Comment
+View now
+- All information on this page regarding insurance policies correct at the time of publication
+- 23/05/23
+- 23/05/23
+- 22/05/23
+- 18/05/23
+- 18/05/23
+- 17/05/23
+- 1 Comment
+- Seems to only be available on Android, which is a shame. Is an iPhone version in the works?
+- Your email address will not be published. Your name and email are required.
+- Name
+- Email
+- Comment *
+- Post Comment
+- 
+- 23/05/23
+- 23/05/23
+- 23/05/23
+- 22/05/23
+- 18/05/23
+- ETA Services Ltd is registered in England (3314244) and is authorised and regulated by the Financial
+                Conduct Authority – number 313965. Registered office: 68 High Street, Weybridge KT13 8BL
+

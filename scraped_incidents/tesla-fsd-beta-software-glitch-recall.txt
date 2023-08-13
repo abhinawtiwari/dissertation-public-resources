@@ -1,0 +1,160 @@
+- Occurred: November 2021
+- Can you improve this page?Share your insights with us
+- Tesla has been forced to issue a US recall (pdf) for a glitch in its Full Self-Driving system. The recall affects over 11,700 vehicles.
+- Tesla uninstalled FSD 10.3 following driver reports of inadvertent activation of their cars' automatic emergency braking system, and says it is unaware of any crashes resulting from the glitches.
+- Tesla’s FSD Beta testing programme has attracted criticism for attempting to stifle untrained test drivers with non-disclosure agreements (NDAs).
+- Operator:  Developer: Tesla Country: USA Sector: AutomotivePurpose: Automate steering, acceleration, brakingTechnology: Self-driving system Issue: Safety; Accuracy/reliabilityTransparency: Black box; Legal
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Full Self-Driving Wikipedia profile
+URL: https://static.nhtsa.gov/odi/rcl/2021/RCLRPT-21V846-7836.PDF
+
+URL: https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141
+- In possibly the biggest blow to Tesla’s Full Self-Driving beta rollout yet (and there have been several), the company has been forced to issue a recall affecting over 11,700 vehicles equipped with the software.
+- Tesla opted to uninstall FSD 10.3 across a suite of Model S, X, 3, and Y vehicles following reports of software communication errors (glitches) that in some cases could result in “false forward-collision warnings’’ or automatic braking, according to the recall. Though Tesla was not aware of any crashes resulting from the glitches, the recall acknowledges unexpected braking could increase the risk of rear-end collisions. Tesla says it acted quickly to remedy the bugs and issued an over-the-air software update to affected vehicles.
+- In a statement sent to Gizmodo, an National Highway Traffic Safety Administration spokesperson confirmed Tesla implemented the recall affecting 11,704 vehicles.
+- “Tesla uninstalled FSD 10.3 after receiving reports of inadvertent activation of the automatic emergency braking system,” the spokesperson said. “Tesla informed NHTSA that it has updated the software and released FSD version 10.3.1 to those vehicles affected. NHTSA will continue its conversations with Tesla to ensure that any safety defect is promptly acknowledged and addressed according to the National Traffic and Motor Vehicle Safety Act.”
+- News of the recall comes less than a month after the NHTSA issued a letter to Tesla where it asked the company why it had decided against issuing a recall despite issuing an FSD fix through another over-the-air update.
+- “Any manufacturer issuing an over-the-air update that mitigates a defect that poses an unreasonable risk to motor vehicle safety is required to timely file an accompanying recall notice to NHTSA,” the agency wrote at the time.
+- This marks Tesla’s most significant US recall related to driver assistance features in the United States so far. But regulators in other parts of the world have been more hands-on. Earlier this year, China’s State Administration for Market Regulation recalled nearly 300,000 vehicles over safety issues related to its cruise control feature. In that case, regulators determined the cruise control feature in some Model 3 sedans and Model Y compact crossover vehicles could be activated by accident, resulting in the vehicles appearing to inexplicably speed up.
+- Though Tesla claims its software update fixed the bugs plaguing its $10,000 FSD package, the hiccup adds to the mounting cloud of safety concerns involving FSD.
+- Back in July, Consumer Reports warned FSD lacked adequate safeguards and led to “vehicles missing turns, scraping against bushes, and heading toward parked cars.” Those alleged safety lapses pose potential dangers not just for FSD drivers, but for pedestrians, cyclists, and other motorists as well who never consented to drive alongside a glitchy, semi-autonomous 4,500-pound hunk of aluminum with a propensity for bursting in flames.
+- Tesla’s leadership hasn’t helped its cause either. Ahead of FSD’s beta expansion earlier this year, CEO Elon Musk published a Tweet telling drivers to, “please be paranoid,” acknowledging that the FSD beta will bring “unknown issues.”
+- All of this fans the flames of concerns from drivers, both of Tesla’s FSD and self-driving systems generally. According to a 2020 J.D. Power survey, 31% of auto industry experts cited gaining consumer trust and acceptance as leading challenges to adopting self-driving vehicles. In that same survey, 69% of U.S. consumers noted technology failures as their primary concern around self-driving features.
+
+URL: https://www.theguardian.com/technology/2021/nov/02/tesla-recall-nearly-12000-us-vehicles-software-glitch
+- Communication error may cause a false forward-collision warning or unexpected activation of the emergency brakes
+- Nearly 12,000 Tesla vehicles sold in the US since 2017 are the subject of a safety recall because a communication error may cause a false forward-collision warning or unexpected activation of the emergency brakes, the National Highway Traffic Safety Administration (NHTSA) said on Tuesday.
+- The California automaker said the concern over 11,704 Model S, X, 3 and Y vehicles was prompted after a software update on 23 October to vehicles in its limited early access version 10.3 Full-Self Driving (FSD) (Beta) population.
+- FSD is an advanced driver assistance system that handles some driving tasks but Tesla says does not make vehicles autonomous.
+- NHTSA said Tesla “uninstalled FSD 10.3 after receiving reports of inadvertent activation of the automatic emergency braking system” and then “updated the software and released FSD version 10.3.1 to those vehicles affected”.
+- The agency said it “will continue its conversations with Tesla to ensure that any safety defect is promptly acknowledged and addressed”.
+- The recall comes after NHTSA last month asked Tesla why it had not issued a recall to address software updates made to its autopilot driver-assistance system to improve the vehicles’ ability to detect emergency vehicles.
+- Tesla said the issue was prompted by a software communication disconnect between two onboard chips that prompted an issue that could produce “negative object velocity detections when other vehicles are present”.
+- If the automatic emergency braking system unexpectedly activates while driving, it could raise the risk of a rear-end collision, Tesla said, but added it was not aware of any crashes or injuries related to the issue.
+- After the 24 October reports, Tesla said canceled the FSD update on vehicles that had not installed it and disabled FCW and AEB on affected vehicles.
+- The same day, the Tesla chief executive, Elon Musk, tweeted of FSD: “Seeing some issues with 10.3, so rolling back to 10.2 temporarily. Please note, this is to be expected with beta software.”
+- On 25 October, Tesla began deploying the over-the-air software update and re-enabled FCW and AEB features on vehicles with the update.
+- Tesla said as of 29 October, more than 99.8% of the vehicles – all but for 17 – had installed an update and no further action is necessary.
+- NHTSA in August opened a formal safety probe into Tesla’s autopilot system in 765,000 US vehicles after a series of crashes involving Tesla models and emergency vehicles.
+- The US auto safety agency also asked Tesla in October about its “Autosteer on City Streets” which the company also refers to as FSD first leased in October 2020, and raised concerns about limits on disclosure by drivers of safety issues.
+
+URL: https://www.reuters.com/business/autos-transportation/tesla-recalling-nearly-12000-us-vehicles-over-software-communication-error-2021-11-02/
+- [1/2] A Tesla logo on a Model S is photographed inside of a Tesla dealership in New York, U.S., April 29, 2016. REUTERS/Lucas Jackson/File Photo/File Photo
+- WASHINGTON, Nov 2 (Reuters) - Tesla Inc is recalling nearly 12,000 U.S. vehicles sold since 2017 because a communication error may cause a false forward-collision warning or unexpected activation of the emergency brakes, the National Highway Traffic Safety Administration (NHTSA) said Tuesday.
+- The California automaker said the recall of 11,704 Model S, X, 3 and Y vehicles was prompted after a software update on Oct. 23 to vehicles in its limited early access version 10.3 Full-Self Driving (FSD) (Beta) population.
+- FSD is an advanced driver assistance system that handles some driving tasks but Tesla says does not make vehicles autonomous.
+- NHTSA said Tesla "uninstalled FSD 10.3 after receiving reports of inadvertent activation of the automatic emergency braking system" and then "updated the software and released FSD version 10.3.1 to those vehicles affected."
+- The agency said it "will continue its conversations with Tesla to ensure that any safety defect is promptly acknowledged and addressed."
+- The recall comes after NHTSA last month asked Tesla why it had not issued a recall to address software updates made to its Autopilot driver-assistance system to improve the vehicles' ability to detect emergency vehicles.
+- Tesla said the issue was prompted by a software communication disconnect between two onboard chips that prompted an issue that could produce "negative object velocity detections when other vehicles are present."
+- If the automatic emergency braking system unexpectedly activates while driving, it could raise the risk of a rear-end
+- collision, Tesla said, but added it was not aware of any
+- crashes or injuries related to the issue.
+- After the Oct. 24 reports, Tesla said canceled the FSD update on vehicles that had not installed it and disabled FCW and AEB on affected vehicles.
+- The same day, Tesla Chief Executive Elon Musk tweeted of FSD: "Seeing some issues with 10.3, so rolling back to 10.2 temporarily. Please note, this is to be expected with beta software."
+- On Oct. 25, Tesla began deploying the over-the-air software update and re-enabled FCW and AEB features on vehicles with the update.
+- Tesla said as of Oct. 29, more than 99.8% of the vehicles - all but for 17 - had installed an update and no further action is necessary.
+- NHTSA in August opened a formal safety probe into Tesla's Autopilot system in 765,000 U.S. vehicles after a series of crashes involving Tesla models and emergency vehicles.
+- The U.S. auto safety agency also asked Tesla in October about its "Autosteer on City Streets” which the company also refers to as FSD first leased in October 2020, and raised concerns about limits on disclosure by drivers of safety issues.
+- Our Standards: The Thomson Reuters Trust Principles.
+- South Korea is using a $13.7 billion arms deal with Poland to lay the groundwork for a military-industrial juggernaut.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://www.thedrive.com/news/42968/tesla-recalls-nearly-12000-cars-after-faulty-fsd-beta-update-causes-braking-glitch
+- Some vehicles enrolled in FSD beta experienced false collision warnings and phantom braking due to a software glitch.
+- RobDrivesCars
+- allthingslow/
+- In October, Tesla issued a swift rollback of its Full Self-Driving Beta software following harsh criticism from drivers who received it via an over-the-air update. Now, the automaker has sent out a formal recall with the National Highway Traffic Safety Administration over the matter.
+- The problem began on Oct. 23 after the update was sent to vehicles enrolled in Tesla's FSD Beta, a program which—despite its name—is not an autonomous driving system. According to the notice filed with the NHTSA, this affected 11,704 vehicles across Tesla's lineup, including Models S, X, 3 and Y. Vehicles recalled were all running software "2021.36.5.2," better known as "FSD Beta 10.3." Tesla doesn't explicitly identify the software as FSD Beta 10.3 in the recall notes, though it does acknowledge that the software was only pushed to vehicles enrolled in the Full Self-Driving Beta.
+- Some drivers experienced constant phantom emergency braking, even when maintaining a safe following distance behind other vehicles. The update was referred to online as "bad," "broken," "jank," "terrifying," and "almost undrivable."
+- The problem was present in vehicles waking up from Sentry Mode and Summon Standby Mode, both of which cause an onboard chip to enter a low-power state. This, according to Tesla, caused an unexpected communication disconnect, allowing for inconsistency in detected object velocity. The vehicles then displayed false forward collision warnings and some engaged the vehicle's automatic emergency braking procedure.
+- When the problem was identified, Tesla stopped the rollout of FSD 10.3 and began to revert the code in involved vehicles. As of the filing, the automaker says that 99.8 percent of cars have already installed a version of the remediated software or a later release.
+- Tesla says it's not aware of any injuries caused by the faulty software update.
+- Meanwhile, Tesla is already under the NHTSA's watchful eye over a separate OTA update. The federal regulatory body launched a probe into Tesla earlier this year after an update was sent out that helped to better identify stationary emergency vehicles. This came after 11 Teslas collided with firetrucks and police cruisers while allegedly operating with Autopilot enabled.
+- The NHTSA ordered Tesla to respond to its request for information no later than Monday, Nov. 1.
+- This also marks Tesla's second recall in under a week. The automaker's first was related to nearly 3,000 Model 3 and Model Y vehicles for a potentially loose fastener that could cause the steering wheel to come loose.
+- Got a tip or question for the author? Contact them directly: rob@thedrive.com
+- Sign Up For Our Newsletters
+- The chronicle of car culture, delivered to your inbox.
+- © 2022 Recurrent Ventures. All Rights Reserved.
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+URL: https://www.unilad.co.uk/technology/tesla-safety-concerns-forces-safety-recall-of-12000-cars/
+- To make sure you never miss out on your favourite NEW stories, we're happy to send you some reminders
+- Click 'OK' then 'Allow' to enable notifications
+- Published 17:37, 04 November 2021 GMT
+- Tesla has been forced to recall almost 12,000 vehicles over safety concerns following a software update last month.
+- The issues came to light after the October 23 software update, which was provided to vehicles in its limited early access version 10.3 Full-Self Driving (FSD) (Beta) population.
+- In a statement this week, the National Highway Traffic Safety Administration (NHTSA) said more than 11,704 Model S, X, 3 and Y Tesla vehicles manufactured between 2017 and 2021 were being recalled over the concerns.
+- The FSD is an advanced driver assistance system designed to handle some driving tasks, though Tesla has stressed it does not make the vehicle autonomous. The update resulted in a communication error that could cause drivers to experience a false forward-collision warning, or unexpected activation of the emergency brakes.
+- Following the reports, Tesla confirmed it cancelled the update on vehicles that had not installed it and disabled forward-collision warning and activation of the emergency brakes on affected vehicles. On October 25, it began deploying the over-the-air software update and re-enabled safety features on vehicles with the update, The Guardian reports.
+- As of October 29, Tesla said more than 99.8% of the affected vehicles had installed an update, after which no further action was necessary. Rather than having to take their Teslas to dealers for repairs or updates, Tesla can modify its cars by sending them software updates over the internet.
+- Tesla CEO Elon Musk addressed the issues on Twitter after they came to light, writing: ‘Seeing some issues with 10.3, so rolling back to 10.2 temporarily. Please note, this is to be expected with beta software.’
+- The NHTSA said Tesla ‘uninstalled FSD 10.3 after receiving reports of inadvertent activation of the automatic emergency braking system’ before updating the software and releasing ‘FSD version 10.3.1 to those vehicles affected.’
+- The agency has said it will ‘continue its conversations with Tesla to ensure that any safety defect is promptly acknowledged and addressed’.
+- If you have a story you want to tell, send it to UNILAD via [email protected]
+- Topics: Technology, Elon Musk, Safety, Tesla
+- The Guardian
+- Tesla software glitch prompts safety recall for nearly 12,000 US vehicles
+
+URL: https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html
+- Your browser sent an invalid request.
+We highly recommend setting a meaningful User-Agent header.
+- We highly recommend setting a meaningful User-Agent header.
+
+URL: https://www.silicon.co.uk/e-innovation/artificial-intelligence/tesla-recalls-12000-cars-425140
+- All Tech News > category news Innovation > category news Artificial Intelligence
+- NHTSA confirms Tesla is recalling 12,000 vehicles in the US over a ‘software communication error’ involving its FSD beta program
+- Tesla is recalling thousands of vehicles in the United States over a software problem associated with its Full-Self Driving (FSD) system, which is still in beta.
+- The US National Highway Traffic Safety Administration (NHTSA) confirmed on Tuesday that Tesla is recalling 11,704 vehicles in the US, which includes Model S, X, 3 and Y cars.
+- Last month the NHTSA had queried why Tesla failed to issue a recall to address software updates made to its Autopilot driver-assistance system (separate to FSB) , that were designed to improve the vehicles’ ability to detect emergency vehicles.
+- But this week it has emerged Tesla is issuing a recall for a software problem associated with its FSD beta.
+- “A software communication error may, under a certain sequence of events, result in false forward-collision warnings (FCW) and/or automatic emergency brake (AEB) events,” said the recall notice.
+- “If the AEB system unexpectedly activates while driving, the risk of a rear-end collision from a following vehicle may increase,” it added. “We are not aware of any crashes or injuries related to this condition.”
+- Essentially, the problem could see a Tesla issuing a false forward-collision warning or unexpected activation of the emergency brakes.
+- The problem comes after a software update on 23 October to vehicles involved in its limited early access version 10.3 Full-Self Driving (FSD) (Beta) program.
+- The same day, CEO Elon Musk, tweeted “Seeing some issues with 10.3, so rolling back to 10.2 temporarily. Please note, this is to be expected with beta software.”
+- Tesla took the decision to temporary pull the beta, after users reportedly complained of false collision warnings and other issues.
+- NHTSA said Tesla “uninstalled FSD 10.3 after receiving reports of inadvertent activation of the automatic emergency braking system” and then “updated the software and released FSD version 10.3.1 to those vehicles affected”.
+- It should be noted that Autopilot is the drivers assistance program on Tesla vehicles.
+- An official investigation is still ongoing into a number of high profile accidents with emergency service vehicles while Autopilot was being used.
+- In September five police officers in Texas sued Tesla after they, and a police dog, were ‘badly injured’ after an unnamed driver crashed his Tesla Model X into the back of two parked police cruisers at 70mph (112kph), after they had stopped to investigate a fourth vehicle for suspected narcotics offences.
+- Tesla meanwhile sells the more advanced Full Self-Driving capability (or FSD) package for $10,000 or $199 per month in the United States, to a select number of people.
+- However, FSD is not fully autonomous driving (indeed it is only level 2), and it is not approved by US officials. It still requires a driver behind the wheel paying attention, keeping their hands on the wheel, and being ready to takeover.
+- Level 5 is the holy grail of autonomous driving technology, as level 5 vehicles will not require human intervention, and need for a human drivers is eliminated.
+- Indeed, it is said that level 5 cars won’t even have steering wheels or acceleration/braking pedals.
+- These cars will be free from geofencing, and will be able to drive anywhere, and do anything that normal car with a human driver can do.
+- In July 2020, at the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC), Musk optimistically said that Tesla was “very close” to achieving level 5 autonomous driving technology.
+- Tesla has conducted recalls before.
+- In February this year Tesla agreed to recall 135,000 vehicles over faulty touchscreen displays, which on the surface may not sound like a safety issue at all.
+- But in a Tesla, the touchscreen display controls nearly all of the vehicle’s functionality, from adjusting heating or cooling, through to folding the wing mirrors.
+- The NHTSA said at the time it is clear there is a possible safety issue here concerning incidents of media control unit failures, that has resulted in the loss of rearview camera and other safety-related vehicle functions.
+- Then in June Tesla issued a recall for nearly 6,000 cars in the United States over concerns about potentially loose brake caliper bolts.
+- NEWSLETTER
+- Subscribe to our best articles
+- Brand Discovery offers Advertisers the opportunity to speak directly to our professional communities. It’s an ad format that blends in with the editorial content and overall page design giving non-intrusive, flowing advertising experience. Readers can easily identify their provenance with the “Brand Discovery” mention. For any further information, contact us at the following address:						 internationalsales@netmediaeurope.com
+- Follow us:
+
+URL: https://uk.news.yahoo.com/tesla-recalls-11-704-vehicles-133556674.html
+- Tesla voluntarily recalled nearly 11,704 vehicles after identifying a software error that could cause a false forward-collision warning or unexpected activation of the automatic emergency brake system, the National Highway Traffic and Safety Administration said.
+- All of the affected vehicles had early access to the automaker’s “Full Self-Driving Beta,” it’s advanced driver assistance system. The system, which is still in beta mode and requires the driver to be attentive at all times, has been released to thousands of customers in recent weeks. Tesla said it was not aware of any crashes or injuries as a result of the software error.
+- The over-the-air firmware update, which was released on October 23, introduced what the regulator called “a software communication disconnect” between two on-board chips. The following day, Tesla said it started receiving reports from customers.
+- “This communication disconnect can result in the video neural networks that operate on that chip to run less consistently than expected,” the safety recall report said. “The inconsistency can produce negative object velocity detections when other vehicles are present, which in turn can lead to false [forward-collision warnings] and [automatic emergency braking] events.”
+- Affected vehicles include certain Model S, Model X and Model 3 cars that were manufactured between 2017-2021, and certain Model Y models that were manufactured between 2020-2021. Tesla has released a separate over-the-air software update to address the issue and owners will be sent letters notifying them of the issue and resolution.
+- "In a matter of hours, we investigated the reports and took actions to mitigate any potential safety risk," Tesla said.
+- The formal recall is a marked departure from the California automaker’s recent interactions with the country's top automotive safety agency, which includes releasing a software update for a separate bug identified in its Autopilot system last month, for which Tesla did not issue a recall. NHTSA sent a letter to the automaker on October 12 asking why it did not issue a recall.
+- “As Tesla is aware, the Safety Act imposes an obligation on manufacturers of motor vehicles and motor vehicle equipment to initiate a recall by notifying NHTSA when they determine vehicles or equipment they produced contain defects related to motor vehicle safety or do not comply with an applicable motor vehicle safety standard,” the agency wrote.
+- The regulator opened a separate investigation into Autopilot in August after identifying 12 separate incidents in which a Tesla crashed into parked emergency vehicles.
+- Regarding this recall, NHTSA said it would “continue its conversations with Tesla to ensure that any safety defect is promptly acknowledged and addressed.”
+
+- Tesla FSD Assertive Mode
+- Tesla FSD beta test car hits bollard, driver fired
+- Page info Type: Incident Published: November 2021

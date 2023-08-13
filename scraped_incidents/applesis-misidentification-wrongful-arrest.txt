@@ -1,0 +1,227 @@
+- Occurred: May 2021
+- Can you improve this page?Share your insights with us
+- New York resident Ousmane Bah is suing (pdf) Apple and security contractor Security Industry Specialists (SIS) for USD 1 billion for wrongfully accusing him of shoplifting multiple times at Apple stores across the US east coast, leading to his arrest.
+- Reports note that the suit highlights the unreliable and biased nature of many facial recognition systems, and accuses one of the two companies of deleting video images of the purported crimes, despite them surfacing during discovery.
+- The suit also alleges that a senior SIS executive denied the company ever identified Bah to Apple or the NYPD, though an SIS email to the NYPD suggests to the contrary, and claims that Apple and SIS selectively deleted video evidence that would have exposed them to potential criminal and civil liability for filing false complaints with the police.
+- In November 2021, Apple and Bah settled the suit on disclosed terms.
+- Operator: Apple; Security Industry Specialists (SIS)Developer: Security Industry Specialists (SIS)Country: USA Sector: TechnologyPurpose: Verify identity Technology: Facial recognition Issue: Accuracy/reliability; Bias/discrimination - race Transparency: Governance; Marketing: Privacy; Legal
+URL: https://www.scribd.com/document/509833896/Ousmane-vs-Apple
+
+URL: https://www.biometricupdate.com/202105/allegations-in-wrongful-arrest-suit-involving-face-biometrics-against-apple-contractor-get-worse
+- 
+- Apple is facing legal action over an alleged repeated pattern of carelessness and over-reliance on a face biometrics system, followed by malicious prosecution and negligent (or worse) misrepresentation.
+- Ousmane Bah filed a suit against Apple and its contractor Security Industry Specialists (SIS) days ago in the U.S. District Court for Massachusetts, alleging his name was incorrectly applied to the actual thief.
+- The case hinges on the use of a lost temporary driver’s learning permit for New York State, which Bah lost and was subsequently used, according to the filing, by an individual who committed theft in an Apple Store in Connecticut in April of 2018. Following the incident, the security contractor allegedly created a profile for the misidentified thief, attaching Bah’s name to his image and pushing it out to Apple Stores for a biometric blacklist of shoplifters.
+- The impersonator was then spotted committing another theft at an Apple Store in May, 2018, and misidentified as Bah on the basis of the blacklist. The police were notified, and Bah eventually wrongfully arrested.
+- Apple or SIS has deleted video images purporting to be Bah, according to the filing, despite them surfacing during discovery. Worse, videos were reproduced from the same incident showing an alleged accomplice, with no reason provided which this video could be produced but the one allegedly showing Bah could not. This evidence, the filing states, would have exonerated Bah.
+- Police arrested the real alleged suspect, but the discrepancies between the individual in custody and the claimed identity, such as the six-inch height difference, were apparently not noticed. In New Jersey, the imposter even got what was supposedly his own name wrong on a booking statement, but the Paramus Police Department took no action to confirm his identification, according to the plaintiff’s suit.
+- Bah was then arrested, and released after an NYPD detective noticed the photo attached to the warrant was not of him. The NYPD officer also noted that facial recognition had been used to identify Bah.
+- Subsequently, the NYPD has caught an individual repeatedly attempting to use Bah’s identification as his own.
+- The imposter was then caught again at an Apple Store in Massachusetts, and extradited under Bah’s name to face outstanding warrants. In this instance, the NYPD had already discovered that the imposter was not, in fact, Bah, though SIS employees continued to misidentify the perpetrator.
+- Bah has also been identified, wrongfully, according to the court filing, with shoplifting in other states, and notice served not only to him but also to other people with the same name. With prosecutions being carried out in multiple states against Bah, he is alleging multiple counts of defamation, malicious prosecution, intentional or negligent misrepresentation, and negligence on the part of both defendants.
+- Perhaps most damning to the defendants, Bah claims that an internal SIS email explained the misidentification, but SIS and Apple did not withdraw ongoing charges against him. Instead, they continued attempting to prosecute him in Paramus until June 2019. An SIS executive asserted in an Affidavit when Bah initially filed suit against Apple in 2019 “that no SIS employee had ever identified the Plaintiff to the New York Police or Apple.”
+- While the use of face biometrics for loss prevention at Apple Stores is not officially confirmed, the plaintiff’s reasons for thinking it used is laid out in the filing.
+- “The speed with which Apple and SIS personnel related the image of the (wrongfully identified) Boston thief to the (wrongfully identified) Connecticut thief, virtually in real time, strongly suggests that Apple, SIS, or both used FRT as an aid in its “positive” identification of the thief as Ousmane Bah.”
+- Bah was an honors student with no criminal record seeking permanent resident status at the time of the arrests, the filing says, making the ordeal even more injurious than it would otherwise have been.
+- accuracy  |  Apple  |  best practices  |  biometric identification  |  biometrics  |  criminal ID  |  facial recognition  |  lawsuit  |  police
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://appleinsider.com/articles/21/05/29/apple-sued-over-false-accusations-in-apple-store-thefts-by-impostor
+- Copyright © 2023, Quiller Media, Inc.
+- Contact Us | Privacy Policy
+- Apple is being sued by a man due to repeated accusations the man was behind numerous thefts at Apple Stores across the eastern seaboard of the United States, attempted thefts that were conducted by others who were impersonating the man.   The lawsuit, filed on May 28 in the U.S. District Court for the District of Massachusetts, is suing Apple and Security Industry Specialists, a contractor working for Apple on store security. The lawsuit claims the plaintiff Ousmane Bah was falsely accused of performing a number of Apple Store thefts, which led to his arrest in New York in November 2018. The lawsuit appears to be a continuation of another legal action by Bah against Apple and SIS, launched in April 2019. It seems the claims are the same as in that lawsuit, but specifically takes aim at the activities in the Massachusetts Apple Stores. According to the lawsuit, Bah received a learner's permit for driving in New York State in March 2018, which took the form of a printout that contained details of his height, weight, date of birth, and eye color, but not his photograph. Bah lost his temporary permit within the following two months, but had received a permanent plastic version with his photograph. The missing temporary permit is alleged to have been used by someone else as identification for an Apple Store theft in Greenwich, Connecticut in April 2018. The man is said to have not resembled Bah at all, aside from being Black, such as being 6 foot 1 inches tall when Bah is 5 foot 7 inches. Bah says Apple and SIS created a record for Bah as the thief in the video, and published the information to both SIS agents and Apple Stores in the Northeast US. In May 2018, an SIS agent apprehended the impostor who attempted theft from a store in New Jersey. While the imposter was arrested by police, they were interrogated and the learner's permit provided as identification, which then led to SIS circulating a "Be on the lookout" notice for Bah as a "known shoplifter" with the wrong photograph to Apple Stores. A third robbery on May 31 had Apple identifying the thief as "Bah" from their records, and informed the Boston Police Department that Bah was behind it, despite it really being the impostor once again. Apple intended to press charges against Bah for the thefts. Part of the problem is Apple's alleged use of facial recognition, which it and SIS used to identify "Bah" as the perpetrator of the thefts less than 10 minutes after they took place. As the record of the fake "Bah" is unreliable, the lawsuit insists Apple and SIS knew its use of facial recognition was unreliable in this case. In June 2018, Bah appeared in Boston Municipal Court and requested video evidence to prove he wasn't behind the crimes, but Apple advised the video had been deleted. However, months later, Apple presented video of another thief who apparently worked alongside the impostor "Bah." Other attempts to secure video of the fake "Bah" failed as they were "deleted" by Apple or SIS, the lawsuit adds. It is proposed the supposed deletions were a "reckless disregard for the truth" especially considering the store videos surfaced during discovery for the lawsuit. More thefts by the impostor took place in New Jersey in September 2018, and a fresh accusation of theft by Bah provided to police again used the same questionable data. This was followed by multiple thefts in October 2018, and ultimately Bah's arrest at his home in November 2018. The arrest took place despite the photograph on the warrant being for the impostor, not Bah himself, a fact commented on by NYPD officers. A detective released Bah after spotting the issue, and advised that Bah was probably misidentified by a facial recognition system. Two days later SIS employees caught the impostor at an Apple Store in Massachusetts, but despite fingerprints revealing the man's identity as Mamadou Barry, he was extradited to New Jersey as "Bah" for outstanding warrants. Bah continued to be prosecuted in multiple states, with the incorrect data still being used by Apple and SIS. Bah's lawyers laid out counts of defamation, malicious prosecution, intentional or negligent misrepresentation, and negligence against both Apple and SIS. The suit asks for damages for an unmentioned amount, to cease any further criminal accusations against Bah, to expunge the false allegations online and in print where possible to clear his name, to publicly apologize, and to set up a monitoring service to protect Bah's reputation. Apple and SIS have yet to comment on the latest legal activity.  Ousmane vs Apple by Mike Wuerthele on Scribd  Follow all the details of WWDC 2021 with the comprehensive AppleInsider coverage of the whole week-long event from June 7 through June 11, including details of all the new launches and updates.Stay on top of all Apple news right from your HomePod. Say, "Hey, Siri, play AppleInsider," and you'll get latest AppleInsider Podcast. Or ask your HomePod mini for "AppleInsider Daily" instead and you'll hear a fast update direct from our news team. And, if you're interested in Apple-centric home automation, say "Hey, Siri, play HomeKit Insider," and you'll be listening to our newest specialized podcast in moments.
+- The lawsuit, filed on May 28 in the U.S. District Court for the District of Massachusetts, is suing Apple and Security Industry Specialists, a contractor working for Apple on store security. The lawsuit claims the plaintiff Ousmane Bah was falsely accused of performing a number of Apple Store thefts, which led to his arrest in New York in November 2018.
+- The lawsuit appears to be a continuation of another legal action by Bah against Apple and SIS, launched in April 2019. It seems the claims are the same as in that lawsuit, but specifically takes aim at the activities in the Massachusetts Apple Stores.
+- According to the lawsuit, Bah received a learner's permit for driving in New York State in March 2018, which took the form of a printout that contained details of his height, weight, date of birth, and eye color, but not his photograph. Bah lost his temporary permit within the following two months, but had received a permanent plastic version with his photograph.
+- The missing temporary permit is alleged to have been used by someone else as identification for an Apple Store theft in Greenwich, Connecticut in April 2018. The man is said to have not resembled Bah at all, aside from being Black, such as being 6 foot 1 inches tall when Bah is 5 foot 7 inches.
+- Bah says Apple and SIS created a record for Bah as the thief in the video, and published the information to both SIS agents and Apple Stores in the Northeast US.
+- In May 2018, an SIS agent apprehended the impostor who attempted theft from a store in New Jersey. While the imposter was arrested by police, they were interrogated and the learner's permit provided as identification, which then led to SIS circulating a "Be on the lookout" notice for Bah as a "known shoplifter" with the wrong photograph to Apple Stores.
+- A third robbery on May 31 had Apple identifying the thief as "Bah" from their records, and informed the Boston Police Department that Bah was behind it, despite it really being the impostor once again. Apple intended to press charges against Bah for the thefts.
+- Part of the problem is Apple's alleged use of facial recognition, which it and SIS used to identify "Bah" as the perpetrator of the thefts less than 10 minutes after they took place. As the record of the fake "Bah" is unreliable, the lawsuit insists Apple and SIS knew its use of facial recognition was unreliable in this case.
+- In June 2018, Bah appeared in Boston Municipal Court and requested video evidence to prove he wasn't behind the crimes, but Apple advised the video had been deleted. However, months later, Apple presented video of another thief who apparently worked alongside the impostor "Bah."
+- Other attempts to secure video of the fake "Bah" failed as they were "deleted" by Apple or SIS, the lawsuit adds. It is proposed the supposed deletions were a "reckless disregard for the truth" especially considering the store videos surfaced during discovery for the lawsuit.
+- More thefts by the impostor took place in New Jersey in September 2018, and a fresh accusation of theft by Bah provided to police again used the same questionable data. This was followed by multiple thefts in October 2018, and ultimately Bah's arrest at his home in November 2018.
+- The arrest took place despite the photograph on the warrant being for the impostor, not Bah himself, a fact commented on by NYPD officers. A detective released Bah after spotting the issue, and advised that Bah was probably misidentified by a facial recognition system.
+- Two days later SIS employees caught the impostor at an Apple Store in Massachusetts, but despite fingerprints revealing the man's identity as Mamadou Barry, he was extradited to New Jersey as "Bah" for outstanding warrants.
+- Bah continued to be prosecuted in multiple states, with the incorrect data still being used by Apple and SIS.
+- Bah's lawyers laid out counts of defamation, malicious prosecution, intentional or negligent misrepresentation, and negligence against both Apple and SIS. The suit asks for damages for an unmentioned amount, to cease any further criminal accusations against Bah, to expunge the false allegations online and in print where possible to clear his name, to publicly apologize, and to set up a monitoring service to protect Bah's reputation.
+- Apple and SIS have yet to comment on the latest legal activity.
+- Ousmane vs Apple by Mike Wuerthele on Scribd
+- 
+- Follow all the details of WWDC 2021 with the comprehensive AppleInsider coverage of the whole week-long event from June 7 through June 11, including details of all the new launches and updates.
+- Stay on top of all Apple news right from your HomePod. Say, "Hey, Siri, play AppleInsider," and you'll get latest AppleInsider Podcast. Or ask your HomePod mini for "AppleInsider Daily" instead and you'll hear a fast update direct from our news team. And, if you're interested in Apple-centric home automation, say "Hey, Siri, play HomeKit Insider," and you'll be listening to our newest specialized podcast in moments.
+- Based in South Wales, Malcolm Owen has written about tech since 2012, and previously wrote for Electronista and MacNN. In his downtime, he pursues photography, has an interest in magic tricks, and is bothered by his c...
+- Bah, humbug!
+- Bah, humbug!
+- Ronkel said:
+Bah, humbug!
+
+Don't be such a SIS!
+- Don't be such a SIS!
+- Hey AppleInsider, stop autoplayng videos! And stop popping it up in other places on the page! And fix the placement of the closing button which doesn't work! (on iPad). Wtf.
+- Hey AppleInsider, stop autoplayng videos! And stop popping it up in other places on the page! And fix the placement of the closing button which doesn't work! (on iPad). Wtf.
+- Wow I wish I was misidentified and were able to sue for $1 billion
+- Wow I wish I was misidentified and were able to sue for $1 billion
+- If the details of the case are true, what we have here is a case of incompetence compounded by obstinance with a dab of laziness.  Not a good look.
+- If the details of the case are true, what we have here is a case of incompetence compounded by obstinance with a dab of laziness.  Not a good look.
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- 
+- 
+- 
+- 
+- Google's new Pixel Tablet is its best attempt to promote large-format Android experience yet, but it still has to take on the well-loved iPad in the market. Here's how the two sets of specs compare.
+- Dell's 32-inch UltraSharp 6K monitor offers a cheaper alternative to Apple's Pro Display XDR, but while similar in size and resolution, they go after two very different markets. Here's how the specs of the two compare.
+- Months after release, there are a lot of bands designed for the Apple Watch Ultra. Here are our favorite bands from Apple and third parties for any situation.
+- The Sonos Era 100 and Era 300 are the audio company's new smart speakers, which include Dolby Atmos support. Here's how they compare to Apple's own HomePod and HomePod mini.
+- It's been well over a decade since Apple shipped the first iPad to the world. Here's how the modern ninth and tenth generation iPad, aimed at the same audience, have improved over the original model.
+- Crash Detection feature & Apple Watch alert police to fatal car crash
+- Apple MagSafe Charger prototype reveals an unused color option
+- New HomeKit devices, Matter improves, plus more smart home news
+- Apple supplier list shows gradual production shift from China to India
+- TikToker shocked by high Verizon bill over 'free' Apple Watch promo
+- Sponsored Content
+- Top tips for aspiring writers
+- Tonor T90 RGB Boom Arm review: Light up your microphone setup
+- How to customize macOS Finder window toolbars
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- After years of rumors, Apple has delivered and shipped its professional video editing suite on iPad. While the app is incredibly full-featured, there are some big holes for pro workflows.
+- We got our hands on an exclusive set of mockup iPhone 15 units — complete with working buttons. Here's how the design changes and features compare to the iPhone 14 lineup.
+- We round up — and rank — the best MagSafe wallet choices that you can use with your iPhone, featuring more card slots, Find My support, stands, and more.
+- Apple has announced a major update to the Apple Arcade catalog, adding 20 new games across a multitude of genres.
+- With its latest update, Microsoft is enabling iMessage on Windows 11 — with some caveats. Here's how it works and what features are still missing.
+- The Tonor T90 RGB Boom Arm is an adjustable steel arm that holds your microphone in place, while also incorporating multiple lights to complement your desk setup.
+- Skullcandy's original Crusher ANC wireless headphones dialed up skull-rattling bass and this new model continues that same tradition, but with more comfort, sophistication, and added features.
+- With strong suction and intelligent navigation, the DreameBot D10s Plus tackles hard floors and carpets well, but the mopping feature is not very impressive.
+- There are plenty of features to consider when buying a new smoker grill. Arguably, a Wi-Fi connection is becoming one of those features, so Brisk It's Origin-580 smart grill with a sub-$1,000 price is a tempting consideration.
+- The Jackery Solar Generator 3000 Pro provides off-grid power to run just about anything you want, where you want to do it — assuming you've got the ability to move around 70 pounds of battery.
+- 
+
+URL: https://www.theregister.com/2021/05/29/apple_sis_lawsuit/
+
+URL: https://www.scmp.com/news/world/united-states-canada/article/3007386/teenager-ousmane-bah-sues-apple-us1-billion-over
+- Published: 10:48pm, 23 Apr, 2019
+- Updated: 1:32pm, 8 Aug, 2019
+
+URL: https://www.cnet.com/news/teen-hits-apple-with-1b-lawsuit-over-facial-recognition-arrest/
+- Your guide to a better future
+- The 18-year-old says he was wrongly accused of stealing from Apple stores.
+- Customers gather at an Apple store.
+- An 18-year-old New Yorker filed a $1 billion lawsuit against 
+  Apple
+ on Monday, claiming that facial recognition software incorrectly linked him to thefts at several stores.
+- Ousmane Bah was arrested by New York Police Department officers on Nov. 29 after being accused of thefts at Apple Stores in Manhattan, Boston, New Jersey and Delaware, according to his lawsuit.
+- The lawsuit says the actual thief was caught stealing $1,200 worth of merchandise -- specifically Apple Pencils -- from the Boston store on May 31, 2018. The person then used a stolen ID that included Bah's name, address and other personal details, but not his photo, according to the suit. This may actually have been a non-photo learner's permit that Bah previously lost, the suit says. Bah is African American.
+- The lawsuit accuses Apple of negligence, emotional distress, defamation, slander, libel and fraudulent concealment.
+- The alleged use of facial recognition software in Apple Stores is the "type of Orwellian surveillance that consumers fear, particularly as it can be assumed that the majority of consumers are not aware that their faces are secretly being analyzed," the suit says.
+- Apple doesn't comment on legal matters, but said Tuesday that it doesn't use facial recognition technology in its stores.
+- Bah's first indication of a problem was a Boston municipal court summons for June 2018, his suit says, though he hadn't been to the city before and was attending his senior prom in Manhattan on the day of the theft.
+- The lawsuit, filed in U.S. District Court in New York, alleges that Apple connected Bah's name to the thief's face in its facial recognition system, which Bah claims is used at Apple Stores to track people suspected of theft. This resulted in Bah being blamed for theft across the four states, the suit says.
+- A New York Police Department detective who saw security footage from the Manhattan store after Bah's arrest realized the suspect "looked nothing like" Bah, according to the lawsuit.
+- All charges have since been dismissed, except in New Jersey, according to the lawsuit.
+- According to the suit, Bah has been struggling in his first year in college while he has been fighting the charges.
+- "As a result of being arrested in New York, as well as having to make trips to different states in response to charges filed against him, Mr. Bah's attendance and grades suffered," the lawsuit says. "Additionally, he suffered constant anxiety over the possibility of being arrested at any time for crimes he did not commit, and of which he had no knowledge."
+- Ousmane Bah v Apple Case by  on Scribd
+- Originally published April 23, 5:04 a.m. PT.Update, 9:48 a.m.: Adds response from Apple.
+
+URL: https://www.bloomberg.com/news/articles/2019-04-22/apple-face-recognition-blamed-by-new-york-teen-for-false-arrest
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.biometricupdate.com/201904/apple-sued-as-teen-blames-facial-biometrics-for-alleged-false-arrest
+- A student in New York is suing Apple after being arrested for theft, which he says is due to a false identification by the company’s facial recognition technology, Bloomberg reports.
+- Police arrested 18-year-old Ousmane Bah at his New York home in November, producing a warrant with a photo that Bah says does not resemble him, and charged him with several thefts from Apple stores. One of the thefts took place in Boston on the same day in June as Bah says he was attending his senior prom in Manhattan.
+- Bah is seeking $1 billion in damages in the District Court for the Southern District of New York (Manhattan), alleging he was forced to defend himself against multiple false allegations and experienced “severe stress and hardship.” Security Industry Specialists Inc. was also named in the suit, and both the security company and Apple declined to comment.
+- The alleged mistaken identity may stem from a non-photo learner’s permit, which Bah said he had previously lost, and may have been fraudulently used as identification by the real thief in Apple stores.
+- In other words, the biometric system may have correctly recognized the person, but identified the thief based on impersonation. This is in contrast with some other controversial deployments of facial recognition, such as by South Wales Police at a soccer match in 2017, which generated numerous false matches.
+- A survey by Oracle last year showed that a majority of consumers in developing countries approve of the use of facial recognition for retail security, but only 26 percent of those in developed markets.
+- Apple  |  biometrics  |  facial recognition  |  retail biometrics  |  video surveillance
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.pcmag.com/news/teen-sues-apple-for-1b-over-false-arrest
+- Ousmane Bah alleges Apple linked his face to that of a thief who'd stolen his ID which led to several false accusations and his eventual arrest.
+- I've been working at PCMag since November 2016, covering all areas of technology and video game news. Before that I spent nearly 15 years working at Geek.com as a writer and editor. I also spent the first six years after leaving university as a professional game designer working with Disney, Games Workshop, 20th Century Fox, and Vivendi.
+- Apple is facing a billion dollar lawsuit thanks to the facial recognition software used in its stores to track individuals it suspects of theft.
+- As the New York Post reports(Opens in a new window), on May 31 last year $1,200 worth of merchandise was stolen from an Apple store in Boston. The thief apparently used a stolen ID to identify himself in the store, with that ID actually belonging to 18-year-old Ousmane Bah. The ID did not include a photo, but listed all of his personal details. The thief then went on to steal again at Apple stores in Delaware, Manhattan, and New Jersey.
+- In June, Bah received a Boston municipal court summons and then he was later arrested by the NYPD on Nov. 29. However, according to the lawsuit, the detective involved with the case realized Bah didn't look like the thief when reviewing surveillance footage recorded at the Apple stores.
+- Bah believes that Apple decided to update the facial recognition software used in its stores to associate the thief's face with his personal details. The knock-on effect of that being subsequent thefts were automatically blamed on Bah.
+- As Bloomberg explains(Opens in a new window), the $1 billion lawsuit Apple is facing is due to the "severe stress and hardship" Bah faced when dealing with multiple false allegations against him. As well as Apple, a company called Security Industry Specialists Inc. is listed in the lawsuit as a defendant.
+- All the charges against Bah have now been dropped except for those in New Jersey. This lawsuit isn't going away, though, especially considering Bah claims to have been attending his senior prom when the Boston theft occurred. Apple may have to face some difficult questions regarding its use of facial recognition technology in stores as well as its manipulation of the data that system collects.
+- Apple iPad Air (2019) Review
+- Sign up for SecurityWatch newsletter for our top privacy and security stories delivered right to your inbox.
+- 
+- This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletters at any time.
+- Your subscription has been confirmed. Keep an eye on your inbox!
+- Advertisement
+- I've been working at PCMag since November 2016, covering all areas of technology and video game news. Before that I spent nearly 15 years working at Geek.com as a writer and editor. I also spent the first six years after leaving university as a professional game designer working with Disney, Games Workshop, 20th Century Fox, and Vivendi.
+- I hold two degrees: a Bachelor's degree in Computer Science and a Master's degree in Games Development. My first book, Make Your Own Pixel Art, is available from all good book shops.
+- Read Matthew's full bio
+- Advertisement
+- PCMag.com is a leading authority on technology, delivering lab-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+- PCMag supports Group Black and its mission to increase greater diversity in media voices and media ownerships.
+- © 1996-2023 Ziff Davis, LLC., a Ziff Davis company. All Rights Reserved.
+- PCMag, PCMag.com and PC Magazine are among the federally registered trademarks of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate any affiliation or the endorsement of PCMag. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.
+
+URL: https://nypost.com/2019/04/22/apples-facial-recognition-software-led-to-false-arrest-suit/
+- Thanks for contacting us. We've received your submission.
+- He’s trying to save face.
+- A New York man filed a $1 billion lawsuit against Apple, claiming the tech giant’s facial-recognition software wrongly blamed him for stealing from Apple stores.
+- Ousmane Bah, 18, claims someone used a stolen ID to pass themselves off as him when they were busted stealing $1,200 worth of merchandise from an Apple store in Boston on May 31, 2018, according to papers filed in Manhattan federal court.
+- The ID listed his name, address and other personal information — but did not include a photo. Bah believes Apple took the perp at his word, and then programmed its security systems to recognize the man’s face as Bah’s.
+- The thief then ripped off Apple stores in New Jersey, Delaware and Manhattan — incidents Bah was blamed for, the suit claims.
+- He only learned about the mix-up after receiving a Boston municipal court summons in the mail in June, according to court papers.
+- The NYPD arrested him on Nov. 29, but a detective working the case viewed surveillance footage from the Manhattan store and concluded that the suspect “looked nothing like” Bah, his lawsuit states.
+- Charges against Bah have been dropped in every state except New Jersey, where the case is still pending.
+- Apple’s “use of facial recognition software in its stores to track individuals suspected of theft is the type of Orwellian surveillance that consumers fear, particularly as it can be assumed that the majority of consumers are not aware that their faces are secretly being analyzed,” the lawsuit states.
+- Apple did not respond to a request for comment.
+
+URL: https://www.law360.com/articles/1440155/apple-settles-suit-by-ny-man-falsely-arrested-for-thefts
+- Try our Advanced Search for more refined results
+- In the legal profession, information is the key to success. You have to know what’s happening with clients, competitors, practice areas, and industries. Law360 provides the intelligence you need to remain an expert and beat the competition.
+- TRY LAW360 FREE FOR SEVEN DAYS
+- Already a subscriber? Click here to login
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- Subscribers Only
+- powered by Lex Machina®
+- © 2023, Portfolio Media, Inc. | About | Contact Us | Legal Jobs | Advertise with Law360 | Careers at Law360 | Terms | Privacy Policy | Cookie Settings | Help | Site Map | Resource Library | Explore Law360
+- Enter your details below and select your area(s) of interest to stay ahead of the curve and receive Law360's daily newsletters
+- 
+- 
+- 
+- Email (NOTE: Free email domains not supported)
+- First Name
+- Last Name
+- Job Title
+- PLEASE NOTE: A verification email will be sent to your address before you can access your trial.
+- Password (at least 8 characters required)
+- Confirm Password
+- Law360 may contact you in your professional capacity with information about our other products, services and events that we believe may be of interest.You’ll be able to update your communication preferences via the unsubscribe link provided within our communications.We take your privacy seriously. Please see our Privacy Policy.
+- 
+- 
+- 
+- Law360 takes your privacy seriously. Please see our Privacy Policy.
+- 
+
+- Citizen app wrongful manhunt
+- Google misidentifies engineer as serial killer
+- Page infoType: IncidentPublished: December 2021

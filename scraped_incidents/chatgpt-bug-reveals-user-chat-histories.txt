@@ -1,0 +1,333 @@
+- Occurred: March 2023
+- Can you improve this page?Share your insights with us
+- The chat histories and, in some instances, the payment information of ChatGPT users have been exposed to other users, leading to OpenAI suspending its system and users complaining about poor system robustness, security, and confidentiality.
+- According to OpenAI, 'In the hours before we took ChatGPT offline on Monday, it was possible for some users to see another active user’s first and last name, email address, payment address, the last four digits (only) of a credit card number, and credit card expiration date. Full credit card numbers were not exposed at any time.'
+- Users' conversations with ChatGPT are stored in their chat history bar and can be revisited.
+- Operator: OpenAIDeveloper: OpenAI
+- Country: USA; Global
+- Sector: Multiple
+- Purpose: Provide information, communicate
+- Technology: Chatbot; NLP/text analysis; Neural network; Deep learning; Machine learning; Reinforcement learning Issue: Robustness; Confidentiality; Security
+- Transparency: Governance; Black box; Marketing
+- ChatGPT website
+- ChatGPT Wikipedia profile
+- OpenAI usage policies
+- OpenAI (2023). ChatGPT Web Incident Report
+- OpenAI (2023). ChatGPT outage: Here's what happened
+URL: https://www.engadget.com/chatgpt-briefly-went-offline-after-a-bug-revealed-user-chat-histories-115632504.html
+- ChatGPT went offline and temporarily became inaccessible on Monday after some users discovered that they could see the titles of other people's chat histories. People posted screenshots of their ChatGPT UI on social networks like Reddit and Twitter, showing sidebars populated with chats they said weren't theirs. While they could only see the titles and not the entirety of other people's conversations, the incident still highlights the need to be mindful when it comes with sharing details with or writing up questions for the chatbot.
+- An OpenAI spokesperson told Bloomberg that the company temporarily disabled ChatGPT after it became aware of these reports. Apparently, a bug in an open source software that the company has yet to name had caused the issue, but OpenAI is still investigating to figure out what triggered it exactly.
+- Based on the company's incident report, it shut down ChatGPT on Monday morning and then fully restored the service 10 hours later after rolling out a fix. As of this writing, though, chat histories are still unavailable. OpenAI posted a note saying as much on the sidebar, along with an assurance that it's "working to restore this feature as soon as possible." The company has not announced an ETA for the feature's restoration.
+
+URL: https://www.bloomberg.com/news/articles/2023-03-21/openai-shut-down-chatgpt-to-fix-bug-exposing-user-chat-titles
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.bbc.co.uk/news/technology-65047304
+- A ChatGPT glitch allowed some users to see the titles of other users' conversations, the artificial intelligence chatbot's boss has said.
+- On social media sites Reddit and Twitter, users had shared images of chat histories that they said were not theirs.
+- OpenAI CEO Sam Altman said the company feels "awful", but the "significant" error had now been fixed.
+- Many users, however, remain concerned about privacy on the platform.
+- Millions of people have used ChatGPT to draft messages, write songs and even code since it launched in November of last year.
+- Each conversation with the chatbot is stored in the user's chat history bar where it can be revisited later.
+- But as early as Monday, users began to see conversations appear in their history that they said they hadn't had with the chatbot.
+- One user on Reddit shared a photo of their chat history including titles like "Chinese Socialism Development", as well as conversations in Mandarin.
+- On Tuesday, the company told Bloomberg that it had briefly disabled the chatbot late on Monday to fix the error.
+- They also said that users had not been able to access the actual chats.
+- OpenAI's chief executive tweeted that there would be a "technical postmortem" soon. But the error has drawn concern from users who fear their private information could be released through the tool.
+- The glitch seemed to indicate that OpenAI has access to user chats.
+- The company's privacy policy does say that user data, such as prompts and responses, may be used to continue training the model.
+- But that data is only used after personally identifiable information has been removed.
+- The blunder also comes just a day after Google unveiled its chatbot Bard to a group of beta testers and journalists.
+- Google and Microsoft, a major investor in OpenAI, have been jostling for control of the burgeoning market for artificial intelligence tools.
+- But the pace of new product updates and releases has many concerned missteps like these could be harmful or have unintended consequences.
+- Google's rival to ChatGPT launches for over-18s
+- OpenAI announces ChatGPT successor GPT-4
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.aljazeera.com/news/2023/3/23/chatgpt
+- According to reports, the titles of the conversations were visible but the substance of other users’ conversations was not.
+- ChatGPT owner OpenAI says it has fixed a bug that caused a “significant issue” of a small set of users being able to see the titles of others’ conversation history with the viral chatbot.
+- As a result of the fix, users could not access their chat history on March 20, Chief Executive Sam Altman said in a tweet on Wednesday.
+- “We had a significant issue in ChatGPT due to a bug in an open-source library,” Altman said. “We feel awful about this.”
+- An OpenAI spokesperson told Bloomberg News “the titles were visible in the user-history sidebar that typically appears on the left side of the ChatGPT webpage … [but] the substance of other users’ conversations was not visible”.
+- Since ChatGPT was launched, it has seen meteoric growth with millions of people using the software for various activities – from streamlining the coding process or developing architectural designs to how we use search engines, write essays, draft messages, songs, novels and jokes.
+- Each conversation is automatically saved and ChatGPT labels the tab based on the subject of the first query.
+- On Monday, users highlighted that conversations appear in their history, although they could not see the content.
+- Altman said the company “will follow up with a technical postmortem”.
+- If you use #ChatGPT be careful! There's a risk of your chats being shared to other users!Today I was presented another user's chat history. I couldn't see contents, but could see their recent chats' titles.#security #privacy #openAI #AI pic.twitter.com/DLX3CZntao
+- — Jordan L Wheeler (@JordanLWheeler) March 20, 2023
+- 
+- Last week, Microsoft Corp-backed OpenAI launched its artificial intelligence model GPT-4, an upgrade from GPT-3.5, which was made available to users through ChatGPT on November 30.
+- The integration of OpenAI’s GPT technology into Microsoft’s Bing has driven people to the little-used search engine, according to data from analytics firm Similarweb.
+- The release last year of ChatGPT has caused a sprint in the technology sector to put AI into more users’ hands. The hope is to reshape how people work and win business in the process.
+- Last week, Google and Microsoft made a flurry of announcements on AI two days apart. The companies are putting draft-writing technology into their word processors and other collaboration software, as well as marketing-related tools for web developers to build their own AI-based applications.
+- Google on Tuesday began the public release of its chatbot Bard, seeking users and feedback.
+- Asked whether competitive dynamics were behind Bard’s rollout, Jack Krawczyk, a senior product director, said Google was focused on users. Internal and external testers have turned to Bard for “boosting their productivity, accelerating their ideas, really fueling their curiosity”, he said.
+- Accuracy remains a concern. Last month, a promotional video showed the programme answering a question incorrectly, shaving $100bn off Alphabet’s market value.
+- “We know the limitations of the technology and so we want to be very deliberate at the pace at which we roll this out,” said Krawczyk.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Follow Al Jazeera English:
+
+URL: https://www.cnbc.com/2023/03/23/openai-ceo-says-a-bug-allowed-some-chatgpt-to-see-others-chat-titles.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- OpenAI CEO Sam Altman on Tuesday disclosed a bug that allowed some users of its popular AI chatbot ChatGPT to view messages from others.
+- "We had a significant issue in ChatGPT due to a bug in an open source library, for which a fix has now been released and we have just finished validating," Altman tweeted.
+- "A small percentage of users were able to see the titles of other users' conversation history."
+- Some users had reported seeing messages from others as early as Monday.
+- One person on Reddit reported spotting previously unseen chats in the side bar, including conversations titled "Xi Jingping's Six Principles" and "Chinese Socialism Development."
+- Another person on Twitter shared a screenshot of their ChatGPT, showing chat titles from conversations they had never had.
+- OpenAI temporarily disabled the chatbot on Monday after the company heard about reports of other peoples' chat histories being visible, a spokesperson told Bloomberg.
+- "We feel awful about this," Altman said in a tweet Tuesday.
+- The issue has since been fixed. Altman said that, as a result of the fix, users would no longer be able to see chat histories for ChatGPT conversations that took place between 1 a.m. and 10 a.m. Pacific time on Monday, March 20.
+- ChatGPT exploded in popularity shortly after its November launch. The tool lets users type in prompts to generate human-like responses by using what is known as a large language model, powered by vast amounts of data.
+- People have used it to pen school essays, song lyrics, and even generate lines of code for software.
+- By January, ChatGPT had amassed 100 million of monthly active users only two months into its launch, making it the fastest growing consumer application in history, according to a UBS note published last week.
+- It took TikTok nine months to reach 100 million users, with Instagram achieving the same popularity after two and a half years.
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://www.dailymail.co.uk/sciencetech/article-11893689/ChatGPT-creator-confirms-bug-allowed-users-snoop-chat-histories.html
+- By Lauren Haughey
+- Updated:  08:52 EDT, 23 March 2023
+- 
+- 12
+- View  comments
+- 
+- ChatGPT's creator has confirmed that a bug in the system has allowed some users to snoop on other people's chat histories.
+- OpenAI CEO Sam Altman confirmed last night that the company was experiencing a 'significant issue' that threatened the privacy of conversations on its platform.
+- The revelations came after several social media users shared ChatGPT conversations online that they had not taken part in.
+- As a result of this, users were then blocked from viewing any chat history between 8am and 5pm (GMT) yesterday.
+- Mr Altman said: 'We had a significant issue in ChatGPT due to a bug in an open source library, for which a fix has now been released and we have just finished validating. A small percentage of users were able to see the titles of other users' conversation history.'
+- On Monday it was confirmed that a 'small percentage' of ChatGPT users were able to view other people's chat histories
+- ChatGPT was founded by in Silicon Valley in 2015 by a group of American angel investors including current CEO Sam Altman.
+- It is a large language model that has been trained on a massive amount of text data, allowing it to generate responses to a given prompt.
+- People across the world have used the platform to write human-like poems, texts and various other written works.
+- However, a 'small percentage' of users this week could see chat titles in their own conversation history that were not theirs.
+- On Monday, one person on Twitter warned others to 'be careful' of the chat bot which had shown them other people's conversation topics.
+- An image of their list showed a number of titles including 'Girl Chases Butterflies', 'Books on human behaviour' and 'Boy Survives Solo Adventure', but it was unclear which of these were not theirs.
+- They said: 'If you use #ChatGPT be careful! There's a risk of your chats being shared to other users!
+- 'Today I was presented another user's chat history. I couldn't see contents, but could see their recent chats' titles.'
+- OpenAI CEO Sam Altman confirmed ChatGPT experienced a 'significant' issue yesterday
+- Users were blocked from viewing any chat history between 8am and 5pm (GMT) yesterday
+- One person on Twitter warned others to 'be careful' of the chat bot which had shown them other people's conversation topics
+- Don't get personal: AI chatbots are designed to learn from each conversation they have, improving their skills at 'human' interaction, but also building a more accurate profile of you that can be stored. If you're concerned about how your data might be used, avoid telling them personal information.
+- Plenty of phishing: Artificial intelligence is likely to offer extra opportunities for scammers online and you can expect an increase in phishing attacks as hackers use bots to craft increasingly realistic scams. Traditional phishing hallmarks like bad spelling or grammar in an email may be on the way out, so instead check the address of the sender and look for any inconsistencies in links or domain names.
+- Use an antivirus: Hackers have already successfully manipulated chatbots to create basic malware, so it's worth having a tool like Threat Protection, which can alert you to suspicious files and keep you safe if you download them.
+- (Source: NordVPN)
+- During the incident, the user added that they were faced with many errors in regards to network connectivity in addition to 'unable to load history' errors.
+- According to the BBC, another user also claimed they could see conversations written in Mandarin and another called 'Chinese Socialism Development'.
+- Although ChatGPT's functions were temporarily disabled to fix the issue, others claim that data being compromised could worsen other problems.
+- Marijus Briedis, a cybersecurity expert at NordVPN, said: 'This is a monumental own-goal by OpenAI. The surge of interest in Artificial Intelligence chatbots like ChatGPT and Google's Bard, has tempted millions to try this technology out. This error, however, will make many take a step back.
+- 'If the future is going to see us increasingly rely on AI-powered tools, trust in them is vital. The integrity of the information we share with chatbots and other devices is key to this trust and should never be compromised.
+- 'Our recent Dark Web research revealed cybercriminals have been circling ChatGPT for months to see how it can be used to improve scams like phishing and malware. News of the security glitch will encourage them that user data is another way they can profit from this revolutionary tech.'
+- Other companies have also raised concerns surrounding the online language model.
+- Last month, JP Morgan Chase joined companies like Amazon and Accenture in restricting use of AI chatbot ChatGPT among the company's some 250,000 staff over concerns about data privacy.
+- One of the major shared concerns was that data could be used by ChatGPT's developers in order to enhance algorithms or that sensitive information could be accessed by engineers.
+- ChatGPT's privacy policy states that it may use personal data surrounding 'use of the services' to 'develop new programs and services'.
+- However, it is also claimed that this personal information may be de-identified or aggregated before service analysis takes place.
+- 
+- 
+- OpenAI states that their ChatGPT model, trained using a machine learning technique called Reinforcement Learning from Human Feedback (RLHF), can simulate dialogue, answer follow-up questions, admit mistakes, challenge incorrect premises and reject inappropriate requests.
+- Initial development involved human AI trainers providing the model with conversations in which they played both sides - the user and an AI assistant. The version of the bot available for public testing attempts to understand questions posed by users and responds with in-depth answers resembling human-written text in a conversational format.
+- A tool like ChatGPT could be used in real-world applications such as digital marketing, online content creation, answering customer service queries or as some users have found, even to help debug code.
+- The bot can respond to a large range of questions while imitating human speaking styles.
+- A tool like ChatGPT could be used in real-world applications such as digital marketing, online content creation, answering customer service queries or as some users have found, even to help debug code
+- As with many AI-driven innovations, ChatGPT does not come without misgivings. OpenAI has acknowledged the tool´s tendency to respond with "plausible-sounding but incorrect or nonsensical answers", an issue it considers challenging to fix.
+- AI technology can also perpetuate societal biases like those around race, gender and culture. Tech giants including Alphabet Inc's Google and Amazon.com have previously acknowledged that some of their projects that experimented with AI were "ethically dicey" and had limitations. At several companies, humans had to step in and fix AI havoc.
+- Despite these concerns, AI research remains attractive. Venture capital investment in AI development and operations companies rose last year to nearly $13 billion, and $6 billion had poured in through October this year, according to data from PitchBook, a Seattle company tracking financings.
+- Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.tomsguide.com/news/chatgpt-bug-reveals-chat-histories-to-other-users-what-you-need-to-know
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- ChatGPT's latest bug showcases another flaw with AI chatbots
+- ChatGPT has been all the rage over the past several weeks, but it is far from a perfect machine. Not only has the chatbot been accused of plagiarism, and taken part in some rather disturbing conversations, a bug in the system has been sharing chat conversations with other people.
+- Reports of the problem appeared on social media, with users noting they were being shown conversations they never had with the bot. OpenAI, the company behind the development of ChatGPT confirmed the issue to Bloomberg — but notes only “brief descriptive titles” were leaked, rather than full conversations.
+- ChatGPT’s conversation history feature was disabled, with OpenAI CEO Sam Altman claiming that the issue was caused by “a bug in the open source library." A fix has apparently been released and validated, though the availability of the chat history feature seems inconsistent at the time of writing.
+- Some Tom’s Guide staffers have access to their histories, only experiencing a brief outage earlier this week, while others have been given a message claiming that “History is temporarily unavailable”.
+- In short, anything you reveal to ChatGPT is not private.
+- While this situation appears to have been fixed (for now), it’s a reminder that there is a record of everything you say to ChatGPT. There’s always the risk that another bug could reveal your conversation history with another user, as well as the fact OpenAI can access the information you share with the bot.
+- In fact ,the OpenAI FAQ page specifically says that conversations are reviewed. Apparently this is to improve systems and train the AI to be better, and ensure content complies with Open AI’s policies and safety requirements. In short, anything you do reveal to ChatGPT is not private, and could easily be seen by real human beings.
+- So you absolutely should not be divulging sensitive personal information, confessing to crimes, revealing your deepest secrets or anything else you don’t want random people to know about. ChatGPT may be able to do a lot, and can offer a great many things, but it is just as flawed and vulnerable as any other digital system. That means use it with caution.
+- Get instant access to breaking news, the hottest reviews, great deals and helpful tips.
+- Tom is the Tom's Guide's Automotive Editor, which means he can usually be found knee deep in stats the latest and best electric cars, or checking out some sort of driving gadget. It's long way from his days as editor of Gizmodo UK, when pretty much everything was on the table. He’s usually found trying to squeeze another giant Lego set onto the shelf, draining very large cups of coffee, or complaining that Ikea won’t let him buy the stuff he really needs online.
+- I tried a ton of ChatGPT plugins and these 3 are the best
+- ChatGPT is being used to create malware — what you need to know
+- iPhone 15 Pro Max tipped to use current-gen main camera and display tech
+- By Henry T. CaseyMay 26, 2023
+- By Alyse StanleyMay 26, 2023
+- By Kelly WooMay 26, 2023
+- By Rory MellonMay 26, 2023
+- By Rory MellonMay 26, 2023
+- By Henry T. CaseyMay 26, 2023
+- By Tom PritchardMay 26, 2023
+- By Henry T. CaseyMay 26, 2023
+- By Tom PritchardMay 26, 2023
+- By Kelly WooMay 26, 2023
+- By Jeff ParsonsMay 26, 2023
+- Tom's Guide is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+URL: https://www.theverge.com/2023/3/21/23649806/chatgpt-chat-histories-bug-exposed-disabled-outage
+- By  Jon Porter, a reporter with five years of experience covering consumer tech releases, EU tech policy, online platforms, and mechanical keyboards.
+- ChatGPT’s chat history feature is has been offline for several days, after a bug exposed brief descriptions of other users’ conversations to people on the service on Monday.
+- On Reddit, one user posted a photo showing descriptions of several ChatGPT conversations they said weren’t their own, while someone else on Twitter posted a screenshot of the same bug. A spokesperson for OpenAI confirmed the incident to Bloomberg, noting that the bug did not share full transcripts of conversations but only brief descriptive titles.
+- The issue was caused by “a bug in an open source library,” according to a tweet from OpenAI CEO Sam Altman, who says that a technical postmortem will be coming later. He also says that a fix for the library has been released and that OpenAI has validated it, but didn’t mention when users could expect to see their chat histories again.
+- The bug is an important reminder to be careful about the sensitive information shared with ChatGPT. “Please don’t share any sensitive information in your conversations,” warns an FAQ on OpenAI’s website, which notes that the company cannot delete specific prompts from a person’s history, and that conversations may be used for training. However, there will inevitably be a strong temptation to share confidential information with the chatbot, particularly as businesses continue to experiment with how to make use of the new tool.
+- Bloomberg reports that OpenAI temporarily shut down ChatGPT on Monday in response to the bug, but that it was brought back online later that night. As of this writing the chat history sidebar has been replaced with a message noting that “History is temporarily unavailable” and that the company is “working to restore this feature as soon as possible.”
+- The last update on OpenAI’s status page from 10:54PM ET on Monday notes that service has been restored, but it’s still working to bring back past conversation histories for all users. However, according to Altman, users won’t have access to chats they did from 4AM ET to 1PM ET on March 27th.
+- Update March 22nd, 4:45PM ET: Added confirmation from Sam Altman that the chat history issue was due to a bug in a piece of open-source software and that users wouldn’t be able to access their chat history from a few hours on Monday.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+- GPT-3 large language model
+- ChatGPT falsely accuses Australian mayor of bribery
+- Page infoType: IncidentPublished: April 2023

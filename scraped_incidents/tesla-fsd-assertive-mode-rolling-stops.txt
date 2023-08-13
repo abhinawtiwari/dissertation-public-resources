@@ -1,0 +1,268 @@
+- Tesla FSD Assertive mode rolling stops
+- Occurred: October 2021
+- Can you improve this page?Share your insights with us
+- Tesla's 'Full-Self-driving' beta test has an 'Assertive' mode that may perform rolling stops, according to The Verge. Rolling stops are generally considered illegal under US law.
+- One of three 'profiles' - 'Chill', 'Average' and 'Assertive' - that dictates how a car will behave in certain circumstances, the latter will 'have a smaller follow distance, perform more frequent speed lane changes, will not exit passing lanes and may perform more rolling stops'.
+- FSD profiles were included in Tesla's October 2021 10.3.1 update. The previous update had been pulled two days after testers complained about false crash warnings and other bugs.
+- Following meetings with the National Highway Traffic Safety Administration, Tesla recalled (pdf) all 53,822 Model S, X, 3 and Y vehicles with the FSD feature, and says it will disable the rolling stop function.
+- Operator:
+- Developer: Tesla
+- Country: USA
+- Sector: Automotive
+- Purpose: Control car behaviours Technology: Self-driving system; Computer vision
+- Issue: Safety; Legal - compliance; EthicsTransparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Full Self-Driving Wikipedia profile
+URL: https://static.nhtsa.gov/odi/rcl/2022/RCLRPT-22V037-4462.PDF
+
+URL: https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile
+- By  Emma Roth, a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
+- Tesla’s Full Self-Driving (FSD) beta lets you choose from three driving “profiles” that dictate how the car will react to certain situations on the road. Each mode, “Chill,” “Average,” and “Assertive,” varies in terms of aggressiveness (and potentially safety).
+- The feature was included in the October 2021 version 10.3 update, which was pulled two days after it started rolling out due to an issue with left turns at traffic lights. Tesla issued version 10.3.1 one day later, which still includes FSD profiles, as shown on the release notes posted on Not a Tesla App. Based on these notes, FSD profiles are described as a way “to control behaviors like rolling stops, speed-based lane changes, following distance and yellow light headway.”
+- A separate image posted to Twitter gives us a more detailed glimpse at what this actually means. In the description beneath the “Assertive” option, Tesla notes the vehicle will “have a smaller follow distance” and “perform more frequent speed lane changes.” The vehicle will also “not exit passing lanes” and “may perform rolling stops,” and it’s not entirely clear whether this means cars won’t come to a full stop at stop signs.
+- A YouTube video shows all three modes in action, and towards the end, it shows how Tesla describes each FSD profile. In “Chill” mode, the vehicle will “have a larger follow distance and perform fewer speed lane changes,” while “Average” mode means the car “will have a medium follow distance and may perform rolling stops.” That said, it’s a bit hard to distinguish the difference between these modes from this video alone, as it doesn’t test out the vehicle’s behavior in heavy traffic or harsh weather conditions.
+- It’s hard to tell just how much these FSD profiles change the way the vehicle drives, and if they push the limits of safety, especially when traveling in the rain or snow. If the descriptions of these profiles are accurate, this means that a Tesla in “Assertive” mode may follow cars more closely, come to rolling stops, and swap lanes more frequently — behaviors that tend to be more dangerous no matter the car you’re in.
+- It’s important to note that Tesla’s FSD feature doesn’t make the car completely autonomous — a “feature complete” version would ideally let users drive to and from work without intervention. Tesla’s controversial FSD beta was rolled out to more users last September based on a “Safety Score” system that prioritizes drivers with safer driving habits, something that the National Transportation Safety Board cautioned against. In November, what appears to be the first-ever crash involving Tesla’s FSD mode left a Tesla severely damaged.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://gizmodo.com/teslas-assertive-mode-brings-rolling-stops-to-self-driv-1848331537
+- Tesla has brought back its Full Self-Driving (FSD) profiles around three months after pulling the feature from an October update. The three driving profiles, labeled “Chill” “Average” and “Assertive,” dictate the ways FSD equipped Tesla’s behave in certain scenarios and the amount of risk the vehicles may take when making decisions. Images of the profile settings, first highlighted by The Verge, show in-vehicle descriptions associated with the settings which dictate the vehicle’s follow distance, and frequency of lane changes.
+- Of particular interest here is FSD’s assertive profile, which, according to the images, will “have a smaller follow distance, perform more frequent speed lane changes, will not exit passing lanes and may perform more rolling stops.” Tesla’s wording around rolling stops here remains unclear, particularly since rolling stops at stop signs in the U.S. are generally illegal. Gizmodo reached out to Tesla for comment but has not heard back.
+- The “Chill” profile, by contrast, aims to have Teslas maintain a larger following distance and perform fewer speed lane changes, according to images posted by Twitter user @digitalhen. FSD’s “Average” profile unsurprisingly strives to strike a middle ground, though like assertive, it may also engage in more rolling stops.
+- FSD profiles were part of an over-the-air update Tesla pushed late last year but were quickly pulled after CEO Elon Musk reported, “seeing some issues” which briefly left some drivers unable to access the FSD feature at all.
+- Striking a balance between public safety and personal driver convenience remains one of the thorniest dilemmas for autonomous vehicle development, a tradeoff dictated as much by philosophy as technical performance. To put that into perspective, one of the top rallying cries amongst autonomous vehicles’ supporters revolves around the argument that more AVs on roads will reduce crashes since the majority of those crashes currently result from human error. However, a 2020 study from the Insurance Institute for Highway Safety (IIHS) estimated AV systems may only eliminate around a third of car crashes if those systems were designed to drive in ways that resemble humans, as FSD’s assertive mode appears to.
+- Instead, the report determined AV systems would need to be designed to prioritize safety over rider preferences if the grandest promises of AV safety are to ever become reality. Though crashes resulting from “sensing and perceiving errors” and incapacitation (factors self-driving vehicles would presumably solve for) accounted for 23% and 10% of total crashes respectively in the IIHS study, another 40% were the result of planning and deciding errors like speeding and illegal maneuvers, which aren’t necessarily solved simply by moving towards autonomous systems.
+- “Building self-driving cars that drive as well as people do is a big challenge in itself,” IIHS Research Scientist and lead author of the study Alexandra Mueller said in a statement. “But they’d actually need to be better than that to deliver on the promises we’ve all heard.”
+- Tesla’s foray into assertive driving comes despite mounting scrutiny into FSD and Tesla’s Autopilot driver assistance feature from regulators and safety advocates The National Highway Traffic Safety Administration opened a formal probe into Autopilot last summer following rising cases of vehicles equipped with the automated system colliding with emergency response vehicles. The company was also criticized by the head of the U.S. National Transportation Safety Board late last year for its efforts to expand the FSD beta to more drivers before addressing “basic safety issues.” The first serious crash involving FSD appears to have occurred in November, according to a complaint filed with the National Highway Traffic Safety Administration.
+- None of that has seemed to deter Tesla from its FSD expansion. In fact, last week Musk announced his company would raise the FSD price to $12,000— up from the previous $10,000 price tag—and signaled further price increases may follow.
+
+URL: https://techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/
+- Profiles are back in Tesla’s latest “Full Self-Driving” beta 10.3 with an “Assertive Mode” that may perform rolling stops and other borderline maneuvers, The Verge has reported. The update was originally released in October 2021 with three profiles (“Chill,” “Average” and “Assertive”), but was pulled just two days later over issues with traffic light left turns, unexpected stopping and more.
+- The latest update issued yesterday shows that the Full Self-Driving (Beta) profiles are back. If you choose “Assertive,” the notes state that “in this profile, your Model X will have a smaller follow distance, perform more frequent speed lane changes, will not exit passing lanes and may perform rolling stops.” As @Digitalhen notes, the system may also perform rolling stops even in “Average” mode.
+- I guess "Road Rage Mode" didn't fit on the screen pic.twitter.com/6pJNFvrJXA
+- — David Zipper (@DavidZipper) January 9, 2022
+- 
+- Generally, a rolling stop means a vehicle doesn’t come to a complete halt at a stop sign (which is illegal and dangerous) but it’s not yet clear if that’s what FSD will do. It’s also illegal in many states to stay in the left or passing lane if you’re not passing anyone, and of course, it’s never a great idea to follow the vehicle ahead too closely. All of that said, the mode hasn’t been tested enough yet to demonstrate exactly how it’s doing those things.
+- On the weekend, CEO Elon Musk announced that Tesla would be raising the price of FSD from $10,000 to $12,000, even though it’s still in beta. As we’ve pointed out before, the name “Full Self-Driving” is misleading (much like Autopilot), as FSD does not offer true Level 4 self-driving, but simply Level 2 advanced driver assistance.
+
+URL: https://hypebeast.com/2022/1/tesla-full-self-driving-beta-assertive-mode-perform-rolling-stops
+- Drivers using Tesla‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,” “Average” and “Assertive” mode that has different degrees of aggressiveness and possibly safety.
+- According to Not a Tesla App feature was initially pulled from the 10.3 version in October 2021 but Tesla recently issued a 10.3.1 update that included a revamped iteration of the FSD profiles. The notes also indicated that the FSD profiles were meant as a way “to control behaviors like rolling stops, speed-based lane changes, following distance and yellow light headway.
+- One Twitter user posted an image that showed Tesla’s description of the “Assertive” mode. Tesla writes, “In this profile your Model X will have a smaller follow distance, perform more frequent speed lane changes, will not exit passing lanes and may perform rolling stops.” The latter part of the sentence that stated that the car might “perform rolling stops” caught the attention of onlookers who have indicated that they are unsure if this means that the car will not obey the rules of a stop sign.
+A YouTube video posted online showed how the three modes work and how they differed from one another. It appears that in “Chill” mode the vehicle has “a larger follow distance and perform fewer speed lane changes.” In “Average” mode, there is medium distance and might also be performing rolling stops. The video still was unable to pinpoint the distinctive difference between the three nor can audiences tell if it means that the car will not come to a full halt in “Average” and “Assertive” mode.
+Tesla’s FSD feature does not make the vehicle fully autonomous. Since FSD beta rolled out in September last year, the EV brand has faced many controversies that have yet to be solved.
+
+I guess “Road Rage Mode” didn’t fit on the screen pic.twitter.com/6pJNFvrJXA
+— David Zipper (@DavidZipper) January 9, 2022
+
+
+No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+— David Zipper (@DavidZipper) January 9, 2022
+
+In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- A YouTube video posted online showed how the three modes work and how they differed from one another. It appears that in “Chill” mode the vehicle has “a larger follow distance and perform fewer speed lane changes.” In “Average” mode, there is medium distance and might also be performing rolling stops. The video still was unable to pinpoint the distinctive difference between the three nor can audiences tell if it means that the car will not come to a full halt in “Average” and “Assertive” mode.
+Tesla’s FSD feature does not make the vehicle fully autonomous. Since FSD beta rolled out in September last year, the EV brand has faced many controversies that have yet to be solved.
+
+I guess “Road Rage Mode” didn’t fit on the screen pic.twitter.com/6pJNFvrJXA
+— David Zipper (@DavidZipper) January 9, 2022
+
+
+No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+— David Zipper (@DavidZipper) January 9, 2022
+
+In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- Tesla’s FSD feature does not make the vehicle fully autonomous. Since FSD beta rolled out in September last year, the EV brand has faced many controversies that have yet to be solved.
+
+I guess “Road Rage Mode” didn’t fit on the screen pic.twitter.com/6pJNFvrJXA
+— David Zipper (@DavidZipper) January 9, 2022
+
+
+No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+— David Zipper (@DavidZipper) January 9, 2022
+
+In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- I guess “Road Rage Mode” didn’t fit on the screen pic.twitter.com/6pJNFvrJXA
+— David Zipper (@DavidZipper) January 9, 2022
+- — David Zipper (@DavidZipper) January 9, 2022
+- No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+— David Zipper (@DavidZipper) January 9, 2022
+
+In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+— David Zipper (@DavidZipper) January 9, 2022
+- — David Zipper (@DavidZipper) January 9, 2022
+- In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- In other Tesla news, the EV company is raising its prices for full self driving once again.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- 
+- 
+- 
+- 
+- Gain access to exclusive interviews with industry creatives, think pieces, trend forecasts, guides and more.
+- We charge advertisers instead of our readers. Support us by whitelisting our site.
+- Whitelist Us
+- Already whitelisted us?
+                        
+                            Refresh page
+
+URL: https://www.dailymail.co.uk/sciencetech/article-10386965/amp/Tesla-increase-Self-Driving-package-unveils-update-adds-Assertive-mode.html
+- By Stacy Liberatore For Dailymail.com
+              
+Updated: 17:20 10 Jan 2022
+- 
+- Comments
+- 
+- Comments
+- 
+- 
+- Elon Musk's Tesla had a busy weekend - the company announced its Full Self-Driving (FSD) package will increase to $12,000 starting January 17 and it  rolled out a software update to the system.
+- The cost of the FSD premium option is a $2,000 increase, but according to Musk it will only be available in the US.
+- Tesla also unleased the latest FSD beta 10.3 with three driving modes that gives vehicles a 'Chill,' 'Average' or 'Assertive' approach while on the road.
+- The Assertive mode, however, has caused a stir among the public, as it may perform rolling stops, which many people say is illegal in most US states.
+- Scroll down for video
+- Tesla's FSD is available to drivers with high safety scores of 100 out of 100.
+- These scores were decided by drivers giving the firm permission to monitor their driving using in-car software. The scores will be ranked per 100 miles of driving.
+- Once approved, these drivers will have access to exclusive features like summon that lets drivers move the vehicle in and out of tight space using the companion app or the three new driving modes just added.
+- Those who choose 'Assertive' 'will have a smaller follow distance, perform more frequent speed lane changes, will not exit passing lanes and may perform rolling stops.'
+- A rolling stop refers to the act of not coming to a complete stop while driving, but just slowing down to a slow, 'rolling' speed, and it is sometimes referred to as a California stop.
+- It is illegal in Texas, California and other US states, but the act is permitted in New Jersey.
+- Tech writer David Zipper, who seems to have shared the first news of the modes, jokes on Twitter saying: 'I guess 'Road Rage Mode' didn't fit on the screen.'
+- A screen shot shared on Twitter by Digtalhen shows 'Average' may also perform rolling stops, while 'Chill' 'will have a larger follow distance and perform fewer speed lane changes.'
+- The last FSD software roll out hit in October, but Musk was forced to pull the release after several issues were found.
+- 'Please note, this is to be expected with beta software. It is impossible to test all hardware configs in all conditions with internal QA, hence public beta,' the CEO tweeted.
+- Several issues from Tesla owners surfaced on Twitter, with many citing problems with braking functions and fake front collision warnings.
+- The issues were later fixed, unlike several mechanical issues that were found among nearly a half a million Model 3 and Model S vehicles.
+- Tesla announced a recall on December 30 to address issues that increase the risk of crashing.
+- A total of 356,309 Model 3 vehicles made between 2017 and 2020 are being recalled due to problems with the rearview camera and 119,009 Model S vehicles due to front trunk problems.
+- Tesla warns that for the specific Model 3 vehicles, opening and closing the trunk could damage the cable harness attaching the rearview camera, causing the camera to suddenly fail.
+- And the Model S issue could stop the front trunk from latching, allowing it to swing up while the vehicle is in motion.
+- According to Tesla, only about one percent of the Model 3 cars have the flaw, while 14 percent of the Model S vehicles.
+- 
+- Comments
+- 
+- Comments
+- 
+- 
+- 
+
+URL: https://futurism.com/tesla-fsd-rolling-stops
+- When you roll up to a stop sign in a car, what do you do? Do you come to a complete stop, or do you slow down to a crawl before picking up speed again?
+- Spoiler alert: the latter, known as a "rolling stop" or a "California roll," is illegal in most places.
+- Tesla is seemingly leaving the decision up to its drivers when it comes to its infamous self-driving software suite misleadingly called "Full Self-Driving" (FSD), The Verge reports — yet another instance of the Elon Musk-led company playing fast and loose when it comes to the rules of the road.
+- In the software's beta, first released back in October in a bid to let customers iron out the kinks on public roads, users can now choose between three profiles: "Chill," "Average," and "Assertive."
+- In both the Average and Assertive profiles, the vehicle "may perform rolling stops," according to an in-car description.
+- It's important to note, however, that it's unclear whether Teslas are actually trained to not come to a full stop at stop signs specifically, as The Verge points out. Rolling stops at yield signs, for instance, are generally above board.
+- While in the Assertive profile, the vehicle will also shorten its follow distance and "perform more frequent speed lane changes" — the kind of irritating driving that more responsible motorists look down on.
+- Unsurprisingly, the ambiguous setting is kicking up controversy.
+- "I guess 'Road Rage Mode' didn't fit on the screen," tech journalist David Zipper wrote in a scathing tweet.
+- Tesla has been in deep water with safety regulators for quite some time. Most recently, the National Highway Traffic Safety Administration announced that it's investigating the company for allowing drivers to play video games while driving.
+- In other words, the carmaker already isn't exactly a favorite among regulators. National Transportation Safety Board (NTSB) chair Jennifer Homendy, for instance, laid down a gauntlet during an October interview with CNBC.
+- "It’s not full self-driving," she told the broadcaster, "unless you’re saying the driver is actually driving the car. Which in this case, it isn’t full self-driving technology. It’s misleading."
+- Last year, the US National Highway Traffic Safety Administration (NHTSA) also opened a formal investigation into Tesla's Autopilot feature following a series of accidents in which Teslas smashed into stationary emergency response vehicles.
+- By this point, it's clear that Tesla is attempting to push self-driving technologies and legal limits to the breaking point — and there are bound to be major stumbling blocks along the way, as Musk has admitted himself.
+- Does that mean we have to allow cars to behave recklessly on public roads? To many, the answer is a straightforward no.
+- READ MORE: Tesla’s ‘Full Self-Driving’ beta has an ‘assertive’ driving mode that ‘may perform rolling stops’ [The Verge]
+- More on Tesla: Tesla Forced to Recall Almost Half a Million Cars
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://jalopnik.com/teslas-fsd-betas-driving-modes-bring-up-interesting-eth-1848331683
+- Ever rolled through a stop sign? Of course you have. I think I did it this morning, in fact. If you’re a driver who hasn’t, then I hope being a liar is working out for you, because I bet you have. As far as illegal things go, rolling through a stop sign is about as minor as you can get, though it is technically illegal and I suppose for a decent reason, since stop signs are generally placed at locations where stopping fully is at the very least a pretty good idea. So, with that in mind, should we be programming self-driving car AI to commit this admittedly minor crime? Tesla seems to have already decided that it’s okay.
+- Tesla’s current version of their Full Self-Driving (FSD) Beta software contains a feature known as “FSD Profiles,” which started with version 10.3 released in October 2021 (but was then pulled for issues, and came back very soon with 10.3.1).
+- As noted in other articles about these updates, a big feature was the introduction of three “profiles” for FSD’s behavior, which include Chill, Average, and Assertive.
+- In Average and Assertive modes, the little description text reveals a bit about how the software will make the car behave, and reveals some details:
+- In both these modes, the description states that the car may perform a rolling stop. Let’s be absolutely clear about what this is: Yes, it’s incredibly minor and perhaps even trivial, but this is the car telling you that its programming may cause it to decide to perform an illegal act.
+- The reason I’m making a Big Thing out of this is that we’re still early enough in humanity’s development of what we hope will one day be actually, fully self-driving cars that we can still look at what we’re able to do and really ask ourselves if this is the path we want to take.
+- Is it? I’m honestly not certain.
+- The specific act — rolling through a stop sign — is less important than the bigger implications here. Those implications are the fact that we have traffic laws on our books that are routinely broken, because we’re human beings and the overall experience of driving can, we feel, be improved in some way by the willful ignoring of some of these laws.
+- Almost all of us speed at times, too. And while you can get Tesla’s (and others, of course) driver-assist systems to speed as well, it’s always been the human’s decision to do so. If you set your cruise control or Level 2 semi-automated driving system speed upper limit at 95 mph, that’s what the car will do, but that was your choice, not the car’s.
+- This situation is different, because the driver is not part of the decision making process that could result in the Tesla rolling through a stop sign, breaking a law. If a cop sees you do this, and pulls you over, who is to blame?
+- Is it the driver’s fault, because they were informed that the car might pull off such a crime when they selected the driving mode? Or should the cop send the ticket to Tesla HQ, since it was their software that willfully decided to roll through the stop sign?
+- Do we want our eventual self-driving cars to be willing to break laws? Does this mean we need to take a realistic look at our traffic laws and maybe adapt them a bit better to real-world, real-life behaviors and situations? Should we just legalize a slow-rolling stop at certain intersections and conditions, and maybe have more flexible speed laws?
+- Or should we just program our cars to follow the law? Isn’t part of what makes the possibility of computer-controlled driving so appealing to people is that computers can always do the safe thing and won’t ever be tempted to break laws or run stop signs or speed because they’re not burdened with our flawed, impulsive, horny, hungry human brains?
+- It may sound minor, but the line of thinking shown in these driving profiles isn’t conceptually different than if, say, Tesla manages to actually develop and sell their humanoid robot (stop laughing, this is a thought experiment), and it includes a Shoplift Mode that would let it attempt to shoplift items if it thought it could get away with it.
+- Of course, this doesn’t exist, but it’s just not really different than a slider that lets the car decide to violate a traffic law.
+- We need to think all this through now and decide what we want for our future. Do we want total law-and-rule following? Do we want certain exceptions? The ability to override as needed and permit a law-breaking behavior? Give the decision over to the machine, possibly with a sliding set of acceptable parameters?
+- Honestly, I’m not sure exactly how this should play out. What I am sure about is that we, collectively, as a society, need to take the time and do the admittedly hard work to decide on a standard set of rules, before we just start trying shit out and seeing how far we can push it.
+- Because, remember, we’re humans, and part of that deal means we’ll always push it, maybe too far.
+
+URL: https://www.autoevolution.com/news/elon-musk-announces-fsd-prices-will-rise-to-12000-amid-legal-controversy-178701.html
+- Just in the US
+- I guess "Road Rage Mode" didn't fit on the screen pic.twitter.com/6pJNFvrJXA
+- No need to be Assertive to do rolling stops, you can just be Average https://t.co/VJQmSdix5h
+- Motoring writer since 1998, Gustavo wants to write relevant stories about cars and their shift to a sustainable future.			
+Full profile
+- You will only receive our top stories
+- © 2008-2023 SoftNews Net SRL •
+				Privacy Policy •
+				Cookies Policy •
+				Terms of Use
+All rights reserved. autoevolution® and the autoevolution® logo are registered trademarks.
+
+URL: https://news.yahoo.com/tesla-could-drive-jerk-110039153.html
+
+URL: https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html
+- Markets
+- Fear & Greed Index
+- Latest Market News
+- Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.
+- The recall will impact Model S, X, 3 and Y vehicles that have its beta version of the “full self-driving” software enabled. “Full self-driving” is a controversial driver-assist feature that aims to one day allow cars to drive themselves.
+- The technology sometimes steers Tesla vehicles smoothly and obeys traffic rules like stopping for red lights. But in other cases it has proved inconsistent, according to accounts from alarmed drivers using the software. Telsa says that “full self-driving” requires an attentive driver who is ready to take full control of the car at any time.
+- We tried Tesla's 'full self-driving.' Here's what happened
+- “Full self-driving” has been capable of rolling through stop signs since the release of the first version in October 2020. Tesla decided to disable the function following meetings this month with the National Highway Traffic Safety Administration, which regulates motor vehicles.
+- “The Vehicle Safety Act prohibits manufacturers from selling vehicles with defects posing unreasonable risks to safety, including intentional design choices that are unsafe. If the information shows that a safety risk may exist, NHTSA will act immediately,” the administration said in a statement.
+- Tesla will disable the function as soon as this month in an updated version of “full self-driving” software that’s released over the internet, according to a document the automaker filed. Drivers won’t need to take their vehicles to be serviced.
+- Tesla did not immediately respond to a request for comment.
+- The recalled feature, called “rolling stop,” allowed vehicles to travel through all-way stop intersections at up to 5.6 mph under certain conditions. Drivers had to set their vehicle to a “full self-driving” style that included the feature. The vehicle’s “chill” setting, the setting a user can select that drives the most conservatively of the options Tesla gives drivers, is not described as including the feature. The other settings, “average” and “assertive,” include the feature.
+- The “rolling stop” function also required that no relevant moving cars or pedestrian or bicyclists were detected near the intersection. The function wouldn’t activate without sufficient visibility, and all roads entering the intersection need to have a speed limit of no more than 30 mph.
+- “If all the above conditions are met, only then will the vehicle travel through the all-way-stop intersection at a speed from 0.1 mph up to 5.6 mph without first coming to a complete stop,” the recall document states.
+- Tesla said that it is not aware of any collisions, injuries or fatalities related to the feature.
+- The US government has been more proactive of late in taking action on new car features that may introduce safety risks. Tesla said in December that it would no longer allow people to play video games on the touchscreens of its vehicles while they are in motion, following a NHTSA investigation.
+- The US government does not currently have any performance standards for driver-assist features like Tesla’s “full self-driving.” It launched an investigation last year into Teslas rear-ending emergency vehicles while using the automaker’s more rudimentary driver-assist software, Autopilot.
+- Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+- © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.
+
+URL: https://abcnews.go.com/Technology/wireStory/tesla-recall-full-driving-software-runs-stop-signs-82596066
+- This page either does not exist or is currently unavailable.
+- From here you can either hit the "back" button on your browser to return to the previous page, or visit the ABCNews.com Home Page. You can also search for something on our site below.
+- Error Info
+
+
+Status: 404
+
+- Tesla Smart Summon
+- Tesla phantom braking
+- Page info Type: IncidentPublished: January 2022

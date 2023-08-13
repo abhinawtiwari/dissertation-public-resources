@@ -1,0 +1,270 @@
+- Sama 'ethical' data labeling, content moderation
+- Occurred: February 2022
+- Can you improve this page?Share your insights with us
+- Sama is a California-based self-styled 'ethical AI' company that provides data labeling and content moderation services to Facebook parent-company Meta, Google, Walmart, and other organisations.
+- A February 2022 TIME investigation revealed low pay, poor working conditions and alleged union-busting at Sama's office in Nairobi, Kenya for its team moderating content for Facebook.
+- TIME found that Kenyan employees for Sama receive a take-home wage equivalent to around USD 1.46 per hour after tax, had to work up to nine hours per day, are continuously monitored, and are measured against metrics for average time spent and quality. The metrics contradict public statements by Facebook about not setting expectations on its contractors.
+- According to TIME, at least two Sama content moderators resigned after being diagnosed with mental illnesses including post-traumatic stress disorder (PTSD), anxiety, and depression. Former employee and whistleblower Daniel Motaung told TIME he had been unlawfuly fired for leading over 100 Sama workers in an attempted strike that aimed to secure better pay for staff.
+- In a blog post responding to TIME's investigation, Sama claimed its rate of pay was fair, arguing 'the article falsely alleges that Sama does not compensate its employees fairly'. Two weeks later the company said it would increase salaries by 30% to 50%.
+- Meta avoided commenting on Sama employment practices, and has not made public its audits of Sama's Kenya office. Sama reputedly failed to confirm rumours that its managers had attempted to suppress unionisation efforts at its operation in Kenya in 2019.
+- In January 2023, Time journalist Billy Perrigo revealed that OpenAI used Kenyan workers being paid less than USD 2 an hour to de-toxify Open AI's ChatGPT and GPT-3 large language model.
+- According to Perrigo, 'the work’s traumatic nature eventually led Sama to cancel all its work for OpenAI in February 2022, eight months earlier than planned.'
+- In May 2023, a judge ruled that Meta could be sued in Kenya after 43 moderators at its Nairobi hub filed a lawsuit against the group and Sama for unfair termination.
+- Operator: Alphabet/Google; Meta/Facebook; Microsoft; OpenAI; Tesla; Walmart Developer: Sama AI/Samasource Country: KenyaSector: Business/professional services Purpose: Label data; Moderate content Technology: Data labeling system; Content moderation system Issue: Employment - pay, jobs, working conditions, unionisation Transparency: Governance; Marketing - misleading
+- Sama website
+- Sama Wikipedia profile
+- Sama (2022). What TIME got wrong
+- Facebook (2018). Hard Questions: Who Reviews Objectionable Content on Facebook — And Is the Company Doing Enough to Support Them?
+- Foxglove (2022). Daniel Motaung launches world-first case to force Facebook to finally put content moderators’ health and wellbeing ahead of cash
+- The Signals Network (2022). TIME’s revelations on Facebook content moderation made possible by whistleblower support
+- TIME (2023). Under Fire, Facebook's 'Ethical' Outsourcing Partner Quits Content Moderation Work
+- TIME (2022). Facebook Content Moderators in Kenya to Receive Pay Rise Following TIME Investigation
+- TIME (2022). Inside Facebook's African sweatshop
+URL: https://fortune.com/2022/02/15/artificial-intelligence-reading-writing-transformers-natural-language-processing/
+- Teaching computers to read and write was among the biggest breakthroughs in artificial intelligence in recent years.
+- The effort received a huge lift from the introduction of transformers, a concept developed by the Google Brain research lab that helped to improve natural language processing. Transformers involve a variety of neural networks, the software used for deep learning, that excel at teaching computers language skills.
+- Because of how they encode data, transformers are particularly good at discovering relationships between words and phrases in long sequences that more conventional NLP software would overlook. As a result, companies like Google, Facebook, and the A.I. research firm OpenAI have created powerful language systems that can produce seemingly humanlike text based on written prompts.
+- Now, Aidan Gomez, a former member of the Google Brain team that developed transformers, aims to make a business out of selling transformer-based language technology services to companies. His startup, Cohere, said Tuesday that it had landed $125 million in funding, led by Tiger Global and other investors including Radical Ventures, Index Ventures, and Section 32.
+- Gomez will face stiff competition from cloud giants like Google and Amazon, which sell similar software. Additionally, OpenAI, with help from a high-profile partnership with Microsoft, is also trying to commercialize its language software.
+- What distinguishes Cohere from others, Gomez says, is that the startup is focusing on developers who need easy-to-use language tools that can be deployed for more than one task, like analyzing what the public is saying about a certain topic on social media, a common use of NLP by companies. Most available language tools from rivals generally do only one task well, he explains.
+- Gomez also says that companies can bring their own language data tailored to their industry so that Cohere can help them build NLP software that recognizes the unique jargon and idiosyncrasies of specialized markets like health care. Although big cloud companies including Google and Microsoft will likely work on custom NLP projects for large customers like financial services giants, Gomez claims that they don’t yet offer easy-to-use developer tools for smaller companies that provide similar capabilities.
+- “For all the startups, the students, like the wide swath of developers that exists—the long tail—they’ll never get that sort of treatment,” Gomez says.
+- Cohere has built its own transformer-based language systems that are comparable to popular language software like Google’s BERT and OpenAI’s GPT family of software, Gomez says. Tech firms are increasingly building larger versions of these language models that include hundreds of billions of parameters, under the assumption that the bigger they get, the better they’ll understand language.
+- Gomez declines to comment about the size of Cohere’s language models, however, saying that size doesn’t accurately predict how well they’ll perform in everyday business tasks.
+- “These models cost millions and millions to train, and we just keep increasing [their size].” Gomez says. “Getting into a ‘largest model battle’ isn’t a productive direction going forward for the field.”
+- Jonathan Vanian @JonathanVanianjonathan.vanian@fortune.com
+- Texas to take Facebook parent Meta to court. The state of Texas filed a lawsuit against Facebook parent Meta that alleges the social media giant illegally collected biometric data of users and engaged in deceptive business practices. The lawsuit is similar to a previous lawsuit between Facebook and Illinois that Meta settled in 2021 for $650 million.
+- YouTube gets a boost of A.I. YouTube is now using a variant of the A.I. technology developed by Alphabet’s DeepMind A.I. unit to improve the quality of video compression so that videos stream more efficiently, Fortune’s Jeremy Kahn reported. The A.I. software was originally created to help computers master games like Chess, Go, and old-school Atari video games.
+- There’s gold in the A.I. hills. The startup KoBold Metals has raised $192.5 million in a new funding round, according to a report in the Wall Street Journal that cited unnamed sources. The startup’s technology uses A.I. techniques to help guide companies in drilling for minerals, such as those used for developing batteries for electric vehicles. KoBold Metals is backed by several high-profile investors including Bill Gates’ Breakthrough Energy Ventures, investor and technologist Sam Altman’s Apollo Projects, investor Mary Meeker’s Bond Capital, and mining company BHP Group.
+- A.I. salaries come down. Salaries for machine learning, natural language processing, and A.I. experts fell in 2021, declining by 2.1%, 7.8%, and 8.9%, respectively, according to a report by IEEE Spectrum that cites data from the recruitment firm Dice. In 2021, the average yearly salary for a machine learning expert is now $122,597, an NLP expert $121,286, and an A.I. generalist $120,168. A Dice representative told the publication that A.I. salaries could be declining as more technologists learn and master A.I. technologies, thus alleviating a shortage of talent.
+- Cohere told Fortune that it had hired Bill MacCartney to be the machine learning startup’s vice president of engineering and machine learning. MacCartney was previously the director of proactive intelligence at Apple and a managing director at BlackRock.
+- Tenstorrent has picked Matthew Mattina to be the A.I. computer chip startup’s vice president of machine learning. Mattina was previously a distinguished engineer and senior director of machine learning research at semiconductor design giant Arm.
+- Asapp has hired Priya Vijayarajendran to be the contact center technology company’s chief technology officer, the tech news service Protocol reported. Vijayarajendran was previously a Microsoft vice president of data and A.I.
+- A.I. is more than fun and games. Researchers from Sony’s A.I. team published a paper in Nature detailing how they used deep reinforcement learning to teach computers how to drive race cars in the video game Gran Turismo Sport. Through the process of trial and error, Sony’s A.I. became proficient enough to beat some of the leading human Gran Turismo Sport video game players during a tournament.
+- The paper marks another example of how technology companies like Google, Facebook, and now Sony are creating cutting-edge A.I. that is besting human players at increasingly difficult games. Although these A.I. examples are a far cry from humanlike intelligence, they are far more sophisticated than older software and can perhaps be used for more practical uses involving planning and strategizing.
+- Tyson Foods CEO is betting on A.I. and automation to reduce labor costs—By Sheryl Estrada
+- Europe is terrified of semiconductor irrelevance. Now its tech champion is calling for a massive new alliance—By Christiaan Hetzner
+- The CIA has been conducting mass surveillance in the U.S. with minimal oversight—and the program’s uncovering is bad news for Big Tech—By  David Meyer
+- Activision Blizzard was their dream job. The workplace was a nightmare—By Courtney Rubin
+- The human cost of data labeling. The data-labeling company Sama and its work with Facebook is the subject of an extensive report in Time that details the intense working conditions of African labelers in Kenya who “perform the brutal task of viewing and removing illegal or banned content from Facebook before it is seen by the average user.”
+- Sama pitches itself as an “ethical AI” outsourcing company, the article said. The company maintains a global workforce that performs tasks like data labeling so that companies can improve their machine learning systems. Researchers have previously called this kind of data labeling practice “ghost work” because little is known about the working conditions of this global labor force that helps companies develop A.I.
+- The article describes how Facebook is outsourcing its content moderation operations in countries with cheap labor, which “has led some observers to raise concerns that Facebook is profiting from exporting trauma along old colonial axes of power, away from the U.S. and Europe and toward the developing world.”
+- Our mission to make business better is fueled by readers like you. To enjoy unlimited access to our journalism, subscribe today.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.msn.com/en-us/money/news/moderator-inside-facebooks-african-sweatshop-says-work-is-mental-torture/ar-AATRB8n
+- This page is gone.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-29T13:44:16.3541899+00:00
+- 9856fd83-8133-4f34-9232-1d3ee98dcf6c
+
+URL: https://futurism.com/facebook-content-mod-sweatshop
+- Facebook's lowest paid workers, a new investigation reveals, make only $1.50 an hour to moderate violent and disturbing content in an outsourced facility in Kenya — and that's not the only difficulty they face on the job.
+- A new TIME investigation reveals that the Nairobi offices of the "ethical AI" outsourcing company Sama — which provides Facebook's content moderation for all of sub-Saharan Africa — is home to a host of issues including the mental anguish associated with the content workers are required to view for work, as well as alleged workplace intimidation and suppression of union organizing.
+- Based in California, Sama has a do-gooder veneer characterized by its "give work, not aid" ethos that's won the company contracts with Microsoft, Google, and even Walmart. The "dignified digital work" they publicly claim to provide, however, looks a lot different on the ground in Nairobi, where TIME spoke to over a dozen former and current Sama employees and reviewed hundreds of documents.
+- "The work that we do is a kind of mental torture," one current Sama employee that works as an outsourced Facebook content moderator told TIME, who like others who spoke to the magazine did so on condition of anonymity for fear of retribution or job loss. "Whatever I am living on is hand-to-mouth. I can’t save a cent. Sometimes I feel I want to resign. But then I ask myself: what will my baby eat?"
+- Why does this matter?
+- Facebook’s content moderation for Sub-Saharan Africa, including Ethiopia where a bloody civil war is raging, happens out of this office.
+- FB has been accused of not doing enough to prevent content on its platform contributing to ethnic violence there.
+- 3/ pic.twitter.com/EHxibFYyET
+- — Billy Perrigo (@billyperrigo) February 14, 2022
+- 
+- At least two Sama workers TIME is aware of did end up quitting after being diagnosed with post-traumatic stress disorder, and others the magazine spoke to said they were unable to get formal diagnoses because they couldn't afford adequate mental health help or simply worked through the trauma because they needed the job. The company nominally offers on-site counseling to employees, but those that spoke to TIME said they don't trust the Sama-paid counselors and even when they do want to seek their help, managers have rejected the mental health contractors' requests to give employees "wellness breaks" because it would harm productivity.
+- This investigation is far from the first time the grueling work of Facebook content moderators have been made public.
+- In 2014, a Wired investigation broadcasted to the world the horrific work required of content moderators at a facility in the Philippines whose job it was to sift through veritable mountains of banned content, from child pornography to videos of people being killed. That story, and the many others like it that ensued, spotlighted the low paid and outsourced work that keeps our social feeds relatively clean.
+- Instead of negotiating when workers threatened a strike, workers told TIME, Sama flew top executives from California to Nairobi and fired the nascent strike's leader as he was about to file trade union papers, and threatened others who participated in the labor action by telling them they could either get back to work or be fired. The company's suppression was successful, and the would-be striker stood down before the week they'd given Sama to respond was up.
+- Though the company denies that the planned strike and labor action even happened, the London-based legal NGO Foxglove, with the help of the Kenyan public interest law firm The Katiba Institute, told TIME that it's preparing to sue Sama for its alleged wrongful termination of the strike leader.
+- While neither the horrors faced by content moderators nor the tech industry's anti-labor maneuvering are new on their own, the intersection of the two sets a dangerous precedent. As Facebook and other companies that run giant global social network continue to have the need for content moderation, so too will they continue to outsource — and, unfortunately, they're gonna keep trying to bust unions while doing so.
+- READ MORE: Inside Facebook's African Sweatshop [TIME]
+- More on the terror of content moderation: Facebook Will Pay Mods $52 Million for Trauma From Gore, Sexual Abuse
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://www.bbc.co.uk/news/technology-46055595
+- This video can not be played
+- WATCH: Why Kenyans are becoming experts in AI
+- When Artificial Intelligence works as intended, Silicon Valley types often say it's "like magic".
+- But it isn't magic. It's Brenda, a 26-year-old single mother who lives Kibera, Africa's largest slum, and perhaps the toughest neighbourhood on earth, where hundreds of thousands of people live in a space not too much bigger than London's Hyde Park.
+- Each day, Brenda leaves her home here to catch a bus to the east side of Nairobi where she, along with more than 1,000 colleagues in the same building, work hard on a side of artificial intelligence we hear little about - and see even less.
+- In her eight-hour shift, she creates training data. Information - images, most often - prepared in a way that computers can understand.
+- Brenda loads up an image, and then uses the mouse to trace around just about everything. People, cars, road signs, lane markings - even the sky, specifying whether it's cloudy or bright. Ingesting millions of these images into an artificial intelligence system means a self-driving car, to use one example, can begin to "recognise" those objects in the real world. The more data, the supposedly smarter the machine.
+- She and her colleagues sit close - often too close - to their monitors, zooming in on the images to make sure not a single pixel is tagged incorrectly. Their work will be checked by a superior, who will send it back if it's not up to scratch. For the fastest, most accurate trainers, the honour of having your name up on one of the many TV screens around the office. And the most popular perk of all: shopping vouchers.
+- "You get to do something unique," Brenda told me when I visited the tiny home she shares with her daughter, brother and mother.
+- "With my work that I'm doing, I believe I'm working for something that is going to help someone in future."
+- Brenda does this work for Samasource, a San Francisco-based company that counts Google, Microsoft, Salesforce and Yahoo among its clients. Most of these firms don't like to discuss the exact nature of their work with Samasource - as it is often for future projects - but it can be said that the information prepared here forms a crucial part of some of Silicon Valley's biggest and most famous efforts in AI.
+- It's the kind of technological progress that will likely never be felt in a place like Kibera. As Africa's largest slum, it has more pressing problems to solve, such as a lack of reliable clean water, and a well-known sanitation crisis.
+- But that's not to say artificial intelligence can't have a positive impact here. We drove to one of Kibera's few permanent buildings, found near a railway line that, on this rainy day, looked thoroughly decommissioned by mud, but has apparently been in regular use since its colonial inception.
+- Almost exactly a year ago, this building was the dividing line between stone-throwing rioters and the military. Today, it's a thriving hub of activity: a media school and studio, something of a cafeteria, and on the first floor, a room full of PCs. Here, Gideon Ngeno teaches around 25 students the basics of using a personal computer.
+- What's curious about this process is that digital literacy is high, even in Kibera, where smartphones are common and every other shop is selling chargers and accessories, which people buy using the mobile money system MPesa.
+- But much of Africa has leapfrogged the desktop PC era. The keyboard and mouse combination is a foreign, cumbersome experience. One Samasource team member told me how she'd often observe trainees look away from their PCs and pick up their phone when asked to search for information on the internet.
+- The course taught here is designed specifically for those wanting to go on to work at Samasource or another digital economy company. It costs 500 Kenyan shillings - around $5. That's a not insignificant amount for people who often live below the poverty line. The company used to offer the course for free, but without the financial commitment, I was told attendance (and concentration) was sketchy at best.
+- Now the biggest challenge, Ngeno said, was noise - as we spoke, a group of eager children did exactly what you'd expect of them when handed a selection of musical instruments. Outside, a market thronged with activity.
+- In contrast, the Samasource office is in a part of Nairobi that reassures you this is a city on the up. The company occupies four floors of a business park building, with vast banks of computers being used for the job of training data.
+- If you didn't look out of the windows, you might think you were at a Silicon Valley tech firm. Walls are covered in corrugated iron in a way that would be considered achingly trendy in California, but here serve as a reminder of the environment many of the workers come from: around 75% are from the slum.
+- Most impressively, Samasource has overcome a problem that most Silicon Valley firms are famously grappling with. Just over half of their workforce is made up of women, a remarkable feat in a country where starting a family more often than not rules out a career for the mother. Here, a lactation room, up to 90 days maternity leave, and flexibility around shift patterns makes the firm a stand-out example of inclusivity not just in Kenya, but globally.
+- "Like a lot of people say, if you have a man in the workplace, he'll support his family," said Hellen Savala, who runs human resources.
+- "[But] if you have a woman in the workplace, she'll support her family, and the extended family. So you'll have a lot more impact."
+- That balance isn't just among those doing the entry level work, either. In San Francisco's Mission District, in an office far more modest than what the firm has in Kenya, Samasource's chief executive Leila Janah beamed when talking about how the firm's management team is majority female.
+- "It's extremely unusual in Silicon Valley more broadly, but especially within artificial intelligence.
+- "We just think of it as normal. It's a competitive advantage."
+- Founded in 2008, Samasource received a frosty reception in its early days. In recession-hit America, outsourcing a large number of jobs to the developing world was not seen as a welcome idea. It arguably still isn't.
+- Those who did like the concept worried there were too few people with the digital skills necessary to do the work to a standard the tech giants would accept.
+- "Very smart people in the tech world, and in the world of big philanthropy said this was a wonderful idea, but that it would never work," Janah recalled. Today, Samasource is the largest organisation of its kind in East Africa, and also has facilities in Asia and North America.
+- Janah touts the company's record for accuracy and security as the major reasons why Google et al come to them for this work. But of course, there's an obvious motivation for these companies to use workers in parts of the world where wages are rock bottom, and where locals are desperate for steady work.
+- Samasource targets those currently earning around $2 a day, or less, in the so-called informal economy of odd - or dangerous - jobs. Samasource instead provides a living wage of around $9 a day. That's an improvement, but still a pittance for Silicon Valley.
+- "Yes, it's cost effective," Janah said. "But one thing that's critical in our line of work is to not pay wages that would distort local labour markets. If we were to pay people substantially more than that, we would throw everything off. That would have a potentially negative impact on the cost of housing, the cost of food in the communities in which our workers thrive."
+- Then of course, there's a question of what happens if the work is no longer needed. Samasource's main business is, after all, in providing data for automated systems. What if the process of creating that data becomes automated as well?
+- "That's the billion dollar technology question that everyone is paranoid about," Janah said.
+- "I think there's a lot of hype around that. But if you actually talk to data scientists, the minds behind these algorithms, you'll find the machine is much further behind than most people realise.
+- "We're going to need training data for a long time."
+- Being a data training expert is boring, repetitive, never-ending work. And when not in front of our cameras, some staff talked about how they faced pressure to work quickly in order to hit company targets, leading to fewer breaks. Some Samasource workers are freelancers who can work anywhere, but with a webcam watching them as they work.
+- None of the staff we saw at the office had any kind of acceptable ergonomic support, often crouching over, clicking away furiously, for hours on end - a certain strain to eyes and body. The company has said it would work on that.
+- Complaints about the work - which are certainly not unique in this industry - are quickly followed up with stories of changed lives.
+- Samasource believes it has impacted almost 50,000 people in the developing world; those who either worked at Samasource, or are supported by someone who did. It has surveyed former employees and discovered that around 84% continued on to more formal work or took up higher education.
+- One of those workers moving onto bigger things is Idris Abdi, 25, who was able to move out of the slum.
+- "It has changed my… my everything," he said.
+- "It has changed my perspective, it has exposed me to see there is hope beyond living here."
+- ________
+- Follow Dave Lee on Twitter @DaveLeeBBC
+- Do you have more information about this or any other technology story? You can reach Dave directly and securely through encrypted messaging app Signal on: +1 (628) 400-7370
+- What is artificial intelligence?
+- How AI is transforming tennis
+- Could AI replace doctors?
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.niemanlab.org/reading/inside-the-nairobi-based-company-facebook-has-hired-to-be-the-emergency-first-responders-of-social-media/
+- Cite this articleHide citations
+- CLOSE
+- MLA
+- , . "Inside the Nairobi-based company Facebook has hired to be “the emergency first responders of social media”." Nieman Journalism Lab. Nieman Foundation for Journalism at Harvard, 15 Feb. 2022. Web. 29 May. 2023.
+- APA
+- , . (2022, Feb. 15). Inside the Nairobi-based company Facebook has hired to be “the emergency first responders of social media”. Nieman Journalism Lab. Retrieved May 29, 2023, from https://www.niemanlab.org/reading/inside-the-nairobi-based-company-facebook-has-hired-to-be-the-emergency-first-responders-of-social-media/
+- Chicago
+- , . "Inside the Nairobi-based company Facebook has hired to be “the emergency first responders of social media”." Nieman Journalism Lab. Last modified February 15, 2022.  Accessed May 29, 2023. https://www.niemanlab.org/reading/inside-the-nairobi-based-company-facebook-has-hired-to-be-the-emergency-first-responders-of-social-media/.
+- Wikipedia
+- {{cite web
+    | url = https://www.niemanlab.org/reading/inside-the-nairobi-based-company-facebook-has-hired-to-be-the-emergency-first-responders-of-social-media/
+    | title = Inside the Nairobi-based company Facebook has hired to be “the emergency first responders of social media”
+    | last = 
+    | first =  
+    | work = [[Nieman Journalism Lab]]
+    | date = 15 February 2022
+    | accessdate = 29 May 2023
+    | ref = {{harvid||2022}}
+}}
+- To promote and elevate the standards of journalism
+- Covering thought leadership in journalism
+- Pushing to the future of journalism
+- Exploring the art and craft of story
+- The Nieman Journalism Lab is a collaborative attempt to figure out how quality journalism can survive and thrive in the Internet age.
+- It’s a project of the Nieman Foundation for Journalism at Harvard University.
+
+URL: https://techcabal.com/2022/02/14/facebook-fire-for-poor-treatment-of-african-content-moderators/
+- Image source: Technext.ng
+- Meta-owned Facebook has come under fire for the treatment of African content moderators according to a recent TIME article.
+- TIME revealed that content moderators in Nairobi were subject to poor pay and working conditions by Sama, a company responsible for Facebook’s Sub-Saharan Africa content moderation since 2019. Sama also provides data labeling services for tech giants like Google, Microsoft.
+- In 2021, Facebook said it spent more than $5 billion on safety measures. It contracts the services of more than 15,000 content moderators globally, most of whom are employed by third-parties like Sama.
+- “The work that we do is a kind of mental torture,” one employee, who currently works as a Facebook content moderator for Sama, told TIME. “Whatever I am living on is hand-to-mouth. I can’t save a cent. Sometimes I feel I want to resign. But then I ask myself: what will my baby eat?”
+- These working conditions led 6 Ethiopians to resign in January. Recall that Facebook is struggling to reduce the influence of content on its platform which is leading to real-world violence in Ethiopia. According to TIME, at least two Sama content moderators resigned after being diagnosed with mental illnesses including post-traumatic stress disorder (PTSD), anxiety, and depression. Many others described how they had been traumatized by the work but were unable to obtain formal diagnoses due to their inability to afford access to quality mental healthcare. Some described continuing with work despite trauma because they had no other options.
+- In the summer of 2019, instead of negotiating when content moderators threatened to strike unless they were given better pay and working conditions, Sama responded by flying two highly-paid executives from San Francisco to Nairobi to deal with the uprising.
+- South African Daniel Motaung, the attempted strike’s leader who was in the process of formally filing trade union papers, was fired shortly after. He was accused by Sama of taking action that would put the relationship between the company and Facebook at “great risk.” Sama told other participants in the labor action effort that they were expendable and said they should either resign or get back to work, several employees told TIME. The workers abandoned the protest before the seven days were up, and there was no pay increase.
+- Sama denied that there was any strike or labor action.
+- According to payslips seen by TIME, Sama pays foreign employees monthly pre-tax salaries of around 60,000 Kenyan shillings ($528), which includes a monthly bonus for relocating from elsewhere in Africa. After tax, this equates to around $440 per month, or a take-home wage of roughly $2.20 per hour, based on a 45-hour work week. Sama employees from within Kenya, who are not paid the monthly relocation bonus, receive a take-home wage equivalent to around $1.46 per hour after tax.
+- The average salary at Sama including benefits was approximately 2.5 times the Kenyan minimum wage,  according to a 2021 study carried out by three MIT researchers. But these wages only cover the basic costs of living, workers say, and don’t allow them to save or improve their financial situations.
+- Employees also complained of working long hours—up to nine hours per day including breaks, and their screen time is monitored. According to several copies of Sama content moderators’ performance reviews, TIME revealed that the moderators were measured against target metrics for average time spent and quality. This evidence contradicts the public statement that Facebook has made about not setting expectations on its contractors.
+- “A common misconception about content reviewers is that they’re driven by quotas and pressured to make hasty decisions,” Ellen Silver, Facebook’s vice president of operations, said in a 2018 blog post. “Let me be clear: content reviewers aren’t required to evaluate any set number of posts … We encourage reviewers to take the time they need.”
+- A Meta spokesperson, Ben Walters, corroborated this statement.
+- The Social media giant has also put some features in place to help protect moderators, like the option to render videos in black and white or add blurring. But one Sama employee said he doesn’t use these options because of the pressure to meet quotas. “How can you clearly see whether content is violating or not unless you can see it clearly? If it’s black and white or blurred, I cannot tell,” the employee said. “Some people use the option, but I don’t. Because if I wrongly action that [content], I will be marked down.”
+- This report adds to a seemingly endless series of public controversies relating to Facebook in recent years. Despite claiming innocence in this case, it’s imperative the social media giant holds its contractors like Sama to higher standards or else its name will be dragged in the mud.
+- Free
+- Check your email for your report
+- 
+
+URL: https://winbuzzer.com/2022/02/14/report-exposes-facebooks-african-sweatshop-where-workers-get-1-50-per-hour-xcxwbn/
+- A report suggests an AI firm outsourcing for Facebook is forcing workers in Kenya into poor working conditions for little pay.
+- 
+- The Facebook bubble seems to be over, and the company (now known as Meta) is in crisis. Following an announcement that it is losing users for the first time, Facebook lost hundreds of billions of its stock price, the worst single-company one-day collapse in history. The last thing Meta needs is controversy, so a report highlighting a link between Facebook and an African sweatshop is problematic.
+- Of course, Facebook and controversy sort of go hand-in-hand. The company has a wrap sheet that includes privacy abuse, monopolization tactics, data scraping, advertising tricks, and much more. Still, for years users kept going to the platform. As customers finally turn to other platforms, Facebook is losing its lustre.
+- There is now something archaic about Facebook and the Social Network is also becoming dirtier by the day. It's no wonder the company is trying to distance itself from the Facebook brand as it moves full steam ahead into the metaverse with a new name, Meta.
+- Even a change of parent branding cannot shake off the troubles that Facebook constantly finds itself in. The latest is a report from Billy Perrigo that appears in the latest issue of Time magazine. Perrigo paints a grim picture of an AI developer known as Sama that treats workers poorly, underpays them, and exposes them to harsh working conditions.
+- Described as the “ethical AI” company, Sama is an outsourcing AI firm based in California. In Kenya, 200 workers – most of them young women and men – from several African countries watch content to help train AI. This content shows suicides, child sex abuse, murders, rapes, and other unsavory videos.
+- It should be noted Sama partners with most tech giants, including Google and Microsoft. However, this African location is for outsourcing content moderators for Facebook, a company Sama does not confirm it is a partner with. These moderators handle perhaps the worst task a Facebook employee can do, checking to find illegal and banned content to remove it.
+- The platform is bombarded each day with thousands of images and videos that basically show the worst of humanity. Violence, crimes, murders, rapes, sexual abuse. It's the sort of stuff Facebook is battling to keep off the platform. It is a thankless and harrowing task to review this awful content, but the workers in Kenya do it.
+- What are they paid, aside from trauma? Just $1.50 per hour, making them amongst the worst paid employees at Facebook.
+- “At Sama, it feels like speaking the truth or standing up for your rights is a crime,” one employee tells TIME. “They made sure by firing some people that this will not happen again. I feel like it's modern slavery, like neo-colonialism.”
+- It is worth reading the complete report for more accounts of the working conditions in Sama's Africa location. Importantly, Sama denies all the allegations, stating it pays employees triple the minimum wage in Kenya. The company also points out it has a commitment to ethical AI development around the world:
+- “We value our employees and are proud of the long-standing work we have done to create an ethical AI supply chain,” Shriram Natarajan, the head of Sama's Nairobi office, tells TIME. “We exist to provide ethical AI to our global customers and we are proud of the role our employees play in building new online experiences and cleaning up the internet. It's a tough job and it's why we invest heavily in training, personal development, wellness programs, and competitive salaries.”
+- Tip of the day: Need to create an ad-hoc network from your PC? In our tutorial we show you how to easily create a shareable wireless internet connection in Windows  as a free WIFI hotspot.
+
+URL: https://www.benzinga.com/government/22/02/25623506/moderator-inside-facebooks-african-sweatshop-says-work-is-mental-torture
+
+URL: https://www.niemanlab.org/reading/facebook-content-moderators-in-kenya-are-going-to-get-a-pay-bump-following-a-time-investigation/
+- Cite this articleHide citations
+- CLOSE
+- MLA
+- , . "Facebook content moderators in Kenya are going to get a pay bump following a Time investigation." Nieman Journalism Lab. Nieman Foundation for Journalism at Harvard, 2 Mar. 2022. Web. 29 May. 2023.
+- APA
+- , . (2022, Mar. 2). Facebook content moderators in Kenya are going to get a pay bump following a Time investigation. Nieman Journalism Lab. Retrieved May 29, 2023, from https://www.niemanlab.org/reading/facebook-content-moderators-in-kenya-are-going-to-get-a-pay-bump-following-a-time-investigation/
+- Chicago
+- , . "Facebook content moderators in Kenya are going to get a pay bump following a Time investigation." Nieman Journalism Lab. Last modified March 2, 2022.  Accessed May 29, 2023. https://www.niemanlab.org/reading/facebook-content-moderators-in-kenya-are-going-to-get-a-pay-bump-following-a-time-investigation/.
+- Wikipedia
+- {{cite web
+    | url = https://www.niemanlab.org/reading/facebook-content-moderators-in-kenya-are-going-to-get-a-pay-bump-following-a-time-investigation/
+    | title = Facebook content moderators in Kenya are going to get a pay bump following a Time investigation
+    | last = 
+    | first =  
+    | work = [[Nieman Journalism Lab]]
+    | date = 2 March 2022
+    | accessdate = 29 May 2023
+    | ref = {{harvid||2022}}
+}}
+- To promote and elevate the standards of journalism
+- Covering thought leadership in journalism
+- Pushing to the future of journalism
+- Exploring the art and craft of story
+- The Nieman Journalism Lab is a collaborative attempt to figure out how quality journalism can survive and thrive in the Internet age.
+- It’s a project of the Nieman Foundation for Journalism at Harvard University.
+
+URL: https://www.aljazeera.com/news/2023/4/20/court-rules-meta-can-be-sued-in-kenya-over-alleged-unlawful-redundancies
+- The judge issued an interim injunction preventing Meta and its local partner Sama from terminating the moderators’ contracts.
+- A Kenyan judge ruled on Thursday that Facebook’s parent company Meta could be sued in the East African country after 43 moderators at its Nairobi hub last month filed a lawsuit against the group and its local partner Sama for unfair termination.
+- In response, Judge Matthews Nduma issued an interim injunction against Meta and Sama preventing them from terminating the moderators’ contracts, pending a judgement on the legality of their redundancy.
+- “The court finds that this court has jurisdiction to determine the matter of alleged unlawful and unfair termination of employment on grounds of redundancy,” Nduma said on Thursday.
+- The 184 moderators in the petition said they were fired in retaliation for complaints about working conditions and attempts to form a union.
+- “I do this work because I believe in protecting people,” said Juanita Jones, one of the moderators. “Moderation is the front-line defence of the internet – and it is time to value the work like it, not treat it as some disposable, dead-end job.”
+- The moderators have said they were blacklisted from applying for the same roles at another outsourcing firm, Luxembourg-based Majorel, after Facebook switched contractors.
+- Meta, Sama and Majorel did not immediately respond to requests for comment on Thursday.
+- In February, a Kenyan labour court ruled that Meta could be sued there after one former moderator at the Nairobi hub filed a lawsuit against it, alleging poor working conditions.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Follow Al Jazeera English:
+
+- Facebook Australia news, civil society blocks
+- Facebook Cross-check
+- Page infoType: Issue Published: March 2022Last updated: May 2023

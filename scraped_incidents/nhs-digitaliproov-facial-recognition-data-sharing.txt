@@ -1,0 +1,135 @@
+- Occurred: September 2021
+- Can you improve this page?Share your insights with us
+- The Guardian reports that NHS Digital refuses to share details of how the facial data of UK citizens is being stored or shared. NHS Digital collects and stores UK citizens' facial recognition data using iProov, a London-based private technology company.
+- Other than to confirm law enforcement bodies are able to request data, neither entity will share details of how the data, which is classified as sensitive under UK law, is collected and stored, sparking concern among digital rights and privacy campaigners.
+- Neither will either party share or publish the contract on 'security' grounds. Reports also point to iProov's close links with the UK's ruling Conservative Party, to which two of its directors have donated in recent years.
+- Operator: NHS Digital Developer: iProovCountry: UKSector: Gov - HealthPurpose: Store facial verification data Technology: Facial recognitionIssue: Privacy; Security Transparency: Governance; Privacy
+URL: https://www.iproov.com/
+
+URL: https://digital.nhs.uk/
+- We have detected that you are using Internet Explorer to visit this website. Internet Explorer is now being phased out by Microsoft. As a result, NHS Digital no longer supports any version of Internet Explorer for our web-based products, as it involves considerable extra effort and expense, which cannot be justified from public funds. Some features on this site will not work. You should use a modern browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a different browser, contact your IT support team.
+- 
+- We actively monitor and protect devices across the NHS and work directly with local teams in response to cyber threats
+- We provide services the NHS can rely on, with near-perfect average availability across over 100 live services
+- NHS Spine connects more than 20,000 health and care organisations, allowing information to be shared securely
+- The NHS App provides a simple and secure way for people to access a range of NHS services
+- 
+- Matthew Firth describes our best practice policies around APIs – and how the most important one is not about the technical aspects of the work.
+- On International Clinical Trials Day, James Gray, NHS DigiTrials Service Delivery Manager, talks about the new Feasibility Self-Service tool that drastically cuts the time it takes researchers to find out if there are enough potential participants for their clinical trial.
+- Dr Shanker Vijay, GP and Digital First Lead for London, explains why he is championing the national ‘Register with a GP surgery’ service and talks about improvements to the service.
+- Tero Väänänen, Head of Design in NHS England’s Transformation directorate, explains the new NHS digital design principle focused on sustainability.
+- We collect, process and publish data and information gathered from across the health and social care system in England.
+- We publish a range of data about coronavirus. Explore our interactive dashboards to find out more about infection rates in your area and much more.
+- Collecting data on health and care is an important part of our role in the health service. We collect and store some information from people's health and care records so that it can be used to run the health service, manage epidemics, plan for the future and research health conditions, diseases and treatments. We always make sure data we collect is handled securely and in line with the law. We don't hold your medical records.
+
+URL: https://www.theguardian.com/society/2021/sep/15/nhs-app-storing-facial-verification-data-via-contract-with-firm-linked-to-tory-donors
+- Exclusive: campaigners raise privacy concerns over government deal with iProov in England
+- The NHS app is collecting and storing facial verification data from citizens in England in a process which has fuelled concerns about transparency and accountability.
+- The data collection is taking place under a contract with a company linked to Tory donors called iProov, awarded by NHS Digital in 2019, which has yet to be published on the government website.
+- Privacy campaigners say the opacity of the relationship between London-based iProov and the government raises questions about how securely the information is held, with one saying they were “deeply concerned” about the secrecy surrounding the use of data.
+- An NHS spokesperson confirmed law enforcement bodies were able to request data, but that a special panel reviewed such requests, taking into account the health service’s duty of confidence.
+- The number of users reached 10m this year after the app was adapted to act as a Covid-19 passport. It is used to access medical records and book GP appointments, as well as obtain certificates which prove an individual’s vaccine status for overseas travel, or for entry to events such as football matches. The number of users has grown by six million since the Covid pass was introduced in mid-May. The app is separate from the official NHS Covid-19 app, which acts as a contact tracer.
+- The app asks some users for video facial verification by default, although it is possible to opt out of the process.
+- The process involves new users recording a video of their face. The video is sent to iProov which compares the facial data with anonymised photo IDs already held by the government. Its Flashmark software beams a one-off sequence of colours at the user’s face, through their phone, to ensure they are genuinely present during the verification process.
+- The app also asks users to upload their date of birth, postcode, phone number and a photo of either their passport or driving licence during the sign-up process. Only a photo clipped from the ID document is supplied to IProov.
+- Both iProov and NHS Digital stressed that app users’ biometric data is anonymised and guarded via the best possible security protection, audited by the NHS. IProov insists its customers implement a “privacy firewall” to ensure it has no visibility whatsoever of the identity of the people it verifies, apart from their faces, which is the service it provides.
+- However, NHS Digital said it had not published its contract with iProov “for security reasons”. It also cited security as a reason for not publishing a data protection impact assessment (DPIA) of the NHS app, the document that explains how individuals’ information will be used, stored and protected.
+- IProov said it could not disclose how long it holds facial data for. The NHS said the information is “not stored for longer than is necessary under the contract”.
+- One expert in surveillance law, who asked not to be named, said such information was likely to be desirable to UK and foreign intelligence services.
+- “If GCHQ acquired it and it was of use, the likely position is that they would share that with the [US] National Security Agency,” they said.
+- Jake Hurfurt, head of research and investigations at civil liberties group Big Brother Watch, said: “We’re deeply concerned by the secrecy surrounding facial verification and data flows in the NHS app, particularly given the involvement of a private company.
+- “It raises questions about how private and secure anyone’s information is when using facial verification and the NHS login. Anyone who sends personal information to a private company, at the encouragement of the NHS, has a right to know exactly what happens to their data.”
+- Dr Stephanie Hare, author of Technology Ethics, said: “Transparency, explainability and accountability are the holy trinity of technology ethics and they fall down on every one of them.”
+- London-based iProov has previously won contracts with HM Revenue & Customs and worked on the Home Office’s “settled status” Brexit scheme for EU citizens who wish to remain in the UK.
+- It is also linked to Conservative donors. The company has received financial backing from private equity group JRJ, which has a seat on the board after investing in 2015 and 2019, the year iProov won its first NHS contract.
+- JRJ counts two Tory party benefactors among its three partners. One, the former Lehman Brothers executive Jeremy Isaacs, made 26 donations totalling £661,500 to the party and its MPs between June 2006 and February 2021.
+- His fellow JRJ partner, Roger Nagioff, donated 15 times between May 2004 and February 2020, giving £448,500. JRJ did not return a request for comment but a source familiar with its investment said JRJ owned less than 10% of iProov and had no involvement in the NHS contract.
+- The iProov board includes data security experts and a veteran of Her Majesty’s Government Communications Centre (HMGCC), which has developed surveillance technology for the government.
+- Eddie Alleyn, a non-executive director, joined the diplomatic service in 1981 after leaving Oxford University, going on to work at the Ministry of Defence and Foreign Office, where he ran HMGCC.
+- IProov said: “Mr Alleyn’s role is to bring impartiality and business experience to the board. He is subject to the legal obligations that apply to directors of private companies, as prescribed by the Companies Act 2006. Mr Alleyn has no executive responsibilities and no influence over iProov’s data processing.”
+- IProov won its contract to provide facial verification software to the NHS amid a drive to digitise the health service.
+- While the contract hasn’t been published, documents on the government’s “digital marketplace” website show that it typically charges an annual service fee of up to £1.4m and a cost per user of £1.50.
+- The NHS said it had secured a discount.
+- IProov also sells its software to businesses including Eurostar and several banks, as well as to foreign agencies including the US Department of Homeland Security. It does not sell data. It said all of its activities were regulated by GDPR and that UK law protects against it being compelled to release or hand over any user data.
+- Its founder-boss Andrew Bud has spoken of his desire for facial recognition to be used in more settings in the UK, including on the door of venues such as nightclubs.
+- Cori Crider, director of Foxglove, a team of lawyers investigating the misuse of technology, said : “So long as this system to log into the NHS app is optional then it may be fine but officials definitely shouldn’t be ‘nudging’ patients to log in with their faces to access healthcare.
+- “We should all also reflect on whether we’re heading towards a world where people have to use their faces just to walk into the supermarket or the pharmacy or the nightclub.”
+- Dr Stephanie Hare said: “Once this stuff is brought in, it’s very difficult to get rid of. It’s the thin end of the wedge and Covid is an opportunity for companies to get a foothold.”
+- A spokesperson for NHS Digital said: “The NHS app is helping millions of people to quickly and easily access their NHS Covid Pass, and frees up time for GP surgeries by allowing people to book appointments and order repeat prescriptions online.
+- “We use facial verification software when people decide to use the app to access their confidential patient data, as part of the high-level NHS login identity verification process which is clearly explained to app users.
+- “This means people using the NHS app can trust that their data will be safe and secure.”
+
+URL: https://www.digitalhealth.net/2021/09/nhs-app-storing-facial-recognition-data-with-private-tech-company/
+- The NHS App is reportedly collecting and storing facial recognition data under a contract with a private tech company – sparking concern among privacy campaigners.
+- Biometric verification company iProov was awarded a contract by NHS Digital in 2019 to manage user verification on the app.
+- The company’s technology is used to ensure people are genuinely present when using NHS login to access the NHS App, done through a series of lights shined onto a user’s face. New users of the app are asked to prove who they are to gain access to its services.
+- But it has caused concern among privacy campaigners who have called for transparency on how data is used and stored, according to The Guardian.
+- NHS Digital told Digital Health News the company does not “receive, process or store” personally identifiable information on app users.
+- The contract between iProov and NHS Digital has not been published, which NHS Digital said was for “security reasons”.
+- Phil Booth, coordinator at privacy group medConfidential, told Digital Health News the decision not to publish the contract was “unnecessarily undermining trust”.
+- “The official assertion that a biometric of someone’s face is anything other than identifiable data, however, is as ludicrous as it is insulting to patients’ intelligence,” he said.
+- While privacy group Big Brother Watch said it was “deeply concerned” about the secrecy surrounding iProov’s use of data, but NHS Digital stressed all data was anonymous and access to data was subject to special panel reviews.
+- Jake Hurfurt, head of research and investigations at Big Brother Watch, said: “We’re deeply concerned by the secrecy surrounding facial verification and data flows in the NHS app, particularly given the involvement of a private company.
+- “It raises questions about how private and secure anyone’s information is when using facial verification and the NHS login. Anyone who sends personal information to a private company, at the encouragement of the NHS, has a right to know exactly what happens to their data.”
+- The NHS App reached more than 12 million downloads this year since Covid-19 passports were added to the service.
+- The NHS App allows users to access a range of NHS services on their smartphone or tablet. It was launched in 2018 and offers services including symptom checking and triage; appointment booking; repeat prescription ordering; access to patient records; national data opt-out; and organ donation preference.
+- The app already allowed users to check their vaccination record if permitted by their GP, but since May has also included Covid-19 vaccination status.
+- By default, the app asks some users for video facial verification. It involves new users recording a video of their face which is then sent to iProov to compare the facial data with anonymised photo IDs held by the government.
+- The app also asks users for their date of birth, postcode, phone number and photo of their passport or drivers license for verification during the sign-up process.
+- In cases where a user has submitted a photo to prove their identity the information is checked by the NHS login identity checking team or through the NHS login automated identity verification journey, NHS Digital said.
+- It is possible to opt out of providing video facial verification.
+- Cori Crider, director of tech justice firm Foxglove, told The Guardian: “So long as this system to log into the NHS app is optional then it may be fine but officials definitely shouldn’t be ‘nudging’ patients to log in with their faces to access healthcare.
+- “We should all also reflect on whether we’re heading towards a world where people have to use their faces just to walk into the supermarket or the pharmacy or the nightclub.”
+- A spokesperson from iProov told Digital Health News its technology is “highly secure” and uses encryption to protect patient data.
+- “This secure verification process helps the NHS to prevent a login being wrongfully set up using another person’s identity. iProov technology is highly secure, simple to use and deploys techniques such as a privacy firewall and strong encryption to protect user data.”
+- A spokesperson for NHS Digital added: “We use facial verification software when people decide to use the app to access their confidential patient data, as part of our NHS login identity verification process which is clearly explained to app users.
+- “This means people using the NHS App can trust that their data will be safe and secure.”
+- iProov has previously worked with HM Revenue & Customs and the Home Office, as well as providing its software to Eurostar, several banks and the US Department of Homeland Security, according to The Guardian.
+- The company is also linked to Tory donors through private equity group JRJ, which provided iProov with financial backing and had a seat on its board when it received its first NHS contract, according to The Guardian.
+- Two JRJ partners, Jeremy Isaacs and Roger Nagioff, have made a total of 41 donations to the Tory party and its MPs between 2004 and 2021.
+- 
+- NHS App to be used as Covid-19 passport from May 17  Patient Access launches Covid-19 passport feature  Online Covid-19 passports go live in Wales from today  King’s College London launches Covid-19 symptom reporting app  NHS urged to consider Microsoft alternatives following cyber-attacks
+- 
+- NHS cyber security ‘crisis’ fuelled by huge landscape, low digital maturity  Why aren’t we better at sharing transfer of care information?  Outdated ‘legacy tech’ risks driving frustrated staff out of the NHS  Study finds two-thirds of UK GP surgery websites have accessibility errors  Alcidion’s Miya Noting enhances clinician experience at South Tees
+- 
+- Back to Top
+
+URL: https://www.computing.co.uk/news/4037142/privacy-concerns-raised-nhs-deal-iproov-facial-collection
+- You are currently accessing Computing via your
+Enterprise account.
+- If you already have an account please use the link below to
+sign in.
+- If you have any problems with your access or would like to request an individual access account please
+contact our customer service team.
+- Phone: +44 (0) 1858 438800
+- Email: [email protected]
+- Search Computing
+- 
+- 
+- Search Computing
+- You are currently accessing Computing via your Enterprise account.
+- If you already have an account please use the link below to sign in.
+- If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+- Phone: +44 (0) 1858 438800
+- Email: [email protected]
+- Privacy concerns raised over NHS deal with iProov for facial data collection. Image Credit: NHS
+- Privacy campaigners in England have voiced concerns over a NHS contract with private firm iProov for collection of facial verification data from citizens in England.
+The Guardian reports that pr...
+- To continue reading this article...
+- Join now
+- Login
+- Tech giant Olympus reportedly hit by BlackMatter ransomware
+- Citrix considering sale after stock tumble
+- 
+- Sam Altman: OpenAI could quit EU over AI regulations
+- Russia-linked CosmicEnergy malware could disrupt energy grids
+- TikTok argues that Montana's ban infringes upon the constitutional right to free speech protected by the First Amendment
+- By safely bridging silos, PETs could open up whole new areas of business and research, so why aren't we hearing more about them?
+- Proposal could bring together bodycams and facial recognition
+- © The Channel Company EMEA New London House, 172 Drury Lane, London WC2B 5QR.Registered in England and Wales with company registration number 14078896
+
+URL: https://www.telecompaper.com/news/privacy-groups-concerned-by-nhs-app-collecting-facial-recognition-data--1397160
+
+- Google DeepMind, Royal Free data sharing
+- Google/HCA Healthcare patient data sharing
+- Page infoType: IncidentPublished: September 2021

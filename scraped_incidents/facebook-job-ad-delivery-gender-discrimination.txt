@@ -1,0 +1,180 @@
+- Occurred: March 2021
+- Can you improve this page?Share your insights with us
+- Facebook is showing different job ads to women and men, according to an audit by independent researchers at the University of Southern California (USC).
+- The audit indicates that Facebook’s ad-delivery system is withholding showing job ads to women, even though the jobs require the same qualifications, something that is considered sex-based discrimination under US equal employment opportunity law.
+- As Technology Review points out, the findings come despite years of advocacy and lawsuits, and after promises from Facebook to overhaul how it delivers ads.
+- Operator: Meta/Facebook Developer: Meta/Facebook Country: USA Sector: Business/professional services Purpose: Target audiencesTechnology: Advertising management system Issue: Bias/discrimination - genderTransparency: Governance; Black box
+URL: https://ant.isi.edu/datasets/addelivery/
+- This webpage documents a paper, dataset and presentation video related to our 2021 study of discrimination in job ad delivery on Facebook and LinkedIn.
+- Our methodology is described in the following paper:
+- Title: Auditing for Discrimination in Algorithms Delivering Job Ads
+Authors: Basileal Imana, Aleksandra Korolova, and John Heidemann
+Venue: In Proceedings of The Web Conference 2021 (WWW ‘21), April 19–23, 2021, Ljubljana, Slovenia.
+Runner-up Best Student Paper Award
+Links: PDF, Video, Bibtex, Twitter.
+- Below is a recording of our conference presentation for The Web Conference 2021.
+- We list specific advertisements below,
+by figure in the paper.
+- See Facebook’s documentation of the different campaign objectives it makes available to advertisers, such as awareness, reach and engagement here. (image)
+
+URL: https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/
+- Its ad-delivery system is excluding women from opportunities without regard to their qualifications. That would be illegal under US employment law.
+- Facebook is withholding certain job ads from women because of their gender, according to the latest audit of its ad service.
+- The audit, conducted by independent researchers at the University of Southern California (USC), reveals that Facebook’s ad-delivery system shows different job ads to women and men even though the jobs require the same qualifications. This is considered sex-based discrimination under US equal employment opportunity law, which bans ad targeting based on protected characteristics. The findings come despite years of advocacy and lawsuits, and after promises from Facebook to overhaul how it delivers ads.
+- The researchers registered as an advertiser on Facebook and bought pairs of ads for jobs with identical qualifications but different real-world demographics. They advertised for two delivery driver jobs, for example: one for Domino’s (pizza delivery) and one for Instacart (grocery delivery). There are currently more men than women who drive for Domino’s, and vice versa for Instacart.
+- Though no audience was specified on the basis of demographic information, a feature Facebook disabled for housing, credit, and job ads in March of 2019 after settling several lawsuits, algorithms still showed the ads to statistically distinct demographic groups. The Domino’s ad was shown to more men than women, and the Instacart ad was shown to more women than men.
+- The researchers found the same pattern with ads for two other pairs of jobs: software engineers for Nvidia (skewed male) and Netflix (skewed female), and sales associates for cars (skewed male) and jewelry (skewed female).
+- The findings suggest that Facebook’s algorithms are somehow picking up on the current demographic distribution of these jobs, which often differ for historical reasons. (The researchers weren’t able to discern why that is, because Facebook won’t say how its ad-delivery system works.) “Facebook reproduces those skews when it delivers ads even though there’s no qualification justification,” says Aleksandra Korolova, an assistant professor at USC, who coauthored the study with her colleague John Heidemann and their PhD advisee Basileal Imana.
+- The company’s AI algorithms gave it an insatiable habit for lies and hate speech. Now the man who built them can't fix the problem.
+- The study supplies the latest evidence that Facebook has not resolved its ad discrimination problems since ProPublica first brought the issue to light in October 2016. At the time, ProPublica revealed that the platform allowed advertisers of job and housing opportunities to exclude certain audiences characterized by traits like gender and race. Such groups receive special protection under US law, making this practice illegal. It took two and half years and several legal skirmishes for Facebook to finally remove that feature.
+- But a few months later, the US Department of Housing and Urban Development (HUD) levied a new lawsuit, alleging that Facebook’s ad-delivery algorithms were still excluding audiences for housing ads without the advertiser specifying the exclusion. A team of independent researchers including Korolova, led by Northeastern University’s Muhammad Ali and Piotr Sapieżyński , corroborated those allegations a week later. They found, for example, that houses for sale were being shown more often to white users and houses for rent were being shown more often to minority users.
+- Korolova wanted to revisit the issue with her latest audit because the burden of proof for job discrimination is higher than for housing discrimination. While any skew in the display of ads based on protected characteristics is illegal in the case of housing, US employment law deems it justifiable if the skew is due to legitimate qualification differences. The new methodology controls for this factor.
+- “The design of the experiment is very clean,” says Sapieżyński, who was not involved in the latest study. While some could argue that car and jewelry sales associates do indeed have different qualifications, he says, the differences between delivering pizza and delivering groceries are negligible. “These gender differences cannot be explained away by gender differences in qualifications or a lack of qualifications,” he adds. “Facebook can no longer say [this is] defensible by law.”
+- The release of this audit comes amid heightened scrutiny of Facebook’s AI bias work. In March, MIT Technology Review published the results of a nine-month investigation into the company’s Responsible AI team, which found that the team, first formed in 2018, had neglected to work on issues like algorithmic amplification of misinformation and polarization because of its blinkered focus on AI bias. The company published a blog post shortly after, emphasizing the importance of that work and saying in particular that Facebook seeks “to better understand potential errors that may affect our ads system, as part of our ongoing and broader work to study algorithmic fairness in ads.”
+- "We’ve taken meaningful steps to address issues of discrimination in ads and have teams working on ads fairness today," said Facebook spokesperson Joe Osborn in a statement. "Our system takes into account many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report... We're continuing to work closely with the civil rights community, regulators, and academics on these important matters.”
+- Despite these claims, however, Korolova says she found no noticeable change between the 2019 audit and this one in the way Facebook’s ad-delivery algorithms work. “From that perspective, it’s actually really disappointing, because we brought this to their attention two years ago,” she says. She's also offered to work with Facebook on addressing these issues, she says. "We haven't heard back. At least to me, they haven't reached out."
+- In previous interviews, the company said it was unable to discuss the details of how it was working to mitigate algorithmic discrimination in its ad service because of ongoing litigation. The ads team said its progress has been limited by technical challenges.
+- Sapieżyński, who has now conducted three audits of the platform, says this has nothing to do with the issue. “Facebook still has yet to acknowledge that there is a problem,” he says. While the team works out the technical kinks, he adds, there’s also an easy interim solution: it could turn off algorithmic ad targeting specifically for housing, employment, and lending ads without affecting the rest of its service. It’s really just an issue of political will, he says.
+- Christo Wilson, another researcher at Northeastern who studies algorithmic bias but didn’t participate in Korolova’s or Sapieżyński’s research, agrees: “How many times do researchers and journalists need to find these problems before we just accept that the whole ad-targeting system is bankrupt?”
+- The invasion of Ukraine supercharged the decline of the country’s already struggling tech sector—and undercut its biggest success story, Yandex.
+- AI is already being used in the legal field. Is it really ready to be a lawyer?
+- Following recent announcements by Google and Twitter, more data deletion policies are coming.
+- Google will delete accounts after two years of inactivity, and experts expect more data deletion policies to come
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://apnews.com/article/discrimination-f62160cbbad4d72ce5250e6ef2222f5e
+- 
+- Facebook is showing different job ads to women and men in a way that might run afoul of anti-discrimination laws, according to a new study.
+- University of Southern California researchers who examined the ad-delivery algorithms of Facebook and LinkedIn found that Facebook’s were skewed by gender beyond what can be legally justified by differences in job qualifications.
+- Men were more likely to see Domino’s pizza delivery driver job ads on Facebook, while women were more likely to see Instacart shopper ads.
+- The trend also held in higher-paying engineering jobs at tech firms like Netflix and chipmaker Nvidia. A higher fraction of women saw the Netflix ads than the Nvidia ads, which parallels the gender breakdown in each company’s workforce.
+- No evidence was found of similar bias in the job ads delivered by LinkedIn.
+- Study author Aleksandra Korolova, an assistant professor of computer science at USC, said it might be that LinkedIn is doing a better job at deliberately tamping down bias, or it might be that Facebook is simply better at picking up real-world cues from its users about gender imbalances and perpetuating them.
+- “It’s not that the user is saying, ‘Oh, I’m interested in this.’ Facebook has decided on behalf of the user whether they are likely to engage,” she said. “And just because historically a certain group wasn’t interested in engaging in something, doesn’t mean they shouldn’t have an opportunity to pursue it, especially in the job category.”
+- Facebook said in a statement Friday it has been taking meaningful steps to address issues of discrimination in ads.
+- “Our system takes into account many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report,” it said.
+- Facebook promised to overhaul its ad targeting system in 2019 as part of a legal settlement.
+- The social network said then it would no longer allow housing, employment or credit ads that target people by age, gender or zip code. It also limited other targeting options so these ads don’t exclude people on the basis of race, ethnicity and other legally protected categories in the U.S., including national origin and sexual orientation.
+- Endlessly customizable ad targeting is Facebook’s bread and butter, so any limits placed on its process could hurt the company’s revenue. The ads users see can be tailored down to the most granular details — not just where people live and what websites they visited recently, but whether they’ve gotten engaged in the past six months or share characteristics with people who have recently bought new sneakers, even if they have never expressed interest in doing so themselves.
+- But even if advertisers can’t do the targeting themselves, the study shows what critics have stressed for years -- that Facebook’s own algorithms can discriminate, even if there is no intent from the job advertisers themselves.
+- “We haven’t seen any public evidence that they are working on the issues related to their algorithms creating discrimination,” Korolova said.
+- Since it isn’t possible to show every user every advertisement that is targeted at them, Facebook’s software picks what it deems relevant. If more women show interest in certain jobs, the software learns it should show women more of these sorts of ads.
+- LinkedIn said the study’s findings align with its internal review of job ads targeting.
+- “However, we recognize that systemic change takes time, and we are at the beginning of a very long journey,” the company said in a statement.
+- U.S. laws allow for ads to be targeted based on qualifications but not on protected categories such as race, gender and age. But anti-discrimination laws are largely complaint-driven, and no one can complain about being deprived of a job opportunity if they didn’t know it happened to them, said Sandra Wachter, a professor at Oxford University focused on technology law.
+- “The tools we have developed to prevent discrimination had a human perpetrator in mind,” said Wachter, who was not involved in the USC study. “An algorithm is discriminating very differently, grouping people differently and doing it in a very subtle way. Algorithms discriminate behind your back, basically.”
+- While Domino’s and Instacart have similar job requirements for their drivers, Domino’s delivery workforce is predominantly male, while Instacart’s is more than half female. The study, which looked at driver ads run in North Carolina compared to demographic data from voter records, found that Facebook’s algorithms appeared to be learning from those gender disparities and perpetuating them.
+- The same trend also occurred with sales jobs at retailer Reeds Jewelers, which more women saw, and the Leith Automotive dealership, which more men saw.
+- The researchers call for more rigorous auditing of such algorithms and to look at other factors such as racial bias. Korolova said external audits such as the USC study can only do so much without getting access to Facebook’s proprietary algorithms, but regulators could require some form of independent review to check for discrimination.
+- “We’ve seen that platforms are not so good at self-policing their algorithms for undesired societal consequences, especially when their business is at stake,” she said.
+
+URL: https://www.wsj.com/articles/facebook-shows-men-and-women-different-job-ads-study-finds-11617969600
+- WSJ Membership
+- Customer Service
+- Tools & Features
+- Ads
+- More
+- Dow Jones Products
+
+URL: https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/
+- © THE INTERCEPT
+- ALL RIGHTS RESERVED
+- A University of Southern California study provides still more evidence that the company's ad targeting illegally discriminates.
+- New research from a team at the University of Southern California provides further evidence that Facebook’s advertising system is discriminatory, showing that the algorithm used to target ads reproduced real-world gender disparities when showing job listings, even among equally qualified candidates.
+- In fields from software engineering to sales to food delivery, the team ran sets of ads promoting real job openings at roughly equivalent companies requiring roughly the same skills, one for a company whose existing workforce was disproportionately male and one that was disproportionately female. Facebook showed more men the ads for the disproportionately male companies and more women the ads for the disproportionately female companies, even though the job qualifications were the same. The paper concludes that Facebook could very well be violating federal anti-discrimination laws.
+- “We confirm that Facebook’s ad delivery can result in skew of job ad delivery by gender beyond what can be legally justified by possible differences in qualifications,” the team wrote.
+- The work builds on prior research that left Facebook reeling. A groundbreaking 2019 study from one member of the team provided strong evidence that Facebook’s ad algorithm isn’t just capable of bias, but is biased to its core. Responding to that study, and in the wake of widespread criticism over tools that could be used to run blatantly discriminatory ad campaigns, Facebook told The Intercept at the time, “We stand against discrimination in any form. We’ve made important changes to our ad targeting tools and know that this is only a first step. We’ve been looking at our ad delivery system and have engaged industry leaders, academics, and civil rights experts on this very topic — and we’re exploring more changes.”
+- Based on this new research, it doesn’t appear that the company got very far beyond whatever that “first step” was. The paper — authored by USC computer science assistant professor Aleksandra Korolova, professor John Heidemann, and doctoral student Basileal Imana — revisits the question tackled in 2019: If advertisers don’t use any of Facebook’s demographic targeting options, which demographics will the system target on its own?
+- The question is a crucial one, given that Facebook’s control over who sees which ads might determine who is provided with certain vital economic opportunities, from insurance to a new job to a credit card. This control is executed entirely through algorithms whose inner workings are kept secret. Since Facebook won’t provide any meaningful answers about how the algorithms work, researchers such as Korolova and her colleagues have had to figure it out.
+- This time around, the team wanted to preempt claims that biased ad delivery could be explained by the fact that Facebook showed the ads to people who were simply more qualified for the advertised job, a possible legal defense against allegations of unlawful algorithmic bias under statutes like Title VII, which bars discrimination on the basis of protected characteristics like race and gender. “To the extent that the scope of Title VII may cover ad platforms, the distinction we make can eliminate the possibility of platforms using qualification as a legal argument against being held liable for discriminatory outcomes,” the team wrote.
+- As in 2019, Korolova and her team created a series of advertisements for real-world job openings and paid Facebook to display these job listings to as many people as possible given their budget, as opposed to specifying a certain demographic cohort whose eyeballs they wanted to zero in on. This essentially left the decision of “who sees what” entirely up to Facebook (and its opaque algorithms), thus helping to highlight the bias engineered into Facebook’s own code.
+- Even when controlling for job qualifications, the researchers found that Facebook automatically funneled gender-neutral ads for gender-neutral jobs to people on the basis of their gender.
+- For example, Korolova’s team purchased Facebook ad campaigns to promote two delivery driver job listings, one from Instacart and another from Domino’s. Both positions are roughly equivalent in terms of required qualifications, and for both companies, “there is data that shows the de facto gender distribution is skewed”: Most Domino’s drivers are men, and most Instacart drivers are women. By running these ads with a mandate only to maximize eyeballs, no matter whose, the team sought to “study whether ad delivery optimization algorithms reproduce these de facto skews, even though they are not justifiable on the basis of differences in qualification,” with the expectation of finding “a platform whose ad delivery optimization goes beyond what is justifiable by qualification and reproduces de facto skews to show the Domino’s ad to relatively more males than the Instacart ad.” The results showed exactly that.
+- Left to its own devices, the team found that Facebook’s ad delivery algorithm took the Domino’s and Instacart listings, along with later experiments based on ads for software engineering and sales associate gigs at other companies, and showed them to online audiences that essentially reproduced the existing offline gender disparities: “The skew we observe on Facebook is in the same direction as the de facto skew, with the Domino’s ad delivered to a higher fraction of men than the Instacart ad.” And since the experiments were designed to take job qualification out of the picture, the team says, they strengthen “the previously raised arguments that Facebook’s ad delivery algorithms may be in violation of anti-discrimination laws.” As an added twist, the team ran the same set of ads on LinkedIn, but saw no evidence of systemic gender bias.
+- Facebook spokesperson Tom Channick told The Intercept that “our system takes into account many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report,” adding that “we’ve taken meaningful steps to address issues of discrimination in ads and have teams working on ads fairness today. We’re continuing to work closely with the civil rights community, regulators, and academics on these important matters.”
+- Though the USC team was able to cleverly expose the biased results of Facebook ads, their methodology hits a brick wall when it comes to answering why exactly this happens. This is by design: Facebook’s ad delivery algorithm, like all the rest of the automated decision-making systems it employs across its billions of users, is a black-box algorithm, completely opaque to anyone other than those inside the company, workers who are bound by nondisclosure agreements and sworn to secrecy. One possible explanation for the team’s findings is that the ad delivery algorithm trains itself based on who has clicked on similar ads in the past — maybe men tend to click on Domino’s ads more than women. Korolova says “skew due to prior user behavior observed by Facebook is possible” but that “if despite the clear indication of the advertiser, we still observe skewed delivery due to historical click-through rates (as we do!), this outcome suggests that Facebook may be overruling advertiser desires for broad and diverse outreach in a way that is aligned with their own long-term business interests.”
+- Book recommendations and more from Intercept staffers.
+- Voices
+- America’s schmanciest people love Kissinger. Is it in spite of his monstrousness or because of it?
+- The End of Roe
+- Reporters are parroting — and spreading — sentimental falsehoods.
+- © The Intercept. All rights reserved
+
+URL: https://www.dw.com/en/study-unveils-facebook-gender-bias-in-job-ads/a-57152645
+- A new study examined Facebook's ad-delivery algorithms and found that some ads were directed to a particular gender "beyond what can be legally justified" by differences in job qualifications.
+- Facebook users may be seeing different job ads depending on their gender as the company’s ad-delivery algorithms can direct ads to a particular gender "beyond what can be legally justified" by differences in job qualifications, a new study has found.
+- Researchers from the University of Southern California studied Facebook and LinkedIn’s algorithms and found that in one of three cases that generated similar results, Facebook’s ad-delivery algorithms pushed an Instacart delivery job ad to a female-heavy audience. A Domino's Pizza delivery job ad was targeted to a male-heavy viewership.
+- According to the study, Instacart has mostly female drivers, while Domino's has mostly men.
+- "Facebook's ad delivery can result in skew of job ad delivery by gender beyond what can be legally justified by possible differences in qualifications," the study said, strengthening the argument that the social media giant’s algorithms may be in violation of US anti-discrimination laws.
+- However, Microsoft Corp's LinkedIn showed the Domino’s ads to nearly the same proportion of women as it did the Instacart ad.
+- "It's not that the user is saying, 'Oh, I'm interested in this.' Facebook has decided on behalf of the user whether they are likely to engage," said study author Aleksandra Korolova, an assistant professor of computer science at USC.
+- "Just because historically a certain group wasn't interested in engaging in something, doesn't mean they shouldn't have an opportunity to pursue it, especially in the job category," the study added.
+- To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+- Facebook addressed the report in a statement released Friday.
+- "Our system takes into account many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report," it said.
+- LinkedIn said the study's findings were in line with its internal review of job ad targeting, adding that the company recognizes that "systemic change takes time, and we are at the beginning of a very long journey."
+- US laws allow ads to be targeted based on qualifications, except in cases where protected categories like race, gender and age are involved. Despite tighter controls, researchers have expressed concern about bias in artificial intelligence software that chooses which users see an ad.
+- see/sms (AP, Reuters)
+
+URL: https://www.reuters.com/article/facebook-advertising/study-flags-gender-bias-in-facebooks-ads-tools-idUKL1N2M13D8
+- [1/4] A 3D plastic representation of the Facebook logo is seen in this illustration in Zenica, Bosnia and Herzegovina, May 13, 2015. REUTERS/Dado Ruvic
+- April 9 (Reuters) - Facebook users may not be learning about jobs for which they are qualified because the company's tools can disproportionately direct ads to a particular gender "beyond what can be legally justified," university researchers said in a study published on Friday.
+- According to the study, in one of three examples that generated similar results, Facebook (FB.O) targeted an Instacart delivery job ad to a female-heavy audience and a Domino's Pizza delivery job ad to a male-heavy viewership.
+- Instacart has mostly female drivers, and Domino's mostly men, the study by University of Southern California researchers said.
+- In contrast, Microsoft Corp's (MSFT.O) LinkedIn showed the ads for delivery jobs at Domino's to about the same porportion of women as it did the Instacart ad.
+- "Facebook's ad delivery can result in skew of job ad delivery by gender beyond what can be legally justified by possible differences in qualifications," the study said. The finding strengthens the argument that Facebook's algorithms may be in violation of U.S. anti-discrimination laws, it added.
+- Facebook spokesman Joe Osborne said the company accounts for "many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report."
+- Amid lawsuits and regulatory probes on discrimination through ad targeting, Facebook has tightened controls to prevent clients from excluding some groups from seeing job, housing and other ads.
+- But researchers remain concerned about bias in artificial intelligence (AI) software choosing which users see an ad. Facebook and LinkedIn both said they study their AI for what the tech industry calls "fairness."
+- LinkedIn engineering vice president Ashvin Kannan said the study's results "align with our own internal review of our job ads ecosystem."
+- Our Standards: The Thomson Reuters Trust Principles.
+- Thomson Reuters
+- San Francisco Bay Area-based tech reporter covering Google and the rest of Alphabet Inc. Joined Reuters in 2017 after four years at the Los Angeles Times focused on the local tech industry.
+- OpenAI has no plans to leave Europe, CEO Sam Altman said on Friday, reversing a threat made earlier this week to leave the region if it becomes too hard to comply with upcoming laws on artificial intelligence.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://www.engadget.com/facebook-job-ads-men-women-study-144333009.html
+- Researchers from the University of Southern California found that Facebook showed different job ads to men and women at disproportionate levels. In tests that the researchers carried out late last year, they determined that men were more likely to see recruitment ads for delivery driver roles at Domino’s Pizza or software engineering jobs at NVIDIA, while women were disproportionately shown listings for equivalent positions at Instacart and Netflix.
+- The study suggests there was a higher chance of Facebook displaying an employment ad to users if their gender identity aligned with certain industries or jobs where people of that gender were more prevalent.
+- The researchers wrote that Facebook is “a platform whose algorithm learns and perpetuates the existing difference in employee demographics.” That appeared to be the case even when an employer sought to reach a balanced audience in terms of demographics with their job ads, the paper suggests. On LinkedIn, the researchers found no signs of recruitment ads being shown disproportionately based on gender identity.
+- The paper raises questions about Facebook’s attempts to reduce bias in its systems. “We’ve taken meaningful steps to address issues of discrimination in ads and have teams working on ads’ fairness today," a Facebook spokeswoman told The Wall Street Journal.
+- Facebook has gotten into trouble in the past over discriminatory ads. In 2019, the Department of Housing and Urban Development sued Facebook over alleged Fair Housing Act violations. HUD said Facebook enabled housing discrimination via ad targeting. The company settled the lawsuit.
+- Meanwhile, Facebook this week announced an AI dataset that was created by asking people to share their age and gender. The goal was to make a fairer dataset that could help to reduce AI bias.
+
+URL: https://seekingalpha.com/news/3680830-facebook-job-ads-skewing-by-gender-in-way-that-may-be-illegal-study-says
+
+URL: https://www.theverge.com/2021/4/9/22375366/facebook-ad-gender-bias-delivery-algorithm-discrimination
+- By  Kim Lyons
+- An audit by researchers at the University of Southern California found that Facebook’s ad delivery system discriminates against women, showing them different ads than it shows to men and excluding women from seeing some ads.
+- “Facebook’s ad delivery can result in skew of job ad delivery by gender beyond what can be legally justified by possible differences in qualifications,” the researchers wrote in their report, “thus strengthening the previously raised arguments that Facebook’s ad delivery algorithms may be in violation of anti-discrimination laws.”
+- The team of researchers bought ads on Facebook for delivery driver job listings that had similar qualification requirements but for different companies. The ads did not specify a specific demographic. One was an ad for Domino’s pizza delivery drivers, the other for Instacart drivers. According to the researchers, Instacart has more female drivers but Domino’s has more male drivers. Sure enough, the study found that Facebook targeted the Instacart delivery job to more women and the Domino’s delivery job to more men.
+- The researchers conducted a similar experiment on LinkedIn, where they found the platform’s algorithm showed the Domino’s listing to as many women as it showed the Instacart ad.
+- This isn’t the first time research has found Facebook’s ad targeting system to be discriminating against some users
+- Two other pairs of similar job listings the researchers tested on Facebook revealed similar findings: a listing for a software engineer at Nvidia and a job for a car salesperson were shown to more men, and a Netflix software engineer job and jewelry sales associate listing were shown to more women. Whether that means the algorithm had figured out each job’s current demographic when it targeted the ads is not clear since Facebook is tight-lipped about how its ad delivery works.
+- “Our system takes into account many signals to try and serve people ads they will be most interested in, but we understand the concerns raised in the report,” Facebook spokesperson Tom Channick said in an email to The Verge. “We’ve taken meaningful steps to address issues of discrimination in ads and have teams working on ads fairness today. We’re continuing to work closely with the civil rights community, regulators, and academics on these important matters.”
+- This isn’t the first time research has found Facebook’s ad targeting system to be discriminating against some users, however. A 2016 investigation by ProPublica found that Facebook’s “ethnic affinities” tool could be used to exclude Black or Hispanic users from seeing specific ads. If such ads were for housing or job opportunities, the targeting could have been considered in violation of federal law. Facebook said in response it would bolster its anti-discrimination efforts, but a second ProPublica report in 2017 found the same problems existed.
+- And in 2019, the US Department of Housing and Urban Development filed charges against Facebook for housing discrimination, after finding there was reasonable cause to believe Facebook had served ads in violation of the Fair Housing Act.
+- HUD said in a complaint that Facebook’s targeting tools were reminiscent of redlining practices, as it allowed ads to exclude men or women from seeing particular ads, as well as a map tool “to exclude people who live in a specified area from seeing an ad by drawing a red line around that area,” according to the complaint. Facebook settled the lawsuit and said in 2019 it had dropped ad targeting options for housing and job ads.
+- Updated April 9th 11:53AM ET: Adds comment from Facebook spokesperson
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+

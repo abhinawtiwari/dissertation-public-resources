@@ -1,0 +1,729 @@
+- Released: 2019
+- Can you improve this page?Share your insights with us
+- IBM's Diversity in Faces (DiF) is a dataset of annotations of one million publicly available facial images released in January 2019 that was intended to make artificial intelligence more fair and equitable across genders and skin colours and accelerate efforts towards creating more fair and accurate face recognition systems.'
+- IBM's dataset was based on Yahoo!'s YFCC100M dataset, which provides approximately 100 million photos from photo sharing website Flickr available under various Creative Commons licenses. IBM said DiF was meant to be an academic/research  resource, was not publicly available for download or sale, and could not be used for commercial purposes.
+- A March 2019 NBC News investigation discovered that IBM had been using its Diversity in Faces dataset to train its own AI products, including Watson Visual Recognition, without the consent of the people in the photos. Not only was IBM ignoring its own terms of use for the dataset, it also failed to provide attribution links or public credit for any images.
+- In January 2020, IBM was sued in a class action seeking damages of USD 5,000 for each intentional violation of the Illinois Biometric Information Privacy Act, or $1,000 for each negligent violation, for all Illinois citizens whose biometric data was used in the DiF dataset.
+- In June 2021, Amazon and Microsoft teamed up to defend themselves against lawsuits accusing them of using DiF to train their own facial recognition products, and failing to gain the permission of people whose photographs were used in the dataset.
+- Per the BBC, while IBM said people whose photos had been included in the dataset could technically opt-out of the dataset through the company's generic research privacy policy, nobody was informed that their data had been used.
+- In addition, image owners found it difficult to have their images removed from Diversity in Faces, and impossible to delete them from copies that had already been provided to researchers.
+- In June 2020, IBM announced it would no longer develop or sell facial recognition technologies to law enforcement authorities.
+- Operator: Alphabet/Google; Amazon; IBM; MicrosoftDeveloper: IBM Country: USA Sector: Technology; Research/academia Purpose: Train & develop AI models Technology: Dataset; Facial recognition; Computer vision Issue: Privacy; Copyright; Ethics Transparency: Governance; Privacy
+- Blog post
+- Research paper
+- Vance v International Business Machines Corporation (pdf)
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+- Raji I.D., Gebru T., Mitchell M., Buolamwini J., Lee J., Denton E. (2020). Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing
+- Crawford K., Paglen T. (2021). Excavating AI: the politics of images in machine learning training sets
+URL: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921
+- 
+- Profile
+- Sections
+- tv
+- Featured
+- More From NBC
+- Follow NBC News
+- Facial recognition can log you into your iPhone, track criminals through crowds and identify loyal customers in stores.
+- The technology — which is imperfect but improving rapidly — is based on algorithms that learn how to recognize human faces and the hundreds of ways in which each one is unique.
+- To do this well, the algorithms must be fed hundreds of thousands of images of a diverse array of faces. Increasingly, those photos are coming from the internet, where they’re swept up by the millions without the knowledge of the people who posted them, categorized by age, gender, skin tone and dozens of other metrics, and shared with researchers at universities and companies.
+- As the algorithms get more advanced — meaning they are better able to identify women and people of color, a task they have historically struggled with — legal experts and civil rights advocates are sounding the alarm on researchers’ use of photos of ordinary people. These people’s faces are being used without their consent, in order to power technology that could eventually be used to surveil them.
+- That’s a particular concern for minorities who could be profiled and targeted, the experts and advocates say.
+- “This is the dirty little secret of AI training sets. Researchers often just grab whatever images are available in the wild,” said NYU School of Law professor Jason Schultz.
+- The latest company to enter this territory was IBM, which in January released a collection of nearly a million photos that were taken from the photo hosting site Flickr and coded to describe the subjects’ appearance. IBM promoted the collection to researchers as a progressive step toward reducing bias in facial recognition.
+- But some of the photographers whose images were included in IBM’s dataset were surprised and disconcerted when NBC News told them that their photographs had been annotated with details including facial geometry and skin tone and may be used to develop facial recognition algorithms. (NBC News obtained IBM’s dataset from a source after the company declined to share it, saying it could be used only by academic or corporate research groups.)
+- “None of the people I photographed had any idea their images were being used in this way,” said Greg Peverill-Conti, a Boston-based public relations executive who has more than 700 photos in IBM’s collection, known as a “training dataset.”
+- “It seems a little sketchy that IBM can use these pictures without saying anything to anybody,” he said.
+- John Smith, who oversees AI research at IBM, said that the company was committed to “protecting the privacy of individuals” and “will work with anyone who requests a URL to be removed from the dataset.”
+- Despite IBM’s assurances that Flickr users can opt out of the database, NBC News discovered that it’s almost impossible to get photos removed. IBM requires photographers to email links to photos they want removed, but the company has not publicly shared the list of Flickr users and photos included in the dataset, so there is no easy way of finding out whose photos are included. IBM did not respond to questions about this process.
+- To see if your Flickr photos are part of the dataset, enter your username in a tool NBC News created based on the IBM dataset:
+- IBM says that its dataset is designed to help academic researchers make facial recognition technology fairer. The company is not alone in using publicly available photos on the internet in this way. Dozens of other research organizations have collected photos for training facial recognition systems, and many of the larger, more recent collections have been scraped from the web.
+- Some experts and activists argue that this is not just an infringement on the privacy of the millions of people whose images have been swept up — it also raises broader concerns about the improvement of facial recognition technology, and the fear that it will be used by law enforcement agencies to disproportionately target minorities.
+- “People gave their consent to sharing their photos in a different internet ecosystem,” said Meredith Whittaker, co-director of the AI Now Institute, which studies the social implications of artificial intelligence. “Now they are being unwillingly or unknowingly cast in the training of systems that could potentially be used in oppressive ways against their communities.”
+- In the early days of building facial recognition tools, researchers paid people to come to their labs, sign consent forms and have their photo taken in different poses and lighting conditions. Because this was expensive and time consuming, early datasets were limited to a few hundred subjects.
+- With the rise of the web during the 2000s, researchers suddenly had access to millions of photos of people.
+- “They would go into a search engine, type in the name of a famous person and download all of the images,” said P. Jonathon Phillips, who collects datasets for measuring the performance of face recognition algorithms for the National Institute of Standards and Technology. “At the start these tended to be famous people, celebrities, actors and sports people.”
+- As social media and user-generated content took over, photos of regular people were increasingly available. Researchers treated this as a free-for-all, scraping faces from YouTube videos, Facebook, Google Images, Wikipedia and mugshot databases.
+- Academics often appeal to the noncommercial nature of their work to bypass questions of copyright. Flickr became an appealing resource for facial recognition researchers because many users published their images under “Creative Commons” licenses, which means that others can reuse their pictures without paying license fees. Some of these licenses allow commercial use.
+- To build its Diversity in Faces dataset, IBM says it drew upon a collection of 100 million images published with Creative Commons licenses that Flickr’s owner, Yahoo, released as a batch for researchers to download in 2014. IBM narrowed that dataset down to about 1 million photos of faces that have each been annotated, using automated coding and human estimates, with almost 200 values for details such as measurements of facial features, pose, skin tone and estimated age and gender, according to the dataset obtained by NBC News.
+- It’s a single case study in a sea of datasets taken from the web. According to Google Scholar, hundreds of academic papers have been written on the back of these huge collections of photos — which have names like MegaFace, CelebFaces and Faces in the Wild — contributing to major leaps in the accuracy of facial recognition and analysis tools. It was difficult to find academics who would speak on the record about the origins of their training datasets; many have advanced their research using collections of images scraped from the web without explicit licensing or informed consent.
+- The researchers who built those datasets did not respond to requests for comment.
+- IBM released its collection of annotated images to other researchers so that it can be used to develop “fairer” facial recognition systems. That means systems can more accurately identify people of all races, ages and genders.
+- “For the facial recognition systems to perform as desired, and the outcomes to become increasingly accurate, training data must be diverse and offer a breadth of coverage,” said IBM’s John Smith, in a blog post announcing the release of the data.
+- The dataset does not link the photos of people’s faces to their names, which means any system trained to use the photos would not be able to identify named individuals. But civil liberty advocates and tech ethics researchers have still questioned the motives of IBM, which has a history of selling surveillance tools that have been criticized for infringing on civil liberties.
+- For example, in the wake of the 9/11 attacks, the company sold technology to the New York City police department that allowed it to search CCTV feeds for people with particular skin tones or hair color. IBM has also released an “intelligent video analytics” product that uses body camera surveillance to detect people by “ethnicity” tags, such as Asian, black or white.
+- IBM said in an email that the systems are “not inherently discriminatory,” but added: “We believe that both the developers of these systems and the organizations deploying them have a responsibility to work actively to mitigate bias. It’s the only way to ensure that AI systems will earn the trust of their users and the public. IBM fully accepts this responsibility and would not participate in work involving racial profiling.”
+- Today, the company sells a system called IBM Watson Visual Recognition, which IBM says can estimate the age and gender of people depicted in images and, with the right training data, can be used by clients to identify specific people from photos or videos.
+- NBC News asked IBM what training data IBM Watson used for its commercial facial recognition abilities, pointing to a company blog post that stated that Watson is “transparent about who trains our AI systems, what data was used to train those systems.” The company responded that it uses data “acquired from various sources” to train its AI models but does not disclose this data publicly to “protect our insights and intellectual property.”
+- IBM said both in public statements and directly to NBC News that the Diversity in Faces dataset is purely for academic research and won’t be used to improve the company’s commercial facial recognition tools. This seems to conflict with the company’s assertion in January in promotional materials that the release of the dataset is a direct response to research by MIT’s Joy Buolamwini that showed that IBM’s commercial facial recognition technology was much worse at accurately identifying darker-skinned women than lighter-skinned men.
+- When asked about this conflict, and particularly about how the Diversity in Faces dataset might have a real-world impact on reducing bias if IBM is not using it in commercial facial recognition products, Smith said in an email that the “scientific learnings on facial diversity will advance our understanding and allow us to create more fair and accurate systems in practice.”
+- “We recognize that societal bias is not necessarily something we can fully tackle with science, but our aim is to address mathematical and algorithmic bias,” Smith said.
+- Experts note that the distinction between the research wings and commercial operations of corporations such as IBM and Facebook is a blurry one. Ultimately, IBM owns any intellectual property developed by its research unit.
+- Even when algorithms are developed by academic researchers using noncommercial datasets, those algorithms are often later used by businesses, said Brian Brackeen, former CEO of the facial recognition company Kairos.
+- As an analogy, he said, “think of it as the money laundering of facial recognition. You are laundering the IP and privacy rights out of the faces.”
+- IBM said it would not use the Diversity in Faces dataset in this way.
+- An Austrian photographer and entrepreneur, Georg Holzer, uploaded his photos to Flickr to remember great moments with his family and friends, and he used Creative Commons licenses to allow nonprofits and artists to use his photos for free. He did not expect more than 700 of his images to be swept up to study facial recognition technology.
+- “I know about the harm such a technology can cause,” he said over Skype, after NBC News told him his photos were in IBM’s dataset. “Of course, you can never forget about the good uses of image recognition such as finding family pictures faster, but it can also be used to restrict fundamental rights and privacy. I can never approve or accept the widespread use of such a technology.”
+- Holzer was concerned that a company like IBM — even its research division — had used photos he published under a noncommercial license.
+- “Since I assume that IBM is not a charitable organization and at the end of the day wants to make money with this technology, this is clearly a commercial use,” he said.
+- Dolan Halbrook, who is based in Portland, Oregon, and has 452 photos in the dataset, agreed that IBM should have asked his permission.
+- “I'm annoyed at them being used without prior notification and a chance to review which ones would be included,” Halbrook said. “I'm ambivalent about improving the technology itself.”
+- Other photographers were glad to hear that their images may be used to advance the field of facial recognition.
+- “Facial recognition is one of those things we can’t uninvent, so having a reliable system is better than one that generates errors and false identifications,” said Neil Moralee, a food consultant and photographer based in the U.K. who specializes in portraits.
+- Guillaume Boppe from Switzerland agreed. “If the pictures of faces I shot are helping AI to improve, reducing false detection and ultimately improving global safety, I’m fine with it,” he said.
+- Sebastian Gambolati, from Argentina, was happy to contribute to more accurate technology for finding missing people or tracking criminals, but he said it would have been “nice if they asked.”
+- “In my Flickr account there are a lot of photos I took from people in events that aren’t close to me,” he said, “and I don't know what they think about the company using their photos without their consent.”
+- IBM does offer an opt-out model of sorts: People can contact IBM with individual links to photographs they want removed from the dataset — either ones they have taken or ones they are featured in — and IBM says it will remove them, according to its privacy notice.“ However, there’s no easy way to know if you are featured in the dataset, and even if you find out that you are, IBM said it will not remove photos on the basis of your Flickr user ID unless you also have links to each of the photographs.
+- When NBC News alerted one photographer, who asked not to be named for privacy reasons, that more than 1,000 of his photos were included in IBM’s dataset, he tried to opt out by sending IBM his Flickr user ID. IBM told him that none of his photos were in the dataset, according to an email viewed by NBC News. When NBC News shared specific links to some of his photos in IBM’s dataset, the company blamed an “indexing bug” for its initial inability to confirm that his images were included.After more than a week, IBM confirmed it had removed the four photos he had provided links to. According to NBC News’ analysis, he still has 1,001 photos in the dataset.
+- Smith, of IBM, said in a statement that all URL removal requests had been completed.
+- Even once an image is removed from the IBM dataset, it won’t be removed from the versions of the dataset already shared with research partners (about 250 organizations have requested access so far), IBM said. Nor will it be removed from the underlying Flickr dataset.
+- For those caught up in IBM’s dataset or others like it, this makes the notion of opting out seem hopeless.
+- There may, however, be legal recourse in some jurisdictions thanks to the rise of privacy laws acknowledging the unique value of photos of people’s faces. Under Europe’s General Data Protection Regulation, photos are considered “sensitive personal information” if they are used to confirm an individual’s identity. Residents of Europe who don’t want their data included can ask IBM to delete it. If IBM doesn’t comply, they can complain to their country’s data protection authority, which, if the particular photos fall under the definition of “sensitive personal information,” can levy fines against companies that violate the law.
+- In the U.S., some states have laws that could be relevant. Under the Illinois Biometric Information Privacy Act, for example, it can be a violation to capture, store and share biometric information without a person’s written consent. According to the act, biometric information includes fingerprints, iris scans and face geometry.
+- "This is the type of mass collection and use of biometric data that can be easily abused, and appears to be taking place without the knowledge of those in the photos,” said Jay Edelson, a Chicago-based class-action lawyer currently suing Facebook for its use of facial recognition tools.
+- So far neither of these laws has been rigorously tested.
+- IBM declined to comment on the laws.
+- Aside from the privacy issues, a bigger question remains: Are more accurate facial recognition systems actually “fairer”? And is it possible for facial recognition to be fair at all?
+- “You’ve really got a rock-and-a-hard-place situation happening here,” said Woody Hartzog, a professor of law and computer science at Northeastern University. “Facial recognition can be incredibly harmful when it’s inaccurate and incredibly oppressive the more accurate it gets.”
+- While there are benign uses for facial recognition, it can also be used to surveil and target people of color and other vulnerable and minority communities. Facial recognition databases of mugshots are more likely to include African-Americans, Latinos and immigrants, since those groups are targeted by biased policing practices, civil rights groups say. This means that those people are far more “findable” by facial recognition technology, even if they were wrongly arrested when their mugshot was taken.
+- The use of facial recognition surveillance systems by law enforcement is so controversial that a coalition of more than 85 racial justice and civil rights groups have called for tech companies to refuse to sell the technology to governments. These groups argue that the technology exacerbates “historical and existing bias” that harms communities that are already “over-policed and over-surveilled.”
+- “These systems are being deployed in oppressive contexts, often by law enforcement,” said Whittaker, of the AI Now Institute, “and the goal of making them better able to surveil anyone is one we should look at very skeptically.”
+- CORRECTION (March 12, 2019, 8:18 p.m. ET): An earlier version of this article incorrectly described Brian Brackeen’s position at Kairos. He is the former CEO, not the current one.
+- CLARIFICATION (March 17, 2019, 11:25 a.m. ET): An earlier version of this article said IBM accessed Flickr photos by scraping them from Flickr’s site, implying that they were taken from the live web site. IBM says it took the photos from a collection Flickr released several years ago of photos taken from its own databases.
+- Olivia Solon is a senior reporter on the tech investigations team for NBC News.
+- © 2023 NBC UNIVERSAL
+
+URL: https://www.theverge.com/2019/3/12/18262646/ibm-didnt-inform-people-when-it-used-their-flickr-photos-for-facial-recognition-training
+- By  Shannon Liao
+- IBM took nearly a million photos from Flickr, used them to figure out how to train facial recognition programs, and shared them with outside researchers. But as NBC points out, the people photographed on Flickr didn’t consent to having their photos used to develop facial recognition systems — and might easily not have, considering those systems could eventually be used to surveil and recognize them.
+- While the photographers may have gotten permission to take pictures of these people, some told NBC that the people who were photographed didn’t know their images had been annotated with facial recognition notes and could be used to train algorithms.
+- “None of the people I photographed had any idea their images were being used in this way,” one photographer told NBC.
+- The photos weren’t originally compiled by IBM, by the way — they’re part of a larger collection of 99.2 million photos, known as the YFCC100M, which former Flickr owner Yahoo originally put together to conduct research. Each photographer originally shared their photos under a Creative Commons license, which is typically a signal that they can be freely used, with some limitations.
+- But the fact they could potentially be used to train facial recognition systems to profile by ethnicity, as one example, may not be a use that even Creative Commons’ most permissive licenses anticipated. It’s not entirely a theoretical example: IBM previously made a video analytics product that used body cameras to figure out peoples’ races. IBM denied that it would “participate in work involving racial profiling,” it tells The Verge.
+- It’s also worth noting that IBM’s original intentions may have been rooted in preventing AI from being biased against certain groups, though — when it announced the collection in January, the company explained that it needed such a large dataset to help train future AIs for “fairness” as well as accuracy.
+- IBM’s not alone
+- Either way, it’s hard for the average person to check if their photos were included and request to have them removed, since IBM keeps the dataset private from anyone who’s not conducting academic or corporate research. NBC obtained the dataset from a different source and made a tool within its article for photographers to check if their Flickr usernames have been included in IBM’s collection. That doesn’t necessarily help the people who were photographed, though, if they decide they don't want to feed an AI.
+- IBM told The Verge in a statement, “We take the privacy of individuals very seriously and have taken great care to comply with privacy principles.” It noted that the dataset could only be accessed by verified researchers and only included images that were publicly available. It added, “Individuals can opt-out of this dataset.”
+- IBM is only one of several companies exploring the field of facial recognition and it’s not alone in using photos of regular people without expressly asking for their consent. Facebook, for instance, has photos of 800,000 faces open for other researchers to download.
+- Update March 12th 7:41PM ET: This article has been updated with a statement from IBM.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.theregister.com/2020/01/27/ibms_facial_recognition_software_gets_it_in_trouble_again/
+
+URL: https://www.natlawreview.com/article/your-privacy-violated-using-your-face-to-train-ai-to-recognize-faces
+- 
+- If a picture of your face is used for a purpose that doesn’t identify you, is your privacy violated?
+- If the publicly available picture was used just to show a face, distinguished from some faces, similar to others, and fed into a computer so that the computer could learn various attributes of a human face, does this affect your privacy?
+- We may soon find an answer, at least as one judge interprets Illinois law.
+- A lawsuit was filed against Amazon, Alphabet and Microsoft alleging misuse of an Illinois resident’s picture under the Biometric Information Protection Act (BIPA) when the companies used the picture, contained in a huge database of human face pictures, to train and/or test a machine learning program to distinguish features among faces. The complaint arose from use of a database that these companies didn’t build.
+- According to a story in C/NET, “The photos in question were part of IBM’s Diversity in Faces database, which is designed to advance the study of fairness and accuracy in facial recognition by looking at more than just skin tone, age and gender. The data includes 1 million images of human faces, annotated with tags such as face symmetry, nose length and forehead height.” So the function of the facial information had nothing to do with identification with the people in the pictures and they only showed visages publicly available. Yet, the plaintiffs claim that “ongoing privacy risks” to pictured individuals “would injure those residents and citizens within Illinois.”
+- I can understand why privacy is at stake when your picture is compared to others for identification purposes in an AI facial recognition database. I just wrote last month about those risks here, and here, and again here. But training or testing the same machine learning tool is a different story. The picture goes in, it is compared and contrasted with others, and the machine moves on. How does this threaten the ongoing privacy of Illinois residents?
+- Many people I talk to assume that there is a long-determined set of rules about how private companies (or even government entities) can use anybody’s name and likeness.  There isn’t.
+- Rights of privacy in the U.S. are relatively new and generally do not protect “public information” like a name or face. Rights of publicity are statutory in some states, court-driven in others, and barely exist in many – and when they do exist they often only protect people in the public eye.
+- Relatively new biometric privacy laws in Texas, Washington and Illinois are poised to prevent fingerprints and retinal scans from being taken, stored and/or used by private companies without your permission.  But pictures of your face? Are friends and relatives who post your picture from their wedding violating the law? No. They aren’t. And the wedding picture may actually identify you.
+- So how would Amazon be violating the law by using that same picture to train a machine learning system to distinguish between facial characteristics without even identifying you to the system? Especially if Amazon is just using the picture of a face in the same way it might use a picture of a maple leaf to learn what shapes a tree leaf may exhibit.
+- BIPA is clear in some aspects. It demands that private entities need a person’s permission to collect, disclose, disseminate or profit from a person’s “biometric identifier” or “biometric information.” Neither biometric identifiers nor biometric information includes pictures. Further, BIPA also makes clear that its proscriptions tie the use of biometric measurements to identification of the person described by the measurements. Amazon, Alphabet and Microsoft are not accused of using the pictures for identification, only for training AI.
+- While it is true that training AI is fraught with unexplored legal and business risks, separating a picture from an identification of the pictured person seems to eliminate most of the privacy risks, especially when that picture will just be shown to a computer program for measurements and comparisons with other pictures. No one is running an advertising campaign using these pictures. The process result is generalized knowledge, not specific identification.
+- In addition, the plaintiffs in the BIPA suit request that the defendant companies destroy any relevant facial data that has been saved.  Exactly how is this supposed to happen? Assuming the subject pictures were used, along with tens of millions of other pictures, to train facial recognition AI, how do you delete the knowledge of one face from the multiple millions and remove the specific knowledge distinctions gained from these face samples? I suppose you could remove the pictures from the original database used to train the AIs, but the defendant companies don’t own the database, and pictures are not covered under BIPA. So what does this demand even mean in the context of training machine learning systems?
+- I am certain the plaintiff’s lawyers in this case were driven (or at least encouraged) by the $550,000,000 settlement of a BIPA class action this January following a U.S. 9th Circuit decision that under BIPA, “development of face template using facial-recognition technology without consent (as alleged here) invades an individual’s private affairs and concrete interests.” But the Facebook case involved a company actually using facial recognition AI in its role to identify individuals, or distinguish them from others, using their faces, and necessarily the face measurement templates. As stated above, the plaintiff’s in the AI training case are not accused of doing so.
+- So will courts within the same circuit find that every one of millions upon millions of people depicted in the Diversity in Faces database has a privacy interest threatened because their pictures were used to train commercial databases.  Clearly, face templates were used, not “using facial-recognition” technology, but to train the same technology to recognize faces at a later time, in different circumstances. How much privacy is at stake here? And will the defendant companies settle the matter, or have the stomach to stick it out and make an important distinction in the law?
+- About this Author
+- As a Partner of the Firm’s Intellectual Property Practice Group, Ted leads the firm’s IP Transaction Team, as well as data breach incident response teams in the public and private sectors. Ted addressed information security risk management, and cross-border data transfer issue, including those involving the European Union and the Data Protection Safe Harbor. He also negotiates and prepares business process outsourcing, distribution, branding, software development, hosted application and electronic commerce agreements for all types of companies.
+- ...
+- 
+- 
+- You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's  Terms of Use and Privacy Policy before using the National Law Review website. The National Law Review is a free to use, no-log in database of legal and business articles. The content and links on www.NatLawReview.com are intended for general information purposes only. Any legal analysis, legislative updates or other content and links should not be construed as legal or professional advice or a substitute for such advice. No attorney-client or confidential relationship is formed by the transmission of information between you and the National Law Review website or any of the law firms, attorneys or other professionals or organizations who include content on the National Law Review website. If you require legal or professional advice, kindly contact an attorney or other suitable professional advisor.
+- Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals. The National Law Review is not a law firm nor is www.NatLawReview.com  intended to be  a referral service for attorneys and/or other professionals. The NLR does not wish, nor does it intend, to solicit the business of anyone or to refer anyone to an attorney or other professional.  NLR does not answer legal questions nor will we refer you to an attorney or other professional if you request such information from us.
+- Under certain state laws the following statements may be required on this website and we have included them in order to be in full compliance with these rules. The choice of a lawyer or other professional is an important decision and should not be based solely upon advertisements. Attorney Advertising Notice: Prior results do not guarantee a similar outcome. Statement in compliance with Texas Rules of Professional Conduct. Unless otherwise noted, attorneys are not certified by the Texas Board of Legal Specialization, nor can NLR attest to the accuracy of any notation of Legal Specialization or other Professional Credentials.
+- The National Law Review - National Law Forum LLC 3 Grant Square #141 Hinsdale, IL 60521  Telephone  (708) 357-3317 or toll free (877) 357-3317.  If you would ike to contact us via email please click here.
+
+URL: https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cef59eefcd0c342
+•
+
+      Your IP:
+      Click to reveal
+146.70.202.116
+•
+
+Performance & security by Cloudflare
+
+URL: https://www.bbc.co.uk/news/technology-47555216
+- IBM has been accused of using Flickr photos for a facial-recognition project, without the full consent of people in the images.
+- The company extracted nearly one million photos from a dataset of Flickr images originally compiled by Yahoo.
+- Many people pictured were probably unaware of how their data had been used, according to an NBC News report.
+- IBM said in a statement that it had taken great care to comply with privacy principles.
+- But one digital rights group said IBM's actions represented a "huge threat" to people's privacy.
+- "None of the people I photographed had any idea their images were being used in this way," a photographer told NBC News.
+- Photos selected by IBM were listed under a Creative Commons licence, which generally means the images can be widely used with only a small number of restrictions.
+- In a paper published online about the work, IBM researchers describe in detail the steps taken to analyse people's faces, including taking measurements of the distance between individuals' facial features.
+- "Many of these measures can be reliably estimated from photos of frontal faces, using 47 landmark points of the head and face," the researchers wrote.
+- It was these measurements, rather than the photos themselves, that IBM has compiled into its own dataset.
+- Such data can be used to help artificial neural networks better distinguish between faces, so that individuals can be recognised in different images.
+- By using large datasets such as this, technology companies hope to make their facial-recognition systems more accurate.
+- "We take the privacy of individuals very seriously and have taken great care to comply with privacy principles," said IBM in a statement.
+- "Individuals can opt out of this dataset."
+- However, opting out would only be an option if an individual were aware that their data had been used in the first place.
+- Digital rights group Privacy International said IBM had been wrong to use the photos without direct consent from those pictured.
+- "Flickr's community guidelines explicitly say, 'Don't be creepy.' Unfortunately, IBM has gone far beyond this.
+- "Using these photos in this way is a flagrant breach of anti-creepiness - as well as a huge threat to people's privacy."
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.ibm.com/blogs/research/2019/01/diversity-in-faces/
+- With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.
+- 7 min read - While AWS focuses on the security of the cloud, IBM Consulting is dedicated to improving clients' AWS cloud security posture.
+- 3 min read - When it comes to driving large technology transformation on Cloud, leveraging existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting™ offers several learnings to help organizations address the architecture and technology challenge.  Consider…
+- 4 min read - How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.
+- 3 min read - Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.
+- 4 min read - A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or…
+- 2 min read - Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.
+- It’s time to put the power of AI in the hands of all “AI builders,” from data scientists to developers to business users who don’t write code. Meet watsonx.
+- 5 min read - From traffic jams to seamless journeys— exploring the promise of smart transportation.
+- 5 min read - How to expose a IBM Cloud Code Engine application via custom domains.
+- 5 min read - As more enterprises move to hybrid cloud environments, hybrid cloud security has become imperative to business growth. According to a 2021 study by the IBM Institute for Business Value (IBV), 80% of executives expected their organizations to operate more than…
+- 3 min read - How to use a VPC VPN Gateway to connect an on-premises (enterprise) network to the IBM Cloud VPC in a transit hub-and-spoke architecture.
+- 4 min read - IBM Turbonomic now offers a significant improvement in the way that we measure the level of CPU throttling.
+- 3 min read - IBM Cloud enabled TDC Digital to overcome persistent issues with billing transparency and helped reduce customer complaints by 31%.
+- After examining the world of opportunities between AI and the insurance industry, it's time to investigate…
+- If you’ve followed IBM over the past few years, you know how critical the IBM Ecosystem…
+- Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key…
+- The difference between scaling up and scaling out, and how to determine which is the best…
+- Today, utilities and many other industries use drones extensively to conduct surveys, map assets and monitor…
+- IBM Turbonomic now offers a significant improvement in the way that we measure the level of…
+- Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy…
+- One of the United Nations’ Sustainable Development Goals (SDGs) is to create a world free of…
+- Imagine walking into the largest library you’ve ever seen. You have a specific book in mind,…
+- The modern medical system does not serve all its patients equally—not even nearly so. Significant disparities…
+
+URL: https://news.sky.com/story/ibm-scraped-millions-of-flickr-users-photos-for-facial-recognition-project-11663999
+- Companies are collecting images that people post online - which could then be used to watch and track them in real life.
+- By  Olivia Solon, NBC News
+- Wednesday 13 March 2019 14:57, UK
+- Facial recognition can log you into your iPhone, track criminals through crowds and identify loyal customers in stores.
+- The technology - which is imperfect but improving rapidly - is based on algorithms that learn how to recognise human faces and the hundreds of ways in which each one is unique.
+- To do this well, the algorithms must be fed hundreds of thousands of images of a diverse array of faces. Increasingly, those photos are coming from the internet, where they're swept up by the millions without the knowledge of the people who posted them, categorised by age, gender, skin tone and dozens of other metrics, and shared with researchers at universities and companies.
+- As the algorithms get more advanced - meaning they are better able to identify women and people of colour, a task they have historically struggled with - legal experts and civil rights advocates are sounding the alarm on researchers' use of photos of ordinary people. These people's faces are being used without their consent, in order to power technology that could eventually be used to watch and track them.
+- That's a particular concern for minorities who could be profiled and targeted, the experts and advocates say.
+- "This is the dirty little secret of AI training sets. Researchers often just grab whatever images are available in the wild," said NYU School of Law professor Jason Schultz.
+- The latest company to enter this territory was IBM, which in January released a collection of nearly a million photos that were taken from the photo hosting site Flickr and coded to describe the subjects' appearance. IBM promoted the collection to researchers as a progressive step toward reducing bias in facial recognition.
+- Christian curriculum using textbooks that deny climate change and say evolution is impossible
+- The 'black gold' that could help fight climate change for centuries to come
+- One in 10 female gamers feel suicidal over abuse they face while playing online, survey reveals
+- But some of the photographers whose images were included in IBM's dataset were surprised and disconcerted when NBC News told them that their photographs had been annotated with details including facial geometry and skin tone and may be used to develop facial recognition algorithms. (NBC News obtained IBM's dataset from a source after the company declined to share it, saying it could be used only by academic or corporate research groups.)
+- "None of the people I photographed had any idea their images were being used in this way," said Greg Peverill-Conti, a Boston-based public relations executive who has more than 700 photos in IBM's collection, known as a "training dataset."
+- "It seems a little sketchy that IBM can use these pictures without saying anything to anybody," he said. John Smith, who oversees AI research at IBM, said that the company was committed to "protecting the privacy of individuals" and "will work with anyone who requests a URL to be removed from the dataset".
+- Despite IBM's assurances that Flickr users can opt out of the database, NBC News discovered that it's almost impossible to get photos removed. IBM requires photographers to email links to photos they want removed, but the company has not publicly shared the list of Flickr users and photos included in the dataset, so there is no easy way of finding out whose photos are included. IBM did not respond to questions about this process.
+- To see if your Flickr photos are part of the dataset, enter your username in a tool NBC News created based on the IBM dataset.
+- IBM says that its dataset is designed to help academic researchers make facial recognition technology fairer. The company is not alone in using publicly available photos on the internet in this way. Dozens of other research organisations have collected photos for training facial recognition systems, and many of the larger, more recent collections have been scraped from the web.
+- Some experts and activists argue that this is not just an infringement on the privacy of the millions of people whose images have been swept up - it also raises broader concerns about the improvement of facial recognition technology, and the fear that it will be used by law enforcement agencies to disproportionately target minorities.
+- "People gave their consent to sharing their photos in a different internet ecosystem," said Meredith Whittaker, co-director of the AI Now Institute, which studies the social implications of artificial intelligence. "Now they are being unwillingly or unknowingly cast in the training of systems that could potentially be used in oppressive ways against their communities."
+- :: How facial recognition has evolved
+- In the early days of building facial recognition tools, researchers paid people to come to their labs, sign consent forms and have their photo taken in different poses and lighting conditions. Because this was expensive and time consuming, early datasets were limited to a few hundred subjects.
+- With the rise of the web during the 2000s, researchers suddenly had access to millions of photos of people.
+- "They would go into a search engine, type in the name of a famous person and download all of the images," said P. Jonathon Phillips, who collects datasets for measuring the performance of face recognition algorithms for the National Institute of Standards and Technology. "At the start these tended to be famous people, celebrities, actors and sports people."
+- As social media and user-generated content took over, photos of regular people were increasingly available. Researchers treated this as a free-for-all, scraping faces from YouTube videos, Facebook, Google Images, Wikipedia and mugshot databases.
+- Academics often appeal to the noncommercial nature of their work to bypass questions of copyright. Flickr became an appealing resource for facial recognition researchers because many users published their images under "Creative Commons" licences, which means that others can reuse their pictures without paying licence fees. Some of these licences allow commercial use.
+- To build its Diversity in Faces dataset, IBM says it drew upon a collection of 100 million images published with Creative Commons licences that Flickr's owner, Yahoo, released as a batch for researchers to download in 2014. IBM narrowed that dataset down to about 1 million photos of faces that have each been annotated, using automated coding and human estimates, with almost 200 values for details such as measurements of facial features, pose, skin tone and estimated age and gender, according to the dataset obtained by NBC News.
+- It's a single case study in a sea of datasets taken from the web. According to Google Scholar, hundreds of academic papers have been written on the back of these huge collections of photos - which have names like MegaFace, CelebFaces and Faces in the Wild - contributing to major leaps in the accuracy of facial recognition and analysis tools. It was difficult to find academics who would speak on the record about the origins of their training datasets; many have advanced their research using collections of images scraped from the web without explicit licensing or informed consent.
+- The researchers who built those datasets did not respond to requests for comment.
+- :: How IBM is using the face database
+- IBM released its collection of annotated images to other researchers so that it can be used to develop "fairer" facial recognition systems. That means systems can more accurately identify people of all races, ages and genders.
+- "For the facial recognition systems to perform as desired, and the outcomes to become increasingly accurate, training data must be diverse and offer a breadth of coverage," said IBM's John Smith, in a blog post announcing the release of the data.
+- The dataset does not link the photos of people's faces to their names, which means any system trained to use the photos would not be able to identify named individuals. But civil liberty advocates and tech ethics researchers have still questioned the motives of IBM, which has a history of selling surveillance tools that have been criticised for infringing on civil liberties.
+- For example, in the wake of the 9/11 attacks, the company sold technology to the New York City police department that allowed it to search CCTV feeds for people with particular skin tones or hair colour. IBM has also released an "intelligent video analytics" product that uses body camera surveillance to detect people by "ethnicity" tags, such as Asian, black or white.
+- IBM said in an email that the systems are "not inherently discriminatory," but added: "We believe that both the developers of these systems and the organisations deploying them have a responsibility to work actively to mitigate bias. It's the only way to ensure that AI systems will earn the trust of their users and the public. IBM fully accepts this responsibility and would not participate in work involving racial profiling."
+- Today, the company sells a system called IBM Watson Visual Recognition, which IBM says can estimate the age and gender of people depicted in images and, with the right training data, can be used by clients to identify specific people from photos or videos.
+- NBC News asked IBM what training data IBM Watson used for its commercial facial recognition abilities, pointing to a company blog post that stated that Watson is "transparent about who trains our AI systems, what data was used to train those systems." The company responded that it uses data "acquired from various sources" to train its AI models but does not disclose this data publicly to "protect our insights and intellectual property."
+- IBM said both in public statements and directly to NBC News that the Diversity in Faces dataset is purely for academic research and won't be used to improve the company's commercial facial recognition tools. This seems to conflict with the company's assertion in January in promotional materials that the release of the dataset is a direct response to research by MIT's Joy Buolamwini that showed that IBM's commercial facial recognition technology was much worse at accurately identifying darker-skinned women than lighter-skinned men.
+- When asked about this conflict, and particularly about how the Diversity in Faces dataset might have a real-world impact on reducing bias if IBM is not using it in commercial facial recognition products, Mr Smith said in an email that the "scientific learnings on facial diversity will advance our understanding and allow us to create more fair and accurate systems in practice."
+- "We recognise that societal bias is not necessarily something we can fully tackle with science, but our aim is to address mathematical and algorithmic bias," Mr Smith said.
+- Experts note that the distinction between the research wings and commercial operations of corporations such as IBM and Facebook is a blurry one. Ultimately, IBM owns any intellectual property developed by its research unit.
+- Even when algorithms are developed by academic researchers using noncommercial datasets, those algorithms are often later used by businesses, said Brian Brackeen, former CEO of the facial recognition company Kairos.
+- As an analogy, he said, "think of it as the money laundering of facial recognition. You are laundering the IP and privacy rights out of the faces".
+- IBM said it would not use the Diversity in Faces dataset in this way.
+- :: Photographers divided on IBM's dataset
+- An Austrian photographer and entrepreneur, Georg Holzer, uploaded his photos to Flickr to remember great moments with his family and friends, and he used Creative Commons licences to allow nonprofits and artists to use his photos for free. He did not expect more than 700 of his images to be swept up to study facial recognition technology.
+- "I know about the harm such a technology can cause," he said over Skype, after NBC News told him his photos were in IBM's dataset. "Of course, you can never forget about the good uses of image recognition such as finding family pictures faster, but it can also be used to restrict fundamental rights and privacy. I can never approve or accept the widespread use of such a technology."
+- Mr Holzer was concerned that a company like IBM -- even its research division -- had used photos he published under a noncommercial licence.
+- "Since I assume that IBM is not a charitable organisation and at the end of the day wants to make money with this technology, this is clearly a commercial use," he said.
+- Dolan Halbrook, who is based in Portland, Oregon, and has 452 photos in the dataset, agreed that IBM should have asked his permission.
+- "I'm annoyed at them being used without prior notification and a chance to review which ones would be included," Mr Halbrook said. "I'm ambivalent about improving the technology itself."
+- Other photographers were glad to hear that their images may be used to advance the field of facial recognition.
+- "Facial recognition is one of those things we can't uninvent, so having a reliable system is better than one that generates errors and false identifications," said Neil Moralee, a food consultant and photographer based in the UK who specialises in portraits.
+- Guillaume Boppe from Switzerland agreed. "If the pictures of faces I shot are helping AI to improve, reducing false detection and ultimately improving global safety, I'm fine with it," he said.
+- Sebastian Gambolati, from Argentina, was happy to contribute to more accurate technology for finding missing people or tracking criminals, but he said it would have been "nice if they asked."
+- "In my Flickr account there are a lot of photos I took from people in events that aren't close to me," he said, "and I don't know what they think about the company using their photos without their consent."
+- :: Few options for opting out
+- IBM does offer an opt-out model of sorts: People can contact IBM with individual links to photographs they want removed from the dataset -- either ones they have taken or ones they are featured in -- and IBM says it will remove them, according to its privacy notice." However, there's no easy way to know if you are featured in the dataset, and even if you find out that you are, IBM said it will not remove photos on the basis of your Flickr user ID unless you also have links to each of the photographs.
+- When NBC News alerted one photographer, who asked not to be named for privacy reasons, that more than 1,000 of his photos were included in IBM's dataset, he tried to opt out by sending IBM his Flickr user ID. IBM told him that none of his photos were in the dataset, according to an email viewed by NBC News. When NBC News shared specific links to some of his photos in IBM's dataset, the company blamed an "indexing bug" for its initial inability to confirm that his images were included.After more than a week, IBM confirmed it had removed the four photos he had provided links to. According to NBC News' analysis, he still has 1,001 photos in the dataset.
+- John Smith, of IBM, said in a statement that all URL removal requests had been completed.
+- Even once an image is removed from the IBM dataset, it won't be removed from the versions of the dataset already shared with research partners (about 250 organisations have requested access so far), IBM said. Nor will it be removed from the underlying Flickr dataset.
+- For those caught up in IBM's dataset or others like it, this makes the notion of opting out seem hopeless.
+- There may, however, be legal recourse in some jurisdictions thanks to the rise of privacy laws acknowledging the unique value of photos of people's faces. Under Europe's General Data Protection Regulation, photos are considered "sensitive personal information" if they are used to confirm an individual's identity. Residents of Europe who don't want their data included can ask IBM to delete it. If IBM doesn't comply, they can complain to their country's data protection authority, which, if the particular photos fall under the definition of "sensitive personal information," can levy fines against companies that violate the law.
+- In the US, some states have laws that could be relevant. Under the Illinois Biometric Information Privacy Act, for example, it can be a violation to capture, store and share biometric information without a person's written consent. According to the act, biometric information includes fingerprints, iris scans and face geometry.
+- "This is the type of mass collection and use of biometric data that can be easily abused, and appears to be taking place without the knowledge of those in the photos," said Jay Edelson, a Chicago-based class-action lawyer currently suing Facebook for its use of facial recognition tools.
+- So far neither of these laws has been rigorously tested
+- IBM declined to comment on the laws.
+- Aside from the privacy issues, a bigger question remains: Are more accurate facial recognition systems actually "fairer"? And is it possible for facial recognition to be fair at all?
+- "You've really got a rock-and-a-hard-place situation happening here," said Woody Hartzog, a professor of law and computer science at Northeastern University. "Facial recognition can be incredibly harmful when it's inaccurate and incredibly oppressive the more accurate it gets."
+- While there are benign uses for facial recognition, it can also be used to follow and target people of colour and other vulnerable and minority communities. Facial recognition databases of mugshots are more likely to include African-Americans, Latinos and immigrants, since those groups are targeted by biased policing practices, civil rights groups say. This means that those people are far more "findable" by facial recognition technology, even if they were wrongly arrested when their mugshot was taken.
+- The use of facial recognition surveillance systems by law enforcement is so controversial that a coalition of more than 85 racial justice and civil rights groups have called for tech companies to refuse to sell the technology to governments. These groups argue that the technology exacerbates "historical and existing bias" that harms communities that are already "over-policed and over-surveilled."
+- "These systems are being deployed in oppressive contexts, often by law enforcement," said Whittaker, of the AI Now Institute, "and the goal of making them better able to surveil anyone is one we should look at very sceptically."
+- CORRECTION (March 12, 2019, 8:18 p.m. ET): An earlier version of this article incorrectly described Brian Brackeen's position at Kairos. He is the former CEO, not the current one.
+- :: This article was originally published on NBC News
+- © 2023 Sky UK
+
+URL: https://www.cnet.com/news/ibm-stirs-controversy-by-sharing-photos-for-ai-facial-recognition/
+- Your guide to a better future
+- The million images were shared under the liberal licenses that Flickr photographers chose, but they probably didn't picture this.
+- An annotated photo from IBM's Diversity in Faces data set.
+- Some photographers who contributed photos to the Flickr photo-sharing site were surprised 
+  IBM
+ used those same photos in a million-image collection to train AI face-recognition systems -- but perhaps they shouldn't have been.
+- The 
+  Flickr
+ photos had been shared under a Creative Commons license, a framework under which people can loosen restrictions on photos, text, video or other material that otherwise would be protected by copyright. CC licenses can bar commercial use or require others using the photos to attribute them to their source, but the general idea is to make the work available for others to use.
+- "None of the people I photographed had any idea their images were being used in this way...It seems a little sketchy that IBM can use these pictures without saying anything to anybody," Greg Peverill-Conti, an executive at public relations firm SharpOrange whose photos were used, told NBC News Tuesday.
+- IBM used only photos licensed under Creative Commons, and IBM's legal team approved the program, a company representative said. The data is offered only to academic researchers through a project called Diversity in Faces. The faces are annotated with human observations about factors like sex and age and with geometric measurements, and they are intended to help researchers counter bias that can undermine AI fairness.
+- "We take the privacy of individuals very seriously and have taken great care to comply with privacy principles, including limiting the Diversity in Faces dataset to publicly available image annotations and limiting the access of the dataset to verified researchers. Individuals can opt-out of this dataset," spokesman Saswato Das said in a statement. "IBM has been committed to building responsible, fair and trusted technologies for more than a century and believes it is critical to strive for fairness and accuracy in facial recognition."
+- One lesson here: If you don't want your imagery used to train artificial intelligence systems -- or to appear in books, Wikipedia articles, art projects and corporate PowerPoint presentations -- choose your Creative Commons licenses carefully or don't use them at all. Even then you might be surprised, since IBM's use -- reduced-size images that have been significantly annotated -- is arguably transformative and therefore permissible even with copyrighted images under copyright law's fair-use provisions. So perhaps the only way to truly avoid having your photos used in AI is to avoid sharing them at all.
+- You might also like the Creative Commons ethos. Sharing data that researchers may freely use -- to rid AI systems of racial bias, for example, or to improve voice recognition, as with Mozilla's Common Voice project -- is arguably a laudable goal.
+- The Creative Commons organization, a nonprofit that oversees the licenses, didn't comment on IBM's specific usage. But Chief Executive Ryan Merkley said the matter of faces used to train AI systems is broader than just a licensing issue.
+- "Our tools were built to solve for copyright, and they do that well," Merkley said. "But copyright isn't a good tool to address privacy, or research ethics, or surveillance AI."
+- The organization published a blog post about the IBM-Flickr case and FAQ about the AI situation more broadly on Wednesday.
+- One sticking point is whether IBM's use is noncommercial. It offered the images only to academic researchers, but IBM benefits  commercially from a higher profile in the world of AI, too. IBM didn't comment on the broader commercial issue of its program.
+- Merkley didn't pass judgment on IBM's use. But he did say the permission depends on how CC-licensed images are using them, not who is using them. "Being a company doesn't necessarily mean you can't use non-commercial content," he said.
+- More than 700 of Peverill-Conti's photos are in the collection and some photographers had trouble getting IBM to remove their photos from the data set, NBC News said. Peverill-Conti didn't respond to CNET's request for comment.
+- Flickr's leader, SmugMug Chief Executive Don MacAskill, tweeted on Tuesday that IBM retrieved the photos before SmugMug acquired the photo-sharing site. However, he defended IBM's type of usage as adhering to the principles of Creative Commons.
+- "We love & support photographers and their right to choose their own licenses for their work. By default, they reserve all of their rights, and have the option to loosen them if they'd like," MacAskill tweeted.
+- "People didn't have to opt-in to the dataset because they had already opted into the Creative Commons license. They took action. This is the way licensing works. It's also the magic that enables artists & scientists all over the world to create & invent using CC-licensed works," he added.
+- Flickr has more than 400 million photos shared under Creative Commons licenses. Although Flickr eliminated a Yahoo-era plan that offered photographers a free terabyte of photo storage, it exempts Creative Commons shots from the limit.
+- Originally published March 12 at 7:10 p.m. PT.Update, 8:21 p.m. PT: Adds further comment from IBM.Update, March 13: Adds further background and comment from Merkley and links to Creative Commons information on the subject.
+
+URL: https://www.dpreview.com/news/4791261447/no-flickr-didn-t-hand-your-photos-over-to-corporations-for-machine-learning
+- Earlier this week, Flickr started taking heat across the web after it was specifically mentioned in a report from NBC News that took a deep dive into the 'dirty little secret' of using Creative Commons images to help train facial recognition algorithms.
+- The report mentioned multiple datasets used to help companies train machine learning algorithms to better comprehend diversity in facial recognition programs, but one dataset in particular was emphasized and elaborated on: IBM's 'Diversity in Faces' set that was derived and iterated upon from more than 100 million Creative Common images gathered by Yahoo and released for research purposes back in 2014.
+- Almost immediately, users around the web started raining down critical comments. Others, such as Flickr's own Don MacAskill, chimed in as well to help clarify the situation.
+- After the dust settled from the initial publishing of the report and the subsequent commentary across social media, one thing became clear: the issue isn't that Flickr is handing over your photos for free to corporations looking to train their artificial intelligence algorithms. It's that users are sharing their photos under various Creative Commons licenses without fully comprehending what all those licenses entail, a concern Flickr specifically referenced just recently in their announcement to save all Creative Commons photos on its servers.
+- After all, IBM didn't sneakily pull private photos off of Flickr to use and Flickr didn't just hand over millions of protected photos, despite the overtone NBC News' article might give off. The photos IBM used to build up its database were the same photos any one of us can find when searching for public, Creative Commons photos on Flickr.
+- Don MacAskill, SmugMug Chief Executive and head of Flickr, shared his take on the situation in a conversation with Olivia Solon, the author of the NBC News article, explaining that no 'scraping' of Flickr images was done, as the photos were opt-in Creative Commons licensed photos. Below was MacAskill's first response, but the entire thread is worth the read.
+- Photos were not "scraped ... from @Flickr". IBM is very clear that their dataset was not "scraped" but originates from opt-in @CreativeCommons licensed photos supplied in the @Flickr public research dataset. Factually incorrect. Your article needs corrections. /cc @NBCNews
+- Ryan Merkley, CEO of Creative Commons, even chimed in on the conversation with an official response on Creative Common's blog. In it, Merkley addresses the concerns of Flickr users and went so far as to contact IBM 'to understand their use of the images, and to share the concerns of our community.'
+- In it, Merkley writes (emphasis ours):
+- While we do not have all the facts regarding the IBM dataset, we are aware that fair use allows all types of content to be used freely, and that all types of content are collected and used every day to train and develop AI. CC licenses were designed to address a specific constraint, which they do very well: unlocking restrictive copyright. But copyright is not a good tool to protect individual privacy, to address research ethics in AI development, or to regulate the use of surveillance tools employed online. Those issues rightly belong in the public policy space, and good solutions will consider both the law and the community norms of CC licenses and content shared online in general.
+- The overarching theme that stands out amongst this ongoing debate is that it's not always clear to users, especially those who aren't as engrained in the online world of photography, what Creative Commons licenses cover and fair use actually is. Flickr doesn't shy away from explanations and links out at various stages throughout the upload process and in its FAQ, but even the Creative Commons website lacks clear definition — something it's already addressing with new FAQ pages that it will continue to update.
+- Ultimately, the current copyright system that's intended to prevent other people profiting from creative works, wasn't necessarily designed to protect your images from this type of use. Those images don't end up in devices, nor is anyone directly profiting from your creations, so existing rules don't necessarily offer any protection, whatever rights you assert. The cost of your camera or smartphone getting that bit smarter might just be that your photos are the ones being used to train it.
+- Uh, if IBM is profiting,  or planning to profit, from their facial recognition software built with CC images, how does that not violate CC?
+- The issue at hand is that people post stuff on the Internet without even bothering to inform themselves about what sort of use may, or may not be allowed by a certain type of CC license.
+- IBM was using the images to prevent BIAS in the algorithms.  Imagine if your image DB was made up of only...
+- Try these before photographing and uploading to photo sharing sites.
+- https://www.theguardian.com/technology/2016/nov/03/how-funky-tortoiseshell-glasses-can-beat-facial-recognition
+- It is probably true that most users have not read the CC licence in detail, or all the variations of this licence that you use, and have not considered all the possible implications in posting their pictures.
+- Having said that, I'm pretty sure that they didn't expect that IBM would be using them en masse in this way and I don't really think that they should as for me this is commercial use, using them as test data for training their AI system.
+- I agree with the comment from Ryan Merkley that "copyright is not a good tool to protect individual privacy" and "Those issues rightly belong in the public policy space" and I wonder how GDPR covers this..?
+- I don't see any alternative to the CC licence on Flickr (that would restrict re-use of any images I choose to upload other than viewing them) and hence, bearing in mind what Ryan Merkley said, this is perhaps an inappropriate licence for images on a public website as I'm sure even Flickr didn't imagine they would be used this way..
+- Flickr allows 'All Rights Reserved' under traditional copyright (under Settings/Privacy & Permissions).
+- So much to do about nothing, IBM could even use fully copyrighted content from Flickr for machine learning. Just let the machine browse the flickr website. No images are copied apart from what happens to show images on websites, which is covered by the terms of use of said site.
+- "Machine learning is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence." - Wikipedia
+- Be not afraid.
+- Fb recently did something worse - issuing an intentional post to show your actual profile photo and one which was taken 10 years ago. Many fb users jumped on this bandwagon and posted side-by-side comparisons of old and new profile photos next to each other. This was ideal for fb to use the so posted images for free to train algorithms for face recognition to detect even a person after some aging.
+- I fail to see why they would wait for us to post that 10 years comparison, they could just fetch it from their database, or did they need our permission to do so?
+- I think it says a lot about Facebook's reputation that everything they do is now just assumed to be a play for more of your data.
+- @larkhon: They could have done this, but it would have been much more work with higher error rate I guess. Legally each photo we post on fb can be used there without further permission anyway. Much easier to have users post two photos side-by-side in a given time frame to analyze.
+- @copal fit: yes, I can imagine that's the case. Then again, they have a time stamp for each picture users have posted, they have profile photos but also photos in which users are tagged, that should give them better accuracy than only two photos taken 10 years apart. On a more general note, I find it funny that Zuckerberg wants FB to be more focused on our private life and interactions. If we trusted them enough, we'd probably share more private stuff and use the tool to actually keep in touch with people instead of commenting/sharing news.
+- @Richard Butler - That's Facebook's actual business model.
+- Like all businesses, there's a balance between what the user gains and what the company gains. As larkhon points out, Facebook doesn't need you to re-post old images to have access to images of the same people with ten-year separations.
+- Can someone explain how licensed work?
+- Obviously people aren’t attaching a complete legal document to each photo. But that’s what a license is, right? A detailed document spelling out in legal terms what can be done with something.
+- Is Creative Commons a “canned” license one can reference? Are there versions of it, for example “Creative Commons license version 2018”?
+- .> Can someone explain how licensed work?
+- Here are some links you might find useful:
+- http://en.wikipedia.org/
+- http://www.google.com/
+- https://creativecommons.org/licenses/by/4.0/legalcode all CC licenses can be found on creativecommons.org
+- Methinks mentioning Wikipedia and Google, instead of simply providing a direct link to e.g. the Creative Commons license, is preferable because:
+- 1) it prods a person to use his/her brain to gather and evaluate information on his/her own, a skill that is becoming ever more important.
+- 2) Hopefully, the person in question realizes that Wikipedia itself is a major repository of Creative Commons (CC) material, and is an encyclopedia of indiscutable utility, and also that Google scrapes copyrighted information — e.g. on-line newspaper articles, a new poem posted by a poet on her blog, etc. — that are explictly /not/ made available e.g. under a CC license.  That scraping of sometimes copyrighted information has allowed Google to create a synthetic, "derivative" work that is a complex, searchable database of keywords, a huge Internet search engine of indiscutable utility.
+- ../..
+- ../..
+- Also note the ethical, and trust issues related to having a /diverse/ dataset feeding big data and AI systems...
+- "[..] The report concluded by urging users of big data to consider whether their data set used to create algorithms is representative or does it only represent a certain segment."https://interestingengineering.com/bias-in-artificial-intelligence-requires-discipline-and-compassion
+- ... and the issue that happens to be explored by IBM's researchers and that was enabled by their scraping of pictures explictly made available with a CC license:https://www.research.ibm.com/artificial-intelligence/trusted-ai/diversity-in-faces/
+- It would seem IBM's research has utility, when one considers issues like these:https://www.technologyreview.com/the-download/613064/self-driving-cars-are-coming-but-accidents-may-not-be-evenly-distributed/
+- Actually, Flickr displays the relevant copyright notice for every photo you have on there. I chose mine to be All Rights Reserved for every photo, for what it is worth, because of this kind of crap (and other erosions of photographers' intellectual property rights that keep getting reported on this site and elsewhere).
+- Another example of poor journalism where facts were omitted or misrepresented.  Good on you @DonMacAskill for calling NBC out on this!!
+- It seems journalism isn't about describing facts in a truthful way.  It's more about assembling some subset of facts that make for a good read.
+- The natural extension is fake news, where they just do away with any facts.
+- What facts were omitted?
+- That the only photos downloaded were ones under Creative Commons license, a license which allows ANYONE to download these photos.
+- @Rick Knepper...There was no mention in NBC's article that the photos used were licensed under Creative Commons nor did it try to explain what that means.
+- Here's the subtitle:
+- People’s faces are being used without their permission, in order to power technology that could eventually be used to surveil them, legal experts say.
+- The gist of the article has nothing to do with the photographer and has everything to do with the people whose images are posted to Creative Commons many times without their knowledge. The Flickr response is a direct deflection an d obfuscation of the real issue.
+- I feel this does have something to do with the photographers as they are the ones who posted their photos with a Creative Commons license.  Sure, maybe they had no idea their photos would be used in this way, but that doesn't change the fact that they allowed their photos to be accessed.
+- The article also insinuates that Flickr allowed this to happen, when in fact it is the individual photographers that granted the Creative Commons license.  Flickr was simply defending their brand and pointing out that many users post photos with a CC license without fully comprehending the potential ramifications.
+- Flickr did allow this to happen. Again, you are approaching the issue from the perspective of the relationship between Flickr and the photographer. Did Flickr and/or the photographer get releases from every person whose image appears on Creative Commons?
+- Well I'm not a lawyer by any stretch of the imagination, but I don't believe you require a model release unless you intend to publish photos for commercial reasons to make a profit.  In this case, these photos were published for public use without any license fees being paid.
+- https://www.rocketlawyer.com/article/when-do-you-need-model-release-form-cb.rl
+- PKJC, again through the lens of the photographer, associated work persons and antiquated law. Many of the people on Creative Commons were unaware they were being photographed. Models may want to rethink their contracts with photographers if their likeness is going to be posted to such a website.
+- All I am saying is that the article is correct in its core point - peoples' likenesses are being used without their permission for things that were unimaginable a few years ago. The legality of it being beside the point.
+- N.B:  Facial-recognition will not work with some of the types on the picture in the example..
+- I'll go against popular sentiment on this one.
+- Copyright is there to prevent copying of your images. People using these images for machine learning don't need to copy your images. If you've uploaded your images to their server, you've already done the copying. All they are doing is looking at the images, creating their own tag data, and then using a combination of the image and the tag data to generate an algorithm. What was unique about that image is completely lost in the process. There's no way to re-extract the image's data from the result.
+- To me, the people who do this are making a derivative work, and that should be allowed.
+- If you remove your images from the server, they'll no longer be available - which is how it should be. If you look at these creative commons data sets, there are missing images, due to this reason. They have to constantly refresh it.
+- Also - not that it matters for legal reasons - they don't need quality images for this, just quantity.
+- I believe your interpretation of copyright laws and that this in fact derivative work is accurate here.
+- I suspect btw, that IBM adhered to common sense and respected the all rights reserved and limited their scrapping to only CC licenses. They don't want someone disagreeing with both of our legal interpretations of copyright law making them liable. If the judge finds them liable, guess what? They're liable. Too much risk. IBM probably did the right thing here.
+- However, not everyone is IBM or US (or EU) based at that. I'd be willing to bet my lunch someone else is scrapping Flickr, say foreign companies that have no legal precedence regarding these matters (China for example). Huawei would be a good example of someone who probably is doing in fact what IBM has been accused of here.
+- Just to be clear, once you've granted a creative commons licence to someone, you can't rescind it. This applies to all image licences, unless the terms of the licence specify otherwise, of course. A licence would be completely pointless if it could be rescinded at any time.So if you previously applied a CC licence to an image, which IBM then obtained under that licence, if you delete the image from flickr or change the licensing terms, that only affects anyone that wants to use the image and hasn't already obtained the image under the previous licence. So IBM can still use your image they previously licenced even if you delete it completely from Flickr.
+- Why people would licence their image out and then get annoyed when someone uses the image under that licence is beyond me.
+- @jjlCopyright is not designed to stop people from copying your work. It exists to control it's use. When a client hires me for photos that they're profiting from, I'm still going to own the copyright unless they want to pay through the nose for it
+- @3pgrey But, what if they're just using the images to "look at them" and spur their creative process? To me, that's essentially what the ML users are doing. They're not reselling the images. You could make the case that they're indirectly profiting from work that required your images as one input... but that's the case with any work - it all relies on a myriad of input.
+- also, just to note... nobody is going to hire a photographer to shoot images for purposes of ML. It's completely impractical. You need thousands and thousands of images of similar objects in all different kinds of situations - and most of them are crap for any other use (think - random people's cell phone pix). Might it be possible for someone to have a business like "sell me all your duds for a penny each"? possibly. But, there's no reason for anyone to hire skilled photographers for this kind of work.
+- The status of derivative works isn't as clear cut as you make it sound... and copyright doesn't exist to control use, it's for controlling distribution of copies, which is only one narrow aspect of use.
+- @David, does a CC license allow work to be sold for profit? (I'm sure Flickr got paid by IBM for access to this dataset, for starters, and IBM sure as heck will profit from the photographers' work.)
+- @Olifaunt There are various CC licences, some allow for non-commercial usage only, others do allow for commercial usage. However, if IBM paid Flickr anything is irrelevant as the photos were licensed by the individuals to IBM (or anyone else wanting to use them), not by Flickr.
+- Well, there are ways to make a site less prone to scraping but it cannot be avoided. If people do not want this to happens they should simply make the picture private or not put the on any site.
+- No, they should not be publishing the photos under the license that directly allows for this. It's as simple as that.
+- can people understand  its your own damnable fault ?, your holding your collective photos wrong!
+- it could not care less to me...
+- You care enough to read the article and post on it.  So i believe you could have cared less.
+- "Ultimately, the current copyright system that's intended to prevent other people profiting from creative works, wasn't necessarily designed to protect your images from this type of use."
+- For those countries who are signatories of the Berne Convention I would have thought this is precisely what copyright is intended to do. The copyright owner controls who can license it, for profit or otherwise. To a large extent, within "fair use" constraints, the copyright owner also controls how and by whom their material may be licensed.
+- Well the Thing with AI research is that your image is not duplicated. The AI just looks at the image, creates a few data points and moves on. Your image cannot be recreated from that data. So it is more derivative work than a copy of your image
+- This is not "fair use" question - people chose the license that directly allows for this to happen.
+- google photo is the best way to "Quietly" use your back up photo for facial recognition and machine learning "for FREE".
+- No, they just licensed them to Getty, while bouncing the users back and forth in order to regain their ownership rights, claiming they are in their full rights to do so, based on some tiny print somewhere... Getty and Flickr, please get ethical!
+- This has nothing to do with Getty. This is purely about images licensed as Creative Commons.
+- Agreed, but it has everything to do with their twisted license language.
+- There is nothing twisted about CC licenses. You just have yo actually read them before choosing them.
+- I'm not sure I like where this is all going.   Every time I turn on the news, Skynet is getting more and more feasible.
+- @Hello - I'm telling Skynet. You'll be sorry.
+- It's simple, the images you create are your property, or the property of the client which commissioned them; depending on the contract.
+- Don't upload them - they'll be nicked.
+- "Don't upload them - they'll be nicked"
+- Yep, that just about covers it. Lots of very unethical people around stealing anything that's in the public domain. Trying to track down people who steal images is very difficult, very time-consuming and hardly ever results in compensation.
+- I've had literally hundreds of images (and text) stolen from my website, despite clear notices stating that I own the copyright. Many of them have been reproduced, without permission or payment, on commercial websites.
+- No. This story is about a different thing:1. You upload the photos and directly allow anyone to use them. 2. You complain when someone uses them.
+- "Lots of very unethical people around stealing anything that's in the public domain. "How can they be stealing when it is in the public domain?Doesn't it mean it is already there for anyone to use in any way they want when you place it in the public domain???
+- @sh10453: That's why there is a difference between the "Creative Commons" license and public domain. Please read the Creative Commons license! It comes in different flavours, with or without commercial use, with or without derivative works. It's basically "fair use" put into legalese.
+- sh10423 - let me clarify what I mean by putting something in the public domain, with a couple of examples:
+- 1 - A library has several thousand copyright-protected books on its shelves, all freely available for the public to *read*. That doesn't give anyone the write to reproduce the text in those books and sell it for their own commercial benefit. That is theft.
+- 2 - A photographer exhibits his photographs in a gallery on his own website, clearly stating that he owns the copyright, and expressly stating that the images cannot be reproduced without prior permission. They are there purely to be *viewed*. He then finds that someone has downloaded them without consent and used them to promote a product for commercial gain. That also is theft.
+- @entoman you have no idea what Public Domain means do you? https://wiki.creativecommons.org/wiki/public_domain
+- Putting something online on a website which is publicly accessible is not the same as releasing content in the public domain...
+- According to Dictionary.com:pub·lic do·mainnounnoun: public domain; plural noun: public domainsthe state of belonging or being available to the public as a whole, and therefore not subject to copyright.[Example:] "the photograph had been in the public domain for 15 years"==========Wikipedia:The public domain consists of all the creative works to which no exclusive intellectual property rights apply. Those rights may have expired,[1] been forfeited,[2] expressly waived, or may be inapplicable.[3]
+- sh10453 - Fair enough, but presumably you still get my point?
+- Being on public display is totally different from being in the public domain.
+- sh10423 - Yes you've made that point and I've acknowledged it, but you are being pedantic about wording, and avoiding the point.
+- Which is that work that is expressly marked as *not* being available for free reproduction, is very commonly being downloaded and reproduced elsewhere for commercial gain.
+- Do you or do you not accept that that is *theft* ?
+- The images being used for these purposes aren't coming from professional photographers. They're coming from your average person with a cell phone, who doesn't really care if their photos being used under Creative Commons licenses, and will never see their images in some unexpected place.  There's no need for professional-quality photos for this kind of use. it's all about quantity and variety - not quality.
+- jjl - No, there are a considerable number of professional photographers (including myself, although I'm now retired) who post images on their own websites, only to find that they've been stolen and used without permission or payment elsewhere.
+- entoman, you are talking about a completely different scenario.Pictures on your website ... etc. are not in the "public domain".Please try to understand the difference between public display and public domain.
+- sh10423 - Read my last post to you, and answer the question!
+- Well ... not necessarily. If you upload an image to a site that permits the usage reported here, and your photos are subsequently used, then they have not been nicked.
+- If you want your photos to remain under your control, simply don’t upload them. That is all that needs to be said.
+- In other words, it was fake news?
+- No, I'm afraid Don MacAskill mis-represented what the article said, and then used that misrepresentation to attack it.
+- If you read it with some care, the piece does not state the IBM images were scraped from Flickr, but that other photographic data sets used elsewhere have been.
+- The question the article raises about people's understanding of the CC licence and what (perhaps unexpected) uses it permits is valid.
+- Actually, that's not true. I saved an HTML and PDF copy of the article as soon as I read it, and it has been changed since publication, but without a mention in the CORRECTION section. Here's a screenshot of the article saying IBM scraped the data: https://cl.ly/dc17804631d0/Image%2525202019-03-15%252520at%2525206.46.06%252520PM.png
+- I have asked for a correction: https://twitter.com/DonMacAskill/status/1106734273015349248
+- @DonMacAskill: Thanks for chiming in. We too noticed the discrepancy in NBC News' original article in regards to the correction.
+- Great catch @DonMacAskill !  This is a low for NBC.
+- To be honest, in this digital age, the ability and willingness of media to retroactively change their stories smells so much like 1984 it's not even funny. This should be *the* story to cover.
+- I stand corrected, Don. I apologise and withdraw my comment.
+- Checking archive.org, their first capture of the article is at 13:47 GMT matches your screen shot.
+- Your tweet was at 15:22 GMT
+- The wording had been changed by the time of archive.org's next capture at 16:16 GMT
+- Leica introduces a tilt screen, USB-C and HDMI ports, 8K video and more to the Q-series.
+- With a bigger battery and better video capabilities, the Fujifilm X-S20 could be the vlogging machine content creators have been waiting for.
+- The Nikon Z8 is a $4000 Stacked-CMOS full-frame mirrorless camera that offers most of the capabilities of the range-topping Z9 but in a smaller, less expensive body.
+- The Canon EOS R10 is compact, mid-level 24MP APS-C mirrorless camera built around Canon's RF mount. We look into whether it offers more than your smartphone.
+- Leica has announced a mono-only version of its M11 60MP manual focus rangefinder. We've been taking a look at what it offers and what it's like to shoot with.
+- Above $2500 cameras tend to become increasingly specialized, making it difficult to select a 'best' option. We case our eye over the options costing more than $2500 but less than $4000, to find the best all-rounder.
+- There are a lot of photo/video cameras that have found a role as B-cameras on professional film productions or even A-cameras for amateur and independent productions. We've combed through the options and selected our two favorite cameras in this class.
+- What’s the best camera for around $2000? These capable cameras should be solid and well-built, have both the speed and focus to capture fast action and offer professional-level image quality. In this buying guide we’ve rounded up all the current interchangeable lens cameras costing around $2000 and recommended the best.
+- Family moments are precious and sometimes you want to capture that time spent with loved ones or friends in better quality than your phone can manage. We've selected a group of cameras that are easy to keep with you, and that can adapt to take photos wherever and whenever something memorable happens.
+- What's the best camera for shooting sports and action? Fast continuous shooting, reliable autofocus and great battery life are just three of the most important factors. In this buying guide we've rounded-up several great cameras for shooting sports and action, and recommended the best.
+- The latest Leica Q camera ups the megapixels but retains Leica's legendary colors. Peep at our sample gallery here.
+- Instagram's own @iamthecatphotographer on the magic of giving cats a little bit of nip.
+- The new Fujifilm X-S20 may have an older sensor, but it's a capable stills camera nevertheless. See our pre-production sample gallery and assess its image quality for yourself.
+- The Leica Q3 is here. We had a few days to test it out – click through to watch our initial thoughts.
+- Leica introduces a tilt screen, USB-C and HDMI ports, 8K video and more to the Q-series.
+- With a bigger battery and better video capabilities, the Fujifilm X-S20 could be the vlogging machine content creators have been waiting for.
+- Wanna go wide? This 12mm equivalent lens is a compact addition to any X-mount camera, and the widest entry in the Fujifilm lineup.
+- If you have a Bluetooth-enabled Fujifilm camera of recent vintage, you're about to get a big app upgrade.
+- The R100 is Canon's smallest and lightest EOS R camera, aimed at entry level users to bring those seeking hybrid functions into the RF lens mount.
+- Canon has announced the RF 28mm F2.8 STM, a $300 pancake prime lens for its RF system. It will act as a wide-angle for full-frame cameras or as 45mm equivalent normal lens on APS-C bodies.
+- 
+- Sony has updated the ZV-1 Type 1 vlogging compact with the addition of an 18-50mm equivalent F1.8-4.0 lens.
+- DPReview visited their local camera store, Glazer's Photo, to ask photography's frontline workers about the state of the industry.
+- Known for creating iconic sports photos with high school athletes, Brad Deel talks about his famous flaming tennis ball shot.
+- We’re putting the finishing touches on the EOS R7 review. In the meantime, sink your teeth into our updated sample image gallery for a sense of real-world IQ (and a taste of springtime in Seattle).
+- The fast-developing field of machine learning promises to take over the tedious tasks of culling and editing photos so you can be behind the shutter button where you belong. But is it quite ready for prime time yet?
+- Camera that make you go hmmm...
+- Taking inspiration from film lenses of yesteryear, Pentax's newest lens comes in two flavors.
+- In a pair of video updates Pentax shares a glimpses of its hopes and plans for future film cameras.
+- Is something in your photo distracting the viewer? Sure, you could go old-school and break out the Clone Stamp, but new tools and features, including AI-assisted technologies, give you more options for removing unwanted elements in far less time.
+- We go hands-on with the brand new Nikon Z8 and take a look at all its features. Does it handle like the Z7 or bolster its status as a 'mini Z9' with its design?
+- You'll need the latest hardware to download Final Cut Pro for iOS. And the app is only available via a subscription.
+- The Nikon Z8 combines some of the best aspects of the Z9 and Z7 II in one camera. But what if you already own both?
+- Select and scale subjects in the frame or even expand the parameters of a composition all with just a few taps of the screen.
+- The Pixel 7a also gets an improved display, wireless charging, and Google's latest chipset and security features.
+- An update from DPReview.com's general manager.
+- We got our hands on a pre-production Nikon Z8 and decided to take it for a spin around New York City. Check out our sample gallery and see how the image quality stacks up.
+- Canon has announced the PowerShot V10, a 'Flip'-like selfie camera for vloggers. The V10 is a 4K-capable compact camera with a Type 1 sensor and 19mm-equiv ultra-wide lens.
+- The Nikon Z8 is a $4000 Stacked-CMOS full-frame mirrorless camera that offers most of the capabilities of the range-topping Z9 but in a smaller, less expensive body.
+- The Nikon Z8 has arrived. Here's our first look at the camera after shooting with it for a day in New York City.
+- Gear is just half the equation, having a good method for managing your files will help ensure your treasures are here for years to come.
+
+URL: https://www.cnbc.com/2019/01/29/ibm-releases-diverse-dataset-to-fight-facial-recognition-bias.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- IBM thinks the data being used to train facial recognition systems isn't diverse enough.
+- The tech giant released a trove of data containing 1 million images of faces taken from a Flickr dataset with 100 million photos and videos.
+- The images are annotated with tags related to features including craniofacial measurements, facial symmetry, age and gender.
+- Researchers at the company hope that these specific details will help developers train their artificial intelligence-powered facial recognition systems to identify faces more fairly and accurately.
+- "Facial recognition technology should be fair and accurate," John Smith, a fellow and lead scientist at IBM, told CNBC by email. "In order for the technology to advance it needs to be built on diverse training data."
+- Smith stressed the importance of variety in datasets for facial recognition systems to reflect real-world diversity and reduce the rate of error in matching a face to a person.
+- "Many prominent datasets used in the field are too narrow and fall short in coverage and balance," he said. "The data does not reflect the faces we see in the world."
+- Experts have warned on the potential for artificial intelligence to be biased. Research has shown that facial recognition technology is much more adept at making out the faces of white males than it is with minorities.
+- IBM itself has been the target of criticism over its facial recognition system. A paper by MIT researcher Joy Buolamwini, published last year, found that IBM Watson's visual recognition platform had an almost 35 percent error rate when it came to identifying darker-skinned females, and a less than 1 percent error rate for identifying lighter-skinned males.
+- IBM said that Watson's updated visual recognition service "uses broader training datasets and more robust recognition capabilities" than the one evaluated by the MIT researcher in her initial study. In a recently updated version of Buolamwini's research, the academic noted improvement in IBM's facial recognition system when it came to identifying darker-skinned females — however the error rate for that category still stood at almost 17 percent.
+- Studies like Buolamwini's have heightened concerns over the use of facial recognition in areas like law enforcement, and the potential for AI-powered racial profiling. The U.K.'s Metropolitan Police is testing facial recognition, while Chinese AI firm SenseTime assists local authorities in identifying crime suspects with the use of its facial recognition technology.
+- A 2016 report by the Center for Privacy and Technology at Georgetown University's law school said that African Americans would be disproportionately affected by police face recognition systems as they are disproportionately targeted for arrests.
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://www.theregister.co.uk/2020/01/27/ibms_facial_recognition_software_gets_it_in_trouble_again/
+
+URL: https://mashable.com/article/ibm-flickr-images-training-facial-recognition-system/?europe=true
+- If your face has ever appeared in a photo on Flickr, it could be currently training facial recognition technology without your permission.
+- As per a report by NBC News(opens in a new tab), IBM has been using around one million images from the image-hosting platform to train its facial recognition AI, without the permission of the people in the photos.
+- In January, IBM revealed its new "Diversity in Faces" dataset(opens in a new tab) with the goal to make facial recognition systems fairer and better at identifying a diverse range of faces — AI algorithms have had difficulty in the past recognising women and people of colour.
+- Considering the potential uses of facial recognition technology, whether it be for hardcore surveillance, finding missing persons, detecting celebrity stalkers, social media image tagging, or unlocking your phone or house, many people might not want their face used for this type of AI training — particularly if it involves pinpointing people by gender or race.
+- IBM's dataset drew upon a huge collection of around 100 million Creative Commons-licensed images(opens in a new tab), referred to as the YFCC-100M dataset and released by Flickr's former owner, Yahoo, for research purposes — there are many CC image databases(opens in a new tab) used for academic research into facial recognition, or fun comparison projects.
+- IBM used approximately one million of these images for their own "training dataset." According to NBC, which was able to view the collection, these have all been annotated according to various estimates like age and gender, as well as physical details — skin tone, size and shape of facial features, and pose.
+- But while IBM was using perfectly fine Creative Commons images, the company hadn't actually informed those whose faces appear in the almost one million images what their actual faces, not just images, were being used for.
+- Sure, the image subjects may have given permission for a photo of themselves to be uploaded to Flickr and listed under a CC license, but those subjects weren't given a chance to give consent for their faces to be used to train AI facial recognition systems.
+- NBC talked to several people whose images had appeared in IBM's dataset, including a PR executive who has hundreds of images sitting in the collection.
+- “None of the people I photographed had any idea their images were being used in this way,” Greg Peverill-Conti told the news outlet. "It seems a little sketchy that IBM can use these pictures without saying anything to anybody."
+- Flickr co-founder Caterina Fake also revealed IBM was using 14 of her photos.
+- "IBM says people can opt out, but is making it impossible to do so," she tweeted.
+- Want to opt out? It's not that easy, although IBM confirmed to NBC that anyone who would like their image removed from the dataset is able to request it by emailing a link to the company.
+- The only problem? The dataset isn't publicly available, only to researchers, so Flickr users and those featured in their images have no way of really knowing if they're included.
+- Luckily, NBC created a handy little tool(opens in a new tab) if you want to check whether you're included, you just have to drop in your username.
+- Mashable has reached out to IBM for comment.
+- More in
+Artificial Intelligence, Facial Recognition
+- Shannon Connellan is Mashable's UK Editor based in London, formerly Mashable's Australia Editor, but emotionally, she lives in the Creel House.
+
+URL: https://www.itpro.co.uk/technology/33218/ibm-used-flickr-photos-to-train-image-recognition-tech-without-user-consent
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- Although they were used with a Creative Commons Licence, the subjects didn't say they were happy for their faces to be used in research...
+- IBM users Flick images to train its facial recognition tech - but without letting the people involved know, according to reports.
+- The tech businesses used almost a million pictures from the Flickr photo-sharing site to train its platform, but those in the pictures weren't advised the company was going to use their features to determine gender, race or any other identifiable features, such as eye colour, hair colour, whether someone was wearing glasses etc.
+- Is facial recognition fit for purpose? Heathrow rolling out facial recognition tech Facebook to mothball facial recognition in EU
+- The pictures weren't collated by IBM itself - it used a publicly available database of pictures, known as the YFCC100M, which Flickr's parent company Yahoo had collected for research purposes.
+- Although each of the photographers had received permission to take photos of their subjects, this permission didn't extend to research. However, the photos were granted permission for public use under a Creative Commons Licence.
+- "None of the people I photographed had any idea their images were being used in this way," said Greg Peverill-Conti, a PR executive and Flickr photographer. More than 700 of the images he took have been used in Flickr's dataset. "It seems a little sketchy that IBM can use these pictures without saying anything to anybody," he added.
+- However, IBM said those whose images were being used in its research could request that their faces are removed from the library.
+- "We take the privacy of individuals very seriously and have taken great care to comply with privacy principles, including limiting the Diversity in Faces dataset to publicly available image annotations and limiting the access of the dataset to verified researchers. Individuals can opt-out of this dataset," IBM said in a statement.
+- "IBM has been committed to building responsible, fair and trusted technologies for more than a century and believes it is critical to strive for fairness and accuracy in facial recognition."
+- A daily dose of IT news, reviews, features and insights, straight to your inbox!
+- Sam Altman reverses threat to ‘leave Europe’ over AI regulations
+- Tools like ChatGPT will boost cyber crime and cyber security equally
+- GMKtec NucBox G1 review: A highly transportable, and affordable, Windows desktop PC
+- By Rory BathgateMay 24, 2023
+- By Maggie HollandMay 23, 2023
+- By Ross KellyMay 23, 2023
+- By Ross KellyMay 23, 2023
+- By Daniel ToddMay 23, 2023
+- By Daniel ToddMay 23, 2023
+- By Rory BathgateMay 23, 2023
+- By Rory BathgateMay 22, 2023
+- By Ross KellyMay 22, 2023
+- By Ross KellyMay 19, 2023
+- By Ross KellyMay 19, 2023
+- Posted
+- Posted
+- Posted
+- Posted
+- A daily dose of IT news, reviews, features and insights, straight to your inbox!
+- Thank you for signing up to ITPro. You will receive a verification email shortly.
+- There was a problem. Please refresh the page and try again.
+- IT Pro is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+URL: https://www.npr.org/2020/06/09/873298837/ibm-abandons-facial-recognition-products-condemns-racially-biased-surveillance
+- Bobby Allyn
+- IBM announced this week that it would stop selling its facial recognition technology to customers including police departments. The move prompted calls for other tech firms, like Amazon and Microsoft, to do the same.
+                
+                    
+                    Richard Drew/AP
+                    
+                
+hide caption
+- IBM announced this week that it would stop selling its facial recognition technology to customers including police departments. The move prompted calls for other tech firms, like Amazon and Microsoft, to do the same.
+- IBM will no longer provide facial recognition technology to police departments for mass surveillance and racial profiling, Arvind Krishna, IBM's chief executive, wrote in a letter to Congress.
+- Krishna wrote that such technology could be used by police to violate "basic human rights and freedoms," and that would be out of step with the company's values.
+- "We believe now is the time to begin a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies," Krishna said.
+- The nationwide demonstrations following the police killing of George Floyd already have led to changes to police departments around the country - over use of force policies, police misconduct and police contracts.
+- The moment of reckoning over the country's relationship with law enforcement also comes as artificial-intelligence researchers and technology scholars continue to warn about facial recognition software, particularly how some of the data-driven systems have been shown to be racially biased. For instance, the MIT Media Lab has found that the technology is often less successful at identifying the gender of darker-skinned faces, which could lead to misidentifications.
+- "This is a welcome recognition that facial recognition technology, especially as deployed by police, has been used to undermine human rights, and to harm Black people specifically, as well as Indigenous people and other People of Color," said Joy Buolamwini, who conducted the MIT study and is the founder of the Algorithmic Justice League.
+- Nate Freed Wessler, a lawyer with the ACLU's Speech, Privacy, and Technology Project, said while he was encouraged by the news from IBM, other major technology companies are still standing by the software.
+- "It's good that IBM took this step, but it can't be the only company," Freed Wessler told NPR. "Amazon, Microsoft and other corporations are trying to make a lot of money by selling these dangerous, dubious tools to police departments. That should stop right now."
+- At IBM, Krishna, who took over as CEO in April, noted the technology's risk of producing discriminatory results in his announcement dropping "general purpose" facial recognition software.
+- "Artificial Intelligence is a powerful tool that can help law enforcement keep citizens safe," he wrote to Congressional Democrats, who introduced police reform legislation on Monday that would ban federal law enforcement from using facial recognition technology with body-worn cameras. "But vendors and users of AI systems have a shared responsibility to ensure that AI is tested for bias, particularity when used in law enforcement, and that such bias testing is audited and reported."
+- IBM had tested facial recognition software with the New York Police Department, but its adoption by other law-enforcement agencies appears to be limited. Analysts who track IBM have noted that the company's facial recognition did not pull in much revenue, suggesting that the decision perhaps made good business sense.
+- Critics of the surveillance technology who have called on Microsoft and Amazon to make similar commitments say relying on data-mining tools to make public-safety decisions could endanger citizens.
+- "Face recognition systems have much higher failure rates when it comes from people of color and women and younger people, which can them subject them to great harm by police," the ACLU's Freed Wessler said. "Whether to use force, whether to arrest someone, whether to stop someone on the street."
+- Amazon is a major player in facial recognition software. Its Rekognition product has been used by local police departments in Florida and Oregon.
+- The ACLU found in 2018 that the software mistakenly identified 28 members of Congress as people who had been arrested for crimes.
+- And Buolamwini has discovered that when the photos of several prominent black women, including Oprah and Michelle Obama, are scanned by Amazon's technology that the system wrongly states that they are men.
+- Amazon has publicly defended its facial recognition software, saying studies challenging its accuracy have contained misperceptions about how the technology operates.
+- "We know that facial recognition technology, when used irresponsibly, has risks," wrote Matt Wood, general manager of artificial intelligence at Amazon Web Services. "But we remain optimistic about the good this technology‎ will provide in society, and are already seeing meaningful proof points with facial recognition helping thwart child trafficking, reuniting missing kids with parents, providing better payment authentication, or diminishing credit card fraud.
+- Amazon did not return a request for comment on IBM's decision to walk away from facial recognition software.
+- Microsoft, which uses facial recognition technology through its Azure cloud computing services, also did not return a request for comment.
+- Big Tech's use of facial recognition has sparked controversy and legal action for useage beyond law enforcement.
+- In January, Facebook agreed to pay half a billion dollars to settle a class action lawsuit for allegedly violating Illinois consumer privacy laws in its use of facial recognition technology that used face-matching software to guess who appears in photos posted to the social network.
+- Sponsor Message
+- Become an NPR sponsor
+

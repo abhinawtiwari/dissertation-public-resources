@@ -1,0 +1,259 @@
+- Occurred: December 2022
+- Can you improve this page?Share your insights with us
+- An Ohio judge has ruled (pdf) that the scanning of students' rooms before and during remote exams is an invasion of privacy and a violation of the US Fourth Amendment’s protection against unlawful searches in American homes.
+- Cleveland State University student Aaron Ogletree had agreed to a room scan before a chemistry exam. With other people in his home, he took the test in his bedroom, where he had sensitive tax documents spread out on a surface. These documents were visible in the room scan recording and were shared with other students.
+- The university had defended its room scans by saying that it had become common during the coronavirus pandemic and more acceptable to society, that Ogletree was not coerced into scanning his room, and that he could have removed any sensitive documents or have chosen to take the test in a different room.
+- The ruling was applauded by digital rights and privacy groups. Privacy non-profit Fight for the Future said the ruling was a 'major victory' and called on higher learning institutions 'to ban not only room scans, but invasive and discriminatory eproctoring software once and for all.'
+- The Electronic Privacy Information Center (EPIC) filed a complaint (pdf) against Honorlock and four similar proctoring services in December 2020, calling their practices 'inherently invasive.'
+- On its website, Honorlock insists the Cleveland State room scan was conducted via Zoom.
+- Operator: Cleveland State University (CSU)Developer: Honorlock; Zoom Country: USA Sector: EducationPurpose: Detect and prevent cheating Technology: Video; Voice detection; Computer visionIssue: Privacy Transparency: Privacy
+URL: https://honorlock.com/
+
+URL: https://honorlock.com/blog/test-room-scans-best-practices/
+
+URL: https://bbgohio.com/wp-content/uploads/2022/08/MSJ-decision.pdf
+
+URL: https://bbgohio.com/wp-content/uploads/2022/08/Ogletree-MSJ-_-filed.pdf
+
+URL: https://www.eff.org/deeplinks/2022/08/federal-judge-invasive-online-proctoring-room-scans-are-also-unconstitutional
+- Online proctoring companies employ a lengthy list of dangerous monitoring and tracking techniques in an attempt to determine whether or not students are potentially cheating, many of which are biased and ineffective. This week, one of the more invasive techniques—the “room scan”—was correctly deemed unconstitutional by a federal judge in Ogletree v. Cleveland State University. “Room scans” are a common requirement in proctored exams where students are forced to use their device’s camera to give a 360-degree view of everything around the area in which they’re taking a test. Often, this is a personal residence, and frequently a private space, like a bedroom. (A demonstration of a room scan by Proctorio can be seen here.)
+- We have criticized room scans as well as many other dangerous aspects of online proctoring. In addition to these room scans, remote proctoring tools often record keystrokes and use facial recognition to supposedly confirm whether the student signing up for a test is the one taking it; they frequently include gaze-monitoring or eye-tracking and face detection that claims to determine if the student is focusing on the screen; they gather personally identifiable information (PII), sometimes including scans of government-issued identity documents; and they frequently collect device logs, including IP addresses, records of URLs visited, and how long students remain on a particular site or webpage. These automated tools are hugely privacy invasive and can easily penalize students who don’t have control over their surroundings, or those with less functional hardware or low-speed Internet, as well as students who, for any number of reasons, have difficulty maintaining “eye contact” with their device. For these many reasons, schools should use other means beyond invasive remote proctoring to ensure exam integrity, and at the very least, proctoring companies should collect and retain the minimally required amount of data to do so. Often, the users of these tools are unable to opt out of data collection, and by collecting all of this information, proctoring tools endanger young people’s privacy.
+- In this case, a student enrolled in a public university (Cleveland State University) learned he would be required to undergo a room scan shortly before an exam. The court decided correctly that the room scan  was an unreasonable search under the Fourth Amendment. As the court recognized, room scans provide the government with a window into our homes—a space that “lies at the core of the Fourth Amendment’s protections” and long-recognized by the Supreme Court as private. Traditionally, the Fourth Amendment requires a warrant before the government can search in our homes, and that includes searches by government institutions like a state-run university. There are few exceptions to this requirement, and none of the justifications offered by the university—including its interests in deterring cheating and its assertion the student may have been able to refuse the scan—sufficed to outweigh that requirement in this case.
+- Over the last few years, students have rarely had the option to opt-out of using remote proctoring tools, and have been essentially coerced into allowing a third-party, and their school, to collect and retain sensitive, private data about them if they want to pass a class. This opinion, though it is not binding on other courts, is an important one. Any student of a state school hoping to push back against room scans in particular could now cite it as persuasive precedent. As of yet, however, there has been no judgment or injunction, which means what specifically Cleveland State will have to do is not fully determined.
+- The university failed to show room scans like this are "truly, and uniquely, effective at preserving test integrity." We hope schools will recognize, in part thanks to this decision, that this element of remote proctoring is both unnecessary and invasive, and, at least for state schools, unconstitutional. All schools should cease its use.
+- Congress has resurrected the Kids Online Safety Act (KOSA), a bill that would increase surveillance and restrict access to information in the name of protecting children online. KOSA was introduced in 2022 but failed to gain traction, and today its authors, Sens. Richard Blumenthal (D-CT) and Marsha Blackburn (R-TN),...
+- In a preliminary victory in the continuing fight against privacy-invasive software that “watches” students taking tests remotely, a French administrative court outside Paris suspended a university’s use of the e-proctoring platform TestWe, which monitors students through facial recognition and algorithmic analysis.TestWe software, much like Proctorio, Examsoft, and other...
+- In 2022, student privacy gets a solid “C” grade. The trend of schools engaging in student surveillance did not let up in 2022. There were, however, some small wins indicative of a growing movement to push back against this encroachment. Unfortunately, more schools than ever are spying on students through...
+- Last year, several parents at EFF enrolled kids into daycare and were instantly told to download an application for managing their children’s care. These applications frequently include notifications of feedings, diaper changes, pictures, activities, and who picked-up/dropped-off the child—potentially useful features for overcoming separation anxiety of newly enrolled children and...
+- Yesterday, nearly 100 organizations have asked Congress not to pass the Kids Online Safety Act (KOSA), which would “force providers to use invasive filtering and monitoring tools; jeopardize private, secure communications; incentivize increased data collection on children and adults; and undermine the delivery of critical services to minors by...
+- SAN FRANCISCO—The Federal Trade Commission must review the lack of privacy and security protections among daycare and early education apps, the Electronic Frontier Foundation (EFF) urged Wednesday in a letter to Chair Lina Khan.Daycare and preschool applications frequently include notifications of feedings, diaper changes, pictures, activities, and which guardian...
+- Last year, several parents at EFF enrolled kids into daycare and were instantly told to download an application for managing their children’s care. Daycare and preschool applications frequently include notifications of feedings, diaper changes, pictures, activities, and which guardian picked-up/dropped-off the child—potentially useful features for overcoming separation anxiety of newly...
+- Spyware apps were foisted on students at the height of the Covid-19 lockdowns. Today, long after most students have returned to in-person learning, those apps are still proliferating, and enabling an ever-expanding range of human rights abuses. In a recent Center for Democracy and Technology report, 81 percent of...
+- Too many young people – particularly young people of color – lack enough familiarity or experience with emerging technologies to recognize how artificial intelligence can impact their lives, in either a harmful or an empowering way. Educator Ora Tanner saw this and rededicated her career toward promoting tech literacy and...
+- School digital environments are increasingly locked down, increasingly invasive, and increasingly used for disciplinary action. This has never been more troubling than during the pandemic, with schools adopting remote proctoring and surveillance tools at alarming rates and entering students’ homes via school-issued and personal devices. As students have tried to...
+- Back to top
+- Check out our 4-star rating on Charity Navigator.
+
+URL: https://www.fightforthefuture.org/news/2022-08-22-no-more-student-room-scans-statement-on-a-major-victory-over-eproctoring-surveillance
+- 978-852-6457
+- press@fightforthefuture.org
+- Fight for the Future is thrilled to learn of today’s major victory over invasive student surveillance in Cleveland.
+- The following statement can be attributed to Lia Holland (they/she), Campaigns and Communications Director at Fight for the Future:
+- “As the creators of BanEproctoring.com, we applaud Cleveland State University student Aaron Ogletree for suing to halt the invasive and inappropriate “room scans” his university required in order to complete a chemistry test. Such webcam room scans—which often force the student to film their laps and other parts of their bodies in addition to their bedrooms—are a standard feature of eproctoring software. Today, a federal judge in the Northern District of Ohio rightly ruled that these “room scans” constitute unreasonable searches under the Fourth Amendment.
+- Eproctoring software companies took advantage of the COVID-19 pandemic to peddle invasive and often racist software that doesn’t actually work. Schools around the world spent millions to purchase such preventative measures in the name of so-called academic integrity—treating students as guilty until they were proven innocent.
+- Hundreds of thousands of students signed petitions against the gross invasion of their privacy these apps represented, yet those students continued to be treated as threats, not as people. To this day, eproctoring vendors profit off of unmitigated data collection and abuse their access to young people’s private environments. And, all too often, schools require eproctoring software with no concern for how it impacts students of color, neurodivergent students, and low income students.
+- Because Cleveland State was unwilling to admit that they had bought a snake-oil software product that harms students, especially their most vulnerable students, Aaron Ogletree had to sue. Let Aaron’s victory be a warning for other universities that continue to insist on forcing such abusive software on their students. We call on all institutions of higher learning to ban not only room scans, but invasive and discriminatory eproctoring software once and for all!”
+- Next article
+- Statement: Meta must implement end-to-end encryption on all messaging immediately
+- For press inquiries, please contact us at:
+(508) 474-5248 or press@fightforthefuture.org
+- For donation information, please email:
+donor@fightforthefuture.org
+- All other inquiries, contact:
+team@fightforthefuture.org
+- No copyright intended!
+
+URL: https://www.theverge.com/2022/8/23/23318067/cleveland-state-university-online-proctoring-decision-room-scan
+- By  Monica Chin, a senior reviewer covering laptops and other gadgets. Monica was a writer for Tom's Guide and Business Insider before joining The Verge in 2020.
+- An Ohio judge has ruled that a Cleveland State University’s virtual scan of a student’s room prior to an online test was unconstitutional. The ruling marks a victory for digital privacy advocates around the country, who have spoken loudly against the practices of online test proctoring for many years.
+- Chemistry student Aaron Ogletree sat for an online test in the spring 2021 semester. Ogletree was asked to show the virtual proctor his bedroom through his webcam prior to the beginning of the test. A recording of the room scan as well as the testing process that followed was retained by Honorlock, the university’s third-party vendor.
+- Ogletree sued the university on the grounds that the practice violated his rights under the Fourth Amendment, which protects US citizens against “unreasonable searches and seizures”. The university, in defense, argues that “room scans are ‘standard industry wide practice’”, and that “students frequently acquiesce in their use.”
+- Federal Judge J. Philip Calabrese sided with Ogletree yesterday, determining that the university’s room scan did constitute an unreasonable search. “Mr. Ogletree’s subjective expectation of privacy at issue is one that society views as reasonable and that lies at the core of the Fourth Amendment’s protections against governmental intrusion,” Calabrese wrote in the decision.
+- “Mr. Ogletree’s subjective expectation of privacy at issue is one that society views as reasonable.”
+- Many universities around the world use e-proctoring programs that can require room scans or similar practices. In some cases, students are required to show a live proctor their identification and surroundings; in others, they’re recorded and monitored by AI with “suspicious signs” flagged to professors. Such programs have been controversial among students and have received pushback from prominent digital privacy organizations as well as government officials. The Electronic Privacy Information Center filed complaints against Honorlock and four similar proctoring services in late 2020, calling their practices “inherently invasive.”
+- The privacy-focused nonprofit Fight for the Future, which runs the website BanEproctoring.com, has called the ruling a “major victory.”
+- “We applaud Cleveland State University student Aaron Ogletree for suing to halt the invasive and inappropriate ‘room scans’ his university required in order to complete a chemistry test,” Lia Holland, Fight for the Future’s campaigns and communications director, said in a statement. “Let Aaron’s victory be a warning for other universities that continue to insist on forcing such abusive software on their students.”
+- Dave Kielmeyer, Cleveland State University’s associate vice president for marketing and communications, provided the following statement to The Verge: “As directed by the Court, Cleveland State University’s counsel will confer with Mr. Ogletree’s counsel on appropriate next steps. Ensuring academic integrity is essential to our mission and will guide us as we move forward. While this matter remains in active litigation, we are unable to comment further.”
+- Update August 23rd, 3:17PM ET: Added statement from Cleveland State University. This story was originally published at 12:31 p.m.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.npr.org/2022/08/25/1119337956/test-proctoring-room-scans-unconstitutional-cleveland-state-university
+- Emma Bowman
+- In what's believed to be the first case of its kind, a student argued that his university violated his Fourth Amendment rights when it asked him for a webcam recording of his testing space.
+                
+                    
+                    Leon Neal/Getty Images
+                    
+                
+hide caption
+- In what's believed to be the first case of its kind, a student argued that his university violated his Fourth Amendment rights when it asked him for a webcam recording of his testing space.
+- The remote-proctored exam that colleges began using widely during the pandemic saw a first big legal test of its own — one that concluded in a ruling applauded by digital privacy advocates.
+- A federal judge this week sided with a student at Cleveland State University in Ohio, who alleged that a room scan taken before his online test as a proctoring measure was unconstitutional.
+- Aaron Ogletree, a chemistry student, sat for a test during his spring semester last year. Before starting the exam, he was asked to show the virtual proctor his bedroom. He complied, and the recording data was stored by one of the school's third-party proctoring tools, Honorlock, according to the ruling documents.
+- Ogletree then sued his university, alleging that the room scan violated his Fourth Amendment rights protecting U.S. citizens against "unreasonable searches and seizures." In its defense, Cleveland State argued that room scans are not "searches," because they are limited in scope, conducted to ensure academic fairness and exam integrity, and not coerced.
+- U.S. district court Judge J. Philip Calabrese on Monday decided in Ogletree's favor: Room scans are unconstitutional.
+- "Mr. Ogletree's privacy interest in his home outweighs Cleveland State's interests in scanning his room. Accordingly, the Court determines that Cleveland State's practice of conducting room scans is unreasonable under the Fourth Amendment," Judge Calabrese concluded.
+- Since 2020, COVID-19 restrictions have forced students to take remote exams, so universities have come to rely on browser plug-ins and other software from third-party proctor companies to prevent cheating on tests.
+- Civil rights attorney Matthew Besser, who represented Ogletree, described the decision as a landmark case in a post on his firm's blog: "The case appears to be the first in the nation to hold that the Fourth Amendment protects students from unreasonable video searches of their homes before taking a remote test."
+- Digital privacy advocates have raised red flags over online proctoring services' alleged civil liberty violations in recent years.
+- In December 2020, the Electronic Privacy Information Center filed a complaint against five popular proctoring services, including Honorlock, for their "invasive" and "deceptive" data collection practices. Fight for the Future, a nonprofit that created the website BanEproctoring.com, called the decision a "major victory."
+- The opinion documents state that the Ohio university is not aware of any data breaches related to remote exam recordings, and that access to the video is strictly controlled. Other students, however, are able to view each others' room scan recordings.
+- As ordered by the judge, Cleveland State said it will meet with Besser to determine the next steps in the case. Cleveland State spokesperson David Kielmeyer said on Thursday that the school cannot comment on active litigation.
+- "Ensuring academic integrity is essential to our mission and will guide us as we move forward," Kielmeyer said in a statement.
+- The university contested the fact that remote virtual room scans constituted "searches." It argued that the scan was a regulatory process unrelated to criminality, with a goal of exam integrity.
+- The scan of Ogletree's room lasted no more than a minute, and as little as 10 seconds. The defense argued, according to court documents, that the scan was "brief, only revealed items in plain view, and the student controlled the inspection to the extent that the student chose where in the house to take the exam and where in the room to direct the camera."
+- The plaintiff was free to object to the scan, the defense added. A student who refused to perform the exam could still take the test, the school argued, even if opting out meant getting no credit for the exam.
+- The judge didn't agree.
+- "Rooms scans go where people otherwise would not, at least not without a warrant or an invitation. Nor does it follow that room scans are not searches because the technology is 'in general public use,'" Judge Calabrese said.
+- Sponsor Message
+- Become an NPR sponsor
+
+URL: https://arstechnica.com/tech-policy/2022/08/privacy-win-for-students-home-scans-during-remote-exams-deemed-unconstitutional/
+- Front page layout
+- Site theme
+- Ashley Belanger
+    -  Aug 23, 2022 9:16 pm UTC
+- As the pandemic unfolded in spring 2020, an Educause survey found that an increasing number of students—who had very little choice but to take tests remotely—were increasingly putting up with potential privacy invasions from schools. Two years later, for example, it’s considered a common practice that some schools record students throughout remote tests to prevent cheating, while others conduct room scans when the test begins.
+- Now—in an apparent privacy win for students everywhere—an Ohio judge has ruled that the latter practice of scanning rooms is not only an invasion of privacy but a violation of the Fourth Amendment’s guaranteed protection against unlawful searches in American homes.
+- The decision came after a Cleveland State University student, Aaron Ogletree, agreed to a room scan before a chemistry exam, even though his teacher had changed their policy, and he did not expect it to happen before the test. Because there were others in his home, he took the test in his bedroom, where he says he had sensitive tax documents spread out on a surface. These confidential documents, he claimed, could not be moved before the test and were visible in the room scan recording—which was shared with other students.
+- After the test, Ogletree sued Cleveland State for violating his Fourth Amendment rights, and Ohio judge J. Philip Calabrese decided yesterday that Ogletree was right: Room scans are unconstitutional.
+- Before the decision, Cleveland State defended its room-scanning practice by saying that it had become common during the pandemic and, therefore, more acceptable to society.
+- Under the Fourth Amendment, only unreasonable searches are prohibited, and the university did not see their room scans as unreasonable. Part of the school’s logic was that Ogletree knew there would be a room scan and was not coerced into scanning his room. They say he also could have prepared to remove any sensitive documents from the room or simply chosen to take the test in a different room. The university claimed that the room scans were considered so universally harmless by students that nobody ever complained about the practice before Ogletree.
+- Calabrese did not accept this defense, partly because “room scans go where people otherwise would not”—like Ogletree’s bedroom—and partly because the home has always been considered a core protected space where privacy could be reasonably assumed in the US.
+- “Though schools may routinely employ remote technology to peer into houses without objection from some, most, or nearly all students, it does not follow that others might not object to the virtual intrusion into their homes or that the routine use of a practice such as room scans does not violate a privacy interest that society recognizes as reasonable, both factually and legally,” Calabrese wrote.
+- A Cleveland State spokesperson provided Ars with this statement: “As directed by the Court, Cleveland State University's counsel will confer with Mr. Ogletree’s counsel on appropriate next steps. Ensuring academic integrity is essential to our mission and will guide us as we move forward. While this matter remains in active litigation, we are unable to comment further.”
+- Calabrese’s decision came down to what the law considered reasonable for schools attempting to prevent cheating.
+- Ultimately, because Cleveland State unevenly used room scans—they are optional, at the teachers’ discretion—and the school had various other methods to combat cheating, the judge said the room scans could not be considered a justified privacy invasion. He also said that because the pandemic, and Ogletree’s family’s health concerns, prevented the student from accessing other options like in-person testing, any student “who valued privacy” would have to sacrifice the right to privacy at home to remain enrolled. That benefit—unlike the loss of benefits from social support programs without agreeing to a home search by the state—does not outweigh the loss of privacy to citizens, Calabrese wrote.
+- Another issue Calabrese had with Cleveland State’s argument was that the school didn’t provide much evidence showing the room scans work all that well to prevent cheating. The plaintiff provided evidence that it doesn’t always work, though. The judge suggested that perhaps there isn’t enough evidence of the efficacy of room scans because the practice is so new, but it seems likely his decision could shut down the practice at schools nationwide before any study could be conducted to support any future claims from schools.
+- Calabrese cited one of the earliest slippery slope arguments in Supreme Court history in his decision supporting Ogletree’s right to privacy. Ultimately, he wrote, although conducting room scans could be considered relatively harmless, its unconstitutionality represented “the obnoxious thing"—in this case, warrantless searches—“in its mildest and least repulsive form.” That’s how “illegitimate and unconstitutional practices get their first footing,” the cited Supreme Court opinion reads, “by silent approaches and slight deviations from legal modes of procedure.” In his opinion, Calabrese seems to suggest that universities conducting room scans may open the door for illegal searches and, therefore, cannot be condoned.
+- Ogletree's legal team confirmed to Ars that he is still enrolled at Cleveland State but said that he had no further comment at this time.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://futurism.com/the-byte/anti-cheating-software-scans-rooms-unconstitutional
+- A federal judge just sided with a Cleveland State University student, finding that anti-cheating software used by the institution that scanned his room was unconstitutional, NPR reports.
+- The creepy third-party "e-proctoring" tool, called Honorlock, asks students to get a virtual scan of students' rooms via a webcam.
+- The decision is significant, and could serve as a precedent for millions of students in the country. It's particularly relevant because the use of tools like Honorlock has taken off since the beginning of the COVID-19 pandemic, with many more students taking exams remotely than before.
+- Now, US district court judge J. Philip Calabrese decided in chemistry student Aaron Ogletree's favor, arguing that these room scans go against his Fourth Amendment rights.
+- "Mr. Ogletree's privacy interest in his home outweighs Cleveland State's interests in scanning his room," Calabrese's ruling reads.  "Accordingly, the Court determines that Cleveland State's practice of conducting room scans is unreasonable under the Fourth Amendment."
+- Civil rights attorney Matthew Besser called the decision a "landmark" in a blog post, writing that it was the "first in the nation to hold that the Fourth Amendment protects students from unreasonable video searches of their homes before taking a remote test."
+- Ogletree's complaints mirror those filed by other privacy advocates, who have long argued tools like Honorlock unfairly invade students' privacy.
+- Cleveland State University, however, maintained that remote virtual room scans don't amount to "searches" and that Ogletree could've opted out, resulting in getting zero credit for the exam.
+- But that defense didn't hold with Calabrese arguing that "rooms scans go where people otherwise would not, at least not without a warrant or an invitation."
+- "Nor does it follow that room scans are not searches because the technology is 'in general public use,'" he added in his verdict.
+- READ MORE: Scanning students' rooms during remote tests is unconstitutional, judge rules [NPR]
+- More on exams: College Students Say Crying In Exams Activates "Cheating" Eye Tracking Software
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://www.insidehighered.com/quicktakes/2022/08/24/webcam-scans-remote-tests-violate-student-privacy-judge-rules
+- By 
+
+Susan D’Agostino
+- You have /5 articles left.Sign up for a free account or log in.
+- Cleveland State University violated a student’s privacy when a virtual proctor required a webcam scan of the student’s room before a remote test, a federal judge ruled Monday.
+- Aaron Ogletree was asked to scan his bedroom with a webcam prior to taking an online chemistry test in the spring 2021 semester. He tried to object to the request, citing confidential tax documents in the area, but ultimately complied. The recorded scan lasted less than one minute and was retained by a third-party vendor of the university. Ogletree subsequently sued the university, stating that the scan violated his Fourth Amendment right that guards “against unreasonable searches and seizures.”
+- Cleveland State argued that the room scan was not a “search” because it was brief, limited in scope and conducted for noncriminal purposes. The university also argued that the inspection was “reasonable” because it happened during business hours, was not an attempt to “snoop” and did not involve law enforcement, and that the practice was a standard industry practice with which students typically cooperate.
+- Judge J. Philip Calabrese ruled, however, that the student had a reasonable expectation of privacy in his home.
+- Dave Kielmeyer, Cleveland State’s associate vice president for marketing and communications, told The Verge, “As directed by the Court, Cleveland State University’s counsel will confer with Mr. Ogletree’s counsel on appropriate next steps. Ensuring academic integrity is essential to our mission and will guide us as we move forward. While this matter remains in active litigation, we are unable to comment further.”
+- Colleges’ use of online proctoring software and services has been growing, as has controversy surrounding it.
+- The nuns who founded Notre Dame College in Ohio are cutting ties.
+- Subscribe for free to Inside Higher Ed’s newsletters, featuring the latest news, opinion and great new careers in higher education — delivered to your inbox.
+- View Newsletters
+- Resources for faculty and staff from our partners at Times Higher Education.
+- Copyright © 2023 Inside Higher Ed All rights reserved. | Website designed by nclud
+
+URL: https://www.highereddive.com/news/test-proctoring-room-scans-violated-college-students-privacy-judge-rules/630340/
+- Let Higher Ed Dive's free newsletter keep you informed, straight from your inbox.
+- 
+- The lawsuit could have heavy implications for colleges and virtual proctoring companies, which exploded during the pandemic as institutions were forced to hold their exams online. While many colleges enlist these companies to keep their exams secure, vendors have faced accusations that they violate student privacy and use facial recognition technology that has a history of racial bias.
+- Cleveland State contracts with two online proctoring vendors, Respondus and Honorlock, according to court documents. Each of these tools has prerecorded instructions requiring students taking remote exams to scan their rooms via their webcams, even though Cleveland State doesn’t require or recommend such scans in written policies.
+- In February 2021, the university notified Ogletree that he would be subject to a room scan during his remote chemistry exam. While he complied, he later sued the university for violating his privacy rights, arguing that ongoing health issues precluded him from opting out of the room scan by attending exams in person.
+- U.S. District Judge J. Philip Calabrese ruled in Ogletree’s favor, arguing that the home lies at the center of the Fourth Amendment’s protections.
+- “Though the intrusion in this case was not physical, the same principles protecting the sanctity of the home apply to a visual intrusion conducted through remote technology,” Calabrese said in his ruling.
+- The institution could use alternatives to tests for assessing students, such as final projects or papers, which would eliminate the need for room scans, Calabrese wrote. He also argued that Cleveland State did not provide enough evidence to show room scans were effective.
+- “Perhaps experience with room scans is too recent or not extensive enough to offer much in this regard,” he wrote. “Whatever the case, a record of sporadic and discretionary use of room scans does not permit a finding that rooms scans are truly, and uniquely, effective at preserving test integrity."
+- The judge directed lawyers in the case to confer on the next appropriate steps, such as whether to enter a declaratory judgment or injunction. They must submit a status report by Sept. 12.
+- “Ensuring academic integrity is essential to our mission and will guide us as we move forward,” Cleveland State said in a statement. “While this matter remains in active litigation, we are unable to comment further.”
+- Get the free daily newsletter read by industry experts
+- Data from the National Student Clearinghouse Research Center offers hope that enrollment isn't continuing a steep pandemic-era plunge.
+- The ed tech company made big changes in the past year to lower expenses, but it still has a long way to go before it’s out of the red.
+- Subscribe to Higher Ed Dive for top news, trends & analysis
+- Get the free daily newsletter read by industry experts
+- Data from the National Student Clearinghouse Research Center offers hope that enrollment isn't continuing a steep pandemic-era plunge.
+- The ed tech company made big changes in the past year to lower expenses, but it still has a long way to go before it’s out of the red.
+- The free newsletter covering the top industry headlines
+
+URL: https://www.deeplearning.ai/the-batch/court-blocks-ai-assisted-proctoring/
+- Take our new course: ChatGPT Prompt Engineering for Developers! Learn for Free
+- A U.S. court ruled against an implementation of AI-powered software designed to catch students who cheat on academic examinations.
+- What’s new: A federal judge determined that Cleveland State University’s use of Honorlock, a system that scans students’ behavior and surroundings for signs of cheating, violates their rights, National Public Radio reported.
+- How it works: Students install Honorlock as a web browser extension and permit access to the computer’s microphone and camera.
+- The case: In 2021, Cleveland State University student Aaron Ogletree sued the school for subjecting him to a virtual room scan, which he claimed violated his Constitutional protection against unreasonable searches. He complied with the scan but filed suit later. The university argued that a room scan doesn’t constitute a search because it’s limited in scope and conducted to ensure academic integrity. The judge ruled that the university had violated Ogletree’s rights.
+- Behind the News: Scientific investigations of other AI-powered proctoring systems have reached conflicting conclusions about their effectiveness.
+- Why it matters: Automated proctoring has value, especially in the era of remote education. Although the ruling against Cleveland State applies only to that school, it raises questions about the legality of such automated room scans nationwide.
+- We’re thinking: While the judge's decision ostensibly affects AI-powered proctor software, many institutions use human proctors who might occasionally request a manual room scan. The underlying question —  what proctoring methods are reasonable, ethical, fair, and legal? — is independent of whether machines or humans should do the job.
+- Stay updated with weekly AI News and Insights delivered to your inbox
+
+URL: https://www.abajournal.com/web/article/university-that-scanned-students-room-during-remote-test-violated-fourth-amendment-judge-rules
+- By Debra Cassens Weiss
+- August 25, 2022, 2:05 pm CDT
+- 
+- Cleveland State University in 2016. Photo by k_e_lewis, CC-BY-2.0, via Wikimedia Commons.
+- Cleveland State University violated the Fourth Amendment when its proctor ordered a scan of a student’s bedroom during a remote chemistry exam, a federal judge has ruled.
+- U.S. District Judge J. Philip Calabrese of the Northern District of Ohio granted summary judgment to student Aaron Ogletree in an Aug. 22 opinion.
+- Ogletree’s lawyer, Matthew Besser, told Cleveland.com that he thinks that the ruling is the first of its kind in the country.
+- Ogletree had complied with the proctor’s request to perform the room scan in February 2021, even though he objected beforehand because of tax documents in his bedroom. The scan, which lasted less than a minute, was recorded. Other students taking the test can also see the room scans.
+- The school had argued that Ogletree’s expectation of privacy was objectively unreasonable. It cited U.S. Supreme Court cases upholding aerial warrantless searches that discovered marijuana plants, including the 1989 decision in Florida v. Riley.
+- Calabrese said the Supreme Court cases “build on the traditional notion that governmental officials, lawfully in a public place, do not conduct unlawful searches simply by observing things in plain view. But the room scans peer behind walls and make visible places outside the ambit” of the marijuana cases.
+- “Here, the room scan occurred in plaintiff’s house, in his bedroom, in fact. At the Fourth Amendment’s ‘very core’ lies ‘the right of a man to retreat into his own home and there be free from unreasonable governmental intrusion,’” wrote Calabrese, citing a Supreme Court case involving a police dog that sniffed for drugs on the porch of a home. “Rooms scans go where people otherwise would not, at least not without a warrant or an invitation.”
+- Ogletree’s suit sought injunctive and declaratory relief. Calabrese ordered lawyers for both sides to confer on appropriate next steps.
+- Hat tip to the Verge and Ars Technica, which had coverage of the opinion along with Cleveland.com.
+- 
+
+URL: https://www.teenvogue.com/story/remote-proctoring-services-lawsuits
+- By Kristy P. Kennedy
+- Aaron Ogletree felt embarrassed as he panned his laptop’s webcam around his bedroom before taking an online test in his chemistry class.
+- According to his original legal complaint, his bedroom was on display to other Cleveland State University students (CSU) taking the test and to the proctor, who recorded a scan of it for signs of possible cheating. In the process of painting his room, Ogletree recalled in a deposition, he didn’t have access to a storage space where he could have put away some things for privacy’s sake. Prescription medications were on his nightstand; important, confidential tax documents sat facedown in a pile on his desk. Ogletree said he was worried people would be able to see through the thin paper, and then, as he panned the laptop, his arm brushed over the tax papers, exposing some personal information.
+- Although the scan took less than a minute and the test proctor later said in a deposition that she had not noticed the medication or papers, this was what Ogletree had hoped to avoid, according to court filings. While living at home with his mother and two younger siblings, his bedroom was the only place for him to take a test without interruption. Ogletree first objected to the room-scanning policy after spotting it mentioned in his spring 2021 class syllabus, and after speaking up, was later relieved to see it had been removed.
+- Then, according to his complaint, a couple of hours before the test, he learned the scan was happening after all. This time he threatened to sue, but because he feared getting a zero, he allowed it.
+- Afterward, Ogletree felt strongly that his Fourth Amendment rights protecting him against unreasonable search and seizure had been violated. He drafted a complaint, then filed a suit against the university in federal court pro se, or on his own behalf.
+- In August, he won.
+- After more than a year of depositions and numerous court filings, Judge J. Philip Calabrese of the US District Court for the Northern District of Ohio agreed with Ogletree. In his ruling, Judge Calabrese said, “Mr. Olgetree’s privacy interest in his home outweighs Cleveland State’s interests in scanning his room,” and ordered attorneys on both sides to come back with potential remedies for the case. (Those are pending, with the next status report due on November 28.)
+- For now, it appears Cleveland State, which filed plans to appeal the court ruling, will continue to allow room scans for remotely proctored exams. In an email sent to students and filed with the court, CSU told students that they would not be permitted to take remotely proctored exams unless they were willing to conduct a room scan, and that students should find other locations where they wouldn’t be interrupted if they didn’t wish to have their home or dorm rooms scanned.
+- The school suggested students use testing centers at CSU and area community colleges, or libraries. In the same email, CSU informed students that room scans would only be visible to "CSU officials with a legitimate need to review the video"; students would no longer be able to see other students' room scans. Meanwhile, Ogletree's attorneys filed a motion requesting the court to instruct Cleveland State to stop the use of room scans, saying the suit was on behalf of all students.
+- Ogletree, 25, was unavailable for comment, but his attorney, Matthew Besser, says the case is significant as he believes it is the first of its kind. “The very core of the Fourth Amendment is protection of privacy in the home, for protecting from unreasonable government intrusion,” he explains. “This virtual snooping really struck at the heart of that. It’s a really important case.”
+- With the explosion of online learning during the pandemic, many universities and colleges increasingly turned to online proctoring as a way to combat potential cheating and to preserve the integrity of the assessments and grades they give students. A 2021 study by the parent company of ProctorU, a remote-proctoring service, analyzed 3 million exam sessions overseen by the company. It found that 6.6% of test-takers engaged in “provable cheating,” an increase over results from previous years. (As Teen Vogue has reported, disabled students and people with some medical conditions are more likely to be falsely flagged as cheating by e-proctoring software.)
+- The question many schools now find themselves grappling with is how to balance the integrity of assessments and grades with student rights. It appears, too, that courts and legislative systems are starting to deal with these issues.
+- After complaints from staff and students, the University of Illinois Urbana-Champaign (UIUC) discontinued the use of the remote-proctoring service Proctorio in summer 2021. University officials cited “issues related to accessibility, privacy, data security, and equity.” In a petition, student objections focused on privacy concerns. UIUC currently uses ProctorU for some Illinois online assessments and in some other cases.
+- Meanwhile, several e-proctoring lawsuits have been filed against universities in Illinois, including Northwestern and DePaul. They allege violations of the same biometric privacy act that led to huge class action settlements against companies like Facebook and Google Photos (neither has admitted wrongdoing). The 2008 law protects Illinois residents’ biometric data, people’s physical characteristics, by barring private companies and institutions from collecting and storing the data without people’s consent. The law also allows residents to sue for violations.
+- In California, lawmakers recently passed the Student Test Taker Privacy Protection Act, which keeps proctoring services from collecting, using, retaining, or disclosing a student’s personal information except when strictly providing proctoring services or in other specific cases, such as complying with a court order. The idea is to limit the intrusion of privacy by minimizing the amount of data that can be collected.
+- Aliza Kopans, a sophomore at Brown University, cofounded an organization called Tech(nically) Politics to give young people a voice on their experiences with technologies like social media. The group sends recorded testimonials by young people to lawmakers. Kopans has never experienced an online proctored exam, but said the concept makes her uncomfortable. “That freaks me out on so many levels,” she tells Teen Vogue. A big concern for her is that students don’t have the power to say no if they want to take a test.
+- By Steffi Cao
+- By Ashleigh Carter
+- By Kristi Kellogg
+- That lack of negotiating power makes students vulnerable, says Sara Geoghegan, counsel for EPIC (Electronic Privacy Information Center), which filed a complaint against five online test-proctoring services claiming they violated students’ privacy rights. She describes her experience taking the 2020 Illinois bar exam, a proctored test she couldn’t object to if she wanted to practice law. Because Geoghegan took the exam from a multiunit housing complex in Chicago, she worried about noise. She posted signs asking people to be quiet, fearful that a post office worker on the phone while delivering mail or a parent talking to a child or a dog barking in a neighboring unit could set off a red flag that she was potentially cheating.
+- “We should be focused on education, not surveillance,” Geoghegan says. She thinks the pushback against schools and proctoring companies is appropriate. “Students should not have to trade over-broad data collection [as alleged in the EPIC complaint] in order to receive or earn an education.”
+- Critics of e-proctoring say problems aren’t limited to privacy issues. Students of color have reported issues with facial recognition software when they had trouble checking in to take exams. Others are concerned that programs to track facial movements might unfairly flag a student with tics, and others worry about access to reliable internet service.
+- In 2020, Sen. Richard Blumenthal (D-CT) and five other senators sent a letter to three of the largest testing companies with questions about their practices. Student privacy, accessibility, and equity were among their concerns.
+- The companies — Proctorio, ExamSoft, and ProctorU — responded with detailed explanations about their practices and operations. All said they follow privacy and accessibility laws and have practices in place to protect privacy. "Our practices include limiting the collection, use, disclosure, and storage of test-taker personally identifiable information (PII) and implementing measures to secure such data," the Proctorio letter stated. (EPIC has copies of all the letters on its website.)
+- The issue is far from being resolved. “Remote learning isn’t going away any time soon,” Besser says. “How it will be balanced with respect for student privacy is very much still to be decided.”
+- It will take young people like Ogletree, who started college with an interest in criminal justice, continuing to speak out. “If students want to protect their right to privacy, they’re going to have to stand up for themselves. Sitting by and hoping someone else will defend your rights is the road to losing them,” Besser says. “My hope is that this case will inspire other students around the country to speak up.”
+- This month, apparently in response to the ruling in Ogletree’s case, Kent State University discontinued its use of room scans in test proctoring, according to KentWired.com.
+- And as for that chemistry test? Ogletree said he got an A.
+- Stay up-to-date with the politics team. Sign up for the Teen Vogue Take
+- The Roe Decision Is Making Students Rethink Their College Choices
+- What School Is Like for Florida LGBTQ Students Post-'Don't Say Gay'
+- What It’s Like to Be Sued As a Student Journalist
+- So Many People With Student Debt Never Graduated College
+- This Organization Is Fighting to Get Cops Out of Libraries
+- By Taylor Augustin
+- By Lexi McMenamin
+- By James Factora
+- By Steffi Cao
+- More from Teen Vogue
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. Teen Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+- University of Wisconsin 'racist' online proctoring
+- Proctorio 'racist' facial detection
+- Page infoType: IncidentPublished: January 2023

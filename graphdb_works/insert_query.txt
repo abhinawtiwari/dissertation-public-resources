@@ -1,0 +1,211 @@
+# below queries insert two incidents at once
+
+PREFIX ex: <http://example.org/>
+PREFIX org: <http://example.org/ontology#>
+PREFIX i72: <http://example.org/i72#>
+PREFIX oep: <http://example.org/oep#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+# Insert data for the Singapore xavier patrol incident
+INSERT DATA {
+  GRAPH <http://example.org/my-data/singapore_xavier_patrol_robots> {
+    # Data for the Singapore xavier patrol incident
+    ex:DatabaseIncident rdf:type ex:DatabaseIncident ;
+        ex:source_url "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots" .
+
+    # Data for the first StakeholderOutcome
+    ex:StakeholderOutcome1 rdf:type ex:StakeholderOutcome ;
+        ex:forStakeholder "Public safety" ;
+        ex:forOutcome "Safety" ;
+        ex:fromPerspectiveOf "Public safety" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "positive" ;
+        ex:hasIndicator "The number of crimes that are prevented by the Xavier patrol robots" ;
+        ex:hasImpactReport "The Straits Times' report on the Singapore Xavier patrol robots" ;
+        org:hasName "Impact of Singapore Xavier patrol robots on public safety" ;
+        org:hasDescription "The impact of the Singapore Xavier patrol robots on public safety" .
+
+    # Data for the second StakeholderOutcome
+    ex:StakeholderOutcome2 rdf:type ex:StakeholderOutcome ;
+        ex:forStakeholder "Civil liberties" ;
+        ex:forOutcome "Privacy" ;
+        ex:fromPerspectiveOf "Civil liberties" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "negative" ;
+        ex:hasIndicator "The number of people who feel that their privacy has been violated by the Xavier patrol robots" ;
+        ex:hasImpactReport "The Straits Times' report on the Singapore Xavier patrol robots" ;
+        org:hasName "Impact of Singapore Xavier patrol robots on civil liberties" ;
+        org:hasDescription "The impact of the Singapore Xavier patrol robots on civil liberties" .
+
+    # Data for the first Stakeholder
+    ex:Stakeholder1 rdf:type ex:Stakeholder ;
+        ex:hasName "Public safety" ;
+        ex:hasDescription "Government agencies responsible for public safety" ;
+        ex:hasCatchmentArea "Singapore" ;
+        ex:hasStakeholderCharacteristic "Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime" ;
+        ex:performs "Enforcing the law" ;
+        i72:located_in "Singapore" ;
+        oep:partOf ex:DatabaseIncident .
+
+    # Data for the second Stakeholder
+    ex:Stakeholder2 rdf:type ex:Stakeholder ;
+        ex:hasName "Civil liberties" ;
+        ex:hasDescription "Organizations that are concerned about the protection of civil liberties" ;
+        ex:hasCatchmentArea "Global" ;
+        ex:hasStakeholderCharacteristic "Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy" ;
+        ex:performs "Advocating for civil liberties" ;
+        i72:located_in "Global" ;
+        oep:partOf ex:DatabaseIncident .
+
+    # Data for the first ImpactRisk
+    ex:ImpactRisk1 rdf:type ex:ImpactRisk ;
+        ex:forOutcome "Safety of public" ;
+        ex:hasLikelihood "medium" ;
+        ex:hasConsequence "high" ;
+        ex:hasMitigation "The Xavier patrol robots could be hacked and used to harm people" ;
+        ex:hasIdentifier "1" ;
+        ex:hasDescription "The risk that the Xavier patrol robots will be used to harm people" .
+
+    # Data for the second ImpactRisk
+    ex:ImpactRisk2 rdf:type ex:ImpactRisk ;
+        ex:forOutcome "Privacy of citizens" ;
+        ex:hasLikelihood "high" ;
+        ex:hasConsequence "high" ;
+        ex:hasMitigation "The Xavier patrol robots could be used to collect data on citizens without their consent" ;
+        ex:hasIdentifier "2" ;
+        ex:hasDescription "The risk that the Xavier patrol robots will be used to collect data on citizens without their consent" .
+
+    # Linking the StakeholderOutcomes to the Stakeholders
+    ex:StakeholderOutcome1 ex:fromStakeholder ex:Stakeholder1 .
+    ex:StakeholderOutcome2 ex:fromStakeholder ex:Stakeholder2 .
+
+    # Linking the StakeholderOutcomes to the ImpactRisks
+    ex:StakeholderOutcome1 ex:hasImpactRisk ex:ImpactRisk1 .
+    ex:StakeholderOutcome2 ex:hasImpactRisk ex:ImpactRisk2 .
+
+    # Linking the incident node to the stakeholder outcomes and impact risks
+    ex:DatabaseIncident ex:hasStakeholderOutcome ex:StakeholderOutcome1, ex:StakeholderOutcome2 .
+    ex:DatabaseIncident ex:hasImpactRisk ex:ImpactRisk1, ex:ImpactRisk2 .
+  }
+};
+
+# Insert data for the UK NHS digital medical history database incident
+INSERT DATA {
+  GRAPH <http://example.org/my-data/uk-nhs-digital-medical-history-database> {
+    # Data for the UK NHS digital medical history database incident
+    ex:DatabaseIncident rdf:type ex:DatabaseIncident ;
+        ex:source_url "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-nhs-digital-medical-history-database" .
+
+    # Data for the first StakeholderOutcome
+    ex:StakeholderOutcome1 rdf:type ex:StakeholderOutcome ;
+        ex:forStakeholder "Patients" ;
+        ex:forOutcome "Privacy" ;
+        ex:fromPerspectiveOf "Patients" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "negative" ;
+        ex:hasIndicator "The number of patients who feel that their privacy has been violated by the digital medical history database" ;
+        ex:hasImpactReport "The Guardian's report on the UK NHS digital medical history database" ;
+        org:hasName "Impact of UK NHS digital medical history database on patients" ;
+        org:hasDescription "The impact of the UK NHS digital medical history database on patients" .
+
+    # Data for the second StakeholderOutcome
+    ex:StakeholderOutcome2 rdf:type ex:StakeholderOutcome ;
+        ex:forStakeholder "NHS staff" ;
+        ex:forOutcome "Job security" ;
+        ex:fromPerspectiveOf "NHS staff" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "negative" ;
+        ex:hasIndicator "The number of NHS staff who feel that their jobs are at risk due to the digital medical history database" ;
+        ex:hasImpactReport "The Guardian's report on the UK NHS digital medical history database" ;
+        org:hasName "Impact of UK NHS digital medical history database on NHS staff" ;
+        org:hasDescription "The impact of the UK NHS digital medical history database on NHS staff" .
+
+    # Data for the third StakeholderOutcome
+    ex:StakeholderOutcome3 rdf:type ex:StakeholderOutcome ;
+        ex:forStakeholder "Public health" ;
+        ex:forOutcome "Healthcare" ;
+        ex:fromPerspectiveOf "Public health" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "negative" ;
+        ex:hasIndicator "The number of people who are denied access to healthcare due to the digital medical history database" ;
+        ex:hasImpactReport "The Guardian's report on the UK NHS digital medical history database" ;
+        org:hasName "Impact of UK NHS digital medical history database on public health" ;
+        org:hasDescription "The impact of the UK NHS digital medical history database on public health" .
+
+    # Data for the first Stakeholder
+    ex:Stakeholder1 rdf:type ex:Stakeholder ;
+        ex:hasName "Patients" ;
+        ex:hasDescription "Patients who use the UK NHS digital medical history database" ;
+        ex:hasCatchmentArea "United Kingdom" ;
+        ex:hasStakeholderCharacteristic "Patients are concerned about the privacy of their medical records" ;
+        ex:performs "Seeking medical care" ;
+        i72:located_in "United Kingdom" ;
+        oep:partOf ex:DatabaseIncident .
+
+    # Data for the second Stakeholder
+    ex:Stakeholder2 rdf:type ex:Stakeholder ;
+        ex:hasName "NHS staff" ;
+        ex:hasDescription "NHS staff who use the UK NHS digital medical history database" ;
+        ex:hasCatchmentArea "United Kingdom" ;
+        ex:hasStakeholderCharacteristic "NHS staff are concerned about the impact of the digital medical history database on their jobs" ;
+        ex:performs "Providing medical care" ;
+        i72:located_in "United Kingdom" ;
+        oep:partOf ex:DatabaseIncident .
+
+    # Data for the third Stakeholder
+    ex:Stakeholder3 rdf:type ex:Stakeholder ;
+        ex:hasName "Public health" ;
+        ex:hasDescription "Public health organizations that are responsible for ensuring that everyone has access to healthcare" ;
+        ex:hasCatchmentArea "United Kingdom" ;
+        ex:hasStakeholderCharacteristic "Public health organizations are concerned about the impact of the digital medical history database on access to healthcare" ;
+        ex:performs "Providing healthcare" ;
+        i72:located_in "United Kingdom" ;
+        oep:partOf ex:DatabaseIncident .
+
+    # Data for the first ImpactRisk
+    ex:ImpactRisk1 rdf:type ex:ImpactRisk ;
+        ex:forOutcome "Privacy of patients" ;
+        ex:hasLikelihood "high" ;
+        ex:hasConsequence "high" ;
+        ex:hasMitigation "The NHS could implement stronger security measures to protect patient data" ;
+        ex:hasIdentifier "1" ;
+        ex:hasDescription "The risk that patient data will be accessed by unauthorized individuals" .
+
+    # Data for the second ImpactRisk
+    ex:ImpactRisk2 rdf:type ex:ImpactRisk ;
+        ex:forOutcome "Job security of NHS staff" ;
+        ex:hasLikelihood "medium" ;
+        ex:hasConsequence "medium" ;
+        ex:hasMitigation "The NHS could provide training to NHS staff on how to use the digital medical history database" ;
+        ex:hasIdentifier "2" ;
+        ex:hasDescription "The risk that NHS staff will lose their jobs due to the digital medical history database" .
+
+    # Data for the third ImpactRisk
+    ex:ImpactRisk3 rdf:type ex:ImpactRisk ;
+        ex:forOutcome "Healthcare" ;
+        ex:hasLikelihood "low" ;
+        ex:hasConsequence "low" ;
+        ex:hasMitigation "The NHS could develop a plan to ensure that everyone has access to healthcare even if they are denied access to the digital medical history database" ;
+        ex:hasIdentifier "3" ;
+        ex:hasDescription "The risk that people will be denied access to healthcare due to the digital medical history database" .
+
+    # Linking the StakeholderOutcomes to the Stakeholders
+    ex:StakeholderOutcome1 ex:fromStakeholder ex:Stakeholder1 .
+    ex:StakeholderOutcome2 ex:fromStakeholder ex:Stakeholder2 .
+    ex:StakeholderOutcome3 ex:fromStakeholder ex:Stakeholder3 .
+
+    # Linking the StakeholderOutcomes to the ImpactRisks
+    ex:StakeholderOutcome1 ex:hasImpactRisk ex:ImpactRisk1 .
+    ex:StakeholderOutcome2 ex:hasImpactRisk ex:ImpactRisk2 .
+    ex:StakeholderOutcome3 ex:hasImpactRisk ex:ImpactRisk3 .
+
+    # Linking the incident node to the stakeholder outcomes and impact risks
+    ex:DatabaseIncident ex:hasStakeholderOutcome ex:StakeholderOutcome1, ex:StakeholderOutcome2, ex:StakeholderOutcome3 .
+    ex:DatabaseIncident ex:hasImpactRisk ex:ImpactRisk1, ex:ImpactRisk2, ex:ImpactRisk3 .
+  }
+}

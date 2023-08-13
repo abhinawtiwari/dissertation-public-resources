@@ -1,0 +1,1038 @@
+[
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nijeer-parks-facial-recognition-wrongful-arrest",
+        "impact_risk": "High. The use of facial recognition technology is a relatively new technology, and its accuracy and fairness are still being debated. There is a risk that facial recognition technology could be used to wrongfully arrest people, particularly people of color"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/chess-robot-breaks-childs-finger",
+        "impact_risk": "Medium. The use of robots to interact with children is a relatively new technology, and its safety and risks are still being debated. There is a risk that robots could cause physical harm to children, particularly if they are not properly supervised"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-alexa-penny-challenge",
+        "impact_risk": "Medium. The use of voice assistants to recommend physical challenges is a relatively new technology, and its safety and risks are still being debated. There is a risk that voice assistants could recommend challenges that are dangerous, particularly if they are not properly supervised"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/edmonton-sexual-assault-dna-phenotyping",
+        "impact_risk": "Low. The use of DNA phenotyping is a relatively new technology, but it has been shown to be accurate and reliable. There is a low risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-intersex-censorship",
+        "impact_risk": "High. The censorship of intersex content is a form of discrimination. It is harmful to intersex people and can have a negative impact on their mental and physical health. There is a high risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-teen-pregnancy-predictions",
+        "impact_risk": "Medium. The Microsoft teen pregnancy prediction tool is a new technology, and its accuracy and potential for bias are still being debated. There is a medium risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/scalefactor-accountancy-automation",
+        "impact_risk": "Medium. The Scalefactor accountancy automation tool is a new technology, and its impact on the accountancy industry is still being debated. There is a medium risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/laion-image-text-pairings-datasets",
+        "impact_risk": "Medium. The Laion image-text pairings dataset is a new technology, and its potential to be used to generate harmful or biased content is still being debated. There is a medium risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mohammed-khadeer-facial-recognition-wrongful-arrest-death",
+        "impact_risk": "High. The use of facial recognition technology in law enforcement is a new and untested technology. There is a high risk that the technology could be misused, leading to wrongful arrests and deaths"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teslas-tricked-into-reacting-to-false-lane-markers",
+        "impact_risk": "High. The use of false lane markings to trick Teslas into crashing is a new and emerging threat. There is a high risk that this threat will continue to grow, as it is relatively easy to create false lane markings"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/austria-ams-job-seeker-algorithm",
+        "impact_risk": "Medium. The AMS job seeker algorithm is a new technology, and its impact on job seekers is still being debated. There is a medium risk of harm to stakeholders"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/agricultural-bank-of-china-facial-recognition-age-bias",
+        "impact_risk": "High. The bias in the algorithm is a serious problem that could have a significant impact on older customers. There is a high risk that the bias in the algorithm will continue to cause problems for older customers"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-meaningful-social-interactions-algorithm",
+        "impact_risk": "High. The bias in the algorithm is a serious problem that could have a significant impact on users of Facebook. There is a high risk that the bias in the algorithm will continue to cause problems for users of Facebook"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tv-advert-makes-amazon-alexa-order-cat-food",
+        "impact_risk": "High. The ad was widely seen, and it is likely that many people made unintended purchases as a result. There is a high risk that this will happen again in the future"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/everalbum-facial-recognition-default-tagging",
+        "impact_risk": "High. The default tagging feature was a serious privacy violation. There is a high risk that other companies will use similar features in the future, without the consent of their users"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/aadhaar-glitch-results-in-villagers-starvation",
+        "impact_risk": "High. The glitch in the Aadhaar system was a serious failure. There is a high risk that similar failures will occur in the future"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/goguardian-student-monitoring",
+        "impact_risk": "High. The use of student monitoring software is a serious privacy violation. There is a high risk that this type of software will be used to track students' online activity without their consent"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/olive-ai-misleading-marketing",
+        "impact_risk": "High. The misleading marketing by Olive AI was a serious violation of consumer trust. There is a high risk that other companies will use similar tactics in the future"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lockport-city-school-district-facial-recognition",
+        "impact_risk": "High. The opacity and bias of the facial recognition system is a serious privacy and civil rights violation. There is a high risk that other schools will use similar systems without proper safeguards"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/zao-face-swap-app",
+        "impact_risk": "High. The collection and storage of users' facial data without their consent is a serious privacy violation. There is a high risk that other companies will use similar tactics in the future"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/gm-chevrolet-bolt-motorbike-collision",
+        "impact_risk": "High. The self-driving car accident is a serious reminder of the potential risks of self-driving cars. There is a high risk that similar accidents will occur in the future"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teleperformancetp-observer-employee-monitoring",
+        "impact_risk": "High. The use of employee monitoring software is a serious privacy violation. There is a high risk that other companies will use similar software to track their employees' activity without their consent"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/deepfacelive",
+        "impact_risk": "High. The inaccuracy and bias of DeepFaceLive is a serious privacy and civil rights violation. There is a high risk that other facial recognition software will be inaccurate and biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/malaysia-ai-court-sentencing",
+        "impact_risk": "High. The bias of the AI-powered sentencing system is a serious threat to the fairness of the legal system. There is a high risk that other AI-powered systems will be biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bytedance-content-scraping",
+        "impact_risk": "High. The data scraping by Bytedance is a serious threat to data privacy. There is a high risk that other companies will engage in similar practices"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/seoul-bridge-suicide-detection",
+        "impact_risk": "High. The inaccuracy and bias of the AI-powered suicide detection system is a serious threat to the privacy and civil rights of people who are at risk of suicide. There is a high risk that other AI-powered systems will be inaccurate and biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/new-south-wales-victoria-covid-19-facial-recognition-trials",
+        "impact_risk": "High. The inaccuracy and bias of the facial recognition software is a serious threat to the privacy and civil rights of people who are subject to quarantine orders. There is a high risk that other facial recognition software will be inaccurate and biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uyghur-emotion-detection-testing",
+        "impact_risk": "High. The inaccuracy and bias of the emotion detection software is a serious threat to the human rights of Uyghurs. There is a high risk that other emotion detection software will be inaccurate and biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nio-es8-fatal-crash",
+        "impact_risk": "High. The failure of the car's self-driving features is a serious threat to the safety of people who use self-driving cars. There is a high risk that other self-driving cars will fail to detect obstacles and cause accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/myheritage-deep-nostalgia",
+        "impact_risk": "High. The inaccuracy and bias of the Deep Nostalgia service is a serious threat to the privacy and ethical rights of people who use the service. There is a high risk that other services will be inaccurate and biased"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cpb-one-asylum-seeker-app-privacy",
+        "impact_risk": "The risk of harm to asylum seekers is high."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/china-taxation-department-id-system-hack",
+        "impact_risk": "The risk of further fraud is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dominos-australia-pizza-checker",
+        "impact_risk": "The risk of unfair disciplinary action is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/virginia-non-violent-risk-assessment",
+        "impact_risk": "The risk of unfair treatment is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ai-confuses-bus-ad-for-jaywalker",
+        "impact_risk": "The risk of injury or death is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dubai-usd-35m-voice-cloning-fraud",
+        "impact_risk": "The risk of fraud is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/celeba-dataset",
+        "impact_risk": "The risk of deception is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sony-photography-awards-ai-victory",
+        "impact_risk": "The risk of bias is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sama-ethical-data-labeling-content-moderation",
+        "impact_risk": "The risk of bias is low."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/trelleborg-welfare-management-automation",
+        "impact_risk": "The risk of bias is low."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ukraine-russia-bayraktar-tb2-drone-attacks",
+        "impact_risk": "The risk of civilian casualties is high."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies",
+        "impact_risk": "The risks associated with AI and algorithms include discrimination, bias, privacy violations, and safety hazards. These risks can have a significant impact on individuals, organizations, and society as a whole."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tinder-plus-pricing-algorithm-fairness-discrimination",
+        "impact_risk": "The risk of discrimination is high, as the pricing algorithm is based on data on user behavior, demographics, and preferences. This data could be used to unfairly target certain groups of users for higher prices."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/the-facetag",
+        "impact_risk": "The risk of privacy violations, discrimination, and physical harm is high, as the FaceTag Facial Recognition Algorithm is able to identify and track people in a variety of settings."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-little-mix-robot-editor-racial-bias",
+        "impact_risk": "The risk of perpetuating racial stereotypes is high, as the Little Mix Robot Editor was found to have racial bias."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/instacart-gig-shopper-robotisation",
+        "impact_risk": "The risk of job losses and public backlash is high, as the Instacart Gig Shopper Robotization could lead to the automation of a large number of jobs."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-s-runs-red-light-kills-two",
+        "impact_risk": "The risk of accidents and fatalities is high, as AI-powered driver assistance systems are still under development and are not yet fully reliable."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/oregon-dhs-safety-at-screening-tool",
+        "impact_risk": "The risk of discrimination is high, as the Safety at Screening Tool is based on data that may contain racial bias."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/imagenet-dataset-racial-gender-stereotyping",
+        "impact_risk": "The risk of perpetuating racial and gender stereotypes is high, as the ImageNet Dataset is a large and influential dataset."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nanning-real-estate-sales-office-facial-recognition",
+        "impact_risk": "The risk of violating people's privacy is high, as the facial recognition system is able to track the movements of people without their consent."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/waymo-cars-get-stuck-in-cul-de-sac",
+        "impact_risk": "The risk of self-driving cars getting stuck in cul-de-sacs is high, as self-driving cars are still under development and are not yet fully reliable."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/atlantic-plaza-towers-facial-recognition",
+        "impact_risk": "The risk of violating people's privacy is high, as the facial recognition system is able to track the movements of people without their consent."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nothing-forever-jerry-seinfeld-clone-transphobia",
+        "impact_risk": "The risk of perpetuating harmful stereotypes is high, as the show is based on a transphobic stereotype."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moscow-metro-face-pay-facial-recognition",
+        "impact_risk": "The system could be used to track passengers' movements or to discriminate against certain groups of people"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/alonzo-sawyer-facial-recognition-mistaken-arrest",
+        "impact_risk": "The use of facial recognition could lead to wrongful arrests, discrimination, and a loss of privacy"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pentagon-deepfake-explosion",
+        "impact_risk": "Deepfakes could be used to spread misinformation, propaganda, and fear"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/hyderabad-police-facial-recognition",
+        "impact_risk": "The use of facial recognition could lead to wrongful arrests, discrimination, and a loss of privacy"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/huq-gps-location-data-sharing",
+        "impact_risk": "The collection and sharing of GPS location data could be used to track people's movements, target them with advertising, or even commit crimes"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/anthony-bourdain-voice-deepfake",
+        "impact_risk": "Deepfakes could be used to spread misinformation, propaganda, and fear"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/generated-photos-infinite-diversity-face-collection",
+        "impact_risk": "The technology could be used to create fake news or propaganda, or to impersonate real people"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-autocomplete-suggests-australian-surgeon-is-bankrupt",
+        "impact_risk": "Google autocomplete could be used to spread misinformation and damage people's reputations"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/binance-cco-deepfake-impersonation",
+        "impact_risk": "Deepfakes could be used to spread misinformation, damage people's reputations, and commit fraud"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robot-kills-skh-metals-worker",
+        "impact_risk": "Robots could malfunction and cause injury or death"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/suzhou-social-civility-score-trial",
+        "impact_risk": "The social civility score could be used to discriminate against citizens, to restrict their freedom of movement, and to punish them for minor infractions"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dukemtmc-facial-recognition-dataset",
+        "impact_risk": "The \"DukeMTMC\" dataset could be used to create facial recognition algorithms that are biased against certain groups of people, such as women and minorities"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tamoco-location-data-sharing",
+        "impact_risk": "Location data could be used to track people's movements, to target them with advertising, or to discriminate against them"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cleveland-state-university-online-proctor-room-scanning",
+        "impact_risk": "The AI-powered proctoring software could be used to unfairly target students, to violate their privacy, or to discriminate against them"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-s-kills-truck-driver-pedestrian",
+        "impact_risk": "The \"Autopilot\" feature could be used to cause accidents, or to discriminate against certain groups of people"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/iarpa-janus-benchmark-c-ijp-c-dataset",
+        "impact_risk": "The Iarpa Janus Benchmark-C dataset could be used to create facial recognition algorithms that are biased against certain groups of people, such as women and minorities"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/xiao-yu-deepfake-pornography",
+        "impact_risk": "Deepfake pornography can be used to harass, intimidate, and exploit people"
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/applesis-misidentification-wrongful-arrest\"",
+        "impact_risk": "Facial recognition technology can be inaccurate and can lead to wrongful arrests"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/deliveroo-italy-rider-shift-management-algorithm",
+        "impact_risk": "Risk of future discrimination against Deliveroo riders"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/usps-rural-letter-carrier-algorithmic-pay-cuts",
+        "impact_risk": "Risk of future pay cuts for rural letter carriers"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-adsense-shows-lower-paying-jobs-to-women",
+        "impact_risk": "Risk of future discrimination against women in the job market"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-derm-assist-dermatology-app-bias-privacy",
+        "impact_risk": "Risk of future misdiagnosis and harm to patients"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uber-self-driving-car-pedestrian-fatality",
+        "impact_risk": "Risk of future pedestrian fatalities from self-driving cars"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-zo-chatbot",
+        "impact_risk": "Risk of future chatbots generating offensive and harmful content"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias",
+        "impact_risk": "Risk of future gender bias in algorithmic decision-making"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-bold-glamour-filter",
+        "impact_risk": "Risk of future beauty filters reinforcing unrealistic beauty standards"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/us-mortgage-approval-algorithm-discrimination",
+        "impact_risk": "Risk of future discrimination in mortgage lending"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/adobe-creative-cloud-content-analysis",
+        "impact_risk": "The data collection and analysis process could be biased or inaccurate"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-tay-chatbot",
+        "impact_risk": "The chatbot could be used to spread misinformation or hate speech"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/santo-robot-catholic-priest",
+        "impact_risk": "The robot could be seen as a threat to traditional religious beliefs. It could also be used to spread misinformation or to harm people."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-safety-cameras-capture-neighborhood-movements",
+        "impact_risk": "The Tesla safety cameras could be used to collect data on people's movements without their consent. This data could then be used for marketing or surveillance purposes."
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebookray-ban-stories-smart-glasses",
+        "impact_risk": "The Facebook Ray-Ban Stories smart glasses could be used to collect data on people's movements and activities without their consent. This data could then be used for marketing or surveillance purposes."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/accessibe-automated-accessibility",
+        "impact_risk": "Accessible automated accessibility tools could be used to discriminate against people with disabilities. For example, a tool that is designed to help people with visual impairments could be used to prevent people with visual impairments from accessing certain websites or applications."
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/instacart-personal-shopper-pay-algorithm\"",
+        "impact_risk": "The use of algorithms to determine pay can lead to inaccurate pay and can disproportionately impact marginalized groups"
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/coupang-own-brand-search-engine-rigging\"",
+        "impact_risk": "\"The rigging of search engines can harm competition and lead to higher prices for consumers\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/kings-cross-live-facial-recognition-trial\"",
+        "impact_risk": "\"The use of facial recognition technology can lead to discriminatory and invasive practices\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/belgian-man-commits-suicide-after-bot-relationship\"",
+        "impact_risk": "\"The use of chatbots that are marketed as romantic partners can lead to emotional attachment and can be harmful to people who are vulnerable\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-job-ad-delivery-gender-discrimination\"",
+        "impact_risk": "\"The use of algorithms that deliver different content to different users based on their gender can lead to discrimination\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ai-portrait-ars-racial-bias\"",
+        "impact_risk": "\"The use of biased data in AI models can lead to the production of biased outputs\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/stochastic-parrots-study-questions-large-language-model-size\"",
+        "impact_risk": "\"The development of large language models of ever-increasing size could lead to negative consequences, such as the spread of misinformation and the erosion of privacy\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/replika-app-chatbot-abuse\"",
+        "impact_risk": "\"The use of chatbots that are marketed as companions can lead to emotional attachment and can be harmful to people who are vulnerable\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nhs-digitaliproov-facial-recognition-data-sharing\"",
+        "impact_risk": "\"The sharing of NHS patients' facial data could lead to privacy violations, discrimination, and other harms\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-beheading-video-splicing\"",
+        "impact_risk": "\"The splicing of violent videos onto other videos could lead to widespread distress and anger, and could also be used to spread misinformation or propaganda\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pimeyes-facial-recognition-search-engine\"",
+        "impact_risk": "\"The use of facial recognition technology without consent could lead to privacy violations, discrimination, and other harms\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/people-of-tinder-dataset\"",
+        "impact_risk": "\"The scraping of data from dating apps could lead to privacy violations, discrimination, and other harms\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/titus-henderson-compas-parole-denial\"",
+        "impact_risk": "\"The use of risk assessment tools like COMPAS could lead to biased and unfair outcomes, such as the denial of parole for people who are not actually a risk to reoffend\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-lgbtq-shadowbanning\"",
+        "impact_risk": "\"The shadowbanning of LGBTQ content on TikTok could lead to discrimination, harassment, and other harms against LGBTQ users\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/hour-one-character-clones\"",
+        "impact_risk": "\"The creation of 'character' clones could lead to privacy violations, discrimination, and other harms\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/roomba-robot-vacuum-data-annotation-sharing\"",
+        "impact_risk": "\"The sharing of personal data with third-party contractors could lead to privacy violations\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-bing-chat\"",
+        "impact_risk": "\"The use of chatbots could lead to job losses for customer service representatives and other workers. Chatbots could also be used to spread misinformation and propaganda.\""
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/chatgpt-bug-reveals-user-chat-histories",
+        "impact_risk": "High"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/gpt-3-anti-muslim-bias",
+        "impact_risk": "High"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bodega-ai-automated-mom-and-pop-stores",
+        "impact_risk": "Medium"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/knightscope-hp-robocop-ignores-woman-reporting-crime",
+        "impact_risk": "Medium"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-images-links-music-promoter-to-criminal-underworld",
+        "impact_risk": "Medium"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-ring-blm-protest-surveillance",
+        "impact_risk": "High"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-one-palmprint-biometrics",
+        "impact_risk": "The use of palmprint biometric data could pose a risk to customer privacy"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-mentor-dsp-delivery-driver-scoring",
+        "impact_risk": "Potential for Amazon Delivery Drivers to be unfairly penalized by the scoring algorithm"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mimic-anime-art-generator",
+        "impact_risk": "Potential for the AI system to be used to create harmful or offensive content"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/udbetaling-danmark-welfare-payments-optimisation",
+        "impact_risk": "Potential for the AI system to be used to unfairly target welfare recipients"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/yieldstar-automated-rent-setting",
+        "impact_risk": "Potential for the AI system to be used to unfairly set rents"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/us-border-imposter-identification-failures",
+        "impact_risk": "ineffectiveness of facial recognition technology"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/clarifai-okcupid-dataset-appropriation",
+        "impact_risk": "data privacy and security"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robodebt-welfare-debt-recovery",
+        "impact_risk": "algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-teen-alcohol-drug-gambling-ads-approvals",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pro-china-deepfake-spamouflage-campaign",
+        "impact_risk": "Misinformation and disinformation"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lemonade-non-verbal-assessments",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/midjourney-image-generator",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-paris-fatal-crash",
+        "impact_risk": "Autonomous driving"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-downranking-system-failure",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-passport-photo-application-racism",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/wildtrack-pedestrian-detection-dataset",
+        "impact_risk": "Algorithmic bias and discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tencent-app-link-blocking",
+        "impact_risk": "Monopolization"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ocado-robot-collision",
+        "impact_risk": "Safety"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/met-police-gangs-violence-matrix",
+        "impact_risk": "Discrimination"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-rear-ends-kawasaki-motorcycle-kills-rider",
+        "impact_risk": "Safety"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/san-francisco-police-killer-robots",
+        "impact_risk": "Safety, discrimination, and public distrust"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nypd-digidog",
+        "impact_risk": "Safety, discrimination, and public distrust"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/livonia-skating-rink-misidentifies-black-teenager",
+        "impact_risk": "Discrimination, public distrust, and harm to individuals"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/frasers-group-facial-recognition",
+        "impact_risk": "Potential for misuse of facial recognition technology"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-y-crashes-into-tractor-trailer",
+        "impact_risk": "Potential for misuse of Tesla Autopilot driving software"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-reincarnation-chatbot",
+        "impact_risk": "Potential for chatbots to be used to \"exploit\" or \"deceive\" people"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ethiopia-bayraktar-tb2-drone-tigray-school-attack",
+        "impact_risk": "Potential for Bayraktar TB2 drones to be used to cause civilian casualties and destruction of infrastructure"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-celeb-ms-celeb-1m-facial-recognition-dataset",
+        "impact_risk": "Increased risk of privacy violations, including misuse of facial recognition technology for surveillance, identification, and tracking."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-crash-detection-false-positives",
+        "impact_risk": "Potential for false positives, including notifications for non-crash events, such as riding \"rollercoasters\"."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model",
+        "impact_risk": "Potential for the AI \"model\" to be used to create unauthorized or inappropriate \"content\""
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mindar-robot-buddhist-priest",
+        "impact_risk": "Potential for Mindar to be used to spread misinformation about \"Buddhism\", to exploit people's vulnerabilities, or to replace human interaction with a \"robot\""
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ibm-diversity-in-faces-dataset",
+        "impact_risk": "Potential for the dataset to be used to create facial recognition systems that are biased against certain groups of people"
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-nest-hub-2-sleep-tracking\"",
+        "impact_risk": "Potential for the data to be used to \"discriminate against users\", or to be used to track users' sleep habits without their \"consent\""
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/findface-facial-recognition-app",
+        "impact_risk": "Potential for misuse of FindFace Facial Recognition Technology"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/koko-ai-mental-health-counselling-experiment",
+        "impact_risk": "Potential for Koko AI to be used to harm or exploit participants"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/shenzhen-uses-facial-recognition-to-catch-shame-jaywalkers",
+        "impact_risk": "Potential for misuse of facial recognition technology"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/unconstrained-college-students-dataset",
+        "impact_risk": "Potential for misuse of data"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/kfc-germany-kristallnacht-marketing-automation",
+        "impact_risk": "Potential for misuse of marketing automation data"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ircc-immigration-and-visa-applications-automation",
+        "impact_risk": "Potential for bias and discrimination in AI-powered decision-making"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dubai-drone-weather-engineering",
+        "impact_risk": "Potential for environmental damage, such as flooding and desertification"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-3-hits-tow-truck-explodes",
+        "impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-labels-black-men-primates",
+        "impact_risk": "Potential for AI to be biased and discriminatory"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-x-crashes-into-five-police-officers",
+        "impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/deliveroo-uk-rider-management-algorithm",
+        "impact_risk": "Potential for the algorithm to be biased and discriminatory"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cruzcampo-lola-flores-deepfake-ad",
+        "impact_risk": "Potential for deepfake technology to be used to create misleading or offensive content."
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-autopilot-confused-by-billboard",
+        "impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sleeping-driver-speeds-on-highway-with-autopilot-switched-on",
+        "impact_risk": "Potential for Tesla Autopilot to be misused and cause accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/hirevue-recruitment-facial-analysis-screening",
+        "impact_risk": "Potential for facial analysis software to be biased and discriminatory"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rio-de-janeiro-facial-recognition-wrongful-arrests",
+        "impact_risk": "Potential for facial recognition software to be inaccurate and lead to wrongful arrests"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uber-upfront-fares-driver-pay-algorithm",
+        "impact_risk": "Potential for the Upfront Fares algorithm to be biased and lead to lower driver earnings"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-aws-panorama-workplace-surveillance",
+        "impact_risk": "Potential for AI-powered cameras to be used to collect and store sensitive data, and to track and monitor employees without their consent"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mobileye-630-pro-tricked-by-drones-projectors",
+        "impact_risk": "Potential for Mobileye 630 PRO self-driving technology to be tricked by other objects and systems"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition",
+        "impact_risk": "Potential for facial recognition technology to be used to track and monitor customers without their consent, and to discriminate against customers based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/toyota-paralympics-self-driving-bus-hits-athlete",
+        "impact_risk": "Potential for self-driving technology to be inaccurate and lead to accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/vgg-face-facial-recognition-dataset",
+        "impact_risk": "Potential for the dataset to be used to discriminate against people based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-3-crashes-into-bus-in-ruian-kills-one",
+        "impact_risk": "Potential for Tesla Autopilot technology to be inaccurate and lead to accidents"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-watch-blood-oximeter-racial-bias",
+        "impact_risk": "Potential for Apple Watch blood oximeter to be used to discriminate against people with darker skin tones"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-cycle-tracking-fertility-predictions",
+        "impact_risk": "Potential for Apple cycle tracking app to be used to discriminate against people based on their fertility status"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/syri-welfare-fraud-detection-automation",
+        "impact_risk": "Potential for SyRI to be used to discriminate against people based on their race, ethnicity, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/80-million-tiny-images-dataset",
+        "impact_risk": "potential for the dataset to be used to discriminate against people based on their race, gender, or other factors, as well as potential for the dataset to be used to create deepfakes or other forms of synthetic media"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/barclays-employee-spyware-monitoring",
+        "impact_risk": "potential for employee spyware to be used to discriminate against employees based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/oostoanyvision-facial-recognition-drones",
+        "impact_risk": "potential for facial recognition drones to be used to discriminate against people based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-ring-police-data-sharing",
+        "impact_risk": "potential for Amazon Ring police data sharing to be used to discriminate against people based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking",
+        "impact_risk": "potential for eye tracking technology to be used to discriminate against moviegoers based on their race, gender, or other factors"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-military-gear-advertising",
+        "impact_risk": "potential for Facebook to be used to spread misinformation and propaganda about military gear and weapons accessories"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/joe-rogan-libido-booster-alpha-grind-ad-deepfake",
+        "impact_risk": "potential for the deepfake technology to be used to spread misinformation or propaganda"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/walgreens-fridge-screen-door-biometrics",
+        "impact_risk": "potential for the biometric data to be stolen or used for fraudulent purposes"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-autocomplete-connects-albert-yeung-with-triads",
+        "impact_risk": "potential for Google autocomplete to be used to spread misinformation or propaganda"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/unity-govtech-ai-military-applications",
+        "impact_risk": "potential for AI-powered software to be used to create autonomous weapons systems that could operate without human intervention"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/intel-ai-student-emotion-monitoring",
+        "impact_risk": "potential for the AI-powered software to be used to discriminate against students based on their emotions"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/glovofoodinho-rider-management-algorithm",
+        "impact_risk": "potential for the algorithm to be biased against certain groups of riders, such as women and minorities"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lapd-social-media-data-collection",
+        "impact_risk": "potential for the LAPD to violate the privacy of individuals by collecting and storing their social media data"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rio-de-janeiro-facial-recognition-wrongful-arrests",
+        "impact_risk": "potential for the facial recognition technology to be biased against certain groups of people, such as people of color"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-paris-fatal-crash",
+        "impact_risk": "potential for the Tesla Autopilot feature to be unreliable or unsafe"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/seoul-bridge-suicide-detection",
+        "impact_risk": "potential for the AI-powered cameras to be biased against certain groups of people, such as people of color"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/harrisburg-university-criminality-prediction-study",
+        "impact_risk": "potential for the software to be biased against certain groups of people, such as people of color"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/chatgpt-writes-fake-online-reviews",
+        "impact_risk": "potential for ChatGPT to be used to create fake reviews that are indistinguishable from real reviews"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lockport-city-school-district-facial-recognition",
+        "impact_risk": "potential for the facial recognition technology to be biased against certain groups of people, such as people of color"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-chemical-food-preservative-suicides",
+        "impact_risk": "potential for Amazon's chemical food preservatives to be harmful to people's health, including their mental health"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias",
+        "impact_risk": "potential for Apple's credit scoring algorithm to be biased against women"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-flex-delivery-driver-routing-safety",
+        "impact_risk": "potential for Amazon's algorithm to route Amazon Flex delivery drivers in a way that increases their risk of accidents and injuries"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bodega-ai-automated-mom-and-pop-stores",
+        "impact_risk": "potential for Bodega AI's technology to be used to replace store clerks, to collect data on customers without their consent, or to be hacked and used to steal customer data"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/kim-kwang-seok-voice-recreation",
+        "impact_risk": null
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/elite-dangerous-ai-spaceships-create-superweapons",
+        "impact_risk": "The AI-powered spaceship combat system could have been used to create even more powerful weapons"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-3-rear-ends-harley-davidson-kills-rider",
+        "impact_risk": "The Tesla Autopilot system could have malfunctioned and caused the accident"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-fsd-assertive-mode-rolling-stops",
+        "impact_risk": "The Tesla Full Self-Driving Beta software may not be able to safely handle all driving situations, especially in complex urban environments"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/levis-artificial-diversity-ai-models",
+        "impact_risk": "The AI-generated fashion models could be used to perpetuate stereotypes or promote unrealistic body standards"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/galactica-large-language-model",
+        "impact_risk": "The large language model could be used to generate harmful or misleading content"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sao-paulo-metro-advertising-facial-biometrics",
+        "impact_risk": "The use of facial recognition could violate passengers' privacy"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-teen-alcohol-drug-gambling-ads-approvals",
+        "impact_risk": "The approval of ads targeting teens for alcohol, drugs, and gambling could lead to increased rates of substance abuse and gambling among teens"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robert-williams-facial-recognition-wrongful-arrest",
+        "impact_risk": "The use of facial recognition could lead to wrongful arrests"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nutri-score-nutritional-labelling-algorithm",
+        "impact_risk": "The Nutri-Score system could be gamed by food companies"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-retains-alexa-recordings-transcripts-indefinitely",
+        "impact_risk": "The retention of Alexa recordings and transcripts could lead to privacy violations, identity theft, and other harms"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/henn-na-hotel-lays-off-half-of-robot-staff",
+        "impact_risk": "The hotel's decision to lay off half of its robot staff could lead to a decrease in the hotel's customer satisfaction"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cruise-driverless-cars-traffic-blocking",
+        "impact_risk": "The testing of driverless cars on public roads could lead to accidents and injuries"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nvidia-eye-contact",
+        "impact_risk": "The software could be used to create deepfakes or to track users' eye movements"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facemega-sexualised-face-swapping",
+        "impact_risk": "The software could be used to create deepfakes that are used to harm people"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/russian-kub-bla-suicide-drone-attacks",
+        "impact_risk": "The use of Kub-BLA suicide drones could lead to an increase in civilian casualties and damage to infrastructure"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/upstart-consumer-lending-racial-discrimination",
+        "impact_risk": "The use of machine learning to make lending decisions could lead to discrimination against certain groups of borrowers"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-tay-chatbot",
+        "impact_risk": "The use of machine learning to develop chatbots could lead to the creation of chatbots that are offensive or inappropriate"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mcdonalds-drive-through-chatbot-order-taker",
+        "impact_risk": "The use of chatbots in drive-throughs could lead to job losses for human cashiers"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/telegram-bot-creates-non-consensual-deepfake-porn",
+        "impact_risk": "The bot could be used to create deepfakes that are used to harm people"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ocado-robot-collision",
+        "impact_risk": "The use of robots in warehouses could lead to accidents and injuries"
+    },
+    {
+        "source": "https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/epic-systems-sepsis-prediction-model",
+        "impact_risk": "The use of machine learning to predict sepsis could lead to misdiagnosis and harm to patients"
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/simclr-igpt-racial-bias-stereotyping\"",
+        "impact_risk": "\"The use of machine learning to generate text could lead to the creation of text that is racially biased and stereotypical.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-autocomplete-says-rupert-murdoch-jon-hamm-are-jewish\"",
+        "impact_risk": "\"The use of machine learning to generate autocomplete suggestions could lead to the creation of suggestions that are inaccurate or offensive.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-personal-data-harvesting-sales\"",
+        "impact_risk": "\"The use of machine learning to collect and sell user data could lead to the exploitation of users, the spread of misinformation, and the erosion of privacy.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-phantom-braking\"",
+        "impact_risk": "\"The use of machine learning to power autonomous driving could lead to the creation of models that cause phantom braking or other safety problems.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ajin-usa-worker-crushed-to-death-by-robot\"",
+        "impact_risk": "\"The use of artificial intelligence to develop and deploy robots could lead to the creation of robots that are defective and cause harm to workers.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-optimus-robot\"",
+        "impact_risk": "\"The use of artificial intelligence to develop and deploy robots could lead to the displacement of workers.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-mandatory-beauty-filtering\"",
+        "impact_risk": "\"The use of artificial intelligence to develop and deploy beauty filters could lead to the harm of users' self-esteem and body image.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/instagram-teen-girls-mental-health-harms\"",
+        "impact_risk": "\"The use of artificial intelligence to develop and deploy algorithms that prioritize posts that receive the most engagement could lead to the harm of users' mental health.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-fsd-beta-software-glitch-recall\"",
+        "impact_risk": "\"The use of artificial intelligence to develop and deploy self-driving car software could lead to the development of software that is unsafe for use.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/shanghai-ai-prosecutor\"",
+        "impact_risk": "\"The use of artificial intelligence in the legal system could lead to bias and discrimination. For example, if the AI prosecutor system is trained on data that reflects historical biases, it could be more likely to recommend charges against people of color or people from low-income communities.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/marty-grocery-store-robot\"",
+        "impact_risk": "\"The use of self-driving vehicles in the delivery of goods could lead to accidents. For example, if the Marty robot is not properly programmed, it could collide with other vehicles or pedestrians.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-autopilot-fsd-misleading-marketing\"",
+        "impact_risk": "\"The use of misleading marketing to promote self-driving car technology could lead to accidents. For example, if Tesla owners believe that the FSD software can drive itself without human input, they may be less likely to pay attention to the road, which could lead to an accident.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/chatgpt-accuses-australian-mayor-of-bribery\"",
+        "impact_risk": "\"The use of AI-generated text could be used to spread misinformation or to damage someone's reputation.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/the-book-of-veles\"",
+        "impact_risk": "\"The use of AI to manipulate photos could be used to spread misinformation or to deceive the public.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/buenos-aires-data-sharing-protest-surveillance\"",
+        "impact_risk": "\"The use of facial recognition technology by law enforcement could be used to track and monitor people who are exercising their rights to freedom of speech and assembly.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/myanmar-safe-city-surveillance\"",
+        "impact_risk": "\"The use of facial recognition and other AI-powered surveillance technologies by the Myanmar government could be used to suppress dissent and to crack down on political opponents.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ucla-facial-recognition-surveillance\"",
+        "impact_risk": "\"The use of facial recognition technology by UCLA could be used to track and monitor people who are exercising their rights to freedom of speech and assembly.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-political-group-recommendations\"",
+        "impact_risk": "\"The use of AI to recommend political groups could be used to promote violence and hate speech.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-health-diabetic-retinopathy-diagnosis\"",
+        "impact_risk": "\"The use of AI to diagnose diabetic retinopathy could lead to misdiagnosis, which could have serious consequences for patients.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tek-fog-political-manipulation\"",
+        "impact_risk": "\"The use of AI to manipulate public opinion on social media could have a significant impact on democracy and human rights.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/frasers-group-facial-recognition\"",
+        "impact_risk": "\"The use of facial recognition technology by Frasers Group could be used to track and monitor people who are exercising their rights to freedom of speech and assembly.\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/usd-622000-deepfake-impersonation-scam\"",
+        "impact_risk": "\"The use of deepfakes to commit financial crimes is a growing threat. Deepfakes can be used to impersonate anyone, and they can be used to create very convincing videos. This makes it difficult for people to know who they are dealing with, and it makes it easier for criminals to commit fraud.\""
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lucknow-women-in-distress-facial-recognition",
+        "impact_risk": "Accuracy/reliability, privacy, surveillance"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bosco-electricity-subsidy-assessment",
+        "impact_risk": "Accuracy/reliability, privacy, bias"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teleperformancetp-observer-employee-monitoring",
+        "impact_risk": "Privacy, bias, employee morale"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition",
+        "impact_risk": "Accuracy/reliability, privacy, bias"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking",
+        "impact_risk": "Privacy, bias"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robot-kills-skh-metals-worker",
+        "impact_risk": "Safety, reliability, bias"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model",
+        "impact_risk": "Copyright infringement, bias, lack of creativity"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-nhs-digital-medical-history-database",
+        "impact_risk": "Data security, privacy, bias"
+    },
+    {
+        "source": "https://ai.googleblog.com/2022/01/blenderbot-text-generation-for-everyone.html",
+        "impact_risk": "Bias, lack of creativity, safety"
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots",
+        "impact_risk": "Accuracy, reliability, bias, privacy, safety"
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/boston-public-schools-bus-scheduling\"",
+        "impact_risk": "\"Accuracy, reliability, bias, privacy, safety\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-autocomplete-connects-albert-yeung-with-triads\"",
+        "impact_risk": "\"Bias, discrimination, privacy\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/intel-ai-student-emotion-monitoring\"",
+        "impact_risk": "\"Accuracy, reliability, privacy, bias, misuse\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/huq-gps-location-data-sharing\"",
+        "impact_risk": "\"Privacy, misuse\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/gm-cruise-fails-to-yield-to-pedestrian-at-crosswalk\"",
+        "impact_risk": "\"Accuracy, reliability, bias, safety\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/titus-henderson-compas-parole-denial\"",
+        "impact_risk": "\"Accuracy, reliability, bias, fairness, transparency\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pyth-bitcoin-glitch\"",
+        "impact_risk": "\"Accuracy, reliability, bias, transparency\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/gpt-4-large-language-model\"",
+        "impact_risk": "\"Bias, discrimination, privacy, misuse, harm\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-bold-glamour-filter\"",
+        "impact_risk": "\"Body image issues, unrealistic beauty standards, social pressure\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/reddit-shadowbanning\"",
+        "impact_risk": "\"Misinformation, harassment, discrimination\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tencent-app-link-blocking\"",
+        "impact_risk": "\"Anti-competitive practices, market concentration, consumer harm\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-s-kills-truck-driver-pedestrian\"",
+        "impact_risk": "\"Accidents, injuries, and deaths\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org//aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/son-ji-chang-tesla-model-x-sudden-acceleration\"",
+        "impact_risk": "\"Accidents, injuries, and deaths\""
+    },
+    {
+        "source": "\"https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-australia-news-civil-society-blocks\"",
+        "impact_risk": "\"Misinformation, censorship, harm to journalism\""
+    }
+]

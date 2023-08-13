@@ -1,0 +1,233 @@
+- Occurred: December 2012
+- Can you improve this page?Share your insights with us
+- Australian surgeon Guy Hingston sued Google for defamation over an Autocomplete search prediction that said he was 'bankrupt' and which he reckoned cost him customers.
+- Hingston was not bankrupt at the time of filing his legal complaint, but he had been declared bankrupt in August 2009 thanks to CoastJet, an aviation company he had invested in, having gone bust.
+- Even though Hingston's lawyers argued his bankruptcy had been annulled, the surgeon withdrew his action in June 2013 without explanation.
+- Operator: Alphabet/Google Developer: Alphabet/Google
+- Country: Australia
+- Sector: Health
+- Purpose: Predict search results
+- Technology: NLP/text analysis Issue: Accuracy/reliability; Mis/disinformation; Privacy; Legal - defamation/libel
+- Transparency: Governance; Black box
+- Google Search
+- Google. How Google Autocomplete predictions work
+- Hingston v Google (2012)
+- Lewis S.C. (2018). Libel by Algorithm? Automated Journalism and the Threat of Legal Liability
+- Karapapa S., Borghi M. (2015). Search engine liability for autocomplete suggestions: personality, privacy and the power of the algorithm
+URL: https://www.smh.com.au/technology/australian-surgeon-sues-google-over-bankrupt-autocomplete-20130122-2d480.html
+- We’re sorry, this feature is currently unavailable. We’re working to restore it. Please try again later.
+- This was published 10 years ago
+- Add articles to your saved list and come back to them any time.
+- A Port Macquarie surgeon is suing Google for defamation over an auto-complete search suggestion that he believes has cost him clients.
+- Google has been involved in several lawsuits around the world in the past year revolving around its autocomplete suggestions and has increasingly been held responsible for content on its search pages.
+- A screenshot of the false Google search result.
+- The suit, filed by Dr Guy Hingston in the US district court in California, claims that when you type "Guy Hin ..." into Google the words "Guy Hingston bankrupt" appear in the auto-complete. He claims this is defamatory as he is not bankrupt.
+- Dr Hingston's Australian lawyers Beazley Singleton had written to Google Australia in December threatening legal action. The firm wrote Dr Hingston had "lost a number of patients and financiers [who] are refusing to deal with our client as a consequence of the reference on google which is associated with his name".
+- The complaint, seen by Fairfax Media, claims Dr Hingston's career as a breast surgeon depended on maintaining a good reputation which had been damaged after Google had shown him in a "false light". He is seeking at least $75,000 in damages plus court costs for the "significant harm and economic loss" caused by the matter.
+- According to a Port Macquarie News report from January 2009, an aviation group owned by Dr Hingston, CoastJet, closed its doors and went into administration two-and-a-half years after he bought it. He told the paper the main reason for CoastJet's demise — which reportedly resulted in the loss of 30 jobs — was the loss of a $2.8 million deposit on two new jets when American company Eclipse Aviation went into bankruptcy.
+- An April 2009 Port Macquarie News report said CoastJet, loaded with debt, was being bailed out by a Chinese billionaire. On Tuesday a phone number listed online for CoastJet was disconnected.
+- Separate documents obtained from Insolvency Trustee Services Australia show Dr Hingston was bankrupted on August 4 2009.
+- Dr Hingston's lawyer Philip Beazley said that bankruptcy had been annulled. He also confirmed the reported facts surrounding the collapse of CoastJet, saying it was designed to be a community ambulance service.
+- Google declined to comment on the case.
+- Through his lawyer, Dr Hingston said he did not think it would be appropriate to comment further whilst the matter was before the US courts.
+- Dr Hingston's website DrGuy.com.au describes him as a "cancer surgeon, author & speaker" and he sells men and women's health books on his website which he describes as a "service manual for life".
+- In October last year a jury in Australia found Google liable for $200,000 in damages after a complaint that its search results linked 62-year-old Melbourne man Milorad Trkulja to gangland crime. He had previously won a similar case against Yahoo.
+- Last year former German first lady Bettina Wulff sued Google over the autocomplete phrases "Bettina Wulff prostitute" and "Bettina Wulff escort". The case has yet to be resolved.
+- Google was ordered by a Tokyo court in March last year to disable certain autocomplete results related to a Japanese man which linked his name with a series of crimes. His lawyer had said he lost his job and had been rejected for others he'd applied for as a result of the autocomplete issue.
+- In January last year a French court fined Google $65,000 because the search engine's autocomplete function prompted the French word for "crook" when users typed the name of an insurance company.
+- Google writes on its website that autocomplete results are "a reflection of the search activity of all web users and the content of web pages indexed by Google".
+- Leanne O'Donnell, senior associate with Herbert Geer in Melbourne said Google's defence would likely be that the autocomplete results are automated and it does not control them.
+- She said the Trkulja case in Australia "opened the door" to Google being held responsible for the contents of its search pages but the Hingston case would be a "test case" in the US, where courts may be more "reticent to interfere", in part because of greater protection of free speech.
+- In another case, the ACCC has alleged before the High Court that Google should be held responsible for its AdWords. A decision in this matter is expected in February.
+- "Normally [Google] would try to say 'we don't publish it, it's just an automatic algorithm it's not like a newspaper publishing a column', but that's something that the courts are now examining in more depth," O'Donnell said.
+- Copyright © 2023
+
+URL: https://www.techdirt.com/articles/20121227/09011621498/another-lawsuit-filed-google-autocomplete-defamation.shtml
+- Defamation
+- Another day, another lawsuit filed against Google for defamation-via-search-results. And, yet again, it's being filed in a country that has proven amenable towards plaintiffs who somehow feel a search algorithm has the power to defame.
+- This time the plaintiff is Guy Hingston, an Australian cancer surgeon. His complaint revolves around the fact that Google's autocomplete suggests he's all out of money.
+- Guy Hingston, an Australian cancer surgeon, sued Google in Federal Court.
+- “When an individual computer user types 'Guy Hin …', into the Google search engine as a search, the words 'Guy Hingston Bankrupt' appears,” the complaint states. “When the link(s) is clicked on, the article(s) to which the user is directed has absolutely nothing to do with a bankruptcy associated with Dr. Hingston. Dr. Hingston is not bankrupt.” (Parentheses and grammar as in complaint).
+- “Dr. Hingston is a surgeon practicing in Port Macquarie, New South Wales, Australia,” the complaint states. “Dr. Hingston's surgical practice focuses on breast cancer. Given his professional practice and position in his community, maintaining his good reputation is critical. Dr. Hingston has lost a number of patients and financiers who are refusing to associate and/or deal with Dr. Hingston as a consequence of the reference on Google to a bankruptcy.”
+- While this may be true, it seems odd that potential patients and financiers wouldn't actually follow through with the search term, which lists one link related to bankruptcy. (At this point there's more, thanks to Hingston filing this suit — something those filing these types of suits fail to consider.) Clicking through on that link brings up details on a bankruptcy filing by Eclipse Aviation. A commenter has reposted a Port MacQuarie news story that links Dr. Guy Hingston to bankruptcy — via CoastJet Group, seven companies Hingston “principally controlled” that ceased operation when Eclipse Aviation went under.
+- Port Macquarie surgeon Guy Hingston bought the 19-year-old business 2½ years ago.
+- Dr Hingston said the main reason for CoastJet’s demise was the loss of a $2.8 million deposit on two new jets when American company Eclipse Aviation Corporation went into bankruptcy. The business was made more vulnerable, he said, by its heavy investment in a new partnership with Sweden’s Lund University School of Aviation.
+- He said CoastJet was preparing for its first intake of 24 students from Sweden at the end of March.
+- Dr Hingston said he and CoastJet’s staff were devastated. “We had two jets we were about to take delivery of, but with the manufacturer going bankrupt, we’ve lost everything,” he said.
+- The jets were destined to for CoastJet’s growing air ambulance service, Dr Hingston said, as well as for international airline pilot training and charters.
+- A later story appears at the same site, detailing the eventual sale of CoastJet to a Chinese investor, which again mentions bankruptcy and liquidation. Both of these stories make Hingston's claim that “Guy Hingston bankrupt” link leads to article(s) that “have absolutely nothing to do with a bankruptcy associated with Dr. Hingston” completely false. He may not like the perception the words “Guy,” “Hingston” and “bankrupt” give when placed next to each other in an autocomplete suggestion, but there's nothing inherently defamatory about having those words appear next to each, especially when it produces relevant search results.
+- Hingston claims Google's automatic search result is defamatory, show him in a false light, and are “highly offensive to a reasonable person.”
+- He claims Google was “was negligent in determining the truth of the information or whether a false impression would be created by its publication.”
+- “This issue, and Google's continued failure to remedy this issue, despite numerous demands to do so, has caused significant harm and economic loss to Dr. Hingston in excess of the minimum jurisdiction of this court,” the complaint states.
+- Hingston seeks at least $75,000 in damages for false light, and court costs.
+- But the search isn't “negligent” or “highly offensive,” unless the person searching for Hingston does nothing more than stare at the completion suggestion and draw all their conclusions from that single, incomplete phrase. Hingston is the only person “offended” by this search suggestion, and any “negligence” is solely on the heads of financiers, etc. who are unwilling to perform even the slightest bit of due diligence when researching Dr. Hingston. Every other link for Hingston points you in the direction of his apparently successful practice and book sales/public speaking sideline. And it must be pointed out again that Hingston is suing over one autocomplete suggestion, rather than the results of those searches.
+- It's really hard to see how this will come down in favor of the plaintiff, but then again, if judicial systems didn't occasionally head off the deep end, lawsuits like this one would very rarely be filed.
+- Filed Under: australia, autocomplete, bankruptcy, defamation, guy hingston, liability
+
+Companies: google
+- If I saw a google completion of “Guy Hingston Bankrupt”, I wouldn’t jump to the conclusion that he’s bankrupt at all. I wouldn’t jump to any conclusion whatsoever. If I were considering doing business with him, I’d probably see where that search term took me.
+- If he’s lost customers because they were idiotic enough to think google was saying he’s bankrupt, he should count his lucky stars. These would be exactly the sort of people who would sue him for some imagined slight or otherwise be a money-costing pain in the ass.
+- It’s hard to sue a bankrupt surgeon for malpractice. Google is doing him a favor.
+- Now, of course, searches on his name tend to paint him as thin-skinned and overly litigious. Not exactly the most relevant criteria for a surgeon….
+- Yup, now the forst link under that search is to opposingviews.com’s story on the lawsuit.
+- #2 is Techdirt. Let’s all click that link!
+- I can’t help but picture someone trying to take a mathematician to court, because they aren’t happy that 2+2 doesn’t equal 5.
+- I’d ask when idiots like this will learn to stop blaming the software for doing it’s job, but I’m fairly sure the answer to that one would be, ‘When it is no longer profitable to do so.’
+- Why is it so easy to sue people, but so difficult to be sued? Today’s legal systems make a mockery of the idea of “innocent until proven guilty”.
+- but but but Google has money so they have to pay me!
+- Going after Google shows a complete lack of understanding of search technology. Perhaps they should instead focus on the sources of the articles and the keywords they’ve placed in the articles that Google’s algorithm is picking up on. Then again, the press has more protections built into law than a search engine.
+- Guy Hingston bankrupt may not like that Guy Hingston bankrupt comes up in autocomplete, but Guy Hingston bankrupt is here to stay
+- As somebody with knowledge of both this man and his various business enterprises, I must say, what a darn fine job google is doing with bringing up the three words guy + hingston + bankrupt. He was indeed declared bankrupt to the sum of $20,000,000 in 2010.
+- He continued to take money from student pilots until the day the assets of the business were seized. He disposed of assets and fled to the Solomon Islands while his employees were left without jobs, or leave entitlements. His children continue to attend the most exclusive school in Port Macquarie, he continues to owe the previous owners a sum in excess of $70,000. He continues to operate profitably as a surgeon in town.
+- He cannot understand why google’s search engine might draw an inference between the words ‘guy hingston’ and ‘bankrupt’. Puzzling indeed.
+- Has anyone stopped to ask why this man feels the need to google himself?
+- Google search engine is accurate,Guy Hingston and Dr Guy Hingston are the very same. He may not like the fact his name comes up with the wording bankrupt but we all need to be responsible, if you are not then govt bodies and google are there to help keep good citizens aware. Dr Hingstons income would have been limited by bankruptcy contributions to creditors which is a result of his own mismanagement. Perhaps the reason he filed in the californian court was because the Australian federal court have already made 2 judgements, not in his favour.
+- http://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2012/2012fcafc0041
+- Check these links out:
+http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2010/528.html
+http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2010/1116.html
+http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCAFC/2012/41.html
+Search http://www.business.govt.nz/companies for 1025601 COASTJET (NZ) LIMITED where the annual return on 14-2-2011 declares he is still a director – when he’s bankrupt?
+- All this guy has done with this suing is draw attention to his dodgy past – making the situation worse for him. Legally, I think he’s got a snowflakes chance of winning against google – they haven’t done anything wrong at all – just indexing, indexing, indexing.
+Why anyone would do business with a doctor that’s not medically related is beyond me. Doctors aren’t a target of business scheme shysters for nothing: they think they know it all, have money, are hopelessly naive and have big egos that are very easy to stroke.
+- “Guy Hing..”
+- [Guy Hingston Frivolous Lawsuit]
+- Do it now! As many times as you can abide.
+- http://dockets.justia.com/docket/california/cacdce/8:2012cv02202/550735/
+- http://www.guyhingston.net/
+- http://www.guyhingston.org/
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://www.thedrum.com/news/2013/06/18/bankrupt-man-drops-google-autocomplete-legal-action
+- Advertisement
+- The Drum Awards for Marketing APAC
+- -d -h -min -sec
+- June 18, 2013 | 2 min read
+- Listen to article
+                 
+4 min
+- A surgeon from Port Macquarie has withdrawn an action raised against search giant Google, which claimed he had been defamed by its auto complete function.
+- The search result has now changed
+- A search against his name, Guy Hingston, was found to autocomplete with the word “bankrupt” as soon as searchers reached "Guy Hin ..."
+- Many Google searches have prompted curious, often litigious results, leading to a popular internet and Twitter meme.
+- "I decided it was better to focus on my primary role as an oncoplastic breast surgeon," Hingston said, as he withdrew his action.He had been seeking $75,000 for economic loss as a claimed result of lost clientele.
+- It has been reported that Dr Hingston had been bankrupted on August 4, 2009, but this was later declared invalid.
+- Google says that autocomplete results are "a reflection of the search activity of all web users and the content of web pages indexed by Google".
+- At the time of publication, the Google search on his name no longer autocompletes with the word bankrupt.
+- © Carnyx Group Ltd 2022 | The Drum is a Registered Trademark and property of Carnyx Group Limited. All rights reserved.
+
+URL: https://www.newcastleherald.com.au/story/1579970/australian-doctor-withdraws-lawsuit-against-google/
+- Your digital subscription includes access to content from all our websites in your region.
+Access unlimited content, the digital versions of our print editions - Today's Paper, as well as the Newcastle Herald app.
+- A Port Macquarie breast surgeon who sued Google for defamation over an auto-complete search suggestion that he believed had cost him clients has withdrawn his case.
+- The suit, filed in January by Dr Guy Hingston in the US district court in California, claimed that when you type "Guy Hin ..." into Google the words "Guy Hingston bankrupt" appear in the auto-complete. He claimed this was defamatory as he was not bankrupt.
+- Dr Hingston has since withdrawn his case.
+- "I decided it was better to focus on my primary role as an oncoplastic breast surgeon," he told Fairfax Media.
+- He withdrew the case on March 7, according to US court records.
+- Dr Hingston was seeking at least $US75,000 in damages plus court costs for the "significant harm and economic loss" caused by the matter.
+- Although Dr Hingston was bankrupted on August 4 2009, this has since been declared invalid.
+- A Google Australia spokesman said he had no comment to offer on Dr Hingston's withdrawal.
+- Google has been involved in several lawsuits around the world in the past year around its autocomplete suggestions, and has increasingly been held responsible for content on its search pages.
+- Google writes on its website that auto-complete results are "a reflection of the search activity of all web users and the content of web pages indexed by Google".
+- This reporter is on Facebook: /bengrubb
+- Advertisement
+- Sign up for our newsletter to stay up to date.
+- We care about the protection of your data. Read our Privacy Policy.
+- Advertisement
+
+URL: https://ca.news.yahoo.com/blogs/right-click/doctor-sues-google-over-bankrupt-auto-complete-search-134555891.html
+- Beyond serving as a helpful tool, Google's auto-complete search suggestions can often lead to a good laugh. Just type in something like "Where is," or "Should I" and see for yourself ("Where is Chuck Norris" and "Should I buy RIM Stock" are two of my favourite knee-slappers).
+- But for the brass at Google, auto-complete hasn't exactly been something to laugh about.
+- Dr. Guy Hingston, a surgeon based in Australia, has filed a lawsuit against Google, claiming defamation on the grounds that an auto-complete suggestion has hindered his business. This is the latest in a string of auto-complete related lawsuits that have increasingly found Google responsible for the content on its search pages.
+- As Hingston has observed, if you type "Guy Hin ..." into Google, the auto-complete search suggests the term "Guy Hingston bankrupt," the Sydney Morning Herald reports. Yet since he is not bankrupt, Hingston and his lawyers are seeking at least $75,000 in damages — plus court costs — claiming that he's "lost a number of patients and financiers [who] are refusing to deal with [Hingston] as a consequence of the reference on Google which is associated with his name."
+- [ Related: Apple Maps updated after glitch called ‘life-threatening’ by Australian police ]
+- This seems to be a pretty cut and dry case, but this is where things get a little tricky.
+- As Google notes on its support page, "the search queries that you see as part of auto-complete are a reflection of the search activity of all web users and the content of web pages indexed by Google."
+- Now, I understand that Google must take ownership for the content on its pages, but it's the activity of the users that has created this particular auto-complete search term. Google's algorithm must have detected enough of this search term, as well as a sufficient amount of related content, in order to warrant "Guy Hingston bankrupt" as a popular search.
+- But if Guy Hingston is not bankrupt, why has Google's sophisticated algorithm detected a wealth of content to support the claim that he is? This is where things get even trickier.
+- Just a few years ago, Hingston used to enjoy a second vocation as the owner of CoastJet, an aviation group that closed its doors and went into administration back in 2009, the Port Macquarie News reports. CoastJet had a $2.8 million deposit on two new jets with Eclipse Aviation Corporation, but when the latter filed for bankruptcy, Hingston was forced to pack it in.
+- "We had two jets we were about to take delivery of, but with the manufacturer going bankrupt, we’ve lost everything," Hingston shared with Port Macquarie.
+- [ More Right Click: Amazon brings Kindle Paperwhite to Canada ]
+- Overwhelmed with debt, CoastJet was quickly bought out by an Asian billionaire, but that couldn't prevent Hingston from declaring bankruptcy on August 4, 2009. According to the Sydney Morning Herald, Hingston's lawyers have stated that the bankruptcy has since been annulled, but at this point Google had found enough online content that coupled Hingston's name with the word "bankruptcy."
+- If history is any indication, the self-proclaimed "cancer surgeon, author & speaker" is almost a lock to win his case, but Hingston's claim of not being bankrupt isn't exactly squeaky clean.
+- Need to know what’s hot in tech? Follow @yrightclick on Twitter!
+
+URL: https://www.abc.net.au/radionational/programs/lawreport/google-autocorrrect/4735188
+- James Pattison and Damien Carrick
+- Last week in Japan, Tokyo's District Court dismissed a defamation action brought against Google. The claimant argued that the search engine had wrongly linked him with criminal activities. The court ruled that this was not in fact defamatory. Just one month earlier the same court, when dealing with another case involving almost identical facts, came to the opposite conclusion.
+- So what's going on? Well, it's all part of a confusing global trend that gives a whole other meaning to the expression 'guilty by association'.
+- Last month a court in Germany ordered Google to ensure the terms produced by its auto complete function are not offensive or defamatory. The case was brought by a unnamed German businessman. When you typed his name into the Google search engine, it would be linked with Scientology and fraud.
+- The most high profile such case in Germany involves the country's former First Lady Bettina Wulff. She is suing Google for defamation in Hamburg District Court because Google's auto complete brings up 'prostitute' after her name.
+- The problem is that by drawing attention to these terms it just makes it worse because that's what all the journalists and the general public then start searching for and that reinforces the Google search.There had been a rumour going around for many years that she had a former career as a prostitute named Lady Victoria,' says Jeff Hermes, the director of the Digital Media Law Project at Harvard University. 'People searching for information about this rumour had put in various search terms into Google. The way auto complete works is that it takes the search terms which other users have put into the system and figures out which are the most popular searches, which are the most useful searches et cetera, and one of the suggestions which kept coming up when somebody was searching for Bettina Wulff was the suggestion that they search for her in connection with terms such as 'escort' or 'prostitute'.'
+- The problem is that by drawing attention to these terms it just makes it worse because that's what all the journalists and the general public then start searching for and that reinforces the Google search.
+- Mr Hermes says a number of Australians have also taken action against Google.
+- Dr Guy Hingston from Port Macquarie filed a lawsuit in the Federal District Court in California over search results.
+- 'Somebody typing in his name would see as a suggested search 'Guy Hingston bankrupt', suggesting that somebody searched for him in connection with a bankruptcy or some sort of insolvency. And he was upset about those connotations,' Mr Hermes says.
+- Dr Hingston's claim was that this was defamatory as he is not bankrupt. The implication, he claimed, was damaging his career. But the lawsuit has since been withdrawn without prejudice and it's unclear whether Dr Hingston will attempt to file suit in Australia, Mr Hermes says. Dr Hingston and his lawyers couldn't be reached for comment.
+- Certainly the likelihood of success varies considerably between different countries. Mr Hermes says Germany has very strong protections for personal privacy and personal identity, and Germany considers reputation to be part of a person's privacy interests.
+- In contrast, courts in the USA are less sympathetic. Section 230 of the Federal Communications Decency Act states that a website operator is not responsible for content posted to its site by third parties. And as Google points out, it's not posting defamatory material, it's simply reporting searches made by individual users.
+- Mr Hermes says the US legislation means that Google won't be liable for damaging content unless it's notified about defamatory content online. But even if this happens there are strong protections for free speech, and a concern that notice and take-down schemes are open to abuse.
+- Associate Professor David Glance, the director of the Centre for Software Practice at the University of Western Australia, says raising the alarm about a potential defamatory auto complete result can actually be a self-fulfilling prophecy.
+- 'The problem there is that by drawing attention to these terms it just makes it worse because that's what then all the journalists and the general public then start searching for and then that reinforces the Google search,' he says. 'So there are a couple of questions here. One is to what extent is Google responsible for the content that's out there on the web? And they argue that they are just simply putting that all together into search terms that are useful.'
+- This article contains content that is not available.
+- Here in Australia, the law is less clear cut than in Germany or the USA.
+- Last November, Victoria's Supreme Court ordered Google to pay compensation to a Melbourne man for wrongly linking him to underworld crime.
+- According to David Glance, Milorad Trkulja took action because when you typed in his name in the Google images search engine, it returned a whole set of images, some incorrectly labelled with his name.
+- 'He had actually been the victim of a shooting in Melbourne back in 2004 and the news stories that followed had incorrectly associated him with gangland crime. When Google was searching these images they picked up information about the story or something else and incorrectly made that connection between him and images of [convicted criminal] Tony Mokbel.'
+- A spokesperson for Google Australia declined to comment on specific cases but did make a general point: 'Auto complete predictions are algorithmically determined based on a number of factors without any human intervention. While we always strive to reflect the diversity of content on the web, we also apply a narrow set of removal policies for pornography, violence, hate speech, and terms that are frequently used to find content that infringes copyrights.'
+- It would appear that this response does not satisfy judges in Germany, but does meet with approval of US courts. Here in Australia (and it seems in Japan) each dispute will be decided on a case by case basis.
+- Find out more at The Law Report.
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the
+    First Australians and Traditional Custodians of the lands where we
+    live, learn and work.
+
+URL: https://www.portnews.com.au/story/1250553/port-macquarie-surgeon-sues-google-over-bankrupt-auto-complete/
+- Your digital subscription includes access to content from all our websites in your region.
+Access unlimited content, the digital versions of our print editions - Today's Paper, as well as the Newcastle Herald app.
+- A Port Macquarie surgeon is suing Google for defamation over an auto-complete search suggestion that he believes has cost him clients.
+- Google has been involved in several lawsuits around the world in the past year revolving around its autocomplete suggestions and has increasingly been held responsible for content on its search pages.
+- The suit, filed by Dr Guy Hingston in the US district court in California, claims that when you type "Guy Hin ..." into Google the words "Guy Hingston bankrupt" appear in the auto-complete. He claims this is defamatory as he is not bankrupt.
+- Dr Hingston's Australian lawyers Beazley Singleton had written to Google Australia in December threatening legal action. The firm wrote Dr Hingston had "lost a number of patients and financiers [who] are refusing to deal with our client as a consequence of the reference on google which is associated with his name".
+- The complaint, seen by Fairfax Media, claims Dr Hingston's career as a breast surgeon depended on maintaining a good reputation which had been damaged after Google had shown him in a "false light". He is seeking at least $75,000 in damages plus court costs for the "significant harm and economic loss" caused by the matter.
+- According to a Port Macquarie News report from January 2009, an aviation group owned by Dr Hingston, CoastJet, closed its doors and went into administration two-and-a-half years after he bought it. He told the paper the main reason for CoastJet's demise — which reportedly resulted in the loss of 30 jobs — was the loss of a $2.8 million deposit on two new jets when American company Eclipse Aviation went into bankruptcy.
+- An April 2009 Port Macquarie News report said CoastJet, loaded with debt, was being bailed out by a Chinese billionaire. On Tuesday a phone number listed online for CoastJet was disconnected.
+- Separate documents obtained from Insolvency Trustee Services Australia show Dr Hingston was bankrupted on August 4 2009.
+- Dr Hingston's lawyer Philip Beazley said that bankruptcy had been annulled. He also confirmed the reported facts surrounding the collapse of CoastJet, saying it was designed to be a community ambulance service.
+- Google declined to comment on the case.
+- Through his lawyer, Dr Hingston said he did not think it would be appropriate to comment further whilst the matter was before the US courts.
+- Dr Hingston's website DrGuy.com.au describes him as a "cancer surgeon, author & speaker" and he sells men and women's health books on his website which he describes as a "service manual for life".
+- In October last year a jury in Australia found Google liable for $200,000 in damages after a complaint that its search results linked 62-year-old Melbourne man Milorad Trkulja to gangland crime. He had previously won a similar case against Yahoo.
+- Last year former German first lady Bettina Wulff sued Google over the autocomplete phrases "Bettina Wulff prostitute" and "Bettina Wulff escort". The case has yet to be resolved.
+- Google was ordered by a Tokyo court in March last year to disable certain autocomplete results related to a Japanese man which linked his name with a series of crimes. His lawyer had said he lost his job and had been rejected for others he'd applied for as a result of the autocomplete issue.
+- In January last year a French court fined Google $65,000 because the search engine's autocomplete function prompted the French word for "crook" when users typed the name of an insurance company.
+- Google writes on its website that autocomplete results are "a reflection of the search activity of all web users and the content of web pages indexed by Google".
+- Leanne O'Donnell, senior associate with Herbert Geer in Melbourne said Google's defence would likely be that the autocomplete results are automated and it does not control them.
+- She said the Trkulja case in Australia "opened the door" to Google being held responsible for the contents of its search pages but the Hingston case would be a "test case" in the US, where courts may be more "reticent to interfere", in part because of greater protection of free speech.
+- In another case, the ACCC has alleged before the High Court that Google should be held responsible for its AdWords. A decision in this matter is expected in February.
+- "Normally [Google] would try to say 'we don't publish it, it's just an automatic algorithm it's not like a newspaper publishing a column', but that's something that the courts are now examining in more depth," O'Donnell said.
+- smh.com.au
+- Advertisement
+- Sign up for our newsletter to stay up to date.
+- We care about the protection of your data. Read our Privacy Policy.
+- Advertisement
+
+- Google Images links Australian music promoter to criminal underworld
+- Google Autocomplete unfairly links businessman to Scientology
+- Page infoType: IncidentPublished: March 2023

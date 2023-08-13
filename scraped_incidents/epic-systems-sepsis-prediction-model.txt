@@ -1,0 +1,500 @@
+- Released: TBC
+- Can you improve this page?Share your insights with us
+- An algorithm to predict whether or not patients with infections have contracted sepsis has been discovered to have missed about two-thirds of actual cases, rarely found cases medical staff did not notice, and frequently issued false alarms.
+- Electronic health record company Epic Systems' Epic Sepsis Model is used by hundreds of hospitals across the US and is marketed as being 76 percent accurate.
+- However, a June 2021 study published in JAMA Internal Medicine by University of Michigan researchers analysing a retrospective sample of over 27,000 adult Michigan Medicine patients concludes the algorithm is only correct 63 percent of the time, and raises many false alarms.
+- Part of the problem, Stat News reports, is that the algorithm was trained to flag when doctors would submit bills for sepsis treatment, which doesn’t always line up with patients’ first signs of symptoms.
+- In response, Epic pointed to previous research that found the model can accurately predict sepsis, and argued customers have 'complete transparency' into the model.
+- In an accompanying editorial, medical researchers argue the findings highlight the need for the external validation of proprietary healthcare prediction models before clinical use.
+- In February 2022, Stat published the findings of a research study conducted with the Massachusetts Institute of Technology that small shifts in data fed into well-known health care algorithms, including the Epic Sepsis Model can cause their accuracy to degrade over time.
+- Instead of transforming care, the study finds, the algorithms are unable to keep pace with fast-moving clinical conditions, potentially resulting in mis-diagnoses and raising the prospect AI could do more harm than good.
+- Epic Systems confirmed in October 2022 that it had overhauled its sepsis prediction model to improve its accuracy and make its alerts more meaningful to clinicians.
+- Operator: Michigan Medical School; Multiple Developer: Epic Systems Country: USA Sector: HealthPurpose: Predict sepsis infection Technology: Prediction algorithm Issue: Accuracy/reliability; Safety Transparency: Governance; Black box; Marketing - misleading
+URL: https://www.epic.com/epic/post/for-clinicians-by-clinicians-our-take-on-predictive-models
+- 
+- We’ll start with a discussion of sepsis. It’s an infection that results in organ failure and, often, death. Clinicians reading this might remember when many of us were using the Systemic Inflammatory Response Syndrome Criteria (SIRS+) as a way to identify and screen patients who might have sepsis. Many recognized that SIRS was not an ideal tool, but it did help identify some patients with sepsis sooner than a clinician’s eye.
+- Patients can meet SIRS criteria for many different reasons, including labor or pregnancy. It was too broad of a tool and left many feeling frustrated. To help improve on this, Epic used robust patient datasets and predictive modeling techniques to perform a similar assessment to SIRS using different criteria. We created a predictive model that identified more patients correctly and reduced the number of times an alert was triggered when compared to SIRS. The predictive model both improved the value and decreased the noise for clinicians when identifying patients with sepsis.
+- Predictive models require analysis and tuning to work properly in your clinical context. We created a tool called the validation utility for every health system to see exactly how effective Epic’s Early Detection of Sepsis model was at identifying septic patients in its population.
+- Since then, we’ve scaled that process to a number of different models, and many organizations have found them very helpful. Some have shared their success at our XGM and UGM conferences, and some have published in the medical literature. Organizations like Prisma and North Oaks have seen improvements in sepsis mortality using these tools. Tens of thousands of clinicians have access to the sepsis model and transparency into how it works. They can hover to see what parameters it takes into account, and the details of the model’s development are available to Epic organizations. However, it’s not just about the inputs and the math. The robust clinical workflows and processes that surround these tools are what give the tools purpose and allow for improved outcomes.
+- We recognize machine learning is not a perfect solution for every problem, but we believe it has a real opportunity to make healthcare better. As we continue to improve machine learning at Epic, we will further build on our collaboration with the clinical and research community and are always looking for ways to partner with clinicians to create models that can improve clinical care and promote better health for everyone. If you would like to engage with us, reach out on the UserWeb.
+- By Jackie Gerhart, MD, & Johnston Thayer, RN – Clinical Informaticists at Epic
+- Bottle caps sculpture by Dakota Pratt
+- Clayton M. Christensen, Jerome H. Grossman M.D., Jason Hwang
+- 
+
+URL: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2781307
+
+URL: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2781313
+
+URL: https://www.statnews.com/2022/02/28/data-drift-machine-learning/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- By Janice Yang, Ludvig Karstens, Casey Ross  and Adam YalaFeb. 28, 2022
+- In July 2021, STAT and the Massachusetts Institute of Technology set out to answer a simple question with big implications for the use of AI in medicine: How do popular algorithms used to warn of bad outcomes for patients hold up over time?
+- The months-long experiment, born of a novel partnership in journalism and science, yielded an illuminating result: the algorithms deteriorated over several years, delivering faulty advice about which patients were at the highest risk of deadly complications and prolonged hospital stays.
+- advertisement
+- Getting to that conclusion required months of data wrangling and analysis to test key assumptions, replicate findings, and chase down elusive answers in the data. The outcome is described in a narrative designed to explain how algorithms that initially seem so promising can so quickly go off the rails. This document goes into greater depth about the experiment’s methods, technical details, and the limitations of the findings.
+- In short, this is how we did it.
+- 
+- National Technology Correspondent
+- Casey Ross covers the use of artificial intelligence in medicine and its underlying questions of safety, fairness, and privacy.
+- Artificial Intelligence
+- health tech
+- hospitals
+- research
+- This name will appear with your comment
+- There was an error saving your display name. Please check and try again.
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- 
+- from some of the nation’s most trusted and well-connected journalists
+- hosted by STAT+, plus early access and discounts to can’t-miss industry gatherings
+- delivered to your inbox with the latest market-moving news and insights
+- that help you stay up to date with the latest research and developments
+- 
+- 
+- on the technologies, personalities, power brokers, and political forces driving changes in life science
+- plus early access and discounts to industry gatherings
+- delivered straight to your inbox with the latest industry news
+- that help you stay up to date with industry research and developments
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- By Casey Ross June 21, 2021
+- It was a win-win. Hospitals needed to prevent patient deaths from sepsis, a complication of infection; and Epic, the nation’s largest seller of medical records, needed users for its new product — an algorithm that could predict which patients would develop the condition so doctors could intervene earlier.
+- Over the last few years, hundreds of hospitals have plugged in the algorithm without verifying its advertised 80% accuracy rate. Then a group of researchers at the University of Michigan started asking questions about its performance.
+- advertisement
+- Their findings, published Monday in JAMA Internal Medicine, underscore the perils of allowing algorithms to run unchecked in U.S. health care: Epic’s sepsis predictor missed two-thirds of cases in the University of Michigan’s hospital system; its overall accuracy was about 63%, which is little better than a coin flip; and its high rate of false alarms meant clinicians would have to respond to 109 alerts to find a single patient with sepsis.
+- Unlock this article by subscribing to STAT+ and enjoy your first 30 days free!
+- National Technology Correspondent
+- Casey Ross covers the use of artificial intelligence in medicine and its underlying questions of safety, fairness, and privacy.
+- health tech
+- hospitals
+- Stat
+- This name will appear with your comment
+- There was an error saving your display name. Please check and try again.
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://www.wired.com/story/algorithm-predicts-deadly-infections-often-flawed/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Tom Simonite
+- Application
+- Prediction
+- End User
+- Small company
+- Sector
+- Health care
+- Technology
+- Machine learning
+- A complication of infection known as sepsis is the number one killer in US hospitals. So it’s not surprising that more than 100 health systems use an early warning system offered by Epic Systems, the dominant provider of US electronic health records. The system throws up alerts based on a proprietary formula tirelessly watching for signs of the condition in a patient’s test results.
+- But a new study using data from nearly 30,000 patients in University of Michigan hospitals suggests Epic’s system performs poorly. The authors say it missed two-thirds of sepsis cases, rarely found cases medical staff did not notice, and frequently issued false alarms.
+- Karandeep Singh, an assistant professor at University of Michigan who led the study, says the findings illustrate a broader problem with the proprietary algorithms increasingly used in health care. “They’re very widely used, and yet there’s very little published on these models,” Singh says. “To me that’s shocking.”
+- The study was published Monday in JAMA Internal Medicine. An Epic spokesperson disputed the study’s conclusions, saying the company’s system has “helped clinicians save thousands of lives.”
+- Epic’s is not the first widely used health algorithm to trigger concerns that technology supposed to improve health care is not delivering, or even actively harmful. In 2019, a system used on millions of patients to prioritize access to special care for people with complex needs was found to lowball the needs of Black patients compared to white patients. That prompted some Democratic senators to ask federal regulators to investigate bias in health algorithms. A study published in April found that statistical models used to predict suicide risk in mental health patients performed well for white and Asian patients but poorly for Black patients.
+- The models are “very widely used, and yet there’s very little published on them.”
+- The way sepsis stalks hospital wards has made it a special target of algorithmic aids for medical staff. Guidelines from the Centers for Disease Control and Prevention to health providers on sepsis encourage use of electronic medical records for surveillance and predictions. Epic has several competitors offering commercial warning systems, and some US research hospitals have built their own tools.
+- Automated sepsis warnings have huge potential, Singh says, because key symptoms of the condition, such as low blood pressure, can have other causes, making it difficult for staff to spot early. Starting sepsis treatment such as antibiotics just an hour sooner can make a big difference to patient survival. Hospital administrators often take special interest in sepsis response, in part because it contributes to US government hospital ratings.
+- Singh runs a lab at Michigan researching applications of machine learning to patient care. He got curious about Epic’s sepsis warning system after being asked to chair a committee at the university’s health system created to oversee uses of machine learning.
+- As Singh learned more about the tools in use at Michigan and other health systems, he became concerned that they mostly came from vendors that disclosed little about how they worked or performed. His own system had a license to use Epic’s sepsis prediction model, which the company told customers was highly accurate. But there had been no independent validation of its performance.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Singh and Michigan colleagues tested Epic’s prediction model on records for nearly 30,000 patients covering almost 40,000 hospitalizations in 2018 and 2019. The researchers noted how often Epic’s algorithm flagged people who developed sepsis as defined by the CDC and the Centers for Medicare and Medicaid Services. And they compared the alerts that the system would have triggered with sepsis treatments logged by staff, who did not see Epic sepsis alerts for patients included in the study.
+- The researchers say their results suggest Epic’s system wouldn’t make a hospital much better at catching sepsis and could burden staff with unnecessary alerts. The company’s algorithm did not identify two-thirds of the roughly 2,500 sepsis cases in the Michigan data. It would have alerted for 183 patients who developed sepsis but had not been given timely treatment by staff.
+- At the same time, most of the Epic system’s alerts would have been false alarms. When it flagged a patient, there was only a 12 percent chance that person would develop sepsis. “For all that alerting, you get very little value,” Singh says. He believes the system could contribute to what people in health care call alert fatigue, the cavalcade of pop-ups, pings, and beeps that can cause physicians and nurses to feel overwhelmed and start ignoring notifications.
+- 
+- The Michigan authors say Epic tells customers its sepsis warning system can correctly distinguish two patients with and without sepsis at least 76 percent of the time. Their evaluation found it could do so only 63 percent of the time.
+- Singh says Epic’s figures appear to make its system look more useful because they compare its alerts against records of billing codes for sepsis treatment. That effectively sets a lower bar for good performance, because it ignores sepsis cases not detected by medical staff. “I think it’s developed to predict the wrong thing,” Singh says. “No one uses billing codes for detecting who has sepsis in a study.”
+- The Epic spokesperson pointed to a conference abstract published in January by Prisma Health of South Carolina on a smaller sample of 11,500 patients. It found that Epic’s system was associated with a 4 percent reduction in mortality of sepsis patients. Singh says that study used billing codes to define sepsis, not the clinical criteria medical researchers typically use.
+- Epic also says the Michigan study set a low threshold for sepsis alerts, which would be expected to produce a higher number of false positives; Singh says the threshold was chosen based on guidance from Epic.
+- Roy Adams, an assistant professor who works on machine learning for health data at Johns Hopkins School of Medicine, wants to see other studies kick the tires on health algorithms shaping patient care. “We need more independent evaluations of these proprietary systems,” he says.
+- Adams says systems like Epic’s are becoming more common, but hospital administrators assessing them often have little data on how they operate, or perform in the clinic. Even where evaluation data is available, there aren’t clear standards on how to compare different systems.
+- Singh and other researchers are working on defining standardized ways to describe and compare the performance of health algorithms. He says Epic has recently made it easier for health care providers and other companies to integrate their own prediction models with the company’s record system, which should encourage more transparency and competition.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Singh also thinks that regulators should take more interest in systems like Epic’s sepsis predictor. Recent guidance from the Food and Drug Administration about machine learning models in health care and interest in bias in machine learning from the White House Office of Science and Technology Policy make Singh feel optimistic that companies like Epic may soon have more incentive to be more rigorous and open with their algorithms.
+- Chris Stokel-Walker
+- Chris Stokel-Walker
+- Will Knight
+- Gregory Barber
+- Virginia Heffernan
+- Matt Burgess
+- Vittoria Elliott
+- Will Knight
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.theverge.com/2021/6/22/22545044/algorithm-hospital-sepsis-epic-prediction
+- By  Nicole Wetsman
+- The biggest electronic health record company in the United States, Epic Systems, claims it can solve a major problem for hospitals: identifying signs of sepsis, an often deadly complication from infections that can lead to organ failure. It’s a leading cause of death in hospitals.
+- But the algorithm doesn’t work as well as advertised, according to a new study published in JAMA Internal Medicine on Monday. Epic says its alert system can correctly differentiate patients who do and don’t have sepsis 76 percent of the time. The new study found it was only right 63 percent of the time.
+- An Epic spokesperson disputed the findings in a statement to Stat News, saying that other research showed the algorithm was accurate.
+- Sepsis is hard to spot early, but starting treatment as soon as possible can improve patients' chances of survival. The Epic system, and other automated warning tools like it, scan patient test results for signals that someone could be developing the condition. Around a quarter of US hospitals use Epic’s electronic medical records, and hundreds of hospitals use its sepsis prediction tool, including the health center at the University of Michigan, where study author Karandeep Singh is an assistant professor.
+- The study examined data from nearly 40,000 hospitalizations at Michigan Medicine in 2018 and 2019. Patients developed sepsis in 2,552 of those hospitalizations. Epic’s sepsis tool missed 1,709 of those cases, around two-thirds of which were still identified and treated quickly. It only identified 7 percent of sepsis cases that were missed by a physician. The analysis also found a high rate of false positives: when an alert went off for a patient, there was only a 12 percent chance that the patient actually would develop sepsis.
+- Part of the problem, Singh told Stat News, seemed to be in the way the Epic algorithm was developed. The algorithm used information on bills for sepsis to define which patients had sepsis. That means it’s catching cases where the doctor already thinks there’s an issue. “It’s essentially trying to predict what physicians are already doing,” Singh said. It’s also not the measure of sepsis that researchers would ordinarily use.
+- Tools that mine patient data to predict what could happen with their health are common and can be useful for doctors. But they’re only as good as the data they’re developed with, and they should be subject to outside evaluation. When researchers scrutinize tools like this one, they sometimes find holes: for example, one algorithm used by major health systems to flag patients who need special attention was biased against Black patients, a 2019 study found.
+- Epic rolled out another predictive tool, called the Deterioration Index, during the early days of the COVID-19 pandemic. It was designed to help doctors decide which patients should move into intensive care and which could be fine without it. The pandemic was an emergency, so hospitals around the country started using it before it was subject to any sort of independent evaluation. Even now, there has been limited research on the tool. One small study showed it could identify high- and low-risk patients but might not be useful to doctors. There could be unforeseen problems or biases in the system that are going unnoticed, Brown University researchers warned in Undark.
+- If digital tools are going to live up to their potential in healthcare, companies like Epic should be transparent about how they’re made and they should be regularly monitored to make sure they’re working well, Singh says on Twitter. These tools are becoming more and more common, so these types of issues aren’t going away, Roy Adams, an assistant professor at Johns Hopkins School of Medicine, told Wired. “We need more independent evaluations of these proprietary systems,” he says.
+- Correction June 28th, 5:58PM ET: The original version of this story suggested the algorithm defined sepsis based on when doctors submit a bill for treatment. Instead, the algorithm uses information from billing codes to define sepsis. We regret the error.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.theregister.com/2021/06/23/ai_sepsis_mistakes/
+
+URL: https://www.morningbrew.com/emerging-tech/stories/2021/06/25/study-diseaseflagging-medical-algorithm-performs-substantially-worse-reported
+
+URL: https://www.fiercehealthcare.com/tech/epic-s-widely-used-sepsis-prediction-model-falls-short-among-michigan-medicine-patients
+- You do not have access to www.fiercehealthcare.com.
+- The site owner may have set restrictions that prevent you from accessing the site.
+- Error details
+- Provide the site owner this information.
+- I got an error when visiting www.fiercehealthcare.com/tech/epic-s-widely-used-sepsis-prediction-model-falls-short-among-michigan-medicine-patients.
+- Error code: 1020
+- Ray ID: 7cf5e8b11e259587
+- Country: IE
+- Data center: dub01
+- IP: 31.193.221.194
+- Timestamp: 2023-05-30 09:21:47 UTC
+- Click to copy
+- Performance & security by Cloudflare
+
+URL: https://www.healthcareitnews.com/news/research-suggests-epic-sepsis-model-lacking-predictive-power
+- 
+- Photo: Luis Alvarez/Getty Images
+- A new study in JAMA Internal Medicine found that a sepsis prediction model included as part of Epic's electronic health record may poorly predict sepsis.
+- Using retrospective data, University of Michigan Medical School researchers found that the predictor did not identify two-thirds of sepsis patients.
+- "In this external validation study, we found the ESM to have poor discrimination and calibration in predicting the onset of sepsis at the hospitalization level," UM researchers wrote.
+- Epic disputed the study's findings, saying that the authors used a hypothetical approach that did not take into account the analysis and required tuning that needs to occur prior to real-world deployment to get optimal results.
+- "In their hypothetical configuration, the authors picked a low threshold value that would be appropriate for a rapid response team that wants to cast a wide net to assess more patients," said a statement provided by the company.
+- "A higher threshold value, reducing false positives, would be appropriate for attending physicians and nurses," it continued.
+- WHY IT MATTERS
+- As the researchers note, early detection and treatment of sepsis have been associated with less mortality in hospitalized patients.
+- One of the most widely implemented early warning systems for sepsis in U.S. hospitals is the ESM, a penalized logistic regression model included in Epic's EHR.
+- Although Epic developed and validated the model based on data from 405,000 patient encounters, the researchers raised concerns about its opacity as a proprietary model.
+- "An improved understanding of how well the ESM performs has the potential to inform care for the several hundred thousand patients hospitalized for sepsis in the U.S. each year," wrote the researchers.
+- Using the data of all patients older than 18 admitted to Michigan Medicine between December 6, 2018, and October 20, 2019, researchers found that sepsis occurred in 7% of the hospitalizations. The ESM had a hospitalization-level operating characteristic curve, or AUC, of 0.63 – "substantially worse," than that reported by Epic, they said.
+- When alerting at a score threshold of 6 or higher, which is within Epic's recommended range, the model identified only 7% of patients with sepsis who were missed by a clinician.
+- It did not identify two-thirds of patients with sepsis – despite generating alerts on 18% of all hospitalized patients, creating a large burden of alert fatigue.
+- In its statement, Epic argued that the purpose of the model is to identify harder-to-recognize patients who otherwise might have been missed. It pointed to previous research that found the model could accurately predict sepsis, and said customers have "complete transparency" into the model.
+- According to Epic: "Each health system needs to set thresholds to balance false negatives against false positives for each type of user. When set to reduce false positives, it may miss some patients who will become septic. If set to reduce false negatives, it will catch more septic patients, however it will require extra work from the health system, because it will also catch some patients who are deteriorating, but not becoming septic.
+- "In the example given in this paper, if the Epic model was used in real time, it would likely have identified 183 patients who otherwise might have been missed," the statement added.
+- WHY IT MATTERS
+- Health systems have increasingly turned to machine learning and predictive analytics to detect sepsis in patients in an effort to decrease mortality.
+- In 2019, researchers from Geisinger and IBM developed a new predictive algorithm to detect sepsis risk, aimed at helping clinicians create a more personal care plan for at-risk patients.
+- But the JAMA study reiterates that models have their own challenges, such as alert fatigue or, conversely, defaulting to computer-generated assessments as infallible.
+- ON THE RECORD
+- "Medical professional organizations constructing national guidelines should be cognizant of the broad use of these algorithms and make formal recommendations about their use," wrote researchers.
+- 
+- Kat Jercich is senior editor of Healthcare IT News.Twitter: @kjercichEmail: kjercich@himss.orgHealthcare IT News is a HIMSS Media publication.
+- More Whitepapers
+- More Webinars
+- 
+- © 2023 Healthcare IT News is a publication of HIMSS Media
+
+URL: https://www.statnews.com/2022/02/28/sepsis-hospital-algorithms-data-shift/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- By Casey Ross
+- Feb. 28, 2022
+- Data analysis by Adam Yala, Janice Yang and Ludvig Karstens — Jameel Clinic, Massachusetts Institute of Technology
+- A novel investigation by STAT and the Massachusetts Institute of Technology found that subtle shifts in data fed into popular health care algorithms — used to warn caregivers of impending medical crises — can cause their accuracy to plummet over time, raising the prospect AI could do more harm than good in many hospitals.
+- In a monthslong experiment, STAT and MIT traced the performance of algorithms past their early days of peak performance into the grinding years that follow, when the hype has faded and they must prove their reliability to caregivers. Instead of transforming care, the algorithms withered in the face of fast-moving clinical conditions — unable to keep up with the pace of change.
+- advertisement
+- Their frailty exposes gaping holes in the governance of products whose quiet deterioration in hospitals around the country threatens to mislead doctors and undermine patient safety. The initial signs of dysfunction are often faint, making it difficult to root out faulty information before it bleeds into decision-making.
+- Unlock this article by subscribing to STAT+ and enjoy your first 30 days free!
+- National Technology Correspondent
+- Casey Ross covers the use of artificial intelligence in medicine and its underlying questions of safety, fairness, and privacy.
+- Artificial Intelligence
+- health tech
+- hospitals
+- Stat
+- This name will appear with your comment
+- There was an error saving your display name. Please check and try again.
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://khn.org/morning-breakout/warnings-over-falling-accuracy-of-health-care-algorithms/
+- An investigation by Stat and MIT reports that the accuracy of some popular health care algorithms can drift over time, potentially impacting patient care including warnings of impending medical crises. Separately, a science advisory panel called for the overhaul of the U.S. organ transplant system.
+- Stat:
+						AI Gone Astray: How Shifts In Patient Data Send Health Algorithms Reeling					
+
+					A novel investigation by STAT and the Massachusetts Institute of Technology found that subtle shifts in data fed into popular health care algorithms — used to warn caregivers of impending medical crises — can cause their accuracy to plummet over time, raising the prospect AI could do more harm than good in many hospitals. In a monthslong experiment, STAT and MIT traced the performance of algorithms past their early days of peak performance into the grinding years that follow, when the hype has faded and they must prove their reliability to caregivers. Instead of transforming care, the algorithms withered in the face of fast-moving clinical conditions — unable to keep up with the pace of change. Their frailty exposes gaping holes in the governance of products whose quiet deterioration in hospitals around the country threatens to mislead doctors and undermine patient safety. The initial signs of dysfunction are often faint, making it difficult to root out faulty information before it bleeds into decision-making. (Ross, 2/28)
+- Stat:
+						How STAT And MIT Rooted Out Weaknesses In Health Care Algorithms					
+
+					In July 2021, STAT and the Massachusetts Institute of Technology set out to answer a simple question with big implications for the use of AI in medicine: How do popular algorithms used to warn of bad outcomes for patients hold up over time? The months-long experiment, born of a novel partnership in journalism and science, yielded an illuminating result: the algorithms deteriorated over several years, delivering faulty advice about which patients were at the highest risk of deadly complications and prolonged hospital stays. (Yang, Karstens, Ross and Yala, 2/28)
+- The Hill:
+						Advisory Panel Recommends Overhaul For US Transplant System					
+
+					A scientific advisory panel said that the U.S. transplant system must be overhauled in the next five years, The Associated Press reported. A report from the National Academies of Sciences, Engineering and Medicine published on Friday detailed flaws that prevent the country from performing more life-saving transplants, according to the AP. More than 41,000 organ transplants were performed last year in the U.S. — a record-breaking number, the AP noted. However, more than 106,000 patients are waiting for transplants, 17 of whom die each day before they are able to undergo surgery. (Folmar, 2/25)
+- On race matters in health care —
+- WPLN:
+						Health Care Firms Were Pushed To Confront Racism. Now Some Are Investing In Black Startups. 					
+
+					Marcus Whitney stands out in Nashville’s $95 billion health care sector as an investor in startups. In addition to co-founding a venture capital firm, he’s organized an annual health tech conference and co-founded the city’s professional soccer club. And, often, he’s the only Black man in the room. So in summer 2020, as Black Lives Matter protesters filled city streets around the country following George Floyd’s murder, Whitney pondered the racial inequalities that are so obvious in his industry — especially locally. “I sat at the intersection of two communities — one that I was born into and one that I had matriculated into,” he said. (Farmer, 2/25)
+- Detroit Free Press:
+						Detroit Had 18 Black-Owned And Operated Hospitals: Why They Vanished					
+
+					This year, the Association for the Study of African American Life and History set health and wellnes as the theme for Black History Month. In Detroit, the history of Black health care is largely a saga of Black physicians who established a parallel medical universe alongside the white hospitals that shunned them and their Black patients. In 1844, four Catholic nuns — Loyola Ritchie, Rebecca Delone, Felicia Fenwick and Rosaline Brown — came to Detroit. On June 9, 1845, they established St. Vincent's Hospital, the first hospital in the entire Northwest Territory. It was located at Randolph and Larned in what is now downtown Detroit. (Jordan, 2/27)
+- Also —
+- Carolina Public Press:
+						‘Running Calls Around The Clock’: FEMA Ambulances Assist Depleted EMS Crews 					
+
+					Before a new batch of 25 FEMA-contracted ambulances arrived in North Carolina in early February, overworked crews at Forsyth County Emergency Services had weathered a rising number of calls amid the winter surge of the omicron variant. Like many other EMS agencies across the state, the pandemic heightened demand for their services, but heavy workloads and the ensuing burnout had led to a shortage of qualified paramedics and emergency medical technicians to fully staff Forsyth County’s fleet of ambulances. (Darrough, 2/26)
+- CIDRAP:
+						Workforce In Nursing Homes, Other Healthcare Areas Shrank Amid COVID					
+
+					US skilled nursing facilities (SNFs) faced sharp employment losses during the pandemic—particularly in counties with a large infection burden—and did not rebound like other healthcare sectors, finds a study today in JAMA Health Forum. In the study, a team led by RAND Corp. researchers examined the effect of COVID-19 on the US healthcare workforce in 2020 and the first half of 2021, a time of elevated health risks, burnout, and childcare disruptions. "While federal programs have provided financial assistance to hospitals and institutions, the net effect of these forces on health care employment levels and wages has not been examined," the researchers wrote. (2/25)
+- Anchorage Daily News:
+						Alaska’s Depleted Public Health Nurse Program Is Evolving Amid Chronic Job Vacancies And Burnout					
+
+					State officials are looking for new ways to operate Alaska’s decades-old public health nursing program as they struggle to fill scores of empty positions two years into a pandemic. They say the program, established in 1943, needs to evolve to address emotional fatigue and burnout, as well as better meet the needs of the communities served by public health centers. (Zaz Hollander, 2/27)
+- AP:
+						New $70 Million Hospital Planned For Louisville's West End					
+
+					A new hospital has been announced for Louisville’s west end, the first to be built in the predominantly African American area in 150 years. City leaders announced a $100 million investment by two major employers, including the $70 million hospital from Norton Healthcare, the Courier Journal reported. The large campus on Broadway and 28th Street will include a $30 million headquarters for Goodwill Industries of Kentucky. Russell Cox, CEO of Norton Healthcare, said during the announcement Wednesday that it was a “transformational day in the history of health care in our community.” (2/26)
+- On health insurance, payment matters —
+- Georgia Health News:
+						Prescription Drugs: Another Potential Legislative Change That Medicaid Insurers Face					
+
+					One House bill would make Georgia’s Medicaid managed care insurers face stricter requirements on how they spend their government dollars. There’s a second bill that has also captured their attention – an attempt to wrest control of patients’ prescription drugs from those health plans. House Bill 1351 would remove the function of the three managed care companies — Peach State, Amerigroup and CareSource — to oversee the dispensing of medication, instead placing it under state supervision. The goal of the bill is to improve care for patients and save the state money, said its lead sponsor, Rep. David Knight, a Griffin Republican. (Miller, 2/25)
+- KHN:
+						The Demise Of Single-Payer In California Trips Up Efforts In Other States					
+
+					Single-payer health care didn’t stand a chance in California this year. Even in this deep-blue bastion, Democratic lawmakers shied away from legislation that would have put state government in charge of health care and taxed Californians heavily to do so — a massive transformation that would have forced them to take on the powerful health care industry. (Hart, 2/28)
+- We want to hear from you: Contact Us
+- Hospital Investigated for Allegedly Denying an Emergency Abortion After Patient's Water Broke
+- Medicare Fines for High Hospital Readmissions Drop, but Nearly 2,300 Facilities Are Still Penalized
+- This Open Enrollment Season, Look Out for Health Insurance That Seems Too Good to Be True
+- What Looks Like Pot, Acts Like Pot, but Is Legal Nearly Everywhere? Meet Hemp-Derived Delta-9 THC
+- © 2023 KFF. All rights reserved.
+- Powered by WordPress VIP
+- Thank you for your interest in supporting Kaiser Health News (KHN), the nation’s leading nonprofit newsroom focused on health and health policy. We distribute our journalism for free and without advertising through media partners of all sizes and in communities large and small. We appreciate all forms of engagement from our readers and listeners, and welcome your support.
+- KHN is an editorially independent program of KFF (Kaiser Family Foundation). You can support KHN by making a contribution to KFF, a non-profit charitable organization that is not associated with Kaiser Permanente.
+- Click the button below to go to KFF’s donation page which will provide more information and FAQs. Thank you!
+
+URL: https://www.statnews.com/2022/10/03/epic-sepsis-algorithm-revamp-training/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- 
+- from some of the nation’s most trusted and well-connected journalists
+- hosted by STAT+, plus early access and discounts to can’t-miss industry gatherings
+- delivered to your inbox with the latest market-moving news and insights
+- that help you stay up to date with the latest research and developments
+- 
+- 
+- on the technologies, personalities, power brokers, and political forces driving changes in life science
+- plus early access and discounts to industry gatherings
+- delivered straight to your inbox with the latest industry news
+- that help you stay up to date with industry research and developments
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- By Casey Ross Oct. 3, 2022
+- Epic Systems has revamped its widely criticized sepsis prediction model in a bid to improve its accuracy and make its alerts more meaningful to clinicians trying to snuff out the deadly condition.
+- Corporate documents obtained by STAT show that Epic is now recommending that its model be trained on a hospital’s own data before clinical use, a major shift aimed at ensuring its predictions are relevant to the actual patient population a hospital treats. The documents also indicate Epic is changing its definition of sepsis onset to a more commonly accepted standard and reducing its reliance on clinician orders for antibiotics as a way to flag the condition.
+- advertisement
+- The changes follow the publication of a series of investigations by STAT that found an earlier version of Epic’s tool resulted in high rates of false alarms at some hospitals and failed to reliably flag sepsis in advance. One of the investigations found that the model’s use of antibiotics as a prediction variable was particularly problematic, resulting in late alarms to physicians who had already recognized the condition and taken action to treat it.
+- Unlock this article by subscribing to STAT+ and enjoy your first 30 days free!
+- National Technology Correspondent
+- Casey Ross covers the use of artificial intelligence in medicine and its underlying questions of safety, fairness, and privacy.
+- Artificial Intelligence
+- health tech
+- STAT+
+- This name will appear with your comment
+- There was an error saving your display name. Please check and try again.
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://www.statnews.com/2022/10/24/epic-overhaul-of-a-flawed-algorithm/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- By Casey Ross
+- Oct. 24, 2022
+- Epic, the nation’s dominant seller of electronic health records, was bracing for a catastrophe.
+- It was June 2021, and a study about to be published in the Journal of the American Medical Association had found that Epic’s artificial intelligence tool to predict sepsis, a deadly complication of infection, was prone to missing cases and flooding clinicians with false alarms. Reporters were clamoring for an explanation.
+- advertisement
+- Epic executives quickly drafted a statement knocking down the findings and rushed to reassure worried customers. It followed up with a blog post, its first in six months, pushing back against the implication that it wasn’t being forthcoming: “Tens of thousands of clinicians have access to the sepsis model and transparency into how it works,” Epic wrote.
+- A full-scale crisis was averted. But barely.
+- A year later, after a series of investigations by STAT, the company released a re-engineered version of the model it had steadfastly defended. Epic changed the data variables it uses, its definition of sepsis onset, and its guidance for tuning the algorithm to local patients. Even the user guide for the hundreds of hospitals it serves nationwide was entirely different — and twice as long.
+- Your weekly guide to how tech is transforming health care and life sciences.
+- While it is common for software companies to upgrade products after their initial release, this was a wholesale remaking of an algorithm used to guide decisions about millions of seriously ill patients in U.S. hospitals at any given time. A missed case of sepsis doesn’t cause annoyance or irritation. It very often leads to death.
+- advertisement
+- Epic is not the only company moving aggressively to sell AI tools to health systems. But the precarious rollout of its popular sepsis algorithm has become a case study in the challenges of ensuring such algorithms are used safely and effectively at the bedside. It also underscores shortcomings in procedures for evaluating and regulating AI products, which risk giving faulty advice to doctors and nurses trying to make time-sensitive decisions about very sick people.
+- Federal regulators and hospital leaders are scrambling to anticipate problems likely to arise with AI systems without knowing exactly how the lines of responsibility should be drawn. The Food and Drug Administration published a recent guidance that put the regulation of sepsis alerts and other AI predictors squarely within its purview. But it has not made clear whether it will require a review process before those products go on the market, as is required of many algorithms that interpret medical images.
+- The White House, meanwhile, cited the initial concerns raised about Epic’s sepsis model in its “AI Bill of Rights,” a document that broadly calls for greater transparency and quality controls around the use of automated systems. And many experts in critical care medicine are saying that evaluation and oversight of AI in medicine must be more rigorous.
+- “The lack of standard empiric evidence supporting these algorithms is really bothersome for me,” said Derek Angus, a physician at the University of Pittsburgh Medical Center and expert in treating sepsis. “We don’t really know with strong enough cause when these algorithms are helping, and similarly we’re not really sure when they’re hurting.”
+- That’s particularly problematic, he said, when the algorithm developer asserts — as Epic does in marketing materials — that its product is saving lives. “That’s like the use of a drug,” Angus said. “It’s fundamentally changing the way care is delivered in a hospital.”
+- But Epic’s tool was treated nothing like a drug. It wasn’t subjected to an FDA review process or third-party testing before its initial release. No independent systems were put in place to monitor its use across hospitals or report problems. And its benefits and side effects were not measured in a randomized trial before it was plugged in at facilities around the country.
+- A spokesperson for Epic declined to answer questions about the changes to its sepsis model or the push for stepped-up oversight of AI products.
+- The new version corrects several problems raised by STAT’s reporting. Epic is now recommending that its model be trained on a hospital’s own data prior to clinical use, a major shift aimed at ensuring its recommendations are relevant to the patients a hospital sees. Several hospitals found the model’s accuracy to be much lower than Epic advertised in its initial user guide, suggesting it struggled to deal with differences in patient populations and the variability in sepsis symptoms.
+- The company also switched its definition of sepsis onset to a more commonly accepted standard and removed clinician orders for antibiotics as an input variable. STAT found the model’s use of antibiotics to be particularly problematic, creating a kind of circular logic that often resulted in late alarms. It was essentially using a doctor’s response to sepsis to predict that the condition was about to take hold. While that may have boosted accuracy in testing, it meant in real life, the algorithm was often telling doctors something they already knew.
+- “It didn’t have enough lead time; in fact, sometimes it didn’t have any lead time,” said Vincent Major, a professor of population health at New York Langone Health. He said the health system tested the Epic model, but opted to develop its own alert systems for adult and pediatric patients that could be tailored to its own data and practices.
+- “What makes sepsis a challenging use case for AI is that it’s almost the scariest clinical thing to be predicting,” Major said. “It’s time-sensitive. It’s a big deal with terrible patient outcomes, and there’s already a whole bundle of interventions.”
+- To make automated alerts truly useful, experts said, algorithms must recognize trends in the data much earlier, and cut through the normal hospital bureaucracy to prompt urgent action.
+- “If you wait for humans to recognize sepsis, that’s too late,” said Shamim Nemati, a professor of biomedical informatics at UC San Diego School of Medicine, who is preparing to launch a clinical trial to test a sepsis alert system he developed. The tool seeks to intervene at the diagnosis stage, automating the ordering of screening tests to confirm cases of sepsis and prompt faster treatment.
+- Nemati has also submitted the tool for approval from the FDA. He said evaluation of AI products, particularly for sepsis, should be carried out in stages, from an initial retrospective comparison of its predictions to patient outcomes, to validation studies prior to clinical use, to randomized testing, and finally ongoing surveillance after systems are deployed in live settings.
+- “We need rigorous protocols across the board to ensure that we’re evaluating these systems properly,” he said. “These algorithms are being used at the bedside. Patient safety is at stake.”
+- As Epic was preparing to launch its sepsis tool in 2017, several factors were pushing against that kind of slow and methodical evaluation. A new generation of products using machine learning, a subtype of AI, was generating heaps of publicity and hype.
+- Hospitals were also under increasing pressure to improve their treatment of sepsis, which kills nearly 270,000 Americans a year, often because it is not discovered in time.The federal government measures hospitals’ quality based in part on their sepsis outcomes and whether they are following standard protocols for treating it. Furthermore, the Centers for Disease Control and Prevention launched a campaign that year emphasizing the need to more proactively treat patients for sepsis and develop better processes for doing so.
+- All of which made AI an alluring option. Epic’s tool, though just one of many available, was the easiest to install because it was already embedded in the company’s widely-used health records software.
+- We're hosting events nationwide (and virtually) to tackle the biggest questions in health and medicine. Browse our upcoming events to see what's on the horizon.
+- At the time, however, there were few standards for evaluating machine-learning algorithms and testing them in individual hospitals. At a minimum, most hospitals ran it in the background of their data systems, so they could see how it would respond to individual patients before the alerts were turned on for clinical use. But the extent of the evaluations — whether based on prior data or live patients, and how the effects were analyzed — varied widely.
+- This approach is out of step with the high stakes for patients, experts said. “When you start to see concern raised that some of these algorithms could be having unwanted side effects, then I don’t know why they are held to a lower standard,” Angus said.
+- The side effects can take different forms. An alarm that is not sensitive enough may miss cases of sepsis, causing clinicians to delay necessary treatment or not deliver it at all. Conversely, an algorithm that is tuned to catch all the cases might also trigger false alarms, diverting clinicians from other patients in crisis. In some situations, a false alarm may also prompt providers to prescribe unnecessary antibiotics, which could cause the patient to have an adverse reaction or fuel antimicrobial resistance.
+- At UC Health in Colorado, which paired Epic’s sepsis algorithm with its own prediction models, the ratio of false alarms to true positives was about 30 to 1, according to CT Lin, the health system’s chief medical information officer.
+- “Our doctors’ response to us was, ‘Do you not think we’re running as fast as we can already treating patients who are trying to die in front of us right now?’” Lin said. They simply didn’t have time to click through dozens of alerts to find the one that might require urgent attention.
+- To deal with the high rate of false alarms, UC Health started using a remote team of clinicians to monitor the model’s output and examine patients through a live video feed. When a patient truly seemed to be deteriorating, a remote clinician would call the bedside nurses. But then the bedside nurses, annoyed by the perceived intrusion, began putting coats over the cameras.
+- “The way we had to solve that was to have all the virtual health nurses rotate in person, shake hands and go, ‘Hi, my name’s Amy. I’m the person on the other side of the camera,”’ Lin said. The formula for effectively embedding the sepsis alarms in the hospital ended up being “20% solving the math problem, and 80% relationship building.”
+- In the end, the process produced a positive outcome: Patients received antibiotics to treat sepsis in half the time compared to before the sepsis tool was installed, within an average 40 minutes rather than 80 minutes. The health system estimates that speedier sepsis care saves 211 lives annually.
+- But the process UC Health developed around the use of the tool was just as important as the tool itself. Since hospitals will inevitably make different decisions about how to embed sepsis alerts and other AI tools in their treatment practices, that will make it harder to create standards around AI products and objectively measure their value.
+- “People are quite wary of whether or not these tools will fundamentally improve our patient care without the risk of becoming clinically burdensome,” said Vincent Liu, a physician and research scientist at Kaiser Permanente who develops predictive analytics tools.
+- But Liu said throwing out the tools, or abandoning the quest altogether, is not the right move either. Just as hit-or-miss hurricane warning algorithms can still prove beneficial, imperfect sepsis alerts can still drive improvements in care.
+- The problem, he said, is that so many people have been seduced by the belief that there is such a thing as a perfect global sepsis model that will dramatically improve outcomes — but without special effort to ensure it’s implemented in the right way, at the right moment of treatment.
+- “Those who think that’s the goal are missing the point,” he said. “Sepsis is just very heterogeneous. Patients come with different symptoms. They have different organ failures. It’s not as universal as we would like it to be, and all of those challenges make it difficult to have a really high-performing prediction model that clearly improves outcomes.”
+- This story is part of a series examining the use of artificial intelligence in health care and practices for exchanging and analyzing patient data. It is supported with funding from the Gordon and Betty Moore Foundation.
+- National Technology Correspondent
+- Casey Ross covers the use of artificial intelligence in medicine and its underlying questions of safety, fairness, and privacy.
+- Artificial Intelligence
+- FDA
+- hospitals
+- medical technology
+- This name will appear with your comment
+- There was an error saving your display name. Please check and try again.
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://www.beckershospitalreview.com/ehrs/epic-overhauls-sepsis-algorithm.html
+
+- Epic Systems Epic Deterioration Index (EDI)
+- Page infoType: SystemPublished: February 2022Last updated: October 2022

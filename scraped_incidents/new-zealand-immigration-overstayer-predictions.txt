@@ -1,0 +1,229 @@
+- Occurred: April 2018
+- Can you improve this page?Share your insights with us
+- An New Zealand government official has revealed that overstayers to the country can be fast track deported should they belong to a demographic group that have previously committed crimes or run up hospital costs.
+- Immigration New Zealand compliance and investigations area manager Alistair Murray told RNZ that the country's immigration authorities are using an algorithm to predict overstaying based on age, gender, and ethnicity modelling data.
+- The revelation prompted accusations of illegal racial profiling, forcing the government to admit the pilot programme had been operating clandestinely for 18 months.
+- The programme was later terminated and a review of government use of algorithms conducted. This stocktaking (pdf) fed into a formal Algorithm Assessment Report (pdf) by the New Zealand government that made recommendations on the development and use of algorithms, including those introduced to manage migration.
+- Operator: Immigration New Zealand Developer: Immigration New Zealand Country: New Zealand Sector: Govt - immigration Purpose: Predict visa overstayers Technology: Prediction algorithm Issue: Bias/discrimination - age, gender, race, ethnicity Transparency: Governance; Black box; Marketing
+URL: https://www.immigration.govt.nz/opsmanual/
+- © 2018 IMMIGRATION NEW ZEALAND
+
+URL: https://www.rnz.co.nz/news/national/354135/immigration-nz-using-data-system-to-predict-likely-troublemakers
+- Overstayers could be on a fast track to deportation if they belong to a demographic group identified as being a burden on the country.
+- Photo: RNZ
+- Immigration New Zealand has been modelling data - including age, gender and ethnicity - of overstayers to identify which groups most commonly run up hospital costs or commit crime.
+- It could then move faster to deport people instead of prosecuting them or allowing them to re-apply for visas.
+- Its harm team has been using information such as past overstayers' convictions and unpaid hospital debts to feed into its data modelling work.
+- Other work included which demographic groups made multiple failed immigration applications or made a large section of immigration fraud allegations.
+- INZ compliance and investigations area manager Alistair Murray said the work was a pilot and it has been operating for the past 18 months.
+- "We will model the data sets we have available to us and look at who or what's the demographic here that we're looking at around people who are likely to commit harm in the immigration system or to New Zealand," he said.
+- "Things like who's incurring all the hospital debt or the debt to this country in health care, they're not entitled to free healthcare, they're not paying for it.
+- "So then we might take that demographic and load that into our harm model and say even though person A is doing this is there any likelihood that someone else that is coming through the system is going to behave in the same way and then we'll move to deport that person at the first available opportunity so they don't have a chance to do that type of harm."
+- Mr Murray said the team would work closely with the police to offer deportation as an alternative to prosecution in certain cases if the data shows an individual fits the criteria in the harm model.
+- It will also look at the 7000 immigrants in the country who failed to get a visa and continued to put in applications. Another area of work is which groups were likely to face some of the 1300 allegations it received each year of fraud or migrant exploitation.
+- "Just to build a profile as to who's driving all that work," he said.
+- "We would couple that with all the information from that data with all the other information from the other data sets and then we would look at building a profile of the type of person that we want to remove at the earliest possible opportunity."
+- Mr Murray denied it was racial profiling and said peoples' gender, age and the type of visa they hold would all be fed into the data sets.
+- While its investigators look at individual allegations on a case-by-case basis, staff can use past data to model what harms someone poses based on past overstayers' behaviour, he said.
+- "We look at it as - this is the way these people have engaged in the system - if we leave you sitting in the system you could stay here for five, six, seven, eight years however long - and then we think you are going to do this, that's basically it.
+- "We want to intervene with them earlier in the process before they have the chance to cause harm. If we don't do something about them what do we think it's going to look like in five to 10 years.
+- "It's predicting how someone is most likely to behave based on how their predecessors have behaved."
+- A spokesperson for the group Immigration New Zealand's Unfair Decisions, Chris Kelly, said it was reminiscent of the Tom Cruise film Minority Report where a specialised police department apprehends criminals based on psychics' predictions.
+- "I find it all a bit arbitrary, you might as well have a psychic trying to tell the future," he said.
+- "I don't know whether computer modelling or data collection for what people have done previously is a fair way to look at what people are doing or might do in the future."
+- Immigration lawyer Alastair McClymont said he had seen recent mentions of risk profiles in visa refusals.
+- It was a dangerous trend as it allowed immigration officers to base their decisions on race-based assumptions rather than assessments, he said.
+- "It's particular nationalities that get targeted, which get under particular scrutiny," he said.
+- "And that, coupled with the failure of any type of complaint or review process to look at the fairness of decision-making where that complaint process no longer exists, which then allows immigration officers to target people based on certain nationalities and ethnicities."
+- Some immigration officers seemed to be using risk profiles as a way of justifying their own bias, he said.
+- Certain nationalities were already being targeted for deportation and partners of different races were more likely to be refused relationship visas than single race partnerships, he said.
+- Immigration Minister Iain Lees-Galloway said he was disappointed that he only found out this morning when he was contacted by Morning Report.
+- He told the programme the ministry was profiling people who were in the country illegally, but he would be calling officials for a full briefing.
+- They had assured him it was not racial profiling and a range of data was considered, he said.
+- Mr Lees-Galloway said the data was collected to determine which illegal immigrant officials should turn their attention to first and it did not breach the Human Rights Act.
+- "People who have been declined for a variety of visa applications [are] the people who place the greatest burden on the health system, the people who place the greatest burden on the criminal justice system.
+- "And I do support them using good data to make good decisions about where best to deploy their resources."
+- Mr Lees-Galloway has clarified that the data being collected is not being shared internationally.
+- Copyright © 2018, Radio New Zealand
+- A New Zealand man says he has run out of options as he battles Immigration officials to be reunited with his wife and child.
+- for ad-free news and current affairs
+- New Zealand RSS
+- Follow RNZ News
+
+URL: https://www.zdnet.com/article/nz-immigration-rejects-racial-profiling-claims-in-visa-data-modelling-project/
+- Most Popular
+- The New Zealand government kicked off a pilot program 18 months ago that uses data collected through the country's visa application process to determine firstly those in breach of their visa conditions before deciding who should be asked to leave.
+- Speaking on  	Radio New Zealandthis week, Immigration Minister Iain Lees-Galloway explained that the process seeks people that are "over-stayers" or are in the country unlawfully due to breaching visa conditions, rather than filtering people based on their age, gender, and ethnicity.
+- Machine learning, task automation and robotics are already widely used in business. These and other AI technologies are about to multiply, and we look at how organizations can best take advantage of them.
+- "This is not about trying to predict who will commit a crime, this is about looking at the over 11,000 people who are in New Zealand unlawfully and prioritising where best to use Immigration New Zealand's resources to make sure that they are deporting the people who impose the greatest risk to New Zealand," the minister said.
+- "We need to maintain the integrity of our immigration system and where people are in New Zealand unlawfully ... then we need to be doing everything we can to make sure these deportations go ahead."
+- Rejecting the idea the data-collection project is racial profiling, Lees-Galloway said Immigration looks at a range of issues, including at those who have made -- and have had rejected -- multiple visa applications.
+- "It looks at people who place the greatest burden on the health system, people who place the greatest burden on the criminal justice system, and uses that data to prioritise those people," he continued.
+- "It is important that we protect the integrity of our immigration system and that we use the resources that immigration has as effectively as we can -- I do support them using good data to make good decisions about where best to deploy their resources."
+- While the minister might support the department he oversees, he only became aware of the data-modelling project on Thursday morning when he received a briefing before his radio appearance.
+- "I am disappointed that I was not informed," he added.
+- "We do collect data -- obviously we do collect a lot of data when people make a visa application, there's nothing new about that, we also do have some data around people who are in New Zealand illegally who are making use of the health system and we do have some idea of who those people are and that's useful data to use when trying to determine which over-stayers Immigration New Zealand should use its resources to enforce those deportation liability notices on."
+- Should big data be used to discourage poor students from university?
+- An algorithm is using government data to tell those from low socioeconomic backgrounds their likelihood of completing university, but privacy experts say it could be utilised for early intervention instead of discouragement.
+- UK Ministry of Justice using data to gain control of prisons
+- 'Shiny' dashboards have engaged executives and the ministry is now rolling out a project that uses data in attempt to fix the state of its prisons and another that intervenes where children are flagged as likely to enter the system.
+- Australia's Department of Home Affairs focused on untangling its data problem
+- The newly shaped superministry is working through its data problem while coming to grips with being understaffed and operating 20-year-old systems run on a mainframe.
+- Why deep learning won't replace its human counterparts anytime soon(TechRepublic)
+- Deep learning shows more promise every day, but the people who program it will remain essential.
+
+URL: https://www.statschat.org.nz/2018/04/05/15641/
+- An appropriate representation of the requested resource could not be found on this server. This error was generated by Mod_Security.
+
+URL: https://www.nzherald.co.nz/nz/immigration-nzs-data-profiling-illegal-critics-say/P5QDBGVDGFSI6I3NV4UHPOSBRA/
+- Share this article
+- June Ranson, chair of New Zealand Association for Migration and Investment. Photo / Supplied
+- Immigration New Zealand's modelling data, which uses age, gender and ethnicity of immigrants to identify likely troublemakers is a "clear breach" of the law, the Green Party says.
+- Immigration Minister Iain Lees-Galloway said he found out about the programme only this morning when he was contacted by Radio New Zealand.
+- The data profiling is used to identify groups that most commonly run up hospital costs or commit crime so the agency could move faster to deport them rather than prosecute or allowing them to reapply for visas.
+- Green Party's immigration spokeswoman Golriz Ghahraman said she had written to the minister expressing concern about the programme.
+- "The use of identifiers such as race, age and gender in determining access to resource or opportunity is a clear breach of the New Zealand Human Rights Act," she said.
+- "The latest breach by Immigration NZ is heartbreaking. Immigrants are not data points in an algorithm, they are people who contribute to our communities and to our economy."
+- The New Zealand Association for Migration and Investment said the programme is tantamount to accusing all migrants irrespective of their country of origin.
+- "This approach appears to be another way of reducing migrant numbers ... an individual will be deported or refused entry due to their background being similar according to computer profiling rather than actual facts," said association chair June Ranson.
+- "This process is hypocritical when our Government has previously criticised Australia for doing the same thing."
+- Ranson said declining a visa or deporting someone based upon a statistical likelihood they may offend was unfair and a breach of natural justice.
+- "Our main concern is if statistical data is used to assess the 'genuine and stable' nature of a relationship in partnership-based applications," she said.
+- "We believe this could critically undermine the applicants' and their NZ partners' rights in the protection of their family unit and that is something protected by international law."
+- The association said it had seen an increase in declines for these applications.
+- INZ said the programme was a pilot which had been operating for the past 18 months.
+- Lees-Galloway said officials had assured him that it wasn't racial profiling and a range of data was being considered.
+- He had requested a full briefing from immigration officials.
+- Share this article
+- He says the response to his complaint of discrimination disappointed him.
+
+URL: https://www.nzherald.co.nz/nz/barry-soper-racial-profiling-at-its-worst/QP2DOVB7Y56W5YQVGTK4R5QSEM/
+- Share this article
+- Immigration Minister Iain Lees-Galloway. Photo / Doug Sherring
+- It's a dark chapter in our history that most of us would prefer to forget.
+- They were known as the dawn raids, where the homes of Samoans and Tongans, mainly in Auckland, were targeted by the police before sun-up and in the dead of night.
+- The inhabitants had to produce their visas, or proof of their residency, and if they couldn't they'd be unceremoniously bundled out of the country.
+- It was racial profiling at its worst.
+- Of course many of the Islanders who responded to the bang on the door, or were stopped in the street, were here legitimately.
+- The raids based on race caused outrage and at the time most immigrants were actually from the United Kingdom and Australia!
+- Ironically the raids reached their peak in the recession ravaged economy of 1976, the same year that the country centralised the Government's economic database in Whanganui which was seen as a big brother is watching exercise by the great unwashed and as the most significant crime fighting weapon by the then Police Minister.
+- So you can imagine the shivers that went up the spine of the Immigration Minister Iain Lees-Galloway when out of the blue he was told immigrants were being targeted based on their profile data.
+- It's been going on for the past 18 months and it seems the Minister's department forgot to let him in on the secret.
+- As he front footed the issue Lees-Galloway was obviously conscious of those racist dawn raids but insists it's nothing like that and isn't in breach of the Human Rights Act where discrimination based on race is illegal.
+- It must come pretty close though considering the data being collected includes ethnicity and whether immigrants have used our health service or have been through the criminal justice system.
+- The immigration bureaucrats say they're targeting the people who pose the most risk to New Zealand.
+- And with eleven thousand overstayers, almost the equivalent of the population of my hometown of Gore, who can blame them?
+- At least the difference between this crackdown and the dawn raids forty years ago is that hopefully they'll have more reliable information and they won't be stopping suspects in the street.
+- Unfortunately there will be mistakes, the authorities are bound to knock on the doors of people who're entitled to be here.
+- We're told its a pilot so the obvious question is, how many overstayers has it netted so far?
+- Well incredibly the bureaucrats don't have the numbers.
+- And here's me thinking pilots are conducted to see how effective something would be!
+- Share this article
+- He says the response to his complaint of discrimination disappointed him.
+
+URL: https://thespinoff.co.nz/society/05-04-2018/immigration-nz-is-trying-a-bit-of-racial-profiling-and-it-seems-very-pleased-with-itself/
+- Racial profiling by Immigration NZ is a tale as old as time (Dawn Raids anyone?), but if the ‘harm team’ has its way they’ll be workshopping it into our very own dystopian scifi blockbuster, writes Tze Ming Mok.
+- Immigration NZ has apparently caught its own minister off guard by talking openly about plans for a Minority Report-style pre-crime prevention unit. The department has been running a pilot programme for 18 months to develop a statistical risk-profiling model that it plans to use to undertake pre-emptive deportations and other punitive measures.
+- The unselfconsciousness of it was amazing. In case you didn’t quite catch his drift, the INZ spokesperson unabashedly repeated, over and over, “We’ll move to deport that person at the first available opportunity so they don’t have a chance to do that type of harm … We would look at building a profile of the type of person that we want to remove at the earliest possible opportunity … we think you are going to do this, that’s basically it … It’s predicting how someone is most likely to behave based on how their predecessors have behaved.”
+- 
+- It was kind of like watching a boot on a human face, forever, but the boot-wearer is like, “Yo, I’m playing DDR, wanna join in?”
+- INZ has been done for racial profiling at airports in the past, and since then has always been very careful to say “we’re not racially profiling”. It even seemed to get its minister, Iain Lees-Galloway, to deliver their line that “it wasn’t racial profiling and a range of data was being considered”.
+- Indeed, the range of data includes ethnic group, sex, age, and country of origin. Guess what, doofuses? Gender, age, and nationality are all prohibited grounds for discrimination under the Human Rights Act too! Oops. Also, if a person is profiled because of a combination of their race, age, gender and country of origin, the racism doesn’t get diluted somehow. But that’s right, INZ just said it wasn’t being racist because it was being sexist and ageist too.
+- But are the comparisons to Minority Report overblown? Yes! Because we do not have literal psychics floating in a gloop-bath – we just have some shady statistical model. It’s more like a super dumbed-down version of Avengers: Age of Ultron – already the worst Avengers movie. In Age of Ultron, Tony Stark’s risk modelling algorithm allows for the pre-emptive destruction of all security threats. The AI he creates very rationally decides that the best move to protect the planet would be to wipe out humanity. Actually not a terrible idea once they worked their way up to it, but within the first 15 minutes of the movie I was yelling at the screen, “THERE IS NO SUCH THING AS A PERFECT PREDICTIVE MODEL.”
+- I am not privy to the statistical methods being used by INZ, but risk modelling of this kind cannot tell the future for an individual person. It is a prediction of averages, based on the actions of other people in the past, and is always subject to error. For INZ to announce that it plans to take pre-emptive punitive measures against individual people based on the past actions of others in the same demographic categories, is a very clear example of discriminatory treatment by the government. But it freaks us out for other reasons. It’s a denial of the existence of human agency and freedom, in the service of a punitive state.
+- It was bleak to see such a glib and unselfconscious promotion of this coming from a government department. Why did anyone in NZ Immigration think that this was remotely okay? I suspect it’s because because statistical risk modelling is so widely used throughout the public sector, it may as well be the wallpaper. You don’t think anything of it, unless it starts to move.
+- The way risk modelling is used in the “social investment” model set up by the last government has been heavily and deservedly criticised, but one of the arguments in its defence is that it would only be used to target funds towards support for potentially vulnerable groups – not to remove entitlements or dish out punishments. Of course, whether it works like this is questionable. And now INZ is forging ahead with bracing honesty about what it really wants from the data. Initially I thought that the people behind this policy were either too young to have seen Minority Report, or too old for Age of Ultron, or too scared to watch Black Mirror. But maybe they did watch them, and simply thought, “man, the future of government is bright.”
+- Tze Ming Mok has a background in human rights and social research methods. She is also a former sworn officer of the NZ Immigration Service.
+- This section is made possible by Simplicity, New Zealand’s fastest growing KiwiSaver scheme. As a nonprofit, Simplicity only charges members what it costs to invest their money. It already has more than 12,500 plus members who, together, are saving more than $3.8 million annually in fees. This year, New Zealanders will pay more than $525 million in KiwiSaver fees. Why pay more than you need to? It takes two minutes to switch. Grab your IRD # and driver’s licence. It really is that simple.
+
+URL: https://thespinoff.co.nz/society/09-04-2018/a-computer-model-may-be-dodgy-on-deportation-but-not-as-dodgy-as-a-human/
+- If you remove statistical models and computational algorithms which reveal discriminatory assumptions or outcomes, you’re not removing discrimination, you’re just making it less transparent, writes Danyl Mclachlan.
+- Imagine you’re the head of Immigration New Zealand. Part of your job is to deport people who are in the country illegally. You have limited resources: you can’t deport everyone at once. So how might you go about prioritising deportations? Who needs to go immediately? Who gets to stay?
+- This week we learned that the department has been using predictive modelling to help solve that problem. As Radio New Zealand reported:
+- Immigration New Zealand has been modelling data – including age, gender and ethnicity – of overstayers to identify which groups most commonly run up hospital costs or commit crime.
+- It could then move faster to deport people instead of prosecuting them or allowing them to re-apply for visas.
+- Its harm team has been using information such as past overstayers’ convictions and unpaid hospital debts to feed into its data modelling work.
+- Other work included which demographic groups made multiple failed immigration applications or made a large section of immigration fraud allegations.
+- They’ve been heavily criticised for this and the criticism falls into a number of categories:
+- Firstly: deporting people on the basis of ethnicity or country of origin – a category which INZ is now apparently claiming wasn’t after all part of the modelling – is racial profiling. It’s discrimination: illegal under the Bill of Rights Act. And even if you take out the variables directly related to race and look at other factors: crime, education, income, health factors, you’re going to end up with a racially biased deportation policy because race and racial inequality pervade those issues.
+- Secondly: even if you end up with a totally non racial outcome it still constitutes a form of pre-crime. The government is saying, “Our model predicts you’re more likely to commit a crime or incur a cost to the health system or defraud the immigration system so even though you haven’t done anything we’re deporting you because you might.” The state is punishing people who’ve done nothing wrong!
+- Thirdly: doubts about the efficacy of the model. How does it work? What are the inputs? How reliable is the data? How robust are the predictions? Like, if it predicts that some group of potential deportees will commit some level of crime, or cost the health system some amount of money, how close is that prediction to what actually happens? We have no idea but there’s a widespread suspicion that the model isn’t that great: that it will generate what statisticians fall ‘false positives’: people the model flags as being high risk or high cost but who are actually low risk or low cost.
+- Fourth: you might say, “This is politically correct nonsense! This policy is about protecting people from violent crime! How many lives are worth losing just to keep a bunch of social justice warriors happy?” But violent crime is pretty rare. In the US, illegal immigrants are less likely to commit a violent crime than the baseline population. If a member of one deportee group has a 1 in 100,000 chance of committing a violent crime and a member of another group has a 2 in 100,000 chance then an algorithm – and most humans – is going to jump at members of the second group who are twice as likely to commit a violent crime but the actual chance of them doing so is still incredibly low.
+- So there are all sorts of problems and issues raised by this. But let’s go back to the original thought experiment. You’re still the head of Immigration NZ. You still have to figure out who you’re going to deport given the limited resources available to you. How can deporting someone be “pre-crime” if the subjects are all eligible for deportation? So what criteria do you use? Who goes?
+- Some people answer this question by saying, “No one. Stop the deportations.” And if the government was likely to do this that’d be a good solution but they aren’t so it isn’t. Others might say, “We should live in a world without racism.” That’s a noble sentiment and, yes, we should all work towards such a world but in the meantime the head of Immigration NZ still has to make their decisions. Still others say, “The whole system is wrong! What we really need to do is dismantle nationalism and capitalism” because it’s easier to operate in far mode and talk about huge systemic problems than it is to switch to near mode and solve actual problems. But the head of Immigration NZ still needs to, etc.
+- Maybe the decision should be made randomly? An anti-green card lottery? That would preclude any racist critiques. But isn’t that worse than “pre-crime” or a model that generates false positives? Instead of saying, “We’re deporting you because of predictive modeling or bad data we’re deporting you totally at random!” Or maybe it should be made by some neutral factor like date of arrival? That gets around all those problems – but I wouldn’t like to be the immigration minister explaining that we could reduce immigration fraud and we could save the crumbling and underfunded health system huge sums of money that can be spent on New Zealand residents but we decided to base deportations on a meaningless variable instead.
+- I saw a member of parliament discussing this issue online and they insisted that we shouldn’t use algorithms: instead, they argued, Immigration NZ should look at the evidence and then make a decision. But having a human, or a number of humans look at evidence then make decisions is an algorithm! It’s just not a formally stated one. And humans aren’t actually very good at making evidence based decisions – that’s why almost every large company and government department in the world is moving towards decision-making processes incorporating computation and statistical modelling.
+- Humans are very good at rationalising poor or questionable decisions and at hiding the true motives for those decisions, even to ourselves. So if you remove statistical models and computational algorithms which reveal discriminatory assumptions or outcomes, you’re not removing discrimination: you’re just making it less transparent. Which is probably the outcome we’re going to wind up with given the outcry over Immigration NZ’s modelling, but isn’t any kind of a win for that better world we all talk about.
+- This section is made possible by Simplicity, New Zealand’s fastest growing KiwiSaver scheme. As a nonprofit, Simplicity only charges members what it costs to invest their money. It already has more than 12,500 plus members who, together, are saving more than $3.8 million annually in fees. This year, New Zealanders will pay more than $525 million in KiwiSaver fees. Why pay more than you need to? It takes two minutes to switch. Grab your IRD # and driver’s licence. It really is that simple.
+
+URL: https://www.pundit.co.nz/content/where-did-it-algo-wrong-the-threat-and-promise-of-predictive-analytics
+- Attitudes to 'artificial intelligence' and predictive algorithms seem to oscillate between hype and hysteria. The true picture is a good deal more mixed, but as more examples of predictive analytics in government come to light, it's time for some proper oversight.
+- (With Ali Knott, James Maclaurin and John Zerilli)
+- Last week, Immigration Minister Iain Lees-Galloway put a hold on the use of a computer-based tool to profile over-stayers. The tool is a ‘predictive analytics’ system: in this case, it learns to predict the likely harms and costs of an overstayer remaining in New Zealand from a set of other facts about that person, using a database of historical cases. Claims that the tool relied on ‘ethnic profiling’ have been denied by Immigration NZ, but its use has still proved highly controversial. We believe this is a good moment to take stock more generally about New Zealand’s use of predictive analytics in government.
+- Predictive analytics systems are widely used in government departments around the world. However, the public is often unaware of the existence of these systems, and of how they work. New Zealand is no exception. Last year, there was a minor furore when it emerged that ACC uses a predictive tool to profile its clients. Three years ago, there was a larger controversy around a study proposed by the Ministry of Social Development to help build a tool for predicting children at risk of abuse. Use of predictive analytics by the Inland Revenuewas also in the news this week.
+- In the Artificial Intelligence and Law in New Zealand Project at the University of Otago, we have been studying the use of predictive analytics in government. We are convinced there is a place for such systems. They are an invaluable resource for decision makers tasked with making sense of large amounts of data. Used well, they help us to make decisions that square with the facts.
+- However, we believe there should be more public oversight of predictive systems used in government, and more transparency about how they work. How many predictive systems are currently in use in New Zealand government agencies? We don’t know. It’s not clear if anyone actually does. In the Immigration NZ case, even the Immigration Minister was in the dark: he has only just become aware of the tool, even though it has been in development for 18 months.
+- Even for those systems we do know about, we only have partial information about how they work, what data they use, and how accurate they are. We are told, for instance, that the Immigration NZ tool is ‘just an Excel spreadsheet’. But many algorithms can be run in Excel: what algorithm is being run in this case? On what data? With what results? And what margin of error?
+- These questions are particularly pressing now, in the light of the recent scandal surrounding Facebook’s use (and misuse) of personal data. The algorithms under the spotlight for Facebook are also predictive analytics tools: in this case, tools that predict a Facebook user’s personality from what they have ‘liked’ on the site. There are growing calls (which we fully support) to regulate the use of personal data gathered by social media sites.
+- However, the process of regulating giants like Facebook is likely to be complex: a matter for lengthy international negotiations. In the meantime, there is no reason why New Zealand should not put its own house in order as regards the use of these same tools in its own government. In fact, scrutiny of these tools is of particular importance, because of the huge impact decisions made by government agencies can have in people’s lives—not only in immigration, but in health, social services, criminal justice and many other contexts.
+- Of course, the use of algorithmic decision tools in the private sector (potential employers, banks, insurers etc) can also have major impact, and might merit a regulatory response of their own. But public sector use could be a good place to start, modelling best practice and ensuring that public funds are spent on projects that are a good fit for purpose.
+- Our proposal is that an agency should be established in New Zealand to oversee the use of predictive analytics by publicly funded bodies. This agency would publish a complete list of the predictive tools used by government departments, and other public institutions such as ACC. For each system, it would also supply some basic information about its design: which variables constitute its input and output, and which techniques are used to learn a mapping from inputs to outputs.
+- In addition, it would answer some key questions about the performance of the system, and about its use. Specifically:
+- The exact form of the body that oversees these questions is obviously a matter for further discussion. We envisage a body that advises government departments in the procurement or development of predictive systems, as well as their subsequent evaluation. This body could be part of Statistics New Zealand, which already plays an advisory role in many cases, or it could be delivered as part of the ‘Government as a Platform’ project currently under way at the Department of Internal Affairs. It would also be useful to examine frameworks for managing predictive analytics used in industry—in particular, the recent concept of an ‘analytics centre of excellence’, which is becoming widespread in large companies (and has already motivated government initiatives in Australia).
+- Whatever approach is followed, we have an opportunity to take leadership in the oversight of predictive analytics tools as they’re used by our own government institutions. This oversight will help to allay public concerns about how these important tools are used in government bodies. And it will be a useful first step in the wider project of regulating how these tools are used in our society more generally.
+- The authors would like to acknowledge the generous support provided by the NZ Law Foundation for the Artificial Intelligence and Law in New Zealand Project at the University of Otago.
+- Website Designed & Built by UpShift
+- Test Link
+
+URL: https://www.zdnet.com/article/nz-immigration-rejects-racial-profiling-claims-in-visa-data-modelling-project/
+- Most Popular
+- The New Zealand government kicked off a pilot program 18 months ago that uses data collected through the country's visa application process to determine firstly those in breach of their visa conditions before deciding who should be asked to leave.
+- Speaking on  	Radio New Zealandthis week, Immigration Minister Iain Lees-Galloway explained that the process seeks people that are "over-stayers" or are in the country unlawfully due to breaching visa conditions, rather than filtering people based on their age, gender, and ethnicity.
+- Machine learning, task automation and robotics are already widely used in business. These and other AI technologies are about to multiply, and we look at how organizations can best take advantage of them.
+- "This is not about trying to predict who will commit a crime, this is about looking at the over 11,000 people who are in New Zealand unlawfully and prioritising where best to use Immigration New Zealand's resources to make sure that they are deporting the people who impose the greatest risk to New Zealand," the minister said.
+- "We need to maintain the integrity of our immigration system and where people are in New Zealand unlawfully ... then we need to be doing everything we can to make sure these deportations go ahead."
+- Rejecting the idea the data-collection project is racial profiling, Lees-Galloway said Immigration looks at a range of issues, including at those who have made -- and have had rejected -- multiple visa applications.
+- "It looks at people who place the greatest burden on the health system, people who place the greatest burden on the criminal justice system, and uses that data to prioritise those people," he continued.
+- "It is important that we protect the integrity of our immigration system and that we use the resources that immigration has as effectively as we can -- I do support them using good data to make good decisions about where best to deploy their resources."
+- While the minister might support the department he oversees, he only became aware of the data-modelling project on Thursday morning when he received a briefing before his radio appearance.
+- "I am disappointed that I was not informed," he added.
+- "We do collect data -- obviously we do collect a lot of data when people make a visa application, there's nothing new about that, we also do have some data around people who are in New Zealand illegally who are making use of the health system and we do have some idea of who those people are and that's useful data to use when trying to determine which over-stayers Immigration New Zealand should use its resources to enforce those deportation liability notices on."
+- Should big data be used to discourage poor students from university?
+- An algorithm is using government data to tell those from low socioeconomic backgrounds their likelihood of completing university, but privacy experts say it could be utilised for early intervention instead of discouragement.
+- UK Ministry of Justice using data to gain control of prisons
+- 'Shiny' dashboards have engaged executives and the ministry is now rolling out a project that uses data in attempt to fix the state of its prisons and another that intervenes where children are flagged as likely to enter the system.
+- Australia's Department of Home Affairs focused on untangling its data problem
+- The newly shaped superministry is working through its data problem while coming to grips with being understaffed and operating 20-year-old systems run on a mainframe.
+- Why deep learning won't replace its human counterparts anytime soon(TechRepublic)
+- Deep learning shows more promise every day, but the people who program it will remain essential.
+
+URL: https://www.zdnet.com/article/nz-to-perform-urgent-algorithm-stocktake-fearing-data-misuse-within-government/
+- Most Popular
+- The New Zealand government has announced it will be assessing how government agencies are using algorithms to analyse data, hoping to ensure transparency and fairness in decisions that affect citizens.
+- The next wave of IT innovation will be powered by artificial intelligence and machine learning. We look at the ways companies can take advantage of it and how to get started.
+- A joint statement from Minister for Government Digital Services Clare Curran and Minister of Statistics James Shaw said the algorithm "stocktake" will be conducted with urgency, but cites only the growing interest in data analytics as the reason for the probe.
+- "The government is acutely aware of the need to ensure transparency and accountability as interest grows regarding the challenges and opportunities associated with emerging technology such as artificial intelligence," Curran said.
+- It was revealed in April that Immigration New Zealand may have been using citizen data for less than desirable purposes, with claims that data collected through the country's visa application process that was being used to determine those in breach of their visa conditions was in fact filtering people based on their age, gender, and ethnicity.
+- Rejecting the idea the data-collection project was racial profiling, Immigration Minister Iain Lees-Galloway told Radio New Zealand that Immigration looks at a range of issues, including at those who have made -- and have had rejected -- multiple visa applications.
+- "It looks at people who place the greatest burden on the health system, people who place the greatest burden on the criminal justice system, and uses that data to prioritise those people," he said.
+- "It is important that we protect the integrity of our immigration system and that we use the resources that immigration has as effectively as we can -- I do support them using good data to make good decisions about where best to deploy their resources."
+- In the statement on Wednesday, Shaw pointed to two further data-modelling projects the government had embarked on, with one from the Ministry of Health looking into the probability of five-year post-transplant survival in New Zealand.
+- "Using existing data to help model possible outcomes is an important part of modern government decision-making," Shaw said.
+- "Examples include computer programs used by the Ministry of Health to ensure donated organs save lives, or the NZ Transport Agency's computer modelling to make our roads safer.
+- "They show the power of data to make a positive difference to New Zealanders, but there are challenges as well, and we need to ensure that transparency and procedural fairness are maintained. That's why we've asked officials to examine how government currently uses algorithms, to give New Zealanders confidence that their data is being used appropriately."
+- The stocktake will be led by government chief data steward Liz MacPherson, who is  currently the chief executive of Stats NZ, alongside government chief digital officer Colin MacDonald, who is the chief executive of the Department of Internal Affairs.
+- The first step will be a review of government's use of algorithms which is expected to be completed by August.
+- New Zealand examining AI ethical framework and action plan
+- The New Zealand government has called for swift action to create an ethical framework and plan for how the country will deal with the impacts of artificial intelligence.
+- NZ Immigration rejects 'racial profiling' claims in visa data-modelling project
+- Immigration Minister Iain Lees-Galloway rejected the idea the big data project that is determining who should be shown the door is profiling people based on age, gender, or ethnicity.
+- New Zealand to refresh cybersecurity strategy
+- New Zealand Broadcasting, Communications and Digital Media Minister Clare Curran has announced a refresh to the country's three-year-old cybersecurity strategy amid concerns of a growing threat landscape.
+- Should big data be used to discourage poor students from university?
+- An algorithm is using government data to tell those from low socioeconomic backgrounds their likelihood of completing university, but privacy experts say it could be utilised for early intervention instead of discouragement.
+- Why deep learning won't replace its human counterparts anytime soon(TechRepublic)
+- Deep learning shows more promise every day, but the people who program it will remain essential.
+
+- IRCC immigration and visa applications AI screening
+- CPB One asylum seeker app privacy, surveillance
+- Page infoType: IncidentPublished: December 2021Last updated: January 2023

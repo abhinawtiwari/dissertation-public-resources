@@ -1,0 +1,804 @@
+- Rite Aid facial recognition
+- Released: 2013
+- Can you improve this page?Share your insights with us
+- For years, US drugstore chain Rite Aid has quietly been using facial recognition in hundreds of stores in mostly lower-income, non-white neighbourhoods across the US, according to a Reuters investigation, prompting a civil and political backlash.
+- RiteAid defended its policy by arguing that the technology was only being used in a 'data-driven' manner to detect and deter crime and violence, and that the cameras were appropriately flagged to customers.
+- But the chain swiftly shut down its facial recognition system after the Reuters investigation, claiming its 'decision was in part based on a larger industry conversation.'
+- The investigation also indicated 'serious drawbacks' with RiteAid's first facial recognition partner, FaceFirst, whose technology several security professionals described as inaccurate, especially with regard to Blacks and other races.
+- In March 2018, the ACLU had questioned whether American retail chains were using face recognition without telling their customers. RiteAid, like nineteen other chains, refused to answer.
+- The second system used by RiteAid, DeepCam LLC, was closely connected to Chinese company Shenzhen Shenmu Information Technology, which in turn had been invested in by a strategic fund set up by the Chinese government.
+- Operator: RiteAidDeveloper: FaceFirst; DeepCam; Shenzhen Shenmu
+- Country: USA
+- Sector: Retail
+- Purpose: Reduce crime, violence
+- Technology: Facial recognition Issue: Accuracy/reliability; Bias/discrimination - race, ethnicity, income; Privacy
+- Transparency: Governance; Marketing
+- RiteAid website
+- RiteAid Wikipedia profile
+- DeepCam website
+- FaceFirst website
+URL: https://www.reuters.com/investigates/special-report/usa-riteaid-software/
+- ON CAMERA: DeepCam, a facial recognition system deployed by pharmacy chain Rite Aid, captured this footage of a Reuters photographer at a store in New York in November. After Reuters informed Rite Aid of this article's findings, the company said it had ended the surveillance program.
+- In the hearts of New York and metro Los Angeles, Rite Aid installed facial recognition technology in largely lower-income, non-white neighborhoods, Reuters found. Among the technology the U.S. retailer used: a state-of-the-art system from a company with links to China and its authoritarian government.
+- By JEFFREY DASTIN in LOS ANGELES and NEW YORK CITY
+- Filed July 28, 2020, 11 a.m. GMT
+- Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found.
+- In the hearts of New York and metro Los Angeles, Rite Aid deployed the technology in largely lower-income, non-white neighborhoods, according to a Reuters analysis. And for more than a year, the retailer used state-of-the-art facial recognition technology from a company with links to China and its authoritarian government.
+- In telephone and email exchanges with Reuters since February, Rite Aid confirmed the existence and breadth of its facial recognition program. The retailer defended the technology’s use, saying it had nothing to do with race and was intended to deter theft and protect staff and customers from violence. Reuters found no evidence that Rite Aid’s data was sent to China.
+- Last week, however, after Reuters sent its findings to the retailer, Rite Aid said it had quit using its facial recognition software. It later said all the cameras had been turned off.
+- “This decision was in part based on a larger industry conversation,” the company told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+- Reuters pieced together how the company’s initiative evolved, how the software has been used and how a recent vendor was linked to China, drawing on thousands of pages of internal documents from Rite Aid and its suppliers, as well as direct observations during store visits by Reuters journalists and interviews with more than 40 people familiar with the systems’ deployment. Most current and former employees spoke on condition of anonymity, saying they feared jeopardizing their careers.
+- While Rite Aid declined to disclose which locations used the technology, Reuters found facial recognition cameras at 33 of the 75 Rite Aid shops in Manhattan and the central Los Angeles metropolitan area during one or more visits from October through July.
+- The cameras were easily recognizable, hanging from the ceiling on poles near store entrances and in cosmetics aisles. Most were about half a foot long, rectangular and labeled either by their model, “iHD23,” or by a serial number including the vendor’s initials, “DC.” In a few stores, security personnel – known as loss prevention or asset protection agents – showed Reuters how they worked.
+- The cameras matched facial images of customers entering a store to those of people Rite Aid previously observed engaging in potential criminal activity, causing an alert to be sent to security agents’ smartphones. Agents then reviewed the match for accuracy and could tell the customer to leave.
+- Rite Aid told Reuters in a February statement that customers had been apprised of the technology through “signage” at the shops, as well as in a written policy posted this year on its website. Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras.
+- Related content
+- Video: A customer describes how he was misidentified
+- How Reuters analyzed Rite Aid’s stores
+- Earlier: China’s facial recognition rollout
+- Among the 75 stores Reuters visited, those in areas that were poorer or less white were much more likely to have the equipment, the news agency’s statistical analysis found.
+- Stores in more impoverished areas were nearly three times as likely as those in richer areas to have facial recognition cameras. Seventeen of 25 stores in poorer areas had the systems. In wealthier areas, it was 10 of 40. (Ten of the stores were in areas whose wealth status was not clear. Six of those stores had the equipment.)
+- In areas where people of color, including Black or Latino residents, made up the largest racial or ethnic group, Reuters found that stores were more than three times as likely to have the technology.
+- Reuters’ findings illustrate “the dire need for a national conversation about privacy, consumer education, transparency, and the need to safeguard the Constitutional rights of Americans,” said Carolyn Maloney, the Democratic chairwoman of the House oversight committee, which has held hearings on the use of facial recognition technology.
+- Rite Aid said the rollout was “data-driven,” based on stores’ theft histories, local and national crime data and site infrastructure.
+- Cathy Langley, Rite Aid’s vice president of asset protection, said earlier this year that facial recognition – which she referred to as “feature matching” – resulted in less violence and organized crime in the company’s stores. Last week, however, Rite Aid said its new leadership team was reviewing practices across the company, and “this was one of a number of programs that was terminated.”
+- ‘Orwellian surveillance’
+- Facial recognition technology has become highly controversial in the United States as its use has expanded in both the public and private sectors, including by law enforcement and retailers. Civil liberties advocates warn it can lead to harassment of innocent individuals, arbitrary and discriminatory arrests, infringements of privacy rights and chilled personal expression.
+- Adding to these concerns, recent research by a U.S. government institute showed that algorithms that underpin the technology erred more often when subjects had darker skin tones.
+- Facial recognition systems are largely unregulated in the United States, despite disclosure or consent requirements, or limits on government use, in several states, including California, Washington, Texas and Illinois. Some cities, including San Francisco, ban municipal officials from using them. In general, the technology makes photos and videos more readily searchable, allowing retailers almost instantaneous facial comparisons within and across stores.
+- Among the systems used by Rite Aid was one from DeepCam LLC, which worked with a firm in China whose largest outside investor is a Chinese government fund. Some security experts said any program with connections to China was troubling because it could open the door to aggressive surveillance in the United States more typical of an autocratic state.
+- U.S. Senator Marco Rubio, a Florida Republican and acting chair of the U.S. Senate’s intelligence committee, told Reuters in a statement that the Rite Aid system’s potential link to China was “outrageous.” “The Chinese Communist Party’s buildup of its Orwellian surveillance state is alarming, and China’s efforts to export its surveillance state to collect data in America would be an unacceptable, serious threat,” he said.
+- The security specialists expressed concern that information gathered by a China-linked company could ultimately land in that government’s hands, helping Beijing to refine its facial recognition technology globally and monitor people in ways that violate American standards of privacy.
+- “If it goes back to China, there are no rules,” said James Lewis, the Technology Policy Program director at the Washington-based Center for Strategic and International Studies.
+- Asked for comment, China’s Ministry of Foreign Affairs said: “These are unfounded smears and rumors.”
+- ‘A promising new tool’
+- Rite Aid, afflicted with financial losses in recent years, is not the only retailer to adopt or explore facial recognition technology.
+- Two years ago, the Loss Prevention Research Council, a coalition founded by retailers to test anti-crime techniques, called facial recognition “a promising new tool” worthy of evaluation.
+- Number of Rite Aid stores that were equipped with facial recognition
+- “There are a handful of retailers that have made the decision, ‘Look, we need to leverage tech to sell more and lose less,” said council director Read Hayes. Rite Aid’s program was one of the largest, if not the largest, in retail, Hayes said. The Camp Hill, Pennsylvania-based company operates about 2,400 stores around the country.
+- The Home Depot Inc said it had been testing facial recognition to reduce shoplifting in at least one of its stores but stopped the trial this year. A smaller rival, Menards, piloted systems in at least 10 locations as of early 2019, a person familiar with that effort said.
+- Walmart Inc has also tried out facial recognition in a handful of stores, said two sources with knowledge of the tests. Walmart and Menards had no comment.
+- Using facial recognition to approach people who previously have committed “dishonest acts” in a store before they do so again is less dangerous for staff, said Rite Aid’s former vice president of asset protection, Bob Oberosler, who made the decision to deploy an early facial recognition system at Rite Aid. That way, “there was significantly less need for law enforcement involvement,” he said.
+- ‘Tougher’ neighborhoods
+- In interviews, 10 current and former Rite Aid loss prevention agents told Reuters that the system they initially used in stores was from a company called FaceFirst, which has been backed by U.S. investment firms.
+- It regularly misidentified people, all 10 of them said.
+- “It doesn’t pick up Black people well,” one loss prevention staffer said last year while using FaceFirst at a Rite Aid in an African-American neighborhood of Detroit. “If your eyes are the same way, or if you’re wearing your headband like another person is wearing a headband, you’re going to get a hit.”
+- FaceFirst’s chief executive, Peter Trepp, said facial recognition generally works well irrespective of skin tone, an issue he said the industry addressed years ago. He declined to talk about Rite Aid, saying he would not discuss any possible clients.
+- Rite Aid originally piloted FaceFirst at its store on West 3rd Street and South Vermont Avenue in Los Angeles, a largely Asian and Latino neighborhood, around 2012.
+- 
+- 
+- Of the 65 stores the retailer targeted in its first big rollout, 52 were in areas where the largest group was Black or Latino, according to Reuters’ analysis of a Rite Aid planning document from 2013 that was read aloud to a reporter by someone with access to it. Reuters confirmed that some of these stores later deployed the technology but did not confirm its presence at every location on the list.
+- Separately, two former Rite Aid managers and a third source familiar with the FaceFirst rollout said the systems were concentrated, respectively, in the “tougher,” “toughest” or “worst” areas.
+- Reuters reviewed a 2016 spreadsheet from the company’s asset protection unit in which Rite Aid rated 20 higher-earning Manhattan stores as having equal risk of loss – labeled “MedHigh.” Two of 10 stores where whites were the largest racial group had facial recognition technology when Reuters visited this year, whereas eight of the 10 in non-white areas had the systems.
+- One spot ranked "MedHigh" was a store at 741 Columbus Avenue in New York’s whiter, wealthier Upper West Side. Another was the pharmacy’s West 125th Street store in nearby Harlem, a majority African-American neighborhood. The Harlem store got facial recognition technology; the Upper West Side one did not, as of July 9.
+- 
+- 
+- ‘Looks nothing like me’
+- Starting in 2013, as Rite Aid deployed FaceFirst’s technology in Philadelphia, Baltimore and beyond, some serious drawbacks emerged, current and former security agents and managers told Reuters.
+- For instance, the system would “generate 500 hits in an hour all across the United States” when photos in the system were blurry or taken at an odd angle, one of the people familiar with FaceFirst’s operations said.
+- FaceFirst’s Trepp said the company has high accuracy rates while running “over 12 trillion comparisons per day without any known complaints to date.”
+- During that earlier period, Tristan Jackson-Stankunas said Rite Aid wrongly fingered him as a shoplifter in a Los Angeles store based on someone else’s photo. While Reuters could not confirm the method Rite Aid used to identify him, the store had FaceFirst technology by that time, according to a Rite Aid security agent and a Foursquare review photo showing the camera.
+- Rite Aid “only identified me because I was a person of color. That’s it.”
+- According to a complaint Jackson-Stankunas filed with the California Department of Consumer Affairs a week after the incident, he was looking for air freshener in September 2016 when a manager ordered him to leave the store. The manager said he had received a security image of Jackson-Stankunas taken at another Rite Aid in 2013 from which he allegedly had stolen goods, according to the complaint.
+- When Jackson-Stankunas viewed the photo on the manager’s phone, he told Reuters, he saw nothing in common with the person except their race: Both are Black.
+- “The guy looks nothing like me,” said Jackson-Stankunas, 34, who ultimately was allowed to make his purchase and leave the store. Rite Aid “only identified me because I was a person of color. That’s it.”
+- The California department told him his complaint fell outside its purview, directing him to another state office, email records show. Instead, he said he decided to write the store a bad review on Yelp.
+- Rite Aid and the manager who allegedly was involved declined to comment on Jackson-Stankunas’ account.
+- At one store Reuters visited, a security agent scrolled through FaceFirst “alerts” showing a number of cases in which faces were obviously mismatched, including a Black man mixed up with someone who was Asian. Reuters could not determine whether the incorrect matches resulted in confrontations with customers.
+- FaceFirst CEO Trepp said that his company takes racial bias seriously and would not work with any business that disregarded civil rights. “We cannot stand for racial injustice of any kind, including in our technology,” he said.
+- Generally, Trepp said, Reuters’ findings about his company contained “extensive factual inaccuracies” and are “not based upon information from credible sources.”
+- A new system
+- Early in 2018, Rite Aid began installing technology from DeepCam LLC, ultimately phasing out FaceFirst in stores around the country, interviews with Rite Aid loss prevention agents and internal vendor documents indicate.
+- Six security staffers who used both systems said DeepCam’s matches were more accurate – sometimes to a fault. The technology picked up faces from ads on buses or pictures on T-shirts, three said. One famous face captured in DeepCam was Marilyn Monroe’s, one of the agents said.
+- At least until 2017, FaceFirst had employed an older method of biometric identification that compared maps of subjects’ faces, two people familiar with its system said. Only later did it move over to software based on “artificial intelligence” like DeepCam’s. Though the data and algorithms differ by brand, these systems draw upon potentially millions of samples to “learn” how to match faces.
+- 
+- 
+- DeepCam cameras photographed and took live video of every person entering a Rite Aid store, aiming to create a unique facial profile, Rite Aid agents said. If the customer walked in front of another DeepCam facial recognition camera at a Rite Aid shop, new images were added to the person’s existing profile. Two agents said they lost access to the images after 10 days unless the person landed on a watch list based on their behavior in stores.
+- When agents saw someone commit a crime – or just do something suspicious, one said – they scrolled through profiles on their smartphone to search for the individual, only adding the person to the watch list with a manager’s approval. The next time the shopper walked into a Rite Aid that had the technology, agents received a phone alert and checked the match for accuracy. Then they could order the person to leave, agents told Reuters.
+- Rite Aid said adding customers to the watch list was based on “multiple layers of meaningful human review.” The company told Reuters its procedures ensured customers were not confronted unnecessarily.
+- If a person was found to be engaging in criminal behavior, Rite Aid said, “we retain the data as a matter of policy to cooperate in pending or potential criminal investigations.”
+- Other U.S. retail stores have tried DeepCam. Independent 7-Eleven franchise owners in Virginia told Reuters they conducted trials of the software starting in 2018 and later dropped it. They said they largely found the system accurate but not user friendly and too expensive to maintain. The system was advertised online as costing $99 a month.
+- 7-Eleven Inc did not answer requests for comment.
+- The China connection
+- The two founding owners of U.S.-based DeepCam LLC were Don Knasel and Jingfeng Liu, who set up the firm in Longmont, Colorado, in 2017, state records show. Liu’s residential address in Longmont was listed as its headquarters.
+- A Chinese native with U.S. citizenship and a doctorate from Carnegie Mellon University, Liu had the skills to do business in both the United States and China.
+- According to China’s official business registration records, he is chairman of another facial recognition firm in China called Shenzhen Shenmu Information Technology Co Ltd, whose website is DeepCam.com.
+- For a time, the U.S.-based DeepCam LLC and Shenzhen Shenmu were closely connected: In addition to Liu’s role in both companies, they shared the same website and email accounts, according to internal records seen by Reuters.
+- Internal correspondence reviewed by Reuters suggests that DeepCam reached a deal with Rite Aid by March 2018, when a colleague emailed Knasel to congratulate him. Internal records also indicated that China-based Shenzhen Shenmu helped its American counterpart with product development and that Liu was expected to pay at least some of the bills. That same month, a U.S. executive wrote: “Hi Jingfeng- Thanks for the credit card. Here is the receipt for the Indianapolis Trade Show.”
+- In an interview, Liu confirmed the financing, saying of Knasel: “Whenever he needed money, I give him some money.” Liu said Knasel told him about the Rite Aid project but left him in the dark about the business. Knasel “never let data cross between the two countries,” Liu said.
+- As the Rite Aid rollout proceeded in 2018, correspondence among DeepCam staff, seen by Reuters, expressed concerns about publicly revealing any links to China, as well as using the term “facial recognition” in the U.S. market for fear of attracting the attention of the American Civil Liberties Union.
+- Days after the ACLU wrote a March 2018 blog post critical of retailers’ suspected use of the technology, including Rite Aid’s, Knasel emailed staff: “It looks like the ACLU may be starting to stick its head up….We need to tone down facial recognition, which I have tried to do….If they come after us, we are dead….so we have to avoid.” The punctuation in the message is Knasel’s.
+- Jay Stanley, the ACLU senior policy analyst who co-authored the blog post, told Reuters that the right response to civil liberties concerns about surveillance technology “is not to start using it in secret.”
+- It is “to stop using the technology altogether. We are glad Rite Aid seems to have ultimately recognized this.”
+- Today, both Liu and Knasel say no ties exist between the U.S. and Chinese businesses.
+- “We never do any business in USA,” Liu wrote in a brief email to Reuters in March. “We focus in China market.”
+- More recently, in an interview and an email, Liu said he had not spoken with Knasel for more than a year and, to his disappointment, had not benefited from the U.S. venture.
+- In a statement to Reuters, Knasel sought to distance himself from Liu, Shenzhen Shenmu and DeepCam.
+- He did not address questions about DeepCam’s deal with Rite Aid. DeepCam, he said, is “winding up” its operations and now has no assets. He added that DeepCam never supplied China-based Shenzhen Shenmu with any data.
+- In February, Rite Aid told Reuters that DeepCam had been “re-branded” as pdActive. PdActive is a facial recognition company run by Knasel, who said it is not a rebranding of DeepCam but a different company that has no owners who are Chinese citizens.
+- Knasel remained connected to DeepCam through another company he runs, dcAnalytics, which Knasel said licensed DeepCam’s technology until November 2019. Since then, Knasel said, U.S.-based dcAnalytics has been using “proprietary” technology, as well as facial recognition cameras purchased from DeepCam.
+- Knasel said dcAnalytics is “committed to upholding the highest standards possible to make sure facial recognition technology is used fairly, properly and responsibly.”
+- 1 A facial recognition camera took photographs of customers as they entered a Rite Aid store, creating a unique profile for each person.
+- 2 New photographs augmented those profiles as customers walked in front of additional cameras, whether in the makeup aisle or at other Rite Aid locations. (Seen here is Reuters photographer Lucas Jackson, as he was captured by the system.)
+- 3 Security agents in the store could open a smartphone app and mark the profile of any person deemed a “recurring dishonest customer.” A manager had to approve this.
+- 4 The next time facial recognition cameras spotted a “dishonest customer,” a Rite Aid agent on site would receive a smartphone alert of the match, check it for accuracy and then remove the person from the store. Agents said they lost access to unmarked profiles after 10 days. (Shopper faces and names have been blurred by Reuters.)
+- Sensitive questions
+- Steve Dickinson, a Seattle attorney who practiced law in China for more than a decade and writes about cybersecurity, said geopolitical tensions have added sensitivity to any work Chinese surveillance firms do in the United States.
+- Last year, the U.S. government blacklisted several Chinese companies – including Hikvision, one of the biggest surveillance camera manufacturers globally – alleging involvement in human rights abuses. China has deployed facial recognition cameras widely within its borders, providing a level of monitoring unfathomable to many Americans.
+- At the time, a U.S. Hikvision spokesman said the firm “strongly opposes” the decision and that punishing Hikvision would harm its U.S. business partners and discourage global companies from communicating with the U.S. government.
+- Liu described his company as nothing like the Chinese video surveillance giants. With about 20 employees, he said, it is “a tiny company pretending to be big,” struggling unsuccessfully to get government contracts and nearly bankrupt.
+- Reuters found that he and his company have financial and other ties to the Chinese government, however.
+- Most notably, Shenzhen Shenmu’s largest outside investor, holding about 20% of its registered capital, is a strategic fund set up by the government of China. Called the SME Development Fund (Shenzhen Limited Partnership), it has built a 6 million yuan ($855,000) stake in Shenzhen Shenmu since early 2018, Chinese public business records show.
+- reuters investigates
+- More Reuters investigations and long-form narratives
+- Got a confidential news tip? Reuters Investigates offers several ways to securely contact our reporters
+- A person with the same name as a Shenzhen Shenmu board director has also worked for the venture firm managing the SME fund, according to the records and the investment firm’s website.
+- The fund acknowledged investing in Shenzhen Shenmu and said it "does not participate in the daily operation and management of the enterprise."
+- Liu is a member of China’s Thousand Talents program, according to a local government website. That program was started by Beijing as a way to bring top academics working in important fields abroad back to China. According to allegations by the U.S. Justice Department, the program aimed to steal foreign technology.
+- In a statement, China’s Ministry of Foreign Affairs described such allegations as false and as “stigmatization” by the United States.
+- Liu told Reuters he tried to get into the program but does not know if he is. The achievement was reported in an article on Shenzhen Shenmu's website, but Liu said he only wanted to use the distinction to help him sell products. Reuters was unable to confirm with China’s government whether Liu was a member.
+- Another website, that of a Shenzhen Shenmu subsidiary, Magicision, claims its technology has helped officials arrest fugitives and suspected criminals in China.
+- Liu was vague about the firm’s public security work, saying his company has tried unsuccessfully to get contracts with Chinese law enforcement. He called the website’s information “bullshit marketing.”
+- About the Chinese government’s interest in his company’s data, however, he was clear.
+- “The China government never care about us,” he said. “We are too small.”
+- “I know (the) China threat is a hot, eyeball-attractive topic. But what you have in mind is totally untrue.”
+- Editor’s note: This story has been updated to add comment from the American Civil Liberties Union.
+- 
+- Reuters analyzed Rite Aid stores in America’s two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020. This allowed reporters to observe whether facial recognition equipment was present and to interview employees on site about its use.
+- To examine the demographics of the residents who live near the 75 stores, Reuters first identified all U.S. Census block groups within ¼ of a mile of each location in Manhattan and ¾ of a mile in Los Angeles, distances that accounted for the cities’ different densities. The demographics of those areas were then calculated using the U.S. Census Bureau’s American Community Survey estimates, which cover people polled from 2014 through 2018.
+- To assess levels of poverty, Reuters categorized each store according to whether the portion of nearby households with income below federal poverty thresholds was higher than 20%, or lower. Ten stores are located in areas where the poverty level was not clearly above or below 20%; six had the technology.
+- To assess race and ethnic makeup, stores were categorized based on whether nearby residents who identify as white and not Hispanic were the largest group. In one case, it was not possible to determine whether or not the white population was clearly the largest racial group.
+- The findings in both places, Manhattan and metro Los Angeles, were similar.
+- Reuters calculated margins of error and checked for statistical significance using standard methods recommended by the Census Bureau.
+- 
+- Watchful Eyes
+- By Jeffrey Dastin
+- Data analysis: Ryan McNeill
+- Additional reporting: Cate Cadell and Yingzhi Yang in Beijing; Engen Tham and Brenda Goh in Shanghai; Farah Master in Hong Kong; and the Beijing and Shanghai newsrooms. In the United States: Lucas Jackson, Aleksandra Michalska and Samuel Hart in New York; Paresh Dave in Oakland. In the United Kingdom: Tom Bergin in London.
+- Graphics: Samuel Hart
+- Video: Aleksandra Michalska, Conway Gittens and Callaghan O’Hare
+- Photography: Mike Blake, Callaghan O'Hare and Lucas Jackson
+- Photo editing: Corinne Perkins
+- Art direction: Troy Dunkley
+- Edited by Julie Marquis and Simon Robinson
+
+URL: https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Brian Barrett
+- Just over two weeks after an unprecedented hack led to the compromise of the Twitter accounts of Bill Gates, Elon Musk, Barack Obama, and dozens more, authorities have charged three men in connection with the incident. The alleged "mastermind" is a 17-year-old from Tampa, who will be tried as an adult. There are still plenty of details outstanding about how they might have pulled it off, but court documents show how a trail of bitcoin and IP addresses led investigators to the alleged hackers.
+- A Garmin ransomware hack disrupted more than just workouts during a days-long outage; security researchers see it as part of a troubling trend of "big game hunting" among ransomware groups. In other alarming trends, hackers are breaking into news sites to publish misinformation through their content management systems, giving them an air of legitimacy. And we took a look at how AI helped uncover Chinese boats lurking in North Korean waters.
+- A WIRED investigation found dozens of children apparently under the age of 13 streaming on Twitch, as well as strangers sending them disturbing chat messages. After we published our report, Twitch removed a search option that made it easier to find those streams to begin with.
+- We also gave you nine tips to better secure your cloud storage service of choice and dove into the world of so-called dark patterns, the manipulative interface designs that plague so much of the modern web.
+- And there's more! Every Saturday we round up the security and privacy stories that we didn’t break or report on in depth but think you should know about. Click on the headlines to read them, and stay safe out there.
+- Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years. The tech was installed largely in low-income neighborhoods in New York and Los Angeles, alarming civil liberties advocates. Of further concern was that Rite Aid outsourced some of its technology from a company with links to the Chinese government. Rite Aid stopped using facial recognition following Reuters inquiries, but the breadth, focus, and duration of its implementation is still alarming.
+- The leak itself occurred two weeks ago, but Motherboard has a great dive into the ripples caused by the so-called gigaleak, a trove of historical Nintendo source code, prototypes, emails, and more. The contents of the gigaleak are compelling enough on their own, but so are the tensions its release has caused, especially given Nintendo's litigious reputation.
+- Millions of people rely on the Tor for anonymity, and it remains a good bet for most use cases. But security researcher Neal Krawetz this week dropped two apparent zero-day vulnerabilities in the browser. He also plans to disclose three more, one of which could reveal Tor server IP addresses. Krawetz said he went public with the security issues because the Tor Project has been unresponsive when he's tried to report problems responsibly in the past.
+- Who among us! This week, newsletter platform SubStack sent an email out to subscribers with an update to its privacy policy. Unfortunately, for a "small percentage" of users it forgot to BCC, leading to a potentially explosive reply-all apocalypse. "We are so sorry this happened—and we are aware of the irony," the company said in an apologetic tweet. (Anecdotally, the people on those lists showed remarkable restraint.)
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Andy Greenberg
+- Andy Greenberg
+- Andy Greenberg
+- Justin Pot
+- Andy Greenberg
+- Andy Greenberg
+- Kim Zetter
+- Andrew Couts
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://onezero.medium.com/rite-aids-secret-facial-recognition-system-is-the-tip-of-the-iceberg-f5839beeb0ab
+- Member-only story
+- Dave Gershgorn
+- Follow
+- OneZero
+- --
+- 5
+- Share
+- --
+- --
+- 5
+- OneZero
+- Senior Writer at OneZero covering surveillance, facial recognition, DIY tech, and artificial intelligence. Previously: Qz, PopSci, and NYTimes.
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 27
+- Jack Cohen
+- in
+- OneZero
+- --
+- 56
+- Owen Williams
+- in
+- OneZero
+- --
+- 34
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 39
+- The PyCoach
+- in
+- Artificial Corner
+- --
+- 379
+- Rui Alves
+- in
+- The Generator
+- --
+- 48
+- SM Raiyyan
+- --
+- Wei-Meng Lee
+- in
+- Level Up Coding
+- --
+- 7
+- Gabe Araujo, M.Sc.
+- in
+- Level Up Coding
+- --
+- 8
+- Nick Wignall
+- --
+- 16
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://arstechnica.com/tech-policy/2020/07/rite-aid-deployed-facial-recognition-in-hundreds-of-stores-report-finds/
+- Front page layout
+- Site theme
+- Kate Cox
+    -  Jul 28, 2020 8:58 pm UTC
+- Pharmacy chain Rite Aid deployed facial recognition technology in hundreds of store locations in the nation's largest cities, particularly in low-income neighborhoods predominantly home to people of color, a new report has found.
+- Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores, including 75 identified in New York and Los Angeles.
+- Whenever a customer entered a store that uses the tech, their image was logged in a database. On return visits, the software added new images to existing customer profiles. It then ran those images against a list of "people Rite Aid previously observed engaging in potential criminal activity." When the software made a match, store security employees received a smartphone push notification.
+- Rite Aid declined to identify which store locations used the technology, but Reuters journalists in Manhattan and Los Angeles were able to spot 33 in 75 stores.
+- Among those 75 stores, Reuters found, stores in poorer areas were significantly more likely than stores in higher-income areas to have facial recognition in use—68 percent of the stores Reuters visited in lower-income areas had it, as compared to 25 percent of the stores in wealthy neighborhoods. In areas where Black or Hispanic residents made up the largest demographic group, Rite Aid locations were more than three times as likely to be using facial recognition as in predominantly white neighborhoods.
+- One of the tools Rite Aid reportedly used was DeepCam, which is connected to Chinese state investment funds. Senator Marco Rubio (R-Fla.) told Reuters the link was "outrageous," adding, "China's efforts to export its surveillance state to collect data in America would be an unacceptable, serious threat."
+- Rite Aid confirmed the existence of the program to Reuters in February and, at the time, defended the use of the technology. A week before Reuters published its story, though, Rite Aid apparently said it no longer used the software and that the cameras themselves had been turned off.
+- "This decision was in part based on a larger industry conversation," a Rite Aid representative told Reuters. "Other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology's utility."
+- Facial recognition technology has notorious disparities in effectiveness depending on who it's trying to identify. By and large, the algorithms in use work better on men and light-skinned people than they do on women and dark-skinned people. Adding masks to the mix, now that we are in the midst of a pandemic, makes facial recognition systems work even more poorly.
+- A Rite Aid employee based in Detroit, the population of which is more than 75 percent Black, told Reuters bluntly that the software the company started out using, "doesn't pick up Black people well." The loss-prevention staffer added, "If your eyes are the same way, or if you're wearing your headband like another person is wearing a headband, you're going to get a hit."
+- The American Civil Liberties Union recently filed a complaint against the Detroit police on behalf of a Michigan man who was arrested in January based on a false positive match generated by facial recognition software. In light of the complaint, Detroit's police chief admitted, "If we were just to use the technology by itself, to identify someone, I would say 96 percent of the time it would misidentify."
+- The disparate impact of facial recognition on Black individuals has become part of the discussion in the midst of the nationwide protests against police brutality and overreach and in support of Black communities. IBM in June walked away from the facial recognition business, with CEO Arvind Krishna saying, "vendors and users of AI systems have a shared responsibility to ensure that AI is tested for bias, particularly when used in law enforcement, and that such bias testing is audited and reported." Days later, Amazon, too, put a one-year moratorium on allowing police to use its facial recognition platform, Rekognition.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.dailymail.co.uk/news/article-8569753/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html
+- By Reuters and Keith Griffith For Dailymail.com
+- Published:  22:31, 28 July 2020   |  Updated:  23:54, 28 July 2020
+- 
+- 1
+- View  comments
+- 
+- A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters.
+- The Reuters investigation found facial recognition cameras at 33 of the 75 Rite Aid shops in Manhattan and the central Los Angeles metropolitan area during one or more visits from October through July.
+- Among the 75 stores Reuters visited, those in areas that were poorer or less white were much more likely to have the equipment, the news agency´s statistical analysis found.
+- In Los Angeles, Tristan Jackson-Stankunas spoke out to say that said Rite Aid wrongly fingered him as a shoplifter based on someone else's photo.
+- When confronted with the information from the investigation, which found cases of misidentification, Rite Aid said that it had disconnected all of the cameras and discontinued use of facial recognition.
+- A woman shops inside a Rite Aid store underneath a DeepCam facial recognition security camera in New York City in November 2019
+- A Rite Aid store located at 3rd and Vermont is shown in Los Angeles. A new investigation revealed hundreds of stores using facial recognition cameras
+- In Los Angeles, Tristan Jackson-Stankunas (above) spoke out to say that said Rite Aid wrongly fingered him as a shoplifter based on someone else's photo
+- While Reuters could not confirm the method Rite Aid used to identify him, the store had FaceFirst technology by that time, according to a Rite Aid security agent and a Foursquare review photo showing the camera.
+- According to a complaint Jackson-Stankunas filed with the California Department of Consumer Affairs a week after the incident, he was looking for air freshener in September 2016 when a manager ordered him to leave the store.
+- The manager said he had received a security image of Jackson-Stankunas taken at another Rite Aid in 2013 from which he allegedly had stolen goods, according to the complaint.
+- When Jackson-Stankunas viewed the photo on the manager's phone, he told Reuters, he saw nothing in common with the person except their race: Both are black.
+- 'The guy looks nothing like me,' said Jackson-Stankunas, 34, who ultimately was allowed to make his purchase and leave the store. Rite Aid 'only identified me because I was a person of color. That´s it.'
+- The California department told him his complaint fell outside its purview, directing him to another state office, email records show. Instead, he said he decided to write the store a bad review on Yelp.
+- This chart shows the distribution of stores with and without facial recognition based on the poverty level and racial demographics of the surrounding area
+- A Rite Aid store worker looks over security camera footage from facial recognition cameras in one of the company's stores in downtown Los Angeles in October
+- Rite Aid and the manager who allegedly was involved declined to comment on Jackson-Stankunas' account.
+- Over the course of eight years, Rite Aid deployed facial recognition technology in its stores, and for more than a year, the retailer used state-of-the-art facial recognition technology from a company with links to China and its authoritarian government, according to Reuters.
+- In telephone and email exchanges with Reuters since February, Rite Aid confirmed the existence and breadth of its facial recognition program.
+- The retailer defended the technology's use, saying it had nothing to do with race and was intended to deter theft and protect staff and customers from violence. Reuters found no evidence that Rite Aid's data was sent to China.
+- Last week, however, after Reuters sent its findings to the retailer, Rite Aid said it had quit using its facial recognition software. It later said all the cameras had been turned off.
+- 'This decision was in part based on a larger industry conversation,' the company told Reuters in a statement, adding that 'other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology´s utility.'
+- Reuters pieced together how the company´s initiative evolved, how the software has been used and how a recent vendor was linked to China, drawing on thousands of pages of internal documents from Rite Aid and its suppliers, as well as direct observations during store visits by Reuters journalists and interviews with more than 40 people familiar with the systems' deployment.
+- Most current and former employees spoke on condition of anonymity, saying they feared jeopardizing their careers.
+- A woman shops inside a Rite Aid store underneath a DeepCam security camera in New York City on June 25
+- While Rite Aid declined to disclose which locations used the technology, Reuters found facial recognition cameras at 33 of the 75 Rite Aid shops in Manhattan and the central Los Angeles metropolitan area during one or more visits from October through July.
+- The cameras were easily recognizable, hanging from the ceiling on poles near store entrances and in cosmetics aisles. Most were about half a foot long, rectangular and labeled either by their model, 'iHD23,' or by a serial number including the vendor´s initials, 'DC.' In a few stores, security personnel - known as loss prevention or asset protection agents - showed Reuters how they worked.
+- The cameras matched facial images of customers entering a store to those of people Rite Aid previously observed engaging in potential criminal activity, causing an alert to be sent to security agents´ smartphones. Agents then reviewed the match for accuracy and could tell the customer to leave.
+- Rite Aid told Reuters in a February statement that customers had been apprised of the technology through 'signage' at the shops, as well as in a written policy posted this year on its website. Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras.
+- Among the 75 stores Reuters visited, those in areas that were poorer or less white were much more likely to have the equipment, the news agency´s statistical analysis found.
+- Stores in more impoverished areas were nearly three times as likely as those in richer areas to have facial recognition cameras. Seventeen of 25 stores in poorer areas had the systems. In wealthier areas, it was 10 of 40. (Ten of the stores were in areas whose wealth status was not clear. Six of those stores had the equipment.)
+- In areas where people of color, including Black or Latino residents, made up the largest racial or ethnic group, Reuters found that stores were more than three times as likely to have the technology.
+- Reuters´ findings illustrate 'the dire need for a national conversation about privacy, consumer education, transparency, and the need to safeguard the Constitutional rights of Americans,' said Carolyn Maloney, the Democratic chairwoman of the House oversight committee, which has held hearings on the use of facial recognition technology.
+- A woman shops inside a Rite Aid store underneath a DeepCam security camera in New York City on June 25
+- Rite Aid said the rollout was 'data-driven,' based on stores´ theft histories, local and national crime data and site infrastructure.
+- Cathy Langley, Rite Aid´s vice president of asset protection, said earlier this year that facial recognition - which she referred to as 'feature matching' - resulted in less violence and organized crime in the company´s stores. Last week, however, Rite Aid said its new leadership team was reviewing practices across the company, and 'this was one of a number of programs that was terminated.'
+- In interviews, 10 current and former Rite Aid loss prevention agents told Reuters that the system they initially used in stores was from a company called FaceFirst, which has been backed by U.S. investment firms.
+- It regularly misidentified people, all 10 of them said.
+- 'It doesn't pick up black people well,' one loss prevention staffer said last year while using FaceFirst at a Rite Aid in a majority African American neighborhood of Detroit.
+- 'If your eyes are the same way, or if you´re wearing your headband like another person is wearing a headband, you're going to get a hit.'
+- 
+- 
+- FaceFirst's chief executive, Peter Trepp, said facial recognition generally works well irrespective of skin tone, an issue he said the industry addressed years ago. He declined to talk about Rite Aid, saying he would not discuss any possible clients.
+- Rite Aid originally piloted FaceFirst at its store on West 3rd Street and South Vermont Avenue in Los Angeles, a largely Asian and Latino neighborhood, around 2012.
+- Of the 65 stores the retailer targeted in its first big rollout, 52 were in areas where the largest group was Black or Latino, according to Reuters´ analysis of a Rite Aid planning document from 2013 that was read aloud to a reporter by someone with access to it. Reuters confirmed that some of these stores later deployed the technology but did not confirm its presence at every location on the list.
+- Separately, two former Rite Aid managers and a third source familiar with the FaceFirst rollout said the systems were concentrated, respectively, in the 'tougher,' 'toughest' or 'worst' areas.
+- Reuters reviewed a 2016 spreadsheet from the company´s asset protection unit in which Rite Aid rated 20 higher-earning Manhattan stores as having equal risk of loss - labeled 'MedHigh.' Two of 10 stores where whites were the largest racial group had facial recognition technology when Reuters visited this year, whereas eight of the 10 in non-white areas had the systems.
+- One spot ranked 'MedHigh' was a store at 741 Columbus Avenue in New York´s whiter, wealthier Upper West Side. Another was the pharmacy´s West 125th Street store in nearby Harlem, a majority African-American neighborhood. The Harlem store got facial recognition technology; the Upper West Side one did not, as of July 9.
+- Starting in 2013, as Rite Aid deployed FaceFirst´s technology in Philadelphia, Baltimore and beyond, some serious drawbacks emerged, current and former security agents and managers told Reuters.
+- For instance, the system would 'generate 500 hits in an hour all across the United States' when photos in the system were blurry or taken at an odd angle, one of the people familiar with FaceFirst´s operations said.
+- FaceFirst´s Trepp said the company has high accuracy rates while running 'over 12 trillion comparisons per day without any known complaints to date.'
+- At one store Reuters visited, a security agent scrolled through FaceFirst 'alerts' showing a number of cases in which faces were obviously mismatched, including a Black man mixed up with someone who was Asian. Reuters could not determine whether the incorrect matches resulted in confrontations with customers.
+- FaceFirst CEO Trepp said that his company takes racial bias seriously and would not work with any business that disregarded civil rights. 'We cannot stand for racial injustice of any kind, including in our technology,' he said.
+- Generally, Trepp said, Reuters´ findings about his company contained 'extensive factual inaccuracies' and are 'not based upon information from credible sources.'
+- Facial recognition systems are largely unregulated in the United States, despite disclosure or consent requirements, or limits on government use, in several states, including California, Washington, Texas and Illinois.
+- Some cities, including San Francisco, ban municipal officials from using them. In general, the technology makes photos and videos more readily searchable, allowing retailers almost instantaneous facial comparisons within and across stores.
+- Among the systems used by Rite Aid was one from DeepCam LLC, which worked with a firm in China whose largest outside investor is a Chinese government fund. Some security experts said any program with connections to China was troubling because it could open the door to aggressive surveillance in the United States more typical of an autocratic state.
+- Security monitoring warning stickers are shown at the entrance of a Rite Aid store in downtown Los Angeles in October
+- U.S. Senator Marco Rubio, a Florida Republican and acting chair of the U.S. Senate´s intelligence committee, told Reuters in a statement that the Rite Aid system´s potential link to China was 'outrageous.'
+- 'The Chinese Communist Party´s buildup of its Orwellian surveillance state is alarming, and China´s efforts to export its surveillance state to collect data in America would be an unacceptable, serious threat,' he said.
+- The security specialists expressed concern that information gathered by a China-linked company could ultimately land in that government´s hands, helping Beijing to refine its facial recognition technology globally and monitor people in ways that violate American standards of privacy.
+- 'If it goes back to China, there are no rules,' said James Lewis, the Technology Policy Program director at the Washington-based Center for Strategic and International Studies.
+- Asked for comment, China's Ministry of Foreign Affairs said: 'These are unfounded smears and rumors.'
+- Early in 2018, Rite Aid began installing technology from DeepCam LLC, ultimately phasing out FaceFirst in stores around the country, interviews with Rite Aid loss prevention agents and internal vendor documents indicate.
+- Six security staffers who used both systems said DeepCam´s matches were more accurate - sometimes to a fault.
+- The technology picked up faces from ads on buses or pictures on T-shirts, three said. One famous face captured in DeepCam was Marilyn Monroe´s, one of the agents said.
+- At least until 2017, FaceFirst had employed an older method of biometric identification that compared maps of subjects´ faces, two people familiar with its system said.
+- Only later did it move over to software based on 'artificial intelligence' like DeepCam's. Though the data and algorithms differ by brand, these systems draw upon potentially millions of samples to 'learn' how to match faces.
+- DeepCam cameras photographed and took live video of every person entering a Rite Aid store, aiming to create a unique facial profile, Rite Aid agents said.
+- If the customer walked in front of another DeepCam facial recognition camera at a Rite Aid shop, new images were added to the person's existing profile. Two agents said they lost access to the images after 10 days unless the person landed on a watch list based on their behavior in stores.
+- When agents saw someone commit a crime - or just do something suspicious, one said - they scrolled through profiles on their smartphone to search for the individual, only adding the person to the watch list with a manager's approval.
+- The next time the shopper walked into a Rite Aid that had the technology, agents received a phone alert and checked the match for accuracy. Then they could order the person to leave, agents told Reuters.
+- Rite Aid said adding customers to the watch list was based on 'multiple layers of meaningful human review.' The company told Reuters its procedures ensured customers were not confronted unnecessarily.
+- If a person was found to be engaging in criminal behavior, Rite Aid said, 'we retain the data as a matter of policy to cooperate in pending or potential criminal investigations.'
+- A Rite Aid store is shown in downtown Los Angeles, California in October
+- Other U.S. retail stores have tried DeepCam. Independent 7-Eleven franchise owners in Virginia told Reuters they conducted trials of the software starting in 2018 and later dropped it. They said they largely found the system accurate but not user friendly and too expensive to maintain. The system was advertised online as costing $99 a month.
+- 7-Eleven Inc did not answer requests for comment.
+- The two founding owners of U.S.-based DeepCam LLC were Don Knasel and Jingfeng Liu, who set up the firm in Longmont, Colorado, in 2017, state records show. Liu's residential address in Longmont was listed as its headquarters.
+- A Chinese native with U.S. citizenship and a doctorate from Carnegie Mellon University, Liu had the skills to do business in both the United States and China.
+- According to China's official business registration records, he is chairman of another facial recognition firm in China called Shenzhen Shenmu Information Technology Co Ltd, whose website is DeepCam.com.
+- For a time, the U.S.-based DeepCam LLC and Shenzhen Shenmu were closely connected: In addition to Liu´s role in both companies, they shared the same website and email accounts, according to internal records seen by Reuters.
+- Internal correspondence reviewed by Reuters suggests that DeepCam reached a deal with Rite Aid by March 2018, when a colleague emailed Knasel to congratulate him.
+- Internal records also indicated that China-based Shenzhen Shenmu helped its American counterpart with product development and that Liu was expected to pay at least some of the bills. That same month, a U.S. executive wrote: 'Hi Jingfeng- Thanks for the credit card. Here is the receipt for the Indianapolis Trade Show.'
+- In an interview, Liu confirmed the financing, saying of Knasel: 'Whenever he needed money, I give him some money.' Liu said Knasel told him about the Rite Aid project but left him in the dark about the business. Knasel 'never let data cross between the two countries,' Liu said.
+- As the Rite Aid rollout proceeded in 2018, correspondence among DeepCam staff, seen by Reuters, expressed concerns about publicly revealing any links to China, as well as using the term 'facial recognition' in the U.S. market for fear of attracting the attention of the American Civil Liberties Union.
+- Days after the ACLU wrote a March 2018 blog post critical of retailers´ suspected use of the technology, including Rite Aid´s, Knasel emailed staff: 'It looks like the ACLU may be starting to stick its head up....We need to tone down facial recognition, which I have tried to do....If they come after us, we are dead....so we have to avoid.' The punctuation in the message is Knasel´s.
+- Today, both Liu and Knasel say no ties exist between the U.S. and Chinese businesses.
+- 'We never do any business in USA,' Liu wrote in a brief email to Reuters in March. 'We focus in China market.'
+- More recently, in an interview and an email, Liu said he had not spoken with Knasel for more than a year and, to his disappointment, had not benefited from the U.S. venture.
+- In a statement to Reuters, Knasel sought to distance himself from Liu, Shenzhen Shenmu and DeepCam.
+- He did not address questions about DeepCam's deal with Rite Aid. DeepCam, he said, is 'winding up' its operations and now has no assets. He added that DeepCam never supplied China-based Shenzhen Shenmu with any data.
+- DeepCam security cameras monitor shoppers inside a Rite Aid store in New York City in June
+- In February, Rite Aid told Reuters that DeepCam had been 're-branded' as pdActive. PdActive is a facial recognition company run by Knasel, who said it is not a rebranding of DeepCam but a different company that has no owners who are Chinese citizens.
+- Knasel remained connected to DeepCam through another company he runs, dcAnalytics, which Knasel said licensed DeepCam´s technology until November 2019. Since then, Knasel said, U.S.-based dcAnalytics has been using 'proprietary' technology, as well as facial recognition cameras purchased from DeepCam.
+- Knasel said dcAnalytics is 'committed to upholding the highest standards possible to make sure facial recognition technology is used fairly, properly and responsibly.'
+- Steve Dickinson, a Seattle attorney who practiced law in China for more than a decade and writes about cybersecurity, said geopolitical tensions have added sensitivity to any work Chinese surveillance firms do in the United States.
+- Last year, the U.S. government blacklisted several Chinese companies - including Hikvision, one of the biggest surveillance camera manufacturers globally - alleging involvement in human rights abuses. China has deployed facial recognition cameras widely within its borders, providing a level of monitoring unfathomable to many Americans.
+- At the time, a U.S. Hikvision spokesman said the firm 'strongly opposes' the decision and that punishing Hikvision would harm its U.S. business partners and discourage global companies from communicating with the U.S. government.
+- Liu described his company as nothing like the Chinese video surveillance giants. With about 20 employees, he said, it is 'a tiny company pretending to be big,' struggling unsuccessfully to get government contracts and nearly bankrupt.
+- Reuters found that he and his company have financial and other ties to the Chinese government, however.
+- Most notably, Shenzhen Shenmu´s largest outside investor, holding about 20% of its registered capital, is a strategic fund set up by the government of China. Called the SME Development Fund (Shenzhen Limited Partnership), it has built a 6 million yuan ($855,000) stake in Shenzhen Shenmu since early 2018, Chinese public business records show.
+- A person with the same name as a Shenzhen Shenmu board director has also worked for the venture firm managing the SME fund, according to the records and the investment firm´s website.
+- The fund acknowledged investing in Shenzhen Shenmu and said it 'does not participate in the daily operation and management of the enterprise.'
+- Liu is a member of China's Thousand Talents program, according to a local government website. That program was started by Beijing as a way to bring top academics working in important fields abroad back to China.
+- According to allegations by the U.S. Justice Department, the program aimed to steal foreign technology.
+- In a statement, China´s Ministry of Foreign Affairs described such allegations as false and as 'stigmatization' by the United States.
+- Liu told Reuters he tried to get into the program but does not know if he is. The achievement was reported in an article on Shenzhen Shenmu's website, but Liu said he only wanted to use the distinction to help him sell products. Reuters was unable to confirm with China´s government whether Liu was a member.
+- Another website, that of a Shenzhen Shenmu subsidiary, Magicision, claims its technology has helped officials arrest fugitives and suspected criminals in China.
+- Liu was vague about the firm´s public security work, saying his company has tried unsuccessfully to get contracts with Chinese law enforcement. He called the website´s information 'bullshit marketing.'
+- About the Chinese government´s interest in his company´s data, however, he was clear.
+- 'The China government never care about us,' he said. 'We are too small.'
+- 'I know (the) China threat is a hot, eyeball-attractive topic. But what you have in mind is totally untrue.'
+- Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020. This allowed reporters to observe whether facial recognition equipment was present and to interview employees on site about its use.
+- To examine the demographics of the residents who live near the 75 stores, Reuters first identified all U.S. Census block groups within ¼ of a mile of each location in Manhattan and ¾ of a mile in Los Angeles, distances that accounted for the cities´ different densities. The demographics of those areas were then calculated using the U.S. Census Bureau´s American Community Survey estimates, which cover people polled from 2014 through 2018.
+- To assess levels of poverty, Reuters categorized each store according to whether the portion of nearby households with income below federal poverty thresholds was higher than 20%, or lower. Ten stores are located in areas where the poverty level was not clearly above or below 20%; six had the technology.
+- To assess race and ethnic makeup, stores were categorized based on whether nearby residents who identify as white and not Hispanic were the largest group. In one case, it was not possible to determine whether or not the white population was clearly the largest racial group.
+- The findings in both places, Manhattan and metro Los Angeles, were similar.
+- Reuters calculated margins of error and checked for statistical significance using standard methods recommended by the Census Bureau.
+- 
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html
+- Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income, non-white neighborhoods” in New York and Los Angeles and had been in use for over eight years.
+- The system was designed to identify customers who the company previously had detected were “engaging in potential criminal activity.” An alert would then be sent to a security agent via smartphone, who’d then check whether the match was accurate and, if so, possibly ask that person to leave the store.
+- As of last week, Rite Aid had pulled the plug on the software, which was present in around 200 locations, owing to a “larger industry conversation” about facial recognition. “Other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility,” the company said.
+- IBM said last month it’d no longer work on facial recognition, in part due to concerns about surveillance and racial profiling. A number of studies have suggested racial bias is present in facial recognition tech, and there have been at least two cases in which Black men were wrongfully arrested after being falsely identified as suspects by such software.
+- Rite Aid said that its use of the system had “nothing to do with race.” The report suggests otherwise, as Reuters found that stores were “more than three times as likely to have the technology” in areas where people of color “made up the largest racial or ethnic group.”
+- Meanwhile, the drugstore chain used facial recognition tech from a company that has ties to China, which raised some concerns that data might have been sent to that country’s government. However, Reuters says it didn’t find any evidence of that being the case.
+
+URL: https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- In this article
+- Over about eight years, the American drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found.
+- In the hearts of New York and metro Los Angeles, Rite Aid deployed the technology in largely lower-income, non-white neighborhoods, according to a Reuters analysis. And for more than a year, the retailer used state-of-the-art facial recognition technology from a company with links to China and its authoritarian government.
+- In telephone and email exchanges with Reuters since February, Rite Aid confirmed the existence and breadth of its facial recognition program. The retailer defended the technology's use, saying it had nothing to do with race and was intended to deter theft and protect staff and customers from violence. Reuters found no evidence that Rite Aid's data was sent to China.
+- Last week, however, after Reuters sent its findings to the retailer, Rite Aid said it had quit using its facial recognition software. It later said all the cameras had been turned off.
+- "This decision was in part based on a larger industry conversation," the company told Reuters in a statement, adding that "other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology's utility."
+- Reuters pieced together how the company's initiative evolved, how the software has been used and how a recent vendor was linked to China, drawing on thousands of pages of internal documents from Rite Aid and its suppliers, as well as direct observations during store visits by Reuters journalists and interviews with more than 40 people familiar with the systems' deployment. Most current and former employees spoke on condition of anonymity, saying they feared jeopardizing their careers.
+- While Rite Aid declined to disclose which locations used the technology, Reuters found facial recognition cameras at 33 of the 75 Rite Aid shops in Manhattan and the central Los Angeles metropolitan area during one or more visits from October through July.
+- The cameras were easily recognizable, hanging from the ceiling on poles near store entrances and in cosmetics aisles. Most were about half a foot long, rectangular and labeled either by their model, "iHD23," or by a serial number including the vendor's initials, "DC." In a few stores, security personnel – known as loss prevention or asset protection agents – showed Reuters how they worked.
+- The cameras matched facial images of customers entering a store to those of people Rite Aid previously observed engaging in potential criminal activity, causing an alert to be sent to security agents' smartphones. Agents then reviewed the match for accuracy and could tell the customer to leave.
+- Rite Aid told Reuters in a February statement that customers had been apprised of the technology through "signage" at the shops, as well as in a written policy posted this year on its website. Reporters found no notice of the surveillance in more than a third of the stores it visited with the facial recognition cameras.
+- Among the 75 stores Reuters visited, those in areas that were poorer or less white were much more likely to have the equipment, the news agency's statistical analysis found.
+- Stores in more impoverished areas were nearly three times as likely as those in richer areas to have facial recognition cameras. Seventeen of 25 stores in poorer areas had the systems. In wealthier areas, it was 10 of 40. (Ten of the stores were in areas whose wealth status was not clear. Six of those stores had the equipment.)
+- In areas where people of color, including Black or Latino residents, made up the largest racial or ethnic group, Reuters found that stores were more than three times as likely to have the technology.
+- The Reuters findings illustrate "the dire need for a national conversation about privacy, consumer education, transparency, and the need to safeguard the Constitutional rights of Americans," said Carolyn Maloney, the Democratic chairwoman of the House oversight committee, which has held hearings on the use of facial recognition technology.
+- Rite Aid said the rollout was "data-driven," based on stores' theft histories, local and national crime data and site infrastructure.
+- Cathy Langley, Rite Aid's vice president of asset protection, said earlier this year that facial recognition – which she referred to as "feature matching" – resulted in less violence and organized crime in the company's stores. Last week, however, Rite Aid said its new leadership team was reviewing practices across the company, and "this was one of a number of programs that was terminated."
+- Facial recognition technology has become highly controversial in the United States as its use has expanded in both the public and private sectors, including by law enforcement and retailers. Civil liberties advocates warn it can lead to harassment of innocent individuals, arbitrary and discriminatory arrests, infringements of privacy rights and chilled personal expression.
+- Adding to these concerns, recent research by a U.S. government institute showed that algorithms that underpin the technology erred more often when subjects had darker skin tones.
+- Facial recognition systems are largely unregulated in the United States, despite disclosure or consent requirements, or limits on government use, in several states, including California, Washington, Texas and Illinois. Some cities, including San Francisco, ban municipal officials from using them. In general, the technology makes photos and videos more readily searchable, allowing retailers almost instantaneous facial comparisons within and across stores.
+- Among the systems used by Rite Aid was one from DeepCam, which worked with a firm in China whose largest outside investor is a Chinese government fund. Some security experts said any program with connections to China was troubling because it could open the door to aggressive surveillance in the United States more typical of an autocratic state.
+- U.S. Senator Marco Rubio, a Florida Republican and acting chair of the U.S. Senate's intelligence committee, told Reuters in a statement that the Rite Aid system's potential link to China was "outrageous." "The Chinese Communist Party's buildup of its Orwellian surveillance state is alarming, and China's efforts to export its surveillance state to collect data in America would be an unacceptable, serious threat," he said.
+- The security specialists expressed concern that information gathered by a China-linked company could ultimately land in that government's hands, helping Beijing refine its facial recognition technology globally and monitor people in ways that violate American standards of privacy.
+- "If it goes back to China, there are no rules," said James Lewis, the Technology Policy Program director at the Washington-based Center for Strategic and International Studies.
+- Asked for comment, China's Ministry of Foreign Affairs said: "These are unfounded smears and rumors."
+- Rite Aid, afflicted with financial losses in recent years, is not the only retailer to adopt or explore facial recognition technology.
+- Two years ago, the Loss Prevention Research Council, a coalition founded by retailers to test anti-crime techniques, called facial recognition "a promising new tool" worthy of evaluation.
+- "There are a handful of retailers that have made the decision, 'Look, we need to leverage tech to sell more and lose less," said council director Read Hayes. Rite Aid's program was one of the largest, if not the largest, in retail, Hayes said. The Camp Hill, Pennsylvania-based company operates about 2,400 stores around the country.
+- Home Depot said it had been testing facial recognition to reduce shoplifting in at least one of its stores but stopped the trial this year. A smaller rival, Menards, piloted systems in at least 10 locations as of early 2019, a person familiar with that effort said.
+- Walmart has also tried out facial recognition in a handful of stores, said two sources with knowledge of the tests. Walmart and Menards had no comment.
+- Using facial recognition to approach people who previously have committed "dishonest acts" in a store before they do so again is less dangerous for staff, said Rite Aid's former vice president of asset protection, Bob Oberosler, who made the decision to deploy an early facial recognition system at Rite Aid. That way, "there was significantly less need for law enforcement involvement," he said.
+- In interviews, 10 current and former Rite Aid loss prevention agents told Reuters that the system they initially used in stores was from a company called FaceFirst, which has been backed by U.S. investment firms.
+- It regularly misidentified people, all 10 of them said.
+- "It doesn't pick up Black people well," one loss prevention staffer said last year while using FaceFirst at a Rite Aid in an African-American neighborhood of Detroit. "If your eyes are the same way, or if you're wearing your headband like another person is wearing a headband, you're going to get a hit."
+- FaceFirst's chief executive, Peter Trepp, said facial recognition generally works well irrespective of skin tone, an issue he said the industry addressed years ago. He declined to talk about Rite Aid, saying he would not discuss any possible clients.
+- Rite Aid originally piloted FaceFirst at its store on West 3rd Street and South Vermont Avenue in Los Angeles, a largely Asian and Latino neighborhood, around 2012.
+- Of the 65 stores the retailer targeted in its first big rollout, 52 were in areas where the largest group was Black or Latino, according to Reuters' analysis of a Rite Aid planning document from 2013 that was read aloud to a reporter by someone with access to it. Reuters confirmed that some of these stores later deployed the technology but did not confirm its presence at every location on the list.
+- Separately, two former Rite Aid managers and a third source familiar with the FaceFirst rollout said the systems were concentrated, respectively, in the "tougher," "toughest" or "worst" areas.
+- Reuters reviewed a 2016 spreadsheet from the company's asset protection unit in which Rite Aid rated 20 higher-earning Manhattan stores as having equal risk of loss – labeled "MedHigh." Two of 10 stores where whites were the largest racial group had facial recognition technology when Reuters visited this year, whereas eight of the 10 in non-white areas had the systems.
+- One spot ranked "MedHigh" was a store at 741 Columbus Avenue in New York's whiter, wealthier Upper West Side. Another was the pharmacy's West 125th Street store in nearby Harlem, a majority African-American neighborhood. The Harlem store got facial recognition technology; the Upper West Side one did not, as of July 9.
+- Starting in 2013, as Rite Aid deployed FaceFirst's technology in Philadelphia, Baltimore and beyond, some serious drawbacks emerged, current and former security agents and managers told Reuters.
+- For instance, the system would "generate 500 hits in an hour all across the United States" when photos in the system were blurry or taken at an odd angle, one of the people familiar with FaceFirst's operations said.
+- FaceFirst's Trepp said the company has high accuracy rates while running "over 12 trillion comparisons per day without any known complaints to date."
+- During that earlier period, Tristan Jackson-Stankunas said Rite Aid wrongly fingered him as a shoplifter in a Los Angeles store based on someone else's photo. While Reuters could not confirm the method Rite Aid used to identify him, the store had FaceFirst technology by that time, according to a Rite Aid security agent and a Foursquare review photo showing the camera.
+- According to a complaint Jackson-Stankunas filed with the California Department of Consumer Affairs a week after the incident, he was looking for air freshener in September 2016 when a manager ordered him to leave the store. The manager said he had received a security image of Jackson-Stankunas taken at another Rite Aid in 2013 from which he allegedly had stolen goods, according to the complaint.
+- When Jackson-Stankunas viewed the photo on the manager's phone, he told Reuters, he saw nothing in common with the person except their race: Both are Black.
+- "The guy looks nothing like me," said Jackson-Stankunas, 34, who ultimately was allowed to make his purchase and leave the store. Rite Aid "only identified me because I was a person of color. That's it."
+- The California department told him his complaint fell outside its purview, directing him to another state office, email records show. Instead, he said he decided to write the store a bad review on Yelp.
+- Rite Aid and the manager who allegedly was involved declined to comment on Jackson-Stankunas' account.
+- At one store Reuters visited, a security agent scrolled through FaceFirst "alerts" showing a number of cases in which faces were obviously mismatched, including a Black man mixed up with someone who was Asian. Reuters could not determine whether the incorrect matches resulted in confrontations with customers.
+- FaceFirst CEO Trepp said that his company takes racial bias seriously and would not work with any business that disregarded civil rights. "We cannot stand for racial injustice of any kind, including in our technology," he said.
+- Generally, Trepp said, Reuters' findings about his company contained "extensive factual inaccuracies" and are "not based upon information from credible sources."
+- Early in 2018, Rite Aid began installing technology from DeepCam, ultimately phasing out FaceFirst in stores around the country, interviews with Rite Aid loss prevention agents and internal vendor documents indicate.
+- Six security staffers who used both systems said DeepCam's matches were more accurate – sometimes to a fault. The technology picked up faces from ads on buses or pictures on T-shirts, three said. One famous face captured in DeepCam was Marilyn Monroe's, one of the agents said.
+- At least until 2017, FaceFirst had employed an older method of biometric identification that compared maps of subjects' faces, two people familiar with its system said. Only later did it move over to software based on "artificial intelligence" like DeepCam's. Though the data and algorithms differ by brand, these systems draw upon potentially millions of samples to "learn" how to match faces.
+- DeepCam cameras photographed and took live video of every person entering a Rite Aid store, aiming to create a unique facial profile, Rite Aid agents said. If the customer walked in front of another DeepCam facial recognition camera at a Rite Aid shop, new images were added to the person's existing profile. Two agents said they lost access to the images after 10 days unless the person landed on a watch list based on their behavior in stores.
+- When agents saw someone commit a crime – or just do something suspicious, one said – they scrolled through profiles on their smartphone to search for the individual, only adding the person to the watch list with a manager's approval. The next time the shopper walked into a Rite Aid that had the technology, agents received a phone alert and checked the match for accuracy. Then they could order the person to leave, agents told Reuters.
+- Rite Aid said adding customers to the watch list was based on "multiple layers of meaningful human review." The company told Reuters its procedures ensured customers were not confronted unnecessarily.
+- If a person was found to be engaging in criminal behavior, Rite Aid said, "we retain the data as a matter of policy to cooperate in pending or potential criminal investigations."
+- Other U.S. retail stores have tried DeepCam. Independent 7-Eleven franchise owners in Virginia told Reuters they conducted trials of the software starting in 2018 and later dropped it. They said they largely found the system accurate but not user friendly and too expensive to maintain. The system was advertised online as costing $99 a month.
+- 7-Eleven Inc did not answer requests for comment.
+- The two founding owners of U.S.-based DeepCam were Don Knasel and Jingfeng Liu, who set up the firm in Longmont, Colorado, in 2017, state records show. Liu's residential address in Longmont was listed as its headquarters.
+- A Chinese native with U.S. citizenship and a doctorate from Carnegie Mellon University, Liu had the skills to do business in both the United States and China.
+- According to China's official business registration records, he is chairman of another facial recognition firm in China called Shenzhen Shenmu Information Technology Co Ltd, whose website is DeepCam.com.
+- For a time, the U.S.-based DeepCam and Shenzhen Shenmu were closely connected: In addition to Liu's role in both companies, they shared the same website and email accounts, according to internal records seen by Reuters.
+- Internal correspondence reviewed by Reuters suggests that DeepCam reached a deal with Rite Aid by March 2018, when a colleague emailed Knasel to congratulate him. Internal records also indicated that China-based Shenzhen Shenmu helped its American counterpart with product development and that Liu was expected to pay at least some of the bills. That same month, a U.S. executive wrote: "Hi Jingfeng- Thanks for the credit card. Here is the receipt for the Indianapolis Trade Show."
+- In an interview, Liu confirmed the financing, saying of Knasel: "Whenever he needed money, I give him some money." Liu said Knasel told him about the Rite Aid project but left him in the dark about the business. Knasel "never let data cross between the two countries," Liu said.
+- As the Rite Aid rollout proceeded in 2018, correspondence among DeepCam staff, seen by Reuters, expressed concerns about publicly revealing any links to China, as well as using the term "facial recognition" in the U.S. market for fear of attracting the attention of the American Civil Liberties Union.
+- Days after the ACLU wrote a March 2018 blog post critical of retailers' suspected use of the technology, including Rite Aid's, Knasel emailed staff: "It looks like the ACLU may be starting to stick its head up….We need to tone down facial recognition, which I have tried to do….If they come after us, we are dead….so we have to avoid." The punctuation in the message is Knasel's.
+- Today, both Liu and Knasel say no ties exist between the U.S. and Chinese businesses.
+- "We never do any business in USA," Liu wrote in a brief email to Reuters in March. "We focus in China market."
+- More recently, in an interview and an email, Liu said he had not spoken with Knasel for more than a year and, to his disappointment, had not benefited from the U.S. venture.
+- In a statement to Reuters, Knasel sought to distance himself from Liu, Shenzhen Shenmu and DeepCam.
+- He did not address questions about DeepCam's deal with Rite Aid. DeepCam, he said, is "winding up" its operations and now has no assets. He added that DeepCam never supplied China-based Shenzhen Shenmu with any data.
+- In February, Rite Aid told Reuters that DeepCam had been "re-branded" as pdActive. PdActive is a facial recognition company run by Knasel, who said it is not a rebranding of DeepCam but a different company that has no owners who are Chinese citizens.
+- Knasel remained connected to DeepCam through another company he runs, dcAnalytics, which Knasel said licensed DeepCam's technology until November 2019. Since then, Knasel said, U.S.-based dcAnalytics has been using "proprietary" technology, as well as facial recognition cameras purchased from DeepCam.
+- Knasel said dcAnalytics is "committed to upholding the highest standards possible to make sure facial recognition technology is used fairly, properly and responsibly."
+- Steve Dickinson, a Seattle attorney who practiced law in China for more than a decade and writes about cybersecurity, said geopolitical tensions have added sensitivity to any work Chinese surveillance firms do in the United States.
+- Last year, the U.S. government blacklisted several Chinese companies – including Hikvision, one of the biggest surveillance camera manufacturers globally – alleging involvement in human rights abuses. China has deployed facial recognition cameras widely within its borders, providing a level of monitoring unfathomable to many Americans.
+- At the time, a U.S. Hikvision spokesman said the firm "strongly opposes" the decision and that punishing Hikvision would harm its U.S. business partners and discourage global companies from communicating with the U.S. government.
+- Liu described his company as nothing like the Chinese video surveillance giants. With about 20 employees, he said, it is "a tiny company pretending to be big," struggling unsuccessfully to get government contracts and nearly bankrupt.
+- Reuters found that he and his company have financial and other ties to the Chinese government, however.
+- Most notably, Shenzhen Shenmu's largest outside investor, holding about 20% of its registered capital, is a strategic fund set up by the government of China. Called the SME Development Fund (Shenzhen Limited Partnership), it has built a 6 million yuan ($855,000) stake in Shenzhen Shenmu since early 2018, Chinese public business records show.
+- A person with the same name as a Shenzhen Shenmu board director has also worked for the venture firm managing the SME fund, according to the records and the investment firm's website.
+- The fund acknowledged investing in Shenzhen Shenmu and said it "does not participate in the daily operation and management of the enterprise."
+- Liu is a member of China's Thousand Talents program, according to a local government website. That program was started by Beijing as a way to bring top academics working in important fields abroad back to China. According to allegations by the U.S. Justice Department, the program aimed to steal foreign technology.
+- In a statement, China's Ministry of Foreign Affairs described such allegations as false and as "stigmatization" by the United States.
+- Liu told Reuters he tried to get into the program but does not know if he is. The achievement was reported in an article on Shenzhen Shenmu's website but Liu said he only wanted to use the distinction to help him sell products. Reuters was unable to confirm with China's government whether Liu was a member.
+- Another website, that of a Shenzhen Shenmu subsidiary, Magicision, claims its technology has helped officials arrest fugitives and suspected criminals in China.
+- Liu was vague about the firm's public security work, saying his company has tried unsuccessfully to get contracts with Chinese law enforcement. He called the website's information "bulls--- marketing."
+- About the Chinese government's interest in his company's data, however, he was clear.
+- "The China government never care about us," he said. "We are too small."
+- "I know (the) China threat is a hot, eyeball-attractive topic. But what you have in mind is totally untrue."
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://slate.com/technology/2020/07/rite-aid-facial-recognition-technology-surveillance.html
+- This week, Reuters reported that the American drugstore chain Rite Aid has deployed facial recognition systems in 200 stores nationwide over the past eight years. And the story gets very, very hairy.
+- Since Rite Aid refused to disclose where it used such technology, Reuters reporters took it upon themselves to visit 75 locations in the central Los Angeles metropolitan area and Manhattan. Of these, 33 had “easily recognizable” facial recognition cameras. According to Reuters, storefronts in low-income areas were almost three times as likely to have facial recognition cameras present than those in wealthier neighborhoods. Rite Aid locations in areas predominately populated by people of color were more than three times as likely to have facial recognition cameras present.
+- In phone and email correspondences with Reuters, Rite Aid insisted its use of the cameras had nothing to do with race. Instead, the company says it hoped the cameras would discourage theft and violence. But facial recognition regularly falls short when it comes to identifying people of color. (For more on this, listen to an interview with Deb Raji, a technology fellow with the AI Now Institute and an expert on bias in facial recognition algorithms, from Slate’s podcast What Next TBD.)
+- Rite Aid first used a facial recognition system from FaceFirst and piloted the system in 2012. By 2013, the drugstore chain had rolled out FaceFirst cameras in 65 stores, 52 of which were situated in predominately Black or Latino neighborhoods. Three sources, including two former Rite Aid managers, told Reuters that facial recognition technology was concentrated in the “tougher,” “toughest,” or “worst” communities.
+- Rite Aid did away with the FaceFirst system in 2018, opting instead for a product from DeepCam LLC. These cameras photographed and videotaped every Rite Aid customer upon entering the store, generating individual profiles that staffers could review if they noticed potentially criminal activity. Rite Aid agents said they lost access to the profiles after 10 days unless the customers exhibited suspicious behavior that landed them on a watchlist. If those customers were to reenter a Rite Aid in the future, security agents would receive an alert on their smartphones.
+- In a February statement, Rite Aid claimed customers had been notified of the facial recognition software through storefront “signage” and a policy published on its website this year. But Reuters reportedly found no such signage in more than a third of the stores with facial recognition cameras it visited.
+- Earlier this year, Rite Aid’s vice president of asset protection, Cathy Langley, insisted that facial recognition technology resulted in less criminal activity in the drugstores. Last week, however, new management at Rite Aid moved to terminate the facial recognition program.
+- Rite Aid isn’t the first company to draw concerns over surveillance and facial recognition software. In 2019, Home Depot and Lowe’s faced lawsuits for secretly using facial recognition to track the movements of their customers. According to Reuters’ sources, Walmart has also piloted facial recognition in some of its stores.
+- Future Tense
+    is a partnership of
+    Slate,
+    New America, and
+    Arizona State University
+    that examines emerging technologies, public policy, and society.
+- Slate is published by The Slate
+          Group, a Graham Holdings Company.
+- All contents ©
+        2023
+        The Slate Group LLC. All rights reserved.
+
+URL: https://mashable.com/article/rite-aid-facial-recognition-surveillance/
+- The next time you pop into your local drugstore to grab a gallon of milk, remember there’s a chance the store is secretly analyzing your face.
+- A new report from Reuters(opens in a new tab) uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government.
+- According to the report(opens in a new tab), Rite Aid has rolled out hundreds of facial recognition systems in its stores across the U.S. since around 2012, making it “one of the largest rollouts of such technology among retailers in the country.”
+- Rite Aid utilized its facial recognition technology to match customers faces with facial recognition scans of those “previously observed engaging in potential criminal activity.” When a match was made with a current customer, store security would be alerted. Security would then check the facial images and, if they determined the images correctly matched up, the customer would be asked to leave.
+- Reuters discovered these surveillance cameras in 33 out of 75 Rite Aid stores in Manhattan and central L.A. In some cases, the report said, store security even went over how the system worked with Reuters reporters.
+- “Most were about half a foot long, rectangular and labeled either by their model, “iHD23,” or by a serial number including the vendor’s initials, “DC,” says the report.
+- The investigation found that the cameras were three times more likely to be installed at Rite Aid stores in poorer areas than in richer ones. Stores in majority Black or Latino neighborhoods were more than three times as likely to have facial recognition cameras installed.
+- Rite Aid first worked with a facial recognition company called FaceFirst. The report details a number of cases where the technology displayed racial bias. The facial recognition technology would often match two completely different people, whose only similarity appeared to be skin color.
+- Previous studies have found facial recognition tech often misidentified people of color. Some big tech companies, such as IBM and Microsoft, have pulled its own facial recognition technology from law enforcement, citing these issues.
+- In 2018, Rite Aid began working with a different facial recognition firm called DeepCam. While the company’s technology appears to be far superior to the previous vendor, there is another issue. As the report points out, DeepCam is closely linked to a facial recognition firm in China called Shenzhen Shenmu Information Technology.
+- One of the co-founders of DeepCam is the chairman of the Chinese-base company. In fact, Shenzhen Shenmu uses the domain name DeepCam.com. One of its largest investors is the Chinese government.
+- The U.S. government has placed bans and restrictions China-based companies from doing business in the U.S. over data privacy issues. Chinese phone giant Huawei is a perfect example.
+- However, even U.S.-based companies with strong connections to Chinese companies haven’t been able to escape data privacy concerns. Donald Trump’s reelection campaign recently ran ads against TikTok, citing data concerns stemming from their China-based parent company ByteDance. The Trump administration has even floated the idea of banning the app from the U.S. over these concerns.
+- As for Rite Aid, the drugstore chain informed Reuters(opens in a new tab) that it had shut off all its facial recognition cameras and will no longer be using these systems in-stores. The company cited “a larger industry conversation” on the “increasing uncertainty around the technology’s utility” as its reason for ending its facial recognition program.
+- More in
+Cybersecurity, Facial Recognition, Privacy
+
+URL: https://www.infosecurity-magazine.com/news/rite-aid-drops-facial-recognition/
+- Rite Aid's quiet use of facial recognition technology in its stores has ended after nearly a decade.
+- Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country, according to an investigation by Reuters.
+
+Analysis of where the technology had been deployed indicated that Rite Aid had primarily installed it in lower-income neighborhoods. 
+
+The pharmacy said that the geographical distribution of the technology was informed by local and national crime statistics together with each site's infrastructure and specific history of thefts.
+
+Rite Aid said the technology was installed as part of an effort to deter thieves and protect staff from violent crime. Under the system, the faces of people entering a store were matched to those of individuals Rite Aid had previously observed engaging in criminal or potentially criminal activity. 
+
+In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+
+After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country, according to an investigation by Reuters.
+- Analysis of where the technology had been deployed indicated that Rite Aid had primarily installed it in lower-income neighborhoods. 
+
+The pharmacy said that the geographical distribution of the technology was informed by local and national crime statistics together with each site's infrastructure and specific history of thefts.
+
+Rite Aid said the technology was installed as part of an effort to deter thieves and protect staff from violent crime. Under the system, the faces of people entering a store were matched to those of individuals Rite Aid had previously observed engaging in criminal or potentially criminal activity. 
+
+In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+
+After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- Analysis of where the technology had been deployed indicated that Rite Aid had primarily installed it in lower-income neighborhoods.
+- The pharmacy said that the geographical distribution of the technology was informed by local and national crime statistics together with each site's infrastructure and specific history of thefts.
+
+Rite Aid said the technology was installed as part of an effort to deter thieves and protect staff from violent crime. Under the system, the faces of people entering a store were matched to those of individuals Rite Aid had previously observed engaging in criminal or potentially criminal activity. 
+
+In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+
+After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- The pharmacy said that the geographical distribution of the technology was informed by local and national crime statistics together with each site's infrastructure and specific history of thefts.
+- Rite Aid said the technology was installed as part of an effort to deter thieves and protect staff from violent crime. Under the system, the faces of people entering a store were matched to those of individuals Rite Aid had previously observed engaging in criminal or potentially criminal activity. 
+
+In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+
+After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- Rite Aid said the technology was installed as part of an effort to deter thieves and protect staff from violent crime. Under the system, the faces of people entering a store were matched to those of individuals Rite Aid had previously observed engaging in criminal or potentially criminal activity.
+- In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+
+After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- In the event of a match's being made, an alert was sent to the smartphones of the store's security personnel. Customers could then be asked to leave if the security found, after reviewing the match, that it was accurate.
+- After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off. 
+
+“This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- After confirming the existence and scale of the technology's use in its stores to Reuters, Rite Aid last week said it was pulling the plug on the facial recognition program. It later stated that all the cameras linked to the facial recognition software had been turned off.
+- “This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+
+In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- “This decision was in part based on a larger industry conversation,” Rite Aid told Reuters in a statement, adding that “other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+- In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website. 
+
+During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- In a statement issued in February, Rite Aid told Reuters that customers had been alerted to the use of the technology through in-store signage and via a privacy policy posted in 2020 on the company's website.
+- During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+
+“Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- During one or more visits from October 2019 to July 2020, Reuters' investigators found facial recognition cameras at 33 of the 75 Rite Aid stores they visited in Manhattan and central Los Angeles.
+- “Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+- “Reporters found no notice of the surveillance in more than a third of the stores they visited with the facial recognition cameras,” stated Reuters.
+
+URL: https://www.theverge.com/2020/7/28/21345185/rite-aid-facial-recognition-surveillance-spying
+- By  Nick Statt
+- Drugstore chain Rite Aid secretly deployed facial recognition software across a network of security cameras in hundreds of locations in the US, according to a new investigation from Reuters published on Tuesday. The company had been doing so for more than eight years, and it only recently stopped using the technology, it told Reuters, following a “larger industry conversation” around facial recognition and the grave concern over privacy risks and racial discrimination it presents.
+- Yet, Reuters says Rite Aid initially defended its use of facial recognition as a deterrent against theft and violent crime, having nothing to do with race. The investigation found that not to be entirely true. “In areas where people of color, including Black or Latino residents, made up the largest racial or ethnic group, Reuters found that stores were more than three times as likely to have the technology,” the report reads.
+- After presenting its findings to the company, Reuters says Rite Aid issued a new statement and said it had turned off its cameras. “This decision was in part based on a larger industry conversation,” Rite Aid said. “Other large technology companies seem to be scaling back or rethinking their efforts around facial recognition given increasing uncertainty around the technology’s utility.”
+- ‘Reuters’ found that Rite Aid deployed the tech in predominantly minority neighborhoods
+- Concerns over the unregulated use of facial recognition in the US, both by law enforcement and private companies, has been steadily growing over the last few years, fueled by studies that show the tech in its current form to be inherently flawed and more likely to misclassify the gender and identity of Black individuals. Numerous companies have now publicly renounced the tech in one form or another. IBM says it will no longer invest in or develop the tech at all, while both Amazon and Microsoft say they are pausing facial recognition contracts with law enforcement until Congress passes laws regulating its sale and use. A number of municipal governments, like Oakland, California’s, have also begun banning police use of the tech.
+- A growing concern among activists, artificial intelligence researchers, and lawmakers is that the tech is being sold and used in secret, without oversight or regulation that might protect against civil rights abuses. Companies like Clearview AI — which was found to have been supplying a powerful facial recognition database and search tool to countless law enforcement agencies and private companies — have emerged as public faces of the threat the tech poses to privacy and other at-risk civil liberties. Now, it’s looking like even run-of-the-mill retail chains, like Rite Aid, might be using facial recognition in secret.
+- Of particular alarm in Rite Aid’s case is that the company used the tech of a vendor, DeepCam, with links to a Chinese firm, Reuters reports. Prior to that, Rite Aid used a company called FaceFirst, which, until 2017, did not rely on any form of artificial intelligence and as a result routinely misidentified people, often Black individuals, based on blurry photos its cameras captured, Reuters reports. The point of the whole operation, the report states, was to alert security personnel of someone entering the store that had exhibited past criminal activity, so that they may be asked to leave to help prevent theft or crime. But Reuters’ interviews with former employees and managers illustrate how the system was used to racially profile customers.
+- While Rite Aid would not say which stores were using the cameras, Reuters found them at 33 out of 75 Rite Aid locations in New York and Los Angeles from last October to this month. Rite Aid says it informed customers that the cameras were scanning their faces as they walked through the store, but the investigation found that appropriate signage was missing from at least a third of the locations making use of the facial recognition cameras.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+- Walgreens fridge screen door biometrics
+- Southern Co-op facial recognition
+- Page infoType: SystemPublished: March 2023

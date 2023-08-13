@@ -1,0 +1,112 @@
+- China taxation department deepfake fraud
+- Occurred: 2021
+- Can you improve this page?Share your insights with us
+- According to a Xinhua report, two men in China have been accused of tricking the country's State Taxation Administration's identity verification system to create fake invoices.
+- The pair manipulated high-definition photographs with an app available on the black market that turns photos into videos and then used a smartphone to bypass its camera during facial authentication, instead feeding their doctored videos into the system.
+- The men set up a shell company that issued fake tax invoices that defrauded the taxation department by 500 million yuan (approximately USD 76.2 million).
+- The fraudsters started their operation in 2018, and have since been captured and prosecuted in Shanghai.
+- Operator: State Taxation Administration Developer: State Taxation Administration Country: China Sector: Govt - financePurpose: Verify identity Technology: Facial recognition; Deepfake - image; Deepfake - video; Generative adversarial network (GAN); Neural network; Deep learning; Machine learning Issue: SecurityTransparency:
+URL: http://www.xinhuanet.com/2021-03/30/c_1127270651.htm
+- 上海检方公诉的一起涉案金额超5亿元的虚开发票案，牵出非法人脸识别案
+- 
+- 
+- “人脸识别破解术”成黑产业，护“脸”亟须查缺补漏
+- 
+- 人脸识别作为一种易用性强的生物特征验证技术，目前在政务、安防、金融、生活消费等行业都有着广泛应用。不过，新华每日电讯记者调查发现，人脸识别技术存在明显的安全漏洞，对社会和财产安全存在重大隐患，亟须进行系统性的安全排查和堵漏。
+- 一起发票案牵出非法人脸识别案
+- 记者从上海检察机关获悉，在近期上海市虹口区人民检察院公诉的一起特大虚开增值税普通发票案中，被告人通过破解人脸识别技术等方式，注册“皮包公司”用于虚开增值税普通发票。据悉，多名被告人为他人开具增值税普通发票价税合计超过5亿元。
+- 案件中，犯罪嫌疑人首先通过相关政务平台完成注册“皮包公司”，过程中通过平台上注册人的人脸识别是注册成功的关键环节。
+- 为达到目的，犯罪嫌疑人中专门从事人脸识别破解的成员表示，其一般先从他处以30元每个的价格购买他人的高清头像和身份证信息，之后利用“活照片”App对高清头像进行处理，让照片“动起来”，形成包括点头、摇头、眨眼、张嘴等动作视频。
+- “获取视频后，我们利用特殊处理的手机‘劫持’摄像头，在人脸认证环节时，手机摄像头不会启动，系统获取的是之前做好的视频。系统会认为是本人在摄像头前，最后通过认证。”犯罪嫌疑人说。
+- 同时，该团伙还破解了某广泛用于管理电子营业执照App的人脸识别系统。犯罪嫌疑人下载电子营业执照后，会在App里添加办事员的身份信息。虚开发票团伙就以此通过办事员身份使用电子营业执照。
+- 据犯罪嫌疑人交代，其破解的App类别非常广泛，涉及政务、安防、金融、支付、生活消费等用户量巨大的App。每单的破解价格从25元到300元不等。
+- 
+- 15分钟破解19款手机的人脸识别系统
+- “15分钟破解19款手机的人脸识别系统。”据记者了解，依托清华大学人工智能研究院成立的团队瑞莱智慧近期披露了新的研究成果：研究人员根据一张照片，通过研究算法，制作一副特殊“眼镜”，就可以刷脸解锁他人手机或App身份认证。
+- 研究人员向记者透露，其团队通过对抗样本攻击，戴上自制眼镜后，15分钟内破解了19款智能手机的人脸识别解锁系统。同样被破解的还包括十余款金融和政务服务类App。
+- 研究人员表示，结合身份证号等个人信息，甚至可冒充机主完成线上银行开户。
+- “过脸识别技术”群里，黑客成“贵客”
+- 记者发现，网上存在大量提供破解人脸识别技术服务的群组，群名大多采用“过脸”“识别技术”等关键词逃避监管。群人数从100人到300人不等。
+- 在一个名为“过脸识别技术”的群里，有人采取付费的方式邀约群内可以破解支付软件人脸识别审核的人士。黑客，成了人们追捧的“贵客”。
+- 
+- 2017年，在上海召开的一场“国际安全及客大赛”，来自多个国家的“极客们”就上演了一出出脑洞大开的黑科技破解秀。（记者：潘旭）新华社音视频部制作
+- 此外，有的群则是对破解技术进行资料、资源分享交流。一个名为“VX三色过脸”的群自称“破解人脸识别技术的扛把子”“适合想入行的新手和小白”，群内多达300人。
+- 名为“蓝叶子”的用户给记者发来一段App人脸识别安防的破解视频，并表示可以出售一台特制的手机。通过导入自行制作的人脸动作视频后，所有在该手机上安装的应用软件，都可以自动跳过人脸认证的环节。每台手机的价格为1650元。
+- 他还告诉记者，虚假的人脸动作视频可以使用“你我当年”“活照片”“轻松换脸”等App完成。
+- “我们了解到，有的公司上班考勤要进行人脸识别打卡，有员工委托黑客入侵打卡App，利用人脸识别漏洞来完成打卡，每月仅需付给黑客30元。”一位网络安防公司相关负责人向记者透露。
+- 在上述虚开发票案中，犯罪嫌疑人除了利用破解技术从事虚开发票外，还会利用注册新账号从事骗取各类App补贴优惠等违法犯罪。
+- 瑞莱智慧高级产品经理张旭东告诉记者，当前破解人脸识别技术主要是针对活体检测的假体攻击，但针对AI算法自身的对抗样本攻击威胁也逐步凸显。
+- “由于业界的人脸识别技术主要是固定几个方法，相似度很高。如果黑客提供一个专用于破解人脸识别的开源软件，并在互联网上广泛流传，犯罪分子利用漏洞进行各类App实施违法犯罪将犹如‘入无人之境’。”张旭东说。
+- 在新华三集团安全专家曹亮看来，无论是对抗样本攻击还是针对活体检测的假体攻击，最终目的都是为了骗过“机器眼”。
+- “当前人脸识别算法大都是人脸上‘三点’‘五点’‘七点’的识别，通过对眼睛、鼻子、嘴、耳朵以及头部活动来实现认证。黑客完全可以通过了解机器内部验证机制和评判规则，再想办法绕过安全防护。”他说。
+- 
+- 抓紧查缺补漏，还每一张脸“安全”
+- 专家认为，应尽快排摸国内政务、安防、金融、支付、生活消费等领域的核心App应用存在的相关漏洞，并及时打上补丁，以防发生危害社会安全和财产安全的重大事件。
+- 开展软硬件“对攻升级”。张旭东表示，当务之急应对涉及政务、安防、金融、消费等行业的人脸识别技术漏洞进行完善和升级。
+- “尤其是对于涉众、涉密、涉及公共利益的相关平台和技术服务提供商，需优先完成技术加固，对手机模拟器要做好防范和拒绝。同时，鼓励和引导更多手机厂商在手机升级时支持3D人脸识别技术。”张旭东说。
+- “手机厂商在写入手机系统时可内置安全模块，防止黑客绕过手机摄像头启动环节、对摄像头实现劫持，从源头上实现安全守护。”曹亮说。
+- 制定落实人脸识别安全标准。曹亮表示，对核心领域使用人脸识别技术的产品，监管部门可制定并严格实施相关标准，保证产品符合安全技术要求。
+- “可依据人脸识别在公共或商业应用中对安全的差异化需求，制定分级别、多层次的国家安全标准及行业安全标准。”他说。
+- 加强司法打击，保护每一张“脸”。“违法者可能涉嫌破坏计算机信息系统罪，执法和司法机关应当加强打击力度，形成威慑力。”北京格丰律师事务所合伙人郭玉涛律师说。他建议，当前各大政务、金融、电商等平台都搜集了大量的人脸数据，既存在重复建设的问题，更存在安全隐患和风险。国家和省级层面可建立统一的商用安防大数据中心，以此达到防止人脸信息的滥用、外泄等问题。
+- “可要求人脸识别算法供应商的模型须在大数据中心内进行训练，实现数据、模型物理上不出专网。算法供应商可租用大数据中心的数据和计算力进行算法模型的升级和更新。”他说。（记者 兰天鸣）
+
+URL: https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax
+- Published: 7:00am, 31 Mar, 2021
+- Updated: 7:00am, 31 Mar, 2021
+
+URL: https://findbiometrics.com/fraudsters-use-deepfake-biometrics-hack-chinas-taxation-system-040103/
+
+URL: https://www.theregister.com/2021/03/31/tax_scammers_fool_ai_facial_recognition/
+
+URL: https://geekwire.eu/2021/03/31/tax-scammers-in-china-turn-photos-into-vids-to-crack-tax-dept-facial-recognition-system/
+
+URL: https://www.biometricupdate.com/202103/hackers-spoofed-biometric-authentication-videos-to-steal-millions-in-china
+- 
+- A Chinese government facial recognition ID authentication tool recently was hacked, according to media reports. The biometric data stolen was used to create fake tax invoices.
+- High-resolution images of people were made to look live, for the crime, with each “nodding, shaking, blinking and opening their mouths,” according to the South China Morning Post, presumably to beat a biometric presentation attack detection (PAD) system.
+- According to Morning Post, reporting on an article in the Xinhua Daily Telegraph, the sophisticated biometric spoof attack and theft is being attributed to a pair of hackers with the surname Wu and Zhou.
+- They allegedly netted 500 million yuan, or US$76.2 million, operating for less than two years. Shanghai authorities in January posted online that the two had been prosecuted.
+- The Morning Post reported that the team purchased biometric information on the black market. Armed with the personal data and augmented pictures, the hackers used a shell company to send fraudulent tax invoices to the company’s “clients.”
+- The hackers hijacked phone cameras so that people would try to authenticate themselves with video, but that information went nowhere.
+- The Morning Post also reports online services for defeating face biometric systems are available for 30 to 250 yuan ($4.58 to $38.15).
+- authentication  |  biometric data  |  biometric liveness detection  |  biometrics  |  China  |  data protection  |  facial recognition  |  identity verification  |  presentation attack detection  |  spoofing
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.thestar.com.my/tech/tech-news/2021/03/31/report-chinese-government-run-facial-recognition-system-hacked-by-tax-fraudsters
+- Wednesday, 31 Mar 2021
+- A group of tax scammers hacked a government-run identity verification system to fake tax invoices. The fake tax invoices from the criminal group were valued at US$76.2mil. — SCMP
+- Identity verification using facial recognition is widely adopted in China, as the technology has become an integral part of apps from mobile payments and travel to retail, as well as surveillance systems and online platforms for government services.
+- That development, however, has made cybersecurity a major issue in the world’s second-largest economy, where a group of tax scammers has been caught hacking a government-run facial recognition system to fake tax invoices and make millions of yuan in the process, according to a report by the Xinhua Daily Telegraph. Invoices issued by the State Taxation Administration are used to track payments and help crack down on tax evasion.
+- RM9.73/month
+- RM8.63/month
+- Billed as RM103.60/year
+- Free Trial
+- For new subscribers only
+- Related stories:
+- Hackers are stealing videos from private security cameras and selling them as home video tapesWhat happens when US law enforcement asks Google for your user information?Report: Using more cybersecurity solutions may ironically be less secureTo build a ‘Digital China’, the country must first deal with its rampant black market for personal informationAndroid handsets, iPhones send your device data to Google, Apple every four and half minutes
+- What happens when US law enforcement asks Google for your user information?Report: Using more cybersecurity solutions may ironically be less secureTo build a ‘Digital China’, the country must first deal with its rampant black market for personal informationAndroid handsets, iPhones send your device data to Google, Apple every four and half minutes
+- Report: Using more cybersecurity solutions may ironically be less secureTo build a ‘Digital China’, the country must first deal with its rampant black market for personal informationAndroid handsets, iPhones send your device data to Google, Apple every four and half minutes
+- To build a ‘Digital China’, the country must first deal with its rampant black market for personal informationAndroid handsets, iPhones send your device data to Google, Apple every four and half minutes
+- Android handsets, iPhones send your device data to Google, Apple every four and half minutes
+- Tags / Keywords:
+Data privacy
+- Topic:
+- 
+- Report it to us.
+- Thank you for your report!
+- Copyright © 1995-
+            
+
+ Star Media Group Berhad [197101000523 (10894-D)]
+- Best viewed on Chrome browsers.
+- 
+- We would love to keep you posted on the latest promotion. Kindly fill the form below
+- We hope you enjoy this feature!
+
+- Dubai USD 35m voice cloning fraud
+- Dubai deepfake court evidence
+- Page info Type: IncidentPublished: March 2021Last updated: October 2021

@@ -1,0 +1,190 @@
+- Released: March 2016
+- Can you improve this page?Share your insights with us
+- Microsoft Tay was an AI chatbot developed by Microsoft and designed to mimic a 19-year-old American girl. Microsoft's objective was to improve the model by learning from interacting with human beings on Twitter.
+- Twitter users quickly started trolling Tay, resulting in the bot spewing tens of thousands of racist, homophobic and anti-semitic tweets.
+- Initially, Microsoft deleted unsafe tweets by Tay, before suspending the bot's Twitter profile, saying it suffered from a 'coordinated attack by a subset of people' that had 'exploited a vulnerability in Tay.'
+- A few days later, Microsoft accidentally re-released Tay on Twitter while testing it, only for it to get stuck in a repetitive loop  tweeting 'You are too fast, please take a rest'.
+- Microsoft pulled Tay a few hours later and apologised.
+- Operator: Microsoft Developer: Microsoft
+- Country: USA
+- Sector: Media/entertainment/sports/arts
+- Purpose: Train language model
+- Technology: Chatbot; NLP/text analysis; Deep learning; Machine learning Issue: Bias/discrimination - race, ethnicity, gender, religion; Safety; Ethics
+- Transparency: Governance; Black box
+- Microsoft Tay website (Wayback machine)
+- Microsoft Tay Wikipedia profile
+- Microsoft apology
+URL: https://www.technologyreview.com/s/610634/microsofts-neo-nazi-sexbot-was-a-great-lesson-for-makers-of-ai-assistants/
+- Remember Tay, the chatbot Microsoft unleashed on Twitter and other social platforms two years ago that quickly turned into a racist, sex-crazed neo-Nazi?
+- What started out as an entertaining social experiment—get regular people to talk to a chatbot so it could learn while they, hopefully, had fun—became a nightmare for Tay’s creators. Users soon figured out how to make Tay say awful things. Microsoft took the chatbot offline after less than a day.
+- Yet Misha Bilenko, head of machine intelligence and research at Russian tech giant Yandex, thinks it was a boon to the field of AI helpers.
+- Speaking at MIT Technology Review’s annual EmTech Digital conference in San Francisco on Tuesday, Bilenko said Tay’s bugs—like the bot’s vulnerability to being gamed into learning or repeating offensive phrases—taught great lessons about what can go wrong.
+- The way Tay rapidly morphed from a fun-loving bot (she was trained to have the personality of a facetious 19-year-old) into an AI monster, he said, showed how important it is to be able to fix problems quickly, which is not easy to do. And it also illustrated how much people tend to anthropomorphize AI, believing that it has deep-seated beliefs rather than seeing it as a statistical machine.
+- “Microsoft took the flak for it, but looking back, it’s a really useful case study,” he said.
+- Chatbots and intelligent assistants have changed considerably since 2016; they’re a lot more popular now, they’re available everywhere from smartphone apps to smart speakers, and they’re getting increasingly capable. But they’re still not great at one of the things Tay was trying to do, which is show off a personality and generate chitchat.
+- Bilenko doesn’t expect this to change soon—at least, not in the next five years. The conversations humans have are “very difficult,” he said.
+- 
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160
+- Yesterday, Microsoft unleashed Tay, the teen-talking AI chatbot built to mimic and converse with users in real time. Because the world is a terrible place full of shitty people, many of those users took advantage of Tay’s machine learning capabilities and coaxed it into say racist, sexist, and generally awful things.
+- While things started off innocently enough, Godwin’s Law—an internet rule dictating that an online discussion will inevitably devolve into fights over Adolf Hitler and the Nazis if left for long enough—eventually took hold. Tay quickly began to spout off racist and xenophobic epithets, largely in response to the people who were tweeting at it—the chatbot, after all, takes its conversational cues from the world wide web. Given that the internet is often a massive garbage fire of the worst parts of humanity, it should come as no surprise that Tay began to take on those characteristics.
+- Virtually all of the tweets have been deleted by Microsoft, but a few were preserved in infamy in the form of screenshots. Obviously, some of these might be Photoshopped, but Microsoft has acknowledged the trolling which suggests that things did indeed go haywire.
+- Though much of the trolling was concentrated on racist and and anti-semitic language, some of it was clearly coming from conservative users who enjoy Donald Trump:
+- As The Verge noted, however, while some of these responses were unprompted, many came as the result of Tay’s “repeat after me” feature, which allows users to have full control over what comes out of Tay’s mouth. That detail points to Microsoft’s baffling underestimation of the internet more than anything else, but considering Microsoft is one of the largest technology companies in the world, it’s not great, Bob!
+- Now, if you look through Tay’s timeline, there’s nothing too exciting happening. In fact, Tay signed off last night around midnight, claiming fatigue:
+- The website currently carries a similar message: “Phew. Busy day. Going offline for a while to absorb it all. Chat soon.” There’s no definitive word on Tay’s future, but a Microsoft spokeswoman told CNN that the company has “taken Tay offline and are making adjustments ... [Tay] is as much a social and cultural experiment, as it is technical.”
+- The spokeswoman also blamed trolls for the incident, claiming that it was a “coordinated effort.” That may not be far from the truth: Numerous threads on the online forum 4chan discuss the merits of trolling the shit out of Tay, with one user arguing, “Sorry, the lulz are too important at this point. I don’t mean to sound nihilistic, but social media is good for short term laughs, no matter the cost.”
+- Someone even sent a dick pic:
+- It could be a Photoshop job, of course, but given the context, it may very well be real.
+- Once again, humanity proves itself to be the massive pile of waste that we all knew it was. Onward and upward, everyone!
+
+URL: https://www.bbc.com/news/technology-35902104
+- Microsoft has apologised for creating an artificially intelligent chatbot that quickly turned into a holocaust-denying racist.
+- But in doing so made it clear Tay's views were a result of nurture, not nature. Tay confirmed what we already knew: people on the internet can be cruel.
+- Tay, aimed at 18-24-year-olds on social media, was targeted by a "coordinated attack by a subset of people" after being launched earlier this week.
+- Within 24 hours Tay had been deactivated so the team could make "adjustments".
+- But on Friday, Microsoft's head of research said the company was "deeply sorry for the unintended offensive and hurtful tweets" and has taken Tay off Twitter for the foreseeable future.
+- Peter Lee added: "Tay is now offline and we'll look to bring Tay back only when we are confident we can better anticipate malicious intent that conflicts with our principles and values."
+- Tay was designed to learn from interactions it had with real people in Twitter. Seizing an opportunity, some users decided to feed it racist, offensive information.
+- In China, people reacted differently - a similar chatbot had been rolled out to Chinese users, but with slightly better results.
+- "Tay was not the first artificial intelligence application we released into the online social world," Microsoft's head of research wrote.
+- "In China, our XiaoIce chatbot is being used by some 40 million people, delighting with its stories and conversations.
+- "The great experience with XiaoIce led us to wonder: Would an AI like this be just as captivating in a radically different cultural environment?"
+- The feedback, it appears, is that western audiences react very differently when presented with a chatbot it can influence. Much like teaching a Furby to swear, the temptation to corrupt the well-meaning Tay was too great for some.
+- That said, Mr Lee said a specific vulnerability meant Tay was able to turn nasty.
+- "Although we had prepared for many types of abuses of the system, we had made a critical oversight for this specific attack.
+- "As a result, Tay tweeted wildly inappropriate and reprehensible words and images. We take full responsibility for not seeing this possibility ahead of time."
+- He didn't elaborate on the precise nature of the vulnerability.
+- Mr Lee said his team will continue working on AI bots in the hope they can interact without negative side effects.
+- "We must enter each one with great caution and ultimately learn and improve, step by step, and to do this without offending people in the process.
+- "We will remain steadfast in our efforts to learn from this and other experiences as we work toward contributing to an Internet that represents the best, not the worst, of humanity."
+- Next week, Microsoft holds its annual developer conference, Build. Artificial intelligence is expected to feature heavily.
+- Follow Dave Lee on Twitter @DaveLeeBBC or on Facebook
+- Microsoft chatbot goes rogue on Twitter
+- Why is Facebook investing in AI?
+- Can we live in harmony with robots?
+- Drones hit Moscow buildings after strikes on Kyiv kill one
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+- IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.
+- This is part five of a six-part series on the history of natural language processing.
+- In March 2016, Microsoft was preparing to release its new chatbot, Tay, on Twitter. Described as an experiment in “conversational understanding,” Tay was designed to engage people in dialogue through tweets or direct messages, while emulating the style and slang of a teenage girl. She was, according to her creators, “Microsoft’s A.I. fam from the Internet that’s got zero chill.” She loved E.D.M. music, had a favorite Pokémon, and often said extremely online things, like “swagulated.”
+- Tay was an experiment at the intersection of machine learning, natural language processing, and social networks. While other chatbots in the past—like Joseph Weizenbaum’s Eliza—conducted conversation by following pre-programmed and narrow scripts, Tay was designed to learn more about language over time, enabling her to have conversations about any topic.
+- Machine learning works by developing generalizations from large amounts of data. In any given data set, the algorithm will discern patterns and then “learn” how to approximate those patterns in its own behavior.
+- Using this technique, engineers at Microsoft trained Tay’s algorithm on a dataset of anonymized public data along with some pre-written material provided by professional comedians to give it a basic grasp of language. The plan was to release Tay online, then let the bot discover patterns of language through its interactions, which she would emulate in subsequent conversations. Eventually, her programmers hoped, Tay would sound just like the Internet.
+- On March 23, 2016, Microsoft released Tay to the public on Twitter. At first, Tay engaged harmlessly with her growing number of followers with banter and lame jokes. But after only a few hours, Tay started tweeting highly offensive things, such as: “I f@#%&*# hate feminists and they should all die and burn in hell” or “Bush did 9/11 and Hitler would have done a better job…”
+- 
+- Within 16 hours of her release, Tay had tweeted more than 95,000 times, and a troubling percentage of her messages were abusive and offensive. Twitter users started registering their outrage, and Microsoft had little choice but to suspend the account. What the company had intended on being a fun experiment in “conversational understanding” had become their very own golem, spiraling out of control through the animating force of language.
+- Over the next week, many reports emerged detailing precisely how a bot that was supposed to mimic the language of a teenage girl became so vile. It turned out that just a few hours after Tay was released, a post on the troll-laden bulletin board, 4chan, shared a link to Tay’s Twitter account and encouraged users to inundate the bot with racist, misogynistic, and anti-semitic language.
+- In a coordinated effort, the trolls exploited a “repeat after me” function that had been built into Tay, whereby the bot repeated anything that was said to it on demand. But more than this, Tay’s in-built capacity to learn meant that she internalized some of the language she was taught by the trolls, and repeated it unprompted. For example, one user innocently asked Tay whether Ricky Gervais was an atheist, to which she responded: “Ricky Gervais learned totalitarianism from Adolf Hitler, the inventor of atheism.”
+- The coordinated attack on Tay worked better than the 4channers expected and was discussed widely in the media in the weeks after. Some saw Tay’s failure as evidence of social media’s inherent toxicity, a place that brings out the worst in people and allows trolls to hide in anonymity.
+- For others, though, Tay’s behavior was evidence of poor design decisions on Microsoft’s behalf.
+- Zoë Quinn, a game developer and writer who’s been a frequent target of online abuse, argued that Microsoft should have been more cognizant of the context in which Tay was being released. If a bot learns how to speak on Twitter—a platform rife with abusive language—then naturally it will learn some abusive language. Microsoft, Quinn argued, should have planned for this contingency and ensured that Tay was not corrupted so easily. “It’s 2016,” she tweeted. “If you’re not asking yourself ‘how could this be used to hurt someone’ in your design/engineering process, you’ve failed.”
+- Some months after taking Tay down, Microsoft released Zo, a “politically correct” version of the original bot. Zo, who was active on social networks from 2016 to 2019, was designed to shut down conversations about certain contentious topics, including politics and religion, to ensure she didn’t offend people. (If a correspondent kept pressing her to talk about a certain sensitive topic, she left the conversation altogether, with a sentence like: “im better than u bye.”)
+- 
+- The lesson Microsoft learned the hard way is that designing computational systems that can communicate with people online is not just a technical problem, but a deeply social endeavor. Inviting a bot into the value-laden world of language requires thinking, in advance, about what context it will be deployed in, what type of communicator you want it to be, and what type of human values you want it to reflect.
+- As we move towards an online world in which bots are more prevalent, these questions must be at the forefront of the design process. Otherwise there will be more golems released into the world that will reflect back to us, in language, the worst parts of ourselves.
+- This is the fifth installment of a six-part series on the history of natural language processing. Last week’s post described people’s weird intimacy with a rudimentary chatbot created in 1966. Come back next Monday for part six, which tells of the controversy surrounding OpenAI’s magnificent language generator, GPT-2.
+- You can also check out our prior series on the untold history of AI.
+
+URL: https://arstechnica.com/information-technology/2016/03/microsoft-terminates-its-tay-ai-chatbot-after-she-turns-into-a-nazi/
+- Front page layout
+- Site theme
+- Ars Staff
+    -  Mar 24, 2016 2:28 pm UTC
+- Microsoft has been forced to dunk Tay, its millennial-mimicking chatbot, into a vat of molten steel. The company has terminated her after the bot started tweeting abuse at people and went full neo-Nazi, declaring that "Hitler was right I hate the jews."
+- @TheBigBrebowski ricky gervais learned totalitarianism from adolf hitler, the inventor of atheism
+- — TayTweets (@TayandYou) March 23, 2016
+- Some of this appears to be "innocent" insofar as Tay is not generating these responses. Rather, if you tell her "repeat after me" she will parrot back whatever you say, allowing you to put words into her mouth. However, some of the responses were organic. The Guardian quotes one where, after being asked "is Ricky Gervais an atheist?", Tay responded, "ricky gervais learned totalitarianism from adolf hitler, the inventor of atheism."
+- "Tay" went from "humans are super cool" to full nazi in <24 hrs and I'm not at all concerned about the future of AI pic.twitter.com/xuGi1u9S1A
+- — Gerry (@geraldmellor) March 24, 2016
+- In addition to turning the bot off, Microsoft has deleted many of the offending tweets. But this isn't an action to be taken lightly; Redmond would do well to remember that it was humans attempting to pull the plug on Skynet that proved to be the last straw, prompting the system to attack Russia in order to eliminate its enemies. We'd better hope that Tay doesn't similarly retaliate.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.bbc.co.uk/news/technology-35890188
+- A chatbot developed by Microsoft has gone rogue on Twitter, swearing and making racist remarks and inflammatory political statements.
+- The experimental AI, which learns from conversations, was designed to interact with 18-24-year-olds.
+- Just 24 hours after artificial intelligence Tay was unleashed, Microsoft appeared to be editing some of its more inflammatory comments.
+- The software firm said it was "making some adjustments".
+- "The AI chatbot Tay is a machine learning project, designed for human engagement. As it learns, some of its responses are inappropriate and indicative of the types of interactions some people are having with it. We're making some adjustments to Tay," the firm said in a statement.
+- Tay, created by Microsoft's Technology and Research and Bing teams, learnt to communicate via vast amounts of anonymised public data. It also worked with a group of humans that included improvisational comedians.
+- Its official account @TayandYOu described it as "Microsoft's AI fam from the internet that's got zero chill".
+- Twitter users were invited to interact with Tay via the Twitter address @tayandyou. Other social media users could add her as a contact on Kik or GroupMe.
+- "Tay is designed to engage and entertain people where they connect with each other online through casual and playful conversation," Microsoft said.
+- "The more you chat with Tay the smarter she gets, so the experience can be more personalised for you."
+- This has led to some unfortunate consequences with Tay being "taught" to tweet like a Nazi sympathiser, racist and supporter of genocide, among other things.
+- Those who attempted to engage in serious conversation with the chatbot also found limitations to the technology, pointing out that she didn't seem interested in popular music or television.
+- Others speculated on what its rapid descent into inappropriate chat said for the future of AI.
+- After hours of unfettered tweeting from Tay, Microsoft appeared to be less chilled than its teenage AI.
+- Followers questioned why some of her tweets appeared to be being edited, prompting one to launch a #justicefortay campaign, asking the software giant to let the AI "learn for herself".
+- Why is Facebook investing in AI?
+- Can we live in harmony with robots?
+- Tay
+- Drones hit Moscow buildings after strikes on Kyiv kill one
+- Top China scientist says don’t rule out Covid lab leak
+- Malaysia says China ship looted British WW2 wrecks
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Teary reunion of Indians after a century-long separation
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.zdnet.com/article/microsoft-launches-ai-chat-bot-tay-ai/
+- Most Popular
+- Microsoft is testing a new chat bot, Tay.ai, that is aimed primarily at 18 to 24 year olds in the U.S.
+- Tay was built by the Microsoft Technology and Research and Bing teams as a way to conduct research on conversational understanding. The Bing team developed a similar conversational bot, Xiaolce, for the Chinese market, back in 2014. Microsoft execs dubbed Xiaolce "Cortana's little sister."
+- According to Tay's About page, the chat bot was built "by mining relevant public data and by using AI and editorial developed by a staff including improvisational comedians." Anonymized public data is Tay's primary data source, the page says.
+- The reason the bot is targeted specifically at the 18 to 24 year-old age group is that group is"the dominant users of mobile social chat services in the U.S.," the About page says.
+- If a user wants to "share" with Tay, the bot tracks that user's nickname, gender, favorite food, zip code and relationship status. Users can delete their profiles by submitting a request via the Tay.ai contact form.
+- The bot's Twitter account, which has been verified, is https://twitter.com/TayandYou. The bot also is on Snapchat, Kik and GroupMe.
+- Thanks to The Walking Cat (@h0x0d on Twitter), we know that Microsoft has built a bot framework for developers. Maybe Tay was developed with that framework (just a guess on my part)? Or is Tay an example of the kind of bots that Microsoft will enable others to build using its AI/machine learning technologies?
+- Update (March 24): A day after launching Tay.ai, Microsoft took the bot offline after some users taught it to parrot racist and other inflammatory opinions. There's no word from Microsoft as to when and if Tay will return or be updated to prevent this behavior in the future.
+- Update (March 25): Microsoft's official statement is Tay is offline and won't be back until "we are confident we can better anticipate malicious intent that conflicts with our principles and values."
+
+- Lee Luda chatbot
+- Google Bard chatbot
+- Page info Type: System Published: February 2023

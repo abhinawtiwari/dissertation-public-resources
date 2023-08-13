@@ -1,0 +1,357 @@
+- Occurred: December 2018
+- Can you improve this page?Share your insights with us
+- Spanish transparency organisation Civio and the country's National Commission on Markets and Competition have created a dedicated webpage to help at-risk individuals and families struggling to re-register and apply for Spain's Bono Social de Electricidad (or 'BOSCO') electricity discounts.
+- With BOSCO's app malfunctioning and difficult to understand, Civio requested its source code in order to ensure its own service gave the same results, only to be rebuffed.
+- In July 2019, Civio filed an administrative order with Spain's Council of Transparency and Good Governance to force its release. This was declined on the basis the code constituted a trade secret. AlgorithmWatch also tried to find out whose copyright would have been violated, again without success.
+- At the deadline, only 1.5 million beneficiaries had been approved, far less than the estimated 4.5 million who were estimated to be eligible to receive the discount.
+- Operator: Spanish Ministry for Green Energy Transition Developer: Unknown Country: SpainSector: Govt - energy Purpose: Assess electricity subsidy eligibility Issue: Accuracy/reliability; Fairness Transparency: Governance; Black box; Complaints/appeals; Legal
+URL: https://www.bonosocial.gob.es/
+- Nuevo bono eléctrico de justicia energética del Real Decreto-ley 18/2022
+- El bono social de electricidad es un descuento en la factura eléctrica.
+- Se debe cumplir alguno de los siguientes requisitos:
+- Indicador Público de Renta de Efectos Múltiples (IPREM)
+- Se debe cumplir alguno de los siguientes requisitos:
+- Indicador Público de Renta de Efectos Múltiples (IPREM)
+- Para ser considerado consumidor en riesgo de exclusión social, el titular del contrato debe cumplir con los requisitos para ser considerado vulnerable severo y, además, ser atendido por los servicios sociales de una Administración Pública (autonómica o local) que financien al menos el 50% del importe de su factura a PVPC. En caso de imposibilidad temporal para hacer frente al pago, no se podrá interrumpir el suministro eléctrico.
+- Si se reúnen circunstancias especiales, los límites establecidos se incrementa en 1 punto IPREM (8.400€ más).
+- El artículo 10 del Real Decreto-ley 18/2022, de 18 de octubre, recoge la aplicación temporal del bono social de electricidad a los hogares con bajos ingresos particularmente afectados por la crisis energética. Esta medida:
+- Los consumidores titulares del punto de suministro de electricidad en su vivienda habitual que, siendo personas físicas, estén acogidos al PVPC, podrán acogerse al bono social de justicia energética, si la renta del titular del punto de suministro, o en caso de formar parte de una unidad de convivencia, la renta conjunta anual de la unidad de convivencia a la que pertenezca, sea igual o inferior a 2 veces el IPREM de 14 pagas (16.800€) y superior a 1,5 veces el IPREM de 14 pagas (12.600€).
+- Cuando la unidad de convivencia esté formada por más de una persona, el multiplicador de renta respecto al índice IPREM de 14 pagas se incrementará en 0,3 por cada miembro adicional mayor de edad que conforme la unidad de convivencia y 0,5 por cada menor de edad de la unidad de convivencia (entendiendo por unidad de convivencia lo dispuesto en el artículo 3.2 del Real Decreto 897/2017, de 6 de octubre).
+- Los multiplicadores de renta respecto del índice IPREM de 14 se incrementarán en la misma proporción y bajo los mismos criterios que los establecidos en el artículo 3.3 del Real Decreto 897/2017, de 6 de octubre.
+- Para acreditar el cumplimiento de los requisitos establecidos y solicitar la percepción del bono social, el consumidor remitirá a un comercializador de referencia el modelo de solicitud establecido en el anexo I de la Orden ETU/943/2016, de 6 de octubre, junto con la documentación acreditativa definida en el artículo 2 y, en su caso, en el artículo 3 de la precitada orden.
+- Los consumidores finales de energía eléctrica a los que les resulte de aplicación este bono eléctrico de justicia energética no serán beneficiarios del bono social térmico.
+- Importante: el bono social de justicia energética, se extinguirá con fecha 31 de diciembre de 2023 sin perjuicio de la posibilidad de acogerse a dicha condición en cualquier momento anterior o posterior a esa fecha a las categorías permanentes de consumidores vulnerables.
+- Solicitándolo, por teléfono, correo electrónico, correo ordinario, o fax directamente a alguna de las comercializadoras de referencia, quienes tiene la obligación de ofrecer y financiar el bono social.
+- * Ámbito territorial Melilla. ** Ámbito territorial Ceuta.
+- Información obtenida a partir del portal web de la Comisión Nacional de los Mercados y la Competencia.
+- Gobierno de España. Ministerio para la Transición Ecológica y el Reto Demográfico
+Pz. San Juan de la Cruz s/n, C.P. 28071 Madrid, España.
+Teléfonos: 91 597 60 00
+
+URL: https://www.boe.es/boe/dias/2017/10/07/pdfs/BOE-A-2017-11505.pdf
+
+URL: https://civio.es/acceso-a-bono-social/
+- De nada sirven las ayudas públicas si estas no llegan a quienes más las necesitan. Un claro ejemplo es el bono social de electricidad. Aunque 5,5 millones de personas tienen derecho a esta ayuda, solo 1,1 han podido acceder a ellas. Una normativa excesivamente compleja y un proceso de solicitud que gestionan directamente las eléctricas son parte del problema. Un auténtico desastre que, al final, sufren los más vulnerables.
+- Desde Civio hemos denunciado insistentemente esta injusticia en nuestros artículos. Pero, a veces, hay que ir más allá. Por eso, creamos una sencilla herramienta que ya ha ayudado a más de 300.000 personas a pedir el bono social fácilmente. Creemos que debería ser la Administración quien lo hiciera pero no es así y, por eso, lo hacemos nosotros. Y nada nos ha hecho sentir más orgullosos que todas las personas que nos cuentan que han logrado estas ayudas con nuestro apoyo.
+- Además, hemos denunciado que el sistema BOSCO -el software que determina quién tiene acceso a estas ayudas y quién no, no funciona. Y hemos llevado a juicio la resolución del Consejo de Transparencia que nos niega el derecho a escrutar su código fuente (debajo puedes consultar en abierto todos los documentos de este litigio). En Civio entendemos que el derecho a saber también alcanza a aquellos programas informáticos que a diario toman decisiones sobre la vida de los ciudadanos.
+- Si a ti también te preocupa que la opacidad impida que las ayudas lleguen a quienes más las necesitan, ayúdanos a seguir presionando. Hazte socia o socio de Civio.
+- Empezamos a informar sobre los cambios legislativos que modifican las condiciones de acceso al bono social.
+- La falta de información desde la administración y la complejidad del proceso tienen consecuencias: miles de personas no se estaban acogiendo al nuevo modelo a tiempo. Denunciamos este hecho y creamos nuestra app para ayudar a colectivos vulnerables a pedir las ayudas. Decenas de ayuntamientos, organizaciones sociales, colectivos y medios la insertan en su web, llegando muchos miles de personas.
+
+En paralelo, colaboramos con el Gobierno para intentar paliar los problemas detectados, y exigimos acceso al código fuente de la herramienta -llamada BOSCO- que ha puesto en manos de las eléctricas porque algo no cuadra. No obtenemos respuesta.
+- Mantenemos una actitud colaborativa, compartiendo con el ministerio nuestras propuestas de mejora del bono social, y el Gobierno las incluye en su Estrategia contra la Pobreza Energética. 
+
+No obstante, ante su negativa a explicar cómo funciona BOSCO para conceder o no el bono social, y la del Consejo de Transparencia a reconocer nuestro derecho a examinar su código fuente, nos vemos en el deber de ir a juicio.
+- El Juzgado Central de lo Contencioso-Administrativo desestima nuestra impugnación, alega que la liberación del código, además de contravenir la propiedad intelectual, afectaría tanto a la seguridad pública como a la defensa nacional y nos condena a unas costas de 2.000€.  Presentamos un recurso de apelación.
+- Brenda, nieta de María Justina, de 85 años.
+- El BOE nuestro de cada día
+- Te ayudamos a solicitar el descuento para consumidores vulnerables en la factura de la luz.
+- Consulta nuestra aplicación
+- La Justicia impide la apertura del código fuente de la aplicación que concede el bono social
+- Mientras promete liberar el código fuente de Radar Covid, el Gobierno sigue obstruyendo en los tribunales la transparencia de otras herramientas de la Administración
+- Bono social eléctrico: actualizamos nuestra app para que los autónomos afectados por la crisis del coronavirus también puedan solicitarlo💡
+- “Que se nos regule mediante código fuente o algoritmos secretos es algo que jamás debe permitirse en un Estado social, democrático y de Derecho”
+- La aplicación del bono social del Gobierno niega la ayuda a personas que tienen derecho a ella
+- El Gobierno asume nuestras propuestas de mejora del bono social en su Estrategia contra la Pobreza Energética
+- El Gobierno se niega a explicar cómo funciona su aplicación para conceder o no el bono social
+- La mejora pendiente del bono social de la luz es simplificar el proceso de tramitación de estas ayudas
+- Consulta las condiciones para acceder al nuevo bono social
+- Nuestras recomendaciones -urgentes- para solucionar la mínima implantación del bono social de la luz
+- Una aplicación de Civio y la CNMC ayuda a los consumidores de electricidad a comprobar si tienen derecho al bono social y a solicitarlo
+- Casi dos millones de hogares perderán en octubre el bono social si no se acogen al nuevo modelo
+- La reforma del bono social pone límites al consumo total sobre el que se aplicará el descuento
+- Abrimos al uso público los documentos que vamos generando en este litigio para que sean útiles a otras personas y organizaciones:
+- Contestación del abogado del Estado, en representación del CTBG, a nuestra demanda
+- Respuesta del Consejo de Transparencia a nuestra reclamación ante silencio del Ministerio de Transición Ecológica
+- Resolución de cumplimiento del ministerio ante el requerimiento del Consejo de Transparencia
+- Análisis Funcional del sistema BOSCO del ministerio ante el requerimiento del CTBG
+- Casos de uso del sistema BOSCO del ministerio ante el requerimiento del CTBG
+- Anuncio de recurso administrativo de Civio, preparado por Javier de la Cueva, abogado y patrono de la fundación
+- Admisión a trámite del recurso de Civio por el Juzgado Central de lo Contencioso-Administrativo
+- Recurso de Civio ante el Juzgado Central de lo Contencioso-Administrativo
+- Contestación del abogado del Estado, en representación del Ministerio para la Transición Ecológica, a nuestra demanda
+- Informe pericial del Centro Criptológico Nacional, aportado como prueba por el Ministerio para la Transición Ecológica
+- Preguntas para ser respondidas por el autor del Informe del Centro Criptológico Nacional
+- Impugnación de las preguntas periciales por la Abogacía del Estado
+- Desestimación de la impugnación de las preguntas
+- Respuesta del Centro Criptológico Nacional
+- Conclusiones presentadas por la Fundación Civio
+- Sentencia del Juzgado Central de lo Contencioso-Administrativo
+- Recurso de apelación de Civio
+- Escrito de oposición de la Abogacía del Estado en nombre del Ministerio para la Transición Ecológica y del Consejo de Transparencia
+- Rectificación del Consejo de Transparencia: escrito de no oposición
+- Ayúdanos a crear más proyectos como este y a seguir presionando para que las ayudas públicas sí lleguen a quienes más las necesitan.
+- ¡Hazte socia o socio!
+- 
+- Puedes deducirte hasta un 80% de tu donación en tu declaración de la renta.
+- Cuota  de €
+- Donación de €
+Cuota  de €
+- Mediante la firma de esta orden de domiciliación, autorizas a (A) Fundación Ciudadana Civio (Civio) y a Stripe, nuestro proveedor de servicios de pago, a enviar instrucciones a tu banco para adeudar tu cuenta por la cantidad indicada y (B) al banco a efectuar los adeudos siguiendo dichas instrucciones. Como parte de tus derechos, estás legitimado al reembolso por tu banco en los términos y condiciones del contrato suscrito con él. La solicitud de reembolso deberá efectuarse dentro de las ocho semanas que siguen a la fecha de adeudo en cuenta.
+- También puedes hacerte socia/o
+También puedes realizar una donación puntual
+- Todas las novedades, directas a tu bandeja de correo
+- Somos una organización sin ánimo de lucro, por tanto, podrás deducirte hasta un 80% de tu donación en tu declaración de la renta.
+- A los primeros 150€ donados a cualquier organización durante el año, se les aplica una deducción del 80% y un 35% al resto de tu/s donación/es, al que podrás sumar un 5% adicional si este es el tercer año consecutivo que mantienes o elevas tu cuota.
+- Queremos que conozcas estas condiciones porque donar, en este contexto, es más favorable: tiene un coste real menor para ti y nos ayudará a llegar más lejos.
+- Si tributas en el País Vasco o Navarra la deducción sería diferente. En Navarra tienes derecho a deducirte el 25% de tu donación. En el País Vasco depende del territorio histórico donde tributes: en Araba/Álava y Gipuzkoa/Guipúzcoa el 20%, y en Bizkaia/Vizcaya la deducción es del 30%. Escríbenos a [email protected] si tienes cualquier duda.
+- Todas las novedades, directas a tu bandeja de correo
+
+URL: https://civio.es/novedades/2019/07/12/being-ruled-through-secret-source-code-or-algorithms-should-never-be-allowed-in-a-social-and-democratic-state-under-the-rule-of-law/
+- Civio filed an administrative appeal on June 20 after the Council of Transparency and Good Governance (CTBG) declined to force the release of source code of software dismissing eligible aid applicants.
+- The complexity of the process combined with the malfunctioning software, BOSCO, and lack of information about the nature of rejections resulted in only 1,1 million people out of 5,5 potential beneficiaries profiting from the so-called Bono Social. The former government estimated 2,5 million people would receive the subsidy.
+- The so-called Bono Social de Electricidad is a discount on energy bills to at-risk individuals and families. The complexity of the application process and the lack of information from the administration, were preventing disadvantaged groups from applying. Energy companies use BOSCO, a software created by the Spanish Ministry for Green Energy Transition, to decide who is entitled to the subsidy.
+- After weeks assessing how to improve the application process our team had many questions and doubts. “If we are confused, imagine how applicants are feeling!”, we thought. Civio reported it to authorities and in order to ease the application process, our team together with the National Commission on Markets and Competition (CNMC) came up with a simplified app. Municipalities, NGOs, media and individuals embedded Civio’s app and shared it thanks to a massive outreach campaign lead by Civio. This has helped over 300,000 citizens.
+- 2017
+- Civio began reporting about new legislation modifying access criteria to the so-called Bono Social de Electricidad, discounts on energy bills to at-risk individuals and families.
+- 2018
+- Lack of information in addition to the complexity of the process prevented people to apply on time through the app BOSCO. Civio reported it and created a widely shared App to ease the procedure. We worked closely with the government to solve some of the spotted errors in the app and requested the source code of the software. Something does not add up.
+- 2019
+- We keep collaborating with the administration by proposing ways to improve the Bono Social, which will be included in the national strategy against energy poverty. However after denying Civio de right to know how BOSCO works, ratified by the Transparency Council, we are forced to appeal their decision before court.
+- After dozens of calls from wrongly dismissed applicants, our team requested information about the software and its source code. In the documents shared with us, Civio found out that the software was turning down eligible applications and worked with authorities to mitigate spotted shortcomings. We got no reply from the administration regarding BOSCO’s code. We need it to find out how it works and the criteria set to grant subsidies. Meanwhile we kept a collaborative attitude with the administration, sharing our proposals to improve measures against energy poverty.
+- Unfortunately both the government and the Council of Transparency and Good Governance denied Civio access to the code by arguing that sharing it would incur in a copyright violation. However, according to the Spanish Transparency Law and the regulation of intellectual property, work carried out in public administrations is not subjected to copyright.
+- “Being ruled through secret source code or algorithms should never be allowed in a democratic country under the rule of law,” highlights Javier de la Cueva, Civio’s lawyer and trustee, in the lawsuit. “The current interpretation of the law by the CTBG will allow public administration to develop algorithms hidden from public scrutiny,” he warns. For this reason, we appealed the refusal of the Transparency Council before court.
+- At Civio we believe the right to information should be pursued and defended, wherever necessary. This is a serious matter. Please, help us spread the word and, if you’re concerned too, help us keep up the pressure: become a member of Civio or contribute with a one-off donation. We’ll prove it’s worth it.
+- Recibe nuestras investigaciones y campañas directamente en tu bandeja de entrada
+- Civio spotlights government actions and exposes wrongdoing to spur reforms.
+- Join us
+- Do you want to republish this story? That's easy. You just have to copy the HTML code shown below and meet the following requirements:
+- Attribute the article to its original author, ideally signing it. Use the form: Author's name, Fundación Civio. If your CMS does not allow this form of attribution, add the signature at the beginning of the article.
+- You cannot make changes to the information, except to adapt localizations, idiomatic turns or times to your style book (e.g., "last Thursday" instead of "yesterday"). We respond for the veracity of the text, from the headline to its final point. If in doubt, please contact the author of the text.
+- Link to the original article and preserve all the links in the text.
+- You cannot use programs or scripts to automate re-publishing of all our stories, because then you would not be re-publishing, you would be duplicating our web. Please select the content that is of interest to your readers.
+- More information about our republishing terms.
+- All our news, direct to your mailing list
+
+URL: https://elpais.com/economia/2018/12/22/actualidad/1545490217_426031.html
+- Cerca de un millón de usuarios tiene activo el bono social eléctrico, un descuento de entre un 25% y un 40% en el recibo de la luz, a pocos días de que acabe el plazo para renovarlo. El 31 de diciembre es la fecha límite para pasarse del antiguo sistema al nuevo y percibir de manera retroactiva las cantidades cobradas de más desde el 8 de octubre, cuando dejó de aplicarse la anterior rebaja de la que se beneficiaban 2,4 millones de personas. El Gobierno, que había estimado que unos dos millones de usuarios pedirían la ayuda bajo los nuevos criterios, asegura que hay otras 400.000 peticiones listas para ser concedidas
+- La lentitud en el goteo de solicitudes para pasar del anterior modelo de bono, diseñado en 2009, al actual, se justifica de distintas maneras en función de la fuente que proporciona la explicación. El Gobierno lo achaca al desconocimiento por parte del consumidor, que intentó paliar con varias campañas que intensificó en la recta final del año, mientras otras fuentes conocedoras del proceso aseguran que la complejidad del trámite hizo desistir o directamente impidió a más de un ciudadano completar la petición. Lo que es cierto es que el bono social lleva tiempo en el ojo del huracán.
+- Diseñado en 2009 para pequeños consumidores vulnerables con tarifa regulada, los criterios para acceder a esta rebaja cambiaron en 2017. El Gobierno del PP los vinculó casi exclusivamente a parámetros de renta y dio plazo hasta el pasado abril para solicitar el traslado al nuevo modelo. Entonces, el ministerio dirigido por Álvaro Nadal estimó que unos 4,5 millones de personas podrían estar en riesgo de pobreza energética y tener derecho a la rebaja, pero que solo un 45%, unos dos millones, la solicitaría.
+- Un año y dos prórrogas después —una hasta octubre y otra hasta diciembre—, solo hay 1.042.021 bonos sociales activos, según el Ministerio de Transición Ecológica. El departamento dirigido por Teresa Ribera asegura sin embargo que a 20 de diciembre, a 11 días de acabarse el plazo, había unas 400.000 solicitudes más que estaban admitidas y muy próximas a la concesión, sobre un total de casi dos millones de peticiones recibidas. Esto llevaría a acabar el año con cerca de un millón y medio de bonos adjudicados.
+- Vistas las pocas solicitudes recibidas a inicio del otoño, el Gobierno de Pedro Sánchez fijó una moratoria hasta fin de año, pero decretó suspender el descuento a todos aquellos usuarios que no solicitaran el cambio antes del 8 de octubre, fecha en la que terminaba el anterior plazo. Solo quienes pidan la renovación antes del 31 de diciembre recuperarán las cantidades cobradas de más desde entonces y tendrán también acceso al bono social térmico, la nueva ayuda para la calefacción. Pero no perderán el derecho al descuento, que podrán pedir en cualquier momento más allá de 2018.
+- A finales de julio, solo 650.000 usuarios, el 25% de los acogidos al anterior modelo, había logrado pasarse al nuevo sistema. La misma ministra Ribera había tachado poco antes de “ridículo” el porcentaje de usuarios que había pedido acogerse a esta tarifa bajo los nuevos criterios.
+- Con la nueva normativa, muchos de los parámetros anteriormente empleados para conceder el descuento fueron eliminados, como el tener poca potencia contratada. Este colectivo, que representaba el grueso de los beneficiarios del anterior bono —casi un millón y medio de personas que dejó de percibirlo en octubre—, se quedó fuera, salvo que cumpliera con los nuevos requisitos de renta. La ley actual distingue entre consumidores vulnerables, vulnerables severos y en riesgo de exclusión social. Y del millón de usuarios que tenía activado su bono a 20 de diciembre, 544.570 personas pertenecían a la primera categoría, 494.372 a la segunda y 2.670 a la tercera, según el Ministerio de Transición Ecológica.
+- El Gobierno de Pedro Sánchez amplió aún más el abanico al adoptar una serie de medidas urgentes este octubre, cuando se comprometió a diseñar una estrategia de lucha contra la pobreza energética que debería de estar lista para esta primavera. La CNMC, junto a la Fundación Civio, ha desarrollado una aplicación online para que los consumidores sepan si tienen derecho a disfrutar del bono social eléctrico y facilitar así el acceso a esta tarifa subvencionada.
+- Los consumidores con derecho al bono social que no lo soliciten antes del 31 de diciembre pierden por completo la posibilidad de beneficiarse del bono social térmico este invierno. Esta ayuda, una única aportación en metálico para la calefacción cuya cuantía varía en función de la renta y del área geográfica, va vinculada al bono social eléctrico y se reconoce automáticamente a todos los consumidores con derecho a este descuento.
+- La gran diferencia entre el bono eléctrico y el térmico, este último creado el pasado octubre para subvencionar calefacción, agua caliente sanitaria o cocina, reside en que el primero se podrá seguir solicitando en cualquier momento más allá del 31 de diciembre, algo que no ocurre con el segundo. Los beneficiaros del anterior bono social eléctrico que no soliciten el cambio al nuevo modelo antes de finales de año solo pierden la posibilidad de cobrar las cantidades atrasadas desde el pasado 8 de octubre, cuando se les dejó de aplicar el descuento al agotarse el plazo de renovación, pero no pierden el derecho a solicitarlo. El bono social térmico, por otro lado, fue creado como medida urgente para hacer frente a los gastos de combustible —sea este gas natural, butano, gasóleo, pellets...— durante este invierno, y al terminar el año también se agota la posibilidad de recibir esta ayuda.
+- Los usuarios que se hayan quedado fuera solo pueden esperar a que se adopten medidas en este sentido en la nueva Estrategia Nacional contra la Pobreza Energética que el Gobierno está diseñando. El Ministerio para la Transición Ecológica ha abierto a este propósito una fase de consulta pública previa, que durará hasta el próximo 17 de enero, y ha creado en su página web un acceso público para que ciudadanos, organizaciones y asociaciones hagan sus aportaciones.
+- Aunque el número de personas que no puede permitirse mantener la vivienda a una temperatura adecuada se haya reducido en comparación con los años más duros de la crisis, en 2017 todavía había unos cuatro millones de personas en riesgo de pobreza energética.
+- O suscríbete para leer sin límites
+- Es redactora en la sección de Economía de EL PAÍS y está especializada en Hacienda. Es licenciada en Ciencias Internacionales y Diplomáticas por la Universidad de Trieste (Italia), Máster de Periodismo de EL PAÍS y Especialista en Información Económica por la Universidad Internacional Menéndez Pelayo.
+- O suscríbete para leer sin límites
+- Suscríbete y lee sin límites
+
+URL: https://www.elmundo.es/tecnologia/2019/07/03/5d1b89fbfc6c83a2358b46ca.html
+- Portada
+- Oferta 19,95€ 1 año
+- La fundación Civio denuncia que el programa tiene fallos y está negando ayudas a personas que tendrían derecho. El Ejecutivo no puede revelar el código que permitiría comprobar las deficiencias al tratarse de propiedad intelectual protegida
+- Cada año, miles de personas no reciben las ayudas que el Gobierno ofrece para pagar la factura de la luz pese a tener derecho a ello, cumplir con los requisitos legales y haberlas solicitado. El culpable no es una plétora de funcionarios negligentes o una administración anticuada como la que plasmó Larra en su famoso escrito de Vuelva Usted Mañana. Más bien todo lo contrario: La decisión de negar estas subvenciones a personas mayores y vulnerables se encuentra en manos de un algoritmo con un código secreto, según ha denunciado la fundación Civio ante la justicia.
+- A diferencia de otros procesos relacionados con la administración -en los que un funcionario público es quién en base a la documentación aportada por el ciudadano decide si éste es beneficiario de una determinada ayuda de acuerdo a la ley- aquí es un programa informático quién tiene la última palabra.
+- Se trata del programa BOSCO, un software desarrollado por orden del Gobierno que las eléctricas utilizan para decidir quién es beneficiario del denominado bono social eléctrico.
+- El bono social eléctrico es una medida puesta en marcha por el Gobierno de Pedro Sánchez a través de la fórmula del Decreto-Ley pensada para los "consumidores vulnerables y con menor capacidad económica para afrontar los precios elevados".
+- En el momento de promover esta legislación el Gobierno estimó que se trataba de una medida de la que podrían beneficiarse unos 5,5 millones de personas. Sin embargo, preveía que tan solo 2,5 millones de personas se acogerían a estas subvenciones. Finalmente, tan solo hay 1,1 millones de beneficiarios.
+- Entre los más de 4,4 millones restantes existen personas que, bien por desconocimiento o bien porque no lo precisan, no han solicitado adherirse a este bono. Sin embargo, la fundación Civio afirma haber documentado casos en los que personas que cumplían todos los requisitos para acceder a esta ayuda les ha sido negada.
+- Según la denuncia de la fundación Civio, las entrañas del programa que decide sobre estas subvenciones a la electricidad es secreto, pese a haber solicitado los documentos y su código fuente ante el Gobierno y el Consejo de Transparencia y Buen Gobierno.
+- Aunque tan solo se les facilitó información parcial, también denuncian una serie de fallos en este programa que afectarían especialmente a jubilados y viudas que, pese a cumplir con todos los requisitos que marca la ley, se quedaban sin poder recibir este bono por decisión del algoritmo.
+- Para cualquier persona ajena al Gobierno resulta imposible acceder al código fuente que permitiría evaluar el correcto funcionamiento de este programa que toma decisiones sobre la vida de los ciudadanos.
+- "Cuando el código fuente de un programa informático es ley, porque mediante su ejecución se generan derechos y obligaciones, el ciudadano tiene tanto derecho a inspeccionar su funcionamiento como lo tiene con respecto a cualquier otra norma jurídica", asegura la demanda presentada por Javier de la Cueva, abogado de la fundación Civio.
+- Mientras tanto, fuentes del Gobierno explican a PIXEL que el Consejo de Transparencia "no estimó en su resolución la remisión del código fuente [las entrañas del programa que permitirían conocer su funcionamiento] al entender que, en este caso se aplica el artículo 14.1j de la Ley de Transparencia y Acceso a la Información Pública".
+- Dicho artículo establece el secreto profesional y la propiedad intelectual e industrial como uno de los límites al derecho de acceso a la información amparada por transparencia.
+- Es decir, por paradójico que parezca, la Ley de Transparencia del Gobierno impide al propio Gobierno facilitar la información sobre el programa informático que permitiría corregir sus deficiencias al tratarse (dicho programa) de una obra protegida por propiedad intelectual.
+- Conforme a los criterios deThe Trust Project
+- El director de El Mundo selecciona las noticias de mayor interés para ti.
+- Y luego, del algoritmo que amañó las elecciones del 28A no hablamos, verdad?
+
+URL: https://www.eldiario.es/alternativaseconomicas/bono-social-iba-crecer-descendio_132_1316391.html
+- Hoy hablamos de…
+- Tu tarjeta caduca el . Actualiza tus datos de pago para seguir siendo socio de elDiario.es. Tu apoyo aún es necesario.
+- Parece que tuviste problemas para darte de alta como socio/a en elDiario.es. Termina el proceso en solo unos minutos. Te necesitamos más que nunca.
+- Tus datos de pago son erróneos o incompletos. Actualiza tus datos para renovar la cuota y no causar baja como socio/a de elDiario.es
+- Este blog corresponde a Alternativas Económicas, una publicación mensual que te explica la información económica desde un punto de vista social.
+- Mariana Vilnitzky
+- Llega el otoño y cerca de 6,8 millones de personas, el 15% de la población residente en España, según el último informe de la Asociación de Ciencias Ambientales, sufrirán muy posiblemente temperaturas inadecuadas en su vivienda o tendrán algún retraso en el pago de recibos, o ambos.
+- Ante esta situación, ya en octubre de 2018 el Gobierno de Pedro Sánchez aprobó un real decreto-ley de medidas urgentes para impulsar la transición energética, en tanto se desarrollaba la Estrategia de Pobreza Energética. Entre muchas otras muchas medidas, el decreto pretendía reforzar el bono social eléctrico, una medida ya establecida por el Gobierno de José Luis Rodríguez Zapatero, para que lo recibiera mucha más gente. Pero en vez de reforzarse, menos gente pudo recibir el bono. ¿Qué sucedió?
+- El bono social reconocía el derecho de colectivos como pensionistas o personas con discapacidad, perceptores de rentas mínimas o familias numerosas, a ser beneficiarios de descuentos del 25% o 40% en su factura mensual de electricidad. Y en el caso de los consumidores en riesgo de exclusión social, se subvencionaba el 100% del recibo. Aun así, no todas las personas que se encontraban en situación de vulnerabilidad hacían los trámites para recibir el bono anterior. Según la Comisión Nacional de los Mercados y la Competencia (CNMC), solo 1,7 millones de personas lo lograban pedir, a pesar de que lo podían solicitar unos 2,5 millones.
+- Con el nuevo bono, se suponía que esta cifra se ampliaría y que lo podrían pedir hasta 5,5 millones de personas. Se prohibía el corte de suministro en los hogares acogidos al bono social donde viviera al menos un menor de 16 años; y en los hogares donde residiera al menos una persona con un nivel de discapacidad del 33% o superior. Se aplicaría “cuando viva en la vivienda al menos una persona en situación de dependencia en grado II o III”, y se determinarían criterios de renta específicos para familias monoparentales (85% mujeres solas). Además, se ampliaban el 15% los límites de consumo de energía con derecho a descuento. Y se endurecían las medidas sancionadoras a las empresas comercializadoras, que gestionan y financian el bono social.
+- Pero el bono no se amplió a más hogares. Según la CNMC, en enero de 2019 (el tiempo para entregar los papeles terminaba en diciembre de 2018), solo 1,1 millones de personas habían logrado renovar el bono, es decir, 600.000 personas menos que en el Gobierno de Rajoy. El trámite era demasiado engorroso.
+- Desconocimiento
+- “Lo del bono social es paradigmático”, dice Celso Pérez Graña, director adjunto y director de gestión de los equipos del programa A-Porta de la Confederación de Asociaciones Vecinales de Cataluña. El programa organiza a personas del barrio y les da formación para que vayan puerta por puerta explicando cómo bajar el recibo de la luz o la calefacción. Una de las fórmulas es, en los casos de mayor vulnerabilidad, acogerse al bono social. “Es donde se ha visto mucho nuestra labor. Hasta hace más o menos un año era relativamente fácil. El problema era lo de siempre, el desconocimiento. El 35% podían tener el bono social y lo desconocían. Pero con el cambio de ley nos encontramos con que los nuevos requisitos son mucho más complicados y más excluyentes”, agrega. “Nos hemos encontrado tantísimos casos. Y cada caso es un drama, estamos hablando de la posibilidad de ir al supermercado en vez de ir a pedir comida a la parroquia.  Además, son facturas muy hinchadas; llegan a pagar un sobrecoste del 50%. Vienen los de la compañía y les venden un ”nuevo beneficio“, y al final les hacen pagar la factura más alta. Y, por supuesto, ninguno le dice que puede optar por el bono social. Son las mismas empresas las que piden los requisitos, con lo cual, te lo pueden poner difícil”.
+- “Antes presentabas la hoja de la Seguridad Social conforme se indicaba la situación, el último recibo de la luz pagado y el DNI”, agrega Gladys Tantean, vecina que logró recuperarse de un desahucio y ahora ayuda a otras personas del programa A-Porta. “A alguien de más de 65 le piden que traigan una fe de vida, un trámite que debe hacerse en el Registro Civil. A veces son personas muy mayores, con patologías, que requieren cuidados, y deben salir de sus casas y correr peligro”, añade. “El aumento de trámites causa angustia, y un ajetreo de ir y venir con papeles. Y hay gente que directamente decide dejarlo”.
+- “Antes una familia numerosa con ingresos altos podía acogerse al bono social. Lo que se intentó con la reforma fue ajustarlo realmente a las capas que más lo necesitaban”, dice Eduardo Perero, vicepresidente de la Asociación de Ciencias Ambientales y que ha colaborado con el Gobierno para formular la Estrategia contra la Pobreza Energética. “Se ha complicado al tener que comprobar los datos de renta. Además, las empresas energéticas y los servicios sociales han tenido que asumir una mayor carga de trabajo de los propios afectados”. ¿Cómo se resuelve? “Los trámites que se exigen no son un capricho, tienen su sentido, pero hay que seguir trabajando por optimizarlos”.
+- El Gobierno había planteado en su momento dos prórrogas para realizar los trámites del bono. Otra de las razones del descenso en la cantidad de beneficiarios son los puntos de suministro que tenían una potencia inferior a 3 kW, a los que se les aplicaba de forma automática el descuento del viejo bono. En la nueva estrategia, estos han dejado de percibirlo. El supuesto de potencia por debajo de 3 kW era el que más beneficiarios tenía. De los más de 2 millones de beneficiarios del antiguo bono social, en torno a 800.000 eran por el supuesto de potencia. Aunque tener una potencia contratada baja es una estrategia de ahorro asociada a situaciones de vulnerabilidad, también se daban casos en los que quienes tenían una potencia baja contratada eran las segundas residencias. La idea del gobierno, insisten desde la Asociación de Ciencias Ambientales, era que la recibieran las capas de población más vulnerables.
+- Desde el Ministerio de Transición Ecológica (MITECO) indican que “en cumplimiento con la Estrategia, el Ministerio ya está trabajando en la elaboración de un bono social no solo eléctrico, sino para cualquier suministro energético y que se concebirá para que su otorgamiento sea de forma directa”. Además, tienen planificadas políticas mucho más amplias, y no paliativas como el bono social, que llevará un tiempo implementar.
+- Por ahora, poco han podido hacer, desde la disolución de las Cortes. Sí han podido ampliar los beneficios, para quienes ya tienen el bono social, con un bono térmico. Sin embargo, al no resolver el problema en su totalidad, algunos municipios y Cataluña están intentando ofrecer otras soluciones.
+- Desde municipios como Cádiz o el Área Metropolitana de Barcelona, se están creando compañías eléctricas públicas que opten directamente por no cortar la luz a quienes no puedan pagar. Esto lo ha intentado hacer, por otro lado, Cataluña, con la Ley 24/2015, surgida de una iniciativa legislativa popular (ILP) que prohíbe el corte de suministro por impago. Se cumple siempre que los afectados conozcan sus derechos y reclamen. Sin embargo, esta ley está en pleno debate y podría ser retirada si no se llega a un acuerdo político, porque la competencia en temas energéticos es estatal. Por otro lado, la ley catalana no es clara, y hay varios municipios litigando contra las compañías, que les exigen pagar el 50% de la deuda generada por los impagos.
+- Empresas sociales y cooperativas, como Som Energia, no pueden participar en el bono social, porque no son grandes productoras de energía, sino sobre todo comercializadoras.
+- Conflicto por el código de la web
+- La ONG Civio, una organización independiente y sin ánimo de lucro que vigila a los poderes públicos, presentó en junio pasado un recurso contencioso-administrativo ante la negativa del Consejo de Transparencia de obligar a hacer público el código del programa informático que decide quién resulta beneficiario del bono social eléctrico.
+- La organización, que ha creado su propia página web para ayudar a más personas a presentar los requerimientos para recibir el bono social tras recibir “decenas de llamadas de personas afectadas”, considera lo siguiente: “que se nos regule mediante código fuente o algoritmos secretos es algo que jamás debe permitirse en un Estado social, democrático y de derecho”.
+- Se trata del programa BOSCO, que utilizan las eléctricas, pero que ha sido desarrollado por el Gobierno.“En Civio entendemos que el derecho a saber también alcanza a aquellos programas informáticos que a diario toman decisiones sobre la vida de los ciudadanos”, dicen en un comunicado. “Y para conocer cómo un software, en su interpretación de la normativa, llega a un resultado –cómo toma una decisión– es necesario acceder a su código fuente. Por ello, nos hemos visto obligados a recurrir la negativa del Consejo de Transparencia ante los tribunales”.
+- Por su parte, el Consejo se ampara en la aplicación del artículo 14.1 (letra j de la LTAIBG) para no compartir el código fuente. El artículo dice: “el derecho de acceso podrá ser limitado cuando acceder a la información suponga un perjuicio para el secreto profesional y la propiedad intelectual e industrial”.
+- Por último, el Ministerio agrega que “ha colaborado y colaborará con Civio –y el resto de agentes– para mejorar la aplicación en todo lo que sea posible”.
+- [Este artículo ha sido publicado en el número 72 de la revista Alternativas Económicas. Ayúdanos a sostener este proyecto de periodismo independiente con una suscripción]
+- 
+- Este blog corresponde a Alternativas Económicas, una publicación mensual que te explica la información económica desde un punto de vista social.
+- Lo más leído por los socios
+- Ahora en portada
+- Los servicios mínimos de los medios aéreos del Plan Infocam por la huelga nacional entran en vigor este martes
+- Rescatada una patera con 52 personas a bordo cerca de la costa de Lanzarote
+- Page, sobre si se plantea un liderazgo nacional en el PSOE: “No me van a ver en ningún tipo de intrigas”
+- Un esgrafiado enigmático en Aridane
+- Declarada la época de peligro alto de incendios forestales a partir del 1 de junio
+- Gallardo insta a Guardiola a que se abstenga y deje gobernar al PSOE, la lista más votada
+- La jueza insta a los okupas a irse de una de las fincas de la Bonanova de Barcelona o ejecutará su desalojo
+- La segunda edición del programa de emprendimiento CRECE Ciudad Real concluye con siete proyectos de empresa
+- Este blog corresponde a Alternativas Económicas, una publicación mensual que te explica la información económica desde un punto de vista social.
+- MAPA | ¿Qué votaron tus vecinos en las elecciones municipales? Los resultados del 28M, calle a calle
+- Por qué Sánchez convoca elecciones: movilizar a la izquierda desde el shock
+- Los resultados de las municipales del 28M si hubieran sido elecciones generales: el PP gana pero la izquierda puede gobernar
+- Sumar y Podemos tienen diez días para decidir si concurren juntos a las generales
+- Más de 10.000 niños se quedan sin plaza en las escuelas infantiles de Madrid un día después de las elecciones
+- Un adelanto electoral secreto, de madrugada y en la Moncloa: el último todo o nada de Pedro Sánchez
+- Por qué Sánchez convoca elecciones: movilizar a la izquierda desde el shock
+- Sumar y Podemos tienen diez días para decidir si concurren juntos a las generales
+- Podemos y Yolanda Díaz preparan las negociaciones para lograr la unidad en tiempo récord
+- Un adelanto electoral secreto, de madrugada y en la Moncloa: el último todo o nada de Pedro Sánchez
+- El adelanto electoral, ¿te parece un error o un acierto?
+- Lo malo de las terapias de choque es que pueden matar al paciente
+- 
+- Este contenido está realizado por un anunciante y no interfiere en la información de eldiario.es.
+- Cómo reciclar tus productos de limpieza
+- Las conexiones con el pasado que nos ayudan a construir el futuro, las lecciones de Atapuerca
+- La ilusión por empezar a caminar: una herramienta que ayuda a niños con parálisis cerebral
+- Endometriosis, algo más que un fuerte dolor menstrual
+- Más de un cuarto de siglo de apoyo a  la educación superior para lograr la inclusión social y laboral
+- Los socios y socias de elDiario.es refrendan al primer Comité Rector del periódico
+- Periodismo a pesar de todo
+- Descubre nuestras apps
+- Vivimos en redes
+- Necesitamos tu apoyo económico para hacer un periodismo riguroso y con valores sociales
+- ¡Hola, !
+- 
+- 
+
+URL: https://edri.org/wp-content/uploads/2021/06/Case-studies-Impermissible-AI-biometrics-September-2020.pdf
+
+URL: https://algorithmwatch.org/en/spain-legal-fight-over-an-algorithms-code/
+- 
+- In the midst of the economic crisis, in 2009, the Spanish government passed a law subsidizing the electricity bills of about five million poor households. The subsidy, called social bonus or bono social in Spanish, has been fought in court by the country’s electric utilities ever since, with some success. Following a 2016 ruling, the government had to introduce new, tighter regulations for the social bonus and all beneficiaries had to re-register by 31 December 2018.
+- At the cut-off date, close to 1.5 million beneficiaries had been approved, almost a million fewer than the 2.4 million who had benefited from the previous scheme and a far cry from the estimated 4.5 million who fulfill the criteria to receive the bonus. Beneficiaries include pensioners, people earning up to 75% of the median income and all families with more than three children, among other groups deemed socially vulnerable. The bonus is far from symbolic. Someone earning less than 940 euro per month would get 85 euros off her yearly electricity costs, while someone earning less than 470 euros per month would receive 137 euros.
+- Some potential beneficiaries, such as wealthy families with more than three children, might not have applied. Others might have been daunted by the required paperwork, or might not have heard of the program. However, over half a million Spaniards have seen their application rejected. The culprit, for some of them at least, is called BOSCO. This software, which is run by the Spanish Ministry for Green Energy Transition, reviews applications for the social bonus and decides on their fate.
+- A Madrid-based non-profit, Civio, have been working on the social bonus for several years. In 2018, they developed a website that helps Spaniards navigate the application process in partnership with Spain’s competition regulator. After several people who had their application rejected contacted Civio, they found out that the BOSCO software failed to properly review each claim. For example, a retired widower who applied under means testing might still be eligible for the bonus because of her status, even if her revenues exceed the maximum for a means-tested subsidy, but BOSCO would automatically discard her application.
+- In order to know more, Civio asked the ministry for the source code of the software. Contacted by email, Eva Belmonte, Civio’s director and an investigative journalist, explained that the source code would allow them to confirm the testimonies they collected and check for other malfunctions. Given the sensitivity of the topic, the software needs to be thoroughly verified, she wrote.
+- The Council of Transparency and Good Governance, Spain’s freedom of information authority, denied Civio’s request, ostensibly on copyright grounds (AlgorithmWatch contacted the ministry repeatedly to know whose copyright was being protected but received no concrete answer at the time of publication). Civio has filed an administrative appeal on 20 June, the first step in a judicial confrontation.
+- While all countries of the European Union do have freedom of information legislation, whether or not the source code produced by an administration can be communicated is far from clear.
+- In France, the freedom of information authority ruled in 2015 that source codes were documents like any other that the administration produced and that they could be made public. While the government did publish the code of some software, going so far as providing clear installation instructions and hosting it on an open-source git service, the supreme court for administrative matters ruled in June 2019 against the publication of an algorithm used by a university to select prospective students.
+- In Germany, no clear guidelines exist regarding the communicability of government-made source code. In one case, a citizen asked to see the source code of the Wahl-o-Mat, a popular website that helps voters understand each party’s platform before an election. The request was granted, but to the requester only, due to copyright concerns. In another case, the administration agreed that a requester see the source code of an auditing tool developed by the ministry of education. However, he had to physically come to the ministry and read the code on a screen.
+- Did you like this story?
+- Every two weeks, our newsletter Automated Society delves into the unreported ways automated systems affect society and the world around you. Subscribe now to receive the next issue in your inbox!
+
+URL: https://www.techdirt.com/articles/20190823/07295442845/do-citizens-have-right-to-see-algorithms-used-publicly-funded-software.shtml
+- Legal Issues
+- In 2009, the Spanish government brought in a law requiring electricity bill subsidies for some five million poor households in the country. The so-called Bono Social de Electricidad, or BOSCO, was not popular with energy companies, which fought against it in the courts. Following a 2016 ruling, the Spanish authorities introduced new, more restrictive regulations for BOSCO, and potential beneficiaries had to re-register by 31 December 2018. In the end, around 1.5 million households were approved, almost a million fewer than the 2.4 million who had benefited from the previous scheme, and a long way from the estimated 4.5 million who fulfilled the criteria to receive the bonus.
+- The process of applying for the subsidy was complicated, so a non-profit organization monitoring public authorities, Civio, worked with the National Commission on Markets and Competition to produce an easy-to-use Web page that allowed people to check their eligibility for BOSCO. Because of discrepancies between what the Civio service predicted, and what the Spanish government actually decided, Civio asked to see the source code for the algorithm that was being used to determine eligibility. The idea was to find out how the official algorithm worked so that the Web site could be tweaked to give the same results. As Civio wrote in a blog post, that didn’t go so well:
+- 
+- Unfortunately both the government and the Council of Transparency and Good Governance denied Civio access to the code by arguing that sharing it would incur in a copyright violation. However, according to the Spanish Transparency Law and the regulation of intellectual property, work carried out in public administrations is not subjected to copyright.
+- 
+- Civio was not the only one to have problems finding out why details of the algorithm could not be released. The non-profit research and advocacy organization AlgorithmWatch also asked several times exactly whose copyright would be violated if the source code of the governmental BOSCO software were shared, but without success. The fact that code, apparently public-funded and thus not subject to copyright, is nonetheless being withheld for reasons of copyright, is one unsatisfactory feature of the BOSCO saga. Another is that secret government algorithms are being used to make important decisions about citizens. As Civio says:
+- 
+- “Being ruled through secret source code or algorithms should never be allowed in a democratic country under the rule of law,” highlights Javier de la Cueva, Civio’s lawyer and trustee, in the lawsuit. “The current interpretation of the law by the [Council of Transparency and Good Governance] will allow public administration to develop algorithms hidden from public scrutiny,” he warns. For this reason, we appealed the refusal of the Transparency Council before court.
+- 
+- There is another issue beyond the lack of transparency of governmental algorithms that impact people’s lives. Supporters of open access rightly point out that it is only fair for the public to have free access to academic research they have paid for. Similarly, it seems only fair for the public to have free access to the source code of software written and used by the government, since they have paid for that too. Or as a site created by the Free Software Foundation Europe on precisely this issue puts it: “If it is public money, it should be public code as well“.
+- Follow me @glynmoody on Twitter, Diaspora, or Mastodon.
+- Filed Under: bosco, open source, publicly funded software, source code, spain
+- The government giveth and the government taketh away.
+- The government taketh, and occasionally bribes people with their own money.
+- Nah; it bribes people with YOUR money. The people being bribed already don’t have to pay taxes.
+- Unfortunately both the government and the Council of Transparency and Good Governance denied Civio access to the code by arguing that sharing it would incur in a copyright violation.
+- They call the agency involved in stonewalling requests and blocking the public from knowing what’s going on the Council of Transparency and Good Governance? If they don’t call their military higher ups the Council of Peace and Civil Discourse they’ve really dropped the ball.
+- However, according to the Spanish Transparency Law and the regulation of intellectual property, work carried out in public administrations is not subjected to copyright.
+- Which raises some unpleasant possibilities, none of them good.
+- Starting at the ‘best possible’ I can think of is that the code is garbage, they know it, and they don’t want people to be able to confirm just what a mess it is.
+- Going down you’ve got the possibility that the code wasn’t made by a government agency and they don’t want people to know who it was that secured the contract to make it because of potential corruption concerns.
+- And down at the very bottom, based upon the large discrepancy between the numbers and who was fighting so hard to torpedo the subsidies from the get-go you’ve got a variant of the middle option, where the code was made by a company who just so happened to be heavily involved in the energy industry and therefore had a vested interest in excluding as many people as they could.
+- Or, in a combination of your first and third possibilities:
+- The code was written by the government, but was purposefully written to exclude as many people as possible, and it’s obvious that it was written for that purpose because the coders didn’t bother to disguise it as garbage.
+- Whenever the government spends money on one individual and denies it to another, the reasons should be public knowledge.
+- Well, if you ask Elsevier, we don’t even have the right to see publicly funded research without a university-level subscription.
+- And some governments claim the lae is copyrighted and can’t be viewed without paying someone.
+- On the case of voting machine software, most definitely.
+- "Do Citizens Have A Right To See The Algorithms Used By Publicly-Funded Software?"
+- They should, but getting around the way authoritarian governments with undo amounts of self interest isn’t going to be easy. Merely exposing those self interests won’t be sufficient as those in authority tend to have thick skins, and a lot of denial. The question is, what will it take?
+- As someone who writes this kind of code, a user readable version of the algorithm should be made available as a minimum for checking to see if it works. The public should be able to collect the same inputs and manually walk through the math to get the same result.
+- They hate the idea of doing this because you can find weakness in the math, or bias based on income, or finding out your social program kicks people off the program for really stupid reasons. The more in the dark the public is the better for those dark secrets to stay in the dark.
+- They hate the idea of doing this because you can find weakness in the math, or bias based on income, or finding out your social program kicks people off the program for really stupid reasons. The more in the dark the public is the better for those dark secrets to stay in the dark.
+- It doesn’t even have to be secret. Unnecessary complexity is a well-known pattern for keeping people from claiming benefits available to them, to reduce the costs. For example:
+- If they release the code, someone could make the process easier. For example, they could make one site that checks your eligibility for every social program, and suddenly expenses will go up. Like when people made apps to auto-dispute property tax assessments and traffic tickets, and governments started complaining of lost revenue.
+- When I was working on one states benefits system, many of the items you remark about actully came up. I could get data directly from the state tax system and unemployment system, with this information I could vet newly unemployed and we’d quickly find and be able to help people before they may have known they could get help. This idea of course failed badly as there are actual laws saying we cant vet people this way and can at best advertise the fact that the system exists.
+- At first, I thought the headline read: “Do Citizens Have a Right to Sue Algorithms…”
+- Hi, if you started to ask similar questions, then you probably already began to be interested in nearshore software development. This is now very profitable for Europe, and you can trace how such business conduct only improves the performance of many countries. I think it will be interesting for you to pay attention to this.
+- None of the company can allow people to see the algorithm code of the software, this is thing that does never go pubic even if you are working with http://www.toptenfirm.com/offshore-software-development-companies/ they will not allow you to do so.
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://red.novagob.org/algoritmos-y-transparencia-administrativa/
+- Un algoritmo oculto resuelve las solicitudes del bono social, regulado en el Real Decreto 897/2017, por el que aplica una tarifa eléctrica reducida a consumidores vulnerables. Según denuncia la Fundación Civio, el algoritmo deja fuera del bono a personas con derecho a obtenerlo.
+- Si algo caracteriza a cualquier Estado de Derecho son, entre otros, el principio de seguridad jurídica y el de transparencia de la actuación administrativa. Los actos de las Administraciones Públicas deben ser motivados y totalmente transparentes para que los ciudadanos sepan claramente cómo se han emitido, por quién y con base en qué criterios.
+- La aplicación de la inteligencia artificial (IA) y los algoritmos en la Administración es algo que a muchos nos fascina por las grandes ventajas que conlleva al lograrse una mayor eficacia, rapidez y ahorro de costes. Al mismo tiempo logrará una Administración más proactiva. Será, o está siendo ya, una verdadera revolución.
+- Los requisitos del bono social se regulan en el Real Decreto mencionado, desarrollado por la Orden ETU/943/2017, y la fórmula para el cálculo de los beneficiarios viene establecida en el Real Decreto 216/2014, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor de energía eléctrica y su régimen jurídico de contratación.
+- La peculiaridad del sistema es que son las eléctricas, como titulares de los contratos con los consumidores finales, quienes tramitan la concesión del bono. Lo hacen consultando un algoritmo informático llamado BOSCO, pero que nadie conoce. Las solicitudes se presentan a las eléctricas, que acceden a la sede electrónica del Ministerio de Industria para introducir los datos y consultar si se cumplen los requisitos. La aplicación informática responde con un «CUMPLE/NO CUMPLE LOS REQUISITOS PARA SER CONSIDERADO CONSUMIDOR VULNERABLE/VULNERABLE SEVERO».
+- Así pues, nos encontramos con un procedimiento automático tramitado por una empresa privada que hace de intermediario, trasladando al consumidor un sí o un no decidido por una «inteligencia artificial».
+- Ante las quejas de ciudadanos a quienes se les denegó el bono, la Fundación Civio solicitó el código al Gobierno y a través del Consejo de Transparencia y Buen Gobierno, pero le ha sido denegado alegando que está sujeto a propiedad intelectual (¿?).
+- Dejando al margen lo peculiar del caso, con intervención al inicio y al final de una entidad privada, el uso de la IA y los algoritmos plantea varias cuestiones: cómo funcionan, qué datos tienen en cuenta, deciden solos, cómo lo hacen, etc. La cuestión tiene una gran trascendencia por lo que ya hemos apuntado, los derechos de los ciudadanos dependen del buen funcionamiento de estas piezas de código, de que apliquen correctamente las normas y de que se sepa cómo actúan. Recordemos que la Ley 40/2015 ya regula la actuación administrativa automatizada, sin intervención humana, como parece ser el caso, pues la actuación puramente administrativa se limita a aplicar el programa y dar una decisión. Su artículo 41 exige que para que los algoritmos puedan actuar de manera automática debe:
+- «establecerse previamente el órgano u órganos competentes, según los casos, para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad y, en su caso, auditoría del sistema de información y de su código fuente. Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación»
+- En términos generales, además de estos requisitos, obvios para garantizar los derechos de los ciudadanos a una buena Administración, resulta evidente que las resoluciones que emitan los algoritmos deberán estar motivadas, sobre todo las denegatorias. Hasta aquí normal si tenemos en cuenta que son garantías básicas del procedimiento administrativo, equivalentes a las que se dan cuando decide un funcionario.
+- Recordemos que cuando dejamos a las máquinas trabajar por nosotros nos encontramos, igualmente, ante procesos regulados por la misma normativa procesal administrativa que los que pueden ejecutar los humanos, con la particularidad de que es un ordenador el que tramita parte o todo el expediente. De hecho, llevamos décadas confiando en los ordenadores también parte de nuestro trabajo, si bien bajo nuestro control.
+- Por tanto, un acto administrativo ha de estar debidamente motivado y ofrecer al ciudadano los recursos legales pertinentes contra el mismo. El tema que se plantea es, si el algoritmo cumple dichos requisitos y lo que está haciendo realmente es sustituir el proceso mental del funcionario a la hora de tomar la decisión, ¿no bastaría con ello para entender tal decisión como válida?
+- Se trata de una cuestión muy interesante que podría justificar la no revelación del algoritmo con el proceso informático (equivalente al proceso mental del funcionario) que se ha utilizado, teniendo en cuenta que la resolución cumpla los requisitos legales.
+- Claro está que nos encontramos aquí con el supuesto que motiva este comentario, que se han denegado sin más solicitudes que, a priori, cumplen con los requisitos. Obviamente, debemos preguntarnos qué criterio ha seguido y qué proceso ha realizado el algoritmo para llegar a esa conclusión, entrando en juego claramente el principio de transparencia y el derecho a conocer al protagonista de la resolución. ¿Sería equivalente el derecho a conocer al funcionario que resuelve con el derecho a conocer el código fuente del programa informático?
+- Junto a la aplicación de la inteligencia artificial o los algoritmos en la toma de decisiones administrativas nos encontramos en este caso particular con otra cuestión conexa, y es la razón ofrecida por el Ejecutivo y el Consejo de Transparencia para denegar el código fuente: que está sometido a propiedad intelectual. De acuerdo con el artículo 14.1.j) de la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso está limitado cuando concurra, entre otras, esta causa.
+- Pero ¿están sometidos a propiedad intelectual los algoritmos públicos? Primeramente hay que decir que de la información aportada por la Fundación y ofrecida por los medios de comunicación no queda claro si el algoritmo lo ha creado la Administración o se ha comprado a una empresa. Supongo que lo primero porque su creación no plantea dificultades y la AGE cuenta con muy buenos informáticos.
+- En cualquier caso esto no debería ser un límite al derecho de acceso, por cuanto la aplicación informática, al traducir a lenguaje del ordenador una norma jurídica para aplicarla, está ejerciendo «funciones públicas». Está sustituyendo a un empleado público y se ha creado o adquirido con dinero público.
+- Si ese programa falla y además no se motiva la resolución no queda más que responder que los ciudadanos tenemos derecho a conocer el código fuente del algoritmo para defender nuestros derechos. La seguridad jurídica y las garantías del ciudadano están en juego, sin contar en este caso concreto, con los costes económicos que se pueden derivar a consumidores vulnerables.
+- Puede leer todos mis comentarios en https://pedropadillaruiz.es/
+- MUNICIPIO Y LEY DE CALIDAD DE LAS AGUAS Y DEL AIRE III Por: Abogado Eduardo Lara Salazar edularalaw@gmail.com Esta...
+- PROCEDENCIA O NO PARA HABILITAR UN ALCALDE LEGISLATIVAMENTE III Por: Abogado Eduardo Lara Salazar edularalaw@gmail.com Por cuanto se han...
+- MUNICIPIO Y CONTROL INTERNO I Por: Abogado Eduardo Lara Salazar edularalaw@gmail.com El Sistema de Control Interno forma parte de...
+- Se acaba de publicar en el BOE la ley de Protección de Datos Personales y garantía de los derechos digitales, Ley...
+- * Este post ha sido publicado anteriormente en el blog del PEGIP 2020. El pasado 2 de noviembre se...
+- Vivimos una época de cambios acelerados. La sociedad se enfrenta a nuevos y variados desafíos. Aspectos como el crecimiento...
+- Se viene hablando desde hace décadas de los problemas que arrastra la Administración Pública para seguir los pasos de...
+- – Hola, buenos días, venía a solicitar la autorización para poder pescar con artes tradicionales ibicencas. – Debe rellenar...
+- Debes estar logueado para publicar un comentario.
+- 
+- Hemos actualizado nuestra política de cookies. Esta página web utiliza cookies imprescindibles para su funcionamiento así como otros que optimizan tu experiencia de usuario. Aquí puedes gestionarlos.
+- En NovaGob respetamos y cuidamos los datos personales de nuestros usuarios. Como usuario debes saber que tus derechos están garantizados.
+- Privacy Policy
+- Política de cookies
+- Las cookies de registro y técnicas son imprescindibles para el funcionamiento de la plataforma.
+- Cookies utilizadas
+- Cookies de terceros gestionados por nosotros (anonimizados).
+- Cookies utilizadas
+- cloudflare
+- google-analytics
+- 
+- o    
+                        
+							Crear una cuenta
+
+- Trelleborg welfare management automation
+- Netherlands childcare benefits fraud automation
+- Page infoType: SystemPublished: May 2021Last updated: October 2021

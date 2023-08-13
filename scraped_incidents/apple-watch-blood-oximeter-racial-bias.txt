@@ -1,0 +1,597 @@
+- Released: September 2020
+- Can you improve this page?Share your insights with us
+- Apple's Blood Oxygen app enables users to measure the percentage of oxygen carried by red blood cells from one's lungs to the rest of one's body.
+- Apple says its Blood Oxygen 'app measurements are not intended for medical use, including self-diagnosis or consultation with a doctor, and are only designed for general fitness and wellness purposes.'
+- Research studies show pulse oximetry apps fail to measure blood oxygen levels accurately and are unreliable, especially when they’re low, resulting in questioning the need for wristwatch blood oxygen sensors.
+- A December 2022 class-action lawsuit filed in the Southern District of New York claims that Apple Watch's blood oximeter does not work as well for Black people, amounting to consumer fraud.
+- 'While traditional fingertip pulse oximeters are capable of measuring blood oxygen levels and heart rate, wrist-worn devices [..] determine heart rate, as blood oxygen measurements from the wrist are believed inaccurate,' the complaint states.
+- It goes on to say 'Algorithms designed for fingertip sensing are inappropriate when based on wrist measurements, and can lead to over 90% of readings being unusable'.
+- Most retail blood oximeters cannot be marketed as medical advices without US Food and Drug Administration (FDA) approval, meaning their accuracy can be tricky to determine.
+- It is unclear why Apple has not been through the FDA's well-established testing process.
+- Operator: AppleDeveloper: Apple
+- Country: USA
+- Sector: Health
+- Purpose: Measure blood oxygen
+- Technology: Sensor; Blood measurement algorithmIssue: Accuracy/reliability; Appropriateness/need; Bias/discrimination - race, ethnicity
+- Transparency: Governance; Black box; Marketing
+URL: https://support.apple.com/en-us/HT211027
+- The Blood Oxygen app can allow you to measure the oxygen level of your blood on-demand directly from your wrist, providing you with insights into your overall wellness.
+- 
+- Measurements taken with the Blood Oxygen app are not intended for medical use and are only designed for general fitness and wellness purposes.
+- The Blood Oxygen app is only available in certain countries and regions.
+- Learn where the Blood Oxygen app is available
+- 
+- Your blood oxygen level represents the percentage of oxygen your red blood cells carry from your lungs to the rest of your body. Knowing how well your blood performs this vital task can help you understand your overall wellness.
+- The majority of people have a blood oxygen level of 95 - 100%. However, some people live a normal life with blood oxygen levels below 95%. Slightly lower values while sleeping are expected, and some users might experience values below 95%.
+- 
+- 
+- Make sure that you meet the below requirements and follow the steps to set up the Blood Oxygen app.
+- 
+- If you still don’t see the Blood Oxygen app on your Apple Watch, you can search the App Store on your Apple Watch for Blood Oxygen and download it.
+- The Blood Oxygen app is installed during the setup in the Health app. If you deleted the Blood Oxygen app, you can install it again from the App Store on your Apple Watch if you’ve completed the Blood Oxygen app setup.
+- 
+- 
+- You can take a blood oxygen measurement at any time with the Blood Oxygen app.
+- 
+- 
+- 
+- 
+- Even under ideal conditions, your Apple Watch may not be able to get a reliable blood oxygen measurement every time. For a small percentage of users, various factors may make it impossible to get any blood oxygen measurement.
+- 
+- 
+- The Blood Oxygen app on your Apple Watch will occasionally measure your blood oxygen levels if background measurements are on. This will usually happen when you are not moving. Depending on how active you are, the number of readings collected each day and the time between these readings will vary. Blood oxygen measurements use a bright red light that shines against your wrist, so it may be more visible in dark environments. If you find the light distracting, you can turn off background measurements.
+- Blood oxygen measurements only occur during sleep if the Track Sleep with Apple Watch setting is turned on.
+- 
+- 
+- 
+- All blood oxygen measurements, whether on-demand or in the background, are saved in the Health app on your iPhone.
+- You can also filter and view measurements taken only while sleeping or in a high-elevation environment.
+- 
+- 
+- 
+- 
+- * The Blood Oxygen app is not available if you set up your Apple Watch with Family Setup.
+
+URL: https://support.apple.com/guide/watch/blood-oxygen-apdaf17aa5ef/watchos
+- Use the Blood Oxygen app  on Apple Watch Series 6 or later to measure the percentage of oxygen your red blood cells carry from your lungs to the rest of the body. Knowing how well oxygenated your blood is can help you understand your overall health and wellness.
+- Note: The Blood Oxygen app is not available in all regions. Blood Oxygen app measurements are not intended for medical use.
+- Open the Settings app  on your Apple Watch.
+- Tap Blood Oxygen, then turn on Blood Oxygen Measurements.
+- Blood oxygen measurements use a bright red light that shines against your wrist, which may be more visible in dark places. You can turn off measurements if you find the light distracting.
+- Open the Settings app  on your Apple Watch.
+- Tap Blood Oxygen, then turn off In Sleep Focus and In Theater Mode.
+- The Blood Oxygen app  periodically measures your blood oxygen level throughout the day if background measurements are turned on, but you can also take an on-demand measurement at any time.
+- Open the Blood Oxygen app on your Apple Watch.
+- Rest your arm on a table or in your lap, and make sure your wrist is flat, with the Apple Watch display facing up.
+- Tap Start, then hold your arm very still during the 15-second countdown.
+- At the end of the measurement, you receive the results. Tap Done.
+- Note: The back of your Apple Watch needs skin contact. Wearing your Apple Watch not too tight or too loose, with room for your skin to breath, helps ensure successful Blood Oxygen measurements. For more information, see the Apple Support article How to use the Blood Oxygen app on Apple Watch.
+- Open the Health app on your iPhone.
+- Tap Browse, tap Respiratory, then tap Blood Oxygen.
+- Download this guide: Apple Books | PDF
+
+URL: https://www.apple.com/newsroom/2020/09/apple-watch-series-6-delivers-breakthrough-wellness-and-fitness-capabilities/
+- Featuring a Blood Oxygen sensor and app, new case finishes, and watchOS 7
+- Images of Apple Watch Series 6
+- Apple Media Helpline
+- 
+- 
+- media.help@apple.com
+- 
+- The latest news and updates, direct from Apple.
+- Read more
+
+URL: https://www.scribd.com/document/616597595/Apple-Class-Action-Apple-Watch-and-Dark-Skin-Tone
+
+URL: https://www.cebm.net/covid-19/question-should-smartphone-apps-be-used-as-oximeters-answer-no/
+- Evidence Service to support the COVID-19 response
+- April 1, 2020
+- 
+- 
+- 
+- Professor Lionel Tarassenko1
+Professor Trisha Greenhalgh2
+- On behalf of the Oxford COVID-19 Evidence Service Team
+1Department of Engineering Science, University of Oxford
+2Nuffield Department of Primary Care Health Sciences
+University of Oxford
+- Correspondence to lionel.tarassenko@eng.ox.ac.uk
+- VERDICT
+- There is no evidence that any smartphone technology is accurate for the measurement of blood oxygen saturation for clinical use. Furthermore, the scientific basis of such technologies is questionable. Oxygen saturation levels obtained from such technologies should not be trusted in the clinical assessment of patients.
+- UPDATE
+This review was updated on 19th May to take account of feedback received from academic colleagues. Whilst the feedback resulted in some minor changes to the text below, it does not change the conclusions. The feedback and our detailed response to it can be viewed here.
+- BACKGROUND
+The COVID crisis is requiring us to manage patients with as little in-person contact as possible. The assessment of a patient with respiratory problems usually includes measurement of blood oxygen saturation (abbreviated SpO2), using a validated pulse oximeter. This is particularly important in unwell patients with COVID-19, since hypoxia is a serious warning sign for severe pneumonia.1 Whilst in-person assessment would use a standard pulse oximeter on the patient’s finger, few patients have such a technology in their homes. Various technology companies have developed smartphone apps that are marketed as accurate for measuring oxygen saturation.
+- A previous rapid review by our team on assessing shortness of breath in remote consultations2 turned up two academic papers which claimed to have validated smartphone technologies for measuring oxygen levels in the blood.3 4  Both papers (summarised in a table in the appendix), described comparison against a reference method (finger pulse oximetry or arterial blood gas). Whilst those papers included claims that there was good correlation between the smartphone reading and the reference standard, we were concerned about the risks of relying on these two small studies.2 We sought expert input from a Professor of Electrical Engineering (LT) who specialises in medical devices. This paper summarises Professor Tarassenko’s advice.
+- THE SCIENTIFIC BASIS OF OXYGEN SATURATION MEASUREMENT
+Oxygen saturation is the fraction of oxygenated haemoglobin relative to the total haemoglobin (oxygenated + deoxygenated) in the blood.
+- SpO2 = [HbO2] / ([Hb] + [HbO2])
+- where HbO2 is oxygenated haemoglobin and Hb is deoxygenated haemoglobin.
+- The measurement of SpO2 with a pulse oximeter relies on the fact that the two forms of the haemoglobin molecule, Hb and HbO2, have light absorption properties which vary with wavelength in the visible and infra-red parts of the spectrum. It therefore requires the measurement of light transmission or reflection from a body segment such as a finger at two different wavelengths (usually in the red and infra-red).
+- CRITICAL APPRAISAL OF THE DIGIDOC APP TESTED BY TOMLINSON ET AL3
+Despite the principles set out above, the DigiDoc app used in the Tomlinson study claims to measure oxygen saturation levels with just the flash light and camera of a smartphone. The app was reviewed in a blog on the Medpage Today website in 2015 (https://www.medpagetoday.com/blogs/iltifathusain/51888) under the headline “There are apps making unjustifiable claims, exposing patients to unnecessary risk”. The author concludes his review with the following words: “I’d urge DigiDoc to either take the app off the market until the company can support its claims or at least make significant changes to the app store description. In the meantime, clinicians […] should advise their patients not to use it.”
+- The claims made by DigiDoc are scientifically unsound. The app “measures oxygen saturation within 90-100% with an accuracy of 0-4 RSM compared to a medical grade oximeter”. It is not clear what RSM is (is it root root-mean-square error, RMSE?) but if we assume that they are claiming an error of ±4%, then a random number generator with a mean value of 95% and errors randomly distributed between -4% and +4% would give values between 91% and 99%.
+- Careful analysis of the paper by Tomlinson et al3 confirms the lack of scientific credibility for the DigiDoc app. Figure 2 in the paper (Bland-Altman plot for the SpO2 values for the DigiDoc app and the triage pulse oximeter) shows that all the readings, bar two, were between 97% and 100%, i.e. completely normal, with 95% Limits of Agreement at -4% and +3.5%. The authors observe that “reliability is low for the camera-based app, even when the two investigators tested the same patient within 1 to 2 min of each other”. Their statement that the difference between the camera-based app and the triage pulse oximeter is ±4 points should have led them to conclude, given that the x-axis in the Bland-Altman plot only extends from 96% to 100%, that the app was highly inaccurate.
+- CRITICAL APPRAISAL OF 2019 SCIENTIFIC ARTICLE BY DIGIDOC AND COMPUTER SCIENCE & ENGINEERING DEPARTMENT FROM SMU, DALLAS
+On 19th December 2019, DigiDoc Technologies announced in a blog that a new scientific article (Measuring Oxygen Saturation with Smartphone Cameras using Convolutional Neural Networks) had been published in the November issue of the IEEE Journal of Biomedical & Health Informatics. The three authors of this paper are researcher Xinyi Ding and Associate Professor Eric C. Larson of Southern Methodist University, Dallas and the CEO of DigiDoc Technologies, Dr Damoun Nassehi.
+- The methodology has a number of limitations, some of which are pointed out in the paper by the authors, but which are laid out more explicitly here:
+- To summarise, the app cannot be used clinically because: (a) the training dataset does not appear to have included the full range of skin types (from Fitzpatrick skin type 1 to 6); (b) the training dataset covered a limited range of oxygen saturation values, mostly in the normal range from 95% to 100%, whereas pulse oximeters used clinically should cover the range from 70% to 100%; (c) there is no independent dataset on which the app has been tested.
+- In e-mail exchanges with Professor Tarassenko, Dr Larson makes a number of points:
+- In a further e-mail to Professor Tarassenko, Dr Nassehi states that “the [DigiDoc] Pulse Oximeter app is for use by sports users who are interested in knowing their blood oxygenation level (SpO2) and Heart Rate. The Pulse Oximeter app is NOT INTENDED FOR MEDICAL USE.”
+- CRITICAL APPRAISAL OF THE SAMSUNG APP TESTED BY TAYFUR ET AL4
+The Samsung Galaxy series of phones had a red light emitting diode (LED) built into the phone in addition to the flash light and camera. There were no details released by the company of how its app used the LED to estimate oxygen saturation, but it appears from publicity material on YouTube that it worked via a single-wavelength measurement (albeit with a monochromatic light source, the LED) and therefore that oxygen saturation could not be accurately derived from it.
+- The methodology used by Tayfur and Afacan in their study is sounder than in the Tomlinson study because their reference device is an arterial blood gas (ABG) analyser. The Bland-Altman plot (Figure 4) in their paper shows that most of the oxygen saturation measurements from their Emergency Department patients were between 95% and 100%. For the few patients whose oxygen saturation measurements were between 85% and 93%, the difference between the smartphone estimate and the ABG device varied between -5.5% and +2.5%. In other words, the readings become less accurate as the patient becomes more hypoxic.
+- CONCLUSIONS
+- Disclaimer:  the article has not been peer-reviewed; it should not replace individual clinical judgement and the sources cited should be checked. The views expressed in this commentary represent the views of the authors and not necessarily those of the host institution, the NHS, the NIHR, or the Department of Health and social Care. The views are not a substitute for professional medical advice.
+- AUTHORS
+Professor Tarassenko is Professor of Electrical Engineering at the University of Oxford.
+- Trish Greenhalgh is a Professor of Primary Care Health Sciences, co-Director of the Interdisciplinary Research In Health Sciences (IRIHS) unit, and joint module coordinator on the Knowledge Into Action (KIA) module of the MSc in Evidence Based Health Care.
+- SEARCH (for further details see2)
+- We searched EMBASE and PubMed
+- Embase: We used the Thesaurus search builder with the terms “dyspnea” OR “hypoxia” OR “oximetry” AND “telemedicine” OR “smartphone” OR “telephone”
+- Pubmed: We performed the following search string using the relevant MeSH terms:
+- (“Oximetry”[Mesh] OR “Blood Gas Monitoring, Transcutaneous”[Mesh] OR “Dyspnea”[Mesh] OR “hypoxia”[Mesh]) AND (“Telemedicine”[Mesh] OR “Remote Consultation”[Mesh] OR “Smartphone”[Mesh] OR “Telephone”[Mesh])
+- APPENDIX: DETAILS OF INCLUDED STUDIES
+(acknowledging Koot Kotze and Helene-Mari Van Der Westhuizen2)
+- Children were excluded if they were in the ED for a respiratory-related complaint, if they had underlying cardiac, respiratory, hematologic, or metabolic disease, if they were a trauma patient, if capillary refill time in fingers was >3 s, or if they had nail polish on their fingernails.
+- 
+- 
+- “ICC for SpO2 for PBA and CBA were 0.73 and -0.24, respectively. The 95% limits of agreement between the PBA SpO2 and triage SpO2 were -2.8 to +2.5 compared with -4.1 to +3.5 for the CBA SpO2 and triage SpO2. Mean differences between triage SpO2 and the PBA SpO2 (-0.17%) and triage SpO2 and CBA SpO2 (-0.33%) were not statistically significant. “
+- 
+- 
+- 
+- 
+- 
+- “The mean age of the male and female patients was 68.08 and 72 years, respectively. According to the age distribution of the patients, the highest number of patients were in the 60–69 years group (25.75%, n=26).” 42% had pulmonary disease.
+- It is not noted how many patients were excluded according to pre-defined exclusion criteria, which were: “patients aged under 18 years, those that did not agree or give consent to participate in the study, those requiring urgent intervention (blue code, unstable patients), those not able to adapt to the measurements with a device (unconscious, confused, etc.), those with a high degree of hypothermia that might adversely affect the measurement from the skin, and those wearing nail polish or false nails.
+- Mean difference:
+- Smartphone SaO2 vs Arterial blood gas SaO2:
+- −0.67% (95%CI=−0.845 to−0.494).
+- Correlation coefficient:
+- 0.968 for smartphone SaO2 – ABG SaO2 (95% CI = 0.952 to 0.978). The VSM and Smartphone SaO2 mean difference and correlation coefficient are not reported, and this is problematic as it is the most clinically useful parameter, given that this is the likely application of the study – replacing one form of non-invasive oximetry with another.
+- 
+- REFERENCES
+- Available in Portuguese
+- TRIP DatabaseCOVID-19 updates
+- CEBM Learning
+
+URL: https://link.springer.com/article/10.1007/s10877-016-9889-6
+- Advertisement
+- Journal of Clinical Monitoring and Computing
+volume 31, pages 825–831 (2017)Cite this article
+- 955 Accesses
+- 21 Citations
+- 64 Altmetric
+- Metrics details
+- Use of healthcare-related smartphone applications is common. However, there is concern that inaccurate information from these applications may lead patients to make erroneous healthcare decisions. The objective of this study is to study smartphone applications purporting to measure vital sign data using only onboard technology compared with monitors used routinely in clinical practice. This is a prospective trial comparing correlation between a clinically utilized vital sign monitor (Propaq CS, WelchAllyn, Skaneateles Falls, NY, USA) and four smartphone application-based monitors Instant Blood Pressure, Instant Blood Pressure Pro, Pulse Oximeter, and Pulse Oximeter Pro. We performed measurements of heart rate (HR), systolic blood pressures (SBP), diastolic blood pressure (DBP), and oxygen saturation (SpO2) using standard monitor and four smartphone applications. Analysis of variance was used to compare measurements from the applications to the routine monitor. The study was completed on 100 healthy volunteers. Comparison of routine monitor with the smartphone applications shows significant differences in terms of HR, SpO2 and DBP. The SBP values from the applications were not significantly different from those from the routine monitor, but had wide limits of agreement signifying a large degree of variation in the compared values. The degree of correlation between monitors routinely used in clinical practice and the smartphone-based applications studied is insufficient to recommend clinical utilization. This lack of correlation suggests that the applications evaluated do not provide clinically meaningful data. The inaccurate data provided by these applications can potentially contribute to patient harm.
+- This is a preview of subscription content, access via
+                                        your institution.
+- Instant access to the full article PDF.
+- 39,95 €
+- Price includes VAT (Ireland)
+- Rent this article via DeepDyve.
+- Learn more about Institutional subscriptions
+- Research2guidance. Mobile health market report 2013–2017. March 4, 2013 (http://bit.ly/17V79dw).
+- Mobile Medical Applications. Guidance for Industry and Food and Drug Administration Staff. 2015.
+- Cortez NG, Cohen IG, Kesselheim JS. FDA regulation of mobile health technologies. N Engl J Med. 2014;371:372–9.
+- Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+- Bruining N, Caiani E, Chronaki C, Guzik P, van der Velde E. Task force of the e-cardiology working. Acquisition and analysis of cardiovascular signals on smartphones: potential, pitfalls and perspectives: by the task force of the e-cardiology working group of European Society of Cardiology. Eur J Prev Cardiol. 2014;21(2 Suppl):4–13.
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Peterson CL, Gan H, MacInnis MJ, Dumont GA, Ansermino JM. Ultra-low-cost clinical pulse oximetry. Conf Proc IEEE Eng Med Biol Soc. 2013;2013:2874–7.
+- Google Scholar
+- Lim J, Cloete G, Dunsmuir DT, Payne BA, Scheffer C, von Dadelszen P, Dumont GA, Ansermino JM. Usability and feasibility of PIERS on the move: an mHealth app for preeclampsia triage. JMIR Mhealth Uhealth. 2015;3:e37.
+- Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+- Yen TH, Chang CY, Yu SN. A portable real-time ECG recognition system based on smartphone. Conf Proc IEEE Eng Med Biol Soc (United States): 2013;7262–5.
+- Banos O, Villalonga C, Damas M, Gloesekoetter P, Pomares H, Rojas I. PhysioDroid: combining wearable health sensors and mobile devices for a ubiquitous, continuous, and personal monitoring. Sci World J. 2014;2014:490824
+- Article 
+    
+                    Google Scholar
+- Nam Y, Lee J, Chon KH. Respiratory rate estimation from the built-in cameras of smartphones and tablets. Ann Biomed Eng. 2014;42:885–98.
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Ho CL, Fu YC, Lin MC, Chan SC, Hwang B, Jan SL. Smartphone applications (apps) for heart rate measurement in children: comparison with electrocardiography monitor. Pediatr Cardiol. 2014;35:726–31.
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Matsumura K, Yamakoshi T. iPhysioMeter: a new approach for measuring heart rate and normalized pulse volume using only a smartphone. Behav Res Methods. 2013;45:1272–8.
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Reidpath DD, Ling ML, Yasin S, Rajagobal K, Allotey P. Community-based blood pressure measurement by non-health workers using electronic devices: a validation study. Glob Health Action. 2012;5:14876.
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Husain I. Top 10 downloaded iPhone health app can cause significant patient harm. 2014. http://www.imedicalapps.com/2014/07/iphone-health-app-patient-harm/. Accessed 02 Feb 2016.
+- Download references
+- The authors would like to thank our colleagues who volunteered to make this study possible, and for the support from the Department of Anesthesiology and Pain Management at the University of Texas Southwestern Medical Center.
+- Department of Anesthesiology and Pain Management, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd., Dallas, TX, 75390-9068, USA
+- John C. Alexander
+- Department of Clinical Sciences, University of Texas Medical Center, 5323 Harry Hines Blvd., Dallas, TX, 75390-9068, USA
+- Abu Minhajuddin
+- Department of Anesthesiology and Pain Management, University of Texas Medical Center, 5323 Harry Hines Blvd., Dallas, TX, 75390-9068, USA
+- Girish P. Joshi
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- Correspondence to
+                John C. Alexander.
+- All the authors declare that they have no conflict of interest.
+- Pulse Oximeter Pro
+- Open application by pressing icon on iPhone screen (“POximeter”).
+- Follow on-screen prompt to “Press Round Button to Start/Stop”.
+- Follow on-screen prompt to place index finger over camera and flash until application completes measurement (cued by “beeping” noise from iPhone).
+- Pulse Oximeter
+- Open application by pressing icon on iPhone screen (“Oximeter”).
+- Press “START” at bottom of screen.
+- Follow on-screen prompt to place index finger over camera and flash until application completes measurement.
+- Instant Blood Pressure Pro
+- Open application by pressing icon on iPhone screen (“BP Measure”).
+- Follow on-screen prompt and press Settings tab in bottom right corner of screen.
+- Enter requested demographic information: Gender, Body Condition, Age, Weight, Height.
+- Follow on-screen prompt to “Press Round Button to Start/Stop”.
+- Follow on-screen prompt to place index finger over camera and flash until application completes measurement (cued by “beeping” noise from iPhone).
+- Instant Blood Pressure
+- Open application by pressing icon on iPhone screen (“Instant BP”).
+- Enter requested demographic information: Sex, Age, Weight, Height.
+- Press “Get Started” at bottom of screen.
+- Follow prompt and press “Start New Measurement” at bottom of screen.
+- Follow prompt to remove jacket or sweater, press “OK, I’m ready to proceed” at bottom of screen.
+- Follow prompt to remove any iPhone case, press “OK, I have no case on” at bottom of screen.
+- Follow prompt to place right index finger over camera and flash as prompted.
+- Follow prompt to place the bottom of the phone on the chest as directed and hold steady until measurement is complete.
+- Reprints and Permissions
+- Alexander, J.C., Minhajuddin, A. & Joshi, G.P. Comparison of smartphone application-based vital sign monitors without external hardware versus those used in clinical practice: a prospective trial.
+                    J Clin Monit Comput 31, 825–831 (2017). https://doi.org/10.1007/s10877-016-9889-6
+- Download citation
+- Received: 15 February 2016
+- Accepted: 09 May 2016
+- Published: 12 May 2016
+- Issue Date: August 2017
+- DOI: https://doi.org/10.1007/s10877-016-9889-6
+- Anyone you share the following link with will be able to read this content:
+- Sorry, a shareable link is not currently available for this article.
+- 
+- Provided by the Springer Nature SharedIt content-sharing initiative
+- Instant access to the full article PDF.
+- 39,95 €
+- Price includes VAT (Ireland)
+- Rent this article via DeepDyve.
+- Learn more about Institutional subscriptions
+- Advertisement
+- Over 10 million scientific documents at your fingertips
+- Not logged in
+ - 31.193.221.194
+- Not affiliated
+- © 2023 Springer Nature Switzerland AG. Part of Springer Nature.
+
+URL: https://spectrum.ieee.org/should-you-trust-apples-new-blood-oxygen-sensor
+- IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.
+- In the early days of the coronavirus pandemic, it wasn’t just face masks and hand sanitizer that flew off drugstore shelves. Pulse oximeters were also in short supply, as news came out that a drop in blood oxygen could be a sign that a case of the coronavirus has taken a bad turn.
+- These inexpensive and noninvasive electronic devices use LED lights and photodiodes to determine the way red blood cells are absorbing light—oxygenated cells absorb more infrared light than red light, cells that aren’t carrying oxygen the opposite. With that information, algorithms can calculate a level of blood oxygenation; for most healthy people that’s in the high 90 percentile, in cases of COVID, the numbers dropped into the 80s. So it seemed like a good idea to have one on hand, if you could find one.
+- Now, six-plus months into the pandemic, it’s not surprising that consumer electronics manufacturers are touting the benefits of adding pulse oximeters to wearables. The sensors don’t cost much, they don’t use much battery power, and they could attract at least a few consumers looking to feel a little safer in this uncertain world.
+- 
+- Apple is the latest company to bring pulse oximetry to a wrist wearable (Fitbit and Garmin already had products out pre-pandemic, aimed at identifying sleep apnea). Announced last week, the Apple Watch Series 6 uses four groups of green, red, and infrared LEDs along with four photodiodes and what the company says is an advanced custom algorithm to determine blood oxygenation. (The red and infrared LEDs are involved in the oxygen measurement; the green LED can check pulse rate.) The sensors, mounted on the back of the watch and therefore touching the top of the wrist, can be used to take readings on demand during the day and automatically during sleep.
+- 
+- Apple is touting the gadget for “fitness and wellness.” Loosely translated, that means that this gadget does not have FDA approval to be marketed as a medical device. That comes as little surprise—FDA clearance takes time—but without that approval, it’s hard to know just how accurate it is.
+- 
+- Indeed, accuracy remains a question with many of the pulse oximeters on the consumer market. Says Steve Xu, a physician-engineer who is medical director for the Center for Bio-Integrated Electronics at Northwestern University, “It is relatively straightforward to make a pulse oximeter, even for an undergrad engineering design project, but it is really really hard to make a good one that is clinically dependable.”
+- Is Apple’s a good one? It’s hard to say just yet. Besides the issues of adjusting to different skin colors, coping with motion, and other design challenges faced by all pulse oximeters, putting the sensors on top of the wrist raises the difficulty level. The devices used in hospitals as well as the standalone gadgets sold in drugstores typically clip onto a fingertip or, sometimes, an earlobe.
+- “Those locations have an advantage over the back of the wrist,” Xu says, “because they have more capillaries, so provide a better signal to noise ratio.”
+- Wrist-worn blood oxygen sensors face another disadvantage: while fingertips are thin enough to allow light to shine through them, wrist oximeters must rely on reflected light, an inherently less precise approach.
+- “It’s not necessarily bad,” Xu says, “but all things being equal, isn’t going to be as accurate” as a pulse oximeter designed for a more favorable location.”
+- “I would never put a pulse oximeter on the wrist,” says William McMillan, co-founder, president, and chief scientific officer of Profusa, a company developing implantable biosensors. “The wrist is subject to a lot of motion, which is bad news for continuous measurement.” (Apple’s watches do have motion sensors which could help it identify quiet moments.)
+- Apple can show proof that its watch-based device can provide accurate oxygen saturation reading by taking it through FDA’s approval process, says Xu; the testing procedure for pulse oximeters is well-established.
+- Even without such vetting, Apple is launching several health studies using the Apple Watch oximeter—one looking at the management of heart failure, one at the management of asthma, and one considering blood oxygen level changes as early warning signs of COVID-19 and influenza. Both Xu and McMillan are cautiously optimistic about such efforts.
+- 
+- “Consumer product companies like Apple and Fitbit have a vastly bigger scale than most medical device companies,” Xu says. “Not many technology companies outside of the Apples and Fitbits and Samsungs can deploy a million devices in the world and manage the data that comes in. So we should do these studies and see how prognosticating they are, but we should realize there will be a lot of false positives. Maybe it will turn out to be a useful screening tool, but the verdict is still out.”
+- “Because [the device] isn’t likely terribly accurate, and it won’t involve a control group, rather, an uncontrolled situation, they will need a huge sample size to detect any phenomena,” says McMillan. “But they end up having millions of data points in which to look for insights, and that would be OK.”
+- This all begs the question—does the average smart watch user actually need to wear a pulse oximeter 24/7?
+- While such a wearable may tell us more about the fluctuations of blood oxygen saturation in the broad population, Xu says, “The vast number of healthy people are at 97 to 99 percent. If we all wear these and freak out whenever it drops to 92, the potential to worry people who are well is much higher than the clinical implications, which at this point are unknown.”+
+- Tekla S. Perry is a senior editor at IEEE Spectrum. Based in Palo Alto, Calif., she's been covering the people, companies, and technology that make Silicon Valley a special place for more than 40 years. An IEEE member, she holds a bachelor's degree in journalism from Michigan State University.
+
+URL: https://www.theverge.com/2020/4/23/21232488/blood-oxygen-apps-iphone-samsung-unreliable-fitbit-garmin-oximeter
+- By  Nicole Wetsman
+- Doctors say one of the best ways to monitor patients with COVID-19 is by tracking their blood oxygen levels, which can show when they have dangerous breathing problems — even if they don’t feel short of breath. But along with toilet paper and digital thermometers, devices that measure those levels, called pulse oximeters, are hard to find. They’re either sold out or taking weeks to ship from major retailers.
+- With the devices out of reach, people are turning to questionable alternatives: the third most popular paid iPhone app last week claims to be able to measure blood oxygen levels through the phone’s camera, despite a disclaimer that says the app is not a medical device. On Reddit, some people fighting off COVID-19 say they’re using a health feature on some Samsung phone models to check their oxygen levels. Others say they’re using pulse oximetry features on smartwatches.
+- That concerns doctors. Despite their accessibility, research shows pulse oximetry apps don’t accurately measure blood oxygen levels, especially when they’re low. And relying on apps could be dangerous, says Walter Schrading, director of the office of wilderness medicine at the University of Alabama at Birmingham School of Medicine.
+- The apps are easy party tricks when you’re not sick: put your finger on the camera, get a normal oxygen reading. “You can see, I’m a normal human being, breathing normal air,” he says. But when someone actually has low oxygen levels, they’re likely to still give that normal reading. “They don’t work well when you actually need them to work well, which is when your oxygen levels drop,” Schrading says.
+- Schrading and colleagues evaluated three iPhone pulse oximetry apps in a study published in 2019, and found that they couldn’t reliably identify people who did not have enough oxygen. Their findings were consistent with other studies, which also found that pulse oximetry apps were inaccurate. A recent analysis from the Centre for Evidence-Based Medicine at the University of Oxford, which reviewed the research on apps in the context of the COVID-19 pandemic, also concluded that they are unreliable.
+- “Oxygen saturation levels obtained from such technologies should not be trusted,” the authors of the analysis wrote.
+- Apps don’t work well because most use a different mechanism to test blood oxygen levels than standard, medical pulse oximetry devices. The devices send two different wavelengths of light — usually red and infrared — through a fingertip, where there’s lots of blood close to the surface of the skin. Hemoglobin, the protein that carries oxygen in blood, absorbs more infrared light when it’s carrying oxygen and more red light when it’s not. The device calculates the difference to determine how much oxygen is circulating.
+- Smartphones usually only have white light, so they’re not able to get as accurate a reading. Samsung phones have a red light function, the Centre for Evidence-Based Medicine said, but they only use one wavelength and would likely be unreliable as well.
+- In addition, standard pulse oximetry devices send light wavelengths through the finger and read the results from a sensor on the other side. Smartphones send and capture the light from the same spot — they rely on the reflection of the wavelengths. That method tends to be less accurate and can be skewed by light from the environment.
+- Some models of Fitbit and Garmin smartwatches also have pulse oximetry features. Fitbit can track oxygen level trends during sleep, and Garmin can give on-the-spot readings. Their watches do use red light, but they use the less-accurate reflective method. They also take readings from blood flow at the wrist — which isn’t as strong as it is at the finger. Both companies note on their websites that their devices should not be used for medical purposes.
+- Accurate blood oxygen readings are important when people are trying to monitor any disease, but it’s particularly key for COVID-19. Usually, someone with a low blood oxygen level knows it — they struggle to catch their breath. If a person has a reading on a lower-quality oximeter that says they have low oxygen levels, but they don’t have those symptoms, doctors can usually assume the sensor just isn’t working, wrote James Hudspeth, the COVID response inpatient floor lead at Boston Medical Center, in an email to The Verge.
+- People with COVID-19, though, sometimes feel fine even when their oxygen levels are plummeting. That’s why some doctors want pulse oximeters given to everyone home sick with the virus: if they can come into the hospital as soon as their oxygen levels dip but before they’re gasping for air, they might be treated more effectively. But it also means doctors would have less confidence interpreting a pulse oximeter result that doesn’t match symptoms, Hudspeth said.
+- If apps can’t tell when oxygen levels are actually low, they could give a false sense of security to people who also feel okay. “This thing could read normal, but you could not be normal,” Schrading says. It’s a big risk, he says. “It would be dangerous to rely on them because they didn’t measure what they were supposed to measure.”
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://lawandcrime.com/federal-court/apple-hit-with-federal-class-action-lawsuit-alleging-racial-bias-in-how-watches-measure-blood-oxygen-levels/
+- People shop in an Apple retail store in Grand Central Terminal, Jan. 29, 2019 in New York City. (Photo by Drew Angerer/Getty Images)
+- Apple Watches boast a number of useful functions, including monitoring step counts, making calls, sending texts, and measuring one’s blood oxygen levels.
+- A new class action lawsuit filed in the Southern District of New York claims that the latter function, known as a blood oximeter, does not work as well for Black people — and that its poor functioning on people of color amounts to consumer fraud.
+- “For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color,” the lawsuit claims. “The ‘real world significance’ of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society.”
+- With Covid-19, the residual effects of this long-observed phenomenon became more stark.
+- “The conclusion was that ‘reliance on pulse oximetry to triage patients and adjust supplemental oxygen levels may place Black patients at increased risk for hypoxemia,'” the complaint states. “Since health care recommendations are based on readings of their blood oxygen levels, white patients are more able to obtain care than those with darker skin when faced with equally low blood oxygenation.”
+- Filed on Christmas Eve, New York resident Alex Morales filed the proposed class action complaint on behalf of all Empire State consumers who bought the watches during the statutes of limitations. Morales also sued on behalf of residents of North Dakota, Wyoming, Idaho, Alaska, Iowa, Mississippi, Arkansas, North Carolina and Utah, under those states’ consumer fraud laws during the relevant statute of limitations periods.
+- “Plaintiff was aware the Product purported to measure blood oxygen levels and he believed it did this without regard to skin tone, which was relevant to him based on his skin tone,” the lawsuit states. “Plaintiff expected the product would not incorporate biases and defects of pulse oximetry with respect to persons of darker skin tone.”
+- As a result, Morales claims, Apple was able to sell the watches at a “premium” price of “no less than $400” — more than it would have had consumers known about the defects of blood oximeters.
+- “While traditional fingertip pulse oximeters are capable of measuring blood oxygen levels and heart rate, wrist-worn devices like the Product determine heart rate, as blood oxygen measurements from the wrist are believed inaccurate,” the complaint states. “Algorithms designed for fingertip sensing are inappropriate when based on wrist measurements, and can lead to over 90% of readings being unusable.”
+- “Though one recent study concluded the Product was able to detect reduced blood oxygen saturation in comparison to medical-grade pulse oximeters this fails to recognize the failings of pulse oximetry in general with respect to persons of color,” it continues.
+- Morales alleges violations of New York General Business Law and State Consumer Fraud Acts. The lawsuit also accuses Apple of breaches of express warranty, fraud and unjust enrichment.
+- Apple did not immediately respond to an email requesting comment.
+- Morales is represented by attorney Spencer Sheehan.
+- Read the eight-page lawsuit here.
+- Have a tip we should know? [email protected]
+- Law&Crime's managing editor Adam Klasfeld has spent more than a decade on the legal beat. Previously a reporter for Courthouse News, he has appeared as a guest on NewsNation, NBC, MSNBC, CBS's "Inside Edition," BBC, NPR, PBS, Sky News, and other networks. His reporting on the trial of Ghislaine Maxwell was featured on the Starz and Channel 4 documentary "Who Is Ghislaine Maxwell?" He is the host of Law&Crime podcast "Objections: with Adam Klasfeld."
+- Have a tip or story idea? Email us.
+ Or to keep it anonymous, click here.
+
+URL: https://www.msn.com/en-us/news/technology/apple-sued-over-alleged-ineffectiveness-of-apple-watchs-blood-oxygen-reader-on-people-of-color/ar-AA15IEcG
+- Apple is facing a federal class-action lawsuit that claims the blood oxygen reader in the Apple Watch yields inaccurate results for people of color.
+- The suit, filed Saturday on behalf of plaintiff Alex Morales in New York, draws on old and new pandemic-era literature that shows that pulse oximeter technology is ineffective in measuring blood oxygen levels in darker skin tones, according to Morales’ attorney Spencer Sheehan.
+- This flaw came to the fore during the pandemic as overwhelmed hospitals used the devices to determine oxygen levels in COVID-19 patients and help make decisions about care. The Food and Drug Administration recently initiated a review of the technology with the goal of offering recommendations to make it effective on all skin types.
+- Start the day smarter. Get all the news you need in your inbox each morning.
+- FDA review: Pulse oximeters are inaccurate in people with darker skin, studies suggest. Now the FDA is reviewing.
+- But it’s unclear whether Apple uses the same technology as a standard pulse oximeter. It calls its feature the “Blood Oxygen” app, and presents it as “breathtaking innovation” online. It also measures blood oxygen at the wrist, as opposed to the fingertip as with pulse oximeters.
+- Kraft Heinz sued: Florida woman claims Velveeta Shells & Cheese 'ready' time is misleading
+- Apple did not immediately respond to an inquiry from USA TODAY Tuesday about the lawsuit or the nature of its blood oxygen reader’s technology and its effectiveness across skin colors.
+- Sheehan called the claim in the lawsuit about the app’s ineffectiveness “a reasonable inference,” based on existing knowledge about the limits of pulse oximeters with regard to skin color.
+- Apple notes on its website that the blood oxygen reading may be affected by “permanent or temporary changes” to the skin, such as tattoos.
+- “The ink, pattern, and saturation of some tattoos can block light from the sensor, making it difficult for the Blood Oxygen app to get a measurement,” Apple's website reads. But the page makes no explicit mention of a person’s natural skin color.
+- Morales bought an Apple Watch with the blood oxygen reader feature between 2020 and 2021, according to the lawsuit.
+- Flight cancelations: Biden says airlines will be "held accountable"
+- He believed the watch purported to measure his blood oxygen levels “without regard to skin tone,” and “would not have purchased” or “paid as much” for the watch had he known otherwise.
+- Sheehan, a New York-based lawyer and a known prolific filer of consumer class-action suits, said he expected Apple to argue that it warns consumers that the product is not intended for medical use.
+- “Yes, you’re not getting this at a drugstore or a medical goods store,” Sheehan told USA TODAY. “Nonetheless, if a product is presented as a feature that is described as a … blood oxygen monitor, you will expect that it will function without respect to a person’s skin color.”
+- The suit alleges Apple violated several laws, including New York state law, and a federal multi-state class action law that prohibits “deceptive business practices.”
+- It alleges Apple committed fraud and unjustly enriched itself by misrepresenting its product's capability and seeks a jury trial.
+- Attorneys for Apple were not listed at publication time in online court documents, which showed that Apple had received official notice of the lawsuit on Tuesday.
+- This article originally appeared on USA TODAY: Apple sued over alleged ineffectiveness of Apple Watch's blood oxygen reader on people of color
+
+URL: https://appleinsider.com/articles/22/12/27/apple-watch-sensor-has-racial-bias-claims-new-lawsuit
+- Copyright © 2023, Quiller Media, Inc.
+- Contact Us | Privacy Policy
+- Blood oxygen sensor
+- A new class action lawsuit against Apple alleges that the Apple Watch blood oxygen sensor is racially biased against people with dark skin tones.  Plaintiff Alex Morales says he purchased an Apple Watch between 2020 and 2021. He says that he was aware that the device has pulse oximetry features, and believed it did this without regard to skin tone."For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color," the lawsuit alleges. "The 'real world significance' of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society."The lawsuit also claims that researchers "confirmed the clinical significance of racial bias of pulse oximetry using records of patients taken during and before the pandemic." As a result, "reliance on pulse oximetry to triage patients and adjust supplemental oxygen levels may place Black patients at increased risk for hypoxemia."Morales filed the lawsuit on December 24 on behalf of all New York consumers who bought an Apple Watch during the statutes of limitations. He also sued on behalf of residents in Alaska, Arkansas, Idaho, Iowa, Mississippi, North Carolina, North Dakota, Utah, and Wyoming under those states' consumer fraud laws.The lawsuit also accuses Apple of breaches of express warranty, fraud, and unjust enrichment, claiming violations of New York General Business Law and State Consumer Fraud Acts.Apple Watch skin awareness Apple has not commented on the lawsuit, however in October 2022 it published a white paper that included details about skin tone and the bloody oxygen app. The paper also specifies that the company had tested the app on "many hundreds of participants... [ranging] from ages 19 to 40... split evenly by biological sex, and covering a wide range of skin tones.""Subject pools included a wide range of skin types and tones to ensure that the sensor platform can accommodate the full range of users and maintain accuracy," says the white paper. "At the wavelengths that Apple Watch uses, melanin is a strong light absorber —  particularly in the green and red part of the spectrum —  potentially making PPG measurements more difficult in users with darker skin tones.""To account for this," it continues, "the Apple Watch sensing platform senses the amount of detected light signals, and it automatically adjusts  the LED current (and hence the light output), photodiode gain (sensitivity to light), and sampling rate to ensure adequate signal resolution across the range of human skin tones."Previous issues The 2022 lawsuit isn't the only complaint the Apple Watch has faced with regard to skin. Back in 2015, users complained that black wrist tattoos interfered with the device's heart sensor.Apple confirmed the issue in May 2015. "Permanent or temporary changes to your skin, such as some tattoos, can also impact heart rate sensor performance, read an updated support page. "The ink, pattern, and saturation of some tattoos can block light from the sensor, making it difficult to get reliable readings."Those issues happened before the addition of the blood oxygen sensor, which Apple added to the product line with the Apple Watch Series 6 in 2020. Apple Sued Over Racial Bias in Heart Rate Monitoring by Mike Wuerthele on Scribd  Updated December 29, 2022, 11:40 ET added additional context.
+- Plaintiff Alex Morales says he purchased an Apple Watch between 2020 and 2021. He says that he was aware that the device has pulse oximetry features, and believed it did this without regard to skin tone.
+- "For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color," the lawsuit alleges. "The 'real world significance' of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society."
+- The lawsuit also claims that researchers "confirmed the clinical significance of racial bias of pulse oximetry using records of patients taken during and before the pandemic."
+- As a result, "reliance on pulse oximetry to triage patients and adjust supplemental oxygen levels may place Black patients at increased risk for hypoxemia."
+- Morales filed the lawsuit on December 24 on behalf of all New York consumers who bought an Apple Watch during the statutes of limitations. He also sued on behalf of residents in Alaska, Arkansas, Idaho, Iowa, Mississippi, North Carolina, North Dakota, Utah, and Wyoming under those states' consumer fraud laws.
+- The lawsuit also accuses Apple of breaches of express warranty, fraud, and unjust enrichment, claiming violations of New York General Business Law and State Consumer Fraud Acts.
+- Apple has not commented on the lawsuit, however in October 2022 it published a white paper that included details about skin tone and the bloody oxygen app. The paper also specifies that the company had tested the app on "many hundreds of participants... [ranging] from ages 19 to 40... split evenly by biological sex, and covering a wide range of skin tones."
+- "Subject pools included a wide range of skin types and tones to ensure that the sensor platform can accommodate the full range of users and maintain accuracy," says the white paper. "At the wavelengths that Apple Watch uses, melanin is a strong light absorber —  particularly in the green and red part of the spectrum —  potentially making PPG measurements more difficult in users with darker skin tones."
+- "To account for this," it continues, "the Apple Watch sensing platform senses the amount of detected light signals, and it automatically adjusts  the LED current (and hence the light output), photodiode gain (sensitivity to light), and sampling rate to ensure adequate signal resolution across the range of human skin tones."
+- The 2022 lawsuit isn't the only complaint the Apple Watch has faced with regard to skin. Back in 2015, users complained that black wrist tattoos interfered with the device's heart sensor.
+- Apple confirmed the issue in May 2015. "Permanent or temporary changes to your skin, such as some tattoos, can also impact heart rate sensor performance, read an updated support page. "The ink, pattern, and saturation of some tattoos can block light from the sensor, making it difficult to get reliable readings."
+- Those issues happened before the addition of the blood oxygen sensor, which Apple added to the product line with the Apple Watch Series 6 in 2020.
+- Apple Sued Over Racial Bias in Heart Rate Monitoring by Mike Wuerthele on Scribd
+- 
+- Updated December 29, 2022, 11:40 ET added additional context.
+- Andrew is a writer and commentator who has been sharing his insights on technology since 2015. He has authored numerous online articles covering a range of topics including Apple, privacy, and security. Andrew joined ...
+- I can't see what Apple could do?  If they improved the sensitivity wouldn't that just make measurements better for light skins too, thus maintaining the differential?  It's physics not bias.
+- I can't see what Apple could do?  If they improved the sensitivity wouldn't that just make measurements better for light skins too, thus maintaining the differential?  It's physics not bias.
+- I have an idea. Apple should manufacture an Apple Watch "Black," an Apple Watch "Brown," an Apple Watch "Yellow," an Apple Watch "Red" and any other special edition calibrated for whatever skin color you have. Perhaps an Apple Watch "Pasty Irish" or an Apple Watch "Swarthy Italian." Shouldn't cost more than a few billion dollars. Each.
+- I have an idea. Apple should manufacture an Apple Watch "Black," an Apple Watch "Brown," an Apple Watch "Yellow," an Apple Watch "Red" and any other special edition calibrated for whatever skin color you have. Perhaps an Apple Watch "Pasty Irish" or an Apple Watch "Swarthy Italian." Shouldn't cost more than a few billion dollars. Each.
+- This lawsuit isn’t about what Apple did it was about what happen in NYC and how people of color were treated during Covid. As it was stated O2 skin sensor are less accurate or completely wrong the darker the skin becomes. If medical professionals did not know this that is their fault not the device you have to know the limitations of your tools. But I’m this country you can sue for any reason.
+- This lawsuit isn’t about what Apple did it was about what happen in NYC and how people of color were treated during Covid. As it was stated O2 skin sensor are less accurate or completely wrong the darker the skin becomes. If medical professionals did not know this that is their fault not the device you have to know the limitations of your tools. But I’m this country you can sue for any reason.
+- Seriously?
+- Seriously?
+- MacPro said:
+I can't see what Apple could do?  If they improved the sensitivity wouldn't that just make measurements better for light skins too, thus maintaining the differential?  It's physics not bias. 
+
+Not necessarily. All pulse oximeters use a measurement correction curve to convert from the amount of reflected light to an oxygenation percentage. That curve needs to change based on skin tone and possibly other characteristics we don’t even know about today (since only recently did a million people start carrying an oximeter around with them everywhere). Correcting the curve for darker skin would make readings for lighter skin less accurate, so it would need to be adjustable.
+- Not necessarily. All pulse oximeters use a measurement correction curve to convert from the amount of reflected light to an oxygenation percentage. That curve needs to change based on skin tone and possibly other characteristics we don’t even know about today (since only recently did a million people start carrying an oximeter around with them everywhere). Correcting the curve for darker skin would make readings for lighter skin less accurate, so it would need to be adjustable.
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- 
+- 
+- 
+- 
+- Google's new Pixel Tablet is its best attempt to promote large-format Android experience yet, but it still has to take on the well-loved iPad in the market. Here's how the two sets of specs compare.
+- Dell's 32-inch UltraSharp 6K monitor offers a cheaper alternative to Apple's Pro Display XDR, but while similar in size and resolution, they go after two very different markets. Here's how the specs of the two compare.
+- Months after release, there are a lot of bands designed for the Apple Watch Ultra. Here are our favorite bands from Apple and third parties for any situation.
+- The Sonos Era 100 and Era 300 are the audio company's new smart speakers, which include Dolby Atmos support. Here's how they compare to Apple's own HomePod and HomePod mini.
+- It's been well over a decade since Apple shipped the first iPad to the world. Here's how the modern ninth and tenth generation iPad, aimed at the same audience, have improved over the original model.
+- Canada Pension fund increases held Apple shares by 50%, slashes Tesla stake by 53%
+- Cryptic tease may suggest imminent 'No Man's Sky' launch on Mac
+- Apple sued by actor Brent Sexton over COVID vaccination mandate
+- Bargain bonanza: unbeatable Apple deals on Amazon this week
+- Foxconn raises joining bonuses in preparation for iPhone 15
+- Apple Wallet patent infringement suit heads to settlement conference
+- Memorial Day deals: iPads from $149, $230 off Apple Watch, LG TV & monitor sale, more
+- Crash Detection feature & Apple Watch alert police to fatal car crash
+- Google has to pay Sonos $32.5 million after a jury sided with the smart speaker producer over claims of patent infringement.
+- Apple TV+ has a solid library of international content, and now the company is beefing up its team in London with a hire that has a focus on unscripted original series.
+- A so-called "Zurich Vision Lab" is now believed to be the clandestine home to an enormous range of Apple research projects, and may be key to the Apple Car, the AR Headset, and the future of Siri.
+- After years of rumors, Apple has delivered and shipped its professional video editing suite on iPad. While the app is incredibly full-featured, there are some big holes for pro workflows.
+- We got our hands on an exclusive set of mockup iPhone 15 units — complete with working buttons. Here's how the design changes and features compare to the iPhone 14 lineup.
+- We round up — and rank — the best MagSafe wallet choices that you can use with your iPhone, featuring more card slots, Find My support, stands, and more.
+- Apple has announced a major update to the Apple Arcade catalog, adding 20 new games across a multitude of genres.
+- With its latest update, Microsoft is enabling iMessage on Windows 11 — with some caveats. Here's how it works and what features are still missing.
+- The Tonor T90 RGB Boom Arm is an adjustable steel arm that holds your microphone in place, while also incorporating multiple lights to complement your desk setup.
+- Skullcandy's original Crusher ANC wireless headphones dialed up skull-rattling bass and this new model continues that same tradition, but with more comfort, sophistication, and added features.
+- With strong suction and intelligent navigation, the DreameBot D10s Plus tackles hard floors and carpets well, but the mopping feature is not very impressive.
+- There are plenty of features to consider when buying a new smoker grill. Arguably, a Wi-Fi connection is becoming one of those features, so Brisk It's Origin-580 smart grill with a sub-$1,000 price is a tempting consideration.
+- The Jackery Solar Generator 3000 Pro provides off-grid power to run just about anything you want, where you want to do it — assuming you've got the ability to move around 70 pounds of battery.
+- 
+
+URL: https://uk.finance.yahoo.com/news/apple-sued-over-racial-bias-080503236.html
+- Thank you for your patience.
+- Our engineers are working quickly to resolve the issue.
+
+URL: https://nypost.com/2022/12/27/apple-faces-class-action-lawsuit-alleging-racial-bias-in-watchs-blood-oximeter/
+- Thanks for contacting us. We've received your submission.
+- A New York man filed a class-action lawsuit against Apple on Dec. 24, alleging that the Apple Watch’s blood oximeter has a “racial bias” against individuals with darker skin tones.
+- The Blood Oxygen app is available on Apple Watch Series 6 and newer and can “measure the oxygen level of your blood on-demand directly from your wrist, providing you with insights into your overall wellness,” Apple explains.
+- New York resident Alex Morales alleges that he purchased an Apple Watch between 2020 and 2021, and was aware that the watch “purported to measure blood oxygen levels and he believed it did this without regard to skin tone,” according to the lawsuit, which was filed in the Southern District of New York.
+- The lawsuit further alleges that during the coronavirus pandemic, researchers “confirmed the clinical significance of racial bias of pulse oximetry” using patients’ records.
+- “For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color,” the lawsuit reads.
+- “The ‘real world significance’ of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society.”
+- Apple did not immediately respond to a request for comment on Monday. The tech company notes on its website that the Blood Oxygen app is “only designed for general fitness and wellness purposes.”
+- “Blood Oxygen app measurements are not intended for medical use, including self-diagnosis or consultation with a doctor,” Apple writes.
+
+URL: https://abcnews.go.com/Business/lawsuit-alleges-apple-watchs-blood-oxygen-sensor-racially/story?id=95930729
+- Studies found that pulse oximeter devices are less accurate for dark skin tones.
+- Apple is facing a proposed class action lawsuit alleging the Apple Watch's blood oxygen sensor is racially biased against people with dark skin tones.
+- Experts say accuracy problems have been reported for these devices industry-wide. It's not clear if Apple's products are any better or worse than others.
+- The product's feature, the Blood Oxygen app, allows users to measure their blood oxygen level directly from their wrist, according to Apple's website.
+- The lawsuit claims plaintiff Alex Morales was aware of this feature when he purchased an Apple Watch between 2020 and 2021, assuming it would work "without regard to skin tone."
+- Morales alleges Apple did not disclose any potential "biases and defects" on the product's label, despite a large body of research indicating similar pulse oximetry devices -- usually placed on a fingertip -- were "significantly less accurate in measuring blood oxygen levels based on skin color," the lawsuit states.
+- "The 'real world significance' of this bias lay unaddressed until the middle of the coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society," according to the lawsuit, which was filed on Dec. 24.
+- Pulse oximetry devices were widely used during the COVID-19 pandemic to monitor patients' conditions, which would help determine whether they received certain medicines, oxygen therapies and hospital beds when all were in limited supply.
+- The devices work by shining a light into a person's finger or wrist and sensing how much is absorbed by their red blood cells, ABC News medical contributor Dr. Darien Sutton said.
+- "How much light is absorbed tells you how much oxygen you have because red blood cells carry oxygen," he said. "The problem is that darker skin also absorbs light, so it can give you a falsely elevated reading."
+- While it has been known for decades that the technology tends to overestimate oxygen levels for darker-skinned patients, recent medical studies highlighted the negative impact on such patients. For example, Hispanic and Black patients with the coronavirus were less likely to be recognized as eligible for treatment, according to a study published in May.
+- Researchers say reliance on the technology and the potentially flawed readings it yielded may have contributed to greater deaths among Black and other dark-skinned patients during the pandemic.
+- In light of these studies, the Food and Drug Administration recently launched a review of pulse oximeter technology to improve its efficacy and accuracy for all skin pigmentations.
+- It is unclear if Apple's technology carries the same problem. An October study found the commercial smartwatch's blood oxygen sensor is on par with "medical grade" devices, though there was no mention of including people of color in the study.
+- In the company's white paper on the Blood Oxygen app, Apple wrote that it collected data in multiple institutional review board-approved studies during the feature's development process.
+- "Subject pools included a wide range of skin types and tones to ensure that the sensor platform can accommodate the full range of users and maintain accuracy," the white paper reads. "At the wavelengths that Apple Watch uses, melanin is a strong light absorber -- particularly in the green and red part of the spectrum -- potentially making PPG measurements more difficult in users with darker skin tones."
+- "To account for this, the Apple Watch sensing platform senses the amount of detected light signals, and it automatically adjusts the LED current (and hence the light output), photodiode gain (sensitivity to light), and sampling rate to ensure adequate signal resolution across the range of human skin tones," the white paper continues.
+- The company also released its own observational study in June, which found that blood oxygen level readings were not meaningfully different between white Apple Watch wearers and nonwhite users.
+- Apple's website also states that measurements taken with the Blood Oxygen app are "not intended for medical use and are only designed for general fitness and wellness purposes." Pulse oximeters used in hospitals must meet a higher standard of testing and accuracy, Sutton said.
+- Doctors stress that anyone who is struggling to breathe should seek emergency care, and at-home devices are prone to false readings due to human error, and a range of other issues.
+- While the website makes no mention of a user's natural skin color interfering with the device, it does include a disclaimer that "permanent or temporary changes to your skin, such as some tattoos, can also impact performance" of the Blood Oxygen app. In 2015, several Apple Watch users said their black wrist tattoos interfered with the device's heart rate sensor.
+- Morales filed the lawsuit on behalf of all New Yorkers who purchased an Apple Watch during the statutes of limitations. He also sued on behalf of residents in Alaska, Arkansas, Idaho, Iowa, Mississippi, North Carolina, North Dakota, Utah and Wyoming under those states' consumer fraud laws.
+- The lawsuit also accuses Apple of breaches of express warranty, fraud and unjust enrichment, claiming violations of New York General Business Law and State Consumer Fraud Acts.
+- Morales' attorney Spencer Sheehan told ABC News that as scientists work to improve pulse oximeter technology, Apple has an obligation to be transparent with consumers about its devices' possible flaws.
+- "It's not comfortable to recognize and to acknowledge that this technology has an inherent bias," Sheehan said. "But I think that we have to do that in order to chart a better path forward, to have a technology that does a better job in terms of the information it provides without accounting for a person's skin tone."
+- 24/7 coverage of breaking news and live events
+
+URL: https://macdailynews.com/2022/12/28/lawsuit-claims-apple-watch-sensor-is-racist/
+- Update font size. Reset
+- A new class action lawsuit against Apple alleges that the blood oxygen sensor on the Apple Watch is racially biased against people with dark skin tones.
+- Blood oxygen measurements use a bright red light that shines through the skin of user’s wrist. Via the Blood Oxygen app on Apple Watch Series 6 or later, users can measure the percentage of oxygen their red blood cells carry from their lungs to the rest of the body. Knowing how well oxygenated your blood is can help you understand your overall health and wellness.
+- Note that the back of the Apple Watch needs skin contact for the Blood Oxygen app to get accurate readings. Wearing your Apple Watch not too tight or too loose, with room for your skin to breath, helps ensure successful Blood Oxygen measurements. The band should be snug but comfortable, and the back of your Apple Watch needs to be touching your wrist.
+- Andrew Orr for AppleInsider:
+- Plaintiff Alex Morales says he purchased an Apple Watch between 2020 and 2021. He says that he was aware that the device has pulse oximetry features, and believed it did this without regard to skin tone.
+- “For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color,” the lawsuit alleges. “The ‘real world significance’ of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society.”
+- Morales filed the lawsuit on December 24 on behalf of all New York consumers who bought an Apple Watch during the statutes of limitations. He also sued on behalf of residents in Alaska, Arkansas, Idaho, Iowa, Mississippi, North Carolina, North Dakota, Utah, and Wyoming under those states’ consumer fraud laws.
+- MacDailyNews Take: Apple clearly states in its “How to use the Blood Oxygen app on Apple Watch” support article, to which the Apple Watch User Guide is directly linked:
+- Even under ideal conditions, your Apple Watch may not be able to get a reliable blood oxygen measurement every time. For a small percentage of users, various factors may make it impossible to get any blood oxygen measurement. [bold emphasis added, MDN Ed.]
+- Permanent or temporary changes to your skin, such as some tattoos, can also impact performance. The ink, pattern, and saturation of some tattoos can block light from the sensor, making it difficult for the Blood Oxygen app to get a measurement.
+- Further, Apple’s “Blood Oxygen app on  Apple Watch” document states:
+- During the development and evaluation of the Blood Oxygen feature, Apple collected data in multiple institutional review board (IRB)–approved studies involving many hundreds of participants who consented to the collection and use of their data for this purpose. These studies included controlled laboratory studies and supervised data collection sessions under a variety of user behaviors, cardiorespiratory conditions, and ambient environments, including real or simulated altitudes to span the 70–100% blood oxygen saturation range (based on conventional finger pulse oximetry or arterial blood sampling).
+- Subject pools included a wide range of skin types and tones to ensure that the sensor platform can accommodate the full range of users and maintain accuracy. At the wavelengths that Apple Watch uses, melanin is a strong light absorber — particularly in the green and red part of the spectrum — potentially making PPG measurements more difficult in users with darker skin tones. To account for this, the  Apple Watch sensing platform senses the amount of detected light signals, and it automatically adjusts   the LED current (and hence the light output), photodiode gain (sensitivity to light), and sampling rate to ensure adequate signal resolution across the range of human skin tones…
+- Recent literature has raised concerns of significant SpO2 reading bias and degraded accuracy in Black patients. In the subjects included in our controlled lab study, we did not observe a skin-tone dependence in Arms or mean reading differences when compared with blood.
+- Please help support MacDailyNews. Click or tap here to support our independent tech blog. Thank you!
+- Shop The Apple Store at Amazon.
+- 
+- 
+- Apple,   what do you think of your Liberal Comrades now ?
+- I’m soooo sick of this shit. Let’s just declare EVERYTHING is racist…and move on.
+- Pathetic racial nonsense just keeps venal legals in some sort of wasteful occupation.
+- If there are technical reasons that make it so, then there should be a prominent warning stating on who it may not work.
+- But thank goodness waterproofing works on snowflake Retardlican tears.
+- Is there a place to wager if the plaintiff is a liberal/Democrat?  I’ve some end-of-yr money for a win.
+- I don’t know, but if I were a betting man, I would wager you’re a white guy.
+- As you clearly are. Next.
+- I was replying to a comment on wagers.  Try to keep up.
+- And, you are likely prone to bigotry as your presume a white guy can’t make a rational statement based on statistical likelihood.  Per this likelihood, it would be a low-risk bet your are a liberal, D, or a leftist.
+- Not at all, just the angry one’s that want the 50s back.  You know… like you.
+- I usually love f/-the-outfield comments, but some logic included would be nice.  Humor works too.  W/o any logic, the identity obsession–that you seem to have–is simply fruitless and divisive.
+- Do you live in the US?  If not, your ignorance is understandable.  The Trump demographic is by vast majority white, and “want their country back”, meaning “the 50s”.  And those are just the ignorant ones.  The evil ones are driving the bus.
+- I agree with him and I am not a White Male. The same box you are trying to pain Andy Bargy in you are painting yourself in the same box. Every black person does not believe all this crap is true.
+- Just playing the odds.
+- So…I checked the original article.  The real headline is:
+- “Apple Watch sensor has racial bias, claims new lawsuit”
+Which is a scientifically acceptable descriptor and not a race bait at all.  Not even a little bit.
+- The MDN headline presented here is a redardlican snowflake cry for help.
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- A￼pple’s oft-rumored mixed-reality headset, which the company is expected to reveal at WWDC on June 5th, “is likely to accelerate the adoption…
+- Avid Technology Inc, a provider of video and audio editing software and equipment to filmmakers and recording studios, is exploring a sale …
+- Apple shares rose $2.44 (+1.41%) to close at $175.43 in Friday trading. The company’s 52-week high of $176.39 was set on May 19th…
+- As a big fan of Apple TV’s popular soccer comedy “Ted Lasso”, Manchester City manager Pep Guardiola said he was happy to appear…
+- The Reelgood Top 10 Streaming Chart for May 11 — 17 shows the dystopian Apple TV+ series “Silo” at No.1. Additionally, the hit…
+- Enter your email address to follow MacDailyNews and receive notifications of new posts by email.
+- Email Address
+- Follow :-)
+
+URL: https://www.forbes.com/sites/andrewwilliams/2022/12/29/apple-sued-for-racial-bias-of-the-apple-watch-blood-oxygen-reader/
+- Apple Watch
+- A class action suit has been filed against Apple in New York. It claims damages for the lesser effectiveness of technology in the Apple Watch when worn by someone with darker skin.
+- The documents were filed on December 24, and say the design of the Apple Watch series puts people with darker skin at “increased risk for hypoxemia.”
+- Only one plaintiff is mentioned in the original filing, a Mr Alex Morales, but he seeks to represent everyone in a similar position, and damages of a figure that “exceeds $5 million.”
+- This claim relates to the Blood Oxygen feature of Apple Watches. Some studies have shown its pulse oximeter technology can give deceptively high oxygen saturation results for people with darker skin. This is a side effect of how the tech works, by monitoring the mount of reflected light from an LED that emits red and infrared light waves.
+- Oxygenated hemoglobin absorbs more red light than non-oxygenated hemoglobin, where the reverse applies for infra-red light. If the wearer’s skin naturally absorbs more red light, because it is darker, the sensor is liable to estimate a higher SpO2 reading.
+- One key weakness in the class action filing is that pulse oximetry is used across the wearables market, and in healthcare devices. Its issues and limitations are in no way specific to the Apple Watch.
+- The filing also suggests the Apple Watch puts people with darker skin at risk because it could be used to “triage” people, suggesting its use in a medical or care setting, for folks with a substantially reduced blood oxygenation.
+- However, Apple itself says this is not how the Watch’s blood oxygenation feature should be used.
+- “Measurements taken with the Blood Oxygen app are not intended for medical use and are only designed for general fitness and wellness purposes,” reads Apple’s website.
+- One study published in December 2021 also found obese people tend to see inaccurate results from wearables using this tech.
+- SpO2 readings were added to the Apple Watch line-up in 2020, with the Apple Watch Series 6. In the 2022/2023 line-up it is available in the Apple Watch Series 8 and Apple Watch Ultra, but not the Apple Watch SE.
+- Similar pulse oximetry technology is used by rival watches and trackers from companies like Garmin, Samsung and Fitbit. Finger-based blood oxygen readers also use the same core technique, although they typically place the LED and light sensor on opposite sides of your finger. They analyze light that passes through your finger, not reflected light.
+- 
+
+URL: https://gizmodo.com/apple-apple-watch-blood-oxygen-levels-law-suit-1849931407
+- A new class action lawsuit claims the Apple Watch’s blood oxygen sensor isn’t formatted to take darker skin tones into account, which is only exacerbating the noted biases of blood sensing tech that has routinely failed to accurately gauge blood oxygen levels for Black and brown people.
+- The suit was filed Dec. 24 in Manhattan federal court on behalf of Alex Morales, a New York resident who bought an Apple Watch between 2020 and 2021, according to court documents. Apple has 21 days to respond to an initial summons.
+- Pulse oximeters have existed since the 1970s and use light to register oxygen saturation. You’ll probably recognize the fingertip pulse oximeters that look like a paper clamp attached to the end of a finger, but phones and smart watches also make use of simpler, light-based oximeters. But even since their inception, the inherent bias shown by pulse oximeters on darker skin tones has become a noted issue in the medical community. A Stat article from this past August noted researchers are trying to develop oxygen readers that actually consistently work on darker skin tones.
+- The “revolutionary” Blood Oxygen feature has been a staple on the Apple Watches since the Series 6. The company claims it compensates for “natural variations in the skin” with its four clusters of LED lights on the back of the watch. Apple’s Blood Oxygen app page mentions measurements “are not intended for medical use and are only designed for general fitness and wellness purposes.” Although the lawsuit doesn’t explicitly say Morales or other users utilize Apple Watches to gauge accurate medical data, it instead proposes that Apple has failed “to recognize the failings of pulse oximetry in general with respect to persons of color.” The lawsuit mentions that researchers have “confirmed the clinical significance of racial bias of pulse oximetry using records of patients taken during and before the pandemic.”
+- Gizmodo reached out to Apple for comment but we did not immediately hear back.
+- Multiple studies made it clear that minorities and other marginalized groups had been hurt worse during the worst months of the covid pandemic. A letter published in The New England Journal of Medicine noted two years ago this month that devices meant to monitor blood oxygen levels using pulse oximetry were routinely failing to accurately gauge when Black patients entered a state of hypoxemia, AKA when blood oxygen is below normal levels.
+- “The ‘real world significance’ of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society,” the lawsuit states.
+- As AppleInsider noted, users previously complained back in 2015 that dark tattoos messed with the device’s sensors. The Apple Blood Oxygen app page notes that tattoos can block light from the sensor, though it makes no mention of skin color.
+- Although the lawsuit does not give any concrete example of any user getting inaccurate results from Apple’s blood sensor. Gizmodo reached out to the New York law firm Sheehan & Associates for additional comment, and we will update this story if we hear back. The lawsuit also references a study published in the Digital Health open access journal that claimed Apple’s oxygen sensor was on par with most medical-grade oximetry devices, but the suit claims the study “fails to recognize the failings of pulse oximetry in general with respect to persons of color.”
+- Apple is likely used to such class action suits for its wide suite of products, but this latest in a long line of user deceit claims shows what happens when companies cram “everything” devices full to the brim with technology, even tech that has proved racially biased. You don’t have to look far either, as only recently have companies like Google explicitly marketed their Pixel cameras ability to capture dark skin accurately. Apple has said it worked on its AI to improve dark skin tone rendering, though some users have noted issues even with the latest iPhone 14 and on iOS 16.
+- Though the suit still needs to obtain class certification, it’s welcoming claimants from New York as well as North Dakota, Wyoming, Idaho, Alaska, Iowa, Mississippi, Arkansas, North Carolina, and Utah.
+
+URL: https://www.dailymail.co.uk/sciencetech/article-11577183/Apple-Watch-blood-oxygen-sensor-racially-biased-against-people-darker-skin-lawsuit-claims.html
+- By Christopher Carbone U.S. Science And Technology Editor For Dailymail.Com
+- Updated:  18:36, 27 December 2022
+- 
+- 101
+- View  comments
+- 
+- A class action lawsuit filed in New York claims that Apple Watch's blood oxygen sensor does not work as well for Black people - which amounts to consumer fraud.
+- 'For decades, there have been reports that such devices were significantly less accurate in measuring blood oxygen levels based on skin color,' the lawsuit, filed in the Southern District of New York, claims.
+- Plaintiff Alex Morales says he was aware of the device's pulse oximetry features when he bought an Apple Watch between 2020 and 2021 - amidst the Covid pandemic, which made such health tracking capabilities more important.
+- 'The ‘real world significance’ of this bias lay unaddressed until the middle of the Coronavirus pandemic, which converged with a greater awareness of structural racism which exists in many aspects of society,' the lawsuit states.
+- A class action lawsuit filed in New York claims that Apple Watch's blood oxygen sensor does not work as well for Black people - which amounts to consumer fraud. Above: A handout image made available by Apple showing Apple Watch Series 6 featuring a revolutionary Blood Oxygen sensor and app
+- The blood oximeter works by measuring the color of blood flowing through the body at a person's wrist to determine levels of oxygen in a mere 15 seconds, according to Apple. Blood oxygen levels are a marker of health - reflecting how well red blood cells carry oxygen around the body.
+- The conclusion was that 'reliance on pulse oximetry to triage patients and adjust supplemental oxygen levels may place Black patients at increased risk for hypoxemia,' the complaint states.
+- 'Since health care recommendations are based on readings of their blood oxygen levels, white patients are more able to obtain care than those with darker skin when faced with equally low blood oxygenation.'
+- The lawsuit filed on Dec. 24 is a proposed class action on behalf of all New York State consumers who bought watches during the statute of limitations.
+- Morales also sued on behalf of residents of North Dakota, Wyoming, Idaho, Alaska, Iowa, Mississippi, Arkansas, North Carolina and Utah - under those states' consumer fraud statutes.
+- According to the lawsuit, Morales did not expect the blood oxygen feature would work in a biased fashion based on his skin tone.
+- The plaintiff claims that Apple was able to sell the watches at a 'premium' price of 'no less than $400' — more than it would have had consumers known about the defects of blood oximeters.
+- DailyMail.com reached out to Apple for comment on the lawsuit.
+- Morales alleges violations of New York General Business Law and State Consumer Fraud Acts. The lawsuit also accuses Apple of breaches of express warranty, fraud and unjust enrichment.
+- On its website Apple says that the blood oxygen app is 'only designed for general fitness and wellness purposes.'
+- 'Blood Oxygen app measurements are not intended for medical use, including self-diagnosis or consultation with a doctor,' Apple writes.
+- If you enjoyed this story, you may like...
+- New California law BANS Elon Musk's Tesla from advertising its vehicles as 'full self-driving'
+- Apple's iPhone business faces 'defining moment' as China's Covid outbreak threatens supply chain chaos in the coming months
+- FCC could hit robocall firm that made over 5 billion scam calls in three months with $300 million fine
+- The blood oximeter works by measuring the color of blood flowing through the body at a person's wrist to determine levels of oxygen in a mere 15 seconds, according to Apple. Above: The new Apple Watch Ultras are displayed at Apple Park in Cupertino, California
+- 'You let your fame and your power corrupt you': Eamonn Holmes blasts 'narcissist' Phillip Schofield in bombshell interview, claiming star and lover would 'hit the town on Thursdays' for 'playtime' and reveals how 'life is tough' for the young man
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+- Apple Watch heart rate variability inconsistencies
+- Apple user depression, autism, dementia detection
+- Page info Type: System Published: December 2022Last updated: January 2023

@@ -1,0 +1,399 @@
+- The Book of Veles photo manipulation
+- Occurred: October 2021
+- Can you improve this page?Share your insights with us
+- A book by celebrated Magnum photographer Jonas Bendiksen documenting life in Veles, the 'fake news' capital of North Macedonia, turns out to be a work of disinformation itself.
+- Purporting to investigate disinformation production activities in a rural town notorious for its disinformation and misinformation factories, Bendiksen's The Book of Veles has been positively reviewed and screened at film festivals.
+- However, with Veles' disinformation industry in decline, Bendiksen had manipulated his photos using 3D software to make them more realistic. He also used a large language AI model to generate the accompanying commentary.
+- The author only confessed his manipulation after a Veles journalist took to Twitter to expose his fraudulent activities.
+- Magnum Photos continues to sell Bendiksen's book.
+- Operator: Magnum Photos Developer: Jonas Bendiksen Country: N Macedonia Sector: Media/entertainment/sports/arts Purpose: Expose mis/disinformation Technology: NLP/text analysis Issue: Mis/disinformation; Ethics Transparency: Marketing
+- Jonas Bendikson Wikipedia profile
+- Jonas Bendikson. The Book of Veles
+- Magnum Photos. The Book of Veles
+URL: https://www.wired.com/story/true-story-bogus-photos-people-fake-news/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Tom Simonite
+- Application
+- Deepfakes
+- Sector
+- Publishing
+- Source Data
+- Images
+- The photographic elite gathered in Perpignan, France, on September 1 at the annual Visa Pour L’Image photojournalism festival. That night, the outdoor screen shimmered with images of people using laptops in Soviet-era apartments and a bear strolling past rundown industrial sites. They came from The Book of Veles by Jonas Bendiksen, an award-winning documentary photographer who had traveled to North Macedonia, which had been home to a vibrant fake news industry during the 2016 US election. As his peers gazed at his work, Bendiksen watched from the bleachers with increasing discomfort.
+- Two weeks later, a Twitter account bearing the name Chloe Miskin tagged Bendiksen in a tweet accusing him of fraud. She claimed to be from Veles and declared “the whole project is a joke” because he had paid locals $50 to pose for his photos. An hour later, UK filmmaker Benjamin Chesterton, a frequent critic of the photography industry, retweeted the allegations.
+- Then Chesterton noticed that one of Miskin’s Twitter followers was wearing the same unusual pink sweater as a woman pictured in front of a snack kiosk in The Book of Veles. That fueled his own suspicions. “I imagine any minute now Jonas will reveal that the people in the images are computer generated as a 'clever' 'take' on fake news,” Chesterton tweeted—words Bendiksen read with a surge of relief.
+- When this pink sweater appeared in a Twitter profile, a British photographer grew suspicious of Bendiksen's project.
+- In fact, Bendiksen had created the people in the images with software. The next day, the prestigious cooperative Magnum Photo posted an interview in which Bendiksen revealed that although he had traveled to Veles, every person and bear in his images was digitally faked using 3D models like those used to make video games. He also revealed that the book’s introduction, describing his travels, had been generated with artificial intelligence software. Miskin, too, was fake—created by Bendiksen to trigger his own exposure.
+- He had embarked on the caper to spark a conversation in photography about the growing power of deceptive technology. His ability to fool some of the craft’s elite portends trouble as tools for manipulating imagery and information become more widely available. “It’s scary that the most visually sophisticated people on the planet fell for this,” Bendiksen told WIRED. “Where's the threshold for fooling people who are not so visually literate?”
+- Bendiksen is an unlikely photo frauduster. His 2006 breakthrough book Satellites documented years exploring decaying former Soviet republics. He’s since won international awards and membership in Magnum, where he served for a time as president. In 2018 he started reading up on the fake news hub in Veles, in the post-Yugoslavian country of North Macedonia, and spiraled down the rabbit hole.
+- Bendiksen, like many people, felt the 2016 election had revealed some uncomfortable truths about facts in the digital age. Visiting Veles, a once communist city like those he had photographed before, could provide a way to offer his own perspective on fake news. Searching online, he discovered the city had associations that could add conceptual dressing: A Slavic god of trickery named Veles features in an archaeological text called The Book of Veles, now believed to be a 20th-century forgery.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- The city of Veles also posed challenges. Its fake news industry had been gutted by tech company purges, so finding people to photograph could be difficult. Then Bendiksen wondered if advances he’d read about in synthetic imagery could fake the fake news makers well enough to fool his peers. “I was so scared of what the answer might be that I thought ‘I have to try it,’” he says.
+- When Bendiksen traveled to Veles in 2019 and 2020, his jitters about the project were tempered with an odd sense of liberation. “Normally you would spend most of your time trying to meet people,” he says. “This was much easier; I had no intention of meeting anyone.” As he toured shabby streets and factories, he also pursued himself, trying to imagine what images typical of his own work would satisfy people’s expectations. At each location where he took a photo, he also used a pocket-size 360-degree camera to capture the lighting so he could later re-create it with fake people.
+- As coronavirus lockdowns gripped Europe, Bendiksen settled into his home studio in Norway and started faking. He downloaded 3D models often used in video game or movie production to assemble a cast of unreal people, animals, and objects. He carefully posed his characters to match each scene, and mimicked the lighting he had captured on location.
+- When he showed a few early images to fellow photographers and picture editors, “nobody caught it,” Bendiksen says. His approach had more in common with conventional photo manipulation and Hollywood special effects than with deepfake imagery, generated with machine learning, which has spurred concerns about a new wave of trickery.
+- As Bendiksen gained confidence, he crafted scenes that toyed with tropes of his own work and documentary photography more broadly. Blocky Soviet-era buildings hide pale women and stocky men making fake news amidst jumbles of outdated computer equipment. Elsewhere, guards in peaked caps with guns stand behind barbed wire, and a woman leans over a car window in a dark, red-hued alley. He also tried to leave plenty of clues. “I put in lots of bread crumbs, hints that there's something wrong here,” he says. One potential giveaway: the bears that seemingly overrun Veles, population 43,000, strolling past industrial sites and a sign for the Norwegian embassy. The animals are a favored form of the trickster god Veles.
+- Bendiksen's book described this as people creating fake news.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- For the book’s introduction, Bendiksen turned to a different form of fakery. He collected reporting on Veles from publications including The New York Times, BBC, and WIRED and used it to tune open source text-generation software called GPT-2. By experimenting with different prompts, he generated fragments that fabricated meetings with fake news producers in Veles, quotes from locals, and—naturally—encounters with bears. He assembled them into a patchwork that is human- as well as machine-made, but Bendiksen says, “I didn't write a single word of that text.”
+- Bendiksen’s Book of Veles was published in May and opens with that unreal essay. It includes more than 50 of his composite images interspersed with computer-generated quotes and reprints of scholarly analysis of the forged Book of Veles. The work’s true—untruthful—nature was known to only a handful of people at Magnum and Gost, Bendiksen’s publisher. Both publicized the book with conventional announcements.
+- LFI magazine, a glossy magazine owned by camera maker Leica, devoted a full page to the book in its August/September issue, featuring a handful of images and calling it “intelligent and entertaining” if also “an uncomfortable lesson in the harmful potential of digital disinformation.” During a July promotion, Magnum offered prints of a shot in which a flock of birds rushes past a drab apartment building with a man silhouetted in one window for $100.
+- Bendiksen would usually place a package of photos from a new project in a major newspaper or magazine. This time he turned down inquiring editors, wanting to focus his trick on the photo industry, not the wider public. But he promoted the book and posted images on social media, expecting it wouldn’t be long before someone called them out for looking unreal—or question what bears were doing roving a North Macedonian city. “Instead I just got a bunch of thumbs up and applause,” he says, and even messages praising the reporting in his machine-generated opening essay. “That's when I realized we collectively are in trouble,” Bendiksen says. “I didn’t know how long this would take or how far it could go.” He began to plot his own downfall.
+- Bendiksen aimed to sabotage himself on one of photography’s most prestigious stages, the Visa Pour L’Image festival, which takes place in Perpignan each summer. He had submitted the book for consideration early in 2021 and been surprised when it was selected to be presented on stage via a short video of his images. His preparations for the event included buying a ticket to France, and paying roughly $40 for a pre-aged fake Facebook profile in the name Chloe Miskin.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Fittingly, Miskin’s account came with the hard-to-verify promise that her profile photo was generated by AI. Bendiksen spent weeks curating her account to resemble an enthusiastic freelance photographer from North Macedonia. He sent friend requests to hundreds of people in the photo business; many reciprocated, including museum curators and magazine photographers.
+- When Bendiksen got to Perpignan, his duplicity weighed on him. “I was sick to my stomach, but I felt I had to document that the screening actually took place,” he says. He avoided the whirl of networking, dining alone and hiding out in his hotel room to avoid meeting anyone he knew. The night of his screening, he arrived early and took a seat high in the bleachers, trying to hide behind his face mask. When the Veles video rolled, a sequence of his bear images soon swam into view. “My heart jumped a beat,” Bendiksen says. “I thought the bears were the weakest link.”
+- Bendiksen launched his attack on himself the next day, back home in Norway, aiming for the truth to emerge before the festival’s main program ended a few days later. He logged into Miskin’s Facebook account and wrote a post accusing himself of paying subjects to pose fraudulently, declaring “His project is the real fake news!!"
+- To Bendiksen’s alarm, the post didn’t gain much traction. He reposted the allegations in a private photography Facebook group, sparking a discussion in which participants largely accepted Miskin’s claims, but found little wrong with paying subjects in photos. His planned self-immolation in tatters, Bendiksen spent days frantically building a Twitter presence for Miskin, ultimately attracting the eagle eye of Chesterton, the UK filmmaker who at last called out the project. “It was a big weight off my shoulders,” Bendiksen says.
+- “I put in lots of bread crumbs, hints that there's something wrong here.”
+- He called Magnum’s CEO, Caitlin Hughes, who like almost everybody else with the agency had been kept in the dark. She was standing on a drizzly London street on a night out with her husband when she learned that the company had published a book, and sold prints, that were faked. “I did know he was working on something secretive, but I wasn’t expecting this,” she says, “It really shakes the firmament of documentary photography.” The next day, Magnum posted the interview in which Bendiksen came clean, alerting the wider world of photography.
+- Jean-François Leroy, longtime director of Visa Pour L’Image, learned his prestigious festival had been punked when Bendiksen emailed a link to the interview. The revelation left a sour taste. “We knew Jonas for years and trusted him,” says Leroy, who says he was “trapped.” The festival sometimes asks photographers to see raw, unedited images, but did not ask Bendiksen, whose work had been featured in the past. “I think Jonas should have told me it was a fake,” Leroy says, allowing the festival to make a feature out of disclosing and discussing the stunt and its implications.
+- Others taken in by Bendiksen’s project have warmer feelings. Julian Montague, an artist and graphic designer in Buffalo, New York, saw Bendiksen post a link to the Magnum interview on Facebook and read with interest. He’d bought the book earlier in the year, out of interest in the concept of a fake news industry, and the aesthetics of the former eastern bloc. Bendiksen’s images, grainy and with moody lighting, had struck him as artful, not artifice. Now they felt different—in a way that enhanced his experience rather than leaving him feeling cheated. “It’s interesting to revisit the photographs with that knowledge,” he says. “I admire it as an experiment and piece of art and agree with him that it portends a scary future.”
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- Chesterton, who triggered Bendiksen’s reveal, calls the project “magnificent,” but for different reasons. He sees its primary value not as an indicator of the growing power of synthetic imagery, but as a spotlight on the foibles of the photography industry.
+- Chesterton often uses his tweets and company blog to highlight instances of fraud and questionable ethics in documentary photography. “The industry will put it down to CGI and computers and stage a debate about that,” he says. “They won’t bring up that if you want to cheat in photojournalism you can, and you’re unstoppable because there are no checks and balances.”
+- Bendiksen, who says he will return with relief to his previous truthful practices, hopes to spur conversation. “I think I scared a lot of people just like I scared myself,” he says. “Hopefully this is a little bit of shock therapy that gets us talking about this,” he says.
+- Magnum is still deciding whether or how to contact people who bought the book or prints to inform them that they didn’t exactly get what they paid for. The agency still offers The Book of Veles for sale, but it has not updated its listing to disclose the truth of the project. Gost’s listing doesn’t either, but subtly links to coverage of the stunt. A spokesperson for LFI said the magazine’s editors were discussing how to disclose that the item it published in June about the book didn’t tell the full story.
+- Bendiksen, too, won’t reveal all. All the people are fake, he says, but so are some animals, cars, and other objects. “All I can say is there’s something fishy in every image,” he says. “I don’t want to take the joy out of the hunt.”
+- Charles Platt
+- Matt Burgess
+- Will Knight
+- Roy Furchgott
+- David Nield
+- Will Knight
+- Reece Rogers
+- David Nield
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.codastory.com/authoritarian-tech/jonas-bendiksen-book-of-veles/
+
+URL: https://www.washingtonpost.com/photography/2021/10/15/jonas-bendiksen-book-veles/
+- This article was published more than 1 year ago
+- Photographer Jonas Bendiksen’s newest book, ”The Book of Veles” (Gost, 2021), raises some really tough questions. At its most basic level, it asks us to contemplate how we know when something is real or fake. But its most important question may be, do we even care? “The Book of Veles” is fascinating, beautiful, heartbreaking and, ultimately, terrifying.
+- The question of veracity that underpins the book is a multifaceted one. Bendiksen has worked in journalism his whole career. In many ways, his reputation is tied to the sense that the work he presents is anchored in reality.
+- In “Veles,” Bendiksen has used that reputation to turn all of the tables in the photojournalism world upside down and inside out. Bendiksen’s new book is a fabrication. It’s fake. Interestingly enough, this is fully intentional — to prove a point that has become incredibly urgent right now.
+- In short, Bendiksen used artificial intelligence along with youtube and internet research to help him create fake people that he could insert into photos that he took in Veles, North Macedonia. It’s both fascinating and terrifying to read about. But it’s certainly not surprising — we’ve been hearing about deepfake videos, as an example, for a while now. For all we know, this has been happening with regularity. We know that Bendiksen’s “Veles” is fake only because he told us.
+- His effort proved embarrassingly effective. Many people in photojournalism swallowed his conceit —  hook, line and sinker. Bendiksen pulled the wool over his own colleagues’ eyes, even at one of the most venerated photojournalism festivals in the world.
+- And, yes, when I first saw an announcement about the new book, my first thought was “Great, can’t wait to see it!” and not “Hmm, I wonder if it’s real?” Even looking at sample images, all I could think was: “Yep, that looks just like Bendiksen’s work to me; fascinating new book and I can’t wait to see it.”
+- There have always been fakers in the news business. I know it’s hard to believe, but journalists are actually just mortal beings. They have the same desires and ambitions as everyone else. And the world is full of people who let those desires and ambitions steer them into lies and fakery. It’s unfortunate, but true.
+- You don’t have to look far, or even all that hard, to find instances of fabrication in the news business, from Jayson Blair and his made-up articles, to the fabled fakes and alterations of National Geographic’s pyramid cover, to Newsweek’s too bright O.J. Simpson teeth.
+- Fakery is gripping the national political conversation in the United States, as well. It’s always been around, but it has really amped up in the last few years. If a narrative (I shudder at using that term) doesn’t fit into some neat little preconceived idea, then it is dubbed “fake news.” I don’t need to point out where this is happening because it’s so evident everywhere.
+- Interestingly enough, Bendiksen’s “Veles” is all about the manufacturing of “fake news,” which really seemed to start in earnest around the time of the 2016 U.S. presidential election. It seems this explosion of fake news was largely fueled by our incessant use of social media.
+- Social media has been nearly indispensable to our lives over the last few years. It seems as if everything we do is tethered to it, from finding lost connections to buying cars — it’s all possible on the Internet. The Internet even holds out a promise that it will bring you financial spoils if you just generate enough traffic.
+- It was this last little bit of seduction that transformed a fairly obscure town in North Macedonia into an epicenter of “fake news.” That’s because Veles, in the center of the country, was once prosperous, but after its industry faltered and failed, it became a place racked by poverty. But creating fake news sites that capitalized on the extraordinarily contentious 2016 presidential race gave many people in town, mostly teenagers, a way to pull themselves out of dire financial straits.
+- Bendiksen wanted to investigate this manufacturing of fake news for himself, so he set out for North Macedonia. What he found reinforced what he had already read in articles like BuzzFeed News’s seminal report “How Teens in The Balkans Are Duping Trump Supporters With Fake News.”
+- As he says of Veles in the introduction to his book (which was created using AI technology, by the way) : “The largest single source of income for the town of 60,000 is from its thriving fake news industry. I was surprised to find out that the fake news industry is one of the main sources of income for the people of Veles. According to the Macedonian Ministry of Economic Development, the fake news industry generated around $2.1 billion in 2016. Fake news has a direct impact on the country’s economy.
+- Many articles have been written about this phenomenon. If you do an Internet search, you’ll find them all over, including this story by my Washington Post colleague Abby Ohlheiser. None of this is a secret, but that doesn’t dampen any of the danger it has caused and will cause.
+- Abject poverty breeds a sense of helplessness. When you feel helpless, you are prone to do all kinds of things you never would have thought possible — including lie, cheat and steal. It’s no wonder that people have turned to churning out fake news if it can be so profitable. That’s understandable. It’s also terrifying to think about.
+- This is precisely what Bendiksen’s book is doing, or trying to do. It is trying to terrify us, to wake us up. By creating a book of photojournalism that would not be questioned on its face by some of the most stalwart people in the business, Bendiksen is asking a very tough and necessary question — several questions really.
+- And he has used his own rarefied position as a highly respected and decorated person in photojournalism to make the point. I would argue that’s yet another question the work brings up: Why do we give certain people a pass when it comes to believing what they do is valuable? Is it because they have won the right awards? Is it because they are members of the right club or group of people? Bendiksen’s book seems to make those ideas sort of laughable.
+- If Bendiksen can make a book that his own colleagues and some of the biggest titans in the photojournalism world will believe at face value, how secure can we feel about our ability to suss out the truth? The answer to that question has very real implications for what course life on this planet will or can take.
+- I think the scariest question this work brings up for me is whether we care? Does truth matter? Should we question even those we believe have all the right credentials? After all, Bendiksen isn’t just some teenager in Veles using a few keystrokes to bring in a steady flow of cash.
+- I haven’t even gone into the technical underpinnings of how Bendiksen made such a convincing body of fake work. And that’s partly (okay, mostly) because I don’t fully understand it myself. You can read a more in-depth description here of how he created a fake body of work and duped the photo industry.
+- One thing is certain. When and if utter fakery becomes the norm, you won’t be able to say the warning signs weren’t there. And Bendiksen is far from the first person to raise the alarm. Americans generally agree that misinformation is a problem. Writer, photographer and educator Jorg Colberg also recently tackled manufactured reality. People are and have been talking about the perils of misinformation. I’m just a little worried that it’s not enough. And Bendiksen’s book highlights that worry.
+- You can find out more about “The Book of Veles” here.
+- Update: The first edition of “The Book of Veles” has already sold out but a second edition is now available. here.
+- In Sight is The Washington Post’s photography blog for visual narrative. This platform showcases compelling and diverse imagery from staff members and freelance photographers, news agencies and archives. If you are interested in submitting a story to In Sight, please complete this form.
+
+URL: https://www.niemanlab.org/2021/12/manipulated-media-will-fool-you-yes-you/
+- As a journalist, you’re likely among the last to fall for a bluff. You’ve probably stood your ground through chain letters, internet hoaxes, and even recent AI-generated articles and images.
+- That’s about to change.
+- Adobe, the creators of Photoshop, says editing software has become so sophisticated that we need to view all online images and videos with the same skepticism as scam emails.
+- The distinguished Magnum photographer Jonas Bendiksen recently gave us a taste of what is to come. Bendiksen set out to document life in the “fake news” capital of Veles in North Macedonia. Veles was home to at least 140 politics websites aimed at U.S. conservatives and Trump supporters during the 2016 presidential election.
+- This year, the result was published. In print, The Book of Veles investigates historical and current efforts toward producing disinformation and chaos, laden with photographs shot by Bendiksen.
+- Or so we thought. I was not the only victim when Bendiksen’s project turned out to be a tour de force of manipulation. The project had already received acclaim, and a screening at the prestigious Visa pour l’Image festival. The photos had been manipulated with 3D software. All the text was generated by AI.
+- Bendiksen was only exposed after creating a fake Twitter account portraying a Veles journalist that posted accusations against him.
+- “If an average nerdy photographer can go into his basement, look at YouTube tutorials, and create a whole photographic documentary from scratch, then we are in trouble,” Bendiksen said of the project. This book demonstratively proves we are headed for trouble.
+- In addition, a whole range of advances in synthetic media generation and media manipulation are currently broadcast-ready. Video games are drawing attention for looking increasingly realistic, and sophisticated computerized voice clones are convincingly replicating human voices. Director Jon Favreau confirms the trend: “It becomes harder and harder to trust your own eyes and ears when it comes to this stuff.”
+- With all these manipulation techniques increasing in sophistication and accessibility, they will trickle into more content. That is why we need to prepare for a new normal, where scrutinizing online images and videos is as natural as being fascinated by them.
+- Ståle Grut is a journalist and strategic advisor at the Norwegian Broadcasting Corporation’s R&D Lab, NRKbeta.
+- Ståle Grut is a journalist and strategic advisor at the Norwegian Broadcasting Corporation’s R&D Lab, NRKbeta.
+- As a journalist, you’re likely among the last to fall for a bluff. You’ve probably stood your ground through chain letters, internet hoaxes, and even recent AI-generated articles and images.
+- That’s about to change.
+- Adobe, the creators of Photoshop, says editing software has become so sophisticated that we need to view all online images and videos with the same skepticism as scam emails.
+- The distinguished Magnum photographer Jonas Bendiksen recently gave us a taste of what is to come. Bendiksen set out to document life in the “fake news” capital of Veles in North Macedonia. Veles was home to at least 140 politics websites aimed at U.S. conservatives and Trump supporters during the 2016 presidential election.
+- This year, the result was published. In print, The Book of Veles investigates historical and current efforts toward producing disinformation and chaos, laden with photographs shot by Bendiksen.
+- Or so we thought. I was not the only victim when Bendiksen’s project turned out to be a tour de force of manipulation. The project had already received acclaim, and a screening at the prestigious Visa pour l’Image festival. The photos had been manipulated with 3D software. All the text was generated by AI.
+- Bendiksen was only exposed after creating a fake Twitter account portraying a Veles journalist that posted accusations against him.
+- “If an average nerdy photographer can go into his basement, look at YouTube tutorials, and create a whole photographic documentary from scratch, then we are in trouble,” Bendiksen said of the project. This book demonstratively proves we are headed for trouble.
+- In addition, a whole range of advances in synthetic media generation and media manipulation are currently broadcast-ready. Video games are drawing attention for looking increasingly realistic, and sophisticated computerized voice clones are convincingly replicating human voices. Director Jon Favreau confirms the trend: “It becomes harder and harder to trust your own eyes and ears when it comes to this stuff.”
+- With all these manipulation techniques increasing in sophistication and accessibility, they will trickle into more content. That is why we need to prepare for a new normal, where scrutinizing online images and videos is as natural as being fascinated by them.
+- Ståle Grut is a journalist and strategic advisor at the Norwegian Broadcasting Corporation’s R&D Lab, NRKbeta.
+- Ståle Grut is a journalist and strategic advisor at the Norwegian Broadcasting Corporation’s R&D Lab, NRKbeta.
+- Jonas Kaiser
+- Brian Moritz
+- Cindy Royal
+- Raney Aronson-Rath
+- j. Siguru Wahutu
+- Juleyka Lantigua
+- David Cohn
+- Cristina Tardáguila
+- Chase Davis
+- Joe Amditis
+- Matthew Pressman
+- Jody Brannon
+- Jim Friedlich
+- Rachel Glickhouse
+- Meena Thiruvengadam
+- Christina Shih
+- Matt DeRienzo
+- Catalina Albeanu
+- Joanne McNeil
+- Millie Tran
+- Amara Aguilar
+- Michael W. Wagner
+- Mario García
+- Eric Nuzum
+- Joni Deutsch
+- Tamar Charney
+- Kendra Pierre-Louis
+- Robert Hernandez
+- Mandy Jenkins
+- David Skok
+- Julia Munslow
+- Mike Rispoli
+- Errin Haines
+- Stephen Fowler
+- Natalia Viana
+- Tony Baranowski
+- Wilson Liévano
+- Kristen Muller
+- Kristen Jeffers
+- Kerri Hoffman
+- A.J. Bauer
+- Chicas Poderosas
+- Burt Herman
+- Julia Angwin
+- Sam Guzik
+- Gabe Schneider
+- Cherian George
+- Nikki Usher
+- Candace Amos
+- Anika Anand
+- Christoph Mergerson
+- Larry Ryckman
+- Rasmus Kleis Nielsen
+- Paul Cheung
+- Megan McCarthy
+- Jesenia De Moya Correa
+- John Davidow
+- Janelle Salanga
+- Parker Molloy
+- Doris Truong
+- Shalabh Upadhyay
+- Izabella Kaminska
+- Joshua P. Darr
+- Joy Mayer
+- Anthony Nadler
+- Jessica Clark
+- Jennifer Coogan
+- Andrew Freedman
+- Victor Pickard
+- Simon Galperin
+- Moreno Cruz Osório
+- Richard Tofel
+- Anita Varma
+- Gonzalo del Peon
+- Sarah Marshall
+- Ståle Grut
+- Alice Antheaume
+- Daniel Eilemberg
+- Jennifer Brandel
+- Stefanie Murray
+- Zizi Papacharissi
+- James Green
+- Francesco Zaffarano
+- Whitney Phillips
+- Mary Walter-Brown
+- Simon Allison
+- Melody Kramer
+- Jesse Holcomb
+- Amy Schmitz Weiss
+- Tom Trewinnard
+- An Xiao Mina
+- Sarah Stonbely
+- Don Day
+- Matt Karolian
+- Gordon Crovitz
+- Kathleen Searles & Rebekah Trumble
+- S. Mitra Kalita
+- Ariel Zirulnick
+- Laxmi Parthasarathy
+- Shannon McGregor & Carolyn Schmitt
+- To promote and elevate the standards of journalism
+- Covering thought leadership in journalism
+- Pushing to the future of journalism
+- Exploring the art and craft of story
+- The Nieman Journalism Lab is a collaborative attempt to figure out how quality journalism can survive and thrive in the Internet age.
+- It’s a project of the Nieman Foundation for Journalism at Harvard University.
+
+URL: https://www.psychologytoday.com/us/blog/misinformation-desk/202110/the-book-veles-disinformation-north-macedonia
+- You don't have permission to access this resource.
+
+URL: https://collectordaily.com/jonas-bendiksen-the-book-of-veles/
+- By Loring Knoblauch / In Photobooks / December 16, 2021
+- JTF (just the facts): Published in 2021 by GOST Books (here). Hardcover with satin silver foil on a fake leather material (220 x 165 mm), 148 pages, with 65 images and 19 reproductions of historical pages. Includes an essay by the artist. (Cover and spread shots below.)
+- Comments/Context: If asked to credibly assess our own digital literacy, most of us would consider ourselves at least competent, if not quite proficient, at identifying fake news stories and doctored photographs. Whether delivered on social media or in some more mainstream news source, we’d like to think we can spot a ridiculously false claims masquerading as news or pick out the picture with the face of a politician Photoshopped atop someone else’s body. And while this might have been true a decade or more ago, in the years since, the technologies that are being used to manipulate photographs and text (including 3D rendering software programs, artificial intelligence systems, and the cutting edge semiconductors that run them) have become much more powerful, so much so that the fake news machine that employs these tools has resultingly become increasingly sophisticated.
+- Of course, we have all been fooled at one time or another, whether or not we are willing to admit it (or even know it), and the situation has evolved into a technological arms race between the manipulators and the digital forensic analysts, with the professional image authenticators always one step behind. The problem is now more acute and urgent than ever, mostly because we have reached a point where the average viewer cannot be relied upon to detect convincingly insidious fakes.
+- Of course, we all delusionally think we are better than average at this kind of discernment, and Jonas Bendiksen’s quietly devious photobook The Book of Veles puts us to the test. Bendiksen is a respected Norwegian photojournalist and member of Magnum Photos, who has spent the past two decades working across the former Soviet Union and the Balkans, among other locations. On the heels of the 2016 Presidential election in the United States, where “fake news” became not only a slogan but a stubbornly menacing reality, there were many news reports about fake news posts being generated in Macedonia, and so Bendiksen made trips to the region (and in particular to the city of Veles) to dig up the story.
+- The Book of Veles is the result of that effort. An in-depth essay near the beginning of the photobook provides the backstory, which starts with closed factories, unemployment, economic depression, and lost confidence in the region, and ultimately leads to the black market money making industry of fake news, which is driven through a web of individual sites, stories, and Facebook posts and run by a ragtag collection of opportunistic (and largely non-ideological) young people, more professional hackers, and Internet trolls.
+- Bendiksen’s photographs begin by setting the scene from above, with images of the city enshrouded in smoke and the skies dotted with dark birds. He then moves closer to ground level, taking in the aging apartment blocks, empty factories, narrow streets, and grimly crumbling infrastructure, the only evidence of recent activity coming in the form of ubiquitous satellite dishes, new electrical wiring, and a few too nice sports cars parked in among the other dented wrecks. From the outside, the city looks empty and deserted, lulled into a kind of clandestine silence, with a handful of images punctuated by the feral presence of roaming black bears, apparently in search of food.
+- Since the fake news industry is a digital endeavor, most of Bendiksen’s portraits feature people working on laptops (in makeshift offices, on beds, in kitchens, and in other places) or on their phones out and about in the city. The detritus of computing (wires, monitors, and other electronic junk) decorates many of these workspaces, but the common visual theme would be mundane practicality. Bendiksen captures a few workers peering out of their windows, and a few others wearing Guy Fawkes masks to protect their identities, and his photojournalistic framing skills come out in wider views of a man warming his hands over a oil barrel fire, another of a couple taking a swim in an abandoned swimming pool (the girl unexpectedly riding a rainbow unicorn floatie), and several others where the seething light from a stairwell, a car’s headlights, or a factory at night adds some color interest to the otherwise drab surroundings. The images come together to paint a picture of ordinary people embracing the underbelly of fake news as a way to pay the bills, in a city with few available options.
+- Bendiksen then goes further, connecting his story of life in contemporary Veles to an ancient Slavic epic called “The Book of Veles”. Written on wooden planks and gathering together various religious and historical stories going back to pagan times, the sacred book was discovered in 1919 and ultimately translated into English in 1973. Pages from that translation are interspersed throughout Bendiksen’s photobook, and the symbols, stories, and mythologies of the ancient manuscript make surprising appearances in Bendiksen’s pictures – the mythical Bird of Victory links to Bendiksen’s images of birds over the city; ancient runes and marks from the book variously appear as graffiti on bridge underpasses, gold jewelry around the necks of residents, and in the architecture of concrete highway supports; and the god Veles was apparently a shapeshifter who often took the form of a bear.
+- Bendiksen brings all of these threads together into one tightly designed photobook. The historical “Book of Veles” documents are reproduced on thinner paper stock and interleaved into the flow of imagery, creating a repeated back and forth between past and present. The essay is placed at the beginning for context, and then the images are presented one to a page with plenty of surrounding white space, many with pull quotes that represent the voices of those pictured or blaring titles from the fake news articles. The end papers are drawn from Wikipedia entries on Veles, and the cover has a fake leather feel, with a bear’s paw design on the back. Seen as one integrated artistic statement, Bendiksen’s photobook follows the now popular formula of thoughtfully mixing archival sources with new photographs to tell a lesser known story.
+- The wrenching twist in all of this is, of course, that much of what Bendiksen has presented in this book is “fake news”. As painstakingly outlined in this interview (here), Bendiksen carefully set his trap, and the best laid traps are laced with just enough truth to be plausibly believable.
+- There were indeed plenty of news reports about a fake news industry in Macedonia (before and after the 2016 election), and Bendiksen did indeed go to Veles to make photographs of the city. But when he was there, he didn’t actually meet anyone involved with fake news, and the photographs he took didn’t include any people. All of the figures seen in his photographs were digitally added later by the artist, using image manipulation and rendering software.
+- And when we go back to look at the pictures more closely (now potentially armed with our own shame for not being observant enough), the figures do look rendered and ever so lightly off. (For a similar visual test, consider the photographs made from video game stills by Leonardo Magrelli, as reviewed here.) But Bendiksen didn’t stop with just doctoring the pictures. The elaborate essay that starts the book wasn’t written by him – he fed articles about the Macedonian fake news situation into an AI system, which wrote the essay. The pull quotes that accompany the pictures were generated in the same way – actual quotes were fed into the system, which spit out brand new ones for the pictures. And it turns out the ancient “Book of Veles” was actually a forgery, so all the historical connection-making and symbolic linkages are fabricated. Even the bears were added in, which explains how Bendiksen had gotten luckier than any professional nature photographer in documenting so many wild bears in town.
+- Bendiksen was, of course, planning to be caught – the whole idea was of the project to show people just how possible (and easy) it has become to make a compellingly false narrative. But in a delicious twist of fate, Bendiksen submitted the work to Visa pour l’Image, a major photojournalism festival, and he was invited to present his project there. And much to his surprise (and likely horror), nobody called him out – he had essentially used his manipulated images to fool an entire festival filled with photojournalism experts. This must have been mind-blowing, and perhaps a bit scary, given that we might assume such professionals should be able to detect such trickery.
+- Shortly after the festival, he knew the situation was getting out of hand and he had to out himself, so he created a fake Twitter profile and began casting aspersions on the veracity of his own work. The story was eventually picked up (in an indirect proof of how the whole fake news system shares and disseminates information), and then Bendiksen came forward and explained it all.
+- When we go back through Bendiksen’s photobook, there are of course clues left everywhere. What photographer thanks “Open AI, Daz, Blender, and NVIDIA” in their dedication? The essay is clearly marked as written by GPT2, the open-source AI system. The Wikipedia articles directly call out the ancient Book of Veles as a forgery. The bear atop a needlepoint winter scene is obviously pixelated. And those are just the most glaringly out of place details. Bendiksen’s digital handiwork is plenty good, but the collective “we” should have been able to put all these pieces together and detect the many discrepancies. And yet, that didn’t happen, thereby amplifying the dangerous point of this exercise.
+- While I am sure there are many angry and embarrassed photojournalists who feel burned by Bendiksen’s insolent trap, his smartly planned and executed deception lays bare the challenges inherent in declaring the truth in contemporary photographs, especially when those “truths” are wrapped with the reputations of established institutions and respected participants like Bendiksen himself. This photobook arrives like an astringent slap in the face, and hopefully will be durably remembered as more than just a clever gimmick; few photobooks from 2021 should get us thinking and talking as much as this one, even when we overtly acknowledge that the included photographs are fraudulent. The logic says that if Bendiksen can fool us so thoroughly, there will be many others who will try, and succeed, as well. We’ve been in need of a bracing and cautionary wake up call about the growing power of manipulated imagery for a while now, and The Book of Veles has successfully delivered that message. What we do about that sobering reality, now that Bendiksen has so powerfully forced us to face it, is far less clear. He’s humbled enough people to get some useful conversations started, so hopefully that uncomfortable awkwardness can lead to some good, perhaps even the beginnings of recognition and change.
+- Collector’s POV: Jonas Bendiksen is a member of Magnum Photos (here). His work has been only intermittently available in the secondary markets in the past decade, so gallery retail likely remains the best option for those collectors interested in following up.
+- Δ
+- Read more about: Jonas Bendiksen, GOST Books
+- Comment *
+- Your email address will not be published.
+- Name
+- Email
+- Save my name, email, and website in this browser for the next time I comment.
+- 
+- 
+- Δ
+- GOST Books
+- JTF (just the facts): A total of 12 photographic works, framed in white and unmatted, and hung against white walls in the two-room gallery space. (Installation  and detail shots below.) ... Read on.
+- Collector Daily is a venue for thoughtful discussion of vintage and contemporary fine art photography. We review recent museum exhibitions, gallery shows, photography auctions, photobooks, art fairs and other items of interest to photography collectors large and small. Read on.
+- © 2008-2023 Collector Daily
+- Check your inbox or spam folder to confirm your subscription.
+- 
+
+URL: https://www.amateurphotographer.co.uk/book_reviews/fake-news-how-jonas-bendiksen-hoodwinked-the-photographic-community-with-the-book-of-veles-160472
+- Currently Trending:
+- Advertisement
+- Advertisement
+- May 17, 2023
+- A diverse range of photographers reveal how photography can help boost mental health, along with physical challenges such as ME and Long Covid
+- by Geoff Harris
+- May 4, 2023
+- Del Barrett, the founder of the Hundred+ Heroines initiative, explains how it's championing women photographers, while also remembering the work of the pioneering Dorothy Wilding
+- by Amy Davies
+- May 4, 2023
+- The partner of the late Magnum photographer, Peter Marlow, gives the full story behind his epic project to photograph all 42 of England's Anglican cathedrals
+- by Tracy Calder
+- Advertisement
+- February 14, 2022
+- The 5,000-word introductory text to The Book of Veles is a detailed and thrilling read. Renowned Magnum Photos photojournalist Jonas Bendiksen (b.1977) recounts his travels to the North Macedonia city of Veles which came to prominence in 2016 as a world capital of fake news. The Norwegian national roams around the squalid streets and derelict buildings to find and photograph people involved in the fake news business.
+- He meets the tall thin mayor, Diokno, with a large moustache and bald head. He meets Goran, an internet troll, dressed in jeans, T-shirt and hoodie who has dark hair parted in the middle. Eighteen-year-old Bojan is dressed in a green and black striped shirt and brown shoes. Andras has a grey ponytail, shock of grey hair, small smile and a tattoo on his left shoulder that reads ‘Macedonia.’
+- There’s a killing, an attack and inspired interlude where Bendiksen interrupts his fake news investigation to find and photograph a sleuth of bears running amok. He parks his car and, with little regard for his own safety, walks into the forest of big trees with big branches.
+- A bear next to the sign for the Royal Norway Embassy
+- The images in the book are classic Bendiksen, carefully crafted photographs in the style to which we have become accustomed from his archive of award-winning photo-essays. A young girl sits on an inflatable unicorn in a dirty-looking swimming pool as trucks thunder along a nearby road. A silhouetted man looks out from a dilapidated apartment block at a flock of birds in flight.
+- A dark-haired woman stoops to peer into a car parked in a menacing-looking lamplit alleyway, a man lurks in the shadows. The images portray what we’ve come to expect from a seedy, mafia-run, drug-dealing, crumbling former Eastern Bloc country. And there are the photographs of bears: a bear crossing the road caught in car headlights; a bear strolling among the shadows; a bear drinking from a river next to sign for the Royal Norway Embassy complete with painted Norwegian flag.
+- It’s accomplished and convincing. It’s also completely fake. The people in Bendiksen’s photographs are fake, some objects are fake and the bears are fake (bizarrely, the Royal Norway Embassy sign is real). The introductory text is fake. He didn’t write a word of it, instead using GPT-2, a free trainable system for creating text. Bendiksen went online, copied and pasted articles reported by English-language media about the fake news industry in Veles onto one long text document and fed it into the system – out came a passable carbon copy of a human handwritten article.
+- Apartment building at dusk
+- The only part of the book that has not been tampered with are the direct quotes from fake news websites, which are essentially fake. Bendiksen deliberately set out and succeeded in hoodwinking the global photographic community with his audacious The Book of Veles. This is how and why he did. Bendiksen travelled to Veles in 2019 and 2020 to photograph the streets, alleys, landscape, empty spaces, park benches, offices and anything that caught his interest.
+- He photographed these with his regular camera and also captured the lighting of each scene using a special 360-degree camera combined with special effects methods. With his visual haul complete, as the world began to lockdown from Covid-19, he retreated to the basement of his home on a peninsula near the Norwegian capital of Oslo, settled among his books and family photographs, closed the curtains and went about his skulduggery.
+- Learning to use video game production software from online tutorials, he transformed an edit of his images from Veles into 3D renderings then went shopping online for digital avatars to populate them. The €20-30 price wasn’t a problem but they didn’t look like North Macedonia citizens. ‘They’re all these Barbie and Ken bimbo types, they look really ridiculous, it’s not so easy to find people who look like you.
+- Evening in the streets of Veles
+- You want people who look kind of normal. The first thing I did with all of them was fatten them up a bit, give them some bad skin, get some dimples and some scars,’ explains Bendiksen during our Zoom call (at least I think it’s Bendiksen – scrutinising the bags under his eyes they look real, testament perhaps to his three children and an imminent fourth).
+- He then went shopping, buying clothes and lingerie for his avatars. ‘I have to admit I’ve done exactly that. If someone had asked me three years ago if I would be spending most of my time dressing up digital Playmobil characters and playing with computer game bears for a living, I would say they were pretty crazy.’ The avatars were placed into his scenes, then posed and lit to make everything look as realistic as possible before transforming back into 2D. Professor Bendikenstein’s creation was ready.
+- During the election campaign of Donald Trump and throughout his presidency, Bendiksen became increasingly frustrated reading reports of Russian hacking and fake news. He feared a tsunami of advanced all-digital technology and began to question how long it would be until documentary photojournalism could have no
+basis in reality other than the photographer’s fantasy and a powerful computer graphics card.
+- Would editors be able to tell the difference and how hard is it to do? Bendiksen was so frightened by what the answers might be, he decided to try it himself – his own visual Turing test. If one averagely nerdy photographer could watch a bunch of YouTube videos and subvert the documentary tradition of photography, then it would be a warning to us all.
+- Abandoned foundations for a highway bridge outside the town of Veles (spread from the book)
+- By April 2021, The Book of Veles was ready for publication by GOST books; director and cofounder Stuart Smith was in on the hoax from the beginning. Snippets of the book were fed to social media and Bendiksen waited for people to question the work. No one did, there were likes, thumbs up and heart emojis. His fellow Magnum photographers were fooled. Some who bought the book applauded the important story he was telling.
+- Leica’s LFI magazine dedicated a page to the book describing it as ‘intelligent and entertaining’. Bendiksen was careful not to let the work be published in magazines outside of the photographic community so when the truth came out, those who were duped had a better chance of finding out. The months rolled on.
+- For Bendiksen’s caper to work and create a debate in photography about the escalation of deceptive technology, he had to test it against some of the world’s most visually sophisticated people. He chose the Oscars of his industry, the Visa Pour l’image Festival of Photojournalism. Bendiksen submitted the image series and full-resolution PDF of the book.
+- The festival came back with the offer of an evening screening; no one at any stage raised questions about the authenticity of his reportage. On 1 September, the photographic elite settled under the Perpignan night sky at Campo Santo and looked up at the 100-metre screen as a short video of Bendiksen’s images of bears and bare-chested men rolled past.
+- Aquapark on the outskirts of Veles
+- Bendiksen had arrived early, wore a mask and watched awkwardly from high up in the seats. ‘I didn’t say hello to a single person while I was there. I was so uncomfortable. I stayed in my hotel, ate dinner on some backstreet far away from the festival crowd. I didn’t want to meet anyone and face interaction,’ he says.
+- With the collateral damage done, Bendiksen rapidly extracted himself from France. Back home the next day, he set about revealing the truth before the festival ended a few days later. He was prepared, having spent weeks creating and curating a pre-aged fake Facebook profile for Chloe Miskin, born on 21 February 1994, a self-employed photographer from Veles, living in Manchester, UK (who curiously studied at St Cyril & Methodius University of Dentistry, Skopje, Macedonia).
+- Bendiksen logged into Miskin’s account and accused himself of fraud and paying the people in his pictures: ‘Every time Jonas puts out a picture on his Instagram, people are saying what a great project this is, but it is not, his project is the real fake news!! Really, somebody should investigate this.’ After a muted response, he reposted the allegations in a private photography Facebook group.
+- His approach was largely defended. With his atonement in tatters, he frantically enrolled Miskin at the home of trolls, Twitter, where she continued her accusations. Benjamin Chesterton, aka Duckrabbit, the scourge of deceitful photojournalists, spotted that one of the fake account’s profile pictures was an outtake of a woman that appears in The Book of Veles wearing the same clothes. The unravelling had begun and like many criminals, Bendiksen was relieved to have finally been caught.
+- Couple embrace
+- On 17 September 2021, the story behind The Book of Veles was posted on the Magnum Photos website, and the director of Visa Pour L’image, Jean-François Leroy, responded with a 500+ word statement – he was flabbergasted and stunned: ‘Jonas Bendiksen is a regular at Visa Pour l’image, and has had a number of exhibitions and stories screened.
+- Given the relationship based on friendship and trust we have with him, as with dozens of other photographers, could this explain how we were trapped? Would we have been more cautious if dealing with an unknown photographer? Maybe, maybe not. Quite obviously, we would have preferred not to be the target of his joke. But we weren’t the only ones.
+- Magnum also fell into the trap, the agency of Capa and Cartier-Bresson who attached so much importance to facts and truth. But such considerations are now irrelevant. The deed has been done. For some time now, the festival has wanted to include fake news and raise awareness on fake news as part of the program, but ideas and proposals by members of the team have remained incomplete. In the end, Jonas Bendiksen’s insolent daring has, for better or for worse, raised the issue to a level we would never have thought possible.’
+- Chimney with radio antenna (book spread)
+- In another delicious layer to his prank, while researching for the project Bendiksen discovered there was an ancient Book of Veles (from which he borrowed the title), a literary forgery purporting to be a text of ancient Slavic religion and history supposedly written on wooden planks. The planks are said to have been discovered in 1919 by White Russian army lieutenant Fedor Izenbek and decoded decades later by Yuri Mirolyubov, who disclosed it was an epic tale about early Slavic people and the god Veles, a god of magic and trickery who the Slavs initially believed would visit the mortal world in the form of a bear – you couldn’t make it up, well actually…!
+- Bendiksen fed the entire scripture into GPT-2 and went to bed. The next morning he had multiple versions to modify and interspersed the vaguely relevant historical passages throughout his own forgery.
+- In 2013 Bendiksen took my then eight-year-old daughter and I on a boat trip across a fjord fishing for pike. He advised where the jellyfish weren’t so we could swim safely. During lunch, we played the head, body and neck drawing game – while no one is peeking, the first person draws the head and neck and folds over the paper leaving a little bit of the neck showing, the next person draws the middle down to the waist and folds, the next person draws the legs, unfold the paper and hilarity ensues at the mismatched creation (early inspiration for his avatars?).
+- Bare-chested man at computer
+- Bendiksen’s persona is one of care, confidence and trust. His photographic legacy is honest and thorough. If he frothed prophecies I’d listen. If he tried to sell me a bible, I’d probably buy it. Once you know that everything in The Book of Veles is fake it looks obvious but as a trusted source, the industry wasn’t sharpened to question Bendiksen’s output. But, it needs to as the consequences could be irretrievable as he admits.
+- ‘I’ve lived with these pictures for some time now and when I go back into the material I’ve actually surprised myself and forgotten what was renderings and what was real. I’m starting to confuse myself.’
+- In hindsight, Bendiksen is the perfect person to do what hackers recruited by big tech companies regularly do – search for deficiencies in the system so they can be fixed. If computer-generated fake news pictures are accepted by editors and curators who pick the year’s best photojournalism, the system is weak. Documentary photography is unlikely to go away, authentic visual storytelling will always exist.
+- Manipulation in photography is nothing new but what is coming is something else and Bendiksen has cranked on the warning siren. He must have optimism for the world though to be bringing a fourth child into it? ‘Or a strong-willed wife. I feel blessed,’ he says, and The Book of Veles may in time turn out to be a blessing for us all.
+- The Book of Veles cover
+- A third printing of The Book of Veles is available to order here: www.gostbooks.com
+- Is it a bird or is it a plane? Capturing Dod Miller’s Birdmen
+- Portrait of Humanity shows resilience
+- Jessica studied Fine Art at Loughborough University, where she specialised in photography and graduated in 2017. Following this she went on to manage the social media at West Dean College of Arts and Conservation, and West Dean Gardens. In 2020, Jessica also studied MA Museums, Galleries and Contemporary Culture at University of Westminster and curated online photography exhibition, Materiality Exposed. She joined Amateur Photographer in 2021 and is responsible for managing AP’s social media and creating web content.
+- May 17, 2023
+- A diverse range of photographers reveal how photography can help boost mental health, along with physical challenges such as ME and Long Covid
+- by Geoff Harris
+- May 4, 2023
+- Del Barrett, the founder of the Hundred+ Heroines initiative, explains how it's championing women photographers, while also remembering the work of the pioneering Dorothy Wilding
+- by Amy Davies
+- May 4, 2023
+- The partner of the late Magnum photographer, Peter Marlow, gives the full story behind his epic project to photograph all 42 of England's Anglican cathedrals
+- by Tracy Calder
+- © 2023 Kelsey Media Ltd . kelsey.co.uk
+- Subscribe and pay just £19.50 for 13 issues. Plus, choose and receive a FREE copy of Improve Your Photography.
+- No thanks, I’m not interested!
+
+URL: https://www.cbc.ca/radio/thecurrent/the-current-for-oct-20-2021-1.6217855/this-photojournalist-faked-an-entire-book-to-highlight-how-hard-it-is-to-spot-misinformation-1.6218251
+- When photojournalist Jonas Bendiksen released a book about the fake news industry, he got messages from people thanking him for covering such an important issue.
+- But he says no-one noticed one thing about the book: everything in it was also fake.
+- "The whole intention was for people to find this out … the problem is that didn't happen," Bendiksen told The Current's Matt Galloway.
+- His work, The Book of Veles, is based in a town of the same name in North Macedonia. Veles made international headlines in 2016, as the home of a fake news industry that was pumping out misinformation on websites targeted at U.S. voters mulling over a presidential election.
+- Bendiksen wanted to explore how misinformation and disinformation has been developing in the years since, from articles riddled with lies and half-truths, to manipulated images and deepfake videos.
+- So he went to Veles in 2019 and 2020, and took pictures of empty spaces, both outdoors and inside. Back home in Norway, he populated those real images with figures that were completely digital, posed and lit to fit into their previously empty surroundings.
+- "While the story of what happened in Veles is a true one, all the characters in my photographic documentary are basically a computer game character," he said.
+- He wanted to find out if "one averagely geeky photographer" could spend some time on YouTube learning the techniques, and then "generate fake characters, a fake storyline, a fake documentary that has no basis in fact."
+- "I got the sense that if I could actually do this, it would say something frightening about the information landscape that we're headed into," he said.
+- Bendiksen has not revealed all the specifics of what he did to each image. But he said he added "breadcrumbs" that he thought might raise suspicion in the viewer — things like a bear wandering around town. The introductory text in the book is also created using artificial intelligence, generated from media reports about fake news. Bendiksen didn't write a word of it.
+- "There's also objects, animals, other things I put into it, so basically every picture in the project has something fishy going on," he told Galloway.
+- "I thought all of that would make people go, 'You know, there's something fishy going on in this work, what is it?' And I wanted to sort of play into that discussion," he said.
+- But in the weeks after the book was published in May, nobody raised any concerns with Bendiksen.
+- He decided it was time for one more "stress test," so he submitted it to Visa pour l'Image, a prestigious photojournalism festival that took place in Perpignan, France in September.
+- Bendiksen wanted to see if the experts noticed: "Could this fake documentary actually be accepted as a real reportage by seasoned editors?"
+- It turns out that it could. "They immediately accepted it," he said.
+- Bendiksen's images were viewed by photographers, editors and industry insiders on a large screen.
+- When no one spotted the deception, he decided to reveal the truth.
+- In an interview with Wired, the festival's director Jean-François Leroy said his organization had known and trusted Bendiksen for years.
+- "I think Jonas should have told me it was a fake," he said, adding that if he was in on the secret, they could have revealed it and hosted a discussion as part of the festival's program.
+- Bendiksen said he's not the type of "person who particularly enjoys going around and scamming people."
+- But he thinks that what he did was "an important experiment for us telling stories in the journalism and photography communities."
+- While identifying misinformation and disinformation online is already an issue across the world, Bendiksen believes things will only get worse as the technology behind it develops.
+- "Give it a few years, we will have this whole synthetic layer on top of it, where you will have misinformation not even produced by people, but by machines, and in quite great quantities," he said.
+- He thinks there needs to be better education around how to spot manipulated content, perhaps even as part of school curricula.
+- "How can we make our young, the next generations, better at navigating this very difficult mix of information, to find credible information in this mess?" he said.
+- He thinks the project has changed his own outlook.
+- Bendiksen says the project has changed his own outlook, and that from now own he'll view photography, as well as other kinds of stories, with a more critical eye than in the past.
+- "I see now how easy it is to reproduce fake versions of this," he told Galloway.
+- The Book of Veles is available from Gost Books.
+- Written by Padraig Moran. Produced by Alison Masemann.
+- Add some “good” to your morning and evening.
+- A variety of newsletters you'll love, delivered straight to you.
+- Audience Relations, CBC P.O. Box 500 Station A Toronto, ON  Canada, M5W 1E6
+- Toll-free (Canada only):  1-866-306-4636
+- It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+- Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+- 
+
+- Cambodia torture victims' photo manipulation
+- Amnesty fake Colombia national strike images
+- Page info Type: IncidentPublished: February 2022

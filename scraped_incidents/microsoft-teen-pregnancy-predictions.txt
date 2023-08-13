@@ -1,0 +1,11 @@
+- Released: 2016
+- Can you improve this page?Share your insights with us
+- The Technology Platform for Social Intervention (Plataforma Tecnológica de Intervención Social) is a controversial algorithmic system used to predict teenage pregnancy in Argentina, Brazil, and Colombia.
+- Developed in 2016 by Microsoft for the Ministry of Early Childhood in Salta province, Argentina, the system draws on age, ethnicity, country of origin, disability, and socio-economic data of some 200,000 women and girls, including 12,000 between the ages of 10 and 19.
+- Microsoft announced the system is 'one of the pioneering cases in the use of AI data' in Argentina. Then governor of Salta Juan Manuel Urtubey claimed it would enable authorities to 'foresee five or six years in advance, with first name, last name, and address, which girl - future teenager - is 86 percent predestined to have an adolescent pregnancy'.
+- However, the system has been criticised by rights activists, journalists and politicians for being inaccurate, unreliable, unfair,  biased against local indigenous groups, and abuse of privacy.
+- An University of Buenos Aires' Applied Artificial Intelligence Laboratory audit concluded that the system suffered from major technical and design faults, and lacked data concerning access to sex education and contraception - which public health researchers view as the most important tools in reducing teenage pregnancy rates.
+- The system is also seen to be overly opaque having not been subject to formal review or assessment, and with access to the data, code and model denied.
+- Furthermore, the involvement of Argentine pro-life campaign organisation the Conin Foundation in its development was not made public, having only been revealed by gender and digital rights campaigners.
+- Argentina's senate rejected a bill to legalise abortion in the first 14 weeks of pregnancy in August 2018.
+- Operator: Ministry of Early Childhoood, Salta Province Developer: Microsoft; Conin Foundation  Country: Argentina; Brazil Sector: Govt - health Purpose: Predict teenager pregnancy Technology: Prediction algorithm Issue: Accuracy/reliability; Privacy; Appropriateness/need; Effectiveness/value Transparency: Governance; Black box; Marketing

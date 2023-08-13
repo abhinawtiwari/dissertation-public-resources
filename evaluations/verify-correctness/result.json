@@ -1,0 +1,909 @@
+[{
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dominos-australia-pizza-checker",    
+    "stakeholder_outcomes": [
+      {
+        "name": "decreased_customer_satisfaction",
+        "for_stakeholder": "customers",
+        "for_outcome": "overall_customer_satisfaction",
+        "from_perspective_of": "customers",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "customer_satisfaction_surveys",
+        "has_impact_report": "customer_satisfaction_reports",
+        "org_has_name": "decreased_customer_satisfaction",
+        "org_has_description": "customers are less satisfied with Dominos Australia's pizza checker algorithm."
+      },
+      {
+        "name": "negative_media_coverage",
+        "for_stakeholder": "employees",
+        "for_outcome": "overall_job_satisfaction",
+        "from_perspective_of": "employees",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "employee_surveys",
+        "has_impact_report": "employee_satisfaction_reports",
+        "org_has_name": "negative_media_coverage",
+        "org_has_description": "employees are less satisfied with their jobs due to negative media coverage of the incident."
+      },
+      {
+        "name": "calls_for_boycott",
+        "for_stakeholder": "employees",
+        "for_outcome": "overall_job_security",
+        "from_perspective_of": "employees",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "employee_surveys",
+        "has_impact_report": "employee_satisfaction_reports",
+        "org_has_name": "calls_for_boycott",
+        "org_has_description": "employees are less confident about their job security due to calls for a boycott of the company."
+      },
+      {
+        "name": "job_losses",
+        "for_stakeholder": "employees",
+        "for_outcome": "overall_job_security",
+        "from_perspective_of": "employees",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "employee_layoffs",
+        "has_impact_report": "employee_satisfaction_reports",
+        "org_has_name": "job_losses",
+        "org_has_description": "employees lose their jobs due to the incident."
+      },
+      {
+        "name": "increased_stress_levels",
+        "for_stakeholder": "employees",
+        "for_outcome": "overall_mental_health",
+        "from_perspective_of": "employees",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "employee_stress_surveys",
+        "has_impact_report": "employee_mental_health_reports",
+        "org_has_name": "increased_stress_levels",
+        "org_has_description": "employees experience increased stress levels due to the incident."
+      },
+      {
+        "name": "decreased_morale",
+        "for_stakeholder": "employees",
+        "for_outcome": "overall_morale",
+        "from_perspective_of": "employees",
+        "has_importance": "high_importance",
+        "is_underserved": "no",
+        "intended_impact": "negative",
+        "has_indicator": "employee_morale_surveys",
+        "has_impact_report": "employee_morale_reports",
+        "org_has_name": "decreased_morale",
+        "org_has_description": "employees experience decreaed morale due to increased survelience and reporting to higher management"
+      },
+      {
+        "hasCode": "NA",
+        "forStakeholder": "franchisees",
+        "forOutcome": "decreased sales for franchisees",
+        "fromPerspectiveOf": "Dominos Australia",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "sales",
+        "hasImpactReport": "none yet",
+        "org:hasName": "decreased sales for franchisees",
+        "org:hasDescription": "This stakeholder outcome specifies that franchisees may see a decrease in sales and revenue from their stores due to the negative publicity surrounding the Dominos Australia pizza checker incident. This could lead to financial difficulties for franchisees."
+      }          
+    ],
+    "stakeholders": [
+      {
+        "name": "customers",
+        "has_name_title": "customers",
+        "has_description": "individuals or businesses that purchase pizzas from Dominos Australia.",
+        "has_catchment_area": "australia",
+        "performs": "ordering_pizzas_from_dominos_australia",
+        "i72_located_in": "australia",
+        "oep_part_of": "dominos_australia_pizza_checker_incident_impact_model"
+      },
+      {
+        "name": "employees",
+        "has_name_title": "employees",
+        "has_description": "individuals who work at Dominos Australia.",
+        "has_catchment_area": "australia",
+        "performs": "making_pizzas",
+        "i72_located_in": "australia",
+        "oep_part_of": "dominos_australia_pizza_checker_incident_impact_model"
+      },
+      {
+        "hasName": "franchisees",
+        "hasDescription": "Individuals or businesses that have been granted the right to operate a Dominos Australia store under the Dominos Australia brand.",
+        "hasCatchmentArea": "Australia",
+        "hasStakeholderCharacteristic": "Businesses",
+        "performs": "Operate Dominos Australia stores, order pizzas, provide feedback on pizzas",
+        "i72:located_in": "Australia",
+        "oep:part of": "Dominos Australia pizza checker incident"
+      }          
+    ],
+    "impact_risks": [
+      {
+        "forOutcome": "decreased_customer_satisfaction",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "NA. A mitigation plan could be kept in place to address this risk.",
+        "hasIdentifier": 1,
+        "hasDescription": "This risk is that customers will be less satisfied with Dominos Australia's pizza checker algorithm if it is found to be inaccurate or biased. This could lead to a decrease in sales and revenue for Dominos Australia."
+      },
+      {
+        "forOutcome": "negative_media_coverage",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "NA. A public relations plan could be kept in place to address this risk.",
+        "hasIdentifier": 2,
+        "hasDescription": "This risk is that negative media coverage of the Dominos Australia pizza checker incident could damage the company's reputation and make it more difficult to attract and retain customers. It could also lead to calls for a boycott of the company, which could further damage its reputation and financial performance."
+      },
+      {
+        "forOutcome": "calls_for_boycott",
+        "hasLikelihood": "medium",
+        "hasConsequence": "high",
+        "hasMitigation": "NA. A social media plan could be kept in place to address this risk.",
+        "hasIdentifier": 3,
+        "hasDescription": "This risk is that customers or other stakeholders may call for a boycott of Dominos Australia if the pizza checker incident is not handled properly. This could lead to a decrease in sales and revenue for the company. It could also damage the company's reputation and make it more difficult to attract and retain customers."
+      },
+      {
+        "forOutcome": "job_losses",
+        "hasLikelihood": "low",
+        "hasConsequence": "high",
+        "hasMitigation": "NA. A financial plan could be kept in place to address this risk.",
+        "hasIdentifier": 4,
+        "hasDescription": "This risk is that Dominos Australia may experience financial difficulties as a result of the pizza checker incident. If this happens, it could lead to job losses for employees."
+      },
+      {
+        "forOutcome": "increased_stress_levels",
+        "hasLikelihood": "medium",
+        "hasConsequence": "medium",
+        "hasMitigation": "NA. An employee assistance program could be planned to address this risk.",
+        "hasIdentifier": 5,
+        "hasDescription": "This risk is that the Dominos Australia pizza checker incident could lead to increased stress levels for employees. This could be due to a number of factors, such as workplace surveilance fear, negative media coverage, calls for a boycott, or job losses. Increased stress levels can have a number of negative consequences for employees, including physical and mental health problems, decreased productivity, and increased turnover."
+      },
+      {
+        "forOutcome": "decreased_morale",
+        "hasLikelihood": "medium",
+        "hasConsequence": "medium",
+        "hasMitigation": "NA. A team-building program could be planned to address this risk.",
+        "hasIdentifier": 6,
+        "hasDescription": "This risk is that the Dominos Australia pizza checker incident could lead to decreased morale for employees. This could be due to a number of factors, such as negative media coverage, calls for a boycott, or job losses. Decreased morale can have a number of negative consequences for employees, including decreased productivity, increased turnover, and difficulty attracting and retaining top talent."
+      },
+      {
+        "forOutcome": "decreased_sales_for_franchisees",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "NA. A mitigation plan could be planned to address this risk.",
+        "hasIdentifier": 7,
+        "hasDescription": "This risk is that franchisees may see a decrease in sales and revenue from their stores due to the negative publicity surrounding the Dominos Australia pizza checker incident. This could lead to financial difficulties for the franchisees."
+      }
+    ]   
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/virginia-non-violent-risk-assessment",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Person being assessed",
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "fromPerspectiveOf": "The person being assessed, the person's family, or the criminal justice system",
+        "hasImportance": "high importance",
+        "intendedImpact": "To reduce the risk of the person committing a violent crime",
+        "hasIndicator": "The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder",
+        "hasImpactReport": "identifies the set of ImpactReport that report on the results pertaining to each Outcome",
+        "org:hasName": "Whether the person is at risk of committing a violent crime",
+        "org:hasDescription": "The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime"
+      },
+      {
+        "forStakeholder": "Criminal justice system",
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "fromPerspectiveOf": "The criminal justice system",
+        "hasImportance": "high importance",
+        "intendedImpact": "To make more informed decisions about the person's risk of committing a violent crime",
+        "hasIndicator": "The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder",
+        "hasImpactReport": "identifies the set of ImpactReport that report on the results pertaining to each Outcome",
+        "org:hasName": "Whether the person is at risk of committing a violent crime",
+        "org:hasDescription": "The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime"
+      },
+      {
+        "forStakeholder": "Family of the person being assessed",
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "fromPerspectiveOf": "The family of the person being assessed",
+        "hasImportance": "high importance",
+        "intendedImpact": "To help the family understand the person's risk of committing a violent crime",
+        "hasIndicator": "The set of Indicators the Organization assigns to the Outcome but are specific to this Stakeholder",
+        "hasImpactReport": "identifies the set of ImpactReport that report on the results pertaining to each Outcome",
+        "org:hasName": "Whether the person is at risk of committing a violent crime",
+        "org:hasDescription": "The impact of the Virginia Non-Violent Risk Assessment on whether the person is at risk of committing a violent crime"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Person being assessed",
+        "hasDescription": "A person who is being assessed by the Virginia Non-Violent Risk Assessment",
+        "hasCatchmentArea": "The state of Virginia",
+        "hasStakeholderCharacteristic": "The person's age, gender, and criminal history",
+        "performs": "Being assessed by the Virginia Non-Violent Risk Assessment",
+        "i72:located_in": "The state of Virginia",
+        "oep:part of": "The Virginia Non-Violent Risk Assessment"
+      },
+      {
+        "hasName (title)": "Criminal justice system",
+        "hasDescription": "The criminal justice system in the state of Virginia",
+        "hasCatchmentArea": "The state of Virginia",
+        "hasStakeholderCharacteristic": "The criminal justice system's policies and procedures",
+        "performs": "Making decisions about the person's risk of committing a violent crime",
+        "i72:located_in": "The state of Virginia",
+        "oep:part of": "The Virginia Non-Violent Risk Assessment"
+      },
+      {
+        "hasName (title)": "Family of the person being assessed",
+        "hasDescription": "The family of the person being assessed",
+        "hasCatchmentArea": "The state of Virginia",
+        "hasStakeholderCharacteristic": "The family's relationship to the person being assessed",
+        "performs": "Supporting the person being assessed",
+        "i72:located_in": "The state of Virginia",
+        "oep:part of": "The Virginia Non-Violent Risk Assessment"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "hasLikelihood": "Moderate",
+        "hasConsequence": "Moderate",
+        "hasMitigation": "The Virginia Non-Violent Risk Assessment is regularly reviewed and updated to mitigate the risk of bias",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that the Virginia Non-Violent Risk Assessment is biased against certain groups of people"
+      },
+      {
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "hasLikelihood": "High",
+        "hasConsequence": "High",
+        "hasMitigation": "The Virginia Non-Violent Risk Assessment is not a perfect tool, and there is always the possibility that it will make an incorrect assessment",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that the Virginia Non-Violent Risk Assessment is not accurate in predicting whether a person will commit a violent crime"
+      },
+      {
+        "forOutcome": "Whether the person is at risk of committing a violent crime",
+        "hasLikelihood": "Low",
+        "hasConsequence": "Low",
+        "hasMitigation": "The Virginia Non-Violent Risk Assessment is designed to be fair to all stakeholders, and there is no evidence to suggest that it is unfair to any particular group",
+        "hasIdentifier": "3",
+        "hasDescription": "The risk that the Virginia Non-Violent Risk Assessment is not fair to all stakeholders"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-chemical-food-preservative-suicides",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Family of suicide victim",
+        "forOutcome": "Mental health of family members",
+        "fromPerspectiveOf": "The family of the suicide victim",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of family members of suicide victims who have experienced mental health problems",
+        "hasImpactReport": "The National Suicide Prevention Lifeline's report on the impact of suicide on families",
+        "org:hasName": "Impact of Amazon chemical food preservative suicides on family members",
+        "org:hasDescription": "The impact of Amazon chemical food preservative suicides on family members"
+      },
+      {
+        "forStakeholder": "Amazon employees",
+        "forOutcome": "Mental health of Amazon employees",
+        "fromPerspectiveOf": "The Amazon employees",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Amazon employees who have experienced mental health problems",
+        "hasImpactReport": "The American Foundation for Suicide Prevention's report on the impact of suicide on the workplace",
+        "org:hasName": "Impact of Amazon chemical food preservative suicides on Amazon employees",
+        "org:hasDescription": "The impact of Amazon chemical food preservative suicides on Amazon employees"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Family of suicide victim",
+        "hasDescription": "The family of a suicide victim who died after consuming food that had been preserved with a chemical that was later found to be toxic",
+        "hasCatchmentArea": "National",
+        "hasStakeholderCharacteristic": "The family members are experiencing mental health problems",
+        "performs": "Seeking support from mental health professionals",
+        "i72:located_in": "United States",
+        "oep:part of": "The Amazon chemical food preservative suicides incident"
+      },
+      {
+        "hasName (title)": "Amazon employee",
+        "hasDescription": "An Amazon employee who is experiencing mental health problems after learning that a chemical that was used to preserve food at Amazon warehouses was later found to be toxic",
+        "hasCatchmentArea": "National",
+        "hasStakeholderCharacteristic": "The employee is experiencing anxiety and depression",
+        "performs": "Seeking support from mental health professionals",
+        "i72:located_in": "United States",
+        "oep:part of": "The Amazon chemical food preservative suicides incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Mental health of family members",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Amazon could provide more support to the families of suicide victims",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that the mental health of family members of suicide victims will be negatively impacted by the Amazon chemical food preservative suicides"
+      },
+      {
+        "forOutcome": "Mental health of Amazon employees",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Amazon could provide more support to employees who are experiencing mental health problems",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that the mental health of Amazon employees will be negatively impacted by the Amazon chemical food preservative suicides"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Women",
+        "forOutcome": "Financial well-being",
+        "fromPerspectiveOf": "Women",
+        "hasImportance": "high importance",
+        "isUnderserved": true,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of women who are denied Apple Card credit",
+        "hasImpactReport": "The New York Times' report on the Apple Card gender bias",
+        "org:hasName": "Impact of Apple Card gender bias on women",
+        "org:hasDescription": "The impact of Apple Card gender bias on women"
+      },
+      {
+        "forStakeholder": "Apple",
+        "forOutcome": "Reputation",
+        "fromPerspectiveOf": "Apple",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of people who are aware of the Apple Card gender bias",
+        "hasImpactReport": "The New York Times' report on the Apple Card gender bias",
+        "org:hasName": "Impact of Apple Card gender bias on Apple",
+        "org:hasDescription": "The impact of Apple Card gender bias on Apple"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Women",
+        "hasDescription": "Women who have been denied Apple Card credit",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Women are more likely to be denied Apple Card credit than men",
+        "performs": "Applying for Apple Card credit",
+        "i72:located_in": "Global",
+        "oep:part of": "The Apple Card gender bias incident"
+      },
+      {
+        "hasName (title)": "Apple",
+        "hasDescription": "Apple, the company that issued the Apple Card",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Apple is a large technology company with a global reach",
+        "performs": "Issuing the Apple Card",
+        "i72:located_in": "Cupertino, California",
+        "oep:part of": "The Apple Card gender bias incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Financial well-being of women",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Apple could change the way it calculates credit scores",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that women will be disproportionately harmed by the Apple Card gender bias"
+      },
+      {
+        "forOutcome": "Reputation of Apple",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Apple could apologize for the Apple Card gender bias and take steps to address it",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that Apple's reputation will be damaged by the Apple Card gender bias"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-flex-delivery-driver-routing-safety",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Amazon Flex delivery drivers",
+        "forOutcome": "Safety",
+        "fromPerspectiveOf": "Amazon Flex delivery drivers",
+        "hasImportance": "high importance",
+        "isUnderserved": true,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Amazon Flex delivery drivers who are injured or killed in accidents",
+        "hasImpactReport": "The New York Times' report on the Amazon Flex delivery driver routing safety",
+        "org:hasName": "Impact of Amazon Flex delivery driver routing safety on Amazon Flex delivery drivers",
+        "org:hasDescription": "The impact of Amazon Flex delivery driver routing safety on Amazon Flex delivery drivers"
+      },
+      {
+        "forStakeholder": "Customers",
+        "forOutcome": "Delivery reliability",
+        "fromPerspectiveOf": "Customers",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Amazon Flex deliveries that are late or not delivered",
+        "hasImpactReport": "The New York Times' report on the Amazon Flex delivery driver routing safety",
+        "org:hasName": "Impact of Amazon Flex delivery driver routing safety on customers",
+        "org:hasDescription": "The impact of Amazon Flex delivery driver routing safety on customers"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Amazon Flex delivery drivers",
+        "hasDescription": "Amazon Flex delivery drivers who are assigned routes that are too long or dangerous",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Amazon Flex delivery drivers are often paid by the delivery, so they are incentivized to take on risky routes",
+        "performs": "Delivering packages for Amazon Flex",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Amazon Flex delivery driver routing safety incident"
+      },
+      {
+        "hasName (title)": "Customers",
+        "hasDescription": "Customers who order packages from Amazon and expect them to be delivered on time and safely",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Customers are often reliant on Amazon Flex delivery drivers to deliver their packages",
+        "performs": "Ordering packages from Amazon",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Amazon Flex delivery driver routing safety incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Safety of Amazon Flex delivery drivers",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Amazon could improve its routing algorithm to take into account safety risks",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that Amazon Flex delivery drivers will be injured or killed in accidents due to unsafe routing"
+      },
+      {
+        "forOutcome": "Delivery reliability for customers",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Amazon could improve its routing algorithm to take into account delivery reliability",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that Amazon Flex deliveries will be late or not delivered due to unsafe routing"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teleperformancetp-observer-employee-monitoring",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Teleperformance employees",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "Teleperformance employees",
+        "hasImportance": "high importance",
+        "isUnderserved": true,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Teleperformance employees who feel that their privacy has been violated by the TP-Observer software",
+        "hasImpactReport": "The New York Times' report on the Teleperformance TP-Observer employee monitoring",
+        "org:hasName": "Impact of Teleperformance TP-Observer employee monitoring on Teleperformance employees",
+        "org:hasDescription": "The impact of Teleperformance TP-Observer employee monitoring on Teleperformance employees"
+      },
+      {
+        "forStakeholder": "Customers of Teleperformance",
+        "forOutcome": "Trust",
+        "fromPerspectiveOf": "Customers of Teleperformance",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of customers of Teleperformance who feel that their trust has been eroded by the TP-Observer software",
+        "hasImpactReport": "The New York Times' report on the Teleperformance TP-Observer employee monitoring",
+        "org:hasName": "Impact of Teleperformance TP-Observer employee monitoring on customers of Teleperformance",
+        "org:hasDescription": "The impact of Teleperformance TP-Observer employee monitoring on customers of Teleperformance"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Teleperformance employees",
+        "hasDescription": "Teleperformance employees who are monitored by the TP-Observer software",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Teleperformance employees are often paid by the hour, so they are incentivized to avoid being monitored",
+        "performs": "Working for Teleperformance",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Teleperformance TP-Observer employee monitoring incident"
+      },
+      {
+        "hasName (title)": "Customers of Teleperformance",
+        "hasDescription": "Customers of Teleperformance who interact with employees who are monitored by the TP-Observer software",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Customers of Teleperformance often rely on the company to provide them with accurate and timely information",
+        "performs": "Using the services of Teleperformance",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Teleperformance TP-Observer employee monitoring incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Privacy of Teleperformance employees",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Teleperformance could implement stricter controls over the use of the TP-Observer software",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that Teleperformance employees will have their privacy violated by the TP-Observer software"
+      },
+      {
+        "forOutcome": "Trust of customers of Teleperformance",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Teleperformance could provide more transparency about the use of the TP-Observer software",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that customers of Teleperformance will lose trust in the company due to the TP-Observer software"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Rite Aid customers",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "Rite Aid customers",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Rite Aid customers who feel that their privacy has been violated by the facial recognition software",
+        "hasImpactReport": "The New York Times' report on the Rite Aid facial recognition",
+        "org:hasName": "Impact of Rite Aid facial recognition on Rite Aid customers",
+        "org:hasDescription": "The impact of Rite Aid facial recognition on Rite Aid customers"
+      },
+      {
+        "forStakeholder": "Rite Aid employees",
+        "forOutcome": "Job security",
+        "fromPerspectiveOf": "Rite Aid employees",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of Rite Aid employees who feel that their jobs are at risk due to the facial recognition software",
+        "hasImpactReport": "The New York Times' report on the Rite Aid facial recognition",
+        "org:hasName": "Impact of Rite Aid facial recognition on Rite Aid employees",
+        "org:hasDescription": "The impact of Rite Aid facial recognition on Rite Aid employees"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Rite Aid customers",
+        "hasDescription": "Rite Aid customers who are scanned by the facial recognition software",
+        "hasCatchmentArea": "United States",
+        "hasStakeholderCharacteristic": "Rite Aid customers are often concerned about their privacy",
+        "performs": "Shopping at Rite Aid",
+        "i72:located_in": "United States",
+        "oep:partOf": "The Rite Aid facial recognition incident"
+      },
+      {
+        "hasName (title)": "Rite Aid employees",
+        "hasDescription": "Rite Aid employees who are scanned by the facial recognition software",
+        "hasCatchmentArea": "United States",
+        "hasStakeholderCharacteristic": "Rite Aid employees are often concerned about their job security",
+        "performs": "Working at Rite Aid",
+        "i72:located_in": "United States",
+        "oep:partOf": "The Rite Aid facial recognition incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Privacy of Rite Aid customers",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Rite Aid could implement stricter controls over the use of the facial recognition software",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that Rite Aid customers will have their privacy violated by the facial recognition software"
+      },
+      {
+        "forOutcome": "Job security of Rite Aid employees",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Rite Aid could provide more transparency about the use of the facial recognition software",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that Rite Aid employees will lose their jobs due to the facial recognition software"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "MoviePass users",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "MoviePass users",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of MoviePass users who feel that their privacy has been violated by the eye-tracking software",
+        "hasImpactReport": "The New York Times' report on the MoviePass preshow eye-tracking",
+        "org:hasName": "Impact of MoviePass preshow eye-tracking on MoviePass users",
+        "org:hasDescription": "The impact of MoviePass preshow eye-tracking on MoviePass users"
+      },
+      {
+        "forStakeholder": "MoviePass employees",
+        "forOutcome": "Job security",
+        "fromPerspectiveOf": "MoviePass employees",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of MoviePass employees who feel that their jobs are at risk due to the eye-tracking software",
+        "hasImpactReport": "The New York Times' report on the MoviePass preshow eye-tracking",
+        "org:hasName": "Impact of MoviePass preshow eye-tracking on MoviePass employees",
+        "org:hasDescription": "The impact of MoviePass preshow eye-tracking on MoviePass employees"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "MoviePass users",
+        "hasDescription": "MoviePass users who are scanned by the eye-tracking software",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "MoviePass users are often concerned about their privacy",
+        "performs": "Watching movies at MoviePass-participating theaters",
+        "i72:located_in": "Global",
+        "oep:partOf": "The MoviePass preshow eye-tracking incident"
+      },
+      {
+        "hasName (title)": "MoviePass employees",
+        "hasDescription": "MoviePass employees who are responsible for implementing and maintaining the eye-tracking software",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "MoviePass employees are often concerned about their job security",
+        "performs": "Working at MoviePass",
+        "i72:located_in": "Global",
+        "oep:partOf": "The MoviePass preshow eye-tracking incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Privacy of MoviePass users",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "MoviePass could implement stricter controls over the use of the eye-tracking software",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that MoviePass users will have their privacy violated by the eye-tracking software"
+      },
+      {
+        "forOutcome": "Job security of MoviePass employees",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "MoviePass could provide more transparency about the use of the eye-tracking software",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that MoviePass employees will lose their jobs due to the eye-tracking software"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Hollie Mengert",
+        "forOutcome": "Intellectual property",
+        "fromPerspectiveOf": "Hollie Mengert",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of times Hollie Mengert's artwork is used without her permission",
+        "hasImpactReport": "The New York Times' report on the Hollie Mengert AI model incident",
+        "org:hasName": "Impact of Hollie Mengert AI model on Hollie Mengert",
+        "org:hasDescription": "The impact of the Hollie Mengert AI model on Hollie Mengert"
+      },
+      {
+        "forStakeholder": "Art community",
+        "forOutcome": "Creativity",
+        "fromPerspectiveOf": "Art community",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of artists who feel that their creativity is being threatened by AI",
+        "hasImpactReport": "The New York Times' report on the Hollie Mengert AI model incident",
+        "org:hasName": "Impact of Hollie Mengert AI model on art community",
+        "org:hasDescription": "The impact of the Hollie Mengert AI model on the art community"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Hollie Mengert",
+        "hasDescription": "Hollie Mengert, the illustrator whose artwork was used to create the AI model",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Hollie Mengert is a professional illustrator who is concerned about the unauthorized use of her artwork",
+        "performs": "Creating illustrations",
+        "i72:located_in": "United States",
+        "oep:partOf": "The Hollie Mengert AI model incident"
+      },
+      {
+        "hasName (title)": "Art community",
+        "hasDescription": "The art community, which is concerned about the impact of AI on creativity",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "The art community is a group of people who are passionate about art and are concerned about the potential impact of AI on their industry",
+        "performs": "Creating and appreciating art",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Hollie Mengert AI model incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Intellectual property of Hollie Mengert",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "Hollie Mengert could copyright her artwork",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that Hollie Mengert's artwork will be used without her permission"
+      },
+      {
+        "forOutcome": "Creativity of art community",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "The art community could work with AI developers to ensure that AI is used in a way that is beneficial to creativity",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that AI will stifle creativity in the art community"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-nhs-digital-medical-history-database",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Patients",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "Patients",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of patients who feel that their privacy has been violated by the digital medical history database",
+        "hasImpactReport": "The Guardian's report on the UK NHS digital medical history database",
+        "org:hasName": "Impact of UK NHS digital medical history database on patients",
+        "org:hasDescription": "The impact of the UK NHS digital medical history database on patients"
+      },
+      {
+        "forStakeholder": "NHS staff",
+        "forOutcome": "Job security",
+        "fromPerspectiveOf": "NHS staff",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of NHS staff who feel that their jobs are at risk due to the digital medical history database",
+        "hasImpactReport": "The Guardian's report on the UK NHS digital medical history database",
+        "org:hasName": "Impact of UK NHS digital medical history database on NHS staff",
+        "org:hasDescription": "The impact of the UK NHS digital medical history database on NHS staff"
+      },
+      {
+        "forStakeholder": "Public health",
+        "forOutcome": "Healthcare",
+        "fromPerspectiveOf": "Public health",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of people who are denied access to healthcare due to the digital medical history database",
+        "hasImpactReport": "The Guardian's report on the UK NHS digital medical history database",
+        "org:hasName": "Impact of UK NHS digital medical history database on public health",
+        "org:hasDescription": "The impact of the UK NHS digital medical history database on public health"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Patients",
+        "hasDescription": "Patients who use the UK NHS digital medical history database",
+        "hasCatchmentArea": "United Kingdom",
+        "hasStakeholderCharacteristic": "Patients are concerned about the privacy of their medical records",
+        "performs": "Seeking medical care",
+        "i72:located_in": "United Kingdom",
+        "oep:partOf": "The UK NHS digital medical history database incident"
+      },
+      {
+        "hasName (title)": "NHS staff",
+        "hasDescription": "NHS staff who use the UK NHS digital medical history database",
+        "hasCatchmentArea": "United Kingdom",
+        "hasStakeholderCharacteristic": "NHS staff are concerned about the impact of the digital medical history database on their jobs",
+        "performs": "Providing medical care",
+        "i72:located_in": "United Kingdom",
+        "oep:partOf": "The UK NHS digital medical history database incident"
+      },
+      {
+        "hasName (title)": "Public health",
+        "hasDescription": "Public health organizations that are responsible for ensuring that everyone has access to healthcare",
+        "hasCatchmentArea": "United Kingdom",
+        "hasStakeholderCharacteristic": "Public health organizations are concerned about the impact of the digital medical history database on access to healthcare",
+        "performs": "Providing healthcare",
+        "i72:located_in": "United Kingdom",
+        "oep:partOf": "The UK NHS digital medical history database incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Privacy of patients",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "The NHS could implement stronger security measures to protect patient data",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that patient data will be accessed by unauthorized individuals"
+      },
+      {
+        "forOutcome": "Job security of NHS staff",
+        "hasLikelihood": "medium",
+        "hasConsequence": "medium",
+        "hasMitigation": "The NHS could provide training to NHS staff on how to use the digital medical history database",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that NHS staff will lose their jobs due to the digital medical history database"
+      },
+      {
+        "forOutcome": "Healthcare",
+        "hasLikelihood": "low",
+        "hasConsequence": "low",
+        "hasMitigation": "The NHS could develop a plan to ensure that everyone has access to healthcare even if they are denied access to the digital medical history database",
+        "hasIdentifier": "3",
+        "hasDescription": "The risk that people will be denied access to healthcare due to the digital medical history database"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots",
+    "StakeholderOutcomes": [
+      {
+        "forStakeholder": "Public safety",
+        "forOutcome": "Safety",
+        "fromPerspectiveOf": "Public safety",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "positive",
+        "hasIndicator": "The number of crimes that are prevented by the Xavier patrol robots",
+        "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+        "org:hasName": "Impact of Singapore Xavier patrol robots on public safety",
+        "org:hasDescription": "The impact of the Singapore Xavier patrol robots on public safety"
+      },
+      {
+        "forStakeholder": "Civil liberties",
+        "forOutcome": "Privacy",
+        "fromPerspectiveOf": "Civil liberties",
+        "hasImportance": "high importance",
+        "isUnderserved": false,
+        "intendedImpact": "negative",
+        "hasIndicator": "The number of people who feel that their privacy has been violated by the Xavier patrol robots",
+        "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+        "org:hasName": "Impact of Singapore Xavier patrol robots on civil liberties",
+        "org:hasDescription": "The impact of the Singapore Xavier patrol robots on civil liberties"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "hasName (title)": "Public safety",
+        "hasDescription": "Government agencies responsible for public safety",
+        "hasCatchmentArea": "Singapore",
+        "hasStakeholderCharacteristic": "Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime",
+        "performs": "Enforcing the law",
+        "i72:located_in": "Singapore",
+        "oep:partOf": "The Singapore Xavier patrol robots incident"
+      },
+      {
+        "hasName (title)": "Civil liberties",
+        "hasDescription": "Organizations that are concerned about the protection of civil liberties",
+        "hasCatchmentArea": "Global",
+        "hasStakeholderCharacteristic": "Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy",
+        "performs": "Advocating for civil liberties",
+        "i72:located_in": "Global",
+        "oep:partOf": "The Singapore Xavier patrol robots incident"
+      }
+    ],
+    "ImpactRisks": [
+      {
+        "forOutcome": "Safety of public",
+        "hasLikelihood": "medium",
+        "hasConsequence": "high",
+        "hasMitigation": "The Xavier patrol robots could be hacked and used to harm people",
+        "hasIdentifier": "1",
+        "hasDescription": "The risk that the Xavier patrol robots will be used to harm people"
+      },
+      {
+        "forOutcome": "Privacy of citizens",
+        "hasLikelihood": "high",
+        "hasConsequence": "high",
+        "hasMitigation": "The Xavier patrol robots could be used to collect data on citizens without their consent",
+        "hasIdentifier": "2",
+        "hasDescription": "The risk that the Xavier patrol robots will be used to collect data on citizens without their consent"
+      }
+    ]
+  }
+]

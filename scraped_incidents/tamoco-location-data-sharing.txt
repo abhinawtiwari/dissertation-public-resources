@@ -1,0 +1,845 @@
+- Occurred: May 2020
+- Can you improve this page?Share your insights with us
+- Norwegian broadcaster NRK has revealed that UK location data broker Tamoco has been selling large volumes of personally identifiable data. NRK had bought raw location data for 140,000 mobile devices for GBP 3,000, enabling the broadcaster to identify individuals and track military personnel.
+- Norwegian data protection authority Datatilsynet subsequently condemned the sale of Norwegians' location data, and alerted other EU data protection authorities, including the UK Information Commissioner's Office ('ICO').
+- The ICO subsequently announced its own investigation into Tamoco. According to the BBC, the ICO reprimanded Tamoco in October 2021 for 'failing to provide sufficient privacy information to UK citizens'.
+- Operator: Tamoco Developer: Tamoco Country: Norway, UKSector: TechnologyPurpose: Assess & enhance location data Technology: Location tracking Issue: Privacy Transparency: Governance; Privacy
+URL: https://www.tamoco.com/blog/tamocos-full-response-to-questions-on-articles-published-in-nrk/
+- Last Updated on October 19, 2021 by James Ewen
+- In recent weeks, Norway’s state broadcaster, “NRK” has published a number of stories around a geo-location dataset they purchased from Tamoco in November 2019. NRK told us repeatedly this data would be used for urban planning – to understand the “correlation between peoples movement patterns and the public transit/urban planning developments being performed by local and national entities”. We double-checked this with NRK before selling them the data but NRK had no intention of ever using the data for this purpose.
+- Instead, this data was used to present a number of misleading claims about how we operate and to present and share opinions that present a very limited and unbalanced view of how location data is used and what Tamoco’s role is within this space. We have always been fully transparent on the industry and how we work. We were shocked that a reputable news organisation would need to use deception when we have openly discussed what we do with major media outlets many, many times. In the interests of full transparency, we have published, in full, the answers to questions we have received. Our aim is to be allow people to make up their own minds based on the full picture. Most of media reports on this – using old-school “gotcha” journalism – present only one side of the story. This is unfair to all parties – most of all viewers and readers.
+- Tamoco has been in contact with both NRK in Norway and DR in Denmark but is publishing its full, unedited response to the questions raised on these claims:
+- 
+- NRK: The Norwegian Consumer Council says that the data sold by Tamoco is “without doubt” obtained illegally due to the lack of informed consent. The organization explicitly mentions that consumers cannot know to whom their personal data is shared when consenting. How do you respond to these claims?
+- Tamoco: This isn’t true. We source data directly from app publishers, their partners, or SDK’s integrated into apps. They’re required to provide explicit consent from their users. Consents are managed by those publishers who provide assurances that they comply with relevant laws and regulations.
+- 
+- NRK: What precautions have you made to ensure that personal data is not misused?
+- Tamoco: Tamoco uses standard mobile advertising identifiers IDFA (Android) or AAID (Apple), but it’s critical to understand these DO NOT identify individuals – only a device. Identifiers can easily be changed (in phone settings), meaning they’re not fixed to an individual.
+- We vet customers carefully demanding information on where data is used. We sell data on a legitimate basis for a bonafide purpose. We do so in good faith that the buyer will respect laws and regulations. NRK was deceptive in pretending it was using our data for urban planning. When we challenged NRK over its use, it provided fake maps. In our view, NRK has breached its own code of ethics because the way Tamoco works is already widely in the public domain. NRK did not need to use deception.
+- NRK contravened the way in which the data was meant to be used, and the reality is many large anonymized datasets sold by major firms like Uber, Strava, or TomTom can be taken apart and engineered in precisely the same way.
+- 
+- NRK: Tamoco lists products and services using location data for purposes other than those mentioned in Tamoco’s privacy policy? Why are these purposes not mentioned in your privacy policy?
+- Tamoco: Although nothing requires them to match, our privacy policy is very clear:
+- “We analyze, segment, and categorize the data provided by our customers, clients, and partners for the purposes of providing accurate and relevant content and advertising across devices and to analyze the effectiveness of these advertising campaigns. The data is also used to provide relevant advertising to mobile devices.”
+- We’ve always been fully transparent. We use location data for various functions across statistical analysis, research, and machine learning on top of personalized advertising. Again, it’s important that people understand that many critical functions in our lives depend on large datasets being analyzed – such as urban planning.
+- We welcome feedback to help improve the clarity of our privacy policy and are happy to update it. To go further, we are undertaking an internal review of our policies to ensure they can be as clear as possible. For the avoidance of doubt, nothing about the way Tamoco uses the data is unusual, illegal, or unique. There are many companies, such as Foursquare, Unacast, and Fysical, that all use similar data for similar products and services.
+- In respect of this particular story, most phone users understand how location services in apps work. We agree there’s a debate to be had around whether all apps are clear on permissions, but many NRK viewers will ask why any working in the armed forces did not think twice about using apps that clearly use location data.
+- 
+- NRK: The Norwegian Data Protection Authority is opening an investigation into Tamoco. They seek to work together with the UK Data Protection Authority (ICO). What is your comment?
+- Tamoco: We’ve launched our own internal investigation into data provided to us and will comply fully with any external investigations from Norwegian or British regulators. We have also been very open with the media around what we do.
+- 
+- NRK: In response to NRK’s first article, Tobias Judin of the Norwegian Data Protection Authority described the sale of Norwegians location data as a “very severe” matter. How do you respond to this characterization?
+- Tamoco: Let’s be clear – NRK obtained data from us by deception, then decompiled and decrypted it for an illegal use. This is a very severe matter, but like any intermediary, while it’s fair to hold us to account for doing everything possible to ensure the quality of the product we sell, we sit between the party supplying data and the party using it. If the user is doing illegal things beyond our control, then it’s unfair to blame us if there are no reasonable steps we could have taken.
+- We employ our best efforts to ensure compliance with regulations as much as possible, however balanced reporting must consider the role of those parties who collect data and those who take it from us to use. NRK viewers may question why a national broadcaster used deception where it could have walked through the front door and asked questions.
+- We do take data privacy seriously, but the regulation and enforcement of these rules must be omnipresent for things to work as intended. While it makes things easier for the media, you cannot merely apply rules to one party.
+- 
+- NRK: The Minister of Regional Development and Digitalisation in Norway, Linda Hofstad Helleland, says that the sale of location data is ethically unacceptable. How do you respond to this claim?
+- Tamoco: Location data, like any other data set, has the possibility to be misused by bad actors, but has perfectly legitimate and ethically positive use cases which unfortunately go unreported by the media.
+- Dissemination, decoupling, or decryption of this data is indeed unacceptable and is not a process Tamoco has or ever will employ. NRK felt that for the purposes of their investigation, they would themselves commit an ethically unacceptable act, including breaching their own journalistic code of ethics to prove a point that no responsible company in the industry would do. NRK used deceptive tactics to obtain data for a legitimate use case they actually had no intent of pursuing. It did this to create a story around their own misuse of data and it has attempted to give the impression they were able to ‘trick’ Tamoco – a company that has spoken publicly about its business and products for several years.
+- It is also very important to distinguish between location data types. We agree that there is limited rationale for persistent and invasive tracking; receiving 10,000 location points from a phone per day is excessive and unnecessary in 98% of use cases. It is also not something that Tamoco uses. However, measuring important points in a journey such as a visit to a shop or when someone starts or stops a journey is necessary, and some would argue essential in the pursuit of building better products and services. In this regard, location data is an accurate and powerful signal for advertisers, researchers, analysts, and more as an aggregated data set. It helps with such a wide range of applications from city planning to contact tracing, advertising to analytics.
+- 
+- NRK: Based on data from Tamoco and open sources like Facebook, NRK could identify several individuals, amongst them military personnel. What do you think about that?
+- Tamoco: The data is not able to, on its own, identify any individual person, nor should it be reverse engineered or decrypted in the pursuit of this kind of use. We work with firms around the world and focus on measuring data around consumer “points of interest” such as shops, attractions, and destinations. We do not store any sensitive or restricted places in our database and thus do not measure these places, meaning that anyone who had access to the data would have to misuse it and combine it with other data sources, in order to expose any potential correlations around these locations.
+- —
+- Tamoco takes privacy concerns very seriously and is committed to working to ensure that consumers can control their data. We have launched an internal audit into our data providers and the way in which this data has been used, and will not hesitate to immediately end relationships with any providers who have failed to comply with all appropriate regulation and legislation.
+- Tamoco is happy to work with any data protection organization that has concerns about how data may be used and we welcome any recommendations to improve processes.
+- Save my name, email, and website in this browser for the next time I comment.
+- 
+- Tamoco announces new partnership with Audiens to deliver precise location-based segments in leading ad serving platforms
+- The latest in the world of Geospatial, big data, and more
+- 
+
+URL: https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/datatilsynet-ser-narmere-pa-lokasjonssporing/
+- Vis/skjul meny
+- Våre nettsider benytter noen få informasjonskapsler (cookies) til sikkerhet og analyse. I tillegg bruker vi cookies til en valgfri skjemafunksjon der vi ber om samtykke først. Les om hvilke vi bruker og hvordan vi administrerer dem i cookie-erklæringen vår.
+- Disse støtter opp under kjernefunksjonalitet knyttet til sikkerhet. Vi har vurdert disse som nødvendige, og de lagres derfor uten samtykke.
+- Dette er nødvendig å samtykke til dersom du ønsker å ta i bruk skjema på nettsidene. Den øvrige funksjonaliteten på nettsidene påvirkes ikke dersom du lar være å samtykke. Valget du tar her gjelder i inntil 90 dager.
+- Vi bruker session-cookie til statistikk. Det er en ikke-identifiserbar, tilfeldig verdi som forsvinner idet du lukker nettleseren eller etter 30 minutt.
+- Du kan trekke tilbake samtykket når som helst ved å velge «administrer cookies» nederst på våre sider.
+- NRK avslørte i helgen hvordan det britiske selskapet Tamoco selger bevegelsene til et stort antall nordmenn. Datatilsynet ser svært alvorlig på dette og følger saken videre.
+- - Personvernreglene har strenge regler for bruk av lokasjonsdata, og det er bekymringsverdig og krenkende at slike data selges fritt på denne måten. I første omgang kommer vi til å ta kontakt med det britiske datatilsynet, og vi vil også ta opp saken med andre europeiske datatilsynsmyndigheter. Dette er et grenseoverskridende problem med internasjonale aktører der myndighetene i flere land må samarbeide, sier leder for internasjonal seksjon, Tobias Judin.
+- Per nå er det ikke klart hvilke mobilapplikasjoner Tamoco får dataene sine fra. Datatilsynet anbefaler uansett alle om å gå gjennom personverninnstillingene på telefonen sin. Man bør kun dele posisjon og andre personopplysninger med apper man stoler på. Det er også lurt å sørge for at apper kun har tilgang til lokasjonsdata når de er i bruk, for å unngå kontinuerlig sporing.
+- Vi har laget veiledninger for hvordan man kan sjekke personverninnstillingene i nyeste versjon av Android og iOS (iPhone). Vær obs på at på Android-telefoner kan innstillingene se annerledes ut på din telefon avhengig av versjon og merke:
+- Veiledning for Android 10 (pdf)
+- Veiledning for iOS 13/Iphone (pdf)
+- NRK beta har også skrevet en sak om hvordan man kan gjennomgå personverninnstillingene på telefonen sin.
+- Les nettsaken «Avslørt av mobilen», publisert 9. mai på NRK.no.
+- seksjonssjef, internasjonal seksjon
+- Datatilsynet
+                        Postboks 458 Sentrum
+                        0105
+                        Oslo
+- Org.nr
+                            974 761 467
+- Kontakt oss
+- Tilgjengelighetserklæring
+- Andre nettsteder
+
+URL: https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/datatilsynene-i-norge-og-storbritannia-samarbeider-om-sporingssak/
+- Vis/skjul meny
+- Våre nettsider benytter noen få informasjonskapsler (cookies) til sikkerhet og analyse. I tillegg bruker vi cookies til en valgfri skjemafunksjon der vi ber om samtykke først. Les om hvilke vi bruker og hvordan vi administrerer dem i cookie-erklæringen vår.
+- Disse støtter opp under kjernefunksjonalitet knyttet til sikkerhet. Vi har vurdert disse som nødvendige, og de lagres derfor uten samtykke.
+- Dette er nødvendig å samtykke til dersom du ønsker å ta i bruk skjema på nettsidene. Den øvrige funksjonaliteten på nettsidene påvirkes ikke dersom du lar være å samtykke. Valget du tar her gjelder i inntil 90 dager.
+- Vi bruker session-cookie til statistikk. Det er en ikke-identifiserbar, tilfeldig verdi som forsvinner idet du lukker nettleseren eller etter 30 minutt.
+- Du kan trekke tilbake samtykket når som helst ved å velge «administrer cookies» nederst på våre sider.
+- Tidligere denne måneden avslørte NRK hvordan det britiske selskapet Tamoco selger nordmenns lokasjonsdata. Datatilsynet har diskutert videre oppfølging med kollegaer i Europa, og nå har det britiske datatilsynet bekreftet at de vil se på saken.
+- - Vi er i kontakt med det britiske datatilsynet, som har informert oss at de vil gjøre undersøkelser. Takket være personvernforordningen (GDPR) har vi et svært godt samarbeid med de andre datatilsynsmyndighetene i EØS. Dette gjør det lettere å håndheve personvernreglene på tvers av landegrensene, sier seksjonssjef for internasjonal seksjon i Datatilsynet, Tobias Judin.
+- I tillegg til å være i direkte kontakt med flere europeiske datatilsynsmyndigheter, har Datatilsynet tatt opp saken i Det europeiske personvernrådet (EDPB), der alle datatilsynsmyndighetene i EØS er medlemmer. Der har saken har vakt interesse fordi den reiser viktige problemstillinger og siden det trolig finnes flere aktører som Tamoco i Europa.
+- Datatilsynet ser nærmere på lokasjonssporing.
+- Les nettsaken «Avslørt av mobilen» (NRK.no).
+- seksjonssjef, internasjonal seksjon
+- Datatilsynet
+                        Postboks 458 Sentrum
+                        0105
+                        Oslo
+- Org.nr
+                            974 761 467
+- Kontakt oss
+- Tilgjengelighetserklæring
+- Andre nettsteder
+
+URL: https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685
+- Dette er Stavanger. Lysene du ser er
+posisjonene til flere hundre mobiltelefoner.
+- Én av mobilene tilhører Karl Bjarne Bernhardsen (30).
+- Det siste året har mobilen hans avslørt hvor han har vært stort sett hele døgnet. Denne informasjonen er til salgs.
+- Karl har ikke visst noen ting.
+- Det gjør heller ikke titusenvis av andre nordmenn.
+- 10. april 2019 er en dag Karl vil huske for alltid. Like før klokken åtte om kvelden kommer en perfekt liten gutt til verden på Stavanger universitetssykehus. Karl og samboeren Anne har blitt foreldre for første gang.
+- I dagene etter fødselen triller en stolt pappa sønnen gjennom sykehuskorridorene og korte turer ut i den milde vårlufta. Mobilen hans ligger i lomma.
+- NRK sporet Karl Bjarne Bernhardsen til Stavanger universitetssykehus. Det viste seg at han var på sykehuset fordi samboeren og han ventet sitt første barn.
+- Noen dager senere sender Karls mobil signaler til en dataserver mange hundre mil unna. Serveren mottar informasjon om 30-åringens bevegelser rundt på syke­huset.   Eieren av dataserveren er et britisk selskap med kontorer sentralt i London. De lever av å selge informasjon om hvor folk er.
+- Dette vet Karl ingenting om. Ennå.
+- Mobilen er med oss til og fra jobb, når vi henter i barne­hagen, trener, besøker noen vi er glad i på eldre­hjem og inn på soverommet om kvelden.
+- Den samler kontinuerlig informasjon om hvor vi er og hva vi liker.
+- Noen mobilapper ber om å få tilgang til mobilens posisjon. Hvis vi tillater dette, kan appen samle informasjon om hvor vi befinner oss. Slike data kalles posisjonsdata. Disse dataene er så verdifulle at de har skapt en helt ny industri. Mange som lager mobil­­apper, tjener penger på å selge posisjonsdata fra appen videre til andre selskaper.
+- Disse selskapene kalles gjerne dataforhandlere. Dataforhandlere selger posisjonsdata videre – til både kommersielle aktører, myndigheter og andre som er interessert i å vite hvor folk er.
+- Flere av selskapene som selger posisjonsdata hevder at dataene de selger er anonymiserte. De som kjøper posisjonsdata, skal altså ikke kunne klare å finne identiteten til mobileieren.  Men hvor godt anonymisert er egentlig dataene som selges? Og hvor sikre kan vi være på at de ikke havner i feil hender? Høsten 2019 begynte NRK å undersøke dette.
+- NRK spurte flere dataforhandlere om å få kjøpe posisjonsdata fra mobiler i Norge, uten at vi var åpne om at vi ville undersøke nærmere om dataene var fullstendig anonymisert. Vi skrev at vi skulle bruke dataene i et prosjekt om folks bevegelses­mønster og offentlig utbygging av kollektiv­transport.
+- Det britiske selskapet Tamoco var ett av selskapene som svarte NRK. Vi betalte selskapet 35.000 norske kroner, og fikk en omfattende oversikt som viste hvor titusenvis av nordmenn hadde beveget seg i 2019. Posisjons­dataen var fra over 140.000 unike mobil­­er og nettbrett.
+- NRK har gjentatte ganger forsøkt å stille spørsmål til Tamoco på telefon, e-post og ved å oppsøke deres kontorlokaler i London. Selskapet har ikke svart på henvendelsene. Oppdatert 3. juni: Etter publisering har Tamoco svart på NRKs henvendelser. Se saken her.
+- NRK har undersøkt en bransje som selger informasjon om nordmenns bevegelser. De samler inn din informasjon gjennom gratisapper på mobiltelefoner og nettbrett. Denne informasjonen kalles posisjonsdata.
+- Posisjonsdataene kommer fra mobilens GPS-mottaker, og beskriver i detalj hvor telefonen har vært til enhver tid. Disse dataene omsettes og selges i store mengder av mange internasjonale selskaper.
+- Forbrukerrådet har tidligere dokumentert at denne typen datainnsamling kan være i strid med norsk og europeisk personvernslov (GDPR).
+- I oktober 2019 sendte NRK henvendelser til 27 selskaper som driver med innsamling og salg av posisjonsdata. Under påskudd av å jobbe med et journalistisk prosjekt om byplanlegging, ba vi om å kjøpe posisjonsdata for hele Norge i 2019.
+- En rekke selskaper svarte at de ikke solgte slik posisjonsdata i Europa på grunn av GDPR-lovgivningen. Noen av dem svarte positivt.
+- Flere av disse selskapene hevdet at dataene de selger er anonymiserte.
+- For å undersøke om dette stemmer kjøpte NRK en database det fra det britiske selskapet Tamoco.
+- NRK klarte å identifisere en rekke personer med utgangspunkt i det som skulle være anonymiserte data.
+- NRK har forelagt Tamoco påstander fra personvernseksperter som hevder at selskapet opererer i strid med loven. Til tross for gjentatte forsøk har det ikke lykkes NRK å få Tamoco til å svare på kritikken mot selskapet.
+- Oppdatert 3. juni: Etter publisering har Tamoco svart på NRKs henvendelser. Les intervju med selskapet her.
+- Alle moderne mobiltelefoner har en GPS-mottaker, som ved hjelp av satellitt kan spore telefonens eksakte posisjon med bare noen meters avstand.
+- Posisjons­dataene NRK kjøpte bestod av en tabell med fire hundre millioner kartkoordinater fra mobiler i Norge. Et tall i tabellen førte oss på sporet av Karl Bjarne Bernhardsen.
+- Ville det være mulig for oss å finne identiteten til en mobileier ved å se hvor telefonen hadde vært, i kombinasjon med noen enkle nettsøk?
+- 
+- Vi valgte ut en tilfeldig mobil fra datasettet.
+- Disse punktene viser noen av bevegelsene til mobilen gjennom store deler av 2019.
+- Vi tok en nærmere kikk på stedene hvor mobilen hadde vært registrert mange ganger.
+- Vi så tydelig at personen var på denne adressen om natta. Kunne det være hjemmet til vedkommende?
+- I ukedagene kjørte vedkommende hit om morgenen. Kanskje jobbet personen her?
+- Av og til var personen innom denne adressen. Det så ut til at vedkommende besøkte noen.
+- NRK søkte opp adressen hvor mobilen hadde etterlatt seg mange punkter om nettene. Søket viste at en mann og en kvinne bodde i huset.
+- Deretter søkte vi opp Facebook-profilene deres. Det var flere bilder av de to smilende sammen. Det virket som om de var kjærester. På mannens Facebook-profil stod det at han jobbet i et logistikkfirma.
+- Da vi søkte opp det aktuelle firmaet oppdaget vi at det lå på samme sted som personen pleide å kjøre til om morgenen.
+- Dermed hadde vi klart å spore personen som eide mobilen, selv om dataene ifølge Tamoco skulle vært anonymiserte.
+- Mannen bak de oransje punktene heter Karl Bjarne Bernhardsen og er 30 år gammel.
+- Hva mer kunne vi finne ut om Karls liv?
+- Mobilen til Karl har samlet informasjon om hvor han har vært gjennom store deler av 2019. Informasjonen var til salgs.
+- Karls mobil hadde ofte vært på en tredje adresse. Det var hjemmet til foreldrene hans.
+- I mer enn 200 dager i fjor røpet en eller flere apper på Karls mobil hvor han var – noen ganger så ofte som minutt for minutt.
+- Da vi sjekket bevegelsene hans i mai, så vi at han gjorde noe utenom det vanlige i lunsjen.
+- Som vanlig begynte dagen med at han stod opp rundt klokken seks.
+- Deretter kjørte han til jobb. Vi kan ikke se akkurat når han kjørte, men tidligere hadde vi sett at han pleide å ta denne ruta til jobben.
+- Neste gang mobilen avslørte posisjonen hans, var utenfor jobben. Så forflyttet han seg raskt vestover. Tempoet tilsa at han kjørte bil.
+- Han kjørte til et industriområde i Risavika Havnering.
+- Karl kjørte først hit, men snudde etter få minutter.
+- Til slutt fant han frem og parkerte bilen.
+- Han var i dette bygget, og beveget seg litt rundt på området. Her var han i omtrent en time.
+- Så kjørte han tilbake til jobben.
+- Bare noen få personer visste at Karl var i Risavika på grunn av et jobb­intervju.  I datamaterialet så vi at han to uker senere endret kjørerute om morgenen. Han begynte å kjøre til Risavika Havnering, der han hadde fått seg ny jobb.
+- Karl er bare én av titusenvis av nordmenn som har blitt sporet av apper på mobilen. NRK har identifisert en rekke andre nordmenn i data­settet vi kjøpte.
+- NRK ringer Karl og forteller at han har blitt sporet av mobilen sin. 30-åringen virker overrasket og litt paff, men sier ja til å møte oss for å få vite mer. Vi finner et tidspunkt som passer.  – Du trenger kanskje ikke adressen min? sier han.
+- Januar i år tar 30-åringen imot oss hjemme i rekkehuset der han bor. Hjemmet ligger skjermet til, i et boligstrøk utenfor Stavanger sentrum.  Karl skal få se hva vi har funnet ut om han. Han er tydelig spent. Vi setter oss ved kjøkken­bordet. Så viser vi ham mange av stedene han har etterlatt seg spor.
+- NRKs reporter Trude Furuly viser Karl noen av stedene han har blitt sporet til i fjor.
+- – Hva hvis kriminelle hadde fått tilgang til dette, eller jeg hadde vært en rik person?
+- 30-åringen synes det er ubehagelig å få vite hvor detaljert han har blitt sporet.
+- – I feil hender kan det bli misbrukt av hvem som helst. Dette er noe vi bør bli beskyttet mot av staten, sier Karl.
+- Noe av det mest ubehagelige for Karl, er at han også har blitt sporet på sykehus da sønnen ble født og da han var på ferie med familien. En helg i juni leide familien hytte i Mandal. Karls foreldre, søsken, nieser, nevøer og Anne og sønnen var med.
+- Lørdagen dro de til Dyreparken i Kristiansand. NRK har bedre oversikt over hva han gjorde den dagen, enn han selv kan huske i dag.
+- Dyreparken i Kristiansand
+- Dette er det første stedet NRK finner spor etter Karl inne i Dyreparken – utenfor Soko mat.
+- Litt senere så familien på apekatter i «Jungelen». Karl tok dette bildet, som NRK har fått i ettertid.
+- Familien gikk rundt i området «Båtbasaren» der det selges is og kioskvarer.
+- Rundt sju minutter senere gikk de videre mot Kjuttaviga. Her pleier Kaptein Sabeltann å ha store show, men familien så ikke noen forestilling denne dagen.
+- De stoppet utenfor Laumanns lager, en av dyreparkens største souvenirbutikker. Her var de i rundt et kvarter, før de gikk videre.
+- En time senere var familien her, i «Nordisk villmark». De så på gauper, jerv, ulv, rev og elg.
+- Til slutt gikk familien til bilen. Kort tid senere satte de kurs mot hytta.
+- – Dere vet jo mer enn meg. Jeg husker ikke alt dette. Dere har alt på pc-en. Det er ganske sykt, sier Karl.   Så stiller 30-åringen to spørsmål.  – Hva blir informasjonen brukt til? Og setter de noen grenser for hvem som får den?
+- NRKbeta undersøker en bransje som sporer dine bevegelser gjennom apper på mobiltelefonen. Vet du noe om mobilsporing eller bransjen? Ta kontakt med oss på telefon eller Signal (+47 47756515) eller NRKs krypterte tipstjeneste.
+- De siste årene har selskapers salg av posisjons­data fått mer oppmerksomhet. Både The New York Times og svenske Dagens Nyheter har skrevet om hvor lett det er å spore og finne enkelt­personer med posisjons­data.
+- NRKs funn viser hvordan også nordmenns posisjonsdata selges på det åpne markedet.
+- Forbrukerrådet reagerer kraftig på NRKs avsløring.
+- – Det er helt utvilsomt ulovlig, og ikke i tråd med personvernlovgivningen, verken i Norge eller i Europa, sier direktør Inger Lise Blyverket i Forbruker­rådet.  Hun mener det er nærmest umulig for forbrukere å vite hvor deres personlige data havner når de laster ned apper og godtar brukervilkårene.
+- – Dette er selskaper som ingen av oss kjenner og som har en forretnings­modell som på ulovlig vis sammen­stiller informasjon om oss, og sprer det videre uten at verken selskapene eller forbrukerne har kontroll, sier Blyverket.
+- I 2018 trådte en ny og strengere personvernlov (GDPR) i kraft for Norge og Europa. For at selskaper lovlig skal kunne lagre person­opplysninger som navn, telefon­nummer, og hvor noen oppholder seg, må de ha en god grunn som er grundig dokumentert. Dette kalles behandlings­grunnlag.   Har ikke selskapene et godt nok behandlings­grunnlag risikerer de å få store bøter.
+- Bak denne døra i Holborn i det sentrale London, holder selskapet Tamoco til. På sin hjemmeside skriver de at gjør data tilgjengelig for alle.
+- Tamoco ble opprettet i 2012, og oppgir at de tilbyr data til finans- og investeringsformål, markedsføring og byutvikling. Tamoco skriver på sin hjemmeside at de «gjør presise data tilgjengelig for alle».
+- NRK har gjort Tamoco kjent med den konkrete kritikken mot selskapet, og bedt dem kommentere den.
+- Tidlig i prosessen hadde NRK hyppig dialog via telefon og e-post med representanter fra selskapet. Etter at NRK opplyste om at vi jobbet med en kritisk sak om selskapets håndtering av data, har de ikke besvart våre spørsmål og gjentatte henvendelser om intervju.
+- Oppdatert 3. juni: Etter publisering har Tamoco svart på NRKs henvendelser. Se saken her.
+- Det er umulig å anslå nøyaktig hvor mange nordmenn som spores av apper. Det er også vanskelig som forbruker å vite hvilke apper som deler data videre. Noen data­forhandlere oppgir at de deler posisjons­data med hverandre, og flere selskaper kan også motta data fra én og samme app.  Inger Lise Blyverket mener flere av selskapene opererer i strid med loven.
+- – Ingen av oss vet hva disse opplysningene brukes til, og hvem de selges til. Når så mye data selges om oss uten kontroll, så vet vi heller ikke hvor de ender, sier hun.
+- – Dette er alvorlig og uakseptabelt, sier Inger Lise Blyverket i Forbrukerrådet.
+- Blyverket mener historien om Karl viser hva slike data kan brukes til, og at mange ikke er klar over at apper de laster ned deler person­data videre.
+- 
+- – Jeg tror mange blir lurt inn i noe de ikke kan se konsekvensene av, sier Blyverket.
+- Tilbake til Stavanger. Karl sier at han blir sint av å tenke på at posisjonsdata som den vi har om han er til salgs.  – Jeg blir forbanna, egentlig. Det er smålig at de kan strekke seg så langt og dra strikken for hva som er etisk og uetisk, sier 30-åringen.
+- NRK har gjennomgått Karls mobilapper, men har ikke kunnet fastslå med sikkerhet hvilken av appene som har delt data om ham.
+- Data fra Karls mobil viste at han ofte besøkte denne adressen, foreldrenes hus i Stavanger.
+- Karl frykter først og fremst konsekvensene sporing kan få for andre enn ham selv.
+- – Folk er vanemennesker, og beveger seg på mange av de samme plassene. Det er skummelt hvor godt kartlagt folk kan bli.
+- Han håper flere blir bevisste på at salg av posisjonsdata foregår.
+- – Jeg håper politikere tar det opp og at folk blir klar over at det skjer, slik at de kan ta sine forholds­regler og kun ha apper med premisser som passer dem.
+- Selv sier 30-åringen at han skal ta en runde på hvilke apper han har på telefonen.
+- – Jeg kommer til å slette en del apper. Alle unntatt de mest nødvendige, sier Karl.
+- I oversiktsgrafikken har NRK justert datapunktene for å gjøre dem mindre identifiserbare.
+- Oppdatert 3. juni: Saken er oppdatert med en henvisning til et intervju med Tamoco.
+- Bidragsytere:
+- Research og presentasjon: Øyvind Bye Skille, Ståle Grut, Ingeborg Rygh Hjorthen, Øyvind Rønning Nyborg, Mari Grafsrønningen, Harald K. Jansson Foto: Eskil Wie Furunes/NRK, Dyreparken i Kristiansand, NTB Scanpix Flyfoto: Kartverket, Norge i bilder Dronefoto i intro: Arild Eskeland/NRK
+- Runa Lillegård var på full fart mot en strålende fotballkarriere. I dag klarer hun omtrent ikke fungere i hverdagen.
+- DRANGEDAL (NRK): Lukk opp din hjertedør for en elsket og utskjelt lastebilsjåfør.
+- Magdalena Andersson snudde det alliansefrie skipet og fant veien mot Nato for Sverige. Men siden har det dukket opp en rekke skjær i sjøen.
+- Den som mener seg rammet av urettmessig publisering, oppfordres til å ta kontakt med redaksjonen. Pressens Faglige Utvalg (PFU) er et klageorgan oppnevnt av Norsk Presseforbund som behandler klager mot mediene i presseetiske spørsmål.
+
+URL: https://www.nrk.no/norge/datatilsynet-opnar-gransking-etter-nrk-avsloring-1.15011535
+- Datatilsynet skal undersøke eit britisk selskap sitt sal av nordmenn sine posisjonsdata på den opne marknaden. Arbeidarpartiet ber fleire statsrådar om å forklare seg.
+- – UAKSEPTABELT: Datatilsynet og distrikts- og digitaliseringsminister Linda Hofstad Helleland reagerer begge på avsløringane om sal av nordmenn sine posisjonsdata på den opne marknaden.
+- Artikkelen er flere år gammel.
+- 
+- Datatilsynet har valt å starte gransking av selskapet Tamoco etter NRK sine avsløringar av kor enkelt det er å kjøpe informasjon om kor folk oppheld seg.
+- Det stadfestar Tobias Judin, seksjonssjef i Datatilsynet.
+- – Vi vel å sjå på denne saka sidan vi meiner den er svært alvorleg, det som har skjedd her verkar svært grovt og er i alle fall krenkande for den det gjeld, seier han.
+- Han fortel til NRK at dei har hatt mistankar om nordmenn sine posisjonsdata vert selt på den opne marknaden, men at dei ikkje har sett konkrete bevis på det før NRK si avsløring.
+- – Vi har hatt mistankar om at dette skjer, men vi har ikkje hatt nokon klare bevis på det. Vi har ikkje sett det i praksis før, seier han.
+- HAR HATT MISTANKAR: Seksjonssjef i Datatilsynet, Tobias Judin, fortel at dei har hatt mistankar om at det har gått føre seg sal av nordmenn sine posisjonsdata på den opne marknaden.
+- – Det her er rett og slett heilt uakseptabelt, om det er ulovleg eller ikkje skal tilsynet finne ut av, men uansett er det etisk heilt uakseptabelt, seier distrikts- og digitaliseringsminister Linda Hofstad Helleland.
+- Helleland seier ho vil kontakte sin britiske kollega, for å sjå på korleis dei saman kan handtere selskapa som set saman og sel posisjonsdata om nordmenn.
+- Sidan Tamoco held til i Storbritannia må også Datatilsynet ha hjelp av det britiske datatilsynet for å granske dei.
+- Judin seier dei er villige til å bruke dei ressursane saka krev.
+- – Vi er forberedt på å bruke dei ressursane som trengst. Men det vil nok krevje mykje meir av det britiske datatilsynet, om dei vel å samarbeide med oss i denne saka, seier han.
+- KARTLA NORDMENN: NRK brukte posisjonsdata vi kjøpte av Tamoco for å vise kor lett det er å spore nordmenn gjennom mobilar. No granskar Datatilsynet det britiske selskapet.
+- Tidleg i prosessen hadde NRK hyppig dialog med Tamoco via telefon og e-post med representantar frå selskapet. Etter at NRK opplyste om at vi jobba med ein kritisk sak om selskapet si handtering av data, har dei ikkje svart på våre spørsmål og gjentatte forsøk på intervju.
+- NRK har på nytt prøvd å få kommentarar frå Tamoco etter at Datatilsynet varsla gransking.
+- TAMOCO: Bak denne døra i Holborn, sentralt i London, held selskapet Tamoco til. På heimesida si skriv dei at dei gjer data tilgjengeleg for alle.
+- – Sjølv om du og eg aksepterer at denne informasjonen kan bli brukt, så aksepterer vi ikkje at informasjonen skal settast saman i eit bilete for å følgje deg og meg sine bevegelsesmønster i detalj, seier digitaliseringsminister Helleland.
+- – Du seier at det er uakseptabelt, kvifor har du ikkje stansa det?
+- – Det her er ei rivande utvikling innan digitalisering og korleis store selskap kan tene store pengar på min og din bevegelse, seier Helleland.
+- – Uakseptabelt: Distrikts- og digitaliseringsminister Linda Hofstad Helleland reagerer kraftig på NRK-avsløringa om kjøp og sal av norske posisjonsdata.
+- Lova slår fast at samtykke bør bli gjeve i form av ei tydeleg stadfesting der den registrerte på ein frivillig, spesifikk, informert og utvitydig måte gjev sitt samtykke til behandling av vedkommande sine personopplysningar.
+- Alle verksemder som samlar informasjon må ha såkalla «databehandleravtaler" som stiller krav til korleis data om personar vert nytta.
+- Det skal vere enklare å få sletta data som verksemder har lagra.
+- GDPR står for General Data Protection Regulation, og vert omsett til Personvernforordninga, eller Datasikkerheitreguleringa
+- Reaksjonane let ikkje vente på seg på Stortinget heller. Stortingsrepresentant Lene Vågslid har sjølv skrudd av posisjonstilgangen til fleire appar.
+- – Du som forbruker er forsvarslaus, at posisjonsdata om deg som du ikkje har gått med på å gje vekk, vert gjeve vekk på denne måten, det er heilt uakseptabelt, seier Lene Vågslid (Ap).
+- Guide: Slik begrenser du sporing av din mobil
+- Vågslid ber no justisminister Monica Mæland (H), distrikts- og digitaliseringsminister Linda Hofstad Helleland og barne- og familieministeren Kjell Ingolf Ropstad om å kome til Stortinget.
+- Leiaren i justiskomiteen vil og klargjere kven av statsrådane som har det faktiske ansvaret for dette feltet.
+- – Eg vil ha svar på kva norske styresmakter gjer og kva regjeringa har gjort dei siste to åra for å følgje opp og handheve dette regelverket på best mogleg vis, seier Vågslid.
+- Vågslid ønskjer svar på korleis Regjeringa handhevar personvernforordninga som vart innført i 2018 (GDPR).
+- Vågslid erfarer at straffetiltaka forordninga opna for framleis vert lite brukt:
+- – No kan vi gje mykje saftigare bøter, men gjennom min dialog med Forbrukarrådet og andre, erfarer eg at sanksjonane i liten grad har blitt brukt til no, seier Vågslid.
+- VIL VITE: Leiaren i justiskomiteen på Stortinget, Lene Vågslid (Ap), ber Regjeringa forklare kva sanksjonar dei har brukt for å handheve det europeiske personvernlovene (GDPR) som kom i 2018.
+- – Ap etterlyser informasjon om korleis dette vert handheva?
+- – Vi kjem med ein årleg rapport, og då håpar eg Ap viser like stort engasjement. Vi har og eit forslag om ein personvernkommisjon som skal gå gjennom nettopp slike saker som denne, seier Helleland, før ho understrekar alvoret:
+- – Vi må sørgje for at vi har eit lovverk som sikrar personvernet vårt, seier Helleland.
+- HAR IKKJE BØTELAGT I SLIKE SAKER FØR: Tobias Judin fortel at Datatilsynet har bøtelagt fleire statlege verksemder og private selskap etter dei nye GDPR-reglane kom, men ikkje i saker som gjeld sal av nordmenn sine posisjonsdata på den opne marknaden.
+- Det er også krevjande å granske selskap som opererer i fleire land, fortel Judin i Datatilsynet.
+- Han viser til at det allereie har vore fleire avskrekkande bøter i Europa som følgje av GDPR, mellom anna mot Google.
+- – Datatilsynet har og gjeve fleire bøter, først og fremst til offentlege verksemder så langt, men vi har og saker mot private verksemder, seier Judin.
+- Men dei har ikkje bøtelagt selskap som sel nordmenn sine posisjonsdata på den opne marknaden tidlegare:
+- – Når det kjem til det denne saka handlar om, så opererer selskapa ofte utanfor Noreg, og det er derfor vi ikkje har gjeve bøter i denne typen saker før.
+- Den som mener seg rammet av urettmessig publisering, oppfordres til å ta kontakt med redaksjonen. Pressens Faglige Utvalg (PFU) er et klageorgan oppnevnt av Norsk Presseforbund som behandler klager mot mediene i presseetiske spørsmål.
+
+URL: https://www.nrk.no/norge/mobilsporing_-britisk-dataselger-varsler-intern-gransking-etter-nrk-avsloring-1.15031158
+- Det britiske dataselskapet Tamoco er under press etter NRKs avsløringer om videresalg av bevegelsesdata fra mange tusen norske mobileiere.
+- Artikkelen er mer enn to år gammel.
+- 
+- Tamocos praksis undersøkes nå av norsk og britisk datatilsyn etter NRKs artikler.
+- For 35 000 kroner kjøpte NRK høsten 2019 data om bevegelsene til 140.000 mobiler og nettbrett i Norge. Dataene gjorde det mulig å identifisere og spore Stavanger-mannen Karl Bjarne Bernhardsens bevegelser i over 200 dager. NRK kunne også identifisere og kartlegge deler av livene til norske offiserer og soldater i og utenfor arbeidstid.
+- Tamoco oppga selv i en e-post at deres data var anonymisert. Da NRK brukte dataene i kombinasjon med søk på sosiale medier, var det enkelt å identifisere og kartlegge nordmenn.
+- – Dataene er i seg selv ikke nok til å identifisere enkeltpersoner, og de burde heller ikke bli utnyttet på denne måten, skriver Tamoco.
+- I flere måneder svarte ikke Tamoco på NRKs spørsmål. Nå har de valgt å svare, og det gjør selskapet gjennom en ekstern PR-rådgiver. Rådgiveren ønsker ikke å bli navngitt, og ber NRK vise til at uttalelsene kommer fra Tamoco. Intervjuet er foretatt over e-post.
+- Les NRKs spørsmål og Tamocos svar i sin helhet nederst i artikkelen (engelsk).
+- Etter NRKs artikler varslet Datatilsynet tidlig at de skulle granske selskapet. Ikke lenge etter startet også det britisk datatilsynet (ICO) sine egne undersøkelser.
+- – Vi vil føye oss etter alle eksterne undersøkelser fra norsk eller britisk datatilsyn. Vi har startet vår egen interne granskning av dataene vi har mottatt, skriver Tamoco.
+- Tamoco forsvarer seg med at de bare er et mellomledd mellom apputviklere og dem som benytter bevegelsesdataene. Selskapet hevder videre at de «gjør grundige undersøkelser av kundene, og krever å få vite hva dataene brukes til».
+- – Hvis brukeren av våre data gjør noe ulovlig utenfor vår kontroll, er det urettferdig å skylde på oss så lenge det ikke var rimelige tiltak vi kunne gjennomført for å stoppe det, skriver Tamoco.
+- Mange app-produsenter videreselger dataene de samler inn, som for eksempel mobilens bevegelser. Tamoco er et selskap som samler inn og videreselger datasett og produkter basert på disse mobildataene.
+- Forbrukerrådets direktør Inger Lise Blyverket mener det er nærmest umulig for forbrukere å vite hvor deres personlige data havner når de laster ned apper og godtar brukervilkårene.
+- Forbrukerrådet mener forbrukere ikke har vært tilstrekkelig informert når de har samtykket til å dele sine bevegelsesdata med ulike mobilapper. De mener at forbrukere ikke har mulighet til å vite hvem som får dataene.
+- – Det er helt utvilsomt ulovlig, sa Forbrukerrådets direktør Inger Lise Blyverket 9. mai.
+- – Dette er ikke sant, skriver Tamoco til NRK.
+- – Vi henter data direkte fra app-utviklere, deres partnere eller fra SDK-er (datakode i apper, red.anm.) i apper. Appene må hente inn samtykker fra brukerene. Samtykkene er styrt av disse app-utviklerne, som må forsikre oss om at de følger relevante lover og reguleringer, sier Tamoco.
+- – Dere svarer ikke direkte på Forbrukerrådets sentrale innsigelse som er at forbrukere ikke forstår hvem som får tilgang til deres persondata. Mener dere at forbrukere fullt ut forstår konsekvensene av å samtykke?
+- – Tamoco tilbyr posisjonsdata for å tilby bedre produkter og opplevelser, både online og offline. Alle smarttelefoner har mulighet til å nullstille og melde seg ut av datadeling, selv etter at de har samtykket, svarer Tamoco.
+- NRK spurte høsten 2019 Tamoco om de ville selge anonymiserte data om nordmenns bevegelser. Det gjorde NRK under påskudd av å jobbe med et journalistisk prosjekt om byplanlegging.
+- – NRK var villedende da de lot som de ville bruke våre data for byplanlegging. Når vi utfordret NRK på dette ble vi sendt falske kart. Etter vårt syn har NRK brutt sine egne etiske retningslinjer fordi måten Tamoco opererer allerede er offentlig kjent, sier Tamoco.
+- Selskapet hevder NRK har brutt Vær varsom-plakatens punkt om at falsk identitet kun skal brukes i unntakstilfeller.
+- Digitaliseringsminister Linda Hofstad Helleland sa i Dagrevyen søndag 10. mai at salg av bevegelsesdata var «etisk helt uakseptabel», men at det er Datatilsynets rolle å finne ut om det er lovlig. Hofstad Helleland har også varslet at hun skal diskutere mobilsporing med EU-kommisjonen.
+- – Posisjonsdata, som hvilke som helst andre datasett, kan potensielt misbrukes av aktører med dårlige hensikter. Dataene har legitime og etiske bruksområder, noe som dessverre ikke omtales i media, svarer Tamoco.
+- Stortingsrepresentant Lene Westgaard-Halle (H) ble sporet av en sminke- og bilderedigeringsapp over 27 dager i 2019.
+- Selskapet mener at det er viktig å skille mellom ulike typer mobilsporing.
+- – Vi er enige i at det er vanskelig å forsvare vedvarende og invaderende sporing. Å motta 10.000 datapunkter fra en mobil hver dag er overdrevent og unødvendig i 98 prosent av brukstilfeller. Dette er heller ikke noe Tamoco driver med, skriver selskapet.
+- I datasettet NRK kjøpte var det 25 telefoner som i gjennomsnitt hadde mer enn 10.000 daglige datapunkter som viser hvor mobilen har oppholdt seg. Minst 7500 telefoner hadde et daglig gjennomsnitt på over 1000 datapunkter.
+- Tamoco hevder at dette er utenfor deres kontroll.
+- 1. The Norwegian Consumer Council says that the data sold by Tamoco is “without doubt” obtained illegally due to the lack of informed consent. The organization explicitly mentions that consumers cannot know to whom their personal data is shared when consenting. How do you respond to these claims?
+- This isn’t true. We source data directly from app publishers, their partners or SDK’s integrated in apps. They’re required to provide explicit consent from their users. Consents are managed by those publishers who provide assurances they comply with relevant laws and regulations.
+- 2. You say that the claims about illegality from the Norwegian Consumer Council (NCC) isn’t true. Your comment doesn’t answer the central claim from the NCC, which is that consumers have no way of knowing to whom their personal data is shared. Is it your opinion that consumers understand the full ramifications of consenting?
+- Tamoco uses location data to power better products and experiences, both online and offline. All the while, any smartphone has the ability to both reset and opt-out of any data sharing altogether, even after they have consented. Apple and Android manage these reset and opt-out controls, and consumers can to submit free subject access requests to any company where they want to know how their data is being processed.
+- 3. What precautions have you made to ensure that personal data is not misused?
+- We use standard mobile advertising identifiers IDFA (Android) or AAID (Apple) but it’s critical to understand these DO NOT identify individuals – only a device. Identifiers can easily be changed (in phone settings) meaning they’re not fixed to an individual.
+- We vet customers carefully demanding information on where data’s used. We sell data on a legitimate basis for a bonafide purpose. We do so in good faith that the buyer will respect laws and regulations. NRK was deceptive in pretending it was using our data for urban planning. When we challenged NRK over its use, it provided fake maps. In our view, NRK has breached its own code of ethics because the way Tamoco works is already widely in the public domain. NRK did not need to use deception.
+- NRK contravened the way in which the data was meant to be used and the reality is many large anonymised datasets sold by major firms can be taken apart and engineered in exactly the same way. (NRK has removed references to specific companies.
+- 4. You say that it's "critical to understand these mobile identifiers DO NOT identify individuals". Through our reporting, we have documented the opposite. Our reporting documents that a person's mobility signature is unique. Without removing large clusters, including home and work locations in a person's movement pattern, finding the person behind the mobile identifier is done very easily. Can you elaborate how a mobile identifier does not identify the individual owning the mobile device?
+- A mobile advertising ID is an industry-standard, created by Apple and Google. It is used the world over, and users can turn them off or reset them. We refer to an individual as a specific, identifiable person. A series of latitude and longitude information, plus an anonymous advertising identifier cannot identify the individual unless other, invasive methods are applied, adding further datasets which Tamoco does not do and actively prohibits, or physically stalking as NRK did, which is illegal.
+- 5. You also say that it's easy for users to change their mobile identifier. What steps does Tamoco take in order to make people aware of this possibility? And is it Tamoco's opinion that most people are aware of this possibility?
+- The mobile advertising ID can be reset or opted out of altogether. Apple and Google create these ID’s, and beyond writing blog posts and content on this process publicly, Tamoco is not in any position to change the visibility or increase the awareness of this option. We do believe that consumers should be fully informed and continue to do what we can in our limited capacity to put consumers at the heart of what we do.
+- 6. Tamoco lists products and services using location data for purposes other than those mentioned in Tamoco’s privacy policy? Why are these purposes not mentioned in your privacy policy?
+- Although nothing requires them to match, our privacy policy is very clear:
+- We’ve always been fully transparent. We use location data for various functions across statistical analysis, research and machine learning on top of personalised advertising. Again, it’s important that people understand that many critical functions in ours lives depend on large datasets being analysed – such as urban planning.
+- We welcome feedback to help improve the clarity of our privacy policy and are happy to update it. To go further, we are undertaking an internal review of our policies to ensure they can be as clear as possible. For the avoidance of doubt, nothing about the way Tamoco uses the data is unusual, illegal or unique. There are many companies that use similar data for similar products and services. (NRK has removed references to specific companies.)
+- In respect of this particular story, most phone users understand how location services in apps work. We agree there’s a debate to be had around whether all apps are clear on permissions but many NRK viewers will ask why any working in the armed forces did not think twice about using apps which clearly use location data.
+- 7. The Norwegian Data Protection Authority is opening an investigation into Tamoco. They seek to work together with the UK Data Protection Authority (ICO). What is your comment?
+- We’ve launched our own internal investigation into data provided to us and will comply fully with any external investigations from Norwegian or British regulators. We have also been very open with the media around what we do.
+- 8. In response to NRK’s first article, Tobias Judin of the Norwegian Data Protection Authority, described the sale of Norwegians location data as a “very severe” matter. How do you respond to this characterization?
+- Let’s be clear – NRK obtained data from us by deception, then decompiled and decrypted it for an illegal use. This is a very severe matter, but like any intermediary, while it’s fair to hold us to account for doing everything possible to ensure the quality of the product we sell, we sit between the party supplying data and the party using it. If the user is doing illegal things beyond our control, then it’s unfair to blame us if there are no reasonable steps we could have taken.
+- We employ our best efforts to ensure compliance with regulations as much as possible, however balanced reporting must consider the role of those parties who collect data and those who take it from us to use. NRK viewers may question why a national broadcaster used deception where it could have walked through the front door and asked questions.
+- We do take data privacy seriously, but the regulation and enforcement of these rules must be omnipresent for things to work as intended. While makes things easier for the media, you cannot simply apply rules to one party.
+- 9. You write "Let’s be clear – NRK obtained data from us by deception, then decompiled and decrypted it for an illegal use." We're having some trouble understanding what you mean by "decompiled and decrypted", as the data in no way was encrypted in the first place. The data was sent in plain text, and could easily be imported directly into an industry standard geospatial analysis tool. Can you elaborate what you mean by "decompile and decrypt"?
+- This explanation shows that a dataset, in a pure form, does not identify individuals unless it is taken apart and blended with other information. Location data alone is not intelligible.
+- We understand “decrypt” as “make intelligible”. By “decompile”, we mean “deconstruct the data and layer in other data enabling individuals to be identified”.
+- 10. The Minister of Regional Development and Digitalisation in Norway, Linda Hofstad Helleland, says that the sale of location data is ethically unacceptable. How do you respond to this claim?
+- Location data, like any other data set, has the possibility to be misused by bad actors, but has perfectly legitimate and ethically positive use cases which unfortunately go unreported by the media.
+- Dissemination, decoupling or decryption of this data is indeed unacceptable, and is not a process Tamoco has or ever will employ. NRK felt that for the purposes of their investigation they would themselves commit an ethically unacceptable act, including breaching their own journalistic code of ethics to prove a point that no responsible company in the industry would do. NRK used deceptive tactics to obtain data for a legitimate use case they actually had no intent of pursuing. It did this to create a story around their own misuse of data and it has attempted to give the impression they were able to ‘trick’ Tamoco - a company that has spoken publicly about its business and products for several years.
+- It is also very important to distinguish between location data types. We agree that there is limited rationale for persistent and invasive tracking; receiving 10,000 location points from a phone per day is excessive and unnecessary in 98% of use cases. It is also not something that Tamoco uses. However, measuring important points in a journey such as a visit to a shop or when someone starts or stops a journey is necessary and some would argue essential in the pursuit of building better products and services. In this regard, location data is an accurate and powerful signal for advertisers, researchers, analysts and more as an aggregated data set. It helps with such a wide range of applications from city planning to contact tracing, advertising to analytics.
+- 11. You also point to our Code of Ethics several times, and claim that we've broken this code. Can you specify which code of ethics you are referencing and which parts?
+- On the code of ethics question, this is par below. Tamoco's view is that NRK did not need to use deception because a) the discussion around geo-location data is not new and Tamoco has constantly been in the press discussing it, which means it was not the only way you could have gotten the data b) NRK did not even try to ask us first to commence a conversation. Had you done so, we would have been open and responded, just as we had to other mainstream media, like the FT and Wired, and just as I have been with you.
+- 3.10. Hidden cameras/microphones or false identity may only be used under special circumstances. The condition must be that such a method is the only possible way to uncover cases of essential importance to society.
+- 12. You say that “We agree that there is limited rationale for persistent and invasive tracking; receiving 10,000 location points from a phone per day is excessive and unnecessary in 98% of use cases. It is also not something that Tamoco uses.”. In the data we received from Tamoco, at least 25 mobile phones had over 10.000 location points per day, and more than 7500 mobile phones had over 1000 location points per day. This seems to contradict your statement. How do you explain this?
+- Our statement explained that there are limited use cases for tracking mobile phones persistently. This is why both Apple and Google have limited all but the most relevant of apps from using what is known as “background” location, with most apps only providing “foreground” location, meaning that data is only collected while using the app. This suits Tamoco’s purposes fully as we only work with data against points of interest, such as shops, museums, and cafes.
+- Tamoco does not control what permissions app publishers ask users to consent to and as such if a user has consented to background location permission from, for example, a running app or a GPS car navigation app then the data being received will be in much higher volumes due to the use case. Tamoco still has clients which can benefit from this data, especially with use cases like urban planning and commuter patterns - the pretext NRK used to obtain the data.
+- 13. Based on data from Tamoco and open sources like Facebook, NRK could identify several individuals, amongst them military personnel. What do you think about that?
+- The data is not able to, on its own, identify any individual person, nor should it be reverse engineered or decrypted in the pursuit of this kind of use. The work with firms around the world and focus on measuring data around consumer “points of interest” such as shops, attractions and destinations. We do not store any sensitive or restricted places in our database and thus do not measure these places, meaning that anyone who had access to the data would have to misuse it, and combine it with other data sources, in order to expose any potential correlations around these locations.
+- Den som mener seg rammet av urettmessig publisering, oppfordres til å ta kontakt med redaksjonen. Pressens Faglige Utvalg (PFU) er et klageorgan oppnevnt av Norsk Presseforbund som behandler klager mot mediene i presseetiske spørsmål.
+
+URL: https://www.nationen.no/motkultur/leder/for-darlig-personvern/
+- Papiravisen (eAvis)
+- Det ser ut som denne siden ikke eksisterer. Kanskje adressen er stavet feil, eller så kan siden ha blitt slettet eller flyttet.
+- Prøv søket for å finne det du leter etter:
+- Nationen © 2023
+
+URL: https://www.dr.dk/nyheder/penge/norsk-medie-afsloerede-datafirmaers-handel-med-nordmaends-personlige-data-nu-gaar-det
+- Datatilsynet vil have undersøgt, om britisk data-firma også sælger danskeres lokationsdata.
+- Det er nok de færreste, der har sat sig ind i, hvad der sker, når de giver en app lov til at bruge 'lokalitetstjenester 'eller 'placeringstjenester'.
+- Og de er nok endnu mindre klar over, at de holder hjulene i gang hos såkaldte data brokers. Det er firmaer, der lever af at videresælge data - og måske dine personlige oplysninger - såsom hvor du har været på et givent tidspunkt.
+- Den forretningsmodel har det norske public service medie NRK udrullet gennem en række afsløringer de seneste uger.
+- For at vise, hvordan nordmænds bevægelsesmønstre bliver solgt på det frie marked, har de købt et datasæt af de britiske data brokers Tamoco.
+- Med sig fik de lokationsdata fra 140.000 norske mobiltelefoner og tablets fra intetanende borgere. Pris: 35.000 norske kroner.
+- Nu får sagen også konsekvenser herhjemme. NRK's afsløringer får nemlig det danske datatilsyn til at gå ind i sagen for at se, om det britiske firma også har danskeres lokationsoplysninger på hylderne - og om disse er indsamlet på lovlig vis:
+- Jeg vurderer det som meget sandsynligt, at danskeres data bliver handlet på præcis samme måde, som NRK har afsløret i Norge. Under min research bookede jeg med få klik et møde med en konkurrent til den virksomhed, som NRK havde købt data fra, som fortalte mig, at de kunne levere tilsvarende danske lokationsdata.
+- Vi omgiver os med stadig flere dimser, der indsamler mere og mere intime data om os. Det er et stort problem, hvis vi ikke kan stole på, at de ikke bliver misbrugt. Derfor bliver det spændende at se, om de danske og norske datatilsyn reelt kan gøre noget ved problemet.
+- - I en sag som denne her, hvor vi får mistanke om, at der indsamles oplysninger om danskere, så kan vi godt frygte, at oplysningerne bruges på en måde - og til formål - som ligger langt udover, hvad almindelige brugere kan forvente. Og derfor vælger vi at gå ind i sådan en sag her, siger Frederik Siegumfeldt, tilsynschef i Datatilsynet.
+- Det lykkedes NRK's journalister at købe dataen ved at udgive sig for arbejde på et journalistisk projekt om byudvikling. For de 35.000 norske kroner fik de fingre i en database med 400.000 millioner kort-koordinater indsamlet via apps på norske telefoner og tablets i løbet af 2019.
+- Tamoco hævdede ifølge NRK, at data var anonymiseret, så det ikke vil være muligt at identificere enkeltpersoner. Men det var legende let for NRK at følge en række udvalgte nordmænds færden gennem datasættet - og derved fastlå deres identitet.
+- Det danske datatilsyn vil nu have undersøgt, om Tamoco også sælger danskeres data:
+- - Vi vælger at gå ind i sådan sag her, fordi vi har en frygt for, at oplysninger går langt videre, end hvad brugere kan forvente, siger Frederik Siegumfeldt.
+- Data brokeres forretningsmodel er groft sagt at bringe købere og sælgere af personlige data sammen. Data brokerne videresælger f.eks. dine personlige oplysninger, som du har afgivet f.eks. gennem apps på telefonen, typisk til markedsføringsbureauer eller analysefirmaer, som så bruger data til at ramme dig med målrettede reklamer.
+- Og selvom data ikke direkte indeholder f.eks. navn og addresse, er det ofte forholdsvis nemt at af-anonymisere data. Præcis som NRK har demonstreret.
+- Hos det danske forbrugerråd Tænk er man stærkt bekymret over afsløringerne fra Norge:
+- - Problemet er, at de her mellemmænd - de her data brokere - de høster data, og forbrugerne ved ikke, det foregår, siger Anette Høyrup, der er seniorjurist i Forbrugerrådet Tænk.
+- Efter hendes opfattelse er det ulovligt at sælge data på denne måde, fordi data bliver indhentet til et helt andet formål end det, som data brokerne tjener penge på ved at videresælge det:
+- - Vi har en databeskyttelses-lov, der burde beskytte os. Men det, mener vi, ikke sker her. Virksomhederne (databrokerne, red.) handler ulovligt og i strid med de regler, som der er, siger hun.
+- Folk har jo selv sagt ja, når de bruger appen, til at den må opsamle data. Er det så ikke folks eget ansvar?
+- - Problemet er, at du ved ikke, hvad du siger ja til. Det kan aldrig blive forbrugerens problem. Det er vilkårene, som er fuldstændig uforståelige. Derfor er det myndighedernes opgave at få kigget på det her.
+- NRK's datasæt indeholdt lokationsdata, der kommer fra forskellige apps, som kræver, at gps'en er tændt for at fungere ordentligt. Det lykkedes ikke NRK at finde ud af, præcis hvilke apps, Tamoco har høstet data fra.
+- Både det danske og norske forbrugerråd har dog tidligere haft øjnene rettet mod datingapps som Happn, Grindr og Tinder. Disse apps kræver din lokalitet for at kunne finde matches, der befinder sig tæt på dig.
+- Også lommelygte-apps til Android-smartphones har været i søgelyset, fordi mange af dem kræver et stort antal tilladelser, som ikke er nødvendige for appens formål.
+- Datatilsynet vil nu tage kontakt til det engelske datatilsyn, hvor Tamoco hører til:
+- - I den her sag, hvor selskabet hører hjemme i England, har vi taget kontakt til det engelske datatilsyn og er nu i dialog med dem omkring nogle spørgsmål, der skal besvares, siger Frederik Siegumfeldt, tilsynschef i Datatilsynet.
+- Tamoco har ikke haft mulighed for at stille op til et interview. Men gennem et PR-bureau forklarer de, at de står ved deres forretningsmodel og siger, at der er mange andre, der gør det samme som dem. Samtidig siger de, at de føler sig snydt af NRK, som udgav sig for at være i gang med et journalistisk projekt om byudvikling.
+
+URL: https://www.forbrukerradet.no/side/asking-companies-to-clarify-surveillance-of-consumers/
+- 13. mai, 2020
+- The Norwegian Consumer Council asks eight companies to clarify their surveillance of users of the apps Perfect365 and MyDays.
+- Update 14.05.20: The technical test shows that Fluxloop is involved in the transfer of personal data from the Perfect365 app, but not that the company processes the data itself.
+- The Norwegian Consumer Council is asking the companies FluxLoop, Fysical, Neura, Placed/Foursquare, Placer, Receptiv/Verve, Safegraph, and Unacast, to clarify their collection of personal data from the makeup app Perfect365 and period tracker app MyDays.
+- –  These companies have a business model that is, according to our analysis, clearly in breach of the General Data Protection Regulation (GDPR). It is impossible for consumers to know what data is being collected, who it is shared with, and how it is used, says Gro Mette Moen, acting head of unit, Digital services in the Norwegian Consumer Council.
+- – The Norwegian public broadcaster (NRK) recently uncovered (in Norwegian) that it is possible to purchase location data about thousands of Norwegian consumers from the British data broker Tamoco. However, it is important to understand that this is just the tip of the iceberg. An entire industry is based on commercial surveillance of consumers, through the collection and sale of our personal data.
+- Based on the response from the companies, the Consumer Council will consider filing complaints to the Norwegian Data Protection Authority (Datatilsynet), in a collaboration with the Austrian privacy NGO noyb.
+- Simultaneously, noyb is filing a complaint against Google to the Austrian data protection authority for Google’s use of the Advertising ID. The Advertising ID is a unique identifier generated by smartphones, which allows companies to track users across services. The complaint is based on work done by the Norwegian Consumer Council and noyb as part of the “Out of Control” campaign.
+- In January, the Consumer Council published the report “Out of Control”, as part of a campaign that included more than 40 consumer and human rights organizations from across the world. In the wake of the report, the Consumer Council filed complaints against six companies to the Norwegian Data Protection Authority for breaching the GDPR.
+- In the report, the Consumer Council revealed how popular apps are sharing personal data with third parties. These third parties, which operate as “data brokers”, have a business model based on the commercial surveillance of consumers.
+- The technical analysis of apps was performed by the Norwegian security company Mnemonic. The analysis of the adtech industry was done together with the Austrian researcher Wolfie Christl from Cracked Labs.
+- The intimate knowledge of our preferences and when we are most susceptible to manipulation is a threat not only to our consumer and privacy rights, but may have dramatic consequences for society at large.
+- – There are numerous examples of how this type of information can be abused, from manipulating elections, to targeting advertising toward people struggling with addictions. Data breaches can lead to scams and theft, and could also be used to persecute vulnerable groups, says Gro Mette Moen.
+- – Personal data can be used in circumstances completely divorced from why it was collected in the first place. For example, health data could be used for insurance or other commercial purposes, or be used to discriminate you based on properties such as ethnicity or gender. Furthermore, Amnesty International has demonstrated how this business model is a threat to the freedom of speech and to democratic institutions.
+- Kommunikasjonsrådgiver – digitale rettigheter og strøm
+- Response from the companies
+- Response from the NCC
+
+URL: https://www.dataguidance.com/news/norway-datatilsynet-issues-statement-selling-location
+- You have  out of 5 free articles left for the month
+- Signup for a trial to access unlimited content.
+- Create an account to continue accessing select articles, resources, and guidance notes.
+- Start your free trial to access unlimited articles, resources, guidance notes, and workspaces.
+- Already have an account? Log in
+- Join our community for free to access exclusive whitepapers, reports, and regulatory information.
+- By signing up you agree to OneTrust DataGuidance's Terms and Conditions and Privacy Policy.
+- Already have an account? Log in
+- Already have an account? Log In
+- The Norwegian data protection authority ('Datatilsynet') issued, on 12 May 2020, a statement on the sale of the location data of Norwegians by Tamoco Ltd. In particular, Datastilsynet condemned the selling of such data and stated that they will contact other European data protection authorities, including the Information Commissioner's Office ('ICO'), to resolve this issue. In addition, Datatilsynet recommended that everyone review their phones' privacy settings and the apps having access to location data.
+- You can read the press release, only available in Norwegian, here.
+- UPDATE (27 May 2020)
+- Datatilsynet announces progress of Tamoco investigation
+- Datatilsynet announced, on 27 May 2020, that the UK Information Commissioner's Office ('ICO') will commence investigations into Tamoco for the alleged selling of location data. In addition, Datatilsynet noted that it has taken the matter to the European Data Protection Board.
+- You can read the announcement, only available in Norwegian, here.
+- Sign up for the DataGuidance newsletter
+- You're all set to get top regulatory news updates sent directly to your inbox
+
+URL: https://www.dday.it/redazione/37823/lincredibile-storia-di-un-uomo-che-ha-spiato-le-app-che-lo-spiavano-la-denuncia-siamo-tutti-spiati
+- C’è un giornalista norvegese che ha 160 app sul suo telefono. Non c’è nulla di completamente nuovo: quasi ogni persona nel mondo che usa un dispositivo mobile ha decine di app su di esso. Ma il giornalista norvegese non si è limitato a contare le app: ha deciso di capire cosa facevano e cosa sapevano su di lui.
+- Il giornalista norvegese ha condotto un esperimento fin da febbraio 2020. Si è dotato di un telefono di riserva, vi ha installato molte applicazioni, e quindi ha portato quel telefono sempre con sé. L’ha lasciato a casa una sola volta: quando ha fatto un test per la COVID-19, in aprile. Il giornalista norvegese si chiama Martin Gundersen, e questa che vogliamo raccontarvi è la storia della sua indagine sulle app e di quanto a fondo conoscessero la sua vita; e di come, in realtà, questa sia anche la storia di tutti noi.
+- Martin Gundersen è un giornalista di NRK, l’azienda radiotelevisiva di Stato norvegese. Per fare un esempio tranchant, la NRK è la “RAI novergese”.
+- Sebbene il sospetto circa le attività della app installate su un telefono abbia toccato quasi chiunque, quello di Gundersen si è acceso dopo i risultati di un’inchiesta di maggio della NRK. Si è scoperto che i movimenti di decine di migliaia di norvegesi erano stati spiati dalle app riconducibili a una società londinese di nome Tamoco.
+- Non solo le app avevano registrato i movimenti degli utenti, ma per una somma di circa 3.000 euro la NRK ha potuto comprare i dati di 140.000 norvegesi e dei loro spostamenti.
+- Ma com’è possibile acquistare questi dati? C’è un commercio, un prezziario? Il nome della Tamoco è comparso perché la NRK ha contatto diversi rivenditori di informazioni, chiedendo di acquistare i dati di localizzazione dei cellulari in Norvegia. Ha finto che i dati servissero per la creazione di un modello volto al miglioramento del trasporto pubblico, e ha specificato che sarebbero state gradite informazioni anonimizzate; quindi non direttamente riconducibili a un nome, a un indirizzo, o a un numero di telefono.
+- Si è fatta viva la Tamoco, che ha offerto le informazioni di 140.000 dispositivi mobili per la somma di circa 3.000 euro. I dati erano effettivamente anonimizzati, ma contenevano le coordinate geografiche raccolte dal GPS dei dispositivi.
+- La NRK non ha fatto altro che inserire le coordinate su una mappa della Norvegia, creando uno schema degli spostamenti dei dispositivi, e quindi delle persone. Com’è ovvio pensare, per ogni singola persona alcuni punti erano ripetuti più spesso di altri. Identificavano il luogo di lavoro o l’indirizzo di casa. Conoscere l’indirizzo di casa di una persona equivale spesso a conoscerne anche il nome. NRK quindi ne ha scelto una, tale Karl Bjarne Bernhardsen, spiegando cosa sapevano di lui e perché.
+- Da allora, il nostro giornalista norvegese Gundersen ha guardato il suo telefono con molto più sospetto e ha scelto di dare vita all’esperimento dello smartphone di riserva. Ha quindi deciso di esaminare, o gli è tornata in mente, una vecchia storia del 2018 accaduta negli Stati Uniti.
+- Il proprietario di un ristorante del Kentucky chiamato Fried Chicken fu arrestato in una città di confine dell'Arizona. Si supponeva che fosse coinvolto nel contrabbando di droga dal Messico attraverso un tunnel sotto il confine americano.
+- A detta del Wall Street Journal, l'operazione è stata in parte scoperta grazie all'Immigration and Customs Enforcement (ICE) degli Stati Uniti utilizzando i dati di localizzazione disponibili in commercio. Come si può capire dal nome, l’ICE è un’agenzia americana che si occupa di proteggere i confini statunitensi dall’immigrazione illegale e dai crimini legati a essa.
+- I dati di localizzazione comprati dall’ICE sarebbero poi stati condivisi con la più ampia Customs and Border Protection (CBP), che è la principale agenzia di controllo dei confini degli Stati Uniti. Questa condivisione tra agenzie avrebbe portato la CBP ad acquistare anche l’accesso ai dati di localizzazione globali, quindi “mondiali”, e che facevano capo a quel fast food al margine dell’Arizona.
+- La società che ha fornito inizialmente le informazioni sul fast food all'ICE si chiama Venntel. Essendo venuto a conoscenza dell’esistenza dei dati di localizzazione mondiali legati alla società, il 20 agosto 2020 Gundersen ha chiesto una copia di tutte le informazioni che la Venntel aveva su di sé. Gundersen ha potuto farlo perché è un diritto dei cittadini europei: ci è stato dato dal GDPR, adottato nel 2018.
+- Ognuno di noi, grazie al GDPR, può chiedere ad una qualsiasi azienda americana che dati ha su di noi memorizzati sui server.
+- La Venntel ha collaborato, non prima di essersi accertata che Gundersen potesse effettivamente avviare la richiesta. Ha richiamato i dati utilizzando l’ID pubblicitario associato al profilo.
+- Quello che pochi sanno infatti è che i sistemi operativi degli smartphone hanno un identificatore per la pubblicità: ne esiste uno di Google, chiamato Advertising ID per i telefoni Android, e ne esiste uno di Apple, chiamato IDFA. Possono essere entrambi disattivati, se lo si vuole, ma quasi nessuno lo fa. Anche perché sono ben nascosti.
+- Dopo un mese, Gundersen ha ricevuto una mail dalla Venntel con un allegato contenente le informazioni dei suoi movimenti. A partire dal 15 febbraio, la Venntel ha saputo per 75.406 volte il luogo esatto in cui si trovava Gundersen.
+- Come per l’indagine condotta da NRK e che aveva messo sul chi va là il giornalista, l’allegato non conteneva numeri di telefono o nomi. Tuttavia, guardando gli spostamenti, sarebbe stato facile per chiunque scoprire, tramite semplici ricerche su Google o sull’elenco telefonico, che esiste un Martin Gundersen che vive a Sorgenfrigata, a Oslo, e lavora alla NRK Marienlyst.
+- Venntel ha anche informato Gundersen di aver condiviso le sue informazioni con i propri clienti. Questi clienti avrebbero potuto utilizzare gli stessi dati per scopi quali l'applicazione della legge federale e la sicurezza nazionale. Ma quali fossero questi clienti, Venntel non lo ha voluto dire.
+- La mossa successiva di Gundersen è stata quella di capire quale fosse stato il legame tra i dati di localizzazione del suo telefono di riserva in Norvegia con la Venntel negli Stati Uniti. Naturalmente, ha pensato immediatamente a un’app, ma nessuna di quelle che aveva installato menzionava in alcun modo questa azienda. Si è preso anche il tempo di leggere le politiche sulla privacy di ognuna. Nulla. Il nome Venntel non appariva.
+- C’era però quella della sua società madre, la Gravy Analytics. Gundersen ha scoperto che la Gravy Analytics è una broker di dati che si occupa di marketing. Raccoglie grandi quantità di informazioni sui consumatori per migliorare la destinazione degli annunci, conosciuta anche come "targeting".
+- Una delle cose che ha lasciato perplesso il nostro giornalista norvegese è che la Gravy Analytics sostiene di non conoscere l'origine della maggior parte dei dati che ottiene. La risposta alla richiesta di accesso da parte di Gundersen conteneva però i nomi di due nuove aziende: Predicio in Francia e Complementics negli Stati Uniti, che sembrano avere il ruolo di società intermediarie.
+- Dopo un’altra tornata di richieste di accesso, Gundersen ha scoperto che alcuni dei dati di localizzazione in possesso della Venntel provenivano da uno sviluppatore di app slovacco chiamato Sygic, che ha un portafoglio di 70 app.
+- L’app più scaricata di Sygic è un navigatore GPS che conta 200 milioni di utenti. E Gundersen, il 15 febbraio, aveva installato sul suo smartphone di riserva due app di Sygic, con tanto di accettazione delle clausole di utilizzo e delle politiche sulla privacy che, anche ai fini dell’esperimento, non sono state lette dal giornalista, così come non vengono lette dalla grandissima maggioranza degli utenti.
+- Quindi, molto probabilmente, la Sygic ha raccolto le informazioni e le ha date alla Gravy Analytics, la quale poi le ha girate alla sua società Venntel.
+- Gundersen afferma che il contratto tra lui è la Sygic, siglato di fatto con l’accettazione delle politiche sulla privacy, si è modificato quando i dati sono finiti alla Gravy Analytics.
+- Il giornalista afferma che, nelle sue politiche sulla privacy, la Gravy Analytics dichiara che i dati personali possono essere utilizzati per una serie di servizi per partner e clienti. Incluse l'individuazione di frodi, l'applicazione della legge e la sicurezza nazionale.
+- Gundersen dice però anche che nell’accordo con Sygic non c’era un riferimento ai servizi da parte di partner e clienti, dunque la Gravy Analytics avrebbe travisato il contratto stipulato tra Sygic e Gundersen.
+- Noi siamo andati a vedere i termini sulla privacy di Sycic e della Gravy Analitics, ed entrambe le società fanno riferimento a provider di servizi di marketing. Ma le politiche sono state aggiornate rispettivamente a luglio e ad agosto, e non sappiamo se al momento dell’indagine di Gundersen fossero diverse.
+- Nel caso in cui lo fossero state, ci sarebbe stato un sovvertimento dei principi di trasparenza ed equità del GDPR. Gundersen ne ha avuto la conferma anche dai tre avvocati specialisti della privacy che ha contattato dopo la scoperta.
+- Sygic ha detto a Gundersen di non conoscere la società Venntel, e che, sulla base delle informazioni fornite, non è certo che la fonte dei dati posseduti dalla Venntel sia Sygic.
+- Tuttavia, un’analisi tecnica della radiotelevisione NRK norvegese dà per certo che i dati di Sygic sono finiti in Venntel, anche perché nei dati di Venntel è presente anche un ID utilizzato da Complementics per le informazioni provenienti da Sygic. E, come si è già visto, sembra che Complementics sia un’altra intermediaria di Gravy Analytics
+- I dati di Gundersen sono finiti alla Gravy Analytics e alla Venntel anche attraverso un’altra app: Fu*** Weather, che offre le previsioni del tempo tramite espressioni colorite.
+- Al momento dell’installazione, Fu*** Weather ha chiesto a Gundersen di accettare che i suoi dati fossero usati per l’analisi e la “monetizzazione”. I tre avvocati hanno stabilito che il termine “monetizzazione” è troppo vago e non allineato al GDPR.
+- Rintracciato lo sviluppatore dell’app, questi ha confessato a Gundersen di non conoscere la società Venntel, ma afferma di essere stato onesto sul modello di business dell'app - quindi la rivendita di informazioni - ma ha compreso che potrebbe utilizzare termini più chiari per gli utenti.
+- Gundersen - così come lo sviluppatore dell’app, a quanto pare - non sa come i dati di Fu*** Weather siano finiti alla Venntel, ma è probabile che siano passati attraverso la società francese Predicio, in quanto è un’intermediaria elencata come partner nella politica sulla privacy dell'app.
+- La NRK, a questo punto, ha chiesto delle dichiarazioni alle società in possesso dei dati di localizzazione. Gravy Analytics non ha risposto. In una breve dichiarazione, Venntel ha sostenuto che i dati di localizzazione non sono stati condivisi con ICE o CBP (le agenzie di controllo del confine statunitensi). Hanno riferito anche di non avere alcun rapporto con i fornitori di app Sygic o con lo sviluppatore dell’app Fu*** Weather.
+- In una dichiarazione rilasciata all'NRK, l’agenzia CBP americana ha detto di avere un accesso limitato ai dati disponibili in commercio e che è utilizzato in linea con le norme e i regolamenti pertinenti.
+- L’NRK ha scoperto che anche l'FBI e l'ICE hanno contratti con Venntel, ma non hanno risposto alle domande sulle opportunità che offre per rintracciare gli europei in Europa e fuori dall'Europa.
+- La società intermediaria di Gravy Analytics, Predicio, non ha risposto alle ripetute richieste di interviste, e il cofondatore di Complementics, l’altra intermediaria, afferma che i dati di Gundersen sono stati utilizzati solo per analisi di marketing e che non  sono stati condivisi con i servizi segreti del governo degli Stati Uniti, le forze dell'immigrazione o le forze dell'ordine.
+- La storia del giornalista norvegese Martin Gundersen e il successivo sviluppo circa il passaggio delle informazioni da parte delle società broker di dati può circoscrivere uno scenario specifico. Un caso particolare che ha riguardato solo alcune aziende. C’è però anche l’esempio dello sviluppatore dell’app meteo che sembra non sapere dove finiscano i dati degli utenti che gli servono per “monetizzare” l’applicazione mobile.
+- Nell’elenco bisogna anche includere la società londinese Tamoco che ha venduto i dati di localizzazione di 140.000 norvegesi alla NRK per 3.000 euro.
+- Lo scenario complessivo che si ricava da questi tre episodi, alcuni anche correlati, è che c’è un mercato dei dati degli utenti di internet che segue percorsi non ben tracciabili.
+- I cittadini europei ricevono una tutela da parte del GDPR adottato nel 2018 che dà loro il potere anche di richiedere i dati in possesso di queste aziende.
+- Se c’è però una cosa che insegna immediatamente questa storia, è lo sbilanciamento nel rapporto che c’è tra la velocità e il numero di politiche sulla privacy da accettare da parte degli utenti e l’effettiva possibilità di sapere cosa succede ai dati personali che si accetta di condividere con le società broker di informazioni.
+- Internet, le app, la navigazione mobile sono universi veloci, spesso anche per la trasportabilità degli strumenti usati per navigare o usare un’app, come gli smartphone. Se anche si avesse voglia di leggere tutte le politiche sulla privacy delle applicazioni che vengono installate, spesso può non esserci il tempo per farlo perché il telefono è uno strumento veloce per natura. Che si usa anche in modo istintivo, e che stride con il monte di documenti da leggere per il solo fatto di avere installato un’app per il meteo.
+- La velocità di utilizzo non può tuttavia depotenziare la responsabilità degli utenti nel capire cosa si sta installando e quali dati un’app collezionerà circa la loro vita e le loro abitudini.
+- Però è necessario che il bilanciamento tra responsabilità dell’utente e quello delle società venga pareggiato, anche nella quantità incredibile di clausole a cui un utente deve prestare attenzione per non rischiare di essere un grappolo di puntini su una mappa geografica che rappresenta i suoi spostamenti. La riservatezza di una vita acquistabile anche per 3.000 euro.
+- © riproduzione riservata
+- Copyright © 2023 DDay.it - Scripta Manent servizi editoriali srl - Tutti i diritti sono riservati  - P.IVA 11967100154
+
+URL: https://news.bloomberglaw.com/privacy-and-data-security/norway-probes-u-s-u-k-companies-for-alleged-privacy-breaches
+- By Marcus Clausen
+- Norway’s privacy regulator said it is investigating Disqus, a U.S.-based blog hosting service, and Tamoco, a location information provider in the U.K., for possible violations of Europe’s General Data Protection Regulation.
+- The regulator said it’s following up on a report by state-funded broadcaster NRK that found San Francisco-based Disqus excluded three nations from a privacy setting designed specifically for users covered by the European law.
+- It’s also investigating a separate NRK report on how journalists were able to identify some individuals by combining supposedly anonymized Tamoco data collected from cellphone and tablet apps with other factors, such as addresses ...
+- AI-powered legal analytics, workflow tools and premium legal & business news.
+- Log in to keep reading or access research tools.
+
+URL: https://news.ycombinator.com/item?id=23219782
+- I'm sorry, but we have enough trouble getting this audience to read the articles as it is.
+- 
+- 
+- The NRK subsidiary NRKbeta has "connected the dots" from that data set. In this article they present how they could track down military personnel visiting restricted military sites in Norway, including the disputed radar installation in Vardø, close to the Russian border.
+- 
+- 
+- 
+- https://www.ausa.org/articles/russia-gives-lessons-electroni...https://mwi.usma.edu/text-messages-hell-restraint-informatio...
+- https://mwi.usma.edu/text-messages-hell-restraint-informatio...
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- They might not wear them out on patrol or manoeuvres, but back at their tents/barracks, I would assume some if not all have their personal phones. You only need a couple to track them.I also read once Strave/Fitbit type trackers was rife at army bases and used to work out patrol routes.
+- I also read once Strave/Fitbit type trackers was rife at army bases and used to work out patrol routes.
+- 
+- 
+- 
+- 
+- 
+- 
+- "NRKbeta is NRKs sandbox for technology and media. We write about media, the internet and new technology with a focus on you as the user, and what we at NRK do in this field. We call it a sandbox because we want to test things out, be curious and find out how things change. And bring you, the users, with us on this journey."https://nrkbeta.no/EDIT:I also think it's important to contextualize this journalism with the current debate around the Norwegian contact tracing application.The application has been heavily criticized for the collection of GPS data for research usage and track behaviour when new guidelines are announced. They claim this data is going to be "anonymized", but alter clarified it would only be "pseudonomized".It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- https://nrkbeta.no/EDIT:I also think it's important to contextualize this journalism with the current debate around the Norwegian contact tracing application.The application has been heavily criticized for the collection of GPS data for research usage and track behaviour when new guidelines are announced. They claim this data is going to be "anonymized", but alter clarified it would only be "pseudonomized".It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- EDIT:I also think it's important to contextualize this journalism with the current debate around the Norwegian contact tracing application.The application has been heavily criticized for the collection of GPS data for research usage and track behaviour when new guidelines are announced. They claim this data is going to be "anonymized", but alter clarified it would only be "pseudonomized".It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- I also think it's important to contextualize this journalism with the current debate around the Norwegian contact tracing application.The application has been heavily criticized for the collection of GPS data for research usage and track behaviour when new guidelines are announced. They claim this data is going to be "anonymized", but alter clarified it would only be "pseudonomized".It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- The application has been heavily criticized for the collection of GPS data for research usage and track behaviour when new guidelines are announced. They claim this data is going to be "anonymized", but alter clarified it would only be "pseudonomized".It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- It is also unclear if the data collected is going to be deleted in December, when the app is set for deletion by the current regulation from Stortinget.
+- 
+- 
+- 
+- Now, other uses might require more time. If you really need to see where the person has infected others and this is your tool, it might not be enough time. It is too early to tell, though, and I'm not sure how well phone inspections would go here in Norway nor how many people would download the app. It would make me more likely to leave my phone at home if, you know, I had much life outside of home.
+- 
+- Back when Wikileaks released the Afghan War Diary, I wonder what would have happened if rather than a whistleblowers we would have people buying data collected from soldiers smartphones in order to reconstruct the material. It should be pretty easy to identify colaborators by which smartphone gets into contact with someones else smartphone thus reconstruct who is working with who.
+- 
+- 
+- Now they've added some mojo to prevent this but still sell location data.So how about running the same attack but instead of using the browser and their own website just use the bought location data.I suspect they didn't fix that as I've disabled appreaing on their heatmap but they still sold my location data when I forgot to disable my vpn during a run some time ago.
+- So how about running the same attack but instead of using the browser and their own website just use the bought location data.I suspect they didn't fix that as I've disabled appreaing on their heatmap but they still sold my location data when I forgot to disable my vpn during a run some time ago.
+- I suspect they didn't fix that as I've disabled appreaing on their heatmap but they still sold my location data when I forgot to disable my vpn during a run some time ago.
+- 
+- There were also armchair people wondering about other tracks in various places in the world.
+- 
+- https://www.bellingcat.com/resources/how-tos/2018/01/29/stra...
+- 
+- 
+- 
+- What's the punishment for having GPS tracking devices on a military base?Bet they all love their free USB drives sent from a friend they forgot they had, too.Hope they're epoxying the USB connections on their Win95 nuclear submarines.
+- Bet they all love their free USB drives sent from a friend they forgot they had, too.Hope they're epoxying the USB connections on their Win95 nuclear submarines.
+- Hope they're epoxying the USB connections on their Win95 nuclear submarines.
+- 
+- 
+- 
+- I can see the smartest countries providing a standard webservice: you-private-company-using-geolocation will have to query a certain area, and get back a shape that you must blur or otherwise suppress. Access to the service should be heavily logged / throttled to avoid mass-scanning, and obviously “customers” will be vetted and forced to sign onerous NDAs. You don’t like the service constraints? Tough shit, here is a law that says use it or be fucked.
+- 
+- 
+- 
+- I have ones around my home and where I work. No idea if that affects whatever data they sell (I doubt it, since you can still the full activity yourself even with a privacy zone), but stops people finding where you live/work and nicking your bike
+- 
+- 
+- 
+- 
+- 
+- Presumably you could filter by average speed and only get people with expensive bikes too.
+- 
+- If you find that > 3 of folks in that clique are close together and somewhere else, probably having a group event, many of them may not be in their "privacy area".Anything that collects your location data is a shtshow when it comes to operational security. Even having one friend with poor GNSS hygiene can expose an entire network of relationships.
+- Anything that collects your location data is a shtshow when it comes to operational security. Even having one friend with poor GNSS hygiene can expose an entire network of relationships.
+- 
+- Strava publish a "heat map" that shows aggregated activity of all their users. It's useful for finding common running/biking routes in areas you don't know well. That's how the military bases were found.https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/...EDIT: I forgot that Strava do sell heatmap data to government transportation departments and such so I fixed the comment.
+- https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/...EDIT: I forgot that Strava do sell heatmap data to government transportation departments and such so I fixed the comment.
+- EDIT: I forgot that Strava do sell heatmap data to government transportation departments and such so I fixed the comment.
+- 
+- https://www.tamoco.com/blog/best-app-revenue-calculator/
+- 
+- Original article is in Norwegian.
+- 
+- 
+- 
+- 
+- 
+- Even if GDPR should protect against it.
+- 
+- 
+- 
+- A lot of British intelligence during WW2 was gleamed not from the contents of the messages they intercepted, but rather from tracking who was where and communicating with whom.And if you stop soldiers from using mobile phones on restricted ground, you are just going to have lots of tracks stopping abruptly at the gates and secure facilities identifiable by their lack of emissions.Patterns.There have been great examples of correctly identifying the crews of nuclear submarines by their predictable periods of time offline.
+- And if you stop soldiers from using mobile phones on restricted ground, you are just going to have lots of tracks stopping abruptly at the gates and secure facilities identifiable by their lack of emissions.Patterns.There have been great examples of correctly identifying the crews of nuclear submarines by their predictable periods of time offline.
+- Patterns.There have been great examples of correctly identifying the crews of nuclear submarines by their predictable periods of time offline.
+- There have been great examples of correctly identifying the crews of nuclear submarines by their predictable periods of time offline.
+- 
+- 
+- 
+- 
+- In any case, the attack here was to identify personnel based on known locations, not finding new locations in the first place. Big bases can't be hidden anyway, the best you can do is conceal what happens indoor in them so it seems silly to let foreign intelligence track personnel movement inside a base...
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- https://www.nytimes.com/interactive/2019/12/19/opinion/locat...
+- 
+- 
+
+URL: https://www.bbc.co.uk/news/technology-59063766
+- A British firm which sells people's location data has admitted that some of its information was gained without seeking permission from users.
+- Huq uses location data from apps on people's phones, and sells it on to clients, which include dozens of English and Scottish city councils.
+- It told the BBC that in two cases, its app partners had not asked for consent from users.
+- But it added that the issue had now been rectified.
+- In a statement, the firm said it was aware of two "technical breaches" of data privacy requirements.
+- But it added that it had asked both to "rectify their code and republish their apps", which they had done.
+- "Huq data is used anonymously. Nevertheless consent is a vital pillar of data collection and must be taken seriously. We strive to ensure consent is explicitly sought by all our app partners. If there is a breach, we always act swiftly," said Conrad Poulson, chief executive of Huq.
+- Kaibits Software, which developed one of the apps in question. admitted that there had been "problems with the permissions" but they were now resolved. The second app developer did not respond.
+- Huq did not rule out the possibility that other apps may have failed to ask for proper consent. "It is possible that we or our partners may uncover future technical issues, but what's important is how quickly we act and how seriously we take the issue," the firm told the BBC.
+- The apps in question - one which measured wi-fi strength and another that scanned barcodes - had been highlighted in a story published by Vice. It questioned how clear it was to users that apps they had downloaded for one purpose were sharing information for a completely different one.
+- Huq advertises a range of services on its website, promoting how its "real-time footfall metrics" can be used "to discover where people go and why".
+- So, for instance, a council could use the data it provides to estimate how many people visited a High Street within a given timeframe.
+- AppCensus, a company that analyses the privacy of apps, looked at which apps Huq did business with. It found ones for flight-tracking, weather, and Muslim prayers were among those sending information to the company.
+- Co-founder Joel Reardon told the BBC: "Looking across a dozen or so apps that include Huq, I've noticed large variations in how users are given notice of how their GPS location tracker, along with information about their home wi-fi router, is being collected.
+- "If users are expected to read through countless privacy policies, then I feel that these should at least be an accurate description of what is actually happening," he said.
+- According to analysis from Danish TV2, Android apps are far more likely to pass on location data than those on iPhones.
+- Google told the BBC that it was investigating.
+- Firms that collect location data from apps and then sell it on are under increased scrutiny. The Danish data authority is currently looking into whether there is "a legal basis" for the way Huq has processed personal data.
+- Meanwhile, the UK's Information Commissioner's Office has issued a reprimand to another UK-based location data collection firm, Tamoco, for "failing to provide sufficient privacy information to UK citizens".
+- It told the BBC that it had asked the firm to "review the personal data they collected to ensure that UK citizens' data is no longer processed and that any remaining records should be deleted".
+- In 2019, Norwegian broadcaster NRK bought raw location data from Tamoco for £3,000. For this fee, it received 460 million rows of data from more than 140,000 phones and tablets. While this did not contain any names or mobile numbers, it did offer granular insights into people's movements which enabled the broadcaster to find out the real identities of people.
+- It allowed them to track people, in what journalist Martin Gundersen described as "frightening detail".
+- The data showed one man as he went to a hospital and a job interview. Another, a member of the military, had their movements tracked from an army base to other locations.
+- The BBC has asked Tamoco for comment.
+- How will data and AI change London?
+- Digital ad industry accused of huge data breach
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Privacy
+- A huge but little-known industry has cropped up around monetizing people’s movements
+        
+        
+          
+
+By 
+Jon Keegan and 
+
+      Alfred Ng
+- Companies that you likely have never heard of are hawking access to the location history on your mobile phone. An estimated $12 billion market, the location data industry has many players: collectors, aggregators, marketplaces, and location intelligence firms, all of which boast about the scale and precision of the data that they’ve amassed.
+- Location firm Near describes itself as “The World’s Largest Dataset of People’s Behavior in the Real-World,” with data representing “1.6B people across 44 countries.” Mobilewalla boasts “40+ Countries, 1.9B+ Devices, 50B Mobile Signals Daily, 5+ Years of Data.” X-Mode’s website claims its data covers “25%+ of the Adult U.S. population monthly.”
+- In an effort to shed light on this little-monitored industry, The Markup has identified 47 companies that harvest, sell, or trade in mobile phone location data. While hardly comprehensive, the list begins to paint a picture of the interconnected players that do everything from providing code to app developers to monetize user data to offering analytics from “1.9 billion devices” and access to datasets on hundreds of millions of people. Six companies claimed more than a billion devices in their data, and at least four claimed their data was the “most accurate” in the industry.
+- Company says it can “track the purchasing behaviors of millions of US consumers, in-store and online, with a robust history of consumer spending and shopper behavior data to gain an actionable, total-market view.”
+- Did not respond.
+- Company uses “a combination of location-based device data combined with Acxiom
+        descriptive and predictive data to create audiences that show specific interests or in-market tendencies
+        based on the consumers’ actual visits to stores and dealerships and making purchases at specific stores or with specific brands.”
+- “Acxiom does not collect or license movement data in the U.S., and no location data is used at the personally identifiable level.” —Matt Ramsey, Acxiom spokesperson
+- Company says that they “overlay mobile SDK derived, background location data over specific Points of Interest (POI) locations” and “are able to calculate foot traffic and/or identify audience segments walking by or into the given locations at any given day and time.”
+- “Adsquare is not a location data broker. Adsquare does not resell data in a raw format to third parties. . . Adsquare doesn’t collect location data. Adsquare sources and aggregates location data from a variety of suppliers.” —Christoph Herwig, Adsquare VP marketing
+- Company says they have “the largest and most accurate data in the market, from hundreds of millions of cellphones,” and “300 billion monthly data points since 2015” as well as “100+ observations per device per day.”
+- “What we provide is just aggregated metrics—what you would get if you would sit outside a Walmart with a people counter every day for the last five years, we will just give it to you.” —Yiannis Tsiounis, CEO Advan Research
+- Company says their data “includes an average of 250+ million unique devices, perfect for sample selection,” with a GPS data panel that “goes back to January 2017 for historical trend analysis.”
+- Did not respond.
+- Company says: “In this new era of alternative data, acquiring the right data requires countless hours and resources dedicated to sourcing, vetting, cleaning, analysis, & implementation, as well as endless back-and-forth vendor communication.”
+- “We are not a location data broker per se and are most similar to Datarade actually.”  —Jordan Hauer, CEO Amass Insights
+- Company says it specializes in “sourcing large, esoteric, data sets and finding investment managers and corporates who would find value in having this information edge. Sectors that we currently cover, include ... Geolocation....”
+- Did not respond.
+- Company says its data providers include “Foursquare, whose location data is derived from 220 million unique consumers and includes more than 60 million global commercial venues.”
+- “Only qualified data providers will have access to the AWS Data Exchange. Potential data providers are put through a rigorous application process.” —Claude Shy, Amazon spokesperson
+- The Wall Street Journal reported that Anomaly Six collects location data from hundreds of millions of mobile phones via more than 500 mobile apps and provides global location data to U.S. government agencies.
+- Did not respond. 
+        
+        In August 2020, a spokesperson for Anomaly Six told the WSJ: “Anomaly Six is a veteran-owned small business that processes and visualizes location data sourced from mobile devices for analytics and insights.”
+        Source: https://www.wsj.com/articles/u-s-government-contractor-embedded-software-in-apps-to-track-phones-11596808801
+- Protocol reported that Babel Street licenses an unadvertised product called Locate X to U.S. Customs and Border Protection.
+- Did not respond. 
+        
+        In March 2020, Babel Street spokesperson Lacy Talton told Protocol, “Although data content is freely available without restriction from thousands of vendors and suppliers, Babel Street employs a variety of measures to ensure appropriate use of the data.”
+        
+        Source: https://www.protocol.com/fintech/binance-regulation-crypto
+- Company says: “Using‌ ‌our‌ ‌370m‌ ‌opted-in‌ ‌global‌ ‌planning‌ ‌and‌ ‌measurement‌ ‌panel‌ ‌and‌ ‌taking‌ ‌an‌ ‌aggregated‌ ‌and‌ ‌anonymous‌ ‌approach‌ ‌to‌ ‌audience‌ ‌targeting,‌ ‌Blis‌ ‌reaches‌ ‌precise‌ ‌audiences‌ ‌at‌ ‌scale‌ ‌without‌ ‌reliance‌ ‌on‌ ‌personal‌ ‌data.‌” ‌ ‌
+- Did not respond.
+- Company says customers “have access to the data that we collect and update minute-by-minute. With more than 1 billion devices globally, we're a leader in the mobile data offering space.”
+- Did not respond.
+- Company says it has “the privacy-safe location data you need, plus the tools and expertise to quickly build custom solutions.” Advertises that its data can be used for “measuring the impact of your advertising dollars, planning where to open the next store or predicting market trends.”
+- “We do not publicly release a list of our partner apps for competitive reasons. The end users of any app working with Cuebiq though will know that Cuebiq is a partner of the app and will receive the consent window above, that is what matters.” —Bill Daddi, spokesperson for Cuebiq
+- Company offers to visitors the ability to “choose the right location data with confidence. Skip months of research. Find, compare, and choose the right data for your business.... Find the best offer from 2,000+ data providers worldwide.”
+- Did not respond.
+- Company says: “Reach customers based on real-world movement. Take your marketing investment further by using location data to better understand your customers and target them on their journey towards your brand.”
+- “Foursquare receives location data from a few types of sources: owned and operated applications, apps that use our location tools (when the app developer permits us to use such data), and carefully vetted suppliers.” —Ashley Dawkins, Foursquare VP of communications
+- Company says: “Leverage our always-on location data to accurately identify fans who have been directly exposed to your in-stadium signage.”
+- Did not respond.
+- Company says its location data platform “aggregates raw location signals in the cloud from many different data providers and tens of thousands of apps.”
+- Did not respond.
+- Company says it has “the highest quality data and it's verified through an independent accuracy audit.” Marketing highlights: “120 Million Unique Monthly Users / 100 Million places and points of interest / 30 Billion visits annually.”
+- Did not respond.
+- Company says its data “is sourced exclusively using our own specialised software from carefully selected mobile app partners. This first-party relationship allows us to guarantee control over data quality and the collection of end-user consent.”
+- Did not respond.
+- Company says “being best-in-class means providing our customers with access to the most accurate and precise, permission-based, SDK-derived location data available today.”
+- Did not respond.
+- Company says they “collect and curate high quality geolocation signals from millions of connected devices worldwide.”
+- Did not respond.
+- Company offers “rich categorical data from the Kochava Collective with all-in-one or a la carte data feeds” including “Precision Location.”
+- Did not respond.
+- Company says: “Savvy Location Intelligence platforms such as Lifesight have adopted SDK methodology because of its comprehensive data points. Harnessing the power of AI, this process is further refined in order to retrieve accurate signals.”
+- Did not respond.
+- Company says its data covers “40+ Countries / 1.9B+ Devices / 50B Mobile Signals Daily / 5+ Years of Data”
+- “Mobilewalla acquires data from various third parties in the digital ecosystem including publishers, demand side platforms (DSP), data management platforms (DMP) and data aggregators. We do not provide data in real-time. We do not have, nor do we provide, data that can be tied directly to an individual.” —Laurie Hood, Mobilewalla CMO
+- Company says: “Ready to buy location data? Narrative's data streaming platform makes it quick and easy to discover and buy raw location data. Schedule a call with a member of our sales team to get started today.”
+- “You know, from afar, we may look like a broker, but we're really just giving them the technology that lets them buy and sell the data. We take software and license it to the buyers and sellers of the data. So the buyers and sellers can work directly with each other as opposed to working through Narrative.” —Nick Jordan, Narrative CEO
+- Company describes itself as “The World's Largest Dataset of People's Behavior in the Real-World,” covering “1.6B people across 44 countries.... 5 billion events processed per day.”
+- Did not respond.
+- Company claims to have “The most robust mobile location data set in the industry. We've built the most robust dataset of compliance-first mobile location data so you can focus on building game-changing products and solutions.”
+- Did not respond.
+- Company claims to “curate the best signals from within Oracle's own datasets and those sourced from third-party providers to deliver increased quality and scale, diverse signals, and simplified buying and cost structures,” with data from companies including PlaceIQ and Gravy Analytics.
+- Company declined to comment.
+- Company claims its data covers “1 B monthly active unique mobile devices with 200 B+ events across 190+ countries.” It was also cited in a Wall Street Journal  article  as providing location data for political ads.
+- Did not respond.
+- Company offers access to “PlaceIQ’s location-based audiences to discover new and innovative ways to reach consumers based on real-world behaviors.” Includes audience examples “Loyal Customers: Reach audiences who visit your location on a regular basis” and “Competitor Customers: Reach audiences who regularly visit your competitor’s locations.”
+- Did not respond.
+- Company says they have built “the World’s Most Accurate Location Tracking SDK,” which it claims is “deployed into millions of devices.” Numbers include:
+        “1.5B+ Monthly Visitors / 20M+ Active Devices / 13M+ Venues / 1K+ User Segments / 500+ Mobile Apps”
+- “We are not actually providing or selling the acquired data to anyone. We use the data as a panel to run AI and Machine Learning algorithms to make estimations on foot traffic patterns to Commercial Real Estate locations across the US. The information we provide our customers and users is based on these estimations, and not the data we aggregate.” —Ethan Chernofsky, Placer.ai VP marketing
+- Company recently said it provides “ultra precise mobile location data to measure offline results of products, services, or media campaigns.”
+- Did not respond.
+- Company says it analyzes “traffic foot data and pedestrian flow through geo-referenced data, derived from the consumption of mobile apps.”
+- Did not respond.
+- Company offers “location data from 350M+ devices seen per month in nearly every country. Analyse faster, discover hidden patterns and gain deeper insights with Quadrant’s Algorithms.”
+- Did not respond.
+- Company offers a “unique set of aggregated Global mobile location data. With millions of high frequency DAU’s - clients have the rare accessibility to track mobile activity across a wide spectrum of use cases. Gain vital intelligence about your audience. Directly geo-target devices and view tracking on up to 2 years of historic activity.”
+- Did not respond.
+- Company says: “We process privacy compliant location data for approximately 50 million opted-in mobile users every day across North America. Across those devices, we see about 20 billion location events every day.”
+- “Reveal Mobile does not collect, manage, market, or sell personally identifiable information (PII). We do not pair our data with any other data sets. Reveal Mobile's data supply comes from people who have opted in to location services in the mobile apps they use.” —Dan Dillon, Reveal Mobile CMO
+- Company says it partners with “mobile applications that obtain opt-in consent from its users to collect anonymous location data. This data is not associated with any name or email address. This data includes the latitude and longitude of a device at a given point in time. We take this latitude/longitude information and determine visits to points of interest.”
+- Company declined to comment.
+- Company offers “a wide range of open and commercial data sets across 16 categories including public health, weather, location, demographics, SaaS providers and more.”
+- Did not respond.
+- Company says “we don’t just find your customers in the mobile world. We know where they are in the real world in real-time. Via location-based targeting, you can use Start.io data to interact with customers when they are in physical proximity to your stores.”
+- Did not respond.
+- Company says: “We can track where individuals go and contextually target them based on their movement” and offers “Comprehensive identities across physical and digital space.... Reach audiences with ads across every channel as they move across devices and locations throughout the day.”
+- Did not respond.
+- Company claims to have “The industry’s most accurate and trustworthy location data. We pride ourself on our accuracy and transparency. No more false data, 100% consented and privacy compliant.”
+- Did not respond.
+- Company describes itself as “an artificial intelligence engine for extracting actionable information from the real-time locations of mobile phones everywhere, based on the largest repository of high-quality location data after Google and Apple.”
+- Did not respond.
+- Company claims “The industry’s most trustworthy location data....
+        100+ countries / 10 million active users / 15 billion data points a day.”
+- Did not respond.
+- Company recently said as a “pioneer in mobile location information, Venntel supports our national interests through technological innovation, data reliability, and proven results.”
+- Did not respond.
+- Company claims “Our data is sourced from a large and unique set of sources, giving us a remarkably un-biased set of data. 212 Active Apps / 61m Unique Devices Seen Monthly.”
+- Did not respond.
+- Company claims “Our core population human movement dataset delivers the most granular and frequent GPS signals available in a third-party dataset. Unlike other data providers who rely on one SDK, we source from thousands of apps and SDKs to avoid a biased sample.”
+- Did not respond.
+- Motherboard reported that X-Mode, which is now Outlogic, has been identified as a location data provider that sold data to the U.S. military.
+- Did not respond.
+- /47
+- “40+ Countries, 1.9B+ Devices, 50B Mobile Signals Daily, 5+ Years of Data”
+- “The World’s Largest Dataset of People’s Behavior in the Real-World”
+- “There isn’t a lot of transparency and there is a really, really complex shadowy web of interactions between these companies that’s hard to untangle,” Justin Sherman, a cyber policy fellow at the Duke Tech Policy Lab, said. “They operate on the fact that the general public and people in Washington and other regulatory centers aren’t paying attention to what they’re doing.”
+- Occasionally, stories illuminate just how invasive this industry can be. In 2020, Motherboard reported that X-Mode, a company that collects location data through apps, was collecting data from Muslim prayer apps and selling it to military contractors. The Wall Street Journal also reported in 2020 that Venntel, a location data provider, was selling location data to federal agencies for immigration enforcement.
+- Every step you take is tracked and monetized in a $12 billion market for mobile phone location data. What can you do about it? Not much—but there are a few ways to monitor and manage the data leaving your phone.
+- A Catholic news outlet also used location data from a data vendor to out a priest who had frequented gay bars, though it’s still unknown what company sold that information.
+- Many firms promise that privacy is at the center of their businesses and that they’re careful to never sell information that can be traced back to a person. But researchers studying anonymized location data have shown just how misleading that claim can be.
+- The truth is, it’s hard to know all the ways in which your movements are being tracked and traded. Companies often reveal little about what apps serve as the sources of data they collect, what exactly that data consists of, and how far it travels. To piece together a picture of the ecosystem, The Markup reviewed the websites and marketing language of each of the 47 companies we identified as operating in the location data industry, as well as any information they revealed about how the data got to them. (See our methodology here.)
+- Most times, the location data pipeline starts off in your hands, when an app sends a notification asking for permission to access your location data.
+- Apps have all kinds of reasons for using your location. Map apps need to know where you are in order to give you directions to where you’re going. A weather, waves, or wind app checks your location to give you relevant meteorological information. A video streaming app checks where you are to ensure you’re in a country where it’s licensed to stream certain shows.
+- But unbeknownst to most users, some of those apps sell or share location data about their users with companies that analyze the data and sell their insights, like Advan Research. Other companies, like Adsquare, buy or obtain location data from apps for the purpose of aggregating it with other data sources. Companies like real estate firms, hedge funds and retail businesses might then turn and use the data for their own advertising, analytics, investment strategy, or marketing purposes.
+- Serge Egelman, a researcher at UC Berkeley’s ​​International Computer Science Institute and CTO of AppCensus, who has researched sensitive data permissions on mobile apps, said it’s hard to tell which apps on your phone simply use the data for their own functional purposes and which ones release your data into the economic ether.
+- “When the app asks for location, in the moment, because maybe you click the button to find stuff near you and you get a permission dialog, you might reasonably infer that ‘Oh, that’s to service that request to provide that functionality,’ but there’s no guarantee of that,” Egelman said. “And there’s certainly usually never a disclosure that says that the data is going to be limited to that purpose.”
+- Companies that trade in this data are reluctant to share which apps they get data from.
+- The Markup asked spokespeople from all the companies on our list where they get the location data they obtain.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Companies like Adsquare and Cuebiq told The Markup that they don’t publicly disclose what apps they get location data from to keep a competitive advantage but maintained that their process of obtaining location data was transparent and with clear consent from app users.
+- “It is all extremely transparent,” said Bill Daddi, a spokesperson for Cuebiq.
+- He added that consumers must know what the apps are doing with their data because so few consent to share it. “The opt-in rates clearly confirm that the users are fully aware of what is happening because the opt-in rates can be as low as less than 20%, depending on the app,” Daddi said in an email.
+- Yiannis Tsiounis, the CEO of the location analytics firm Advan Research, said his company buys from location data aggregators, who collect the data from thousands of apps—but would not say which ones. Tsiounis said the apps he works with do explicitly say that they share location data with third parties somewhere in the privacy policies, though he acknowledged that most people don’t read privacy policies.
+- “There’s only so much you can squeeze into the notification message. You get one line, right? So you can’t say all of that in the notification message,” Tsiounis said. “You only get to explain to the user, ‘I need your location data for X, Y, and Z.’ What you have to do is, there has to be a link to the privacy policy.”
+- Only one company spokesperson, Foursquare’s Ashley Dawkins, actually named any specific apps—Foursquare’s own products, like Swarm, CityGuide, and Rewards—as sources for its location data trove.
+- But Foursquare also produces a free software development kit (SDK)—a set of prebuilt tools developers can use in their own apps—that can potentially track location through any app that uses it. Foursquare’s Pilgrim SDK is used in apps like GasBuddy, a service that compares prices at nearby gas stations, Flipp, a shopping app for coupons, and Checkout 51, another location-based discount app.
+- GasBuddy, Flipp, and Checkout 51 didn’t respond to requests for comment.
+- When the app asks for location … you might reasonably infer that ‘Oh, that’s to service that request to provide that functionality,’ but there’s no guarantee of that.
+- A search on Mighty Signal, a site that analyzes and tracks SDKs in apps, found Foursquare’s Pilgrim SDK in 26 Android apps.
+- While not every app with Foursquare’s SDK sends location data back to the company, the privacy policies for Flipp, Checkout 51, and GasBuddy all disclose that they share location data with the company.
+- Foursquare’s method of obtaining location data through an embedded SDK is a common practice. Of the 47 companies that The Markup identified, 12 of them advertised SDKs to app developers that could send them location data in exchange for money or services.
+- Placer.ai says in its marketing that it does foot traffic analysis and that its SDK is installed in more than 500 apps and has insights on more than 20 million devices.
+- “We partner with mobile apps providing location services and receive anonymized aggregated data. Very critically, all data is anonymized and stripped of personal identifiers before it reaches us,” Ethan Chernofsky, Placer.ai’s vice president of marketing, said in an email.
+- Once a person’s location data has been collected from an app and it has entered the location data marketplace, it can be sold over and over again, from the data providers to an aggregator that resells data from multiple sources. It could end up in the hands of a “location intelligence” firm that uses the raw data to analyze foot traffic for retail shopping areas and the demographics associated with its visitors. Or with a hedge fund that wants insights on how many people are going to a certain store.
+- “There are the data aggregators that collect the data from multiple applications and sell in bulk. And then there are analytics companies which buy data either from aggregators or from applications and perform the analytics,” said Tsiounis of Advan Research. “And everybody sells to everybody else.”
+- Some data marketplaces are part of well-known companies, like Amazon’s AWS Data Exchange, or Oracle’s Data Marketplace, which sell all types of data, not just location data. Oracle boasts its listing as the “world’s largest third-party data marketplace” for targeted advertising, while Amazon claims to “make it easy to find, subscribe to, and use third-party data in the cloud.” Both marketplaces feature listings for several of the location data companies that we examined.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Amazon spokesperson Claude Shy said that data providers have to explain how they gain consent for data and how they monitor people using the data they purchase.
+- “Only qualified data providers will have access to the AWS Data Exchange. Potential data providers are put through a rigorous application process,” Shy said.
+- Oracle declined to comment.
+- Other companies, like Narrative, say they are simply connecting data buyers and sellers by providing a platform. Narrative’s website, for instance, lists location data providers like SafeGraph and Complementics among its 17 providers with more than two billion mobile advertising IDs to buy from.
+- But Narrative CEO Nick Jordan said the company doesn’t even look at the data itself.
+- “There’s a number of companies that are using our platform to acquire and/or monetize geolocation data, but we actually don’t have any rights to the data,” he said. “We’re not buying it, we’re not selling it.”
+- To give a sense of how massive the industry is, Amass Insights has 320 location data providers listed on its directory, Jordan Hauer, the company’s CEO, said. While the company doesn’t directly collect or sell any of the data, hedge funds will pay it to guide them through the myriad of location data companies, he said.
+- “The most inefficient part of the whole process is actually not delivering the data,” Hauer said. “It’s actually finding what you’re looking for and making sure that it’s compliant, making sure that it has value and that it is exactly what the provider says it is.”
+- There are a whole slew of potential buyers for location data: investors looking for intel on market trends or what their competitors are up to, political campaigns, stores keeping tabs on customers, and law enforcement agencies, among others.
+- Data from location intelligence firm Thasos Group has been used to measure the number of workers pulling extra shifts at Tesla plants. Political campaigns on both sides of the aisle have also used location data from people who were at rallies for targeted advertising.
+- Fast food restaurants and other businesses have been known to buy location data for advertising purposes down to a person’s steps. For example, in 2018, Burger King ran a promotion in which, if a customer’s phone was within 600 feet of a McDonalds, the Burger King app would let the user buy a Whopper for one cent.
+- The Wall Street Journal and Motherboard have also written extensively about how federal agencies including the Internal Revenue Service, Customs and Border Protection, and the U.S. military bought location data from companies tracking phones.
+- Of the location data firms The Markup examined, the offerings are diverse.
+- Per year cost of a license for one location dataset from Outlogic
+- Advan Research, for instance, uses historical location data to tell its customers, largely retail businesses or their private equity firm owners, where their visitors came from, and makes guesses about their income, race, and interests based on where they’ve been.
+- “For example, we know that the average income in this neighborhood by census data is $50,000. But then there are two devices—one went to Dollar General, McDonald’s, and Walmart, and the other went to a BMW dealer and Tiffany’s … so they probably make more money,” Advan Research’s Tsiounis said.
+- Others combine the location data they obtain with other pieces of data gathered from your online activities. Complementics, which boasts data on “more than a billion mobile device IDs,” offers location data in tandem with cross-device data for mobile ad targeting.
+- The prices can be steep.
+- Outlogic (formerly known as X-Mode) offers a license for a location dataset titled “Cyber Security Location data” on Datarade for $240,000 per year. The listing says “Outlogic’s accurate and granular location data is collected directly from a mobile device’s GPS.”
+- At the moment, there are few if any rules limiting who can buy your data.
+- Sherman, of the Duke Tech Policy Lab, published a report in August finding that data brokers were advertising location information on people based on their political beliefs, as well as data on U.S. government employees and military personnel.
+- “There is virtually nothing in U.S. law preventing an American company from selling data on two million service members, let’s say, to some Russian company that’s just a front for the Russian government,” Sherman said.
+- Existing privacy laws in the U.S., like California’s Consumer Privacy Act, do not limit who can purchase data, though California residents can request that their data not be “sold”—which can be a tricky definition. Instead, the law focuses on allowing people to opt out of sharing their location in the first place.
+- We know in practice that consumers don’t take action. It’s incredibly taxing to opt out of hundreds of data brokers you’ve never even heard of.
+- ​​The European Union’s General Data Protection Regulation has stricter requirements for notifying users when their data is being processed or transferred.
+- But Ashkan Soltani, a privacy expert and former chief technologist for the Federal Trade Commission, said it’s unrealistic to expect customers to hunt down companies and insist they delete their personal data.
+- “We know in practice that consumers don’t take action,” he said. “It’s incredibly taxing to opt out of hundreds of data brokers you’ve never even heard of.”
+- Companies like Apple and Google, who control access to the app stores, are in the best position to control the location data market, AppCensus’s Egelman said.
+- “The real danger is the app gets booted from the Google Play store or the iOS app store,” he said.” As a result, your company loses money.”
+- Google and Apple both recently banned app developers from using location reporting SDKs from several data companies.
+- Researchers found, however, that the companies’ SDKs were still making their way into Google’s app store.
+- Apple didn’t respond to a request for comment.
+- “The Google Play team is always working to strengthen privacy protections through both product and policy improvements. When we find apps or SDK providers that violate our policies, we take action,” Google spokesperson Scott Westover said in an email.
+- Digital privacy has been a key policy issue for U.S. senator Ron Wyden, a Democrat from Oregon, who told The Markup that the big app stores needed to do more.
+- “This is the right move by Google, but they and Apple need to do more than play whack-a-mole with apps that sell Americans’ location information. These companies need a real plan to protect users’ privacy and safety from these malicious apps,” Wyden said in an email.
+- Send tips to keegan@themarkup.org
+- The interactive graphic for this story has been updated to add additional comments from a few companies.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- There’s a Multibillion-Dollar Market for Your Phone’s Location Data
+- From the series —
+    
+
+      Privacy and 
+
+      Investigations
+- Jon Keegan
+Investigative Data Journalist
+- Alfred Ng
+Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+- Huq GPS location data sharing
+- Meituan location tracking
+- Page infoType: IncidentPublished: April 2021Last updated: October 2021

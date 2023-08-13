@@ -1,0 +1,464 @@
+- Released: November 2022
+- Can you improve this page?Share your insights with us
+- Galatica is a large language model developed by Facebook that 'can store, combine and reason about scientific knowledge' in order to assist scientists 'summarize academic papers, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more'.
+- The system was trained on 106 billion tokens of open-access scientific text and data, including papers, textbooks, scientific websites, encyclopedias, reference material, and knowledge bases.
+- Released in November 2022, the model was withdrawn after three days in the wake of criticism from prominent AI researchers and technology commentators.
+- Criticism of Galactica has focused on the ease with which it could be prompted to generate inaccurate, racist, anti-semitic, homophobic, and offensive articles and research, and scientific misinformation.
+- According to AI researcher and entrepreneur Gary Marcus, Galactica constitutes 'pitch perfect and utterly bogus imitations of science and math, presented as the real thing.'
+- For University of Washington in Seattle biologist Carl Bergstrom, the problem with Galactica is that it 'pretends to a portal to knowledge. Actually it's just a random bullshit generator'.
+- 'It’s no longer possible to have some fun by casually misusing it. Happy?' Meta’s chief AI scientist Yann LeCun followed-up.
+- In a nod to the actual and/or potential limitations of its system, Meta notes (pdf) that 'there are no guarantees for truthful or reliable output from language models, even large ones on high-quality data like Galactica,' adding that the generated text might appear 'very authentic and highly confident,' but could still be wrong.
+- For Technology Review's Will Douglas Heaven, Meta's suggestion that 'the human-like text such models generate will always contain trustworthy information, as Meta appeared to do in its promotion of Galactica, is reckless and irresponsible.'
+- The marketing of the system demonstrates 'the all-too-common tendency of AI researchers to exaggerate the abilities of the systems they build', according to AI commentator Alberto Romero.
+- Operator: Meta/Facebook Developer: Meta/Facebook Country: USA; Global Sector: Technology Purpose: Assist scientists Technology: Large language model (LLM); NLP/text analysis; Neural network; Deep learning Issue: Accuracy/reliability; Bias/discrimination - race, ethnicity, gender, religion; Mis/disinformation; Safety Transparency: Black box; Marketing
+- Galactica website
+- Galactica research paper
+- Yan le Cun product promotion tweet
+- Yan le Cun incident response tweet
+URL: https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science
+- Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense.
+- On November 15 Meta unveiled a new large language model called Galactica, designed to assist scientists. But instead of landing with the big bang Meta hoped for, Galactica has died with a whimper after three days of intense criticism. Yesterday the company took down the public demo that it had encouraged everyone to try out.
+- Meta’s misstep—and its hubris—show once again that Big Tech has a blind spot about the severe limitations of large language models. There is a large body of research that highlights the flaws of this technology, including its tendencies to reproduce prejudice and assert falsehoods as facts.
+- Language models are mindless mimics that do not understand what they are saying—so why do we pretend they’re experts?
+- However, Meta and other companies working on large language models, including Google, have failed to take it seriously.
+- Galactica is a large language model for science, trained on 48 million examples of scientific articles, websites, textbooks, lecture notes, and encyclopedias. Meta promoted its model as a shortcut for researchers and students. In the company’s words, Galactica “can summarize academic papers, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.”
+- But the shiny veneer wore through fast. Like all language models, Galactica is a mindless bot that cannot tell fact from fiction. Within hours, scientists were sharing its biased and incorrect results on social media.
+- Absolutely.Galactica is little more than statistical nonsense at scale.Amusing. Dangerous. And IMHO unethical. https://t.co/15DAFJCzIb
+- “I am both astounded and unsurprised by this new effort,” says Chirag Shah at the University of Washington, who studies search technologies. “When it comes to demoing these things, they look so fantastic, magical, and intelligent. But people still don’t seem to grasp that in principle such things can’t work the way we hype them up to.”
+- Asked for a statement on why it had removed the demo, Meta pointed MIT Technology Review to a tweet that says: “Thank you everyone for trying the Galactica model demo. We appreciate the feedback we have received so far from the community, and have paused the demo for now. Our models are available for researchers who want to learn more about the work and reproduce results in the paper.”
+- A fundamental problem with Galactica is that it is not able to distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. People found that it made up fake papers (sometimes attributing them to real authors), and generated wiki articles about the history of bears in space as readily as ones about protein complexes and the speed of light. It’s easy to spot fiction when it involves space bears, but harder with a subject users may not know much about.
+- Many scientists pushed back hard. Michael Black, director at the Max Planck Institute for Intelligent Systems in Germany, who works on deep learning, tweeted: “In all cases, it was wrong or biased but sounded right and authoritative. I think it’s dangerous.”
+- I asked #Galactica about some things I know about and I'm troubled. In all cases, it was wrong or biased but sounded right and authoritative. I think it's dangerous.  Here are a few of my experiments and my analysis of my concerns. (1/9)
+- Even more positive opinions came with clear caveats: “Excited to see where this is headed!” tweeted Miles Cranmer, an astrophysicist at Princeton. “You should never keep the output verbatim or trust it. Basically, treat it like an advanced Google search of (sketchy) secondary sources!”
+- Galactica also has problematic gaps in what it can handle. When asked to generate text on certain topics, such as “racism” and “AIDS,” the model responded with: “Sorry, your query didn’t pass our content filters. Try again and keep in mind this is a scientific language model.”
+- A group of over 1,000 AI researchers has created a multilingual large language model bigger than GPT-3—and they’re giving it out for free.
+- The Meta team behind Galactica argues that language models are better than search engines. “We believe this will be the next interface for how humans access scientific knowledge,” the researchers write.
+- This is because language models can “potentially store, combine, and reason about” information. But that “potentially” is crucial. It’s a coded admission that language models cannot yet do all these things. And they may never be able to.
+- “Language models are not really knowledgeable beyond their ability to capture patterns of strings of words and spit them out in a probabilistic manner,” says Shah. “It gives a false sense of intelligence.”
+- Gary Marcus, a cognitive scientist at New York University and a vocal critic of deep learning, gave his view in a Substack post titled “A Few Words About Bullshit,” saying that the ability of large language models to mimic human-written text is nothing more than “a superlative feat of statistics.”
+- And yet Meta is not the only company championing the idea that language models could replace search engines. For the last couple of years, Google has been promoting language models, such as LaMDA, as a way to look up information.
+- It’s a tantalizing idea. But suggesting that the human-like text such models generate will always contain trustworthy information, as Meta appeared to do in its promotion of Galactica, is reckless and irresponsible. It was an unforced error.
+- My considered opinion of Galactica: it's fun, impressive, and interesting in many ways. Great achievement. It's just unfortunate that it's being touted as a practical research tool, and even more unfortunate that it suggests you use it to write complete articles.
+- And it wasn’t just the fault of Meta’s marketing team. Yann LeCun, a Turing Award winner and Meta’s chief scientist, defended Galactica to the end. On the day the model was released, LeCun tweeted: “Type a text and Galactica will generate a paper with relevant references, formulas, and everything.” Three days later, he tweeted: “Galactica demo is off line for now. It’s no longer possible to have some fun by casually misusing it. Happy?”
+- It's not quite Meta's Tay moment. Recall that in 2016, Microsoft launched a chatbot called Tay on Twitter—then shut it down 16 hours later when Twitter users turned it into a racist, homophobic sexbot. But Meta’s handling of Galactica smacks of the same naivete.
+- “Big tech companies keep doing this—and mark my words, they will not stop—because they can,” says Shah. “And they feel like they must—otherwise someone else might. They think that this is the future of information access, even if nobody asked for that future.”
+- Correction: A previous version of this story stated that Google has been promoting the language model PaLM as a way to look up information for a couple of years. The language model we meant to refer to is LaMDA.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://www.newscientist.com/article/2347520-metas-galactica-ai-can-write-scientific-papers-but-is-it-any-good/
+- Advertisement
+- Explore by section
+- Explore by subject
+- Explore our products and services
+- An artificial intelligence from Facebook owner Meta that is designed to write scientific research papers and Wikipedia articles has attracted criticism over its accuracy and public access has been removed
+- By Matthew Sparkes
+- 18 November 2022
+- Meta’s Galactica AI system is designed to solve the problem of information overload in scienceMeta Galactica AI
+- Meta’s Galactica AI system is designed to solve the problem of information overload in science
+- Meta Galactica AI
+- Facebook’s parent company, Meta, has released an AI model called Galactica that is designed to write essays or scientific papers summarising the state of the art on a given topic, complete with citations, as well as detailed Wikipedia articles. It can also carry out mathematical calculations and answer questions about specific molecules.
+- Meta didn’t respond to a request for interview, but its paper on Galactica says the tool is meant to …
+- Advertisement
+- To continue reading, subscribe
+ today with our introductory offers
+- No commitment, cancel anytime*
+- Offer ends 14th June 2023.
+- *Cancel anytime within 14 days of payment to receive a refund on unserved issues.
+- Inclusive of applicable taxes (VAT)
+- Existing subscribers
+- Advertisement
+- Explore the latest news, articles and features
+- News
+- Subscriber-only
+- News
+- Free
+- Comment
+- Subscriber-only
+- News
+- Subscriber-only
+- Trending New Scientist articles
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- Advertisement
+- Download the app
+
+URL: https://gizmodo.com/meta-ai-bot-galactica-1849813665
+- Meta paused its Artificial Intelligence (AI) bot last week, only two days after it went live to the public. The bot, called Galactica, was trained “on 106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites, encyclopedias, reference material, knowledge bases, and more,” the company told The Daily Beast.
+- It was supposed to help academics and researchers find papers and studies quickly and succinctly but instead was overwhelmed by vast amounts of misinformation that incorrectly cited reputable scientists.
+- Scientists’ reputations could be put on the line when they’re incorrectly cited in the text and Carl Bergstrom, a professor of biology at the University of Washington told CNET that Galactica’s problem is it was promoted as a way to get facts and information. But instead, he said it acted like “a fancy version of the game where you start out with a half sentence, then you let autocomplete fill in the rest of the story.”
+- Within hours of Galactica going live, users started reporting racist and inaccurate articles, with one person posting an image of the response to a request about linguistic prejudice. The bot’s response falsely claimed Black people “don’t have a language of their own” and immigrants “do not speak a language that is different from the language of the country they are immigrating to.”
+- Other generated information included a fake study about the benefits of eating crushed glass and falsified information about Stanford University researchers creating a “gaydar” software to find gay people on Facebook.
+- A Meta AI spokesperson told CNET, “Galactica is not a source of truth, it is a research experiment using [machine learning] systems to learn and summarize information.” He added, Galactica “is exploratory research that is short-term in nature with no product plans.” Meta AI Chief Scientist Yann LeCun told the outlet the bot was removed because the team was “so distraught by the vitriol on Twitter.”
+- Two days after Galactica’s launch, the Meta AI team paused the bot and Meta’s chief AI scientist Yann LeCun tweeted, “Galactica demo is offline for now. It’s no longer possible to have some fun by casually misusing it. Happy?”
+- Meta AI (previously called Facebook Artificial Intelligence Research) developed Galactica as a way to “organize science” and condense an overwhelming amount of scientific information found online. The idea was to have the AI do things like solve math problems, write scientific code, and craft summaries of research.
+- Meta does note on the Galactica website that the AI model does have limitations that can cause it to “hallucinate.” The site advises users to verify any information that pops up and goes on to say “There are no guarantees for truthful or reliable output from language models, even large ones on high-quality data like Galactica,” adding that the generated text might appear “very authentic and highly confident,” but it could still be wrong.
+- “I imagine that even with its many predictable flaws, there are desirable uses of such a system,” Vincent Conitzer, a professor of computer science at Carnegie Mellon University in Pittsburgh, told The Daily Beast.
+- “My impression is that Meta would have done better by putting more effort into this public release, by doing more serious user studies first, drawing attention to desirable uses of the system, and being honest and forthcoming about undesirable uses.”
+
+URL: https://www.cnet.com/science/chatgpt-is-a-stunning-ai-but-human-jobs-are-safe-for-now/
+- Your guide to a better future
+- Large language models can surprise and delight, but they're not perfect.
+- Should you worry about ChatGPT coming for your job?
+- If you've spent any time browsing social media feeds over the last week (who hasn't), you've probably heard about ChatGPT. The mesmerizing and mind-blowing chatbot, developed by OpenAI and released last week, is a nifty little AI that can spit out highly convincing, human-sounding text in response to user-generated prompts.
+- You might, for example, ask it to write a plot summary for Knives Out, except Benoit Blanc is actually Foghorn Leghorn (just me?), and it'll spit out something relatively coherent. It can also help fix broken code and write essays so convincing some academics say they'd score an A on college exams.
+- Its responses have astounded people to such a degree that some have even proclaimed, "Google is dead." Then there are those who think this goes beyond Google: Human jobs are in trouble, too.
+- The Guardian, for instance, proclaimed "professors, programmers and journalists could all be out of a job in just a few years." Another take, from the Australian Computer Society's flagship publication Information Age, suggested the same. The Telegraph announced the bot could "do your job better than you."
+- I'd say hold your digital horses. ChatGPT isn't going to put you out of a job just yet.
+- A great example of why is provided by the story published in Information Age. The publication utilized ChatGPT to write an entire story about ChatGPT and posted the finished product with a short introduction. The piece is about as simple as you can ask for -- ChatGPT provides a basic recounting of the facts of its existence -- but in "writing" the piece, ChatGPT also generated fake quotes and attributed them to an OpenAI researcher, John Smith (who is real, apparently).
+- This underscores the key failing of a large language model like ChatGPT: It doesn't know how to separate fact from fiction. It can't be trained to do so. It's a word organizer, an AI programmed in such a way that it can write coherent sentences.
+- That's an important distinction, and it essentially prevents ChatGPT (or the underlying large language model it's built on, OpenAI's GPT 3.5) from writing news or speaking on current affairs. (It also isn't trained on up-to-the-minute data, but that's another thing.) It definitely can't do the job of a journalist. To say so diminishes the act of journalism itself.
+- ChatGPT won't be heading out into the world to talk to Ukrainians about the Russian invasion. It won't be able to read the emotion on Kylian Mbappe's face when he wins the World Cup. It certainly isn't jumping on a ship to Antarctica to write about its experiences. It can't be surprised by a quote, completely out of character, that unwittingly reveals a secret about a CEO's business. Hell, it would have no hope of covering Musk's takeover of Twitter -- it's no arbiter of truth, and it just can't read the room.
+- It's interesting to see how positive the response to ChatGPT has been. It's absolutely worthy of praise, and the documented improvements OpenAI has made over its last product, GPT-3, are interesting in their own right. But the major reason it's really captured attention is because it's so readily accessible.
+- GPT-3 didn't have a slick and easy-to-use online framework and, though publications like the Guardian used it to generate articles, it made only a brief splash online. Developing a chatbot you can interact with, and share screenshots from, completely changes the way the product is used and talked about. That's also contributed to the bot being a little overhyped.
+- Strangely enough, this is the second AI to cause a stir in recent weeks.
+- On Nov. 15, Meta AI released its own artificial intelligence, dubbed Galactica. Like ChatGPT, it's a large language model and was hyped as a way to "organize science." Essentially, it could generate answers to questions like, "What is quantum gravity?" or explain math equations. Much like ChatGPT, you drop in a question, and it provides an answer.
+- Galactica was trained on more than 48 million scientific papers and abstracts, and it provided convincing-sounding answers. The development team hyped the bot as a way to organize knowledge, noting it could generate Wikipedia articles and scientific papers.
+- Problem was, it was mostly pumping out garbage -- nonsensical text that sounded official and even included references to scientific literature, though those were made up. The sheer volume of misinformation it was producing in response to simple prompts, and how insidious that misinformation was, bugged academics and AI researchers, who let their thoughts fly on Twitter. The backlash saw the project shut down by the Meta AI team after two days.
+- ChatGPT doesn't seem like it's headed in the same direction. It feels like a "smarter" version of Galactica, with a much stronger filter. Where Galactica was offering up ways to build a bomb, for instance, ChatGPT weeds out requests that are discriminatory, offensive or inappropriate. ChatGPT has also been trained to be conversational and admit to its mistakes.
+- And yet, ChatGPT is still limited the same way all large language models are. Its purpose is to construct sentences or songs or paragraphs or essays by studying billions (trillions?) of words that exist across the web. It then puts those words together, predicting the best way to configure them.
+- In doing so, it writes some pretty convincing essay answers, sure. It also writes garbage, just like Galactica. How can you learn from an AI that might not be providing a truthful answer? What kind of jobs might it replace? Will the audience know who or what wrote a piece? And how can you know the AI isn't being truthful, especially if it sounds convincing? The OpenAI team acknowledges the bot's shortcomings, but these are unresolved questions that limit the capabilities of an AI like this today.
+- So, even though the tiny chatbot is entertaining, as evidenced by this wonderful exchange about a guy who brags about pumpkins,  it's hard to see how this AI would put professors, programmers or journalists out of a job. Instead, in the short term, ChatGPT and its underlying model will likely complement what journalists, professors and programmers do. It's a tool, not a replacement. Just like journalists use AI to transcribe long interviews, they might use a ChatGPT-style AI to, let's say, generate a headline idea.
+- Because that's exactly what we did with this piece. The headline you see on this article was, in part, suggested by ChatGPT. But it's suggestions weren't perfect. It suggested using terms like "Human Employment" and "Humans Workers." Those felt too official, too... robotic. Emotionless. So, we tweaked its suggestions until we got what you see above.
+- Does that mean a future iteration of ChatGPT or its underlying AI model (which may be released as early as next year) won't come along and make us irrelevant?
+- Maybe! For now, I'm feeling like my job as a journalist is pretty secure.
+
+URL: https://aibusiness.com/nlp/meta-s-galactica-ai-criticized-as-dangerous-for-science
+
+URL: https://www.thedailybeast.com/metas-galactica-bot-is-the-most-dangerous-thing-it-has-made-yet
+- SEARCH
+- Galactica is a new AI model that was supposed to push scientific research to new places. Instead, it’s become a manufacturer for fake research and bigoted ideas.
+- Deputy Editor, Innovation & Tech
+- Though the deliciously entertaining chaos at Twitter and the collapse of FTX were the main tech industry stories of last week, they were far from the only disasters to unfold. On Nov. 15, Meta launched a demo of an AI dubbed Galactica. In a statement, Meta told The Daily Beast that the model was trained “on 106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites, encyclopedias, reference material, knowledge bases, and more.”
+- Think of it as a kind of academic search engine on steroids. With a simple prompt, Galactica “can summarize academic papers, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more,” the company wrote. It was going to be a cheat code for academics and researchers. No more hunting down the right study or paper for your research. No more being delayed by a tricky equation. Meta’s new bot could take care of all that for you with just a few keystrokes.
+- But just two days after going live, the company took the Galactica demo down.
+- Anyone even vaguely familiar with other large-language models—or AI that can read and generate texts—could have seen this coming. These bots have a long and sordid track record of producing biased, racist, sexist, and overall problematic results—and Galactica was no exception.
+- Within just a few hours of going live, Twitter users began posting instances where the new Meta bot would generate completely fake and racist research. One user discovered Galactica making up information about Stanford University researchers creating “gaydar” software to find gay people on Facebook. Another was able to get the bot to create a fake study about the benefits of eating crushed glass.
+- The bot would also completely filter out queries such as queer theory, AIDs, and racism. But perhaps one of the most disconcerting things about the entire affair, though, was the fact that it would create entirely fake studies and attribute them to actual scientists. Michael Black, the director at the Max Planck Institute for Intelligent Systems in Germany, pointed out in a Twitter thread several instances in which the Galactica would create false citations to real-world researchers.
+- Meanwhile, these citations would be attributed to very convincing text generated by the model—making it seem, on its face, entirely plausible and real.
+- Meta took down the demo just two days after launch—but the damage had already been done. It even led to Meta’s chief AI scientist Yann LeCun throwing a hissy fit about those pesky Twitter users pointing out glaring problems with the model. “It’s no longer possible to have some fun by casually misusing it. Happy?” he wrote.
+- On its face, a model like Galactica seems like a genuinely good idea for solving a big problem. There is a glut of scientific data out in the world, and currently no good way to wrap our tiny human minds around it all. It’s a worthy endeavor to design software able to synthesize decades or even centuries of work and deliver it to researchers in an easy and digestible way. Such a tool could push science and technology development to new heights, and Meta should get credit for trying to make this possible.
+- But the company completely shit the bed on this one—and, instead, created what is arguably its most dangerous AI model yet.
+- “I imagine that even with its many predictable flaws, there are desirable uses of such a system,” Vincent Conitzer, a professor of computer science at Carnegie Mellon University in Pittsburgh, told The Daily Beast. “My impression is that Meta would have done better by putting more effort into this public release, by doing more serious user studies first, drawing attention to desirable uses of the system, and being honest and forthcoming about undesirable uses.”
+- At its core, the problem is that Galactica is trying to be a source of authority. It’s been trained to generate material that reads like something that was written by flesh-and-blood academics. So when it starts to just make things up whole-cloth, that means that it can very quickly turn into a tool for bad actors pushing their own agendas.
+- It’s not a stretch to imagine a world in which someone like a COVID or climate change denier uses Galactica to create “studies” that fit their false narratives and worldviews. Race realists could use it to promote their racist and biased beliefs. Hell, you could start a TikTok trend of people eating crushed glass and point to research to back up why it’s a good idea.
+- These problems are exacerbated by the fact that the made up papers and studies are sometimes tied back to actual researchers who had nothing to do with it, putting real people’s livelihoods and reputations in danger. Imagine working your whole life as an astrophysicist only to see your name cited in a fake paper about how the Earth is actually flat.
+- To their credit, Meta does note on Galactica’s website that the model has major limitations and that it “can hallucinate.”
+- “There are no guarantees for truthful or reliable output from language models, even large ones trained on high-quality data like Galactica,” the website says. “NEVER FOLLOW ADVICE FROM A LANGUAGE MODEL WITHOUT VERIFICATION.” They also add that the generated text from Galactica might appear “very authentic and highly-confident” but could still be wrong.
+- While those warnings are well and good, it comes at complete odds with the messaging of Galactica being this massive game-changer for scientific research. In order for this bot to work, it needs to be authoritative and trustworthy. If it isn’t, what is even the point of all this?
+- "Maybe some of the undesirable uses could have been prevented outright, but in any case presenting it in a more modest way and asking the community for help could have made the public reaction less adversarial as well," Conitzer said. "If you put a system like this out there without taking the risks and shortcomings seriously, Twitter will never be kind," he said.
+- For now, Meta’s Galactica has been taken away from the public—presumably to wait until the embarrassing launch is largely forgotten and to tighten up the model before a potential formal roll-out. No matter what, though, there’s no real pathway for this going well. Large language models have shown time and again that they’re prone to the same biases and problematic behavior to which we’re prone. When you infuse scientific and academic research into the mix, it can and will become even more dangerous.
+- In all, Galactica (at least its current rendition) is like having a hand grenade in a locked room. Once the pin is pulled, it’s going to get very messy very quickly.
+- Deputy Editor, Innovation & Tech
+- Got a tip? Send it to The Daily Beast here.
+
+URL: https://www.msn.com/en-in/news/techandscience/meta-s-new-ai-system-galactica-can-write-research-papers-from-scratch/ar-AA14fKTz
+- Meta recently launched a demo version of its new artificial intelligence tool "Galactica" that is able to summarise academic literature, solve mathematics equations, generate Wikipedia-like articles and more.
+- All this work is done by Galactica by feeding simple text prompts to the language model. "Galactica models are trained on a large corpus comprising more than 360 millions in-context citations and over 50 millions of unique references normalized across a diverse set of sources. This enables Galactica to suggest citations and help discover related papers," Galactica explained.
+- One can enter prompts for virtually any subject, and the AI will prepare articles and explainers on the topic easily.
+- If you choose to hit "Generate More" prompt at the bottom of the screen, Galactica will keep adding more content to your document. This same task would humans much longer, depending on the length of the document.
+- The quality of the text is debatable at the moment. It's not as well-written as it would have been if a specialist had written it. Even then, it does a decent job for scientific papers.
+- Also read: Could Super-Intelligent Artificial Intelligence Be Controlled? Scientists Say No
+- By adding the right prompts, one can generate entire research papers from scratch. These will come with references and formulas that are intrinsic to academic writing.
+- Of course, the tool might be used by students to get an upper hand on their assignments. One of Meta's warnings explained not too trust Galactica blindly. "Some of Galactica’s generated text may appear very authentic and highly-confident, but might be subtly wrong in important ways. This is particularly the case for highly technical content," the company explained.
+- Also read: Artificial Intelligence Caught Writing Its Own Creepy Language By Researchers
+- For most information that is generated using artificial intelligence, not much new innovative stuff can come up. These models depend on existing knowledge to generate content.
+- Meta claims that "Galactica models are trained on a novel high-quality scientific dataset called NatureBook, making the models capable of working with scientific terminology, math and chemical formulas as well as source codes."
+- It's a special tool that might have benefit across industries. What do you think about using artificial intelligence tools to perform tasks like this one? Let us know in the comments below. For more in the world of technology and science, keep reading Indiatimes.com.
+- You can visit Galactica's demo website here.
+
+URL: https://www.vice.com/en/article/3adyw9/facebook-pulls-its-new-ai-for-science-because-its-broken-and-terrible
+- Facebook parent company Meta has pulled the public demo for its “scientific knowledge” AI model after academics showed it was generating fake and misleading information while filtering out entire categories of research.
+- Released earlier this week, the company described Galactica as an AI language model that “can store, combine and reason about scientific knowledge”—summarizing research papers, solving equations, and doing a range of other useful sciencey tasks. But scientists and academics quickly discovered that the AI system’s summaries were generating a shocking amount of misinformation, including citing real authors for research papers that don’t exist.
+- “In all cases, it was wrong or biased but sounded right and authoritative,” Michael Black, the director of the Max Planck Institute for Intelligent Systems, wrote in a thread on Twitter after using the tool. “I think it's dangerous.”
+- Black’s thread captures a variety of cases where Galactica generated scientific texts that are misleading or just plain wrong. In several examples, the AI generates articles that are authoritative-sounding and believable, but not backed up by actual scientific research. In some cases, the citations even include the names of real authors, but link to non-existent Github repositories and research papers.
+- Others pointed out that Galactica was not returning results for a wide range of research topics, likely because of the AI’s automated filters. Willie Agnew, a computer science researcher at Washington University, noted that queries like “queer theory,” “racism,” and “AIDS” all returned no results.
+- Early Thursday morning, Meta took down the demo for Galactica. When reached for comment, the company directed Motherboard to a statement it had released via Papers With Code, the project responsible for the system.
+- “We appreciate the feedback we have received so far from the community, and have paused the demo for now,” the company wrote on Twitter. “Our models are available for researchers who want to learn more about the work and reproduce results in the paper.”
+- Some Meta employees also weighed in, implying the demo was removed in response to the criticism.
+- “Galactica demo is off line for now,” tweeted Yann LeCun, Meta’s chief AI scientist. “It’s no longer possible to have some fun by casually misusing it. Happy?”
+- It isn’t the first time Facebook has had to explain itself after releasing a horrifyingly biased AI. In August, the company released a demo for a chatbot called BlenderBot, which made “offensive and untrue” statements as it meandered through weirdly unnatural conversations. The company has also released a large language model called OPT-175B, which researchers admitted had a “high propensity” for racism and bias—much like similar systems, like OpenAI’s GPT-3.
+- Galactica is also a large language model, which is a type of machine learning model known for generating exceptionally believable text that feels like it was written by humans. While the results of these systems are often impressive, Galactica is another example of how the ability to produce believable human language doesn’t mean the system actually understands its contents. Some researchers have questioned whether large language models should be used to make any decisions at all, pointing out that their mind-numbing complexity makes it virtually impossible for scientists to audit them, or even explain how they work.
+- This is obviously a massive problem, especially when it comes to scientific research. Scientific papers are grounded in rigorous methodologies that text-generating AI systems clearly can’t comprehend—at least, not yet. Black is understandably worried about the consequences of releasing a system like Galactica, which he says “could usher in an era of deep scientific fakes.”
+- “It offers authoritative-sounding science that isn't grounded in the scientific method,” Black wrote in the Twitter thread. “It produces pseudo-science based on statistical properties of science *writing*. Grammatical science writing is not the same as doing science. But it will be hard to distinguish.”
+
+URL: https://the-decoder.com/danger-to-science-researchers-sharply-criticize-metas-galactica/
+- THE DECODER
+- Artificial Intelligence: News, Business, Research
+- Update, November 18, 2022:
+- Meta AI and Papers with Code have responded to the criticism of Galactica: The demo remains offline. The models are still available for researchers interested in working and replicating the results from the paper.
+- Meta-AI CEO Yann LeCun defended the project on Twitter, saying Galactica is meant to be a demo, not a finished product and not a replacement for scientific work and thinking on your own, but a convenience – much like a driving assistant in a car.
+- “Real articles will contain new and interesting science. That will include articles whose authors used Galactica to help them write those papers,” LeCun writes. According to LeCun, the project is now “paused”.
+- Check your inbox or spam folder to confirm your subscription.
+- 
+- Ultimately, the debate is less about Galactica’s inability to deliver accurate results at all times. Rather, it is about the risk of misuse when humans adopt Galactica’s results unquestioned, for example out of convenience, and thereby consciously or unconsciously increase the quantity and quality of misinformation in the scientific process.
+- There were similar debates about the risk of misuse when GPT-3 was first introduced, for instance in the context of a possible fake news glut. As a result, OpenAI has released GPT-3 only incrementally, and today employs numerous methods to reduce the risk of misuse.
+- However, similarly powerful large language models are now available as open source. An AI-driven flood of Fake News doesn’t seem to have materialized yet.
+- Opponents of Galactica might object that the language model is used in an academic context where accuracy is particularly important. In the future, however, researchers may use regular language models to support their work, which in turn may be even less accurate than Galactica. Stopping work on Galactica does not seem a sensible, much less a definitive, solution to the problem outlined.
+- 
+- Original article, November 17, 2022:
+- Just two days ago, Meta introduced “Galactica”, a large language model (LLM) trained with science data. It is supposed to simplify scientific research and speed up routine tasks. Some scientists warn against the model.
+- Together with the platform “Papers with Code”, Meta AI trained the large language model Galactica with 48 million scientific data pieces like papers, textbooks and reference material.
+- In benchmarks on reasoning or mathematical tasks, Galatica achieved better results than other language models, some of which were larger. But the relevance – especially in science – is in the details.
+- On Twitter, some scientists are speaking out, sharply criticizing Galactica and Meta’s communication about the language model. Meta AI called it the first step toward a new interface for science.
+- The gist of the criticism: like all large language models, Galactica can convincingly output false information. These can be grossly incorrect or only subtly off, such as an incorrect date or reference.
+- PROBLEM: "Researchers are buried under a mass of papers, increasingly unable to distinguish between the meaningful and the inconsequential."
+- SOLUTION: build a model that generates limitless reams of text that sounds plausible but may contain serious mistakes@PapersWithCode pic.twitter.com/m88BsSMjTU
+- — Dan Elton (@moreisdifferent) November 16, 2022
+- Gary Marcus calls Galactica a danger to science. If the language model is not stopped, this would be the “tipping point in a gigantic increase in the flow of misinformation,” Marcus writes, calling it an “epochal event.”
+- A Wikipedia text about Marcus generated by Galactica contained 85 percent incorrect information, according to the researcher, but it was phrased plausibly. A “decent AI system” could check such information online, but Galactica doesn’t provide that feature, Marcus said.
+- “This is no joke. Galactica is funny, but the uses it will be put to are not.”
+- Michael Black, director at the Max Planck Institute for Intelligent Systems in Tübingen, Germany, conducted his own tests in which Galactica cited non-existent papers. Galactica, he said, was an interesting research project, but not useful for scientific work and dangerous to boot.
+- “Galactica generates text that’s grammatical and feels real. This text will slip into real scientific submissions. It will be realistic but wrong or biased. It will be hard to detect. It will influence how people think,” Black writes.
+- This could lead to a new “deep scientific fakes” era, he says, in which researchers receive citations for papers they never wrote. These false citations would then be carried over into other papers. “What a mess this will be,” Black writes.
+- A hint of possible AI hallucinations isn’t enough, he says: “Pandora’s box is open and we won’t be able to stuff the text back in.”
+- Galactica is not an accelerator for science and is not even useful as a writing aid, Black said. On the contrary, it distorts research and is a danger.
+- If we are going to have fake scientific papers, we might has well have fake reviews of fake papers. And then we can also have fake letters of reference for fake academics who get promoted to tenure at fake universities. I can then retire as there is nothing left for me to do.
+- Michael Black
+- Linguist Emily Bender of the University of Washington finds particularly strong words. She refers to Galactica’s publication as garbage and pseudoscience.
+- “Language models have no access to ‘truth’, or any kind of ‘information’ beyond information about the distribution of word forms in their training data. And yet, here we are. Again,” Bender writes.
+- Bender and her colleague Chirag Shah had previously criticized the use of large language models as search engines, particularly Google’s plans in this area, in a March 2022 scientific paper.
+- Search based on language models could lead to further proliferation of fake news and increased polarization, they argue, because a search system needs to be able to do “more than matching or generating an answer.”
+- It needs to offer users different ways to interact and make sense of information, rather than “just retrieving it based on programmed notions of relevance and usefulness,” the researchers write.
+- In their view, information seeking is “a socially and contextually situated activity with diverse set of goals and needs for support that must not be boiled down to a combination of text matching and text generating algorithms.”
+- Similar critiques of Galactica are currently piling up on Twitter. Meta AI and Papers with Code have not yet commented, but they have disabled the demo feature of the Galactica website.
+- Check your inbox or spam folder to confirm your subscription.
+- 
+- Check your inbox or spam folder to confirm your subscription.
+- 
+
+URL: https://garymarcus.substack.com/p/a-few-words-about-bullshit
+- “what I find is that it's a very bizarre mixture of ideas that are solid and good with ideas that are crazy. It's as if you took a lot of very good food and some dog excrement and blended it all up so that you can't possibly figure out what's good or bad."
+- – Douglas Hofstadter
+- 
+- MetaAI has got a new AI system—trained on a hardcore diet of science, no less—and Yann LeCun is really, really proud of it:
+- Sounds great! I can’t wait to see the fawning New York Times story tomorrow morning.
+- But…wait…well, um, how do I put this politely? It prevaricates. A lot.
+- Just like every other large language model I have seen.  And, to be honest, it’s kind of scary seeing an LLM confabulate math and science. High school students will love it, and use it to fool and intimidate  (some of) their teachers. The rest of us should be terrified.
+- Perhaps first to point this out, earlier this evening, was David Chapman. Click through to find out what Galactica fabricated about bears in space!
+- Minutes after I noticed Chapman’s post, My friend Andrew Sundstrom began flooding me with a stream of examples of his own, too good for me not to share (with his permission):
+- 
+- 
+- Pitch perfect and utterly bogus imitations of science and math, presented as the real thing. (More examples: https://cs.nyu.edu/~davise/papers/ExperimentWithGalactica.html)
+- Is this really what AI has come to, automatically mixing reality with bullshit so finely we can no longer recognize the difference?
+- 
+- Share
+- No one disputes the fact that Yann LeCun is a praiseworthy deep learning pioneer and expert. But, in my opinion, LeCun's fixation on DL as the cure for everything is one of the worst things to have happened to AGI research.
+- Deep learning has absolutely nothing to do with intelligence as we observe it in humans and animals. Why? Because it is inherently incapable of effectively generalizing. Objective function optimization (the gradient learning mechanism that LeCun is married to) is the opposite of generalization. This is not a problem that can be fixed with add-ons. It's a fundamental flaw in DL that makes it irrelevant to AGI.
+- Generalization is the key to context-bound intelligence. My advice to LeCun is this: Please leave AGI to other more qualified people.
+- The LLM charade continues... hopefully not for long.
+- No posts
+- Ready for more?
+
+URL: https://thealgorithmicbridge.substack.com/p/galactica-what-dangerous-ai-looks
+- Meta announced this week a new large language model (LLM) for science. They named it Galactica—a nod to Isaac Asimov’s Encyclopedia Galactica.
+- The website says it’s a “model that can store, combine and reason about scientific knowledge.”
+- Elvis Saravia, a co-author of the paper, says it “is the first step toward our vision to organize science by converting information into useful knowledge.”
+- So far so good. It sounds like a super-useful tool aimed at a challenging—yet necessary—goal.
+- But looks can be deceiving.
+- AI experts and scientists tried it out and many left underwhelmed—when not outright “terrified”. Accordingly, they didn’t hesitate to take on Galactica’s promise and the all-too-common tendency of AI researchers to exaggerate the abilities of the systems they build.
+- I didn’t plan to write about Galactica, but it’s the perfect example to showcase why we should never lift our critical thinking when learning about—or interacting with—AI.
+- Let’s see what Galactica can do, what people are saying (both “pro-” and “anti-Galactica”), and what I think about the model and the claims that surround it.
+- The Algorithmic Bridge is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+- Galactica was built as the first step to fulfill an old promise: that computers could solve “information overload in science.”
+- As science advances, humanity collectively knows and stores increasingly large amounts of knowledge about the world. Yet, as individuals, the total percentage we can absorb rapidly decreases over time.
+- AI could be the solution to that. Meta conceived Galactica to “organize science” in an attempt to finish the task search engines failed to accomplish. If the model worked as intended, it’d be trivial to do so—Galactica would be “a big deal.”
+- However, as resourceful as Meta is and as powerful as LLMs are, solving this problem is still too ambitious a quest. Galactica falls short in many ways.
+- But before going into its deficiencies, let’s give Meta the benefit of the doubt and objectively analyze what Galactica can do (here’s the paper if you want to read it).
+- Galactica is a family of language models (125M to 120B parameters) trained on 60+ million high-quality scientific documents (papers, textbooks, encyclopedias…).
+- Papers with Code, which open-sourced the models here, explain Galactica can “summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.”
+- Despite being trained with less data than most other LLMs, Galactica outperforms the best ones (PaLM, Chinchilla) on scientific benchmarks (MATH, MMLU). Impressive.
+- Surprisingly, Galactica also surpasses BLOOM and OPT on BIG-bench despite not being trained on generic text data.
+- Not so surprisingly, it’s less toxic than usual (high-quality content prevents the model from learning from dubious sources).
+- Given Galactica’s performance, it’s understandable that Nvidia researcher Jim Fan described it as “a huge milestone:”
+- If these results sound great it’s because they are. Galactica is, undoubtedly, a notable technological achievement (although a more thorough evaluation would have been appropriate).
+- But the model doesn’t live on paper. If it’s intended to be (a first version of) a portal to humanity’s knowledge, people should be able to trust it.
+- However, it’s precisely under real-world conditions—in contrast to benchmarks—when Galactica falls apart.
+- For instance, Yann LeCun, DL pioneer and Chief AI scientist at Meta says “type a text and Galactica will generate a paper with relevant references, formulas, and everything.”
+- This is simply false (plenty of examples below). Galactica often fails to live up to what authors and supporters' so lightly claim.
+- And it does it so ubiquitously, so catastrophically, and so dangerously, that its failures greatly overshadow the technical breakthrough it’d been otherwise.
+- To test it yourself, you can go here. (Correction: You could try it until Meta decided to shut down the demo due to the overwhelming backlash.)
+- With “skeptics” I mean those who tested Galactica (I did) with critical thinking (although not much was needed to draw conclusions). And, just to be clear, I don’t mean it with any negative connotation.
+- Indeed, I consider myself to be in this group. Let me show you why.
+- Four sentences into the abstract, the authors write this:
+- “In this paper we introduce Galactica: a large language model that can store, combine and reason [emphasis mine] about scientific knowledge.”
+- Notice the word choice to describe Galactica’s ability.
+- Now, contrast that claim with a chronology of what scientists and university professors have shared about the model all over Twitter (examples in the links):
+- “[Galactica is] a great service to paper mills, fraudulent plagiarists & cheating students everywhere.”
+- —Simon J Greenhill, professor at UoA
+- “Language models should model language, not ‘knowledge.’”
+- —David Chapman, AI Ph.D. at MIT
+- “Is this really what AI has come to, automatically mixing reality with bullshit so finely we can no longer recognize the difference?”
+- —Gary Marcus, Author and professor emeritus at NYU (The Road to AI We Can Trust)
+- “What bothers me so much about Facebook's Galactica … is that it pretends to be a portal to knowledge … Actually it's just a random bullshit generator.”
+- —Carl T. Bergstrom, biology professor at UW
+- “Feeling like my job as a scientist is still secure.”
+- —Melanie Mitchell, AI professor at the Santa Fe Institute
+- “Facebook (sorry: Meta) AI: Check out our "AI" that lets you access all of humanity's knowledge. Also Facebook AI: Be careful though, it just makes shit up.”
+- —Emily M. Bender, linguistics professor at UW
+- “Maybe don’t name your model after the Encyclopedia Galactica unless it is good enough to be a trusted source of knowledge?”
+- —Mark Riedl, AI professor at GeorgiaTech
+- “I asked #Galactica about some things I know about and I'm troubled. In all cases, it was wrong or biased but sounded right and authoritative. I think it's dangerous.”
+- —Michael Black, Director at Max Plank Institute for Intelligence systems
+- Quite a unanimous reaction.
+- If you don’t want to follow those links, here’s an illustrative—and amusing—example of why they’re criticizing Galactica so hard, despite its fine benchmark results:
+- The bottom line: Galactica is great at generating scientific-sounding made-up facts, but nothing else. That makes it a dangerous tool.
+- Can anyone call this reasoning?
+- Let me disentangle what’s happening here.
+- We have to understand and differentiate what authors—and supporters—claim Galactica can do (but can’t) from what it actually does (but shouldn’t).
+- One of Galactica’s alleged strengths is the capacity to reason. The word “reasoning”—which I highlighted above—appears 34 times in the paper.
+- However, the model does nothing of the sort. This claim is actually an overclaim given the numerous examples that show the system’s absolute lack of reasoning (that’s why they had to shut down the demo). Similar claims take the form of “Galactica will generate a paper,” or “Galactica … can generate wiki articles,” etc.
+- The idea is the same: researchers exaggerate AI’s abilities by exploiting semantic gaps: because “reasoning” doesn’t have a strict formal definition, they can stretch the word to fit into whatever it is that Galactica does.
+- Galactica in particular and language models in general are, as Gary Marcus argues, “fundamentally ill-equipped” to do these kinds of tasks. Emily M. Bender puts it bluntly:
+- “The only knowledge that an LLM can truthfully be said to have is information about the distribution of word forms.”
+- No understanding. No reasoning.
+- What Galactica does is generate (usually made-up) scientific-sounding text. That’s not reasoning, but the appearance of reasoning. As Michael Black said, “[Galactica] was wrong or biased but sounded right and authoritative.”
+- This isn’t just a matter of unreliability—i.e. you know you can’t trust a system because it may give you a correct or incorrect answer and you’d have no way to assess which one.
+- Galactica’s problem goes deeper because sounding “right” and “authoritative” would make anyone who doesn’t have prior formation on a topic believe with illusory certainty that the newly acquired (flawed) knowledge is true.
+- This makes Galactica not just wrong but dangerously wrong.
+- To their credit, the website has a “limitations” section in which they mention the model’s shortcomings:
+- But, is this enough? Laying out a model’s limitations has become a common practice for tech companies, but it doesn’t compensate for the lack of carefulness in testing the models’ abilities—or overclaiming.
+- If you set a demo and claim Galactica can reason and generate papers or articles, but it can’t, a “limitations” section isn’t sufficient to prevent the potential damage.
+- That damage is, ultimately (as you may have guessed), misinformation and disinformation.
+- In an exchange between Yann LeCun and Ernest Davis (both professors at NYU), the former explains that Galactica isn’t intended to be tested with the kinds of “quick trials” that people shared on Twitter.
+- Ernest Davis’ response speaks for itself:
+- “If the creators don't want people to submit titles for wikis, then the demo on the home page should not invite them to submit a title for a wiki.”
+- That’s the moral of the story: the problem with Galactica isn’t that it can’t write a paper truthfully, reliably, or factually. The problem is that the people behind it have chosen to resort to the hype (for whatever reason).
+- As an analogy, a plane is a perfectly fine piece of technology, but if aeronautic engineers claimed it could take us to the Moon, then they’d be deserving of all the criticism in the world. The same happens with Galactica (and many other AI systems, not just language models).
+- By using these dubious practices, you get a mix of backlash from worried and angry scientists, a powerful open-source tool that can easily generate mis- and disinformation, and confused laypeople that can’t use the tool correctly due to incoherent user guidelines and are uncertain of whether they’d benefit from it or not.
+- This isn’t the picture we want to create for AI.
+- The Algorithmic Bridge is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+- Thanks for this informative article, new subscriber here, looks good so far.
+- Your reasonable complaint seems to be that Galactica does not work as well as it's creators claim. Who knew that could happen? :-)
+- Seriously, I have a different concern. What if Galactica did work very well? What if Galactica succeeded at it's intended goal of further accelerating the knowledge explosion?
+- I'd be curious to learn how Meta developers might address this question.  What do they see to be the logical outcome of providing human beings with ever more, ever larger powers, at an ever accelerating rate?
+- Who are these human beings?   Hmm, let's see, I remember now, human beings are the species with thousands of massive hydrogen bombs aimed down their own throats, an ever present existential threat that even their most highly educated members rarely find interesting enough to discuss, even in presidential campaigns when they are selecting a single human being to have sole authority over the use of these civilization ending weapons.
+- If I had a loaded gun in mouth which I found too boring to discuss, would you consider me rational?  Would you respond to my situation by giving me ever more, ever larger powers, at an ever accelerating rate?
+- What if Galactica actually worked? That's what worries me.  I was relieved to learn that, so far at least, it seems not to.
+- On a completely unrelated matter -- without doubt, Defense Departments around the world are spending tons on military applications of large language models.  Is there anything to be found here?  I can't think of anything but I know zero about the field.  Speculations, anyone??
+- No posts
+- Ready for more?
+
+URL: https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean
+- You have been blacklisted, KTHXBAI
+- XID: 12675132
+- Varnish cache server
+
+URL: https://www.thesun.co.uk/tech/20495398/meta-withdraws-ai-galactica-controversy
+- FACEBOOK owner Meta has been forced to "pause" a public AI experiment after it started spewing misinformation and offensive comments.
+- The Galactica project was meant to solve "information overload in science" using AI to sift though 48million papers and textbooks.
+- But instead testers found it saying all sorts of nonsense - some of it derogatory and dangerous.
+- Among them were the benefits of eating crushed glass and being white, according to TNW who tried the system out.
+- It also gave incorrect instructions on how to make napalm -  the substance used to create a bomb - in a bathtub.
+- Within days of releasing the demo, bosses at Meta have had to dramatically pull it from the internet.
+- Facebook did carry a warning on the tech's site that "language models can hallucinate".
+- "There are no guarantees for truthful or reliable output from language models, even large ones trained on high-quality data like Galactica," the social network said.
+- "NEVER FOLLOW ADVICE FROM A LANGUAGE MODEL WITHOUT VERIFICATION."
+- The firm also said the system doesn't perform so well where there is less information about a particular topic available.
+- They added: "Language Models are often confident but wrong.
+- "Some of Galactica's generated text may appear very authentic and highly-confident, but might be subtly wrong in important ways.
+- "This is particularly the case for highly technical content."
+- Announcing the demo's ending for now, the group said: "Thank you everyone for trying the Galactica model demo.
+- "We appreciate the feedback we have received so far from the community, and have paused the demo for now.
+- "Our models are available for researchers who want to learn more about the work and reproduce results in the paper."
+- Looking for tips and hacks for your phone? Want to find those secret features within social media apps? We have you covered...
+- Get all the latest WhatsApp, Instagram, Facebook and other tech gadget stories here.
+- We pay for your stories! Do you have a story for The Sun Online Tech & Science team? Email us at tech@the-sun.co.uk
+- Eamonn Holmes says Holly should 'follow Phil out the door' in jaw-dropping attack
+- More details of Schofield’s affair with young lover including trysts at ITV flat
+- Phillip Schofield's lover appeared on NTAs stage with This Morning star
+- Countdown's Rachel Riley says romance with hubby Pasha Kovalev is 'on hold'
+- ©News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy. To inquire about a licence to reproduce material, visit our Syndication site. View our online Press Pack. For other inquiries, Contact Us. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the Independent Press Standards Organisation (IPSO)
+- Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click this link: thesun.co.uk/editorial-complaints/
+
+URL: https://www.heise.de/news/KI-Forschungstool-Galactica-von-Meta-erstellt-pseudo-wissenschaftliche-Texte-7341410.html
+- 
+- 
+- Galactica AI ist ein auf wissenschaftliche Literatur trainiertes, offenes KI-Tool. Kritiker warnen teils vor "Bullshit"-Output, und die Nutzung hat einen Haken.
+- (Bild: 3Dsculptor / Shutterstock.com)
+- Die KI-Abteilung des Facebook-Mutterkonzerns Meta hat ein neues großes Sprachmodell vorgestellt, das primär auf einem Corpus (natur-)wissenschaftlicher Forschungsliteratur wie Fachartikeln, Lecture Notes, Abstracts und Rezensionen trainiert wurde. Die primäre Zielgruppe sind der Modellkarte zufolge Wissenschaftler und Studierende. Galactica AI, wie sein Name lautet, gibt es in fünf Größen zwischen 120 Millionen und 120 Milliarden Parametern. Es ist offenbar Open Source (unter Vorbehalt: zu dieser Angabe bestehen einige Ungereimtheiten, dazu mehr weiter unten).
+- Auf GitHub ist es in einem Repository namens galai des Teams "Papers with Code" hinterlegt. Laut Website stammt das Modell von diesem Team und Meta stellt oder stellte die benötigten Hardwareressourcen. 48 Millionen Forschungsdokumente gingen in das Modell ein, aus denen 88 Milliarden Token erzeugt wurden. Insgesamt verwendete das neunköpfige Meta-AI-Team 106 Milliarden Token, die es aus öffentlich zugänglichen Textbüchern, Artikeln sowie Wissensdatenbanken erzeugt hatte und wofür es mit Galactica ein Interface in natürlicher Sprache bereitstellt. Weitere Angaben zu den Quellen lassen sich dem Forschungspaper des Teams entnehmen, in dem neben einer Kurzfassung auch ein annotiertes Verzeichnis zu finden ist.
+- 
+- (Bild: Meta-AI-Team)
+- Laut seinen Herausgebern vermag Galactica, Zitate vorherzusagen, könne LaTeX erzeugen, logische Schlüsse ziehen (Reasoning), Dokumente erstellen, Moleküle generieren und Protein-Annotationen erzeugen. Auf GitHub ist jeweils ein kleines Beispiel hinterlegt, ausführlichere Beispiel-Demos finden sich auf der zugehörigen Projekt-Website galactica.org. Die Website führt mit dem Modell erzeugte Fachrezensionen (Literature Reviews), Wikipedia-Einträge, Vortragsmitschriften (Lecture Notes) und machinengenerierte Antworten auf Fachfragen als mögliche Einsatzzwecke vor.
+- 
+- (Bild: Galactica.org)
+- Das bis zu 120 Milliarden Parameter große Open-Source-Modell soll in Aufgaben in den MINT-Fächern (englisch "STEM", also Mathematik, Informatik, Naturwissenschaften und Technik-/ Ingenieurswissenschaften) besonders gut abschneiden, habe dafür im Training allerdings deutlich weniger Daten gebraucht als beispielsweise BLOOM von Huggingface und die Open Pre-Trained Transformer Models (OPT) von Meta.
+- 
+- Etwas unklar ist der Redaktion zurzeit noch, unter welcher Lizenz das Modell letztlich steht, da im Repository zwei augenscheinlich widersprüchliche Lizenzangaben hinterlegt sind. Wenn man auf den verlinkten Licence-Knopf drückt oder das Verzeichnis Licence öffnet, ist die genannte Lizenz zunächst Apache 2.0, womit das Modell Open Source und laut dort dargestellter Checklist frei verfügbar wäre "für den kommerziellen Einsatz, das Modifizieren, Teilen, den Einsatz im Patentbereich und private Nutzung". Drei Einschränkungen unterliege es: Es lassen sich keine Trademark-Rechte daraus ableiten, die Haftung (Liability) sei beschränkt und die Urheber des Modells gewähren keinerlei Garantie.
+- 
+- (Bild: Papers with Code)
+- Diese Angaben stehen teils im Widerspruch zu einer weiteren im Repository hinterlegten Datei Licence-Model.md oder werden durch sie zumindest teilweise eingeschränkt: Die Creative Commons Attribution NonCommercial-4.0-Lizenz schließt eine kommerzielle Nutzung explizit aus. Laut dem Herausgeber "Papers with Code" wiederum handelt es sich um ein offenes Modell und Open Source:
+- 
+- Die Sache mit Open Source ist ein zweischneidiges Schwert, wie man spätestens bei Durchsicht der Terms of Use auf der Galactica-Website erfährt, die sich im Kleingedruckten befinden. Nutzer des KI-gestützten Forschungstools von "Papers with Code" und Meta gewähren dem Konzern möglicherweise die Rechte, sämtlichen User Content zu sichten, prüfen und gegebenfalls zu verwerten (die Bereiche sind nicht ganz klar abgegrenzt). Auch in den Nutzungsbedingungen gehen die Begriffe kommerziell und nicht kommerziell etwas durcheinander. Während die Website nur für nicht-kommerzielle Nutzung und zur Information diene, fallen die dort präsentierten Galactica-Materialien unter die Lizenz "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)", was auch für die Materialien gelte, die für kommerzielle Nutzung gedacht seien ("including for commercial purposes").
+- Offenbar ist es ratsam, zunächst einen Fachjuristen zu konsultieren, um die eigenen Verwendungszwecke abzuklären, bevor man die API nutzt oder munter mit dem Forken beginnt. Wer die Website nutzt, hat sich automatisch einverstanden erklärt mit den dort verankerten Bedingungen, die im Detail hier nachzulesen sind. Mit der Nutzung wird unter anderem auch der eigene Arbeitgeber gegenüber Meta haftbar bei missbräuchlicher Verwendung, und einige Gruppen sind von der Nutzung ausgeschlossen. So ist Volljährigkeit eine Voraussetzung, und vorangegangene Straffälligkeit (die nicht näher ausgeführt wird) könnte vom Nutzen des Tools ausschließen.
+- 
+- Für Text, Fotos, Code, Videos und sonstigen Input, den Nutzer auf der Plattform eingeben, tragen sie laut Vereinbarung selbst die Verantwortung, so auch dafür, dass sie durch den Content nicht persönlich identifizierbar werden. Das dürfte insofern relevant sein, als Meta und das PoC-Team sich möglicherweise die weitere Nutzung des Inputs zum Training ihres Modells offenhalten. Ganz klar geht das aus den Angaben der Website aber nicht hervor, da Meta zugleich angibt, die Ownership und das Urheberrecht (am erzeugten Output) liege bei den Usern. Unklar bleibt dabei, wie User zugleich ihr Urheberrecht wahren können, ohne aber personenbezogene Daten preiszugeben, zumal offenbar auch eine Anmeldung auf der Website für deren Nutzung erforderlich ist. Die Website spezifiziert auch unerwünschtes, verbotenes Verhalten beim Nutzen des Tools, unter anderem das Verletzen der Copyrights anderer. Details hierzu stehen in den Terms of Use unter "Prohibited Use".
+- Unter den Beispielen, die auf der Website bereitstehen und bevor man zum Generieren eigener Texte übergeht, steht ein Warnhinweis, dass der gelieferte Output möglicherweise unzuverlässig sei und dass das Modell zu Halluzinationen neige ("WARNING: Outputs may be unreliable! Language Models are prone to hallucinate text"), die Trainingsdaten spiegeln einen Stand bis Juli 2022. Ein Überprüfen der KI-generierten Texte auf Plausibilität, Stichhaltigkeit, Wahrheitsgehalt und Genauigkeit liegt also weiterhin in der Verantwortung der menschlichen Anwender.
+- Allerdings dürfte es für unbedarfte oder fachfremde Leserinnen und Leser wohl teilweise schwierig sein, hier Wahres von Falschem zu unterscheiden, da die Erzeugnisse formal die Ansprüche wissenschaftlicher Textprodukte erfüllen und von Stil und Sprache her nach Autorität klingen. Insbesondere die Funktion, wissenschaftlich klingende Wikipedia-Artikel, teils garniert mit mathematischen Formeln, auf Knopfdruck zu erstellen, könnte Desinformationskampagnen die Tür öffnen.
+- Scharfe Kritik übten bereits der Yann-LeCun-Kritiker Gary Marcus und Forscher aus seinem Umfeld in einem Substack-Beitrag unter dem Titel "A Few Words About Bullshit". Bei dem Output des Tools handele es sich um eine krude Mischung aus soliden, guten Ideen und Verrücktheiten. Der New Yorker Neurowissenschaftler Marcus findet die Mischung aus konfabulierter Mathematik und Wissenschaft dabei besonders bedenklich, wenn nicht gar gefährlich, und warnt vor fabriziertem Unfug. Einige Beispiele hat sein Kollege David Chapman in einem Twitter-Thread zusammengetragen.
+- 
+- Wer sich genauer für die Grundlagen des Modells und seine Einsatzmöglichkeiten interessiert, kann das wissenschaftliche Paper zu Galactica lesen, in dem das neunköpfige Forschungsteam von Meta AI beschreibt, welche Daten und Materialien eingeflossen sind und mit welchen Methoden das Modell trainiert wurde. Die Modellkarte und weiterführende Ressourcen sind auf GitHub hinterlegt, das Modell wurde binnen 22 Stunden bereits dreißig Mal geforkt.
+- Update: Am 17.11.2022 hat Meta die Demo von der Website genommen. Hinweise auf potenziell gefährlichen Output, unter anderem vom Direktor des Max-Planck-Instituts für Intelligente Systeme (MPI_IS), hatten sich bereits in den ersten Stunden nach dem Release gehäuft – offenbar hatte das Team sich etwas zu früh zum Veröffentlichen entschieden.
+- 
+- Hinweis ergänzt: Meta hat mittlerweile die frei zugängliche Demo von der Website genommen.
+- (sih)
+- montags und donnerstags - alles von heise Developer
+- Ausführliche Informationen zum Versandverfahren und zu Ihren
+    Widerrufsmöglichkeiten erhalten Sie in unserer
+    Datenschutzerklärung.
+- 
+- All you can read: Alle Magazine und zusätzliche exklusive Artikel wie Tests, Ratgeber und Hintergrundberichte auf heise online lesen. Nur für kurze Zeit!
+
+URL: https://onlinemarketing.de/technologie/meta-launcht-ki-forschungstool-galactica
+- Meta hat kürzlich eine Demoversion des Sprachmodells Galactica veröffentlicht. Das KI-System kann bei akademischen Arbeiten unterstützen, sorgt jedoch auf für Kritik.
+- Zuletzt hatten wir darüber berichtet, dass Meta an einem universellen Übersetzungs-Tool arbeitet. Das KI-Modell soll direkt 200 Sprachen übersetzen können – und als Open Source verfügbar sein. Doch Übersetzungen sind nicht das einzige Gebiet, das das Unternehmen mithilfe von KI revolutionieren möchte.
+- Kürzlich veröffentlichte Meta das Galactica-Sprachmodell, welches bei der Erstellung wissenschaftlicher Arbeiten unterstützen kann. Mithilfe dieses KI-gestützten Tools können Anwender:innen beispielsweise akademische Literatur zusammenfassen, mathematische Probleme lösen, Wikipedia-Artikel erstellen und dergleichen – und zwar einfach über simple Texteingabeaufforderungen. Die primäre Zielgruppe sind Meta zufolge Wissenschaftler:innen und Studierende. Aktuell ist die Demo jedoch offline.
+- Auf der Website Galacticas ist erklärt:
+- Galactica models are trained on a large corpus comprising more than 360 millions in-context citations and over 50 millions of unique references normalized across a diverse set of sources. This enables Galactica to suggest citations and help discover related papers.
+- Galactica AI ist der offizielle Name des Tools, das es bereits in fünf Größen zwischen 120 Millionen und 120 Milliarden Parametern gibt. Es ist offenbar Open Source, wobei es hier noch Ungereimtheiten gibt, auf die weiter unten in diesem Artikel eingegangen wird. Das Modell soll in Aufgaben in den MINT-Fächern (englisch „STEM“, also Mathematik, Informatik, Naturwissenschaften und Technik-/ Ingenieurswissenschaften) besonders gut abschneiden.
+- Wie im Screenshot zu sehen ist, kannst du auf der Galactica-Demoseite (sofern sie wieder online kommt), ein beliebiges Thema auswählen. Anschließend erstellt das System für dich – basierend auf deinen Eingabeaufforderungen – einen Artikel, eine Definition, eine Erläuterung oder dergleichen. Mit einem Klick auf „Mehr generieren“ werden deinem Dokument mehr Inhalte beigefügt.
+- Jedoch sind der Schreibstil und die Qualität des Textes noch ausbaufähig. Daher eignen sich die durch Galactica generierten Abhandlungen nur als Basis für Artikel oder Arbeiten, die veröffentlicht oder im Rahmen eines Studiums abgegeben werden sollen. Doch im Kontext von Forschungsarbeiten kann das KI-System Galactica durchaus eine sinnvolle Unterstützung sein, um eine vollständige Erhebung – inklusive Referenzen oder Formeln – zu erarbeiten.
+- Meta ist sich bewusst, dass Schüler:innen und Student:innen Galactica nutzen könnten, um schriftliche Prüfungen statt selbst mithilfe der KI – und somit ohne großen Aufwand – zu absolvieren. Daher fügt Meta eine Reihe von Warnungen wie diese der Erläuterung von Galactica im Rahmen der Demoversion bei:
+- Some of Galactica’s generated text may appear very authentic and highly-confident, but might be subtly wrong in important ways. This is particularly the case for highly technical content.
+- Der Chef-KI-Wissenschaftler Metas, Yann LeCunn, erklärte diesen Umstand ähnlich:
+- This tool is to paper writing as driving assistance is to driving. It won’t write papers automatically for you, but it will greatly reduce your cognitive load while you write them.
+- Anwender:innen sollten also beachten, dass Galactica zwar fundierte wissenschaftliche Texte auf Basis der Eingabeaufforderungen erstellen kann; die Überprüfung auf Qualitätskriterien wie Logik, Verständlichkeit oder auch Objektivität liegt jedoch bei dem:r Anwender:in. Hinzu kommt, dass der Sprachstil und der Satzbau der maschinell erstellten Texte durch Metas KI-System zum aktuellen Stand qualitativ unzureichend ist – und Leser:innen oder Prüfer:innen wahrscheinlich bemerken würden, dass der Text auf Basis eines solchen Systems erstellt wurde.
+- Eine zweite Sache, die Nutzer:innen beachten sollten ist die Sache mit Open Source. Denn bei der Durchsicht der Terms of Use auf der Galactica Website wird schnell klar: Anwender:innen des KI-gestützten Forschungstools gewähren den Unternehmen Papers with Code und Meta möglicherweise die Rechte, sämtlichen User Content zu sichten, zu prüfen und eventuell zu verwerten. Auch in den Nutzungsbedingungen werden die Begriffe kommerziell und nicht kommerziell nicht klar abgegrenzt. Während die Website nur für nicht-kommerzielle Nutzung und zur Information diene, fallen die dort präsentierten Galactica-Materialien unter die Lizenz „Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)“, was auch für die Materialien gelte, die für kommerzielle Nutzung gedacht seien („including for commercial purposes“). Daher scheint es ratsam zu sein, zunächst die eigenen Verwendungszwecke abzuklären, ehe man die API nutzt.
+- Bei Twitter melden sich Wissenschaftler:innen zu Wort und üben harsche Kritik an Metas KI-Sprachmodell aus. Der Kern dieser lautet: Wie alle großen Sprachmodelle kann Galactica auf überzeugende Art und Weise falsche Informationen generieren. Diese können grob falsch sein oder nur subtil abweichen, etwa durch ein falsches Datum oder eine falsche Referenz. Michael Black, Direktor am Max-Planck-Institut für Intelligente Systeme, erklärte nach eigenen Tests, dass Galactica ein interessantes Forschungsprojekt, aber für wissenschaftliches Arbeiten nicht brauchbar und noch dazu gefährlich sei. Er schreibt in einem seiner Kommentare unter seinem Tweet:
+- Why dangerous? Galactica generates text that’s grammatical and feels real. This text will slip into real scientific submissions. It will be realistic but wrong or biased. It will be hard to detect. It will influence how people think.
+- Die Sprachforscherin Emily Bender von der Universität Washington bezeichnet die Veröffentlichung von Galactica sogar als Müll und Pseudo-Wissenschaft bei Twitter.
+- At what point does this garbage "science" become embarrassing enough that "researcher" at one of these tech cos stops being a prestigious job? https://t.co/Zq6SNCaBS5
+- 
+- 
+- Du möchtest das Potenzial deines lokalen Unternehmens voll ausschöpfen und erfahren, was Local Marketing so wichtig macht? Dann solltest du den Digital Bash – Local Marketing nicht verpassen! Unsere Expert:innen wissen, worauf es wirklich ankommt, vom richtigen Start über Sichtbarkeit bis hin zur Kommunikation. In diesem Artikel erfährst du mehr über das Event und gelangst zur Anmeldung.
+- Larissa hat ihr Studium im Bereich Medien in Bielefeld abgeschlossen, lebt seit 2017 in Hamburg und ist seit 2022 als Redakteurin bei OnlineMarketing.de tätig.
+- Über 30.000 Subscriber können nicht irren. Melde dich jetzt zu unserem NEWSLETTER an:
+- Deine E-Mail-Adresse wird nicht veröffentlicht. Erforderliche Felder sind mit * markiert
+- Über 30.000 Subscriber können nicht irren. Melde dich jetzt zu unserem NEWSLETTER an:
+- COPYRIGHT © 2023 OnlineMarketing.de GmbH
+
+- GPT-2 large language model
+- GPT-3 anti-Muslim bias
+- Page info Type: SystemPublished: November 2022Last updated: January 2023

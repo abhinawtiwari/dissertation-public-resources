@@ -1,0 +1,227 @@
+- Occurred: December 2020
+- Can you improve this page?Share your insights with us
+- Amazon Web Service is launching AWS Panorama, a new service that enables the automated analysis of workplace security camera footage.
+- Amazon says Panorama can be used to 'evaluate manufacturing quality, identify bottlenecks in industrial processes, and monitor workplace safety and security.'
+- However, as the BBC points out, the service can be used to monitor people as well as goods, raising concerns about workplace privacy and surveillance.
+- Operator: Amazon
+- Developer: Amazon
+- Country: USA
+- Sector: Business/professional services
+- Purpose: Assess product quality; Monitor workplace safety & security  Technology: CCTV; Computer vision
+- Issue: Privacy; Surveillance; Dual/multi-use Transparency: Governance
+URL: https://aws.amazon.com/panorama/
+- « Machine Learning
+- Add computer vision (CV) to your existing fleet of cameras with AWS Panorama devices, which integrate seamlessly with your local area network.
+- Make predictions locally with high accuracy and low latency from a single management interface, where you can analyze video feeds in milliseconds.
+- Process video feeds at the edge, so you can control where your data is stored and operate with limited internet bandwidth.
+- Easily track throughput, optimize freight operations, and recognize objects such as parts or products, or text in labels or barcodes.
+- Monitor traffic lanes for issues such as stopped vehicles, and send real-time alerts to staff to keep traffic flowing.
+- Quickly detect manufacturing anomalies so you can take corrective action and decrease costs.
+- The Port of Vancouver uses AWS Panorama to improve supply chain visibility »
+- Tyson Foods developed automated quality assurance solutions for its packaging lines »
+- Cincinnati International Airport automatically monitors congestion to keep traffic flowing »
+- Find out how companies worldwide are using AWS Panorama to improve customer satisfaction and optimize operations.
+- Learn more about AWS Panorama Partner capabilities and how they can help address your company's use case.
+- Find out how to deploy CV applications at the edge, enable IP cameras, and more.
+
+URL: https://www.bbc.co.uk/news/technology-55158319
+- Amazon plans to sell companies a way to detect when staff are not wearing face masks or socially distancing.
+- Beyond the pandemic, the system could also be used to track compliance of other workplace rules or to monitor the public - for example, to check the number of customers queuing in a store.
+- It involves retrofitting a box to existing security cameras that can then draw on off-the-shelf AI apps.
+- But privacy campaigners have raised concerns.
+- Remote working has already led to an increase in the use of software that checks up on employees, but Amazon's new solution is focused on tracking people and products in factories, shops and other traditional workplaces.
+- Amazon refutes the characterisation of its new product as a surveillance tool.
+- A spokeswoman told the BBC it was designed to improve industrial operations and workplace safety, and that how it is used is up to customers.
+- "For example, AWS Panorama does not include any pre-packaged facial recognition capabilities," she said.
+- All its machine learning functions can happen on the device "and [relevant data] never has to leave the customer's facility", she added.
+- The AWS Panorama appliance plugs into internet protocol (IP) cameras - a standard type of digital video camera used by a huge range of companies on their sites.
+- It can automate inspection tasks, such as detecting manufacturing defects or tracking the movement of barcodes and labels.
+- But the tool can also be applied to people.
+- For example, in a retail shop, it could count the number of customers, track their movements and check the length of queues, Amazon has suggested.
+- In a factory or other workplace, the same tech can be used to monitor employees "and get notified immediately about any potential issues or unsafe situations so you can take pre-emptive action", the company said.
+- In the promotional material for the product, Fender guitars says it uses the product to "track how long it takes for an associate to complete each task in the assembly of a guitar".
+- The Financial Times reports that AWS Panorama can detect vehicles bring driven in places they are not supposed to be. Some major companies are already trialling the system, including Siemens and Deloitte, the FT added.
+- It is still, however, in preview, and not yet widely available.
+- The Trades Union Congress (TUC), the umbrella group for UK unions, this week published its report into the use of AI-powered tools used by employers.
+- "The announcement of this new monitoring tool is another example of how this revolution at work is picking up pace," said policy officer Mary Towers.
+- But she warned that it must not gloss over workers' needs.
+- This video can not be played
+- Is your boss spying on you as you work from home?
+- "In our report, we warn about the potentially negative effects that intrusive technology of this type can have on workers' well-being, right to privacy, data protection rights and the right not be discriminated against."
+- Polling suggested that workers were already concerned about CCTV cameras being used to monitor performance when they were supposed to have been installed for security, she said.
+- Silkie Carlo, director of privacy group Big Brother Watch, said automated monitoring of workplaces "rarely results in benefits for employees".
+- "It's a great shame that social distancing has been leapt on by Amazon as yet another excuse for data collection and surveillance," she said.
+- Amazon has already faced scrutiny over how its warehouse employees are monitored. In September, a report from a US research group said Amazon used extensive worker surveillance to limit union organising activity. And the company has clashed with some of its employees who have accused it treating them "like robots".
+- This week, Microsoft apologised for allowing individuals' activity to be monitored by their employers through a "productivity score" designed to give high-level oversights.
+- After an outcry, Microsoft removed individual user names from the product.
+- Inside one of Europe's 'most high-tech buildings'
+- Amazon warehouse robots 'increase staff injuries'
+- Amazon staff 'treated like robots'
+- Amazon spends $500m on bonuses for Christmas staff
+- 'Hundreds injured at Amazon UK warehouses'
+- Microsoft explores recording workers' body language
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Race to secure US debt deal votes as deadline looms
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.ft.com/content/27faa953-1723-4597-a5a0-2ff9e617feab
+- We use
+								cookies
+								and other data for a number of reasons, such as keeping FT Sites reliable and secure,
+								personalising content and ads, providing social media features and to
+								analyse how our Sites are used.
+- Sarah O’Connor
+- We’ll send you a myFT Daily Digest email rounding up the latest Coronavirus news every morning.
+- You can’t fault Amazon’s timing. In the middle of a global pandemic, the online retailer has launched a new workplace surveillance tool that could help to slow Covid’s spread. Called AWS Panorama, it uses computer vision technology to analyse footage from security cameras in workplaces. It can detect when employees are not complying with social distancing rules, for example.
+- Amazon, which plans to sell the tool to other employers, says it can improve workplace safety in other ways, too. “Are people walking in spaces where they shouldn’t be? Is there an oil spill? Are they not wearing hard hats? These are real-world problems,” a senior executive told the FT.
+- It’s easy to see how the technology could help in the fight against Covid-19, since workplaces are a major source of transmission. It could reveal pinch points in factories where social distancing isn’t possible, for instance, which might prompt companies to redesign work processes. But, like any tool, the outcomes will depend on the people who wield it.
+- Having read a lot of corporate safety incident reports over the years, I’m struck by how often CCTV footage is used to blame the worker who was hurt. In a recent example from a British meat factory (an industry where work pressures are often intense), a man fractured his hand when running to fetch a metal plate. “This is a behavioural safety issue [because he shouldn’t have run] and he will be disciplined upon his return,” the company wrote in the report to the UK’s health and safety regulator. There was no mention of why he felt the need to run in the first place.
+- In this context, it’s not hard to imagine a future scenario where workers are blamed for contracting Covid-19, possibly with implications for their sick pay, by employers unwilling to consider their own role and responsibilities.
+- There is also the possibility of mission creep. A testimonial on the AWS Panorama website from guitar-maker Fender enthused: “We can track how long it takes for an associate to complete each task in the assembly of a guitar so that we’re able to optimise efficiency and track key metrics.” The comment has now been deleted from the site.
+- Many employers are exploring how to use technological surveillance to drive productivity and measure performance. In 2018, the research company Gartner surveyed 239 big companies and found more than half were using non-traditional monitoring techniques, up from 30 per cent in 2015. Gartner defines monitoring as things such as “analysing the text of emails and social-media messages, scrutinising who’s meeting with whom, gathering biometric data and understanding how employees are utilising their workspace”.
+- Walmart, the US retailer, has filed a patent for a system of sound sensors placed near cashiers which could “determine a performance metric for the employee based on the audio data”. In the white-collar world, an array of companies are selling software that enables employers to monitor what workers do on their computers. Time Doctor, for instance, will take regular screenshots of each employee’s screen, measure their breaks and send nudges if they stray on to non-work related sites. Supervisors are given dashboards that show “who’s a superstar and who’s slacking off”.
+- But you don’t have to be a slacker to recoil at the idea of constant monitoring. Humans are hard-wired to feel uncomfortable being watched all the time, especially when under pressure to meet stretching targets. “It makes me afraid, physically and mentally exhausted,” Hibaq Mohamed, an Amazon warehouse worker, told researchers at the Open Markets Institute of the monitoring at work.
+- A body of research suggests jobs that combine high demands (concentration requirements, workload, time pressure) and low control (discretion to make decisions and schedule one’s own work) are ruinous for human health. Our metabolic, cardiovascular and neuroendocrine systems produce short-term responses to stressful situations, but when the stress is chronic, it can damage our bodies or tempt us to self-medicate. One study in the US, published last year, found that people in high-demand jobs with low control were more likely to die than people in high-demand jobs with high control.
+- Workplace surveillance should be subject to regulatory oversight and ideally collective bargaining, since individuals will be better placed to negotiate the details en masse. It would be a dispiriting irony if technology brought in to protect our health in a pandemic made us sicker in the end.
+- sarah.o’connor@ft.com
+- International Edition
+
+URL: https://www.irishtimes.com/business/work/workplace-surveillance-may-hurt-us-more-than-it-helps-1.4457355
+- Many employers are exploring how to use technological surveillance to drive productivity and measure performance. Photograph: iStock
+- You can't fault Amazon's timing. In the middle of a global pandemic, the online retailer has launched a new workplace surveillance tool that could help to slow Covid's spread.
+- Called AWS Panorama, it uses computer vision technology to analyse footage from security cameras in workplaces. It can detect when employees are not complying with social distancing rules, for example.
+- Amazon, which plans to sell the tool to other employers, says it can improve workplace safety in other ways too.
+- “Are people walking in spaces where they shouldn’t be? Is there an oil spill? Are they not wearing hard hats? These are real-world problems,” a senior executive told the Financial Times.
+- It's easy to see how the technology could help in the fight against Covid-19, since workplaces are a major source of transmission. It could reveal pinch points in factories where social distancing isn't possible, for instance, which might prompt companies to redesign work processes.
+- But, like any tool, the outcomes will depend on the people who wield it.
+- Having read a lot of corporate safety incident reports over the years, I’m struck by how often CCTV footage is used to blame the worker who was hurt.
+- In a recent example from a British meat factory (an industry where work pressures are often intense), a man fractured his hand when running to fetch a metal plate. “This is a behavioural safety issue [because he shouldn’t have run] and he will be disciplined upon his return,” the company wrote in the report to the UK’s health and safety regulator. There was no mention of why he felt the need to run in the first place.
+- In this context, it’s not hard to imagine a future scenario where workers are blamed for contracting Covid-19, possibly with implications for their sick pay, by employers unwilling to consider their own role and responsibilities.
+- There is also the possibility of mission creep. A testimonial on the AWS Panorama website from guitar-maker Fender says: "We can track how long it takes for an associate to complete each task in the assembly of a guitar so that we're able to optimise efficiency and track key metrics." The comment has now been deleted from the site.
+- Many employers are exploring how to use technological surveillance to drive productivity and measure performance. In 2018, the research company Gartner surveyed 239 big companies and found more than half were using non-traditional monitoring techniques, up from 30 per cent in 2015.
+- Gartner defines monitoring as things such as “analysing the text of emails and social-media messages, scrutinising who’s meeting with whom, gathering biometric data and understanding how employees are utilising their workspace”.
+- Walmart, the US retailer, has filed a patent for a system of sound sensors placed near cashiers which could “determine a performance metric for the employee based on the audio data”.
+- In the white-collar world, an array of companies are selling software that enables employers to monitor what workers do on their computers. Time Doctor, for instance, will take regular screenshots of each employee’s screen, measure their breaks and send nudges if they stray on to non-work related sites. Supervisors are given dashboards that show “who’s a superstar and who’s slacking off”.
+- But you don’t have to be a slacker to recoil at the idea of constant monitoring.
+- Humans are hard-wired to feel uncomfortable being watched all the time, especially when under pressure to meet stretching targets. “It makes me afraid, physically and mentally exhausted,” Hibaq Mohamed, an Amazon warehouse worker, told researchers at the Open Markets Institute of the monitoring at work.
+- A body of research suggests jobs that combine high demands (concentration requirements, workload, time pressure) and low control (discretion to make decisions and schedule one’s own work) are ruinous for human health. Our metabolic, cardiovascular and neuroendocrine systems produce short-term responses to stressful situations, but when the stress is chronic, it can damage our bodies or tempt us to self-medicate.
+- One study in the US, published last year, found that people in high-demand jobs with low control were more likely to die than people in high-demand jobs with high control.
+- Workplace surveillance should be subject to regulatory oversight and ideally collective bargaining, since individuals will be better placed to negotiate the details en masse. It would be a dispiriting irony if technology brought in to protect our health in a pandemic made us sicker in the end. – Copyright The Financial Times Limited 2021
+- © 2023 The Irish Times DAC
+- © 2023 The Irish Times DAC
+
+URL: https://mashable.com/article/amazon-aws-panorama-worker-customer-tracking-technology-smart-cameras/
+- Amazon-powered employee tracking is coming to a warehouse, and possibly a store, near you.
+- The ecommerce, logistics, and (among other things) cloud computing giant quietly previewed Tuesday new hardware and software development kits (SDK) which add machine learning and computer vision capabilities to companies' existing surveillance camera networks. And in what should come as no surprise as companies around the world ramp up employee monitoring, customers are already champing at the bit to sic Amazon's tech on their own workers.
+- Amazon, of course, is notorious for monitoring its fulfillment center workers' movements in excruciating detail. From social-distance tracking systems(opens in a new tab) to automatic tools that keep tabs on(opens in a new tab) "the rates of each individual associate's productivity," Amazon has a well deserved reputation for invasiveness. AWS Panorama(opens in a new tab), shown off at the AWS re:Invent(opens in a new tab) conference, offers some version of that future to companies willing to cough up the cash.
+- And while Amazon partially advertises(opens in a new tab) the new system as allowing "you to monitor workplace safety," corporate customers clearly have a different purpose in mind.
+- Several customers were listed on the Panorama page(opens in a new tab) Tuesday, one of which included Fender (yes, the guitar company). Michael Spandau, the senior vice president of global IT at Fender, helpfully provided a little customer testimonial.
+- "With AWS Panorama and help from the Amazon Machine Learning Solutions Lab," he was quoted as saying, "we can track how long it takes for an associate to complete each task in the assembly of a guitar so that we're able to optimize efficiency and track key metrics."
+- In other words, Fender said it planned to use this fancy tech to track how quickly its warehouse employees can assemble guitars.
+- On Wednesday, after the publication of this article, an Amazon spokesperson contacted Mashable to insist that Amazon's own Panorama webpage was incorrect (you can see the original page, with the Fender testimonial, saved on the Wayback Machine(opens in a new tab)).
+- "I should point out that the Fender reference on our website has been removed as it was not accurately describing their actual use case," the spokesperson wrote.
+- Kate Rose(opens in a new tab), a digital security expert and founder of the anti-surveillance clothing line Adversarial Fashion(opens in a new tab), explained the possible dangers in the use case highlighted by Spandau.
+- "We know from every other algorithmic audit of these kinds of systems that there are people for whom this kind of tracking and evaluation performs more poorly, and they are the populations already most likely to be surveilled at work and in their communities," she wrote over Twitter direct message. "Will the motions of employees of color, of older employees, employees with disabilities be more likely to be misread or determined to be substandard or inefficient, and threaten their employment?"
+- A separate listed possible retail use case wherein store owners point an Amazon-powered surveillance network at their customers remains on the page.
+- "For example," Amazon tells would be AWS Panorama customers, "you can use AWS Panarma [sic] to count customers, track their movements for heat mapping, and monitor the length of queues."
+- Over email, also received after the publication of this article, Lindsey insisted that "AWS Panorama does not include any pre-packaged facial recognition technology and analysis performed on video streams is identity agnostic."
+- Other listed customers include Parkland(opens in a new tab), a company which operates gas stations in Canada, parts of the United States, and the Caribbean. Its retail brands include Chevron, Esso, Ultramar, Superpumper, RaceTrac, Pioneer, and Fas Gas Plus. Amazon also lists BPX Energy (a division of BP America) and Cargill as AWS Panorama customers.
+- According to Parkland's senior vice president of strategic marketing and innovation, Ian White, the company intends to aim Amazon's tech at its customers.
+- SEE ALSO: People are fighting algorithms for a more just and equitable future. You can, too.
+- "We plan to use AWS Panorama to deploy different computer vision applications at our stores and experiment over time to strengthen our customer experience and value proposition," he told Amazon(opens in a new tab).
+- Amazon says(opens in a new tab) the AWS Panorama Appliance will be available for purchase in 2021 for $4,000 per device, with an additional charge of $8.33 a month per active camera stream.
+- So get ready: Amazon's surveillance tech, and all which that entails, is coming for you.
+- UPDATE: Dec. 2, 2020, 4:53 p.m. PST: This story has been updated to included comment from an Amazon spokesperson.
+- More in
+Amazon, Cybersecurity, Privacy
+- Professionally paranoid. Covering privacy, security, and all things cryptocurrency and blockchain from San Francisco.
+
+URL: https://www.inputmag.com/tech/aws-panorama-is-a-device-that-adds-machine-learning-to-any-camera
+- Tech
+- AWS Panorama adds machine learning smarts to existing networked cameras.
+- Amazon Web Services has announced a new hardware product called AWS Panorama Appliance, a device that adds machine learning capabilities to any network-connected camera. The company is pitching the technology for industrial uses, making it easier to monitor footage from cameras in facilities and detect issues that need to be corrected, like factory workers not wearing face masks.
+- Plug and play — Computer vision trained to detect objects and activity in video is nothing new — Amazon's own Rekognition software can be used to analyze photo and video. The difference with Panorama is that the machine learning models can be hosted locally on the Panorama Appliance and run against video feeds in real-time so that response times are fast, and data never has to leave the premises. The cameras don't even need to be connected to the internet.
+- With the Panorama Appliance connected to the same network as the IP cameras, the results of any machine learning analysis can be displayed on a monitor like one in a building's security room. Organizations don't have to buy new cameras or redo their CCTV system — that simplicity is what Amazon is selling, along with the fact that some organizations may have data governance rules that prohibit data from leaving their premises.
+- Panopticon — Advancements in machine learning for video have been controversial to say the least, particularly as law enforcement has used the technology to identify suspects in crimes, sometimes leading to false positive arrests. But retail businesses have stepped up their usage as well in hopes of quickly identifying suspicious activity. Instances of misclassifying people of color, and a high potential for abuse, have led critics including civil rights advocates to call for slower roll-out of new video surveillance. Amazon itself said it would temporarily stop offering Rekognition to law enforcement agencies while it reevaluates the program.
+- The company is really emphasizing more industrial use cases for Panorama, but that still may draw pushback as workers complain about having their performance closely monitored. In Amazon fulfillment centers, employees working as "pickers" carry handheld computers that monitor their speed retrieving items, and warn them if they're falling behind expectations. That way of assessing workers purely based on granular data is considered cold and demeaning, and can create anxiety. Nobody wants to have someone watching over their shoulder the whole time they work.
+- Amazon is constantly trying out new technology inside its warehouses to increase speed and productivity, but as it does so, its injury rate has actually increased to higher than the national average.
+
+URL: https://techmonitor.ai/boardroom/productivity-monitoring-tools-office-365-amazon-aws
+- Tools that track employees' working behaviour are in the spotlight. We want to know your views.
+- By
+                    Matthew Gooding and Cristina Lago
+- This month, Microsoft removed a feature from its Office 365 suite of applications that tracked the productivity of individual employees following a backlash from critics. Privacy campaigner Wolfie Christl described the Productivity Score feature as a “fully fledged surveillance tool”. “Managers evaluating individual-level employee data is a no go,” he wrote.
+- Announcing the removal of the feature, the company’s corporate vice president for 365, Jared Spataro, said that the productivity score function “will only aggregate data at the organisation level — providing a clear measure of organisation-level adoption of key features. No one in the organisation will be able to use Productivity Score to access data about how an individual user is using apps and services in Microsoft 365.”
+- The episode revitalised the debate around how businesses can balance the efficiency and safety improvements promised by so-called ‘productivity monitoring tools’ with workers’ rights to privacy.
+- But Microsoft is not the only provider to draw criticism: features from Zoom and AWS have also come under similar scrutiny. Many of the controversial features appear to have been introduced in response to the pandemic, offering managers the ability to monitor remote workers as they would previously have done in person.
+- Is monitoring the behaviour of individual employees an effective way to get the best from the workforce? Or does it represent an unacceptable encroachment of business into the lives of their workers? To understand the views of technology leaders, Tech Monitor has launched a new survey to gauge attitudes to and appetite for these technologies, which you can complete here.
+- In early 2020, when it experienced explosive growth as lockdowns were implemented around the world, Zoom introduced a feature that assessed whether video conference attendees were paying attention.
+- Zoom removed its attention-tracker feature in April following criticism from users. (Photo by Ymphotos/Shutterstock)
+- The attention-tracking feature alerted the meeting organiser if an attendee had been looking at different window for more than 30 seconds. Magnus Falk, CIO adviser at Zoom, says that the attention tracker was designed for users of specific sectors, such as education, where attendance was a requirement for a course or training.
+- “The attention tracker was a feature that many clients loved because it allowed someone who is an educator to see whether the people who they are educating are paying attention or not,” Falk says.
+- “However, when so many people started using Zoom [as a consequence of Covid-19] for more things that we have previously experienced, it became clear that the majority of our users found the attention-tracking feature potentially creepy.”
+- The “creepiness” of the attention tracker became evident to many workers around the world who were concerned that their bosses could be monitoring what they were doing (or not doing) and was perceived by many as a form of surveillance and privacy violation. Falk says Zoom took this feedback onboard. In April, it removed the attention-tracker feature altogether and committed to offer more transparency about the platform’s privacy.
+- “It was a balancing and difficult decision where we saw that the feature would be good for some people but bad for others,” he explains. “I know that competitor products have that feature in it and I don’t know what they did with it and I know that the tracking of participants is certainly a live issue with another platform at the moment.”
+- Having been a CIO himself and having had the option to roll out software of this kind, Magnus says that technology leaders should balance their desire to know what their teams are doing with respecting privacy: “If you come back home and you tell your wife and kids what you are doing and they say ‘uuh!’, you’ve probably failed the ‘creepiness’ test.”
+- Another productivity monitoring tool being touted to employers was unveiled at AWS’s re:Invent event last week. AWS Panorama is a device and accompanying developer kit which adds machine learning to existing surveillance cameras to make them smarter. AWS presented the system as a way to improve security and safety on industrial sites but, as reported by Mashable, a customer testimonial from guitar manufacturer Fender documented its use as a productivity monitoring tool.
+- “With AWS Panorama and help from the Amazon Machine Learning Solutions Lab we can track how long it takes for an associate to complete each task in the assembly of a guitar so that we’re able to optimise efficiency and track key metrics,” said Michael Spandau, the senior vice-president of global IT at guitar giant Fender in the testimonial. It has since been removed, with Amazon stating that it “was not accurately describing [Fender’s] actual use case”.
+- Panorama was announced with little fanfare alongside AWS Monitron, a low-cost sensor for monitoring the condition of industrial assets. This low-key launch is perhaps indicative of Amazon “dipping their toe in the water”, according to David Basson, a manufacturing adviser at systems integrator Fujitsu.
+- “You would usually expect Amazon to come in with a big splash and they haven’t done that here,” he says. “I think what they’re trying to do is see if there’s a market where they can create value. They’re also trying to build up their experience working with manufacturers – they’ve been able to work with retailers because they were a legitimate retailer themselves. They need to establish that credibility with manufacturers.”
+- Basson says this degree of individual surveillance is not necessary for improving the manufacturing process. “You can monitor and digitise any process,” he says. “That process will have a person in it, but you can take them out and just map the co-ordinates around them, which would be good for identifying bottlenecks.”
+- Employers that wish to monitor employee productivity through technology should consult with workers and their representatives, he adds. “If you are going to go down [the surveillance route] it’s important to engage early and demonstrate to people like the trade bodies what the benefit is for people. It’s the old Google motto of ‘Don’t be evil’ – you need to do these things for the right reasons.”
+- Despite the potential drawbacks, productivity monitoring tools could bring benefits to staff as well as businesses. Dr Thomas Roulet is a senior lecturer in organisational theory at the University of Cambridge’s Judge Business School, and says such systems could help monitor for signs of burnout in employees working remotely.
+- Dr Thomas Roulet, inset, says the risk of employee burnout has increased during Covid-19. (Photos courtesy of Thomas Roulet and by Shutterstock)
+- Employee burnout is on the rise as the Covid-19 pandemic continues, Roulet says. “The current situation has created more pressures on organisations to adapt, reorient their value proposition. At the same time, they had less resources to do so.
+- “In the meantime, we all work from home – which makes it hard to maintain boundaries between work and personal life as we work and live in the same place. Because of that, people were more pressurised to work, wanted to achieve more, and were not able to disconnect.”
+- Technology could help employers spot the early signs of employee burnout and take action, Roulet argues. “A more macro tool that looks at how much teams are overloaded could provide already some insights on what parts of the organisation needs support. It would need to both capture the load in a quantitative manner (the amount of work needed for the team to run its activities smoothly) and in a qualitative manner, capturing the ‘mood’, not only of employees reporting about themselves but also reporting concerns for others.”
+- But, he adds, “it is very challenging to have tools that can capture risks of burnouts while at the same time respecting privacy. There is a very fine line, and more monitoring might actually generate more frustration among employees, or more pressures, and thus more burnouts.”
+- Our short survey aims to lift the lid on what people really think of productivity monitoring tools. The results will be published in an article on Tech Monitor early in the new year.
+- 
+- Featured photo by Dennizn/Shutterstock.
+- 
+
+URL: https://uk.pcmag.com/cameras/130315/amazona-panorama-makes-any-surveillance-camera-intelligent
+- We review products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+- 
+- 
+- Amazon Web Service has launched a new service called AWS Panorama in Preview mode this week. It's a machine learning appliance that adds computer vision to on-premise cameras. In other words, it adds machine intelligence to otherwise dumb camera systems.
+- Amazon views Panorama as a way of removing the need for human inspection or monitoring in key areas of business. The example Amazon gives is using Panorama to "evaluate manufacturing quality, identify bottlenecks in industrial processes, and monitor workplace safety and security." And even though this is a service offered by Amazon's cloud business, it doesn't require the internet to function.
+- The key selling point of Panorama is the ability to automate many more tasks, but as the BBC points out, it can be used to monitor people as well as goods. Track customer behavior, monitor how employees perform and whether they are following safety procedures, such as wearing a face mask, and even detect when something unexpected occurs, e.g. an unknown vehicle enters a facility. These are all positives for business owners, but Panorama is sure to raise concerns about privacy in the workplace.
+- Amazon is also making an AWS Panorama Device SDK available to manufacturers, which means we'll see new equipment appearing that takes full advantage of the service. Expect smart cameras with Panorama functionality available out-the-box to appear next year. Adlink Technology, Axis Communications, Basler AG, Stanley Security, and Vivotek are already working on Panorama devices.
+- PCMag.com is a leading authority on technology, delivering lab-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+- PCMag is obsessed with culture and tech, offering smart, spirited coverage of the products and innovations that shape our connected lives and the digital trends that keep us talking.
+
+URL: https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/
+- AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision-enabled super-powered surveillance devices.
+- Pitching the hardware as a new way for customers to inspect parts on manufacturing lines, ensure that safety protocols are being followed, or analyze traffic in retail stores, the new automation service is part of the theme of this AWS re:Invent event — automate everything.
+- Along with computer vision models that companies can develop using Amazon SageMaker, the new Panorama Appliance can run those models on video feeds from networked or network-enabled cameras.
+- Soon, AWS expects to have the Panorama SDK that can be used by device manufacturers to build Panorama-enabled devices.
+- Amazon has pitched surveillance technologies to developers and the enterprise before. Back in 2017, the company unveiled DeepLens, which it began selling one year later. It was a way for developers to build prototype machine learning models and for Amazon to get comfortable with different ways of commercializing computer vision capabilities.
+- As we wrote in 2018:
+- DeepLens is deeply integrated with the rest of AWS’s services. Those include the AWS IoT service Greengrass, which you use to deploy models to DeepLens, for example, but also SageMaker, Amazon’s newest tool for building machine learning models… Indeed, if all you want to do is run one of the pre-built samples that AWS provides, it shouldn’t take you more than 10 minutes to set up … DeepLens and deploy one of these models to the camera. Those project templates include an object detection model that can distinguish between 20 objects (though it had some issues with toy dogs, as you can see in the image above), a style transfer example to render the camera image in the style of van Gogh, a face detection model and a model that can distinguish between cats and dogs and one that can recognize about 30 different actions (like playing guitar, for example). The DeepLens team is also adding a model for tracking head poses. Oh, and there’s also a hot dog detection model.
+- 
+- Amazon starts shipping its $249 DeepLens AI camera for developers
+- 
+- Amazon has had a lot of experience (and controversy) when it comes to the development of machine learning technologies for video. The company’s Rekognition software sparked protests and pushback, which led to a moratorium on the use of the technology.
+- And the company has tried to incorporate more machine learning capabilities into its consumer-facing Ring cameras, as well.
+- Still, enterprises continue to clamor for new machine learning-enabled video recognition technologies for security, safety and quality control. Indeed, as the COVID-19 pandemic drags on, new protocols around building use and occupancy are being adopted to not only adapt to the current epidemic, but plan ahead for spaces and protocols that can help mitigate the severity of the next one.
+- 
+
+URL: https://www.channelnewsasia.com/news/commentary/work-monitor-surveillance-tech-aws-panorama-safety-privacy-13943892
+
+- Teleperformance/TP Observer employee monitoring
+- Xsolla employee monitoring, terminations
+- Page infoType: Incident Published: January 2021Last updated: January 2022

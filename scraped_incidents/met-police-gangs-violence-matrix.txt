@@ -1,0 +1,606 @@
+- UK Met Police Gangs Violence Matrix
+- Released: 2012
+- Can you improve this page?Share your insights with us
+- Gangs Violence Matrix (GVM) is a controversial database of thousands of alleged street gang members developed and operated by London's Metropolitan Police Service ('Met Police').
+- The GVM uses one or more algorithms to rank and categorise people included on the database, based on the risk each 'gang member' poses to others, and the extent to which the police and partner agencies interact with that person.
+- The GVM (also known as 'Gangs Matrix') has been subject to multiple investigations, research studies, and legal reviews by Amnesty, Liberty, StopWatch, amongst others.
+- It has also been the subject of a high-profile two-part review (part one, two - pdf) ordered by London mayor Sadiq Khan, and an independent review commissioned by then UK Prime minister David Cameron of England and Wales' criminal justice system by David Lammy MP.
+- These studies variously conclude that the GVM is inaccurate, discriminates against racial and ethnic minorities, and is, according (pdf) to Amnesty, 'unfit for purpose'.
+- In 2018, the Met Police's use of Gangs Matrix was served (pdf) with an enforcement notice by the UK privacy commissioner for 'potentially' breaking data protection laws, and for its failure to distinguish victims of crime and offenders. The notice was lifted in 2021.
+- In October 2022, the Met Police announced it had removed over 1,200 names from the list.
+- The GVM database has been shrouded in secrecy since it was quietly introduced in 2011.
+- The Met does not inform people included on the database. Nor is there is any mechanism by which those included can discover what information is help about them, ask for their data to be reviewed or removed, or appeal against their inclusion.
+- It is unclear whether the GVM is shared with other organisations. Reports indicate it is shared with other UK government departments, including immigration enforcement.
+- Operator: Metropolitan Police Service (MPS) Developer: Metropolitan Police Service (MPS) Country: UKSector: Govt - police Purpose: Predict gang violence risk Technology: Ranking algorithm Issue: Bias/discrimination - race, ethnicity, income, geography; Accuracy/reliability; Privacy Transparency: Governance; Complaints/appeals; Black box
+- Metropolitan Police website
+- Metropolitan Police Wikipedia profile
+- Metropolitan Police Gangs Matrix website
+- Gangs Matrix Wikipedia profile
+- Stanford HAI (2023). 2023 AI Index Report - 3.2 AI Incidents (pdf)
+- Pyrooz D.C., Decker S., H. (2019). Competing for Control. Gangs and the Social Order of Prisons
+- Amnesty (2018). Trapped in the Matrix: Secrecy, stigma, and bias in the Met’s Gangs Database (pdf)
+- Williams P., StopWatch (2018). Being Matrixed: The (Over)Policing of Gang Suspects in London
+- Scott S., The Monitoring Group (2017). The War on Gangs
+- Williams P., Clarke B., Centre for Crime and Justice Studies (2016). Dangerous Assocations: Joint enterprise, Gangs and Racism (pdf)
+- Bridges L. (2015). The Met Gangs Matrix: Institutional Racism in Action
+- MOPAC (2022). Review of the Metropolitan Police Service Gangs Violence Matrix – Second Annual Review (pdf)
+- MOPAC (2021). Review of the Metropolitan Police Service Gangs Violence Matrix: Update on the implementation of the MOPAC recommendations (pdf)
+- Lammy D. (2018). The Lammy Review
+- MOPAC (2018). Review of the Metropolitan Police Service Gangs Matrix (pdf)
+- Met Police (2018 rev 2023). Data Protection Impact Assessment (pdf)
+- Met Police (2018 rev 2022). Equality Impact Assessment (pdf)
+- ICO Enforcement Notice (pdf)
+URL: https://www.independent.co.uk/news/uk/home-news/met-police-gangs-matrix-database-b2004293.html
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Exclusive: Lawyers say the covert database discriminates against minorities
+- Find your bookmarks in your Independent Premium section, under my profile
+- Metropolitan Police Commissioner Cressida Dick walks towards New Scotland Yard in central London
+- The Metropolitan Police is facing legal action over its “racially discriminatory” gangs matrix database, it can be revealed.
+- The covert database was established in the wake of the 2011 London riots as a watchlist of people designated by police as “gang nominals”.
+- But campaigners say the matrix is based on vague criteria in which people can be added because they have had contact with others the police suspect are gang members or have even been victims themselves.
+- In a letter to the Metropolitan Police threatening legal action, seen by The Independent, human rights organisation Liberty warned that the gangs matrix discriminates against ethnic minority groups, especially Black people who are disproportionately represented on the database.
+- The charity is acting on behalf of Awate Suleiman, a musician and writer who attempted for two years to find whether he had been placed on the gangs matrix, and a not-for-profit UNJUST.
+- They argue it discriminates against people of colour, particularly Black men and boys, and breaches human rights, data protection requirements and public law principles.
+- Lana Adamou, a lawyer at Liberty, said: “We all want to feel safe in our communities, but the gangs matrix isn’t about keeping us safe – it’s about keeping tabs on and controlling people, with communities of colour and Black people worst affected.
+- “The gangs matrix is fuelled heavily by racist stereotypes: based on who people are friends with, who their family members are, where they live, and where they go.
+- “Secret databases that risk young Black men being excluded from society based on racist assumptions are not a solution to serious violence, they are part of the problem.
+- “The matrix damages communities through division and alienation. We should be demanding better, evidence-based solutions that tackle underlying causes.”
+- “The gangs matrix is fuelled heavily by racist stereotypes: based on who people are friends with, who their family members are, where they live, and where they go.”
+- Liberty also warned that the database breaches the Public Sector Equality Duty for public authorities to eliminate discrimination, harassment and victimisation and advance equality of opportunity.
+- Of those who are on the matrix, 86.5 per cent of those are Black, Asian or other minority ethnic, and 79 per cent are Black.
+- Additionally, the majority of people are considered by the police to be “low risk”, though they may be subject to “enforcement actions”, including exclusion from benefits, housing and education, as well as increased stop-and-search while information on the database is also shared with other bodies such as immigration enforcement.
+- The Metropolitan Police does not inform people if they are on the matrix, and there is no mechanism by which a person can appeal against their inclusion, or ask for the data held about them to be reviewed.
+- Mr Suleiman said: “It was important to know if I was one of the many people on the gangs violence matrix after years of police harassment towards people from my area.
+- “The fact that I had to go through the process of a judicial review before they would confirm whether I was on the [matrix] is not good enough and another indication of the Met’s intention to covertly surveil young, black people.
+- In 201, an investigation by the Information Commissioner’s Office (ICO) concluded the Metropolitan Police committed multiple and serious breaches of data protection laws in its use of the database
+- “These practices were normal in colonial times when British officers kept meticulous records of the people they terrorised and abused, but are antithetical to the kind of society we’re meant to live in today."
+- In 2018 the Mayor’s Office for Policing and Crime recommended that the Metropolitan Police obtain further data so that the effectiveness of the gangs matrix could be properly assessed, but Liberty says they have failed to do this.
+- The same year, an investigation by the Information Commissioner’s Office (ICO) concluded the Metropolitan Police committed multiple and serious breaches of data protection laws in its use of the database.
+- The Met Police has been approached for comment.
+- “The gangs matrix is fuelled heavily by racist stereotypes: based on who people are friends with, who their family members are, where they live, and where they go.”
+- PA
+- In 201, an investigation by the Information Commissioner’s Office (ICO) concluded the Metropolitan Police committed multiple and serious breaches of data protection laws in its use of the database
+- PA
+- Metropolitan Police Commissioner Cressida Dick walks towards New Scotland Yard in central London
+- Getty
+- Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Log in
+- New to The Independent?
+- Or if you would prefer:
+- Want an ad-free experience?
+- 
+
+URL: https://www.independent.co.uk/news/uk/home-news/met-police-gangs-matrix-database-b2006051.html
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- A force spokesperson also told The Independent that the Met is determined to improve trust and confidence among Black communities.
+- Find your bookmarks in your Independent Premium section, under my profile
+- The Metropolitan Police Service has suggested that its controversial Gangs Violence Matrix targets Black people because it believes they are more likely to commit crimes.
+- In a letter to the Metropolitan Police threatening legal action, seen by The Independent, human rights organisation Liberty warned that the matrix discriminates against ethnic minority groups, especially Black people who are disproportionately represented on the database at 79 per cent.
+- Confirming that a legal challenge against the database has been brought against the service by Liberty, a human rights charity, the force said the database is “an important tool which identifies the most harmful people we know to be involved in gang-related crime”.
+- “We know that young men; and in particular young Black men continue to be over represented on the GVM.  Sadly, this is also reflective of the levels of violent crime that affect them – both in terms of victimisation and offending,” a spokesperson said.
+- “A significant proportion of the most serious crime on our streets, including homicide and shootings are committed by gangs and their members – often inextricably linked to drug dealing and county lines – the Gangs Violence Matrix (GVM) helps us to understand the scale of their activity,” a spokesperson said.
+- “Gangs target vulnerable young people, drawing them into a life of drug dealing, sexual exploitation and violence, from which they struggle to escape. The GVM is instrumental in reducing the reoffending and harm to those people on it - as was acknowledged by the Mayor’s review in 2018.”
+- Liberty argues that the matrix is based on vague criteria in which people can be added because they have had contact with others the police suspect are gang members or have even been victims themselves.
+- “The GVM is instrumental in reducing the reoffending and harm to those people on it - as was acknowledged by the Mayor’s review in 2018.”
+- Meanwhile, the Met Police say that the GVM presents opportunities for the police to help those tangled up in the gang life to leave it behind.
+- “We recognise that this remains a source of concern for some communities – and in particular for Black communities whose trust and confidence we are determined to increase further so that all communities have the same level of trust in the Met,” a spokesperson said.
+- “We are more transparent than ever in publishing what we can with the public on our use of the GVM and our data, information and impact assessments are available on the Met website.”
+- The police force’s comprehensive data strategy and policy sets out the terms, guidance and governance for the use of the GVM, as well as storage and security requirements, which officers adhere to, the force maintain
+- Campaigners have warned that the database breaches the Public Sector Equality Duty for public authorities to eliminate discrimination, harassment and victimisation and advance equality of opportunity.
+- Those who appear on the database may be subject to “enforcement actions”, including exclusion from benefits, housing and education, as well as increased stop-and-search while information on the database is also shared with other bodies such as immigration enforcement.
+- “Across all the London boroughs 12 senior officers oversee access and use of the GVM, which includes that any necessary sharing of information with trusted partners - for example, to help someone exit the gang life-style or to protect the public - is strictly governed by our data policy and data sharing agreements,” said the spokesperson
+- “We are determined to protect all of London’s communities from gangs and the violence they bring to our streets and the lives they destroy.”
+- “For years, communities of colour, particularly young Black men, have been subject to overbearing and oppressive policing.”
+- Liberty, however, told The Independent that the Matrix is “fuelled heavily by racist stereotypes which aren’t borne out in reality”.
+- “Arguments about these policing tools being used to protect communities are nothing but offensive, and do not reflect the real experiences of those being regularly harassed by police due to being on the matrix,” a spokesperson said.
+- “It is an undeniable fact that the Gangs Matrix is not evidence based, and Black people are overrepresented on the Matrix, both compared to the general population and to the rates of conviction for relevant offences.
+- “For years, communities of colour, particularly young Black men, have been subject to overbearing and oppressive policing. Not only do we know how traumatic being subject to incessant and stigmatising police interactions can be, being on the matrix has serious impacts on people’s lives, including benefits sanctions, eviction, and exclusion from education and housing.
+- “Discriminatory tools like the Gangs Matrix divide communities, sow mistrust and rubber-stamp the harassment of young Black men. Rather than asking the police to solve problems which they often worsen, policymakers should be tackling these root causes and supporting communities to flourish, with solutions based in health, education, housing and social welfare.”
+- Join thought-provoking conversations, follow other Independent readers and see their replies
+- “The GVM is instrumental in reducing the reoffending and harm to those people on it - as was acknowledged by the Mayor’s review in 2018.”
+- PA
+- “For years, communities of colour, particularly young Black men, have been subject to overbearing and oppressive policing.”
+- Getty
+- Rex Features
+- Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Log in
+- New to The Independent?
+- Or if you would prefer:
+- Want an ad-free experience?
+- 
+
+URL: https://www.independent.co.uk/news/uk/crime/police-gangs-database-matrix-met-scotland-yard-london-racist-amnesty-report-a8342171.html
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- 'It’s a conflation of elements of youth culture with violent offending and that’s heavily racialised,' Amnesty Internation tell The Independent
+- Find your bookmarks in your Independent Premium section, under my profile
+- Scotland Yard is listing thousands of children and young men on a “racially discriminatory” database that is failing to tackle rising violence in London, a new report has found.
+- Amnesty International said London Metropolitan Police’s shadowy “gangs matrix” is causing people with no links to crime to be wrongly stigmatised while the perpetrators go free.
+- The Information Commissioner’s Office has started an investigation into the database, which holds the details of more than 3,800 subjects as young as 12.
+- It found that three quarters of those listed on the matrix are black, despite the ethnic group making up just 13 per cent of London’s wider population and a quarter of those prosecuted for serious youth violence, while 15 per cent are children.
+- Known as “gang nominals”, they are given a green, amber or red rating denoting their perceived risk of violence and the information can be shared with other authorities including housing associations, schools and Job Centres.
+- Figures from October 2017 showed the Matrix contained 3,806 entries, with 5 per cent in the red category, the highest risk of committing violence, and 64 per cent in the green.
+- Forty per cent - 1,501 - had a harm score of zero, meaning they had no record of charges or police intelligence linking them to violence in the past two years.
+- The Metropolitan Police, which drew up the database following the devastating London riots in 2011, said it aimed to “reduce gang-related violence and prevent young lives being lost” while turning people away from crime.
+- But Amnesty International’s research, based on interviews with 30 police officers and other professionals who use the database, found that it was “not the answer” to rising violence amid a spate of deadly stabbings and shootings.
+- The charity’s report found a “chaotic and inconsistent” approach to adding individuals to the matrix between different London boroughs, where some officers are allegedly using social media activity and links to grime music as indicators of gang links.
+- Kate Allen, Amnesty International UK’s director, said the strategy was both racially discriminatory and ineffective.
+- “If that is one of the ways of thinking about gangs, that will draw in a huge range of people who have nothing to do with criminality - it’s a conflation of elements of youth culture with violent offending and that’s heavily racialised,” she told The Independent.
+- “It’s difficult to know how people come off the matrix and whether that is effective policing or not.”
+- Ms Allen said that at a time of stretched police resources, the matrix was causing officers to monitor listed people who may not have committed any offences while criminals go free.
+- “This is an opportunity to do things differently,” she added. “That’s not going to produce effective policing or a community that has trust and confidence in the police.”
+- Amnesty International said that a core issue was the definition of a gang, which can be as small as three people under law, arguing the concept had been become “disproportionately identified with black men and boys”.
+- The Mayor’s Office for Policing and Crime found that more than 80 per cent of all stabbings involving a victim aged under 25 in London are deemed to be non-gang-related.
+- “Gangs are, for the most part, a complete red herring,” a Metropolitan Police officer told researchers. “Fixation with the term is unhelpful at every level.”
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Facebook
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- PA
+- Metropolitan Police
+- Metropolitan Police
+- Handout
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Metropolitan Police
+- Stafford Scott, from The Monitoring Group campaign organisation, said Conservatives had played up the threat from gangs in the wake of the 2011 riots, which were sparked by the police shooting of Mark Duggan, despite the Home Office’s own analysis finding members did not play a “pivotal role”.
+- “It’s not just about policing but it's about a system that's classed young black kids as a kind of peculiar species that need to be policed,” he told a press conference. “We didn’t always have gangs, we spoke about working class sub-youth culture like punks and skinheads, but when it comes to black kids we have to ostracise them.
+- “When their name goes on this list their life is over, they are policed in a way that leaves them believing it is only them and their buddies against the world.”
+- The report found some police officers were creating fake social media profiles to “friend” suspected gang members and track them, in a potential violation of the Regulation of Investigatory Powers Act.
+- It said the sharing of YouTube videos, particularly grime music featuring gang names, can be used as potential criteria for adding names to the matrix.
+- Researchers found examples of local authorities threatening to evict the families of alleged “nominals” unless they cease alleged gang involvement, even where the listed person had moved away or – in one case – died a year before.
+- Officials reported a general pressure from the police in the Gangs Units to “keep people on” the matrix in case they later went on to commit a violent offence, although Scotland Yard said more than 4,000 people had been removed since its inception in 2012.
+- There are no “clear processes” for reviewing or updating the database, or challenging the inclusion of a name, and no definitive list of who is allowed access to the information, Amnesty International said.
+- A 21-year-old man with no criminal record found out he was listed through his work with an official gang prevention programme.
+- Paul has met the home secretary and mayor of London but his employers’ appeals for him to be delisted have so far fallen on deaf ears.
+- Meanwhile, other designated “nominal” have had Freedom of Information requests by people asking to see what information Scotland Yard holds on them refused.
+- Amnesty International is calling for the matrix to be brought in line with international standards or disbanded, as well as a wider inquiry into the databases and similar projects by other police forces by the Home Affairs Committee.
+- The Information Commissioner’s Office is investigating whether it violates data protection laws, which stipulate that personal information must be processed fairly and lawfully, be accurate and not kept for longer than necessary.
+- Deputy commissioner for operations James Dipple-Johnstone said: “We are considering how the database is used and if any aspects of it constitute a breach of the Data Protection Act.
+- “At the conclusion of our investigation we will communicate any resulting recommendations and enforcement actions.”
+- Scotland Yard described the matrix as an “intelligence tool” that is informed by intelligence but it is primarily based on violent offences.
+- “The style of music that someone listens to has no bearing on whether someone is placed on the matrix but evidence that someone is glorifying gang violence in a music video posted on social media can be used as an intelligence source,” a spokesperson added.
+- “The overarching aim of the matrix is to reduce gang-related violence and prevent young lives being lost. It is important to identify those young people who are in a gang but may not yet have been drawn into gang violence.
+- “This forms part of the prevention activity by local borough police and partners where they carefully consider what support can be provided to ensure they are diverted away from activity that may result in either violent offending or them becoming a victim. As with all persons on the Matrix they are regularly reviewed and removed if appropriate.”
+- The force confirmed that data is shared with probation services, other police forces, local authorities, probation, housing, education, and local healthcare providers but insisted confidentiality was ensured by signed agreements, adding: “Any action taken by partner organisations should not be instigated solely on a person’s name being on the gang matrix.”
+- PA
+- 
+- Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Log in
+- New to The Independent?
+- Or if you would prefer:
+- Want an ad-free experience?
+- 
+
+URL: https://www.theguardian.com/uk-news/2020/feb/15/met-removes-hundreds-from-gangs-matrix-after-breaking-data-laws
+- How list is compiled also to be reviewed amid claims it blights life chances and is discriminatory
+- Hundreds of young people have been removed from a controversial police list of alleged gang members after claims that it is discriminatory and blighted their life chances, the Guardian has learned.
+- The Metropolitan police’s gangs matrix, which the force says is a vital tool in tackling violence in London, has been found to be breaking data laws.
+- More than 370 people have been removed from the matrix, and the way the list is put together will be reviewed to make sure the right suspects are on it.
+- The aim of the matrix is to list the most violent offenders so police can target them. But the data and analytics used has caused problems.
+- Community pressure led to scrutiny of the matrix, which had been operated in secret since 2011, unearthing a host of problems. These included concerns that it featured some young men who were not involved in gang violence.
+- A 2018 report for the mayor of London found the list overly targeted young black men. “The representation of young black males on the matrix is disproportionate to their likelihood of criminality,” it said.
+- Furthermore Amnesty International claimed it was the centrepiece of a “racialised war on gangs”.
+- Lawyers for some of those who feel they were wrongly caught up in the matrix have been considering suing.
+- In 2018, the Information Commissioner’s Office found the gangs matrix was potentially breaking data protection laws and failed to distinguish between victims of crime and offenders. In an embarrassing move for the Met, the ICO issued Britain’s biggest force with formal enforcement notices to improve.
+- The same year the Guardian revealed that more than 40% of young people on a matrix list from Haringey, north London, were scored as posing “zero” risk of causing harm. Some were assessed as being much more likely to be victims than offenders.
+- Stafford Scott, a community campaigner, said the hundreds of young people taken off were the result of community action and pressure, adding: “They had no criminal record for violence or no criminal record at all. They have endured the most oppressive policing regime possible, without being in custody.
+- “They [the Metropolitan police] have broken data protection and equality laws meaning they must have caused harm. They are refusing to tell people they were on the matrix and had been taken off.”
+- The latest figures show 2,552 people are on the matrix, 1,063 of whom are in custody.
+- The vast majority (1,581) are in the green category, those assessed to cause the least harm, while 144 in the highest harm category – red.
+- On the matrix 97 people are aged 16 or under, while only 167 are over 30.
+- According to the Met, gang activity in London is almost a wholly male affair with only six women and girls on the list.
+- Critics say those on the gangs matrix have had their details shared with other agencies. Some with no involvement in violence had their driving licences withdrawn or applications denied.
+- The ICO said the Met was now complying with the law. James Dipple-Johnstone, the office’s deputy commissioner (operations), said: “The ICO made it clear to the Metropolitan Police Service that while there was a valid purpose for maintaining the gangs matrix, key issues of data sharing and retention had to be addressed, and that governance, policies and procedures had to improved.
+- “After reviewing the evidence provided by the MPS regarding the steps required by the enforcement notice, we are satisfied the terms of the enforcement notice have now been met. The ICO will continue to monitor how gangs data is used by MPS and partner agencies such as London borough councils.”
+- Katrina Ffrench, the chief executive of StopWatch, which campaigns for fair use of police powers, said of the matrix: “This was bought in nine years ago only only recently has it been reviewed to check it is lawful. It is maddening it has been used for so long without oversight. The police can’t be left to police themselves without oversight.”
+- The Met said: “The [matrix] has assisted in preventing many gang members from committing, or being the victims of, serious violent crimes, so we view this as a very effective intelligence tool to direct our activity.”
+- The force said analysis of those listed showed the gangs violence matrix (GVM) was “key in reducing risk among those included on it. This saves lives.”
+- The Met added: “Over the last 15 months, there has been significant external scrutiny of the GVM.
+- “As well as the ICO review, Amnesty International have raised concerns about the use of the GVM and the mayor’s office for policing and crime review of the GVM was published in December 2018. We are now implementing a number of measures to make sure that we can comply with their requirements.”
+- The Equalities and Human Rights Commission said it was monitoring the situation.
+
+URL: https://www.theregister.com/2019/02/05/cops_told_to_scrap_algorithms_for_policing_work/
+
+URL: https://www.wired.co.uk/article/gangs-matrix-violence-london-predictive-policing
+- Peter Yeung
+- The first time Bill was stopped and searched by police, he was standing outside a friend’s house in south London. “The police pulled up on us, three cars,” he says. “I asked them why they were searching us, and one said, ‘Because I want to’.” Bill was 11. That was nearly a decade ago.
+- Pupils from different neighbourhoods around the area, such as Brixton, Peckham, and Tulse Hill went to Bill’s secondary school. Some areas were particularly rough, and gangs with minors in them were common. Four boys died in a three-year period back then, he says. One was shot while lying in bed. Another was stabbed in the heart. “One of them was my close bredrin,” says Bill. “I didn’t really think too much of it. I just had to keep it moving, you know?”
+- From then on, officers took a keen interest in Bill, as they did with many other young black boys from underprivileged backgrounds in the area. When he was 14, police arrested him twice in two weeks – without charge. “That’s that network. That little matrix that they have,” he adds. “They know that people who I know have been arrested for drugs, so they assume that I’m going to have drugs on me.”
+- Bill had ended up on what is known as the Gangs Matrix, a controversial database created by the Metropolitan Police (the Met) in the aftermath of London’s 2011 riots to purportedly identify and surveil not only those at risk of committing gang-related violence, but also potential victims of it.
+- By Matt Kamen
+- By Chris Stokel-Walker
+- By Angela Watercutter
+- By WIRED
+- Based on a number of variables such as previous offences, patrol logs, social media activity and friendship networks, the matrix relies on a mathematical formula to calculate a “risk score” – red, amber, or green – for each person, in reference to the likelihood they will be involved in gang violence. This intelligence in theory guides an efficient use of police resources and aids court prosecutions.
+- But critics argue it is one of the most flawed policing initiatives in modern times. In a report last year, human rights charity Amnesty International described it as “a racially biased database criminalising a generation of young black men”, revealing that 35 per cent of those on the matrix had no police intelligence linking them to gang violence and had never been charged with a crime. Sharing certain YouTube videos of grime or drill music, meanwhile, is considered a key indicator of gang affiliation.
+- The implications of being on the matrix can be chilling, but finding out why you are on it, let alone how to be removed, is extremely difficult. One family received a letter warning they would be evicted from their home if their son didn’t stop his involvement with gangs – but he had been dead for more than a year. A disabled mother's council-provided car was seized after her son – who acted as her carer and was registered to drive the car – was arrested without charge or further action. In Bill’s case, he was forced out of his mother’s house and put into a residential care home due to being on the matrix. He was later banned from attending the South London Learning Centre.
+- In November, the Information Commissioner’s Office (ICO), Britain’s watchdog for data use, ruled that the matrix breached data protection rules. The investigation found that it did not clearly distinguish between victims and perpetrators of crime, some boroughs were keeping informal lists of those who were supposed to have been removed from the matrix, and there was “blanket sharing [of data] with third parties” including schools, job centres, and housing associations.
+- A separate, damning review published the following month by the Mayor of London’s Office, which oversees the Met, found that although there is a need to address violence in the capital, the number of young black people on the matrix was “disproportionate to their likelihood of criminality and victimisation.” The review ordered the force to radically reform the tool within a year. The Met said in a statement at the time that it “does not believe that the Gangs Matrix directly discriminates against any community”.
+- By Matt Kamen
+- By Chris Stokel-Walker
+- By Angela Watercutter
+- By WIRED
+- But according to data obtained by WIRED via a freedom of information request, children as young as 13 are currently listed on the Met’s Gangs Matrix. In total, the list contains some 3,000 people, mostly young, black boys, including 55 children under 16. More than 7,000 individuals have been on the matrix at some point. About 80 per cent of those on the list are described as “African-Caribbean”, 12 per cent are from other ethnic minority backgrounds, and just eight per cent are “white European”. Yet the vast majority are considered to pose little threat of violence by even the police, with 65 per cent currently rated with a green risk score, 30 per cent amber, and five per cent red.
+- As a result, campaigners are now calling for the tool, the remit of which covers more than eight million people, to be scrapped. “I think it’s deeply problematic,” says Tanya O’Carroll, director of Amnesty’s global technology and human rights programme. “It’s a rudimentary use of data in poorly thought-out ways that ends up being extremely discriminatory to young black boys. The way the matrix works, intelligence about people is essentially hearsay – feeling, not fact.”
+- The matrix is part of a growing trend of police forces across the UK using open-source intelligence, big data and machine learning as part of its crime-stopping. A report published by Liberty in February revealed that at least 14 forces across the UK – around a third – are already using what has been coined “predictive policing”.
+- It outlined two main strands: “predictive mapping”, which identifies areas where crime will likely occur, and “individual risk assessment”, which predicts how likely an individual is to commit crime.  However, the first has led to over-policing of certain communities and the second facilitates racial profiling, critics argue, while the broader issue of predictive policing is legally ambiguous, lacking accountability and not proven to be effective.
+- The Gangs Matrix does not exactly implement artificial intelligence or machine learning, unlike the tools of many others forces, says Hannah Couchman, a policy and campaigns officer at Liberty who authored the report. But there is still the concept of “pre-criminality” – being investigated by police without reasonable grounds, she adds. It comes into conflict with age concepts such as innocence until proven guilty and probable cause.
+- By Matt Kamen
+- By Chris Stokel-Walker
+- By Angela Watercutter
+- By WIRED
+- “We are really seeing a pattern of police forces rolling out these technologies without sufficient protection,” says Couchman.
+- Kent Police, the first UK police force to try to use computer algorithms to predict crime, ended its five-year deal with the US company PredPol last March, citing difficulties in proving that the technology could reduce crime.
+- South Wales Police and the Met are testing Automated Facial Recognition (AFR) – despite high rates of incorrect identifications, particularly for women and black people. Avon and Somerset police have started using a broad mapping program to assess the likelihood of things such as being a victim of stalking and taking stress-related sick leave.
+- Despite the significant problems, however, the UK’s national coordination body for law enforcement rejects any criticism. “For many years police forces have looked to be innovative in their use of technology to protect the public and prevent harm and we continue to develop new approaches to achieve these aims,” says Jon Drake, intelligence lead for the National Police Chiefs' Council.
+- But while police use of big data may be inevitable, a significant concern is the lack of accountability in these systems, whose processes remain a mystery to even the officers tasked with deploying them – and the experts that have built them. Automation bias, the hesitancy to overrule computers’ automated decisions, is also a significant problem, says Nick Jennings, a professor at Imperial College London.
+- “We generate so much data from so many devices to make decisions, we can’t possibly do it ourselves and we need computer support,” he adds. “But even for those that build AI programs, it’s not easy to understand the logic behind the most powerful machines. So we need to be really careful about the kind of information that we feed in, and what biases it may have.”
+- In January, the British government acknowledged those challenges by launching the Centre for Data Ethics and Innovation, the first body of its kind in the world, which will provide advice on “data-enabled technologies”. The Nuffield Foundation’s new £5 million Ada Lovelace Institute will play a similar role, considering the ethical questions raised by big data, algorithms and AI. West Midlands police is also believed to be introducing an ethics committee as part of its predictive analytics.
+- By Matt Kamen
+- By Chris Stokel-Walker
+- By Angela Watercutter
+- By WIRED
+- However, a lack of transparency continues to plague the field. It has now emerged that a secret new system called the Concern Hub, headed by a central team at Scotland Yard that will liaise the Met and hubs in each of Greater London’s 32 boroughs, has already been undergoing an unpublicised trial in the capital.
+- A spokesperson for the Met says that the Concern Hub is “a new multi-agency diversion initiative” set to launch in south-east London in April, with a wider rollout across the city in the coming months. The aim is “to safeguard young people at significant risk of becoming involved in violence, drugs, or gang activity.”
+- Read more: UK police are using AI to inform custodial decisions – but it could be discriminating against the poor
+- These secretive approaches to policing could compromise trust, says David Lammy, the Labour MP for Tottenham in north London. “It is very worrying that another similar tool is being created without sufficient consultation with communities.” Jude Lanchin, an associate in criminal law for Bindmans who has worked on a number of cases involving the Matrix, calls the new methods just as opaque as ever.
+- Lawyers with significant experience of working on cases where defendants were described as “gang nominals”, a term used by the Gangs Matrix to denote association with – but not necessary membership of – gangs, also lambast the lack of transparency by police prosecutors in the courts.
+- “The phrase ‘gang nominal’ is cited as evidence without an explanation as to what that intelligence is based on,” says Suzanne O’Connell, a youth courts specialist for Tuckers Solicitors who first worked on a case involving the matrix in 2012. She estimates that 80 per cent of her court cases involve a reference to the term. “This whole cloud of secrecy is very difficult to challenge,” she adds.
+- The troubling rise of murder in London is, however, an issue that can’t be ignored. There were 135 people murdered or unlawfully killed in London last year alone, the highest in a decade. More than 40 per cent were men under 30. Reports of stabbings in the capital come and go almost daily.
+- But the focus on gangs has always been flawed. The Conservative government initially blamed gangs for the 2011 riots, but later reviews found the causes behind the deadly period of looting, arson and civil unrest to be far broader. A study by the Mayor’s Office for Policing and Crime also estimated that more than 80 per cent of all knife-crime incidents resulting in injury to a victim under 25 were deemed to be non-gang related.
+- Put simply, the causes behind violence in London are deep-seated may be going far beyond criminal groups and the limits of technology. “It reflects the bias in society,” thinks Katrina Ffrench, chief executive of the campaign group Stopwatch. “I don’t expect it to not be racist, why would you?”
+- Updated 24.01.19, 09:50 GMT: This story has been updated to include a line saying that the vast majority of children on the Met’s Gangs Matrix are considered to pose little threat of violence. Also, the earlier version of the text mistakenly stated that Nick Jennings was a professor at the LSE, whereas he is a professor at Imperial College London. A quote from Hannah Couchman has also been clarified.
+- – The games industry should be worried about Google Stadia
+- – How the petition to revoke Article 50 went viral
+- – I tried to keep my baby secret from Facebook and Google
+- – Care about online privacy? Then change your phone number
+- By Matt Kamen
+- By Chris Stokel-Walker
+- By Angela Watercutter
+- By WIRED
+- By Tracy Wen Liu
+- By Matt Burgess
+- By WIRED
+- By WIRED
+- © Condé Nast Britain 2023.
+
+URL: https://www.bbc.co.uk/news/uk-england-london-44045914
+- The data watchdog is investigating the Met Police's gangs database following accusations it is "not fit for purpose".
+- A report by Amnesty International found the force's Gang Violence Matrix was "racially discriminatory" and breaches human rights law.
+- The database, set up in the wake of the 2011 London Riots, holds information on about 3,800 persons of interest.
+- The Met Police said the matrix helped "prevent young lives being lost".
+- The report found the matrix tracked a disproportionate number of minorities, as well as 1,500 people who police had assessed as posing no danger of committing violence.
+- The Information Commissioner's Office (ICO) confirmed it was "in contact with the Metropolitan Police Service as part of an investigation into their use of a gangs database".
+- Figures from July 2016 showed 78% of the people listed were black. Police figures show 27% of those prosecuted for youth violence are black.
+- About 13% of London's population is black.
+- The matrix uses various intelligence including history of violent crime, entries on social media and information from bodies including local councils to identify gang members.
+- They are then given a score assessing the risk they posed. Around 40% of those on the list have a "harm score" of zero, the report found.
+- Those with a zero score may be in custody and therefore not currently offending.
+- Being on the matrix could affect access to housing, education and job centre services, the report claimed.
+- The charity's UK director, Kate Allen, said: "There is clearly a huge problem with knife crime violence at the moment in London, but the gangs matrix is not the answer.
+- "The entire system is racially discriminatory, stigmatising young black men for the type of music they listen to or their social media behaviour, and perpetuating racial bias with potential impacts in all sorts of areas of their lives.
+- Individuals identified on the matrix are offered support to divert them away from both offending and becoming a victim of violence, Scotland Yard said.
+- The Met said it was working with Tottenham MP David Lammy, Amnesty International and the ICO to "help understand the approach taken".
+- It is understood that officers in Manchester and Birmingham gather similar information on gang links.
+- Have you been affected by any of the issues raised in this article? You can get in touch, in confidence, by emailing haveyoursay@bbc.co.uk.
+- Please include a contact number if you are willing to speak to a BBC journalist, in confidence. You can also contact us in the following ways:
+- No easy answers to London's killings
+- London killings: Why are they happening?
+- The reality of trying to escape gang life
+- England riots: Maps and timeline
+- Metropolitan Police
+- Amnesty International
+- 'Exploding gas canisters' cause incinerator to breach emissions limit
+- 'Heavy smoke' warning after blaze breaks out in detached building
+- Just Stop Oil activists in court after protest at Gallagher Premiership final
+- Gregg Wallace quit BBC Two’s Inside the Factory after ‘offending female staff’
+- Red Arrows June 2023: Where to watch the aerobatic display team this month
+- Arrests made and knife recovered after crime crackdown in Harold Hill
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.thesun.co.uk/news/6242378/life-saving-police-database-monitoring-violent-london-gangs-at-risk-because-it-breaches-human-rights/
+- Scotland Yard's Gangs Matrix was set up to help crackdown on knife crime in the capital and has been branded 'life-saving' by a senior cop
+- A SECRET police database monitoring violent gangs in London is at risk of being axed because it "breaches human rights".
+- Scotland Yard's "life-saving" Gangs Matrix is used to help crack down on knife crime, which has gripped the capital this year.
+- But a report by Amnesty International concluded the database breaches international human rights law because of its overwhelming focus on black males, who make up 78 per cent of the 3,500 names on it.
+- The charity's UK Director Kate Allen said: "There is clearly a huge problem with knife-crime violence at the moment in London, but the Gangs Matrix is not the answer.
+- "It's part of an unhelpful and racialised focus on the concept of gangs. Put simply, it's the wrong tool for the wrong problem.
+- "The entire system is racially discriminatory, stigmatising young black men for the type of music they listen to or their social media behaviour, and perpetuating racial bias with potential impacts in all sorts of areas of their lives.
+- "Some police officers have been acting like they're in the wild west, making the false assumptions that they can set up fake profiles and covertly befriend people online to monitor them without needing the appropriate search warrants.
+- "The Mayor of London needs to dismantle the Matrix unless he can bring it in line with international human rights standards."
+- The charity found in July 2016, 87 per cent of people were listed as black, Asian and minority ethnic.
+- While 80 per cent of those on the database were between the ages of 12 and 24, and 15 per cent were minors - the youngest just 12 years old - with males accounting for 99 per cent.
+- The report claimed being on the Matrix could affect access to services such as housing, education and the job centre.
+- But a senior Met cop has previously defended the database after bombshell figures revealed gang violence is responsible for half of the capital’s firearms offences and also accounted for a fifth of its 12,000 annual knife crimes.
+- Murder rates in London overtook New York for the first time this year following a wave of violence that saw more than 60 people killed.
+- The bloodshed continued last night as two teens were knifed in separate attacks across the capital within just two hours of each other.
+- Commander Jim Stokley, in charge of the Met’s drive against gang crime, said in March: "It really can save lives."
+- He also said this year’s violent statistics “speak for themselves” and “represent young people - much loved sons, brothers, friends. We must never forget the human tragedy and cost.”
+- The matrix intelligence system was set up in the wake of the 2011 riots amid concerns about the Met’s lack of knowledge about gangs, their affiliations and post code battle lines.
+- There must be at least two corroborated pieces of intelligence on individuals before they are included on the list.
+- Scotland Yard said the aim of the database is to "reduce gang-related violence and prevent young lives being lost".
+- They added: "The style of music that someone listens to has no bearing on whether someone is placed on the matrix. However, evidence that someone is glorifying gang violence in a music video posted on social media can be used as an intelligence source.
+- "In relation to suggestions of potential racial disproportionality of the matrix, the MPS has actively engaged with David Lammy MP, Amnesty International and the Information Commissioner's Office to help understand the approach taken, and we remain committed to ensuring the safety of all Londoners, and especially those most at risk from gang and other violent crimes."
+- We pay for your stories! Do you have a story for The Sun Online news team? Email us at tips@the-sun.co.uk or call 0207 782 4368. You can WhatsApp us on 07810 791 502. We pay for videos too. Click here to upload yours.
+- 
+- Dani Dyer reveals adorable names she's called her twin daughters
+- Schofield breaks silence on This Morning axing blaming ‘people with grudges’
+- Love Island full cast revealed from Corrie star daughter to legend's pal
+- Phil Schofield snapped with young aide as insider says relationship was 'odd'
+- ©News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy. To inquire about a licence to reproduce material, visit our Syndication site. View our online Press Pack. For other inquiries, Contact Us. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the Independent Press Standards Organisation (IPSO)
+- Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click this link: thesun.co.uk/editorial-complaints/
+
+URL: https://www.bbc.co.uk/news/uk-england-london-46239413
+- The data protection watchdog says the Metropolitan Police's database of gang members has been illegally sharing information on hundreds of victims who aren't involved in gang crimes.
+- The workings of the database - called the gangs matrix - is also potentially racially discriminatory, the Information Commissioner's Office said.
+- The database was created to gather intelligence on about 3,400 suspects.
+- The Met says it has accepted the findings and is overhauling the matrix.
+- The gangs matrix was created after the 2011 riots - but the the Information Commissioner's Office (ICO) said it had been so poorly managed since its inception that it constantly failed to properly differentiate between dangerous offenders and their victims.
+- As a result, police were sharing information with other agencies, without fully explaining who on the secret lists posed a serious risk of crime.
+- The ICO has served Scotland Yard with its toughest sanction short of a criminal prosecution, ordering the force to overhaul how it manages and shares the data.
+- It stopped short of ordering the force to close down the database because it said it recognised its value if managed properly.
+- Police and officials in each of London's 32 boroughs collect and manage a local database that feeds into the London-wide Gangs Matrix system.
+- The database includes personal details, criminal records, intelligence on links to gun or knife violence and a rating of how dangerous each individual is thought to be.
+- In the last year it has played a key role in solving a wide range of serious crimes in London.
+- Figures from the Mayor of London show that a fifth of murder victims in the first nine months of 2018 were already on the database. Almost half of suspects charged in relation to 100 killings in the capital were also in the system.
+- But in a highly critical enforcement notice, the watchdog disclosed that the matrix was holding information on "a considerable number" of people who had "a risk score of zero".
+- "Their personal data continues to be processed as though they remained connected with gangs," said the watchdog.
+- "Their personal data and supposed association is shared with third parties... to encourage enforcement against them."
+- This sharing with agencies such as social services, housing authorities and education was part of an "Al Capone" attempt to disrupt gang members by targeting them for lesser matters.
+- But the agencies receiving the information did not know that some of the people were in fact merely repeat victims or associates of more serious gang members.
+- That meant sharing the information would have a "significant adverse impact" on people who would be wrongly labelled as gang criminals by anyone receiving the information.
+- James Dipple-Johnstone, the deputy information commissioner, said the way the Met handled highly sensitive data that needed protecting was quite confused.
+- "In some circumstances there was good practice, but in the poor, it wasn't always clear that people were on there by virtue of that victim status - or how they were linked in with the crime and the gangs," he told the BBC.
+- "Potentially, depending on who was receiving that information, it would have influenced their opportunity to access education opportunities, training opportunities, social services and housing opportunities."
+- Almost nine out of 10 individuals on the database are from a black or other ethnic minority background and the ICO warned this raised "potential issues of discrimination", given how the information was used and the fact that Scotland Yard had not considered this risk.
+- Deputy Assistant Commissioner Duncan Ball of the Metropolitan Police said the force had accepted the watchdog's findings and was "working hard" to overhaul the database in line with the enforcement order.
+- "There is clear evidence that the gangs matrix can help to reduce offending and serious violence on the streets of London," he said.
+- "We have already started work to ensure that we improve our data handling and information sharing with partners, who are also involved in community safety work.
+- "As well as addressing the concerns within the ICO report, we are also taking forward additional work including the introduction of a public facing website to explain the legal framework for the gangs matrix and further information to improve public confidence and transparency."
+- Met 'use force more' against black people
+- Met gang database 'not fit for purpose'
+- Reality Check: How much violent crime is due to gangs?
+- London gang crime down as violence rises
+- London gangs 'driven by drugs profit'
+- Seizing trainers 'won't deter drug runners'
+- 'Exploding gas canisters' cause incinerator to breach emissions limit
+- 'Heavy smoke' warning after blaze breaks out in detached building
+- Just Stop Oil activists in court after protest at Gallagher Premiership final
+- Gregg Wallace quit BBC Two’s Inside the Factory after ‘offending female staff’
+- Red Arrows June 2023: Where to watch the aerobatic display team this month
+- Arrests made and knife recovered after crime crackdown in Harold Hill
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.huffingtonpost.co.uk/entry/met-urged-to-scrap-shady-gang-database_uk_5a141141e4b0c335e9973152
+- Assistant News Editor
+- Justice groups are calling for the Metropolitan Police to scrap its “shady” gang intelligence database as a major report is set to reveal that more than a third of the people on it have not committed any serious crimes.
+- While the London Mayor’s Office has begun a promised investigation into the ‘Gangs Matrix’ to be released this year, two reports, by Amnesty International and police monitoring group, StopWatch, are set to lay bare a host of claims that it is “infringing on peoples’ civil liberties”.
+- HuffPost UK understands that Amnesty has uncovered that 35% of the 3,600-odd people on the database have not committed “serious crimes”, 75% have been victims of crime themselves and 80% are aged 12 to 24.
+- The matrix, once described as an example of “institutional racism in action”, has been a point of contention for several years due to the disproportionate amount of black, Asian and minority ethnic (BAME) people to feature on it. Some 87% of people in 2016 were BAME, of which black men accounted for 78%.
+- Amnesty confirmed it is “looking at the nature of the profiling and the consequences thereafter (of being on the matrix),” but declined to comment on its finding, which a spokesperson said, were “delayed for now”.
+- Other concerns raised to HuffPost by criminal justice groups are that the matrix is being used to influence its subjects’ education, employment and housing opportunities and in “extreme cases”, to remove children from family homes.
+- Police have also used it to try and influence other agencies, like the DVLA, to say “this individual is not worthy to drive”, criminologist Patrick Williams, who is leading the StopWatch report, claims.
+- Williams - who in January last year published a report along with his university colleague, Becky Clarke called Dangerous associations: Joint enterprise, gangs and racism - is interviewing young people who have been, or are thought to have been on the matrix, and highlighted how little, even its subjects know about it.
+- As an example, he cited the case of one London youth who a community worker helped get off the matrix, only to find out a year later he was still on it.
+- Veteran racism campaigner Stafford Scott, the corner-man for the families fighting the Metropolitan Police over some of the UK’s most controversial cases, is blunt in his assessment of the impacts the matrix has on young men. When someone is added to it, “that kid is fucked, and when I say, ‘fucked’, I mean ... ‘they are fucked’.”
+- The Met declined to comment on the level of criminality of those on the database or respond to other criticisms levelled at it, but in a statement said the database - formed after the 2011 London riots - provides it with “an up-to-date picture of the different gangs operating in London, something that had never previously been available”.
+- The statement continued:
+- “The matrix measures gang membership and violence. There needs to be multiple intelligence indicating gang membership and the violence criteria is either based on intelligence or violence convictions.
+- “It can be used to identify those individuals who are more likely to commit offences, as well as those at risk of being affected as victims; providing the police and partners with an opportunity to offer support and take steps to prevent further offending or victimisation through an appropriate intervention, such as a diversion programme.”
+- For Scott, the Matrix is rotten to its core, having been borne out of a “false” narrative propagated by authorities after the riots - that gangs were to blame.
+- That same contested plot-line was present in the police shooting of Mark Duggan on 4 August 2011, an event that in part, sparked the riots which raged for four days, causing £200 million of property damage and leaving five dead.
+- In the aftermath of the riots, then Prime Minister David Cameron promised a “concerted, all out war on gangs and gang culture” and launched a task force, led by his successor, then Home Secretary, Theresa May.
+- However, just two months later Home Office and Ministry of Justice analysis concluded gangs did not play a pivotal role, making up just 13% of those arrested.
+- “They wanted to deny any social or economical reason or rational for those young peoples’ behaviour,” Scott recalls, before explaining how instead of the Gangs Matrix being shelved off the back of those findings, it was fast tracked, in part, he claims, by the Home Office “redefining” the number of people required to constitute a gang - three - which allowed authorities to “inflate the (gangs) risk”.
+- “That’s absolutely stupid... I mean come on man, three people make a gang,” Scott says of that decision.
+- “A gang is an organised structure where everybody has a role and a rank and everybody is working for the same ends. Three people? They did that so they could re-define the number of gangs there are across London.”
+- A further concern to Scott is who police classify as gang members. He claims the “bias” goes beyond ethnicity - police are picking “easy targets”.
+- Despite Green Lanes, the 6.3 mile strip between Newington Green and Wichmore Hill, in Harringay, being as well known for its Turkish and Kurdish residents, as its heroin supply, Scott says the gangs database for the area - which he has seen - records no Turkish gangs and lists only one Turkish boy out of 100 listed gangsters - the other 99 are black. The Tottenham Boys, the main gang in the area is absent from the list. In Scott’s home borough of Hackney, the Hackney Bombacliar are a notable exception from the data.
+- “When we put in a Freedom Of Information request to Scotland Yard asking about the make-up of the gangsters (on the matrix), the answer that we were given was that there were 3,800 gangsters in London, of which over 3,000 are black (the FOI shows 2817). When asked specifically.... if you see the letter, you’ll see, ‘north European, south European, Asian, Chinese’ and then they say ‘black’. Well black is a colour. Everyone else is defined by their geography and ethnicity, then it’s just black. When asked about Chinese gangsters the Met said there’s six of them in London. But there’s over 3,000 black gangsters in London.”
+- A review by MP David Lammy in September found BAME subjects on the gangs database faced longer sentences and being treated more harshly throughout the criminal justice system, something the Mayor of London’s office is investigating further, fulfilling a pledge Sadiq Khan made in his manifesto.
+- “The Lammy Review supported this commitment and asked us to examine the way information is gathered, verified, stored and shared, and to consider community perspectives, including any suggestion of disproportionality,” a spokesperson for the Mayor told HuffPost.
+- “Work on the review has started, and the findings will be discussed with the Met, with our recommendations published next year.”
+- The Centre for Crime and Justice Studies (CCJS) is among the groups critical of the matrix and earlier this month (December, 2017) met with health specialists to discuss the psychological impacts experienced by those on it, “quite a lot of” whom, it said, are “being surveilled having not broken the law in any serious way”, if at all.
+- The centre is calling for the database to be “abandoned” because it “carries with it too many infringements of civil liberties and too unjust long sentences”.
+- Those concerns are echoed by civil liberties and human rights group, Liberty, which describes the database as “shady” and claims the Met’s use of it is “dividing communities, damaging police-community relations and undermining people’s rights”.
+- Williams said while his StopWatch work is in its infancy, he believes the gangs intelligence system is a “spurious tool” which is “potentially” being used to infringe on peoples’ rights.
+- “There are individuals on the matrix that are unaware they are on the matrix so it becomes this really spurious tool, a really strange tool,” the Manchester Metropolitan University senior lecturer said, adding that once people get on the database “it is extremely difficult to get off” due to a “once a gang member, always a gang member” police mentality.
+- “Amnesty is really interested in this (the matrix), as is Liberty because they believe potentially what they (the Met) are doing is infringing peoples rights... and this may well contribute to a series of data harms,” he added.
+- As an example of the impacts of life in the police’s crosshairs, Scott recalls a shooting in north London’s, Wood Green, on 10 July 2015, that resulted in the death of Erdogan Guzel, a 42-year-old father-of-two, and the serious wounding of Sonya Gencheva, 51, when a gang sprayed a bakery with machine-gun fire. The pair were not the intended targets.
+- Scott’s story focuses on the man, who he did not name. The Met declined to comment on Scott’s version of events.
+- The police eventually find the target, and they say to him, ‘right, who was shooting after you?’.
+- And he says, ‘you know, I haven’t got a clue. I was out with my mum and my sister. I saw a car and because it had blackened out windows and it slowed down a little way ahead of me, I took notice. At the point that I saw the window wind down and the barrel of a machine gun out the window, I legged it... then I heard the bullets. I didn’t even look behind me because someone was trying to kill me’.
+- They (police) say to him, ‘you’re in a gang’, because one of their beliefs is that if a gang attacks you, you must also be in a gang. This is almost like a policy.
+- So they say to him, ‘you’re a member of the Wood Green Mob’. He says, ‘listen, I was born in Wood Green, I know everybody. But I went to prison and I come out. I don’t get involved in anything. But, yeah, I know everybody. I hang out with everybody, I don’t care what they do. It’s nothing to do with me’.
+- They (police) say, ‘for us to give you protection, you have to accept you’re a gang member’.
+- And he says to me, ‘you know what Staff... someone just tried to kill me, these guys won’t give me protection unless I play the game. So I start to play the game. I comply. I go to the places they tell me I need to go to’. Because they need to put them through some process.
+- So he says it comes to a point where they (police) again ask him again who shot him. And he says, ‘look I don’t know. The streets know. There’s names out on the street’. But they’re asking him to give them witness statement, quality evidence. And he says, ‘I don’t know’. And they (police) say, ‘you know what, fuck you... we’re cutting you loose’. And they cut him loose and he’s a guy that people want to seriously kill. They cut him loose. He says he goes to housing, says ‘I need a new house. I want to be re-housed please’. They (housing officials) say, ‘no, you’re a gang member. Your not complying. We will give you no service’.
+- A couple of weeks later, he gets chased. He’s driving a Smart car. The car behind him is much more powerful. He tries to get away. He crashes the car. Turns it over. He gets stabbed four times. A couple in the lungs. They were trying to kill him. He goes to hospital. The police turn up. They (police) say, ‘who did it?’. He says, ‘I don’t know, I crashed my car, my glasses came off in the car... they had on bandanas. I don’t know’.
+- Police say, ‘you’re not complying. We’re not going to give you no protection’, then they walk away and leave him.
+- Rachel Robinson, Advocacy Manager for Liberty, is pointed in her criticisms of the gangs matrix: “Far from reducing violent crime, this shady database is dividing communities, damaging police-community relations and undermining people’s rights.
+- “It disproportionately affects young black men and feeds a popular narrative of gang violence that is inaccurate and discriminatory,” she said.
+- Evidence presented to the London Assembly in July last year revealed that “gang activity is present in only a small proportion of serious youth violence”.
+- Williams: “Serious violence is not driven by the gang, these are driven by other factors, but the gang is used as a way of signifying, ‘well this is the cause’. The gang is often used as the driver of violence across London. But that is not borne out empirically, or by statistics.”
+- Liberty’s Robinson called for more transparency around the use of the matrix, saying that inclusion on the list can be “devastating” for young people.
+- “We don’t know how or why people end up on it, how or why they’re removed and what data sources the force uses to populate it. People have no way of challenging their inclusion – but being labelled a ‘gang member’ can have a devastating impact on their lives"”
+- She also called for the Met to “urgently” produce guidance setting out “clear, targeted criteria for including people on the matrix and robust safeguards against its disproportionate and discriminatory use”.
+- Will McMahon, deputy director of the CCJS, shared Robinson’s concerns with where police were “drawing” information from to populate the matrix and how they were then using it to set “people up to be prosecuted”.
+- “What it (the matrix) is doing, it is creating a pipeline for the BAME community into the criminal justice system on the basis that you’re on the database, so you must be trouble. And this is very concerning.”
+- McMahon likened the database to the now defunct “sus laws” which permitted police in the 1970s to stop, search and potentially arrest people on suspicion of them being in breach of section 4 of the Vagrancy Act 1824
+- “People are being surveilled having not broken the law in any serious way, perhaps not even at all,” he said, adding that the matrix’ focus on BAME individuals meant “there’s a whole community that is being treated as a suspect community”.
+- The effects of the matrix are most dramatically demonstrated in the court system where the “gang” connection is often used through Joint Enterprise - a law which allows the accomplice, or co-offenders to be treated the same as the person who committed the violent act - to secure multiple convictions.
+- Williams, in a speech last month to a group campaigning for Joint Enterprise laws to be reviewed, cited a recent case in Moss Side, Manchester, as an example. Ten young men, and a youth aged 14, were jailed for a combined 170 years over the murder of Abdul Wahab Hafidah in May 2016.
+- He told the Joint Enterprise Not Builty by Association (Jengba) event, held at the House of Commons, that many of the young men jailed over the death “were punished for their non-criminal associations - their childhood friendships, their family relations and connections”.
+- Williams: “They were punished for their non-criminal involvement, such as appearing in music videos, wearing similar clothes, for attending the same schools, colleges, for living on the same street. The travesty of Joint Enterprise in that non-criminal behaviours can become misused by the police and prosecution team - used to connote common purpose and subsequent intent.”
+- In February 2016, the Supreme Court ruled Joint Enterprise had been “misinterpreted” for three decades, having taken a “wrong turn” in the 1980s, and quashed the murder conviction of Ameen Jogee. Despite what campaigners had hoped for, the landmark decision did not “open the flood gates” for others convicted under the law. Jengba currently support over 800 prisoners, the youngest of which is 13. Almost 80% are from BAME communities.
+- In December, in response to the Lammy Review - which also found that people from BAME backgrounds make up 25% of the prison population and 41% of the youth justice system, but only 14% of the general population - the government pledged to collect wider datasets related to ethnicity for more accurate analysis and review use of ‘gang’ prosecutions for those who are victims and exploited by adults.
+- Williams said his “concern” in times of austerity and cutbacks in police funding was that “we talk up the risks posed by certain individuals because that becomes the best way you can attract funding and resources”.
+- Scott added: “This (targeting of BAME youth) is happening at a time when our young people are getting battered with the impact of austerity. Our young people have no where to go. They have nothing in their pockets. They’ve got nothing to do. They’re forced out on the streets.”
+- Scott says problems began with gang profiling when police community consultancy groups were scrapped by former Prime Minister Tony Blair in favour of safer neighbourhood partnerships which put the police “in the same room” as councils.
+- “So now the local authority is no longer the arbiter, the local authority becomes the pockets of the police. The police control those meetings because they’re about community safety, or safer neighbourhoods,” he explained.
+- “The police say to the council workers, ‘look at those kids on the estate’. The behaviours that in my day would have been described as been anti-social behaviour, is now described as gang-associated behaviour.
+- “So kids are being identified as gang members because of who they hang out with on the estates that they were born on to.””
+- Scott uses himself as an example of how police suspicion can have dire consequences for the person wrongly identified as being a gang member.
+- “The police man says to these (safer neighbourhoods) people, ‘Stafford is a gang member, he hangs out with other known gang members. I can’t give you any evidence of it, but take my word for it’.
+- “And of course they do because the police have told them what to look out for. ‘If you see Stafford standing on the corner smoking a spliff with another known gang member he must be in a gang’.
+- “So everyone now believes I am in a gang.
+- “I get no services, everywhere that I go. They keep telling me ‘I’m in a gang and that If I don’t get on these programmes to exit the gang they’re going to make my life difficult’ because the police has told them, ‘we can’t get no evidence on these guys... so we’ve got to do disruption tactics’.
+- “The minute they talk about disruption tactics, what they’re doing is unlawful. Because if those kids were doing anything unlawful they should arrest them. The evidence would be there.
+- “These kids aren’t particularly bright. The majority of them have been kicked out of school or have left school. This is an absolute joke. So all of these agencies... to get on the ‘Matrix’ only two of these agencies need to decide your a gang member. But they’re all in the same space anyway and they take what the police say for granted.”
+- Scott claims the “most significant agency”, apart from police, identifying gang members is the employment services, which riles him further.
+- “You can do as much research as you want to do but you will not find any module in the training programme for an employment service officer that gives them the skills to be able to identify a gang member.”
+- “The whole terrain is crazy,” Scott says of the world young men identified as being gang members find themselves in.
+- “And they (police) get away with it because every other agency, every other agency is part of these Safe Neighbourhood Boards and they all listen to the police, and they all do the polices’ bidding, and all of this happens without there been any evidence, because where there is evidence people get arrested and sent to prison.
+- “People have got to start taking notice of what is going on.”
+- When speaking to HuffPost, Williams was keen to reiterate that he wasn’t a “gang denier” and understood the need for police intelligence gathering, but argued that, “in an ideal world” a youth’s involvement in crime should lead to them been supported “towards a non-criminal lifestyle” rather than persecuted.
+- “So supporting college applications, supporting employment opportunities, ensuring these individuals have a stable environment in which to live. I’d almost argue that the (gang) label counters all of that. What we refer to as protection factors - family, education, schooling, stable employment etc, the gang label almost becomes a barrier over which these young people continue to fall. It becomes a barrier for them to participate as a citizen.”
+- Assistant News Editor
+- By entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and Privacy Policy.
+
+URL: https://www.theregister.com/2018/05/09/metropolitan_police_gang_database_racial_bias_says_amnesty_international/
+
+URL: https://www.theregister.com/2018/11/16/ico_gangs_matrix_decision/
+
+URL: https://www.theguardian.com/uk-news/2016/jul/19/metropolitan-police-may-be-overly-targeting-bame-youths-as-gang-members
+- London force could be mislabelling youths, leading to harsher treatment by criminal justice system, MP David Lammy finds in review for PM
+- The Metropolitan police may be overly targeting black and ethnic minority youths as gang members, resulting in them being treated more harshly by the courts, prisons and justice system, a review has found.
+- The concerns centre on figures showing nearly 90% of youths classed as gang members by Britain’s largest force are black or from other ethnic minority backgrounds (BAME) – which is considerably in excess of their proportion in the population.
+- The review is being led by the Labour MP David Lammy and was ordered by David Cameron when he was prime minister. The work continues despite the change in Downing Street.
+- Concerns centre around the Met’s database of gang suspects, called the gangs matrix. Figures for 2016 show that of the 3,626 people listed on that database, 78% were black and a further 9% were from other ethnic minority backgrounds. Ethnic minorities make up 40% of London’s population.
+- The figures cover people known to be in a gang, suspected of involvement, or at risk of joining a gang. Lammy said the effects are that someone can get a longer sentence and be treated more harshly throughout the criminal justice system.
+- In a speech, he said some cases may be mistaken, with youths wrongly labelled as gang members not knowing how to be cleared of the stigma.
+- Speaking in London last Friday, Lammy gave the first clues as to the direction in which his review is heading. He said: “We have, therefore, a journey through the system in which suspected gang membership can affect decisions at each turn, from charging, to conviction, to sentencing, to treatment in prison and rehabilitation in the community.
+- “And we have the gang matrix as the source of much of the information used by other actors in the justice system. Prisoners I have spoken to in both adult prisons and youth offending institutions have often been frank about their involvement in criminality.
+- “But the same people have often also been insistent that they were mislabelled as gang members by the police and then subsequently by the rest of the justice system.”
+- For the Met’s figures to be correct, there would have to be 360 white gang members across all of London’s 32 boroughs.
+- The issue was referenced by Theresa May when she took office last Wednesday. In her speech outside 10 Downing Street she highlighted racial discrimination in the justice system and said: “If you’re black, you’re treated more harshly by the criminal justice system than if you’re white.”
+- Lammy gave the example of a parent who adopted one black and one white child. Both got into trouble and enmeshed into the criminal justice system. “But it was the black child who had wrongly been tagged with the label of ‘gang member’ and the label had stuck,” the MP said. “The parent and his adopted son had no idea how to remove the label – and his name from the gangs matrix.”
+- Lammy added: “One member of a youth offending team told me that her team would routinely make decisions based on the information they were given about gang membership.
+- “Decisions, she said, were being made without challenging where the information came from, or whether it was reliable and up to date.”
+- The full report is expected to be given to May early next year. Lammy’s inquiry is being staffed and supported by civil servants in a sign of how seriously the government is taking it.
+- Lammy said gang members carry out half of all shootings in the capital and he said many victims came from ethnic minority backgrounds. But the MP added: “But the concern I have heard – repeatedly I must say – is that young people from ethnic minority backgrounds are also being tagged with the ‘gang’ label in ways they do not feel is justified; and that this tag can have real consequences for the way the criminal justice system deals with those individuals.”
+- Lammy is the MP for Tottenham and Wood Green – the seat of riots in 2011 that spread to become the worst in modern English history. Cameron’s claims that gangs were behind the disturbances was overplayed, with strained relations with police and other social factors playing a part.
+- Lammy said: “When four in five people on the gangs matrix are black – and that database currently informs decisions throughout the criminal justice system – it is something that someone in my position has a duty to scrutinise closely.”
+
+URL: https://www.bbc.co.uk/news/uk-england-london-63457234
+- Hundreds of people have been removed from a gang database created after the 2011 London riots.
+- About 1,200 people have been taken off the Met's Gang Violence Matrix following a review.
+- The database is used by the Met to identify those at risk of committing, or being a victim of, gang-related violence in London.
+- There are now 1,933 people on the matrix, the lowest number since the database was set up in 2012.
+- This represents a decrease of just over 50% from August 2017, when the number of individuals on the matrix peaked at 3,881.
+- The number of black and other minority ethnic communities being added to the database since May 2018 have also decreased, going down from 89% in 2019 to 77% in 2021.
+- Met Commissioner Sir Mark Rowley said he was committed to a complete redesign of the database as part of plans to rebuild public trust in the force.
+- "We know that young men and, in particular, young black men continue to be over represented on the matrix," he said.
+- "Sadly, there is a reality that levels of violent crime do disproportionally affect young black men - both in terms of victimisation and offending and our tactics do need to be targeted so we can protect those most at risk.
+- "However, it is not appropriate that the matrix further amplifies this disproportionality."
+- The review was ordered by London Mayor Sadiq Khan who first ordered scrutiny into the database in 2017, following concerns in the The Lammy Review, which found communities had deep reservations about how the matrix operates, including concerns that young Londoners listed could face sanctions relating to housing and other public services.
+- Following that review, a Disproportionality Board was established by the mayor as part of his action plan, started in November 2020, to look at a wide-range of policing issues, including the matrix and ongoing work to improve trust and confidence in the Met.
+- "The fact black Londoners have less trust in the Met should concern us all," said Mr Khan.
+- "That is why the comprehensive overhaul of the Gang Violence Matrix is so important - increased scrutiny and transparency will help increase the degree of confidence all of London's diverse communities can have in the Met."
+- Follow BBC London on Facebook, Twitter and Instagram. Send your story ideas to hellobbclondon@bbc.co.uk
+- Police gangs matrix at lowest level in seven years
+- Police remove 374 names from gangs matrix
+- Police gangs matrix 'requires overhaul'
+- 'Aged 12 and in a gang'
+- Met gang database 'not fit for purpose'
+- 'Heavy smoke' warning after blaze breaks out in detached building
+- Just Stop Oil activists in court after protest at Gallagher Premiership final
+- Gregg Wallace quit BBC Two’s Inside the Factory after ‘offending female staff’
+- Red Arrows June 2023: Where to watch the aerobatic display team this month
+- Arrests made and knife recovered after crime crackdown in Harold Hill
+- Police 'clear' main road after Just Stop Oil 'slow marching' protest
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.theguardian.com/uk-news/2022/oct/31/met-police-chief-to-reform-list-of-alleged-gang-members-targeting-black-men
+- Exclusive: Sir Mark Rowley has already removed more than 1,000 young men from the force’s gang violence matrix
+- A controversial Metropolitan police list of alleged gang members that mainly targeted black men “amplified disproportionality” and must be radically reformed, Britain’s top police officer has said.
+- The gang violence matrix was branded part of a “racialised war” on gangs by Amnesty International and was found potentially to be breaching data laws by the information commissioner.
+- It ranked people by the threat they posed, and the matrix faced claims that hundreds of youngsters in London were placed on it who should not have been.
+- Now more than 1,000 young men who were on the list even though they were classed as posing little or no risk of violence have been removed.
+- Those on it could be subject to “Al Capone-style” disruption tactics, such as losing housing, or driving licences, as part of “lawful harassment”.
+- Met commissioner Sir Mark Rowley vowed to implement reforms, after Sadiq Khan had pressed the force for change.
+- A report for the mayor of London, to be released on Monday, found: “There remains an over-representation of young Black males on the overall GVM [gang violence matrix] population as compared to both police recorded offending and victimisation cohorts.”
+- The matrix now has 1,933 individuals, a fall of 49% from its peak in 2017, when 3,881 people were on it.
+- Rowley said: “We acknowledge that the gangs violence matrix does need to be redesigned, taking into account improvements in statistical methods and technologies.
+- “We know that young men, and in particular young black men, continue to be over-represented on the matrix.
+- “Sadly, there is a reality that levels of violent crime do disproportionally affect young black men – both in terms of victimisation and offending – and our tactics do need to be targeted so we can protect those most at risk.
+- “However, it is not appropriate that the matrix further amplifies this disproportionality. As an immediate response, we are removing all the lowest-risk individuals. This represents 65% , or more than 1,100 people.”
+- In 2018, the Information Commissioner’s Office found the gangs matrix was potentially breaking data protection laws and failed to distinguish between victims of crime and offenders. In an embarrassing move for the Met, the ICO issued Britain’s biggest force with formal enforcement notices to improve.
+- The same year the Guardian revealed that more than 40% of young people on a matrix list from Haringey, north London, were scored as posing “zero” risk of causing harm. Some were assessed as being much more likely to be victims than offenders.
+- Khan said: “The fact black Londoners have less trust in the Met should concern us all. That is why the comprehensive overhaul of the gang violence matrix is so important – increased scrutiny and transparency will help increase the degree of confidence all of London’s diverse communities can have in the Met.
+- “As a direct result of the police acting on the recommendations, the Matrix database is now more effective and more evidence-based than ever before.”
+- Sign up to First Edition
+- Archie Bland and Nimo Omer take you through the top stories and what they mean, free every weekday morning
+- after newsletter promotion
+- The average age of those on the matrix is 23 and most are male. The proportion who are black or ethnic minority has fallen from 89% in 2019 to 77% in 2021.
+- Critics say more still is needed.
+- Veteran campaigner Stafford Scott said those being removed should be told, and he condemned the unfairness of how widely the matrix had encroached on young people’s lives when they posed little or no risk of violence.
+- He said: “These young people have been the recipient of the Met’s ‘achilles heel’ policing policy that requires all government agencies to penalise those targeted.
+- “This means that their human rights have been breached by multiple organisations. These young people will feel that these services are still unavailable to them. Unless they are informed and enabled to seek redress. They continue to live chaotic lives on the margins of society doing whatever they feel is necessary to survive.”
+- Oliver Feeley-Sprague of Amnesty International said reforms were needed to clean up the Met: “We sounded the alarm over the Met police’s racist gangs matrix years ago, so this review is welcome but long overdue.
+- “Stigmatising young black men on the basis of the music they listen to, their social media behaviour or who they are associated with is completely unacceptable, damaging numerous people’s lives and further damaging trust in the institution of policing itself.”
+- Liberty is bringing a legal action, which reaches court next month. Emmanuelle Andrews from the civil rights group said: “Being on the matrix can have a devastating consequence on your life, from increased stop and searches to having private data shared with schools and housing providers that affects your education and accommodation statuses.
+- “It is right the Met police have today removed more people from the gangs matrix, but this still does not go far enough. ”
+- The matrix was devised after the 2011 riots when the Conservative government were convinced gangs were to blame for the worst mass violence to hit England in modern times. Report after report found poor social conditions and poor relations with police were more of a factor.
+
+- UK Met Police retrospective facial recognition
+- NYPD Domain Awareness System
+- Page infoType: SystemPublished: February 2022Last updated: February 2023

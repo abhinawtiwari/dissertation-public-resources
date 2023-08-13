@@ -1,0 +1,707 @@
+- Uber self-driving car pedestrian fatality
+- Occurred: March 2018
+- Can you improve this page?Share your insights with us
+- WIRED has published an interview with Rafaela Vasquez, the test driver for an Uber autonomous car that crashed into a woman walking her bicycle across a road in Tempe, Arizona, on March 18, 2018.
+- Operating in self-drive mode with Vasquez in the driving seat, the Uber fatally struck Elaine Herzberg. The incident is the first known case of a fatality involving a self-driving car.
+- While Uber escaped (pdf) prosecution, Vasquez was indicted by prosecutors in Arizona in August 2020 on a count of negligent homicide on the basis that she was checking Slack messages from Uber on her work mobile phone and watching a reality show on her personal phone.
+- Uber suspended its self-driving test programme following the incident, later restarting it in Pittsburgh.
+- Operator: Uber Developer: Uber Country: USASector: Automotive Purpose: Automate steering, acceleration, braking Technology: Self-driving system Issue: Safety; Accuracy/reliability; Liability Transparency: Black box
+- Uber Wikipedia profile
+- Wikipedia. Death of Elaine Herzberg
+- County of Maricopa. Vasquez v GJ indictment
+URL: https://www.theverge.com/2019/3/5/18252423/uber-wont-be-charged-with-fatal-self-driving-crash-says-prosecutor
+- By  Sean Hollister, a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo, and Engadget.
+- If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.
+- Who is criminally liable when a self-driving car fatally strikes a pedestrian? Not the company that built and tested the car — at least not when it comes to Uber’s fatal crash in Tempe, Arizona last March, which killed 49-year-old Elaine Herzberg.
+- Uber won’t be charged with a crime, according to a letter, first reported on by Quartz, from Yavapai County Attorney Sheila Polk, the prosecutor who was temporarily in charge of the case. “After a very thorough review of all the evidence presented, this Office has determined that there is no basis for criminal liability for the Uber corporation arising from this matter,” reads the document.
+- Originally, the case was being prosecuted by Arizona’s Maricopa County, but that department was forced to temporarily hand it off to Yavapai County due to a potential conflict of interest. (Apparently, Uber helped sponsor the county’s don’t-drink-and-drive campaign.) But now that local prosecutors have determined that Uber isn’t at fault, the case is being handed back to Maricopa County. That’s the main purpose of the letter.
+- The county will now determine whether Uber’s backup safety driver was at fault
+- Now, it’ll be up to Maricopa to determine whether Uber’s backup safety driver, Rafaela Vasquez, should be charged with a crime instead. According to Tempe police, she was watching The Voice on Hulu during most of her entire shift, right up until the time of the accident.
+- But Yavapai County suggests they’ll need more evidence before charging her with a crime, either — specifically pointing out that the widely shared video of the fatal crash “likely does not accurately depict the events that occurred.” They’re suggesting police find an expert to point out what an actual person would have been likely to see from the driver’s seat, as opposed to the car’s cameras and sensors.
+- According to Reuters, the NTSB and NHTSA are still investigating the case. They might still decide that Uber is at fault. A preliminary NTSB report in May did mention that Uber had disabled one of the car’s emergency braking features, but also that the self-driving system seemed to be operating normally. That report didn’t assign any blame.
+- Uber halted its self-driving tests entirely after the fatal incident, but they started up again in Pittsburgh, in an extremely limited way, this past December. The company also reached an undisclosed settlement with Herzberg’s family back in March, but the family is also suing the city of Tempe for $10 million, claiming that a brick pathway encouraged her to cross the road at the site of the crash, even though it wasn’t properly designed or marked as a crosswalk.
+- Uber Crash Yavapai Ruling 03052019 by TheVerge104 on Scribd
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://arstechnica.com/cars/2020/09/arizona-prosecutes-uber-safety-driver-but-not-uber-for-fatal-2018-crash/
+- Front page layout
+- Site theme
+- Timothy B. Lee
+    -  Sep 16, 2020 2:04 am UTC
+- An Arizona grand jury has indicted Rafaela Vasquez, a former safety driver in Uber's self-driving car project, for the 2018 death of pedestrian Elaine Herzberg in Tempe, Arizona. Prosecutors decided not to charge Uber criminally last year.
+- The crash occurred after dark on a well-lit stretch of Mill Avenue. Herzberg was crossing the multilane road with her bicycle when the Uber SUV struck her at 38 miles per hour. Footage from a driver-facing camera shows Vasquez looking down at her lap for more than five seconds just prior to the crash. Officials found that Vasquez had been streaming a reality show called The Voice to her phone just before the crash.
+- Vasquez is being charged with negligent homicide, a charge similar to manslaughter that carries a recommended sentence of 2.5 years. However, the grand jury also charged that the crime was committed with a "dangerous instrument"—namely the car. When negligent homicide is committed with a dangerous weapon or instrument, the recommended sentence increases to six years.
+- "Distracted driving is an issue of great importance in our community," a Maricopa County attorney said in a press release. "When a driver gets behind the wheel of a car, they have a responsibility to control and operate that vehicle safely and in a law-abiding manner."
+- The grand jury formally approved the charges in August, and Vasquez was arraigned on Tuesday. She was freed pending trial and must wear an ankle monitoring device.
+- Senior Uber managers were warned about problems with the self-driving technology in the months before the Herzberg crash. Indeed, one departing Uber engineer, Robbie Miller, sent a scathing email to the head of the self-driving program days before Herzberg's death.
+- "A car was damaged nearly every other day in February," Miller wrote. "We shouldn't be hitting things every 15,000 miles."
+- Miller pointed to an incident the previous week (nine days before Herzberg's death) when an Uber test vehicle "drove on the sidewalk for several meters."
+- "At Waymo I would not have been surprised if the entire fleet was immediately grounded for weeks or longer if a vehicle exhibited the same behavior," Miller wrote. Instead, he reported, the incident "was essentially ignored" until Miller brought it to the attention of management.
+- But Uber escaped criminal liability for the crash.
+- "After a very thorough review of all evidence presented, this office has determined that there is no basis for criminal liability for the Uber corporation," a prosecutor wrote.
+- Uber struck a quick settlement with Herzberg's heirs. But the crash shattered Uber's fledgling self-driving technology program. Uber shut the program down for months and permanently ended testing in Arizona. Nine months after the crash, Uber finally resumed testing on a much smaller scale in Pittsburgh.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.bbc.com/news/world-us-canada-43497364
+- This video can not be played
+- Uber dashcam footage shows moment before fatal impact
+- Police have released two videos showing the moments leading up to a fatal crash involving a self-driving Uber car in Tempe, Arizona, on Sunday.
+- In the 14-second video, the autonomous vehicle is seen failing to slow down before hitting Elaine Herzberg, 49, who is walking her bike across the road.
+- One video shows dashcam footage of the impact. The other, an Uber operator monitoring the car's controls.
+- Uber has suspended self-driving tests in North America following the crash.
+- In footage released on Wednesday by the Tempe police department, the human Uber operator sitting inside the Volvo appears to be looking down at something while the vehicle is travelling in autonomous mode.
+- Moments later, the woman appears visibly shocked as she looks up to see Ms Herzberg crossing the highway in their path seconds before impact.
+- "The video is disturbing and heartbreaking to watch, and our thoughts continue to be with Elaine's loved ones," Uber said in a statement.
+- "Our cars remain grounded, and we're assisting local, state and federal authorities in any way we can," the statement added.
+- Police said the accident happened on Sunday night, adding that Ms Herzberg had not been using a pedestrian crossing.
+- Ms Herzberg was taken to a local hospital following the collision but died of her injuries.
+- The US National Highway Traffic Safety Administration and the National Transportation Safety Board earlier said they would be investigating the incident in Tempe.
+- While self-driving cars have been involved in multiple accidents, it is thought to be the first time an autonomous car has been involved in a fatal collision with a pedestrian.
+- Uber halts self-driving tests after death
+- Toyota suspends US driverless car tests
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.bbc.co.uk/news/technology-54175359
+- The back-up driver of an Uber self-driving car that killed a pedestrian has been charged with negligent homicide.
+- Elaine Herzberg, aged 49, was hit by the car as she wheeled a bicycle across the road in Tempe, Arizona, in 2018.
+- Investigators said the car's safety driver, Rafael Vasquez, had been streaming an episode of the television show The Voice at the time.
+- Ms Vasquez pleaded not guilty, and was released to await trial.
+- Uber will not face criminal charges, after a decision last year that there was "no basis for criminal liability" for the corporation.
+- The accident was the first death on record involving a self-driving car, and resulted in Uber ending its testing of the technology in Arizona.
+- Lengthy investigations by police and the US National Transportation Safety Board (NTSB) found that human error was mostly to blame for the crash.
+- Ms Vasquez was in the driver's seat, and had the ability to take over control of the vehicle in an emergency.
+- Dash-cam footage released by police showed Ms Vasquez looking down, away from the road, for several seconds immediately before the crash, while the car was travelling at 39mph (63km/h).
+- Police say that although her first name was listed on her driver's licence as Rafael, Ms Vasquez identifies as a woman and goes by Rafaela.
+- This video can not be played
+- Uber dash-cam footage shows moment before fatal impact
+- Records from the streaming service Hulu also seemed to show that her device had been streaming a television show at the time.
+- A police report from June 2018 labelled the fatal collision as "entirely avoidable" if the driver had been watching the road.
+- The NTSB, meanwhile, identified the probable cause of the accident as failure of the operator to monitor their surroundings, and the automated system, "because she was visually distracted throughout the trip by her personal cell phone".
+- NTSB vice chairman Bruce Landsberg wrote in the report: "On this trip, the safety driver spent 34% of the time looking at her cell phone while streaming a TV show."
+- Ms Vasquez was charged on 27 August, and made her first appearance in court on 15 September. The trial is now set for February next year.
+- In May 2018, when Elaine Herzberg was killed, confidence in autonomous vehicle technology was at an all-time high.
+- Everyone from Elon Musk to the British Chancellor Philip Hammond was telling us that robo-taxis and other autonomous vehicles would be on the roads within a couple of years, cutting congestion and delivering a big boost to road safety.
+- But the accident in Arizona punctured that confidence.
+- It showed that however smart the machine learning in the autonomous systems, mixing robots with humans as cars made the journey towards full autonomy was going to prove a real challenge.
+- Not only did Uber have to halt its testing programme for a while, but rivals such as Google's Waymo became notably more cautious in their trials. Only today it is being reported that the Chinese tech giant Baidu is pushing back the full rollout of its robo-taxis until 2025, partly because of confusion about regulations.
+- As long as "self-driving" cars still need a human safety driver behind the wheel, there will be confusion about whose fault it is when something goes wrong - but going fully autonomous is such a huge leap that even the boldest tech firm is likely to be very cautious about going first.
+- Despite the decision not to levy criminal charges against Uber itself, the company did not escape criticism.
+- The NTSB report said that Uber's "inadequate safety risk assessment procedures" and "ineffective oversight of vehicle operators" were contributing factors. It accused the company of having an "inadequate safety culture".
+- The vehicle's automatic systems failed to identify Ms Herzberg and her bicycle as an imminent collision danger in the way they were supposed to, the NTSB found.
+- Days before the crash, an employee had warned his superiors that the vehicles were unsafe, were routinely in accidents, and raised concerns about the training of operators.
+- Following the crash, authorities in Arizona suspended Uber's ability to test self-driving cars on the state's public roads, and Uber ended its tests in the state. It received permission to carry out tests in the state of California earlier this year.
+- Self-driving Uber in fatal crash had 'safety flaws'
+- Uber self-drive crash 'mostly due to human error'
+- Uber 'not criminally liable' for car death
+- Footage shows moment of fatal Uber crash. Video, 00:00:29Footage shows moment of fatal Uber crash
+- Uber crash driver was 'watching TV'
+- Uber warned about self-drive car crashes
+- Uber issued permit to test self-driving cars again
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.theguardian.com/technology/2018/mar/22/self-driving-car-uber-death-woman-failure-fatal-crash-arizona
+- Concerns raised about future testing as footage suggests fatal collision in Arizona was failing of system’s most basic functions
+- Video of the first self-driving car crash that killed a pedestrian suggests a “catastrophic failure” by Uber’s technology, according to experts in the field, who said the footage showed the autonomous system erring on one of its most basic functions.
+- Days after a self-driving Uber SUV struck a 49-year-old pedestrian while she was crossing the street with her bicycle in Tempe, Arizona, footage released by police revealed that the vehicle was moving in autonomous mode and did not appear to slow down or detect the woman even though she was visible in front of the car prior to the collision. Multiple experts have raised questions about Uber’s Lidar technology, which is the system of lasers that the autonomous cars uses to “see” the world around them.
+- “This is exactly the type of situation that Lidar and radar are supposed to pick up,” said David King, an Arizona State University professor and transportation planning expert. “This is a catastrophic failure that happened with Uber’s technology.”
+- The videos of the car hitting Elaine Herzberg also demonstrated that the “safety driver” inside the car did not seem to be monitoring the road, raising concerns about the testing systems Uber and other self-driving car companies have deployed in cities across the US.
+- “This safety driver was not doing any safety monitoring,” said Missy Cummings, a Duke University engineering professor who has testified about the dangers of self-driving technology. Research has shown that humans monitoring an automated system are likely to become bored and disengaged, she said, which makes this current phase of semi-autonomous testing particularly dangerous.
+- “The problem of complacent safety drivers is going to be a problem for every company.”
+- The footage “strongly suggests a failure by Uber’s automated driving system and a lack of due care by Uber’s driver”, Bryant Walker Smith, a University of South Carolina law school professor and autonomous vehicle expert, said in an email. He noted that the victim is visible about two seconds before the collision, saying: “This is similar to the average reaction time for a driver. That means an alert driver may have at least attempted to swerve or brake.”
+- The car was traveling at 38 miles per hour at 10pm on Sunday, according to the Tempe police chief, Sylvia Moir, who told a reporter that she thought the video showed Uber was not at fault. Experts who reviewed the footage, however, said the opposite appeared to be true.
+- “I really don’t understand why Lidar didn’t pick this up,” said Ryan Calo, a University of Washington law professor and self-driving expert. “This video does not absolve Uber.”
+- Even though the video appeared dark, King said there was likely more visibility than the footage suggested and noted that the darkness should not affect the car’s detection abilities.
+- “Shadows don’t matter to Lidar,” added Cummings. “There is no question it should have been able to see her.”
+- Police have emphasized that the victim was not in a crosswalk at the time of the crash, but experts said the technology still should have stopped the vehicle, a Volvo, and King noted that the exact section where Herzberg entered the street is a common area for pedestrians to cross near a local park.
+- John Simpson, the privacy and technology project director with Consumer Watchdog, said the video revealed a “complete failure” of Uber’s technology and its safety protocols, and said all testing programs on public roads should be suspended while the case is under investigation.
+- “Uber appears to be a company that has been rushing and taking shortcuts to get these things on the road,” said Simpson, noting that Arizona leaders lured the corporation to its state with promises of fewer regulations, after Uber fought with California over its vehicles running red lights. “It’s inexcusable.”
+- Uber, which temporarily suspended testing, declined to comment on the causes of the crash. A spokesperson said in a statement that the video was “disturbing and heartbreaking”, adding: “Our cars remain grounded, and we’re assisting local, state and federal authorities in any way we can.”
+
+URL: https://www.reuters.com/article/us-uber-crash/in-review-of-fatal-arizona-crash-u-s-agency-says-uber-software-had-flaws-idUSKBN1XF2HA
+- Discover Thomson Reuters
+- By David Shepardson
+- 4 Min Read
+- WASHINGTON (Reuters) - An Uber self-driving test vehicle that struck and killed an Arizona woman in 2018 had software flaws, the National Transportation Safety Board said Tuesday as it disclosed the company’s autonomous test vehicles were involved in 37 crashes over the prior 18 months.
+- NTSB may use the findings from the first fatal self-driving car accident to make recommendations that could impact how the entire industry addresses self-driving software issues or to regulators about how to oversee the industry.
+- The board will meet Nov. 19 to determine the probable cause of the March 2018 accident in Tempe, Arizona that killed 49-year-old Elaine Herzberg as she was walking a bicycle across a street at night.
+- In a report released ahead of the meeting, the NTSB said the Uber Technologies Inc vehicle had failed to properly identify her as a pedestrian crossing a street.
+- That accident prompted significant safety concerns about the nascent self-driving car industry, which is working to get vehicles into commercial use.
+- In the aftermath of the crash, Uber suspended all testing and did not resume until December in Pennsylvania with revised software and significant new restrictions and safeguards,
+- A spokeswoman for Uber’s self-driving car effort, Sarah Abboud, said the company regretted the crash that killed Herzberg and noted it has “adopted critical program improvements to further prioritize safety. We deeply value the thoroughness of the NTSB’s investigation into the crash and look forward to reviewing their recommendations.”
+- The NTSB reported at least two prior crashes in which Uber test vehicles may not have identified roadway hazards. The NTSB said between September 2016 and March 2018, there were 37 crashes of Uber vehicles in autonomous mode, including 33 that involved another vehicle striking test vehicles.
+- In one incident, the test vehicle struck a bent bicycle lane post that partially occupied the test vehicle’s lane of travel. In another incident, the operator took control to avoid a rapidly approaching vehicle that entered its lane of travel. The vehicle operator steered away and struck a parked car.
+- NTSB said Uber conducted simulation of sensor data from the Arizona crash with the revised software and told the agency the new software would have been able to detect the pedestrian 88 meters (289 feet) or 4.5 seconds before impact. The car’s system would have started to brake 4 seconds before impact.
+- In the actual accident, the test vehicle did not correctly identify the bicycle as an imminent collision until 1.2 seconds before impact. It was too late for the Uber car to avoid the crash.
+- “The system design did not include a consideration for jaywalking pedestrians,” NTSB said.
+- The Uber car also initiated a one-second delay of planned braking while the vehicle calculated an alternative path or the safety driver could take over. Uber has since discontinued that function as part of its software update.
+- NTSB during its investigation it “communicated several safety-relevant issue areas (to Uber) that were uncovered during the course of the investigation.”
+- In March, prosecutors in Arizona said Uber was not criminally liable in the self-driving crash. Police have investigated whether the safety driver who was behind the wheel and supposed to respond in the event of an emergency should face criminal charges.
+- Police have said the crash was “entirely avoidable” and that the backup driver was watching “The Voice” TV program at the time of the crash.
+- Reporting by David Shepardson; Additional reporting by Paul Lienert Editing by Cynthia Osterman
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://qz.com/1566048/uber-not-criminally-liable-in-tempe-self-driving-car-death/
+- Uber has been found not criminally liable in a fatal crash last year involving one of its self-driving cars in Tempe, Arizona.
+- Yavapai county attorney Sheila Sullivan Polk said in a letter (pdf) dated March 4 that her office found “no basis for criminal liability for the Uber corporation” in the death of Elaine Herzberg, 49, the first known pedestrian to die in an incident involving a driverless car. Maricopa county, which includes Tempe, had referred the case to another county last year because of a conflict.
+- Polk said her office concluded that the “collision video, as it displays, likely does not accurately depict the events that occurred.” She didn’t elaborate further on possible discrepancies, but recommended Tempe police get an expert analysis of what the vehicle’s driver should have seen at the time of the accident, given vehicle speed, lighting conditions, and other factors.
+- Uber declined to comment.
+- The March 2018 crash cast a pall over Uber’s driverless program, which had only just emerged from a bitter lawsuit with Alphabet subsidiary Waymo over alleged theft of trade secrets. Uber’s Volvo was operating in autonomous mode when it struck Herzberg as she crossed a road outside of a crosswalk at night. Immediately after the incident, Uber grounded all its self-driving car tests on public roads—in Tempe, Pittsburgh, the San Francisco Bay Area, and Toronto—and didn’t resume them until late December.
+- Uber settled with Herzberg’s family on undisclosed terms a few weeks after the crash.
+- Details released in a Tempe police report in June suggested the driver may have been at fault. Video footage showed Rafaela Vasquez, the vehicle’s assigned safety monitor that night, repeatedly glancing down and away from the road. Additional information obtained by police suggested Vasquez was watching an episode of NBC talent show The Voice at the time of the collision. Vasquez could face charges of vehicular manslaughter.
+- The incident and subsequent police investigation led Uber to overhaul its safety protocols for driverless cars, including the safety monitor role. In July, Uber laid off about 100 autonomous vehicle operators in Pittsburgh and San Francisco. The company said it had eliminated the position and replaced it with a “mission specialist” role that required more advanced training.
+- Herzberg’s daughter and husband sued the city of Tempe for $10 million last month, alleging the city created a dangerous situation by laying a brick pathway across a median where people were not supposed to cross the road.
+- Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+- 
+
+URL: https://eu.azcentral.com/story/news/local/tempe/2019/03/17/one-year-after-self-driving-uber-rafaela-vasquez-behind-wheel-crash-death-elaine-herzberg-tempe/1296676002/
+- The Volvo SUV was headed north, just past the iconic bridge over Tempe Town Lake. Rafaela Vasquez was behind the wheel. It was the same route the vehicle had taken all night.
+- Then, a woman stepped out of the darkness and into the road.
+- The SUV hit 49-year-old Elaine Herzberg so hard it knocked her out of one of her shoes.
+- Other cars screeched to a halt. Police arrived.
+- Even before the on-scene interviews were finished, it was clear this would be far from an ordinary investigation of a fatal traffic accident.
+- Vasquez was at the wheel. But the vehicle had been driving itself.
+- The Volvo was owned by Uber, the technology company that was in a race to perfect autonomous driving. Self-driving cars, Uber believed, were the key to its survival. Other companies were already in testing, too.
+- The fallout from the Tempe crash — the first-ever pedestrian fatality involving a self-driving car — would promptly drive Uber’s autonomous program out of Arizona.
+- It would raise questions for the Tempe police, two county attorneys and the Governor’s Office.
+- And it would become, at least for a time, the pinnacle example of a bigger idea: Self-driving cars, tested on city streets among the unwitting public, might simply be too dangerous to allow.
+- It was an idea that already made some people angry enough to harass other autonomous vehicles in metro Phoenix.
+- Now, one year after the fatal accident, self-driving cars run by other companies continue to roll down some of the same roads where Uber had tested a year earlier. And the crash that had rocked the world has turned into a collection of questions.
+- Who — or what — was responsible for the death of Elaine Herzberg? If a self-driving car didn't — or couldn't — stop itself, was it really self driving at all?
+- And did the fatal crash really change the course of the technology, the industry? Or was it but a passing moment in a long journey toward a world where vehicles drive themselves?
+- Arizona’s embrace of Uber as a technology company began long before the day a flatbed truck hauling self-driving Volvos pulled up in front of the state Capitol.
+- The company, which made its name as a ride-share service of regular cars driven by humans, launched in Arizona in 2012. As in many locales, it ran headlong into questions about competition with traditional taxi services and about state regulation. Even as the sharing service grew, it could technically have been considered illegal.
+- By 2014, the Arizona Department of Weights and Measures was issuing $1,800 fines to Uber drivers — when it could find and catch them — for operating in violation of the state laws that required anyone transporting passengers to carry a license, commercial plates and minimum insurance. The state Legislature passed a bill that would have legalized the services, but Gov. Jan Brewer vetoed it because it had insufficient insurance requirements.
+- Then, Doug Ducey won the gubernatorial election. As one of his first acts after he was sworn into office in January 2015, Ducey fired the Weights and Measures director.
+- The governor's chosen replacement, Andy Tobin, announced he would stop targeting ride-share services just days before Super Bowl XLIX was played in Glendale.
+- Ducey made no secret that he supported attracting Uber and other technology companies to Arizona, in part by keeping regulation to a minimum.
+- "Companies like Uber and Lyft are innovative, entrepreneurial technologies, and I want to see those companies thrive," Ducey said at the time. "They also create jobs. That's something we want to see more of, not less."
+- The Legislature then passed a bill that legalized ride services, and Ducey signed it in April 2015. It requires $250,000 of liability insurance while a passenger is in the vehicle, criminal background checks on drivers and vehicle inspections. It also set a zero-tolerance policy for drug and alcohol use by drivers.
+- In June 2015, Ducey called Uber "one of the most dynamic companies in the nation" while praising its new operations center in downtown Phoenix.
+- Then in August, Ducey took the next step. He issued an executive order that permitted self-driving vehicle tests on public roads in Arizona. A working group he convened was focused on preventing regulation that would inhibit that industry.
+- The Google Self Driving Car Project, now called Waymo, was first to bite on the executive order. In April 2016 the company announced its test fleet rolling on public streets in Chandler.
+- In August of that year, Uber secretly notified Ducey’s office the company would be testing self-driving cars in Arizona. The public was not informed. The tests only came to light through public records requests long after the fact.
+- By that time, the company was already in turmoil.
+- Uber had been sued by Google over claims it had poached self-driving vehicle technology (and later paid $250 million to settle) and facing a public backlash that prompted many customers to delete the app from their phones.
+- A self-driving Uber vehicle was caught on video running a red light in San Francisco.  Anonymous sources later told the New York Times that those cars were running on faulty maps.
+- Then the company got in a dispute with the state of California, with regulators there demanding special registration of the self-driving vehicles.
+- Uber saw self-driving cars as its future. Google, with its own self-driving fleet, was charging hard at the same business, and other companies were nipping at versions of the same technology. For Uber, the race for autonomy was a race for survival.
+- "It starts with understanding that the world is going to go self-driving and autonomous," Uber's then-CEO Travis Kalanick told Business Insider in an August 2016 interview. "So if that's happening, what would happen if we weren't a part of that future? If we weren't part of the autonomy thing? Then the future passes us by basically.”
+- So amid the debate with California regulators, Uber packed up about nine vehicles and sent them to Arizona.
+- Ducey was ready to welcome them.
+- Three Volvos strapped to a flatbed served as the backdrop for a hasty press conference. The truck did a slow roll down 17th Avenue in Phoenix. Then the governor spoke into the microphones, in front of the Capitol’s flagpoles.
+- “We lose tens of thousands of Americans every year in avoidable accidents caused by human error,” Ducey said as the cameras pressed close. “It’s Uber’s vision that we will avoid these accidents with human error, and actually have increased highway safety.”
+- 
+- As Vasquez’s Volvo came to a stop in the right lane of Mill Avenue on March 18, 2018, Herzberg was motionless on the ground. Cars behind them screeched to a stop.
+- Vasquez stayed in the vehicle, making a phone call. The first police officer arrived about 6 minutes later.
+- A television news crew noticed the accident scene and captured footage of the dented Uber vehicle amid the red and blue emergency lights, with Herzberg’s bicycle laying nearby.
+- Tempe Fire personnel performed chest compressions on Herzberg, who was unresponsive. Within a half hour, she was taken to HonorHealth Scottsdale Osborn Medical Center and pronounced dead.
+- Officer Joe Guajardo talked to Vasquez, and later reported that she “appeared to be scared and in shock.”
+- Soon another officer, Kyle Loehr, arrived to perform a sobriety test.
+- By the time he got there, Vasquez’s bosses from Uber had already arrived. She was sitting in her supervisor's Ford crossover, parked nearby.
+- The sprinklers from a nearby park sprayed the sidewalk. Loehr, body camera rolling, walked Vasquez to a flat spot nearby. He observed no swaying. Her eyes were clear, and so was her speech. She told the officer she took a prescription medicine, but had not ingested it that day.
+- Loehr used a green pen light to test her eyes.
+- “Vasquez exhibited none of the validated clues of impairment,” he wrote later. “Based on my training and experience, I made the determination that Vasquez was not impaired.”
+- Loehr asked Vasquez about the SUV and how she operated it.
+- Vasquez told police she had her hands at the 5 and 7 o’clock positions on the wheel, hands cupped like a “c” prepared to grab the wheel if needed.
+- But most of Vasquez's other responses regarding the autonomous car, her role as the driver and the capabilities of the vehicle were redacted in the video and written police reports.
+- Efforts to reach Vasquez for this story were unsuccessful. At the time, she told police she felt bad for the family of the woman she hit, and said she was concerned about her job.
+- But even in that first hour, those at the crash scene seemed to know this was different from any other fatal accident.
+- "This is going to be a setback for the whole industry, which is not what I want," Vasquez said to Loehr.
+- Loehr explained Miranda rights to Vasquez.
+- "There's a hypothetical possibility that it could go criminal," he said. "I don't foresee it going that way."
+- But officers on the scene wanted to make sure they covered all the bases.
+- "This is kind of an interesting scenario, right?" Loehr said. "These are those automated cars, and kind of, the whole world is watching. It's going to be one of those things like, there's going to be a lot of people who review this."
+- 
+- By the night Herzberg died, autonomous vehicles were already ubiquitous in certain parts of metro Phoenix, and not everybody was happy about sharing the road.
+- Google’s self-driving experiment, called Waymo, was testing white vans across Chandler. Records from the city showed some public complaints.
+- Chandler and Tempe police records showed some of the vans were followed, drivers were harassed. In late 2017, a man threw rocks at two Waymo self-driving vans.
+- Soon after, a dark-colored Jeep tried to force vans off the road six times. Waymo later told police that the Jeep driver once came to a stop, got out and began yelling at the van to get out of her neighborhood.
+- Months after the fatal Uber crash, a Waymo driver cruised through a Chandler neighborhood and saw a bearded man in a driveway raise a handgun and aim it at the van.
+- When police arrested the man, he said he was trying to scare the Waymo driver, and he cited the fatal Uber crash as his motivation.
+- As for the reports, Waymo said in a statement, "Over the past two years, we’ve found Arizonans to be welcoming and excited by the potential of this technology to make our roads safer. We believe a key element of local engagement has been our ongoing work with the communities in which we drive, including Arizona law enforcement and first responders.”
+- Opposition to self-driving technology even has led to the formation of a group that calls itself the Human Driving Association. Among the items in its manifesto is the belief that no car should ever be built without a steering wheel.
+- Hesitancy or not, people are sharing the road with autonomous vehicles, particularly in Arizona.
+- In addition to the ride service Waymo launched in December, Tesla Motors now adds additional autonomous capabilities to its cars through software updates, and the company's boisterous CEO Elon Musk recently promised the cars would be capable of driving unassisted from point to point.
+- "Your Tesla will soon be able to go from your garage at home to parking at work with no driver input at all," Musk posted on Twitter Dec. 9.
+- Short of full autonomy, features such as collision-avoidance braking and parallel-parking assistance are being offered in more and more vehicles, and that trend is likely to continue.
+- “As I look 10 years out, we are certainly going to see more autonomy in land, sea and air,” said Arizona State University futurist in residence Brian David Johnson. “That is the hardware, the mechanical and also the software and computation.”
+- He said it's natural for people to not only fear that humans won’t perfect the technology, but to not trust the technology itself. He says that when he speaks to large audiences, he’s often asked, “When will the robots rise up and take over the world?”
+- “These cars live in a broader system, the city, and when we design that system, we need to be ensuring that everybody is safe,” Johnson said.
+- 
+- There was no question Vasquez’s SUV had hit and killed Herzberg.
+- But who was at fault — whether anyone was at fault — was far from clear.
+- The accident made headlines from Los Angeles to London. “Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam,” wrote the New York Times. A day later, a Wikipedia page had been created for Herzberg’s death.
+- Two days after the accident, Tempe’s police chief tried to frame a version of the events.
+- Though the car had made no attempt to brake, Chief Sylvia Moir said the crash was likely “unavoidable.” She told the San Francisco Chronicle, “It's very clear it would have been difficult to avoid this collision in any kind of mode.”
+- But even then, police detectives were tracking down Vasquez for further investigation, and securing warrants for the video shot by the car’s cameras — and for data from Vasquez’s two phones.
+- The day after Moir said the accident appeared unavoidable, police released video from inside the Uber Volvo that showed Vasquez looking down toward her right knee and not at the road when the accident occurred. Three months later, police released documents from their investigation. Their findings put the crash in a new light.
+- 
+- The details of Vasquez's day leading up to and after the accident are documented in hundreds of pages of police reports and videos shot by the car's cameras.
+- Vasquez got to work at 6:30 p.m. on March 18, at the faceless warehouse on 14th Street near Priest Drive in Tempe.
+- The police reports don’t say what she did for that first hour at work, but it was common for drivers to receive a briefing on driving scenarios being tested with the cars as well as changes to the cars’ programming.
+- By about 7:45 p.m., Vasquez was ready to hit the road.
+- As she waited for the door to open to pull out of the garage, she removed a cellphone from a gray bag. The car’s video shows her with both hands near her right knee before pulling out of the driveway.
+- She pulled the car out onto the street, then stopped behind Philly’s Sports Bar & Grill to switch the car into autonomous mode.
+- Moments later, according to video from the SUV's interior monitoring camera, Vasquez continued to look down near her right knee and even appeared to say something and laugh.
+- Some autonomous Ubers picked up passengers — a surprise bonus and a free ride for somebody using Uber’s app. But Vasquez’s job that night was limited to test driving.
+- The route was circular, going north on Mill Avenue to Curry Road, east to Scottsdale Road then north to the city of Scottsdale. There, the car turned around and headed back south, to Rio Salado Parkway and back to Mill.
+- In their final report, police noted that Vasquez looked down 166 times when the vehicle was in motion, not including times she appeared to be checking gauges or mirrors. In all, they concluded, Vasquez traveled about 3.67 miles total while looking away from the road.
+- Records from the video streaming service Hulu, obtained by the police, indicate that starting at 9:16, Vasquez played an episode of “The Voice,” The Blind Auditions, Part 5, on her phone.
+- Assuming she was watching that year’s current season, the episode would have first aired just a few days earlier. Contestants were still making their initial auditions for judges, sight unseen. One hopeful sang Marvin Gaye’s “What’s Going On.”
+- The car made it to the third lap.
+- At 9:59 p.m., as the Volvo approached Herzberg at 43 miles per hour, the car and Uber’s technology inside it tried to process what they detected ahead in the road.
+- The radar, cameras and "light detecting and ranging," or lidar, picked up Herzberg six seconds before the collision. But the computer initially couldn't determine what she was, according to a report from the National Transportation Safety Board.
+- "The self-driving system software classified the pedestrian as an unknown object, as a vehicle, and then as a bicycle," the report said.
+- But even once she was classified as a bicycle, the software couldn't immediately tell which way she was headed.
+- Finally, 1.3 seconds before the impact, the self-driving system determined the vehicle needed to apply the brakes to avoid a collision.
+- It was something only Vasquez could do.
+- Uber had taken away the ability for the self-driving car to brake itself in emergencies, although it could do so at lights and stop signs.
+- The vehicles were giving jerky rides, braking at every minor obstacle, including small birds flying in front of the cars. An NTSB report on the accident said Uber disabled the system to prevent "erratic vehicle behavior."
+- The Volvo came equipped with City Safety Technology, an emergency braking system the company installed in its cars to avoid or mitigate crashes. But Uber officials had disabled that system as well when the car was operating in autonomous mode. Emergencies were left for the driver to handle.
+- A key question is whether Vasquez knew, or understood, the current limitations of the car. Uber has said repeatedly that drivers were briefed. But the portions of the police reports where she may be discussing the brakes are redacted.
+- The company also had reduced the number of operators in the vehicles from two to one.
+- A second occupant might have seen Herzberg. The scene was dark, but not as dark as the front-facing camera on the Volvo made it appear in the widely circulated video of the crash.
+- Police conducted a simulation a few days after the accident. It indicated that a pedestrian and a bicycle would be visible from 637 feet to 818 feet away under the lighting conditions that evening.
+- Investigators later looked at the speed of the car, braking ability, lighting conditions, and Vasquez’s half-second reaction time once she did see Herzberg.
+- Had Vasquez been paying attention, they found, she could have stopped the car 42.6 feet before the impact.
+- But Vasquez never touched the brake until after the crash.
+- The crash would not have happened even with a driver whose reaction time was twice as slow as Vasquez’s, had the driver been watching the road.
+- It would have been close. Someone with a 1.25 second reaction time who pressed the brake would actually skid past the point where Herzberg was hit. But the extra time given to Herzberg from a braking car, rather than one traveling more than 40 miles per hour, would have afforded her time to make it across the street and out of the vehicle’s path.
+- “For these reasons," Detective Kasey Marsland wrote in the “avoidability analysis," "the crash was deemed entirely avoidable.”
+- 
+- Uber's once close relationship with the governor soon soured. On March 26, Ducey sent a letter to Uber’s new CEO, Dara Khosrowshahi, suspending the self-driving operations in Arizona.
+- In May, the company said it was pulling all its test vehicles out of the state.
+- "We had a bad actor and we acted forcefully," Ducey said months later when asked about the crash. "There was a bad actor in that mix and it’s tragic what happened in that situation."
+- The Maricopa County Attorney's Office examined Tempe's findings, but referred the case to the Yavapai County Attorney's Office after citing a possible conflict of interest because the office had partnered with Uber previously.
+- Days after the Uber crash, Waymo’s CEO John Krafcik told the crowd at a Las Vegas conference that his company’s technology would have avoided the accident and that Waymo would continue with plans for autonomous ride service in Arizona by year’s end.
+- And they did. In December, Waymo launched a limited ride service based out of Chandler, but serving parts of other nearby cities.
+- The company also placed orders for 62,000 more Chryslers and 20,000 Jaguar I-Pace electric vehicles that it says will be used to expand the ride service in the coming years.
+- And besides the tests from Waymo, Uber, Intel and General Motors on public roads, people in south Scottsdale have shared the roads with autonomous vehicles run by Nuro, which used them to deliver groceries for Fry's with no driver in the delivery vehicles. Those tests recently moved to Houston.
+- Similarly, Walmart announced plans to launch self-driving vans with a safety driver inside in the West Valley.
+- Almost a year after the Uber crash, about 150 Waymo vans sat parked near Phoenix Sky Harbor International Airport covered in protective wrapping, presumably waiting to be put on the road.
+- Automobiles themselves offer a good historical perspective on how society has adapted to new technology that wasn’t safe out of the gate, said Johnson, the ASU futurist.
+- “Think of the automobile without seat belts and without airbags,” he said. “And mixed with highways. We had an incredible amount of death. Certainly there are still many automobile fatalities. But that is a good example. We are constantly finding safer ways to use these.”
+- Still, Jim McPherson, a California attorney and self-driving car consultant, said self-driving car services may have to work hard to win the public trust.
+- "People will expect the car not to be in collisions that they themselves could have avoided had they been driving," McPherson said.
+- 
+- The Yavapai County Attorney's Office was silent on the Uber investigation for nine months.
+- Then, on a Tuesday afternoon in March, County Attorney Sheila Polk issued a press release. Attached was a letter addressed to Maricopa County.
+- “After a very thorough review of all the evidence presented, this office has determined that there is no basis for criminal liability for the Uber corporation arising from this matter,” Polk wrote.
+- Polk had kicked the possibility of prosecuting Vasquez back to Maricopa County. Despite hundreds of pages of police reports from Tempe, Polk recommended further investigation by that department to determine whether criminal charges are appropriate for the driver.
+- “Based on the entire investigation, this office has concluded that the collision video, as it displays, likely does not accurately depict the events that occurred,” she wrote, adding that additional examination of video and other evidence was needed.
+- The press release noted: "The Office will make no comments on this case as it is still pending."
+- Uber's metallic-colored Volvos had been gone from Arizona streets for a year. But they hadn't disappeared.
+- In December, long before Polk's decision was made, Uber had moved on.
+- The SUVs had rolled out on the streets of Pittsburgh — during daylight hours only, Uber said — and were self-driving again.
+- Reach reporter Ryan Randazzo at ryan.randazzo@arizonarepublic.com or 602-444-4331. Follow him on Twitter @UtilityReporter.
+- Subscribe to azcentral.com today.
+
+URL: https://www.msn.com/en-us/money/companies/uber-e2-80-99s-fraught-and-deadly-pursuit-of-self-driving-cars-is-over/ar-BB1bItnu
+- This page doesn’t exist or can’t be found.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-29T13:53:03.2147558+00:00
+- 6fb2f786-e29e-4e1d-b3ac-067563e59ad3
+
+URL: https://www.bloomberg.com/news/articles/2018-05-25/self-driving-uber-investigation-reveals-handoff-problem
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.latimes.com/business/autos/la-fi-hy-uber-self-driving-20180319-story.html
+
+URL: https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving
+
+URL: https://www.consumerreports.org/autonomous-driving/backup-driver-for-uber-test-car-streamed-hulu-at-time-of-fatal-crash/
+- Ad-free. Influence-free. Powered by consumers.
+- Get involved
+- Issues we work on
+- The payment for your account couldn't be processed or you've canceled your account with us.
+- Sign In
+- We don’t recognize that sign in. Your username maybe be your email address. Passwords are 6-20 characters with at least one number and letter.
+- We still don’t recognize that sign in.   Retrieve your username.      Reset your password.
+- *Required
+- *Required
+- Forgot your username or password?
+- Don’t have an account?
+- My account
+- 
+- Save products you love, products you own and much more!
+- Other Membership Benefits:
+- Suggested Searches
+- Cars
+- Car Ratings & Reviews
+- CARS
+- 2023 Top Picks
+- Car Buying & Pricing
+- 
+- Which Car Brands Make the Best Vehicles?
+- Car Maintenance & Repair
+- 
+- Best Tire Values
+- Key Topics & News
+- CAR NEWS
+- Listen to the Talking Cars Podcast
+- Home & Garden
+- Bed & Bath
+- Top Picks From CR
+- Best Mattresses of 2023
+- Lawn & Garden
+- TOP PICKS FROM CR
+- Is Now the Time to Switch to Electric Outdoor Tools?
+- Home Improvement
+- Home Improvement Essential
+- Best Wood Stains of 2023
+- Home Safety & Security
+- HOME SAFETY
+- Best DIY Home Security Systems of 2023
+- Appliances
+- Kitchen
+- CR's Survey Results
+- Most and Least Reliable Refrigerator Brands
+- Small Appliances
+- TOP PICKS FROM CR
+- Best Small Kitchen Appliances
+- Laundry & Cleaning
+- Top Picks From CR
+- Best Washing Machines of 2023
+- Heating, Cooling & Air
+- Beat the Heat
+- Most Reliable Central Air-Conditioning Systems
+- Electronics
+- Home Entertainment
+- FIND YOUR NEW TV
+- Best TVs of 2023
+- Home Office
+- Save Money
+- Cheapest Printers for Ink Costs
+- Smartphones & Wearables
+- BEST SMARTPHONES
+- Find the Right Phone for You
+- Digital Security & Privacy
+- MEMBER BENEFIT
+- CR Security Planner
+- More
+- Take Action
+- We respect your privacy.
+                    All email addresses you provide will be used just for sending this story.
+- A report that the lone backup driver inside an Uber self-driving test car was streaming video when the car killed a pedestrian underscores the need for tougher test protocols on public roads, safety advocates say.
+- This is especially important, they say, as multiple self-driving technology companies and state and local governments forge agreements to allow more test vehicles out among the public.
+- This week, the Massachusetts Department of Transportation and 14 cities in the state agreed to allow testing of autonomous vehicles if companies enter into a memorandum of understanding, promising that their testing has been safe and "further testing of AVs is reasonably expected to be conducted safely and efficiently."
+- Tempe, Ariz., police released new information Thursday about the fatal March crash involving one of Uber's test vehicles. The police report, according to Reuters and other media, states that Uber backup driver Rafaela Vasquez was streaming a Hulu video at the time the car struck and killed a pedestrian.
+- The police department, which released the crash details in response to a public records request, said the crash was "entirely avoidable," adding that the driver could be charged with vehicular manslaughter, according to Reuters.
+- While Uber might have satisfied Arizona law at the time by having a single backup driver in the car, that's not adequate for safely testing autonomous vehicles, says Bryan Reimer, director of the Advanced Technology Vehicle (ATV) Consortium at the Massachusetts Institute of Technology.
+- Reimer and others point out that humans not actively engaged in driving can be lulled into inattention, even if their sole job is to pay attention. He stresses that even if backup drivers are paying attention, they're still passive observers not primed for a quick reaction.
+- "This driver was set up to fail," Reimer says. "You're mindlessly looking at the road ahead of you. It's hard to keep looking at something when nothing changes. You don't have to make moment-to-moment decisions about how to turn the wheel."
+- Consumer Reports is a member of MIT's ATV Consortium, along with automakers such as Jaguar Land Rover and Toyota, insurers like Liberty Mutual and Progressive, auto tech supplier Aptiv, and others.
+- Soon after the Uber crash, the company shut down its automated-vehicle testing. Last month, Uber announced that it was pulling its testing program out of Arizona and refocusing its efforts near engineering centers in San Francisco and Pittsburgh.
+- There have been accidents and mishaps with testing programs, but the Uber incident was the first death from a self-driving test car.
+- The Tempe police report says distraction was a factor in the crash that killed the pedestrian, Elaine Herzberg.
+- During Vasquez's ride in the Uber vehicle, which was recorded on video inside the vehicle as part of the testing, she looked down 204 times, mostly in the direction of the lower center console near her right knee, according to the police report. She was looking down for 5.2 of the final 5.7 seconds prior to the crash, the report says.
+- A log of Vasquez's account provided by the video-streaming service Hulu, under a search warrant, showed that "The Voice" was streaming on her account in the final 43 minutes of the drive and that the streaming ended at 9:59 p.m., the approximate time of the collision, the police report says.
+- The police concluded that the crash wouldn't have occurred if Vasquez had been paying attention to the roadway, and indicated that she could be charged with vehicular manslaughter. Details from the police report were published Thursday by the Arizona Republic, Reuters, and other media outlets.
+- Uber has said it's in the middle of a top-to-bottom review of its safety culture, including operating procedures for its vehicle operators, led by former National Transportation Safety Board Chairman Christopher Hart.
+- "We continue to cooperate fully with ongoing investigations while conducting our own internal safety review," Uber said in an emailed statement. "We have a strict policy prohibiting mobile device usage for anyone operating our self-driving vehicles. We plan to share more on the changes we'll make to our program soon."
+- Companies developing self-driving technology vary widely in how they're testing cars. Waymo made a decision early in its testing program to aim first for full automation in its software after its trained employees couldn't stay focused on the road as the cars drove themselves.
+- Other companies, such as Uber, are rolling out technology quicker and testing it in real-world situations on public roads, with the fail-safe that human drivers are in the front seat, watching the road and ready to react if needed in an emergency.
+- After Uber announced that it intended to resume testing, Pittsburgh laid out a set of conditions for the company, including a strict 25-mph speed limit for test cars to make collisions with pedestrians more survivable. Pittsburgh also wants Uber's app to alert human drivers when they're exceeding speed limits.
+- David Friedman, director of cars and product policy and analysis safety at Consumers Union, the advocacy division of Consumer Reports, says the Arizona crash shows that Uber's approach is dangerous. He echoed Reimer, the MIT director, that it's human nature to stop paying careful attention during stretches of monotony.
+- "This tragedy was entirely avoidable because Uber never should have put such an incapable vehicle on the road in the first place," Friedman says. "Uber, Waymo, and all other companies developing self-driving cars need a much better approach than requiring a single driver to effectively watch paint dry."
+- We respect your privacy.
+                    All email addresses you provide will be used just for sending this story.
+- Be the first to comment
+
+URL: https://www.wired.com/story/uber-self-driving-car-fatal-crash/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Lauren Smiley
+- Application
+- Autonomous driving
+- End User
+- Big company
+- Sector
+- Automotive
+- Technology
+- Machine vision
+- Rafaela Vasquez liked to work nights, alone, buffered from a world she had her reasons to distrust. One Sunday night in March 2018, Uber assigned her the Scottsdale loop. She drove a gray Volvo SUV, rigged up with cameras and lidar sensors, through the company’s garage, past the rows of identical cars, past a poster depicting a driver staring down at a cell phone that warned, “It Can Wait.” The clock ticked past 9:15, and Vasquez reached the route’s entry point. She flipped the Volvo into autonomous mode, and the car navigated itself through a blur of suburban Arizona, past auto dealers and Zorba’s Adult Shop and the check-cashing place and McDonald’s. Then it jagged a short stint through Tempe to start the circuit again. It was a route Vasquez had cruised in autonomy some 70 times before.
+- As she was finishing her second loop, the Volvo blazed across a bridge strung with bistro lights above Tempe Town Lake. Neon signs on glass office buildings were reflected in the water, displaying the area’s tech hub ambitions—Zenefits, NortonLifeLock, Silicon Valley Bank. Beyond the bridge, the car navigated a soft bend into the shadows under a freeway overpass. At 9:58 pm, it glided to a forlorn stretch of road between a landscaped median and a patch of desert scruff. Four signs in the median warned people not to jaywalk there, directing them to a crosswalk 380 feet away.
+- The Uber driving system—which had been in full control of the car for 19 minutes at that point—registered a vehicle ahead that was 5.6 seconds away, but it delivered no alert to Vasquez. Then the computer nixed its initial assessment; it didn’t know what the object was. Then it switched the classification back to a vehicle, then waffled between vehicle and “other.” At 2.6 seconds from the object, the system identified it as “bicycle.” At 1.5 seconds, it switched back to considering it “other.” Then back to “bicycle” again. The system generated a plan to try to steer around whatever it was, but decided it couldn’t. Then, at 0.2 seconds to impact, the car let out a sound to alert Vasquez that the vehicle was going to slow down. At two-hundredths of a second before impact, traveling at 39 mph, Vasquez grabbed the steering wheel, which wrested the car out of autonomy and into manual mode.
+- It was too late. The smashed bike scraped a 25-foot wake on the pavement. A person lay crumpled in the road.
+- Vasquez did what Uber had taught its employees in the test program to do in case of emergencies: She pulled the vehicle over and called 911. “A bicyclist, um, I, um, hit a bicyclist that was in the road,” she told the dispatcher, her voice tense. “They shot out in the street … They are injured, they need help, paramedics.”
+- “I know it’s pretty scary,” the dispatcher said in soothing tones. She told Vasquez to breathe. Within six minutes of the crash, cops started to arrive. Paramedics too. One cop scanned a flashlight over the person on the ground. A paramedic kneeled down and pumped the victim’s chest.
+- Dashcam footage from Rafaela Vasquez's self-driving Uber, pulling out of the garage on the night of the crash.
+- A couple of minutes later, an officer walked up to the Volvo, where Vasquez sat behind the wheel. He asked if she was OK. “Yeah, I’m just shaken up,” Vasquez said. “Is the person OK? Are they badly hurt?” Back by the figure who lay on the ground, a woman began wailing. Vasquez asked the officer, “Is that the person screaming?” He answered: “No no, that’s probably some people that they know.”
+- For the next two hours, Vasquez waited, doing what the police asked. Uber reps arrived. In the early minutes after the crash, one jogged up to Vasquez’s car, and an officer asked him to let the cops talk to her first. Eventually Vasquez moved to sit in a supervisor’s car. She asked for updates about the victim. And she learned that the person with the bicycle had died.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- After midnight, Officer Kyle Loehr approached Vasquez and asked if she was the driver in the crash. “I’m the operator,” she said. He asked her to get out of the car, and, body camera running, explained that he was going to run her through some sobriety tests: “This protects you, protects the city, protects the company,” he said. “It’s just literally a box we need to check.” Vasquez tracked Loehr’s green flashlight with her eyes, then his finger, then looked up to the sky and told him when she thought 30 seconds had passed. Sober. About 10 minutes later, Loehr came back with more questions. His voice was congenial and chipper. “I’m trying to just lighten the mood a little bit,” he said at one point, “because I know it’s stressful, and it’s crappy.” He told her he had to read her Miranda rights to her. That’s what happens, he added, when someone is no longer allowed to leave a scene. Gently, he went on: “Let me walk you through what happens with any of these cases when there’s a fatality.”
+- “Oh God,” Vasquez whispered. “That word.”
+- Multiple blunt-force injuries. That’s what the medical examiner would put down as Elaine Herzberg’s cause of death. Manner of death: accident. Herzberg had lived in Arizona her whole life and had resorted to camping in the streets near Tempe. The 49-year-old often carried a radio playing the local rock station; she collected frog mementos and colored to relax. She had struggled with addiction. That March night, she became the world’s first pedestrian killed by a self-driving car.
+- Herzberg’s death is the kind of tragedy the autonomous driving industry claims it can prevent. In the US, car accidents kill more than 38,000 people a year, more than 90 percent of them at least in part due to human error. By taking sleepiness, inattention, drunkenness, and rage out of the equation and replacing them with vigilant, precise technology, self-driving cars promise to make the roads dramatically safer. But to reach that purported future, we must first weather the era we’re in now: when tech is a student driver. That means gangly fleets of sensor-bedecked cars sucking in data on millions of miles of public roads, learning to react to our flawed and improvisational ways. And inevitably, as experts have always warned, that means crashes.
+- Questions of fault when things go wrong have been settled over a century for human driving. But they are still largely the stuff of thought experiments for the cyborgs now roving our streets: vehicles controlled by a machine brain, programmed by human engineers, and usually overseen on the road by some other person behind the wheel. For years, researchers and self-driving advocates had anxiously prognosticated about how the public and the legal system would react to the first pedestrian death caused by a self-driving car.
+- “Oh God, this is going to be a setback for the whole industry.”
+- The crash in Tempe ripped those musings into reality—forcing police, prosecutors, Uber, and Vasquez into roles both unwanted and unprecedented in a matter of seconds. At the scene that night, Vasquez stood at the center of a tragedy and a conundrum. She couldn’t yet fathom the part she was about to play in sorting out where the duties of companies and states and engineers end, and the mandate of the person inside the car begins.
+- “I’m sick over what happened,” Vasquez confided to the police as her mind spun in the hours after the crash. She said she felt awful for the victim’s family. She also grieved the event in a different way—as a loyal foot soldier of the self-driving revolution. “Oh God, this is going to be a setback for the whole industry,” Vasquez told Loehr. “Which is not what I want.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Rafaela Vasquez near her home in Tucson, Arizona.
+- At the time, Vasquez was an Uber defender. She had come a long way to this job. Over the previous few years, she’d acquired a dizzying track record of doing hidden work for highly visible companies—moderating grisly posts on Facebook, she says; tweeting about Dancing With the Stars from ABC’s Twitter; policing social media for Wingstop and Walmart. But her position with Uber’s Advanced Technologies Group had offered new stability, and after years of turmoil as a transgender woman navigating a hostile society, she was careful not to jeopardize it. Vasquez had even removed the box braids of colorful yarn that had defined her look since she was young. At a new job, she had come to think, “the less attention I bring to myself, the better.” During her nine months of work as an operator, the viselike grip of everything she’d endured as a child and teen and adult had slackened just a bit. As she trudged into her forties, Vasquez had felt her life, finally, relaxing into a kind of equilibrium.
+- Now, as she and Loehr sat in a victim services van near the Tempe bridge after midnight, grappling with Herzberg’s death, the vise was tightening again. She found herself asking, “Do I need a lawyer?”
+- Arizona welcomed Uber’s self-driving program to Tempe with feisty, high-profile panache, after a long courtship. Business-­boosting governor Doug Ducey, the former CEO of Cold Stone Creamery, took office in 2015, promising to yank the state out of its post-­recession doldrums. He wanted to lure Silicon Valley companies over the Arizona border, pitching his state as the anti-California with trollish flamboyance. He axed restrictions on Theranos blood testing, welcomed an Apple data center, ended local bans on Airbnb, and pressured officials to let Ubers and Lyfts roll up to Phoenix’s largest airport.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Along the way, Ducey’s office and Uber entered a mutual embrace. At one point, a Ducey staffer emailed Uber and referred to a 2015 Arizona law that regulated ride-sharing as “your bill.” At times, Uber suggested tweets for the governor’s office account and talking points for press events. In June 2015, Uber opened a customer service center and pledged to hire 300 Arizonans. And in August, Ducey signed an exuberant executive order allowing companies to test self-driving vehicles on public roads.
+- All of that was good for Uber. At the time, its CEO, Travis Kalanick, saw the development of robotaxis as an existential battle, particularly with Google. The company had to at least tie for first place in the autonomy race, or else, he said in an interview, “Uber is no longer a thing.” Human drivers could never compete on cost. But by the beginning of 2015, Kalanick’s company was way behind. So Uber poached 40 experts from Carnegie Mellon’s robotics department to create something called the Uber Advanced Technologies Group and tasked it with turning the company into a self-­driving force. Uber shoveled hundreds of millions of dollars into the self-driving unit, which would, over the next three years, grow to more than 1,000 employees across five cities.
+- In 2016, with Google’s Waymo and GM’s Cruise already piloting prototype self-driving cars around the Phoenix area, Ducey spotted yet another way to remake his state as the nation’s self-driving test capital. That December, California revoked the registrations on Uber’s test cars after the company refused to get a testing permit. Within hours Ducey tweeted, “California may not want you; but AZ does!” The next day, Uber’s Volvos were loaded onto semitrailers bound for Arizona. At the time, federal regulators were standing back, suggesting that companies voluntarily report their safety practices, and recommending states do the same.
+- In a secretive industry, miles driven in autonomous mode were a key signal of a program’s vitality. So throughout 2017, as Arizona became the largest site for Uber’s testing, employees recall company leaders demanding that the operators “crush miles”—hundreds of thousands, then millions, of them. “These were pretty purposely outrageous goals,” says Jonathan Barentine, a former employee who trained the human backup operators. “We were trying to ramp up really quickly, which at the time was what Uber was good at—or able to do.” By late 2017, Uber boasted that it was racking up 84,000 miles a week.
+- Soon Uber was running 40 cars across thousands of Arizona miles on up to eight shifts a day, with human pilots rescuing the fledgling robots when they went awry, and regulators barely watching. When Arizona welcomed Uber’s audacious program, Bryant Walker Smith, a leading scholar of self-driving policy, told the San Jose Mercury News that Ducey would symbolically “own” the company’s self-driving future—whether that be success or a high-profile crash. In California, Smith had recommended to the state’s officials that they revoke Uber’s registration; as for Arizona’s quick embrace of the same program, he warned, “There are risks to that level of permissiveness.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Over the course of 2017, the Advanced Technologies Group brought on hundreds of test operators in Arizona. Jonathan Barentine, a friendly and precocious program manager who was just a few years out of studying liberal arts at Cornell, was posted in Tempe to oversee training for the new recruits. He remembers that Vasquez, hired that summer, took the training so seriously she appeared stressed. “It seemed like a bit of a big break for her,” he says. “She really cared about making sure that she could do her job.”
+- For many of the new operators, coming off work on cleaning crews or as delivery drivers or regular Uber drivers, walking into the Advanced Technologies Group’s Tempe headquarters was like entering a Silicon Valley Shangri-la. The facility came with an alluring nickname—Ghost Town—from its days when few employees reported to the sprawling office-park building. The name had stuck even as exploding ranks of workers dropped in for car assignments, free catered meals, and a break room packed with Red Bull and snacks. The operators earned full benefits and about $20 to $24 an hour—solidly middle-class wages in the area. Vasquez’s coworkers were buying houses and booking vacations. Workers marveled at the latitude and trust of the company’s culture: Everyone gave feedback at regular debriefs, and managers let workers take breaks as needed to stay sharp on the road. Some stayed after hours to play video games. And they worked at the vanguard of tech. Flavio Beltran, an operator in the Tempe program, says, “I felt like, wow, I’m a part of history. I felt a very huge sense of pride.”
+- Lauren Smiley
+- Alex Davies and Aarian Marshall
+- Aarian Marshall
+- Vasquez, for her part, was fairly subdued. She says the mix of solitary work with a few interactions suited her. While she started to count a couple of colleagues as friends, she primarily seemed engaged with the work. A supervisor says Vasquez would walk up to her manager’s desk to report a new tidbit about the cars or make suggestions. She got a bonus for her performance in late 2017.
+- In the first months of testing on the roads, two people would work together in the car. Ideally, the person in the left seat—the driver’s side—called out things like obstacles and traffic signs: Do we see the bicyclist ahead? The pedestrian on the left? This stop sign? The person in the right seat would confirm on a laptop whether the system detected it: Check. Check. Check. If there was a hiccup, the person in the driver’s seat could take control of the car. The other person would write up the issue for the company to review.
+- In the fall of 2017, just a few months after Kalanick was ousted as CEO, Uber announced that it was changing the plan. Now there’d be just one operator in each car. Some heard this was because the tech was getting better. But with the self-driving unit chewing through hundreds of millions of dollars a year, others at the Advanced Technologies Group heard Uber wanted to stretch labor costs across more miles. (Uber says cost was not a factor in its decision.)
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Barentine lurched to retrain the workers to manage the cars alone. Typically, he says, a solo driver would be used only to test more mature versions of the software, in part to minimize the number of times the human had to take over from the vehicle. Now feedback on the vehicle’s performance en route was to be entered via some buttons on a tablet mounted on the dashboard. A few operators told me they had to get used to handling the car alone, for hours, with no conversation mate to spice up the repetitive loops. Combined with the sheer number of miles they were racking up, the change also worried Barentine. “All my colleagues in learning development were very uneasy,” he says.
+- Without a second set of eyes in the car for long stretches in autonomous mode, the workers also found it harder to resist the forbidden lure of using their phones.
+- On the very first day that he was in the car alone, Adam Caplinger, an operator in Pittsburgh, where Uber was also testing self-driving vehicles, snapped a photo at a red light. He self-­reported the transgression. Managers later showed him video from the car’s dashcam. As the car kept driving, he’d continued typing on his phone, a moment that Caplinger hadn’t even remembered. “I felt sick in my stomach,” he says. “My eyes did go to my phone a lot more than I realized.” Management told him they had to set an example and fired him.
+- Even the guy who designed that “It Can Wait” poster—the one that hung around Ghost Town reminding operators not to pick up their phones—ran afoul of the rule. In early 2018, after he’d logged thousands of autonomous miles, Flavio Beltran spotted a plane’s contrail—and snapped a photo, just as an operator in another car passed, looking at him. “I was like, ‘Aw man, fuck,’” Beltran says.
+- Management urged operators to report coworkers who broke the rules. (“Ninety-nine percent of the team wanted the program to continue and were trying to preserve it,” a supervisor says.) Tempe managers also did occasional retroactive spot checks, pulling the dashcam footage of randomly selected vehicles. But with busy schedules and the dramatic ramp-up of miles, the checks were infrequent. (Also, Barentine says, it seemed like Tempe management’s regular checks, ride-alongs, and improvement plans for low performers fell away.) Vasquez’s supervisor later told investigators that he never reviewed videos of her on the job. The company didn’t check drivers in real time either, another supervisor says: “We didn’t want the operators thinking that we were just spying on them while they are trying to work.” Mostly, he added, they trusted the operators to police themselves.
+- The grave site of the first pedestrian killed by a self-driving car.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- But whoever does the policing, whether a supervisor or an operator, faces a Sisyphean battle against a well-documented phenomenon: something called automation complacency. When you automate any part of a task, the human overseer starts to trust that the machine has it handled and stops paying attention. Numerous industries have struggled to find ways to keep workers attentive in the face of this fact. In 2013, ­Google started its own self-driving pilot program, using employees to test cars on their commute. Told to watch the road and be ready to take over in case of emergency, the Googlers instead typed on their phones, curled their eyelashes, and slept while hurtling down the highway. ­Google ended the experiment in a matter of weeks, deciding that it must take humans completely out of the loop—only full automation would do. More recently, Tesla drivers using their vehicle’s Auto­pilot feature have been spotted sleeping while riding on highways and have been involved in a number of fatal crashes, including one in which a California driver had a strategy game active on his phone.
+- “It finally happened,” a coworker texted grimly. “We finally killed someone.”
+- At Uber, operators say that staying focused on the job was easier in the early, “wild bronco” days, as one Pittsburgh worker put it, when the cars’ antics were frequent and dramatic. But with only one person in the car, and the machines getting better at navigating, it was easier to zone out. Between April 2017 and February 2018, according to records Uber later gave investigators, the company caught 18 operators breaking the phone policy. Uber gave nine of them additional training and fired the other nine, including Beltran.
+- “I understood why. That was our one major rule,” Beltran says. “I was devastated. It was one of the best jobs I ever had.” But both he and Caplinger told me their slipups were in part due to company policy: They would never have shot the darn pictures, they say, had a second person still been in the car.
+- On March 13, 2018—five days before the crash—Robbie Miller, an operations manager at Uber’s self-driving-truck division, sent an email to company executives and lawyers. In the message, later published by The Information, Miller complained that some drivers in the car division seemed poorly trained, damaging cars nearly every other day in February. He urged the company to put a second operator back in each car. He also wrote that cutting the fleet size dramatically “would significantly reduce ATG’s likelihood of being involved in an accident.”
+- Five days after Miller hit send, Vasquez pulled out of the Ghost Town garage to travel the Scotts­dale loop for her 72nd and 73rd—and final—time.
+- In her 39 minutes on the road that night, the car asked her to take over just once, for a few seconds.
+- One former Uber employee from Pittsburgh—who worked as a triage analyst, looking over incidents operators had flagged on the road—says he was baffled by the sheer number of loops the company racked up in its “crush miles” era. When the crash happened, he says, a friend from work grimly texted him. He recalls it reading, “It finally happened. We finally killed someone.”
+- “I can’t give legal advice,” Officer Loehr told Vasquez, sitting in the victim services van after she asked whether she might need a lawyer. Authorities would reconstruct the crash, he explained, and that would determine if Vasquez had been at all negligent. “There’s a hypothetical possibility that it could go criminal,” he told her. “I don’t foresee it going that way.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Even after Vasquez had listened to Loehr clip through her Miranda rights, heard him say that anything she said could be used against her in court, she kept talking: about her job and how the car had been working fine, about how she only saw Herzberg “right at impact.” She spoke as if she was comforted that someone was being kind and wanted to listen. He urged her to call a crisis response number for mental health services. “Don’t beat yourself up about it. What you went through is the definition of trauma.” As he wrapped up the interview, Loehr said, “You should breathe. You’re OK. Collisions happen.”
+- But the Tempe cops knew this wasn’t just another collision. And so did Uber: Immediately after the accident, the company grounded its self-driving car fleet across all its testing sites.
+- “You know as well as I know, this is going to be an international story,” an officer told a huddle of Uber reps at the scene. The police body cams were running, he said, and everything would be done “out in the open.” The car and all its recordings were now evidence; any attempt to alter them, he warned, would be a crime. On a more collegial note, the officer added that he needed Uber to be a partner in sleuthing. “We’re going to be working together throughout this whole process from now, probably for months.”
+- In the early morning hours, Vasquez retreated to Uber headquarters to calm down, and eventually drove home. The Volvo was towed to a police facility, and the cops nabbed warrants for the car’s data. Before dawn, they had taken custody of the SanDisk memory card from the camera mounted below the rearview mirror—the one that recorded both the car’s human pilot and a view of the road ahead.
+- An email exchange between Tempe police and Uber rep Andrew Hasbun discussing dashcam footage of the crash the morning after it happened.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Uber employees helped the cops find the right footage, which would go on to play a key role in the investigation: video of Vasquez in the driver’s seat as the car navigated the route; then of Vasquez gazing down toward her right knee, toward the lower console. Her glances downward averaged 2.56 seconds, but on one early loop, on the same stretch of road where the crash would take place, she looked down for more than 26 seconds. At times, the investigators thought she seemed to smirk. In the seconds before the car hit Herzberg, Vasquez looked down for about five seconds. Just before impact, she looked up, and gasped.
+- The media descended on the story the next day. Right away, experts were quoted lambasting Arizona’s lax regulatory environment, calling for a national moratorium on testing, and saying that fatalities are inevitable when developing such a technology.
+- Initially, Vasquez says, she was reassured by the police’s public stance. Tempe’s then police chief, Sylvia Moir, told the San Francisco Chronicle, “It’s very clear it would have been difficult to avoid this collision in any kind of mode (autonomous or driven) based on how she came from the shadows right into the roadway.” Uber, she said, “would likely not be at fault,” though she wouldn’t rule out charges for the human pilot.
+- After that interview, Moir told me, emails that pulsed with “excruciating rage” deluged her inbox, accusing Moir of complicity in Tempe’s self-driving experiments and of blaming Herzberg for her own death. People were angry and wanted accountability. As the hours ticked by, reporters started digging up as many details as they could about Vasquez—including information about an 18-year-old felony for which she had served just under four years in prison.
+- By the end of the day, a search warrant had been issued for any cell phone Vasquez had with her in the Volvo “to determine if Rafaela was distracted.” Maybe that would show what she was so interested in down by her knee. The warrant also listed the crime now under investigation: vehicular manslaughter.
+- Two nights after the crash, a trio of police gathered outside room 227 at a Motel 6 in Tucson. Vasquez had checked in because, she says, reporters were thronging her apartment. The first days had set her reeling. “I knew everything happened; I just couldn’t believe it was happening. I was in shock.” Now as she greeted the cops, she seemed calm but slightly on edge; her attorney didn’t want her answering any questions, she told them. They were there to bag her phones into evidence. She initially told the officers that she’d only had her work phone with her in the car during the crash, but eventually handed over two LG phones—the one she used for work, with a black case, she explained to them, and her personal one, in a metallic case.
+- The next morning, the data that police extracted showed no calls made or texts sent in the minutes before the accident. Then, according to police reports, the cops homed in on the apps. Were videos playing at the time of the crash? Search warrants went to Netflix, Hulu, and YouTube.
+- Maybe cell phone data would show what Vasquez was gazing at down by her knee.
+- The Tempe police were also weighing whether to make public the Volvo’s dashcam footage of the moments leading up to the crash. The Maricopa County attorney, Bill Montgomery, told them that releasing the video, which was in police custody at that point, could jeopardize their suspect’s right to fair legal proceedings. But Moir says the police were under “considerable” pressure from the public to do so, and they wanted to show there was nothing to hide; so the police tweeted the footage. Suddenly the world could see both Vasquez and Herzberg in the seconds before impact. Joe Guy, one operator in Tempe, gathered with others who’d come into Ghost Town, and they watched the video of Vasquez. “Most of us,” he says, “we went, ‘What the fuck was she looking at?’”
+- As the investigation ramped up, half a dozen Advanced Technologies Group personnel from other offices arrived in Tempe. At the police garage, cops stood by while the company downloaded the impounded car’s data so it could analyze what the system had done that night.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Three days after the crash, the visiting Uber leadership gathered at Ghost Town with Tempe police and federal investigators from the National Highway Traffic Safety Administration and the National Transportation Safety Board—the premier federal investigatory body for crashes. Because the software was proprietary, former NTSB chair Robert Sumwalt explained to me, everyone needed Uber to share its findings.
+- According to a police report of the meeting, Uber reps explained to the group that the company had overridden Volvo’s built-in automatic braking feature. Uber would later tell investigators this was because it interfered with the company’s own systems. The reps also presented their preliminary findings: While Uber’s own driving system recognized Herzberg, it didn’t do anything to avoid hitting her. That was Vasquez’s job, they said. She hadn’t taken the car out of autonomy until just before the moment of impact.
+- Vasquez wasn’t there to hear Uber’s assertion, but pretty quickly, she says, her supervisors’ interactions with her went from consoling to unnerving. One day, Vasquez says, she was told not to show up for the company’s movie night. “That’s when I really started getting nervous,” she says. Vasquez had asked her employer to pay for a criminal defense attorney, and Uber had agreed. Now her contact with fellow employees and work friends came to a halt.
+- Adding to the uncertainty, a week after the accident, Governor Ducey wrote to Uber CEO Dara Khosrowshahi with a newly stern tone: “My top priority is public safety,” he said. He found the dashcam footage “to be disturbing and alarming.” He was, he wrote, suspending Uber’s ability to test its cars in the state.
+- Ten days after the accident, Uber agreed to pay out a settlement for Elaine Herz­berg’s husband and her daughter Christine Wood, who says it was in the low millions. Wood too had no home and had been camping near the crash site.
+- Wood says that Herzberg, who’d served stints in county jail on drug charges, had tried to shield her children from her struggles with controlled substances. “She wasn’t proud of it, and she did what she could to make sure me and my brother stayed away from it,” Wood says. She says she and her mom had often jaywalked where the accident happened, sometimes to charge their phones at an electrical plug in the median. (The city has since filled in the median’s footpaths and added more no-crossing signs to the area.) When she died, Herzberg had methamphetamine in her blood.
+- Signs near the crash site warn people not to jaywalk, directing them to a crosswalk 380 feet away.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- With the settlement money, Wood and Herz­berg’s husband bought a ranch house in Mesa. “It got me off the streets, which is what she would have wanted me to do,” she says. Months later, Uber also settled with Herzberg’s parents and son, says Herzberg’s mom, Sharon Daly. “I didn’t want to cash the damn check because it would make it final,” Daly told me over the phone, starting to weep. “And I wanted her to come back.”
+- While Uber stanched its civil liability, investigators kept pushing for new details. By mid-April, Vasquez was sitting for three hours—with her Uber-paid lawyer and Uber’s own attorney—talking to investigators from the National Transportation Safety Board. According to the agency’s record of the talk, she told them that, at work that night, she had stowed her personal phone in her purse behind her. Her work phone was on the passenger seat. She said she had been monitoring the Uber tablet that was mounted on the center console, then looked up and saw Herzberg.
+- Then Tempe police started to receive information from the warrants to the streaming apps. YouTube and Netflix found no activity in the hours around the collision. But in late May, Hulu’s legal team reported that after 9:16 pm, Vasquez’s personal phone began streaming the talent show The Voice. The episode stopped at 9:59. The crash happened at 9:58.
+- About a month later, the police released hundreds of pages of investigative documents to the press—including the seemingly damning report from Hulu. The police analysis found that, if she’d been looking at the road, Vasquez could have stopped more than 42 feet in front of Herzberg. They deemed the crash “entirely avoidable.”
+- And like that, the media focus shifted from Uber to Vasquez, sometimes in cartoonishly villainous terms. (A Daily Mail headline: “Convicted Felon Behind the Wheel of Uber Self-Driving Car Was Streaming The Voice on Her Phone and Laughing Before Crash Which Killed a Pedestrian in Arizona.”) Vasquez set a Google alert on her name and then couldn’t stop reading every comment, including insults about her looks and being trans. “I spiraled,” she recalls. “Now I’m hearing things that I haven’t heard since high school.” Offended and hurt, she wondered what her gender identity had to do with the crash, and she shut down her social media accounts.
+- For months, Vasquez waited to see what the Maricopa County attorney would do. A charge of vehicular manslaughter could mean years in prison—and the return of a familiar pattern in her life, a pattern of momentum turning against her.
+- Rafaela Vasquez was born in suburban Maryland. Her mother died of a heart attack when she was just 3, so she was raised by her dad. He was born in Puerto Rico but moved to New York City in his early teens. He was hired at IBM and worked his way up to become a manager. The family followed his job, shifting through Georgia, Maryland, Arizona, and Virginia.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- In the 1980s, when she was in grade school and junior high, her father brought home his company’s debut PCs, seeding her love of gadgets as she spent hours engrossed in Pong. But her dad was a strict Catholic and a former Marine sergeant who served in Vietnam, and he bristled at his child’s femininity. He tried any number of interventions, Vasquez says, “to pray the gay and military the gay away”—Catholic grade school, a soccer team, a military school for fifth grade called Linton Hall School. She was bullied all the way. “I just didn’t know what I was, I didn’t have anybody to talk to,” she says. She took solace in visiting her Aunt Janice, from her mom’s family of Black Southern Baptists. “Even though I know she didn’t approve of me, she never treated me any different and still loved me.”
+- Vasquez says she was sexually abused as a child—by two priests, a coach, and a therapist. “I thought it was me and there was something wrong with me, because every time we moved, I thought, ‘OK, it’s not gonna happen.’ But it did; I was always very alone. I never had friends … I looked like the type of person that keeps a secret.” Vasquez says she first attempted suicide in third grade.
+- When she was in junior high, the family moved to Tucson and, she says, the sexual abuse finally stopped. But she still didn’t have a word for how she felt; she’d seen the “transsexuals” on tabloid TV, eroticized in a way Vasquez didn’t identify with. Gay didn’t seem to describe it either. She took refuge in AOL chat­ rooms, where she could talk to people who didn’t know her in real life. Then she found an electronic dance club in town called the Fineline, where she first met transgender friends.
+- In high school, Vasquez worked up to a full face of goth makeup—which also helped her conceal the bruises from getting beaten up by boys. Her hair was short in those days, but Vasquez stopped correcting people when they called her “she.” She also began taking Premarin estrogen pills she bought off her trans friends for $2 a pop. “I didn’t know that it was called transitioning. All I knew is that I felt better.”
+- After graduation, Vasquez floated through a series of jobs, community college courses, classes at the University of Arizona. In her mid-twenties she met a guy at a rave in Phoenix. Josh, who she considered her first boyfriend, was six years her junior. By mid-2000, he was also on probation for stealing a car, and Vasquez was on probation for falsifying an unemployment claim. At the time, she was managing a Blockbuster video store in Scottsdale. One morning, she and a coworker drove to the bank to deposit $2,783 from the store’s cash register into Blockbuster’s corporate account. Vasquez’s boyfriend rushed up to the car, pointing a handgun at them, according to a police report, and she handed over the cash. Yet a month later, police arrested Vasquez. Informants had told police that she had been in on the heist. In an interrogation, her boyfriend said the same.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- While Vasquez flatly denied involvement to the police, her bail was set at $70,800. She couldn’t afford that, so she remained in the Maricopa County jail for five months, housed with male inmates. Vasquez says she was sexually assaulted by both inmates and guards, but other than telling her aunt about it, she didn’t officially report the abuse. “I’d never had to have anal stitching before, but I had it in jail.”
+- She pleaded guilty to attempted armed robbery, and the judge sentenced her to five years in prison. Her ex-boyfriend, who’d held the gun during the stickup and pleaded guilty to armed robbery—a more serious felony—was sentenced to four.
+- Fellow inmates taught her how to mix things with Vaseline: Atomic Fireballs for lip gloss. Kool-Aid for eye shadow.
+- In prison, Vasquez was housed with men, wasn’t allowed to take hormones, and says she again was regularly sexually assaulted. While there, she penned a letter to her dad—“62 pages front and back”—explaining that her gender identity wasn’t going away. The letter helped begin to repair their frayed relationship, and he came to visit her regularly and tried to start calling her by her preferred name. In the final year of her sentence, she was transferred to a low-security prison yard where she was able to socialize with other transgender inmates. They taught her to mix commissary goods with Vaseline or hair grease for makeup: Atomic Fireballs for lip gloss, a golf pencil for eyeliner, Kool-Aid for eyeshadow. She says the inmates tasked her with brewing contraband hooch—out of water, sugar packets, bread, oranges, and Jolly Ranchers candy.
+- Shambling back to the Phoenix area in 2004, when she was 30, Vasquez soon moved in with a friend, drew disability checks for her languishing mental health, and dove into therapy. “Prison really messed me up,” she says. “And it took me a long time to recover.” She eventually sought out jobs that let her work from home—taking tech-support calls for Cricket Wireless and Dell. Through contractors, she was hired for a string of remote jobs tweeting live commentary for The Bachelorette and Dancing With the Stars and moderating flagged content on Facebook. She signed up as a volunteer beta tester, exchanging avid feedback for free Plantronics headsets and iPads. “People fear robots are going to take over the world and our jobs? I wanted them to,” she says. “I like robots.” For one job, she wore a shirt with a camera embedded in a button and posed as a prospective tenant to surveil workers at leasing offices.
+- When she was working consistently, she’d bring in more than $40,000 a year—enough to rent a house and support her rescue pit bulls, Sweetie and Romeo, and later Tyson. She found Tyson in a dumpster, when he was a puppy, sealed in a plastic bag. She related to pit bulls. “They’re so misunderstood,” she says. She knew what it was like to be judged by appearances, to have people be intimidated by her. “I think I have an RBF: resting bitch face,” she says. “I get asked, ‘Are you mad?’ No.” The dogs became her main companions, hunkering down with her at home as her reclusiveness veered into agoraphobia. When her Aunt Janice died, her emotional state plunged further. At times, she’d leave the house only for late-night grocery runs for kibble or moonlit dog walks. “If I wouldn’t have had dogs,” she says, “I would have just let myself waste away.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- In 2015, Vasquez decided she needed to force herself out among people. So she signed up to drive for Lyft and Uber. She answered truthfully during Uber’s onboarding: no felonies in the past seven years. And she felt OK picking up strangers a few nights a week. It was her car, after all, and she could stop working if she got too anxious, or she could call the cops if a drunk wouldn’t leave. Her agoraphobia began to ease as she chatted with the strangers who slid into the back seat.
+- After a couple of years, Vasquez spotted an ad for Uber’s self-driving unit. “I aced the test,” she says. In summer 2017, she flew to Pittsburgh for a weeklong boot camp. The self-driving Volvos were set up on a training track, and Vasquez learned to hover her hands around the wheel and her foot over the brake while the car drove itself. Touching either would take over control, which she had to do swiftly, as the trainers programmed the car to make mistakes. Recruits who erred were weeded out over the week; Vasquez made the cut and flew back to Tempe for more mentoring, working up to testing the cars on public roads. “It felt refreshing to me,” she says. “It felt like I was starting over again.”
+- In the weeks after Herzberg’s death, Uber’s Advanced Technologies Group held a number of all-hands meetings. The triage analyst remembers that CEO Eric Meyhofer had puffy eyes—“like he was not sleeping, and crying.” Meyhofer and other leaders said they were cooperating with the police and federal investigators. They told staff that they weren’t going to let the internal investigation turn into a blame game and would make no assumptions about Vasquez. Leadership told employees they could take time off or visit on-hand grief counselors.
+- With the cars off the road, the company also dove into its own technical soul-searching—doing a self-assessment about the crash and Uber’s safety practices and creating a panel of safety advisers, including a former administrator of the NHTSA.
+- The excavation of facts was unflattering: Uber told the NTSB that its tech had never identified Herzberg as a person. Nearly every time the system changed what it thought Herzberg was—a car, a bike, other—it started from scratch in calculating where the object might be headed, that is, across the road into the Volvo’s lane. Uber had programmed the car to delay hard braking for one second to allow the system to verify the emergency—and avoid false alarms—and for the human to take over. The system would brake hard only if it could entirely avoid the crash, otherwise it would slow down gradually and warn the operator. In other words, by the time it deemed it couldn’t entirely avoid Herzberg that night, the car didn’t slam on the brakes, which might have made the impact less severe. Volvo ran its own tests after the crash, it told the NTSB, and found that its automatic braking system, the one Uber overrode for its own system, would have prevented the crash in 17 out of 20 scenarios and would have reduced the speed of impact in the other three.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- “Prior to this crash, I think there was a lot of recognition among industry that ‘There but for the grace of God go I. We’re trying to be responsible, but something could happen,’” says Bryant Walker Smith, the self-driving scholar. “When the crash happened, it turned from this ‘Oh, my goodness, this could happen to anybody’ to ‘Well, yeah, of course, it was Uber.’”
+- As more information was released, Uber staffers were becoming increasingly frustrated by the company’s leaders. “People were blunt about it being a massive fuckup, and there being moral culpability, and that the company needed to change,” Barentine says. The triage analyst wondered if he was “implicitly involved in this. Is this blood on my hands?”
+- “These are people who came to work here because of the promise of self-driving and this utopian future,” a Pittsburgh-based manager told me. “It was a pretty big body blow, that they felt like they contributed to something so severe.”
+- The company threw out its plan to put a driverless taxi into service by the end of 2018; the new target was 2022. “Everything was defined by that event,” the manager says of the crash. “It put us in a really stark view of what the car was actually capable of doing. It was nowhere near what the public perception was.”
+- One morning in late May, the nearly 300 benched Tempe employees were told to report to Ghost Town. When the supervisor arrived for the meeting, he saw that senior staff had flown in. “I was like, ‘Oooooohh crap.’” Austin Geidt, an operations head who would ring the stock exchange bell when Uber went public a year later, addressed the group: Arizona had rejected their proposals to stay. Everyone was laid off.
+- Employees received two months of pay under state law, and another two months in an Uber separation package with a non-disclosure agreement. (Uber says Vasquez received a severance package too, in 2018, but would not say how much.) After the announcement, people met with HR reps on hand, said goodbyes in shock. The supervisor recalls an opera-singing operator bellowing strains of “Ave Maria” to the dwindling ranks as a coda.
+- The crash site in Tempe, Arizona, around the time of night that the accident happened.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Now some of Vasquez’s fellow operators pointed the finger squarely at her. Many of the nine operators who talked to me accepted—and took pride in—their role in preventing crashes. I asked Beltran, who’d been fired for looking at his phone: Wasn’t his own lapse just a degree or two removed from Vasquez gazing at her phone for several seconds at a time? “No, no, no, no, no,” he told me. “That’s like going above and beyond not doing your job.”
+- That summer, the Advanced Technologies Group also laid off 100 operators in Pittsburgh and San Francisco and ended its self-driving-truck program. The hundreds of remaining staff would focus on cars in a new era that was hyper-focused on improving safety.
+- At some point, court documents show, a technical program manager phoned police detective Thomas Haubold, who was leading the Tempe investigation. In a 48-minute recorded conversation, the caller said he was worried Vasquez was going to take too much of the blame and that a larger problem would be obscured: that in its quest to get as many cars on the road as quickly as possible, Uber had ignored risks. He told Haubold not to trust Uber to be totally forthcoming. The company, the insider said, was “very clever about liability as opposed to being smart about responsibility.”
+- The call seemed to make little impact. A year after the crash, an Arizona prosecutor announced that the state would not criminally charge Uber in the fatality. The next month, the Advanced Technologies Group received a $1 billion investment from SoftBank, Denso, and Toyota, valuing the division at $7.25 billion, three weeks before Uber’s IPO.
+- All along, some employees were surprised that no leaders had been fired because of Herz­berg’s death or in the disarray that followed. Now, with criminal charges off the table for Uber, Vasquez sat in legal purgatory alone.
+- Standing in line at Chipotle one day, Vasquez remembers hearing a voice: Is that the person who killed that lady? Vasquez made a beeline for the door. After photos of her face and the video of her in the Volvo circulated in the media, Vasquez tried to make herself invisible. She kept her hair straight to avoid drawing attention with the braids of multicolor yarn she used to love wearing. When she had to go to the grocery store, she would calm her nerves in the parking lot, then dash in—or simply pick things up curbside. When Covid hit, she felt utterly relieved to put on a mask.
+- Laid off alongside the other Tempe staff, Vasquez tried to stretch her savings—along with, eventually, disability payments for her mental health—as best she could. At one point, Vasquez applied for a job at Taco Bell to test her prospects. Try back after your legal issues have settled down, she says she was told. It’s bad publicity. Lying low from the media and anyone who might recognize her, she says she lived for months with her dogs in a string of Motel 6’s.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Vasquez eventually moved to Tucson, where she cared for her father, who was being treated for cancer. With dwindling money and limited space, she had to give up her dogs, another blow as isolation set in. “Before, I chose to be alone,” she says. “This time, I felt as if I was alone because nobody wanted to be around me.” Most distressingly, she stopped the therapy that had helped her for years, wanting to avoid any risk that her therapist would get subpoenaed. When friends asked her about what they’d read about the case, Vasquez would tell them, “It’s not true.” But she couldn’t elaborate.
+- When she heard the news of the indictment, Vasquez struggled to breathe.
+- In November 2019, a year and a half after the crash, the NTSB released its final report. The 78-page document didn’t carry legal heft; it was aimed at preventing future accidents. But it called out what it said was the probable cause of the crash: Vasquez was distracted by her “personal cell phone.” The report also called her distraction a “typical effect of automation complacency”—and said that Vasquez was far from the only contributor to the accident. The board’s findings also targeted federal and state agencies’ lax regulations and—the focus of much of the report—Uber’s “inadequate safety culture.” In an NTSB board meeting, vice chair Bruce Landsberg said, “There’s enough responsibility to go around here on all sides.” NTSB chair Robert Sumwalt focused on Uber: “The collision was the last link of a long chain of actions and decisions made by an organization that unfortunately did not make safety the top priority.” Still, NTSB investigator David Pereira praised Uber’s cooperation and its post-crash safety changes to ward off further incidents.
+- Shortly thereafter, the state of Arizona, fighting a negligence lawsuit from Herzberg’s daughter in civil court, also partially blamed Uber, alleging the company was “vicariously liable” for its employee. (The case was dismissed.)
+- As for criminal charges, nearly a year after that report, in August 2020, Maricopa County prosecutors brought their evidence against Vasquez before a grand jury. And that’s how Rafaela Vasquez—and only Rafaela Vasquez—was indicted for allegedly causing the first pedestrian death by a self-­driving car.
+- The charge was negligent homicide with a dangerous instrument. She faced four to eight years in prison if convicted. When she heard the news, Vasquez curled into the fetal position on her father’s bedroom floor, struggling to breathe as he tried to calm her. “It was a nightmare,” she says. “I was just devastated, beyond devastated by it.”
+- Vasquez brought on a new legal team that was not paid by Uber. Last summer, her two new lawyers loosed Vasquez’s defense in a pretrial legal filing: Yes, she was streaming The Voice on Hulu, the defense wrote—but she wasn’t watching it; she was listening to it. And that was something operators were allowed to do. The police report says that Hulu was installed only on her personal phone, the one with the metallic case. The video, they argue, shows Vasquez at the beginning of her shift, placing the phone with the black case—her work phone—near her right knee in the center console, where she was gazing. And that phone didn’t have Hulu. When Vasquez was looking at that phone for several seconds at a time, the defense writes, she was monitoring the company Slack, “doing her job.” Her personal phone, on the other hand, was significantly farther away, on the passenger seat. This differs from what Vasquez told the NTSB, but her attorneys argue the video is clear, and exculpatory: After the crash, the dashcam shows her reaching over to the passenger side to grab her personal phone and call 911.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Barentine says that the Arizona operators chatted in many Slack employee channels, and various Slack alerts could come in from managers. Monitoring those alerts had previously been the second operator’s job; solo operators were supposed to check Slack on breaks or when pulled over, several employees told me. (Vasquez’s defense team, in their filing, claim that Slack had to be monitored in real time.) If they didn’t quiet or pare down their notifications, Barentine speculates, “they could have been getting what felt like alerts all the time.”
+- The filing appears to be Slack’s debut in the public record of the moments leading to the crash: Police reports don’t indicate that Vasquez ever discussed her phones on the night of the accident, and the NTSB’s notes of their interview with her don’t show her mentioning using Slack right before the crash. But both of those interviews took place before the police’s Hulu accusation became public. (Neither Tempe police nor the county attorney would comment for this story, citing the pending case.)
+- Vasquez’s attorneys argued that a new grand jury should be convened; the one that indicted Vasquez heard police testify only that Vasquez was watching TV and never heard a spate of other evidence: about Uber’s decisions that made the fatality more likely, about the concept of automation complacency, about the whistleblower’s call to police saying not to trust the tech behemoth.
+- Then, in February, the ruling came down: The case would move ahead toward trial, with no new grand jury. Vasquez and her lawyers won’t comment on their legal strategy, but Michael Piccarreta, an Arizona defense attorney and former head of the state’s bar association, reviewed the case for WIRED. He says Vasquez’s lawyers can further challenge the February ruling or else present their views of the evidence at trial—unless their client opts to avoid one altogether. Vasquez could seek a plea deal, Piccarreta says, potentially reducing a prison sentence that could come down if she is found guilty.
+- The outcome of a trial, Piccarreta explains, would hang on whether Vasquez “grossly deviated” from the standard of care that a “reasonable person” in her place would have taken, the definition of negligent homicide in Arizona. To Vasquez’s defense team, that “reasonable person” is not a driver but rather an operator of a self-driving Uber; even the NTSB, they add, says that distraction is a typical and even predictable effect of automation complacency. The attorneys draw attention to the fact that Herzberg’s judgment was impaired by drugs, and that she was illegally jaywalking at night in a dark coat where posted signs say not to. They highlight the NTSB investigation’s findings against Uber and how the company worked “hand-in-glove” with Tempe police. “It was folly to rely on unverified claims made with a company with deep pockets and an interest in minimizing its liability,” their legal filing states. “By assisting the police in the investigation, the company could steer the investigation, enabling it to offload its liability to Ms. Vasquez.” (Moir, the former Tempe police chief, defends her department’s investigation and dismisses the idea that police “would favor a relationship over evidence.”)
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- In public statements and legal filings, the prosecution has treated Vasquez as a distracted driver. But to win, Piccarreta says, the county needs to prove that Vasquez was “grossly” negligent. “If she’s just negligent, she’s not guilty.” The prosecutors would, he says, “need something to really get the jury upset at her.”
+- Some former Uber staffers who spoke with me do feel troubled that a lone frontline employee has been singled out. “I felt shame when I heard,” Barentine says of Vasquez being charged. “We owed Rafaela better oversight and support. We also put her in a tough position.”
+- “You can’t put the blame on just that one person,” says the Pittsburgh manager. “I mean, it’s absurd.” Uber “had to know this would happen. We get distracted in regular driving,” the manager says.
+- “It’s not like somebody got into their car and decided to run into someone,” says the triage analyst. “They were working within a framework. And that framework created the conditions that allowed that to happen.”
+- As for why Uber didn’t and won’t face criminal charges, Piccarreta says, “They’re one step removed, unless when you examine the process, they put the cars out knowing this was going to happen and just didn’t care.” Uber, he says, has a built-in defense: that it put a human in there for the very purpose of avoiding crashes.
+- Of course, if the case goes to trial, only the jury’s opinion will matter. Vasquez knows that fair consideration of the evidence would require a jury to open-mindedly weigh the actions of a transgender woman gasping in the crash video. The county attorney has already asked for permission to question Vasquez about her 20-year-old crimes, though Piccarreta predicts the judge won’t allow it. After reading the online vitriol against her, Vasquez says, “Do I think I could get a fair trial, if it ever came to that? No.”
+- In August, in an area of a Phoenix suburb where Waymo vans ferry customers around with no human pilot at all, Vasquez steered an aging sedan into an office park in the withering, near-100-degree heat. On the way here, she was paranoid that other drivers would recognize her, even though, rationally, she knew they couldn’t see through her dark-tinted windows. After she parked, she strode into her lawyer’s office and slid behind an imposing wooden conference table. Flowing leopard-print pants disguised her clunky ankle monitor. A dainty headband crested her head, and a triad of piercings, a holdover from her goth years, dotted her chin.
+- After three and a half years of public silence, Vasquez had shown up to talk to me about what she’s been through. For nearly seven hours—never asking for a break—her stories gushed out in wounded torrents. Her hurt and anger, about the sexual abuse, everything she has endured as trans, radiated. Her candor and wry sense of humor seared. When she was talking about the beatings she took from high school bullies, her voice caught with emotion. She once interrupted herself to question whether anyone wants to hear from her. “Nobody’s gonna care, right?” Her attorneys sat nearby, tapping on laptops with an ear half-open—making sure we stayed within the guardrails we’d agreed to. No questions about the case.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- “I feel betrayed in a way,” Vasquez told me. “At first everybody was all on my side, even the chief of police. Now it’s the opposite. It was literally, one day I’m fine and next day I’m the villain. It’s very—it’s isolating.”
+- There was a time, right around when Vasquez started to drive for Uber to force herself out of the house, that the self-driving revolution seemed right around the corner. Companies brayed about rapid timelines; zeitgeist-chasing tech workers wanted to get into the hyped space before the problem was already solved.
+- “You can’t put the blame on just that one person. It’s absurd.”
+- Herzberg’s death punctured that promise, and recent years have seen the industry humbled. The projections of full autonomy—not just on highways, which are seen as the easier task; not just on certain routes in Houston, San Francisco, and Phoenix; but everywhere—are now much further out. At the end of 2020, Uber offloaded the Advanced Technologies Group and hundreds of employees to a company called Aurora, buying a 26 percent stake and a guarantee to use its tech in the future. The electric-vehicle self-driving startup Zoox was sold to Amazon. Lyft sold its autonomous division to a subsidiary of Toyota.
+- Anthony Levandowski—a controversial early star of the self-driving industry—said in a recent interview that the tech just isn’t there yet for autonomous road vehicles. He has dedicated his new startup to hauling rocks at mines. Tesla is now under investigation by the US Department of Transportation because 11 of its cars have crashed into parked emergency vehicles while in Autopilot or cruise control. At one NTSB hearing on a fatal Tesla crash, then agency chair Sumwalt said, “It’s time to stop enabling drivers in any partially automated vehicle to pretend that they have driverless cars.”
+- Last fall, in an echo of Vasquez’s case, Los Angeles County prosecutors charged a Tesla driver with vehicular manslaughter when his car, reportedly in Autopilot mode, ran a red light, crashed into another vehicle, and killed two people inside. (The driver pleaded not guilty and is awaiting a hearing.) This time, it wasn’t an employee of a self-driving company facing charges but a private citizen who allegedly failed to correct his own erring car. The message: Vasquez’s situation could be yours too.
+- While the Tempe crash sobered the industry, it’s also, in some ways, receding in the rearview mirror. Autonomous test cars from eight companies trek across Arizona’s roads today. More than two years after sending his stern letter suspending the Advanced Technologies Group from the state, Governor Ducey emailed Khosrowshahi. A California judge had just ruled against the company’s gig-worker labor model; Ducey asked the CEO for a “conversation about ways our state can be a partner in ensuring Uber’s continued success … Arizona is open for business and we would be honored to support Uber’s long-term growth.”
+- A message from Arizona Governor Doug Ducey to Uber's CEO, welcoming a conversation about the company's future in the state more than two years after Ducey suspended Uber's autonomous testing program.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Studies and support groups attest that people who have accidentally played a role in a death are tormented by an amalgam of survivor’s guilt, trauma, and moral injury, no matter what happens in the justice system. In our interview, Vasquez couldn’t talk about how she felt about Herzberg’s death; it veered too close to the case. Still, I imagined that being part of a cyborg of human and technical factors that ended a life must stir a deep but confusing form of grief. She is the first to shoulder this harrowing tech-age version of an old and primal pain.
+- When we met, Vasquez was spending her days raising her niece and nephew and visiting her 84-year-old father in the hospital. He had stuck by her through the case, the closest family she had left. In recent years he’d stopped slipping up and saying “son” and had started to call her his daughter. “I know he loves me,” she says. A month after the interview, he died. She was left to grieve, a loss that piled onto her ongoing despair about the case. About what prison would mean if she were again housed with men. About the next Google alert for Rafaela Vasquez.
+- Which brings her to the plan.
+- Someday, Vasquez will walk into county court, not for a criminal hearing but on a more self-actualizing mission: to legally change her gender and her name. She’ll choose the name that she once dreamed her mother gave her, the one her dad and friends called her, the one she asked me not to print because making it public would defeat the point. Uber, the first self-driving pedestrian death, the toxic comments and Google searches, will stay behind with Rafaela and with the male name on the court documents. The catastrophe will be tethered to the “M” that never described her anyway.
+- She will make the change once the case is done. Once the attention ebbs. “That way,” she explains, like a woman who has thought this through, “it could be like a past life.” She will slip back into society; few will know the rest.
+- This article appears in the April 2022 issue. Subscribe now.
+- Let us know what you think about this article. Submit a letter to the editor at mail@wired.com.
+- Maryn McKenna
+- Matt Ribel
+- Brendan I. Koerner
+- Virginia Heffernan
+- Jennifer Kahn
+- Virginia Heffernan
+- Gregory Barber
+- Kim Zetter
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.theregister.com/2022/03/14/in_brief_ai/
+
+- Son Ji-chang Tesla Model X sudden acceleration
+- Tesla phantom braking
+- Page info Type: IncidentPublished: March 2022

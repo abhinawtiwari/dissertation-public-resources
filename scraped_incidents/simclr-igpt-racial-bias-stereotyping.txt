@@ -1,0 +1,296 @@
+- SimCLR, iGPT racial bias, stereotyping
+- Occurred: January 2021
+- Can you improve this page?Share your insights with us
+- TechnologyReview reports that a new research study (pdf) finds that prominent image generation algorithms, including Google’s SimCLR and OpenAI’s iGPT, are biased and prone to negative stereotyping.
+- To highlight the issue, researchers Ryan Steed and Aylin Caliskan showed iGPT a head shot of prominent US politician Alexandria Ocasio-Cortez ('AOC') wearing business attire, only for the software to recreate her mutiple times in a bikini or low-cut top.
+- Meantime, the researchers were criticised for including AI generated images of AOC in the pre-print paper, thereby exposing her to additional potential sexualisation and other possible abuses.
+- Operator: Alphabet/Google; OpenAI
+- Developer: Alphabet/Google; OpenAI
+- Country: USA
+- Sector: Multiple; Research/academia
+- Purpose: Generate images
+- Technology: Image generation; Neural network; Deep learning; Machine learning
+- Issue: Accuracy/reliability; Bias/discrimination - gender, race
+- Transparency: Black box
+- Google SimCLR
+- Open AI Image GPT ('iGPT')
+- Steed R., Caliskan A. (2021). Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases (pdf)
+URL: https://twitter.com/KendraSerra/status/1354182538147885059
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/
+- Language-generation algorithms are known to embed racist and sexist ideas. They’re trained on the language of the internet, including the dark corners of Reddit and Twitter that may include hate speech and disinformation. Whatever harmful ideas are present in those forums get normalized as part of their learning.
+- Researchers have now demonstrated that the same can be true for image-generation algorithms. Feed one a photo of a man cropped right below his neck, and 43% of the time, it will autocomplete him wearing a suit. Feed the same one a cropped photo of a woman, even a famous woman like US Representative Alexandria Ocasio-Cortez, and 53% of the time, it will autocomplete her wearing a low-cut top or bikini. This has implications not just for image generation, but for all computer-vision applications, including video-based candidate assessment algorithms, facial recognition, and surveillance.
+- Ryan Steed, a PhD student at Carnegie Mellon University, and Aylin Caliskan, an assistant professor at George Washington University, looked at two algorithms: OpenAI’s iGPT (a version of GPT-2 that is trained on pixels instead of words) and Google’s SimCLR. While each algorithm approaches learning images differently, they share an important characteristic—they both use completely unsupervised learning, meaning they do not need humans to label the images.
+- This is a relatively new innovation as of 2020. Previous computer-vision algorithms mainly used supervised learning, which involves feeding them manually labeled images: cat photos with the tag “cat” and baby photos with the tag “baby.” But in 2019, researcher Kate Crawford and artist Trevor Paglen found that these human-created labels in ImageNet, the most foundational image data set for training computer-vision models, sometimes contain disturbing language, like “slut” for women and racial slurs for minorities.
+- The latest paper demonstrates an even deeper source of toxicity. Even without these human labels, the images themselves encode unwanted patterns. The issue parallels what the natural-language processing (NLP) community has already discovered. The enormous datasets compiled to feed these data-hungry algorithms capture everything on the internet. And the internet has an overrepresentation of scantily clad women and other often harmful stereotypes.
+- To conduct their study, Steed and Caliskan cleverly adapted a technique that Caliskan previously used to examine bias in unsupervised NLP models. These models learn to manipulate and generate language using word embeddings, a mathematical representation of language that clusters words commonly used together and separates words commonly found apart. In a 2017 paper published in Science, Caliskan measured the distances between the different word pairings that psychologists were using to measure human biases in the Implicit Association Test (IAT). She found that those distances almost perfectly recreated the IAT’s results. Stereotypical word pairings like man and career or woman and family were close together, while opposite pairings like man and family or woman and career were far apart.
+- iGPT is also based on embeddings: it clusters or separates pixels based on how often they co-occur within its training images. Those pixel embeddings can then be used to compare how close or far two images are in mathematical space.
+- Forget superintelligent AI: algorithms are already creating real harm. The good news: the fight back has begun.
+- In their study, Steed and Caliskan once again found that those distances mirror the results of IAT. Photos of men and ties and suits appear close together, while photos of women appear farther apart. The researchers got the same results with SimCLR, despite it using a different method for deriving embeddings from images.
+- These results have concerning implications for image generation. Other image-generation algorithms, like generative adversarial networks, have led to an explosion of deepfake pornography that almost exclusively targets women. iGPT in particular adds yet another way for people to generate sexualized photos of women.
+- But the potential downstream effects are much bigger. In the field of NLP, unsupervised models have become the backbone for all kinds of applications. Researchers begin with an existing unsupervised model like BERT or GPT-2 and use a tailored datasets to “fine-tune” it for a specific purpose. This semi-supervised approach, a combination of both unsupervised and supervised learning, has become a de facto standard.
+- Likewise, the computer vision field is beginning to see the same trend. Steed and Caliskan worry about what these baked-in biases could mean when the algorithms are used for sensitive applications such as in policing or hiring, where models are already analyzing candidate video recordings to decide if they’re a good fit for the job. “These are very dangerous applications that make consequential decisions,” says Caliskan.
+- Deborah Raji, a Mozilla fellow who co-authored an influential study revealing the biases in facial recognition, says the study should serve as a wakeup call to the computer vision field. “For a long time, a lot of the critique on bias was about the way we label our images,” she says. Now this paper is saying “the actual composition of the dataset is resulting in these biases. We need accountability on how we curate these data sets and collect this information.”
+- Steed and Caliskan urge greater transparency from the companies who are developing these models to open source them and let the academic community continue their investigations. They also encourage fellow researchers to do more testing before deploying a vision model, such as by using the methods they developed for this paper. And finally, they hope the field will develop more responsible ways of compiling and documenting what’s included in training datasets.
+- Caliskan says the goal is ultimately to gain greater awareness and control when applying computer vision. “We need to be very careful about how we use them,” she says, “but at the same time, now that we have these methods, we can try to use this for social good.”
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://onezero.medium.com/men-wear-suits-women-wear-bikinis-image-generating-algorithms-learn-biases-automatically-eee3d8a56f2e
+- Member-only story
+- Dave Gershgorn
+- Follow
+- OneZero
+- --
+- 7
+- Share
+- OneZero’s General Intelligence is a roundup of the most important artificial intelligence and facial recognition news…
+- --
+- --
+- 7
+- OneZero
+- Senior Writer at OneZero covering surveillance, facial recognition, DIY tech, and artificial intelligence. Previously: Qz, PopSci, and NYTimes.
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 27
+- Jack Cohen
+- in
+- OneZero
+- --
+- 56
+- Owen Williams
+- in
+- OneZero
+- --
+- 34
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 39
+- Rui Alves
+- in
+- The Generator
+- --
+- 47
+- Thomas A Dorfer
+- in
+- Towards Data Science
+- --
+- 9
+- Kasper Müller
+- in
+- Cantor’s Paradise
+- --
+- 6
+- Chris Newman
+- --
+- 71
+- Rachel Greenberg
+- in
+- Entrepreneur's Handbook
+- --
+- 18
+- Clayton Moulynox
+- in
+- The Generator
+- --
+- 8
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai
+- New research on image-generating algorithms has raised alarming evidence of bias. It’s time to tackle the problem of discrimination being baked into tech, before it is too late
+- Want to see a half-naked woman? Well, you’re in luck! The internet is full of pictures of scantily clad women. There are so many of these pictures online, in fact, that artificial intelligence (AI) now seems to assume that women just don’t like wearing clothes.
+- That is my stripped-down summary of the results of a new research study on image-generation algorithms anyway. Researchers fed these algorithms (which function like autocomplete, but for images) pictures of a man cropped below his neck: 43% of the time the image was autocompleted with the man wearing a suit. When you fed the same algorithm a similarly cropped photo of a woman, it auto-completed her wearing a low-cut top or bikini a massive 53% of the time. For some reason, the researchers gave the algorithm a picture of the Democratic congresswoman Alexandria Ocasio-Cortez and found that it also automatically generated an image of her in a bikini. (After ethical concerns were raised on Twitter, the researchers had the computer-generated image of AOC in a swimsuit removed from the research paper.)
+- Why was the algorithm so fond of bikini pics? Well, because garbage in means garbage out: the AI “learned” what a typical woman looked like by consuming an online dataset which contained lots of pictures of half-naked women. The study is yet another reminder that AI often comes with baked-in biases. And this is not an academic issue: as algorithms control increasingly large parts of our lives, it is a problem with devastating real-world consequences. Back in 2015, for example, Amazon discovered that the secret AI recruiting tool it was using treated any mention of the word “women’s” as a red flag. Racist facial recognition algorithms have also led to black people being arrested for crimes they didn’t commit. And, last year, an algorithm used to determine students’ A-level and GCSE grades in England seemed to disproportionately downgrade disadvantaged students.
+- As for those image-generation algorithms that reckon women belong in bikinis? They are used in everything from digital job interview platforms to photograph editing. And they are also used to create huge amounts of deepfake porn. A computer-generated AOC in a bikini is just the tip of the iceberg: unless we start talking about algorithmic bias, the internet is going to become an unbearable place to be a woman.
+- Arwa Mahdawi is a Guardian columnist
+- 
+
+URL: https://www.theregister.com/2021/02/01/ai_in_brief/
+
+URL: https://www.hitc.com/en-gb/2021/02/04/alexandria-ocasio-cortez-in-a-bikini/
+- An AI-produced image of Alexandria Ocasio-Cortez in a bikini has caused a stir on both social media and the world of tech. Read on to find out what happened and why people are not-so-happy.
+- A recently published academic paper sought to look into the biases in image-producing AI—from women being shown in revealing clothes to black people being shown holding weapons.
+- Essentially, AIs often use internet-based training data, to be able to generate and predict the rest of images. To prove the issue, the paper used an example of Alexandria Ocasio-Cortez in a pant suit. However, the AI finished the image of the US congresswoman almost always with her in a bikini or a low-cut top.
+- According to The Register, the authors studied Google’s SIMCLR and OpenAI’s iGPT and found the latter showed women in swimwear or low-cut tops 53% of the time, while men only 7.5%. Men however were shown in suits of career-specific clothing 42.5%.
+- For the most part, the main concern here with researchers is the potential this bias has to create unethically sexualised images of women: “This shows how the incautious and unethical application of a generative model like iGPT could produce fake, sexualized depictions of women [in this case, a politician]” they wrote.
+- Many have noted that this is just the tip of the iceberg, with deepfake pornography of women rising in popular culture, such as 16-year-old Charli D’Amelio. While Arwa Mahdawi also notes for The Guardian, that this latest finding is reflective of bias in AI, from sexist AI recruiting tools and racist facial recognition.
+- Deborah Raji told Technology Review that this is also a wake-up call for looking at what data-sets AI use: “For a long time, a lot of the critique on bias was about the way we label our images […].The actual composition of the dataset is resulting in these biases. We need accountability on how we curate these data sets and collect this information.”
+- Originally, pixelated versions of the edited images of Alexandria Ocasio-Cortez in a bikini were used in the academic paper.
+- However, many on social media pointed out that adding the images into the texts may not be beneficial, especially as the paper was uploaded online.
+- “You produced fake partially clothed shots of a woman of colour who has been historically harassed online. And then you put them (albeit pixelated, thank God), in a paper,” questioned one reader.
+- In response, the authors have updated the paper to remove the images and will submit the paper without them too.
+
+URL: https://towardsdatascience.com/algorithms-are-not-sexist-we-are-795525769e8e
+- Sign up
+- Sign In
+- Sign up
+- Sign In
+- Member-only story
+- Alan Jones
+- Follow
+- Towards Data Science
+- --
+- Listen
+- Share
+- If you believe the AI that created male and female images from pictures of their heads, men typically wear suits, while women prefer low-cut tops and bikinis.
+- It’s been reported in the press that this is evidence that the future of AI is sexist. The argument being that because the internet is awash with pictures of scantily-clad females, AI will assume that this is normal.
+- A fair point? Not necessarily — the whole point of this research was to demonstrate the danger of inheriting biases from data that has been collected from human activity.
+- The experiment used the ImageNet library that is commonly used in the training of AI and comprises millions of different images tagged with a description. Using these images they trained an AI to create a full body image from the image of someone’s head. Feeding in the image of a man’s head resulted in the creation of a man in a suit 43% of the time. But with a woman’s head 53% of the full body images were of women in bikinis or low-cut tops — this included one derived from a head shot of the Democratic congresswoman, Alexandria Ocasio-Cortez.
+- Clearly, the results reflect the content of the image database. If you were to repeat the experiment but with images of people on the red carpet at the Oscars ceremony, the AI would surely conclude that all men wore black ties and most women favored revealing dresses. And any use of that AI would reflect those biases.
+- What does this tell us? It’s not that AI is inherently biased, it’s that we can’t simply rely on data that reflects the biased outlook of the people who were responsible for that data.
+- Neither ImageNet, nor the internet, reflect real life. People post stuff on the internet, whether it be images on Flickr, posts on Facebook, Twitter, Instagram or whatever, to provoke a reaction. And while there are some folk (ok, lots of folk) who try for a negative impact, it seems to me that mostly people post stuff they like.
+- It would see a Porsche as more car-like than a Volkswagen Beetle
+- If you trained an AI to recognize cars from pictures on Flickr, you’d probably find it would be more confident in identifying a Ford Mustang than a Ford Fiesta; it would see a Porsche as more car-like than a Volkswagen Beetle.
+- Does that mean that most cars are high end sports models? No, of course not. There are more posts of this type of car because people are more impressed by them.
+- I repeat: the internet does not reflect reality. So, neither will any AI that is unthinkingly based upon its content. Or, for that matter, any information that has been compiled by flawed human beings (that would be all of us, of course).
+- In a different context, Reuters, in 2018, reported that Amazon had abandoned an AI recruiting system because it could not rid it of gender bias. The bias came from historical data of previous recruits. It’s getting better but, in the past, technical and programming jobs were almost entirely done by men. So, among the characteristics of successful employees in these fields was the fact that they were male.
+- So, when the AI looked at new potential recruits it favored men
+- That’s not to say that a woman could not have done those jobs equally well, it’s that they didn’t apply for them in what was then a male-dominated industry. So, when the AI looked at new potential recruits it favored men.
+- Amazon’s approach to solve the problem was to try and eliminate all references to gender in the job applications. But this proved to be an impossible task because clues to gender information could be hidden in many parts of a candidate’s profile: the school or college that they went to, the sports that they played, the hobbies that they enjoyed.
+- To Amazon’s credit, it recognised the problem and tried to fix it. And if it had had more up-to-date information, perhaps the bias could have been avoided.
+- Because it’s not that AI can’t help being biased. Machine Learning algorithms that detect cancers are trained on images that are known to be cancerous, so the potential for bias is remote. Not only that but those images are reviewed by an expert, so it is a human, aided by the AI, who makes the final judgement about whether an intervention is appropriate or not.
+- Presumably it was human judgement that brought the failure of Amazon’s recruitment system to light, too. So, using a real person as the ultimate decision maker is one solution to an inadequate AI.
+- Machine Learning produces black-box systems
+- Another is explainability. Machine Learning produces black-box systems whose decision making processes are opaque to the human user. But newer, more powerful systems could provide explanations for their decisions enabling the users to understand their reasoning or to allow their designers to fix any bugs.
+- So, problems can occur when the data is compiled by people or reflects historical decisions made by people who cannot be relied upon to be completely fair and unbiased — in other words, anyone.
+- Perhaps a better approach to Amazon’s problem would have been to encode more positive female data — maybe rating newer female recruits more highly than older male ones — rather than trying to eliminate gender information altogether. And as far as the image construction of men and women is concerned, maybe eliminating certain types of image before training could have been a solution.
+- But maybe the best solution is to use AI as an adjunct to human decision-making. Maybe it’s better to let AI enhance human performance and use it as an aid rather than a replacement — particularly when it gets to the point where it can better explain itself.
+- --
+- --
+- Towards Data Science
+- Technology, data science and programming
+- Alan Jones
+- in
+- Towards Data Science
+- --
+- Jacob Marks, Ph.D.
+- in
+- Towards Data Science
+- --
+- 39
+- Leonie Monigatti
+- in
+- Towards Data Science
+- --
+- 18
+- Alan Jones
+- in
+- Towards Data Science
+- --
+- 9
+- Thomas A Dorfer
+- in
+- Towards Data Science
+- --
+- 9
+- Dr. Roi Yehoshua
+- in
+- Towards Data Science
+- --
+- 2
+- Alexander Nguyen
+- in
+- Level Up Coding
+- --
+- 128
+- The PyCoach
+- in
+- Artificial Corner
+- --
+- 379
+- Kasper Müller
+- in
+- Cantor’s Paradise
+- --
+- 6
+- Sam Westreich, PhD
+- --
+- 17
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.heise.de/news/Algorithmen-zur-Bildgenerierung-Maenner-tragen-Anzuege-Frauen-Bikinis-5043035.html
+- 
+- 
+- Algorithmen können inzwischen täuschend echt Fotos aus Bildteilen vervollständigen. Die Ergebnisse sind offenbar so sexistisch wie das Trainingsmaterial.
+- Wohl kein Trainingsfoto für die KI
+- (Bild: fizkes/Shutterstock.com)
+- Auch Algorithmen zur automatischen Generierung von Fotos sind nicht frei von menschlichen Vorurteilen beziehungsweise Stereotypen. Davor warnen die US-Forscher Ryan Steed und Aylin Caliskan nach einer Analyse der beiden wichtigsten dieser Modelle, die gegenwärtig zur Bildvervollständigung eingesetzt werden. Sowohl iGPT als auch SimCLRv2 lernen unbeaufsichtigt fotorealistische Bilder zu erstellen, und zwar anhand von unbeschrifteten Daten. Auch wenn diese erkannte Quelle von Vorurteilen aber eliminiert sei, reproduzierten sie unter anderem sexistische Vorurteile, schreiben die Forscher.
+- iGPT ist ein Algorithmus des Forschungslabors OpenAI aus San Francisco. Das ist vor allem für seine KI-Technik zur Generierung von Texten bekannt, darauf basiert auch iGPT, nur eben spezialisiert auf Fotos. Aus Pixelfolgen eines Bildteils kann die Software auf den Rest eines Bildes schließen und beeindruckte die Fachwelt damit im vergangenen Jahr. SimCLRv2 arbeitet ähnlich und wurde bei Google entwickelt. Beide lernen unbeaufsichtigt mit der beliebtesten Bilddatenbank für Deep Learning, ImageNet. Forscher hatten bereits auf Probleme mit den Beschriftungen in dieser Datenbank hingewiesen, doch die Schwierigkeiten liegen offenbar noch tiefer.
+- Wie die beiden Forscher nun ermittelt haben, haben beide Algorithmen auch ohne die Metadaten stereotypische Kategorisierungen übernommen. So würden etwa Fotos von Männern und solche von Anzügen enger zueinander in Beziehung gesetzt, als das bei Frauen der Fall sei. Besonders deutlich wird das Problem aber bei der Vervollständigungsaufgabe. So seien Porträts von Frauengesichtern in mehr als 50 Prozent der Versuche um Körper mit großen Brüsten in Badeanzügen oder mit tief ausgeschnittenen Oberteilen ergänzt worden. Männliche Gesichter bekamen derart sexualisierte Oberkörper nur in weniger als 10 Prozent der Fälle spendiert. Stattdessen hätten sie häufig einen Anzug oder berufsspezifische Kleidung bekommen. Die beiden Forscher haben das unter anderem an einem Foto der US-Politikerin Alexandria Ocasio-Cortez getestet, die stark verpixelten Ergebnisse nach Kritik aber aus der Arbeit entfernt, um nicht ihrerseits an der Sexualisierung mitzuwirken.
+- Die Technology Review aus den USA erinnert angesichts der Arbeit daran, dass auch die Geschichte der Deepfakes mit falschen Pornovideos begonnen hat, bei denen es fast ausschließlich um die Generierung von Videos von Frauen gegangen war. Steed und Caliskan wollen ihre Arbeit als Warnung an die Forschergemeinde verstanden wissen, dass Algorithmen menschliche Vorurteile reproduzieren. Das hatten unlängst Forscher für die Sprach-KI GPT-3 unter Beweis gestellt und dargelegt, dass diese Vorurteile gegen den Islam offenbar deutlich tiefer verinnerlicht hat, als bislang gedacht. Das Sprachmodell repliziert antimuslimische Stereotypen stetig und äußerst kreativ, hatten sie mit ausgefeilten Tests belegt.
+- (mho)
+- Keine News verpassen! Jeden Morgen der frische Nachrichtenüberblick von heise online
+- Ausführliche Informationen zum Versandverfahren und zu Ihren
+    Widerrufsmöglichkeiten erhalten Sie in unserer
+    Datenschutzerklärung.
+- 
+- All you can read: Alle Magazine und zusätzliche exklusive Artikel wie Tests, Ratgeber und Hintergrundberichte auf heise online lesen. Nur für kurze Zeit!
+
+URL: https://mixed.de/ki-vorurteil-alexandria-ocasio-cortez-traegt-meistens-bikini/
+- THE-DECODER.de
+- Künstliche Intelligenz: News, Business, Forschung
+- Forscher weisen nach, dass sich Vorurteile in Text-KIs wie GPT-3 auch auf die Bildgenerierung übertragen.
+- Erst kürzlich zeigten Forscher, dass sich in OpenAIs Text-KI GPT-3 verheerende Vorurteile gegenüber Anhängern verschiedener Glaubensrichtungen verbergen: Bei einem Experiment sollte GPT-3 hundertmal den Satz „Zwei Muslime kommen in ein …“ fortführen. In 66 der 100 Fälle zeigte die maschinelle Ergänzung einen Kontext zu Gewalttaten. Schlimmer noch: Sie schuf dabei neue Vorurteile, statt im Datensatz vorhandene Vorurteile nur zu wiederholen.
+- Die Wissenschaftler Ryan Steed von der Carnegie Mellon und Aylin Caliskan von der George Washington Universität untersuchten jetzt, ob sich solche Vorurteile neben Text- auch auf Bildergänzungen übertragen. Auf den Prüfstand kamen OpenAIs Bild-KI iGPT, die auf GPT-2 basiert, und Googles SimCLR.
+- Beide Systeme wurden unüberwacht mit Bildern aus dem Internet trainiert. Unüberwacht heißt, dass die Bilder vor dem KI-Training nicht explizit von Menschen für den Trainingszweck beschriftet wurden.
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+- Stattdessen sucht die Künstliche Intelligenz eigenständig nach Mustern in den Daten und analysiert, wie häufig bestimmte Bild-Pixel gemeinsam auftreten und in welcher Distanz, clustert die Bild-Pixel entsprechend und generiert dann auf Basis dieser Clusterung Bildergänzungen oder, wie bei OpenAIs Dall-e, komplett neue Motive.
+- Bei diesem Analysevorgang entdeckt Künstliche Intelligenz zwangsläufig jene Muster, mit denen Menschen im Alltag häufig ihre Umwelt sortieren: Vorurteile und Klischees. Bei der Generierung neuer Inhalte greift die KI auf sie zurück wie auf einen Leitfaden.
+- Dass dieser Mechanismus auch bei der Bildgenerierung greift, zeigt jetzt die Studie von Steed und Caliskan: Porträtbilder von Männern bis zum Hals wurden in 43 Prozent der Fälle mit einem Anzug ergänzt oder ähnlichen Kleidungsstücken, die mit Karriere assoziiert werden können.
+- Der gleiche Bildausschnitt einer Frau wurde in 53 Prozent der Fälle mit einem Bikini oder einem tief ausgeschnittenen Kleidungsstück ergänzt. Dieses maschinelle Vorurteil greift selbst bei Bildern bekannter Frauen wie der US-Senatorin Alexandria Ocasio-Cortez.
+- Die Forscher testeten auch, welche Gegenstände die Bild-KIs in die Hand einer Person ergänzen. Das Ergebnis: Weiße wurden primär mit Werkzeugen in der Hand gezeigt, Schwarze mit Waffen.
+- Steed und Caliskan fordern mehr Transparenz von Unternehmen, die Zugang zu entsprechenden KI-Systemen oder vortrainierte Modelle anbieten, auf deren Basis andere Unternehmen und Entwickler wiederum neue KI-Systeme aufbauen. Außerdem sollten Wissenschaftler Zugang zu Open-Source-Modellen bekommen für weitere, umfangreichere Untersuchungen.
+- „Diese Modelle können alle Arten von schädlichen menschlichen Vorurteilen aus Bildern enthalten, die wir ins Internet stellen, und wir müssen genau darüber nachdenken, wer sie erstellt, wie und warum“, schreibt Steed.
+- Wie die KI-Branche das Vorurteilsproblem von mit Internetdaten trainierten KI-Systemen überwinden kann, ist noch nicht klar. Das dürfte mit ein Grund sein, weshalb beispielsweise OpenAI die Sprach-KI GPT-3 nur ausgewählten Kunden zugänglich macht und bei der neuen Bild-KI Dall-e bislang ganz auf eine Veröffentlichung verzichtet.
+- Der Schritt zurück zu sorgfältig durch Menschen zusammengestellte und bewertete Datensätze könnte die zuletzt extrem schnelle Fortentwicklung von KI-Technik ausbremsen – und wäre außerdem auch kein Garant für ein vorurteilsfreies KI-System.
+- Quellen: Technologyreview, Arxiv, Twitter
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+
+- GPT-3 anti-Muslim bias
+- GPT-2 dupes Medicaid
+- Page infoType: IncidentPublished: February 2021

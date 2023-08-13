@@ -1,0 +1,465 @@
+- Occurred: February 2021
+- Can you improve this page?Share your insights with us
+- A report by CNBC finds Amazon drivers are being monitored by Mentor, an app that promises to improve driver safety by  generating a 'FICO' score each day that measures their driving performance.
+- However, drivers say the app is often inaccurate, can lead to unfair disciplinary action, including loss of bonuses and perks. Mentor can also be invasive, tracking drivers' location after they clock out from work.
+- Amazon also recently started using AI cameras in delivery vans to monitor driver behaviour and flag safety issues.
+- Operator: Amazon Developer: Solera/eDriving Country: USA Sector: Transport/logistics Purpose: Assess delivery driver performanceTechnology: Performance scoring algorithm Issue: Accuracy/reliability; Fairness; Privacy; Surveillance Transparency: Governance; Black box
+URL: https://www.edriving.com/mentor-dsp-by-edriving-driver-guide/
+
+URL: https://www.cnbc.com/2021/02/12/amazon-mentor-app-tracks-and-disciplines-delivery-drivers.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- Last week, Amazon triggered privacy concerns when it confirmed it's rolling out AI-enabled cameras in vans used by some of its contracted delivery partners. But the company has for years been using software to monitor and track delivery drivers' behavior on the road.
+- Amazon requires contracted delivery drivers to download and continuously run a smartphone app, called "Mentor," that monitors their driving behavior while they're on the job. The app, which Amazon bills as a tool to improve driver safety, generates a score each day that measures employees' driving performance.
+- The delivery service partner (DSP) program, launched in 2018, is made up of contracted delivery companies that handle a growing share of the online retail giant's last-mile deliveries. In just a few years, the program has grown to include more than 1,300 delivery firms across five countries, threatening to upend an industry that has traditionally been dominated by shipping partners such as UPS and FedEx.
+- Just like the AI-equipped cameras rolling out to contracted delivery companies, Mentor is framed as a "digital driver safety app" to help employees avoid accidents and other unsafe driving habits while they're en route to their destination. But multiple delivery drivers who spoke to CNBC described the app as invasive and raised concerns that bugs within the app can, at times, lead to unfair disciplinary action from their manager.
+- Amazon spokesperson Deborah Bass told CNBC in a statement: "Safety is Amazon's top priority. Whether it's state-of-the art telemetrics and advanced safety technology in last-mile vans, driver-safety training programs, or continuous improvements within our mapping and routing technology, we have invested tens of millions of dollars in safety mechanisms across our network, and regularly communicate safety best practices to drivers."
+- But Bass did not respond to any of the specific allegations DSP drivers made to CNBC about the Mentor app detailed in this story, as well as questions about how the app uses certain behaviors to score drivers.
+- The scores generated by the Mentor app are used in more ways than just evaluating an individual's job performance, drivers say. Amazon also looks at the scores, in part, when ranking a delivery partner's status, according to the drivers, who asked to remain anonymous out of fear of retaliation from Amazon.
+- The ranking system for DSPs ranges from "Poor" to "Good" to "Fantastic" to the top tier, referred to as "Fantastic+." A surplus of poor Mentor scores among a delivery partner's workforce can drag down the DSP's ranking, which can potentially jeopardize their access to benefits provided by Amazon, such as optimal delivery routes, the drivers said.
+- The app also features a dashboard for drivers to "see how they stack up against the rest of their team." Mentor's score-based system raises concerns that the app intensifies the pressure of the job, pitting drivers and competing DSPs against each other to an unhealthy degree.
+- DSPs are already under intense pressure due to the ease with which Amazon can cut contracts with delivery partners.
+- "The knowledge that you're under this level of constant surveillance, that even if you're doing a good job at your job, an app or algorithm could make a determination that impacts your life or your ability to put food on the table for your kids is, I think, profoundly unjust," said Evan Greer, deputy director of the digital rights group Fight for the Future. "It's incredibly dystopian."
+- The Mentor app was created by eDriving, a New Jersey-based technology company that develops road safety tools for the automotive and logistics industries. Representatives from eDriving did not respond to requests for comment.
+- Amazon drivers are required to log into the Mentor app at the start of their shift each day. The app calculates a score for every driver, referred to as a "FICO score," based on their driving performance, and not to be confused with the credit rating of the same name.
+- The app tracks and measures driving behaviors such as harsh brakeing, speeding, making cellphone calls or sending text messages, according to a Mentor guide for DSP drivers. The app also tracks seatbelt use and driving in reverse, but those behaviors don't factor into a driver's FICO score.
+- Mentor has a tiered system for scoring, with a top score of 800 to 850 considered to be "Great," while a score of 100 to 499 is considered to be the lowest level, or labeled by the app as "Risky." It's unclear how many points each infraction is worth, but drivers say some infractions can hurt their FICO score more than others.
+- The safety infractions don't have to be severe in order to drag down a driver's score on the Mentor app.
+- "I got a ding because someone called me and I didn't answer it," said Devin Gonzales, a former driver who was fired by his Colorado-based DSP last month. The Mentor app had falsely flagged the incoming call as an infraction because it thought the phone was in use while he was driving.
+- "I had no control over it," Gonzales added.
+- At other DSPs across the U.S., delivery drivers said they experienced issues with the Mentor app. Adrienne Williams, who drove for Amazon until last July, ran the Mentor app on an electronic package scanner, referred to internally as a "rabbit." Drivers use the rabbit to indicate when they arrive at each delivery stop on their route, among other uses.
+- Williams said she grew frustrated as she would pick up the rabbit device to mark her stop, while her van idled, but the Mentor app would log the action as distracted driving. As a result, Williams would see her Mentor score drop each time she arrived at a delivery destination.
+- "Every time I said I'm at the stop, I got dinged," Williams said in an interview. "And that is 150 stops in a day, so I got dinged at least 150 times a day."
+- After this pushed her score from the "high 700s and 800s" to around the 400 level, "[the Mentor app] said my driving was risky," Williams said. "I got pulled aside and told your FICO score is too low."
+- Williams' DSP later gave her another rabbit device, just to run the Mentor app. She said she would keep the device locked in her van's glove compartment to avoid any bugs with the app and to preserve her FICO score.
+- DSPs can use data collected by the Mentor app for employment decisions, including disciplinary actions like write-ups. Drivers say if their score falls below a certain threshold, they can be taken off the work schedule for a few days or a week, lose access to bonuses and be barred from certain perks. For example, some DSPs will pay drivers for a full day's shift if they finish their work early, but if a driver's FICO score is too low, they'll only get paid for the hours they complete, drivers said.
+- On Reddit forums and in Facebook groups, DSP drivers will share tips on how to game the Mentor app and raise their score. Some of the tips can be particularly convoluted.
+- In one YouTube video, a DSP driver instructs employees to wrap the phone with Mentor installed in a sweater and place it in the van's glovebox so that it doesn't jostle around while the car is in motion, which the app can mistake as the driver using their device.
+- "If your device moves at all, it's going to count against you," the driver, Juan Ramos, says in the video. "You have a bigger chance of making your score go down."
+- While the Mentor app is meant to make drivers adopt safer driving habits, some DSP employees said it pushes them to take risks, as they worry the extra steps may slow them down and draw a rebuke from managers who expect speedy deliveries.
+- The Mentor app is capable of tracking whether a driver is using their seatbelt if they're driving an Amazon-branded van. Some drivers will fasten their seatbelt, but place the strap that typically rests across their chest behind them, so they can more easily move about while they're driving, while avoiding an infraction from the Mentor app.
+- "Most drivers buckle, put the seatbelt behind them and drive without a seatbelt on, which is unsafe," said one DSP driver from Ohio.
+- If a driver feels the Mentor app has incorrectly flagged them, they can dispute it in the app. But that doesn't always lead to a resolution.
+- "After you dispute it, they'll email you back and say, 'We're sorry,' and that's it," said the DSP driver from Ohio. "It's not a very robust system. I don't think [eDriving] understands how important a driver's score is."
+- The Mentor app is a central focus of DSP drivers' day-to-day life on the job as they work to keep up their safety score. But the app may also follow drivers outside of their delivery van and into their homes.
+- Some DSPs provide drivers with a company-issued phone where they can download and run Mentor, but several drivers told CNBC that they weren't provided with a separate device by their company, so they were required to download the app on their personal device.
+- The Mentor app tracks a users' location using GPS. Privacy features in Apple's iOS operating system for iPhones prompt users via a pop-up message on the screen to select whether they'd like an app to run location services in the background just once, only while they're using the app or all the time. Drivers are told to allow the Mentor app to collect location data at all times.
+- "When this message appears, you are presented with two options, 'Change to Only While Using' or 'Always Allow,'" the Mentor guide issued to DSP drivers states. "This setting should remain 'Always Allow' in order to accurately record trips."
+- Williams said her Richmond, California-based DSP didn't provide drivers with a phone, so they were expected to download Mentor on their own device. Williams said she refused and the DSP gave her a different phone, but most of her co-workers were too apprehensive to voice their concerns, so they agreed to let Mentor track their location without any restrictions.
+- "A lot of my colleagues said it put them off but they didn't know what to do," Williams said. "So you're stuck saying, 'I'm going to allow my employer to follow me at all times on my personal phone.'"
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://mashable.com/article/amazon-mentor-delivery-driver-monitoring-app
+- Amazon's app to monitor drivers while in delivery vehicles is called "Mentor" but it doesn't seem to be helping those workers.
+- A CNBC report(opens in a new tab) about the tracking app(opens in a new tab) comes after Amazon confirmed(opens in a new tab) on Feb. 3 that it is using AI cameras in vans to monitor driver behavior and flag any safety issues. Those cameras(opens in a new tab) are used on top of the separate driver safety app. The app is tracking the driver at all times either on an Amazon-provided device or on drivers' personal cellphones.
+- Mentor is made by eDriving, which describes the app on its website(opens in a new tab) as a "smartphone-based solution that collects and analyzes driver behaviors most predictive of crash risk and helps remediate risky behavior by providing engaging, interactive micro-training modules delivered directly to the driver in the smartphone app."
+- But CNBC(opens in a new tab) talked to drivers who said the app mostly invades their privacy or miscalculates dangerous driving behavior. One driver said even though he didn't answer a ringing phone, the app docked points for using a phone while driving. Another worker was flagged for distracted driving at every delivery stop she made. The incorrect tracking has real consequences. ranging from restricted payouts and bonuses to job loss.
+- The app gives a safety score which is used to rank drivers and compare them to colleagues. The App Store description calls this "a little friendly competition!" The app also tracks braking, acceleration, cornering, speeding, and distraction. CNBC reported that seatbelt use is another factor for the safety score.
+- Drivers have come up with creative workarounds to appease the Mentor app, which often determines any movement as a sign of distracted driving. Reddit and other online forums, as well as YouTube videos, give advice on how to keep your Mentor score high while doing your job. Being forced to game an app instead of focusing on the task of driving and getting packages delivered sure sounds safe.
+- 
+- More in
+Amazon, Cybersecurity, Privacy
+- Sasha is a news writer at Mashable's San Francisco office. She's an SF native who went to UC Davis and later received her master's from the UC Berkeley Graduate School of Journalism. She's been reporting out of her hometown over the years at Bay City News (news wire), SFGate (the San Francisco Chronicle website), and even made it out of California to write for the Chicago Tribune. She's been described as a bookworm and a gym rat.
+
+URL: https://www.businessinsider.com/amazon-scores-delivery-workers-driving-skills-using-tracking-app-2019-12
+- Jump to
+- 
+- 
+- 
+- Amazon contractors are using an app to track legions of delivery workers and score their driving behavior on a scale of 0 to 850, according to interviews with Amazon drivers.
+- The app, called Mentor, is designed to encourage safe driving and penalizes Amazon drivers' scores for hard braking, swerving around corners, rapid acceleration, speeding, and phone distraction.
+- Drivers are dinged for distraction if they pick up or touch their phone while their vehicles are in motion. If workers are driving a branded Amazon van outfitted with a telematics device, the app will track whether they are wearing a seat belt while their vehicle is moving faster than 6 mph and record how many times the van reverses more than 5 yards, according to interviews and information available on a support site for Amazon drivers using the Mentor app.
+- Mentor provides daily reports detailing workers' driving scores and any behavior that earned them penalties, which the app calls "events." Each event is linked to a corresponding map showing exactly when and where the bad behavior was recorded.
+- Data collected by Mentor is shared with drivers' managers, according to eDriving, the company that developed the app.
+- "The manager has access to daily, weekly, and monthly reporting for each driver, including the number of acceleration, braking, cornering, distraction and speeding events, number of trips, hours & miles driven, seat belt violations, engine off incidents, reversing incidents, fuel efficiency (MPG), coaching modules assigned, coaching modules viewed, and pre-trip and post-trip daily vehicle condition reports (DVCRs)," eDriving says on its support website for Amazon drivers.
+- eDriving said it was unavailable to comment on this story.
+- Amazon has been scrutinized in the past for tracking warehouse workers' productivity and in some cases using the data collected to support firings. None of the Amazon drivers Business Insider interviewed for this story said Mentor scores had been used to fire workers. (Mentor's support site for Amazon drivers warns, however, that improper recording of damage to vehicles through the app can result in termination).
+- In fact, some delivery workers are rewarded with bonuses for high Mentor scores, drivers said.
+- "Safety is Amazon's top priority," Amazon said in a statement to Business Insider. "Whether it's state-of-the art telemetrics and advanced safety technology in last-mile vans, driver-safety training programs, or continuous improvements within our mapping and routing technology, we have invested tens of millions of dollars in safety mechanisms across our network, and regularly communicate safety best practices to drivers."
+- eDriving says on its website that Mentor can help managers identify which of their drivers are most likely to be involved in a collision and why.
+- "Our driver risk management program helps organizations reduce collisions, injuries, license violations, and total cost of fleet ownership," eDriving's site says. The company's site says it is the largest provider of online driver training and driver risk management with more than 10 million US consumer customers and 700,000 fleet drivers globally.
+- The Amazon drivers who use the Mentor app are employed by third-party companies that Amazon calls delivery service partners. DSPs are contracted by Amazon to deliver packages to customers.
+- The eDriving Mentor support site for Amazon drivers says: "We know that 94% of collisions are not accidents at all, but the result of driver attitudes or behaviors. By addressing driver behavior, we can achieve a target of Zero Collisions. Your managers are committed to your safety and will actively reinforce and reward driving expectations."
+- When Amazon drivers arrive to work, they are required to sign into the Mentor app on a phone or work device, scan a QR code on the vehicle they will be driving that day, and record any damage to the vehicle, according to eDriving's website.
+- While drivers complete their shifts, the app is running in the background and tracking their behavior.
+- "Interact with your phone only when stopped at a delivery locations and NEVER while the vehicle is moving," an eDriving pamphlet says. "Minimize reversing throughout your route. Turn off your vehicle at every delivery location, before exiting the vehicle."
+- The eDriving site says these are some of the behaviors Mentor monitors and provides feedback on:
+- A score of 800 to 850 is considered "great" and 500 to 599 is considered "poor." Under 500 is considered "risky," the site says.
+- Some drivers have complained that the app isn't always accurate and dings them for touching their phones even when their trucks are stopped.
+- "Mentor itself in the mind of the driver is a distraction," said a Denver-based Amazon driver, who asked to remain anonymous for fear of retribution. "I actually think it makes me less safe as a driver."
+- "I'm always concerned that I'm going to get a hard-brake ding when the light turns yellow," he added. "I have this huge van that is heavy and I am coming down a hill, so I have to brake hard when the light turns yellow. But I am thinking about, 'Oh no, my Mentor score — should I just run the light?' Or should I hard brake?"
+- A Fort Lauderdale, Florida-based driver said the Mentor app could sometimes produce inaccurate "hits" but overall had made him a safer driver.
+- "Now I put my cellphone in a cupholder where I can see the screen without touching it in case I have an emergency call or something," said this person, who asked to remain anonymous for fear of retribution. "For me, that's keeping me from being distracted while driving."
+- Amazon is not the only carrier monitoring its drivers on the road.
+- FedEx and UPS also use telematics, which broadly refers to fleet-monitoring technology, to track its vehicles and drivers.
+- FedEx didn't provide any specifics on its systems but described safety as its "highest priority" and said "across our vast enterprise, we are enabling the use of modern and emerging vehicle and on-road safety technologies designed to protect our employees, customers, service providers, and the communities in which we operate."
+- The UPS representative Dan McMackin said the company's data collection was geared more toward preventing vehicle maintenance issues than tracking driver behavior.
+- "Before telematics, all vehicles would get certain levels of maintenance based on time in service," McMackin said. "With telematics, we are getting closer to 'individualized preventative maintenance,' where each truck and each truck's parts are tracked for wear and performance."
+- The company has sensors on the engine, brakes, starters, and batteries, he said.
+- "We now know before a battery dies when it will die," he said. "We can keep track of different manufacturers' parts to see what is outlasting other suppliers' version of the same part, and we can get better warranty claims performance as well."
+- The company also monitors for excessive backing up, hard braking, and whether drivers are wearing their seat belts and keeping the bulkhead door — the door behind the driver — closed while the vehicle is in motion.
+- "If a driver isn't making seat-belt use a habit, or has formed other bad habits, we use the telematics report as an awareness tool, discussing with the driver issues related to safety," McMackin said. "If necessary, we have a supervisor go on a methods ride to help the driver improve their adherence to proven UPS best practices."
+- Got a tip? Contact this reporter via encrypted messaging app Signal at +1 (646) 768-4757, email at hpeterson@businessinsider.com, or Twitter DM at @hcpeterson.
+- Read next
+
+URL: https://www.theverge.com/2021/2/12/22280585/amazon-mentor-app-delivery-drivers-location-tracking-performance
+- By  Nick Statt
+- Amazon built its own in-house mobile app called Mentor that it uses to track the location and rate the performance of third-party delivery drivers, according to a new report from CNBC. The app tracks a driver’s location at all times and also generates a daily score that factors into performance evaluations, with low scores potentially harming a third-party delivery company’s relationship with Amazon for future contracts, the report states.
+- Amazon bills the app as a tool for improving safety, but both drivers and privacy proponents cited by CNBC worry the Mentor software is also a tool for surveillance of drivers and as another form of pressure applied on the workers to ensure they’re delivering packages as fast as possible. Earlier this month, an Amazon promotional video posted online revealed a new initiative involving always-on security cameras from a firm called Netradyne that are similarly used to monitor and measure a driver’s performance, causing alarm among privacy advocates.
+- “Safety is Amazon’s top priority. Whether it’s state-of-the art telemetrics and advanced safety technology in last-mile vans, driver-safety training programs, or continuous improvements within our mapping and routing technology, we have invested tens of millions of dollars in safety mechanisms across our network, and regularly communicate safety best practices to drivers,” an Amazon spokesperson told CNBC.
+- Amazon says its monitoring measures are designed to improve safety
+- As its operations have expanded, Amazon has increasingly built out its own delivery infrastructure, part of which is the delivery service program (DPS). This program contracts third-party companies to help with the last-mile delivery that, until a few years ago, was mostly handled by companies like FedEx and UPS. Amazon uses its own drivers to help with cost-cutting measures and to increase the speed and efficiency of deliveries, as part of its broader effort to own and operate more of its logistics chain with the purchases and leases of cargo freighters and airplanes.
+- There have, however, been issues regarding driver and pedestrian safety. Amazon has, in some cases, skirted direct accountability for crashes, injuries, and even deaths at the hands of drivers delivering its packages to customers’ homes because of the contract nature of the work, according to The New York Times. Still, the company has come under fire for using software and other tools to prioritize the speed of deliveries over potential safety concerns.
+- As a result, Amazon has reportedly begun exercising increasing control over its drivers by managing their routes and monitoring their behavior at all times with the goal of improving safety. The Monitor app and always-on surveillance cameras are part of those measures, though some drivers are concerned about how invasive these methods are.
+- CNBC says drivers congregate online and discuss ways to try to game the system. For instance, drivers have tried wrapping their phones in sweaters and storing them in the glove box of delivery vans because of how unfairly they’re dinged for standard procedures on the job that the Monitor app mistakes for reckless driving, like marking a delivery as completed by picking the phone up. “If your device moves at all, it’s going to count against you,” one driver told CNBC.
+- There are also concerns about the location sharing permissions. Drivers are asked to download the app on their personal devices and to enable “always allow” location sharing, which has some drivers concerned Amazon is overstepping its boundary with regard to driver privacy, CNBC reported.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.wired.com/story/some-amazon-drivers-have-had-enough-can-they-unionize/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Caitlin Harrington
+- the Netradyne cameras were the last straw. For the past year, Casey had been working as a driver for one of Amazon’s Delivery Service Partners (DSP), the company’s network of last-mile delivery contractors. On busy days, she’d cart nearly 300 packages to 200 stops in a 10-hour shift—one stop every three minutes—skipping lunch and limiting her water intake so bathroom breaks wouldn’t cause her to fall behind. If her icon turned red on the dispatcher’s tracking screen, indicating a delay, she knew she might get a call.
+- Casey (not her real name) was sick of the “group stops,” multiple nearby stops marked as one, despite sometimes falling blocks apart. She was sick of the cattywampus routing, making her retrace her tracks to accommodate individual delivery windows. She was sick of the oppressive monitoring app docking points from her safety score for hard braking or speeding up, even to avoid a collision. Low scores meant potential lost hours or even termination. Now her boss was about to stick an AI camera in her face that would record her every expression, potentially dinging her for yawning. When the app asked for permission to do just that, she declined. She put in her two weeks notice.
+- Casey also logged onto a DSP driver Discord channel to vent. Despite their largely solitary workdays and Amazon’s watchful eye, drivers use online forums like Reddit and Discord to commiserate—although, given reports of the company monitoring drivers on social media, anxiety about potential sleepers abounds. People were pissed about the cameras. They griped about yet another layer of micromanagement and worried about their privacy. (So did Congress.)
+- Later that week, Casey got a DM from Ron, a Canadian DSP driver. He was fed up too. (Casey and Ron withheld their real names out of fear of jeopardizing their jobs.) Last month the two launched an informal online survey to see whether other drivers were facing similar issues. Some 500 people have responded so far. They complained about the relentless pace, about the Mentor app surveilling and scoring their every move, about feeling the need to cheat to get around its hypersensitivity. (Casey said her boss advised her to download Mentor on a secondary phone and avoid touching it.) They complained about the pay—80 percent of respondents make between $15 and $17 an hour—and the cameras. The “fucking cameras.” The “stupid fucking cameras.”
+- Inspired by the union election at an Amazon warehouse in Bessemer, Alabama, Ron added a question about whether drivers should unionize. Nine percent of respondents said maybe. Eighty-seven percent said yes.
+- For Amazon workers across the country, the Bessemer election is sparking conversations about their own working conditions and how they might improve them. On the road to becoming the nation’s second-largest employer, the company has faced a slew of criticism over its labor practices, from warehouse safety to allegations of discrimination and harassment by senior staff. As the people who literally hold the keys to the company’s increasingly speedy shipping, last-mile delivery drivers could have enormous collective power. The rub is, none of them are technically Amazon employees—not the Flex drivers distributing Amazon totes out of their own cars, not even the DSP drivers in Amazon-branded uniforms driving Amazon-branded vans. For those who want a union, this throws up some major roadblocks.
+- Caitlin Harrington
+- Gilad Edelman
+- Aarian Marshall
+- Amazon’s DSP network spans eight countries and employs 158,000 drivers. Each one of those drivers is a subcontractor, employed by one of 2,500 DSPs that contract with Amazon to deliver its packages. Amazon provides a suite of equipment that DSPs use to surveil their employees: There’s the Rabbit, an electronic scanning device that tracks drivers in real time; the Mentor app, which monitors and scores their driving behavior; and now, increasingly, the always-on AI cameras that record inside and outside the van, a concern not only for drivers but for anyone on the other side of its four lenses. Amazon can reward high-performing DSPs with additional routes and cut poor performers, putting constant pressure on owners to keep drivers moving swiftly.
+- In a statement, an Amazon spokesperson said, “We’re proud to empower more than 2,000 Delivery Service Partners around the country—small businesses that create thousands more jobs and offer a great work environment with pay of at least $15 an hour, health care benefits, and paid time off.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Amazon launched the DSP program in 2018 as part of an effort to gain more control over its shipping operations by bringing them in-house. (But not too in-house.) To help DSP owners start their businesses, Amazon offers assistance like financing and negotiated rates on insurance and van leases. In turn, the company offloads the overhead of maintaining employees, as well as liability for accidents and workplace violations. (As reporting by BuzzFeed and ProPublica has shown, safety concerns turn out to be far from hypothetical.)
+- According to some estimates, DSP profit margins run low by industry standards, putting pressure on labor costs. For comparison, the Teamsters say the UPS drivers they represent make an average of $38 an hour plus benefits, including a pension. And since Amazon caps the number of vans per partner at 40, no one business can get too powerful. Drivers can unionize, but only on a firm-by-firm basis. If one DSP unionizes, Amazon has other options. “If any one of them gets out of order and starts threatening to strike or demands more wages, then boom, the ax comes down,” says Marc Wulfraat, president of MWPVL International, a logistics consulting firm that closely monitors Amazon. “They’re gone, and they bring somebody else in.”
+- That’s exactly what a group of Michigan drivers alleged in 2017. Employees of an Amazon contractor named Silverstar Delivery voted 22-7 to unionize with the Teamsters. Less than a month later, several union supporters were fired. A few months after that, the firm closed its Michigan location. Workers filed an unfair labor practice charge with the National Labor Relations Board (NLRB), alleging unlawful retaliation. While the retaliatory firing charge was dismissed due to insufficient evidence, Silverstar paid over $15,000 in back pay as part of a settlement. Amazon avoided liability, arguing that it wasn’t the drivers’ joint employer. Shortly after the incident, according to a BuzzFeed report, the company held meetings with other DSP owners on how to avoid union drives at their own companies. No Amazon drivers have attempted a union vote since.
+- “If any one of them gets out of order and starts threatening to strike or demands more wages, then boom, the ax comes down.”
+- While the deck appears stacked wildly in Amazon’s favor, there is precedent for successfully unionizing a large subcontracted workforce. In the 1980s, for example, multinational corporate building owners began outsourcing janitorial work to subcontractors. Janitors saw their wages and benefits slashed and wanted union protections. Over a period of years, they launched a series of escalating walkouts and demonstrations nationwide, under the rallying cry “Justice for janitors.”
+- Instead of pressuring the relatively powerless subcontractors, organizers aimed their sights at the master contractor—in that case, the building owners, says Chris Rhomberg, a Fordham University sociology professor who researches labor strikes. “They built up solidarity so they could pressure the master contractor and say, ‘You’ve got to put enough money out there so that your subcontractors can pay a decent wage.’ It wasn’t until they had everybody lined up that they’d go for the union election at all the subcontractors.” This eventually worked. For some janitors, their pay and benefits doubled.
+- Activists have also won gains with campaigns that haven't necessarily ended in union drives. More recently, nonunion fast-food workers have focused on demonstrations to attract public attention and urge lawmakers to raise the minimum wage. Since they began, nine states plus DC have passed $15 minimum wage laws, and President Biden has voiced support. When the Fight for Fifteen movement started in 2012, Rhomberg says, “nobody thought that had a chance.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Amidst the campaign, the Service Employees International Union (SEIU) sought to establish McDonald’s as a joint employer, which could have paved the way toward holding the company responsible for its franchisees’ labor practices and potentially compelled it to bargain with any unions that formed. In 2014, the Obama-era NLRB sided with the SEIU, expanding the definition of a joint employer to include not just franchisors, but companies that hire subcontractors, provided the employer had the ability to exert indirect control over the workers’ conditions. The Trump administration reversed the rule, but in yet another volley just last week, Biden’s Labor Department proposed reverting to a more expansive definition of joint employer, a proposal that’s open for public comment until next month. Depending on the outcome, the new rule could impact not just chains like McDonald's but Amazon’s DSP network as well.
+- Amazon’s Flex drivers face even rockier terrain. These gig workers make up a smaller share of the company’s driver pool, and like Uber and Lyft, Amazon considers them independent contractors. This means they lack the protections afforded employees, like minimum wage guarantees, paid time off, and protection from harassment and discrimination. They’re the kind of labor issues that might drive workers to unionize—that is, if Flex drivers could.
+- When the National Labor Relations Act passed in 1935, anyone providing a service to a company in exchange for money was considered an employee, says Catherine Fisk, a UC Berkeley labor law professor—and as such had the right to unionize. Then the 1947 Taft-Hartley amendment excluded independent contractors from NLRA rights. The thing is, “it’s not clear who independent contractors are,” says Fisk. “The statute doesn’t effectively define them. At various times, the NLRB has held that regardless of whether a company designates someone an independent contractor, if a company effectively controls their working conditions and workers are economically dependent on the company, they’re employees.”
+- “Essentially what companies like Uber have argued is that the law should go back to the way it was circa 1920, when not only did most workers have no statutory right to unionize, but federal law treated unions as illegal conspiracies in restraint of trade,” Fisk says. “In my view, that’s fundamentally inconsistent with the language of the NLRA and the language of federal antitrust law. But that’s an issue that will have to get fought about.”
+- On the heels of their Prop. 22 victory in California, companies like Uber and DoorDash have formed a coalition and begun lobbying to enshrine a new “third category” of worker into law. In exchange for industry-wide collective bargaining rights, workers would essentially forfeit the protections afforded employees under the NLRA—things like minimum wage, unemployment insurance, and paid time off. But some legal experts argue that gig workers already are employees under current federal law, despite corporate claims to the contrary.
+- The PRO Act, which passed in the House last week, affirms this view. It establishes an ABC test for classifying workers as independent contractors. To pass the test, a worker would need to be free from company control, not perform a job that's core to the company's business, and have an independent business doing work of the same nature. Unless they satisfied these criteria, workers would have the right to unionize. The bill, however, is unlikely to clear the Senate unless Democrats first pass filibuster reform.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Although Prop. 22 dealt a huge blow to gig worker protections, it spawned a flurry of organizing, with advocacy groups like Gig Workers Rising, We Drive Progress, and Rideshare Drivers United coordinating protests and opposition campaigns. Many of these groups continue to fight efforts to duplicate Prop. 22-type laws nationwide.
+- Have you worked as an Amazon driver? Is there something you think we should know? Email the author at caitlin_harrington@wired.com. WIRED protects the confidentiality of its sources, but if you wish to conceal your identity, here are the instructions for using SecureDrop.
+- Meanwhile, the Amazon logistics juggernaut continues full speed ahead. In just four short years, the company has gone from shipping less than 10 percent of its own products to a whopping two-thirds of them in 2020, per estimates by MWPVL and Rakuten Intelligence. Randy Korgan, director of the Amazon Project at the Teamsters, calls this “a defining moment in transportation.”
+- When Korgan began as a dock worker in the freight industry in 1990, he made $15 an hour within his first year, more than $11 above minimum wage at the time. “I had a hard time surviving at that time on $15. Now we’re patting Amazon on the back 30 years later for paying $15 an hour? It’s mind-boggling.” (Of the four major local delivery providers in the US—Amazon, FedEx, UPS, and USPS—only UPS and the postal service are unionized.) Amazon’s comparably low-wage model, Korgan says, leads to a revolving door of workers.
+- Ron, the DSP driver who created the survey, calls Amazon’s delivery service “profoundly useful,” particularly during the pandemic. “But the way the people who bring the service are treated doesn’t match,” he says. “Amazon found a way to regress working conditions in North America. It’s such a huge damper on all the work that’s been done by people fighting for better labor conditions.”
+- Ron started as a DSP driver late last year during the holiday crunch. It didn’t take much to get started: His road test consisted of making a U-turn in an empty parking lot. He has held several jobs, but he’d never felt as fatigued as he did delivering for Amazon. During the holiday blitz, he’d skip breaks and pee in bottles to avoid falling behind. One of his group chat members shared a photo of two urine-filled plastic water bottles left in a van by a previous driver. (Amazon said its app provides a list of nearby restrooms and alerts drivers when it’s time for a break.) “After working four of five days, I couldn’t focus at home. I couldn’t unwind. I just had to lay down,” Ron says. “I later learned that these were symptoms of fatigue. When you’re overworked, you can’t focus on resting or talking to people. You just lie down, rinse, and repeat.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- One moment in particular stuck with him. It was during a snowstorm that had forced many businesses in the area to close. Ron was assigned a typical 180-stop route. He caught glimpses of customers warming themselves by fireplaces as slush soaked through his boot seams. When he finished his deliveries, frozen and spent, the dispatcher asked him to make a “rescue” stop, Amazon’s term for assisting other drivers who fall behind schedule. Ron pleaded to go home, but the dispatcher insisted, so he dragged himself to the other driver’s van. “I’m younger, and I was helping out this guy in his forties or fifties. He was panting, and his shoes were not even winter shoes. His feet were completely soaked,” Ron recalls. “That image of a middle-aged man panting with soaked shoes making deliveries for a trillion-dollar company—that’s when I thought, something has to change.”
+- For now, he’s focused on raising awareness. Earlier this month, he and Casey launched a Twitter account, Amazon Delivery Associates for Change and Direct Action. “If we tweet one suggestion a day, we’ll have enough for months,” he says. Next they plan to start an Instagram page.
+- Casey never finished out her two weeks. During a particularly harrowing group stop involving a list of non-working apartment codes, her dispatcher called and pushed her to speed up. She couldn’t take it anymore. She told her boss she wasn’t coming in the next day. Now she delivers for FedEx Express as a full employee. “The pay is better. I have actual good benefits. They don’t micromanage. I get my breaks,” she says. “It’s 10 times better.” Whether it stays that way will have to get fought about. For now, she’s just happy to enjoy her lunch.
+- Matt Burgess
+- Justin Ling
+- Khari Johnson
+- Parth M.N.
+- Andy Greenberg
+- Morgan Meaker
+- Chris Stokel-Walker
+- Caitlin Harrington
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.engadget.com/amazon-mentor-app-edriving-delivery-driver-tracking-surveillance-gps-194346304.html
+- As it turns out, Amazon’s push to add AI-powered cameras to its fleet of delivery vehicles was just the latest in a long line of efforts to monitor employees on the road. Consider this: according to a new deep dive from CNBC, Amazon has for years used an app called Mentor to monitor how its contracted delivery drivers behave behind the wheel. As you might expect, though, this service -- which Amazon says is a means of ensuring the safety and efficiency of those drivers -- isn’t without its faults.
+- Amazon delivery drivers (who more often than not work for a third-party delivery fleet, rather than Amazon itself) are meant to log into the app at the beginning of their shifts, at which point Mentor attempts to keep a running tally of issues like aggressive acceleration, harsh braking, improper seatbelt use, excessive idling and more. At the end of a seven-day stretch, those factors are baked into what Mentor developer eDriving refers to as a FICO score, which reads quite a bit like a traditional credit score: flawless performance merits a full 800, while anything below 499 may be grounds for disciplinary action like loss of perks and temporary suspensions.
+- Individual drivers aren’t the only ones who have to worry about maintaining FICO scores, either. CNBC’s report confirms that Amazon uses those scores in aggregate to rank its delivery service partners and bar low performers access to benefits like “optimal routes.”
+- Problem is, drivers have found Mentor at times to be too overbearing to do its job well. As CNBC notes, somes drivers who received incoming calls -- even ones that went unanswered -- were dinged because Mentor believe they were using their phones while driving. Others have taken to carefully stowing their devices running Mentor in gloveboxes, so the app doesn’t perceive typical on-the-road jostles as attempts to use those devices while driving.
+- What’s more, not all of Amazon’s nearly 1,300 delivery service partners provide their drivers with devices specifically meant to run Mentor. As a result, those people have had to install the app on their personal phones and tablets, and potentially deal with around-the-clock GPS tracking by employers because eDriving’s guide mandates always-on access to a device’s location. (Thankfully, this is one issue that may not be as problematic as before -- iOS 14 and Android 11 make it more difficult for users to opt-in to constant background location tracking.)
+- The idea of people being monitored nearly every moment they're on the job may seem chilling to some, but it's par for the course where Amazon is concerned. Workers in the company's fulfillment centers have long had to deal with intense corporate scrutiny, be it through apps that push them to pick products within stringent time limits, dedicated analysts keeping an eye out for potential union activism, and more recently, cameras designed to ensure employees follow social distancing guidelines.
+- It’s not hard to understand why Amazon is so obsessed with tracking its workers -- the company’s endless drive for efficiency is what helped it become so uniquely pervasive in worldwide retail. By building systems that bring people exactly what they want in just a few days, the company has helped define a culture of convenience that can be torturous to step away from. That drive for efficiency, however, also requires a certain level of dehumanization of Amazon’s line-level employees and partners that continues to set chilling precedents for the industry -- and society at large.
+
+URL: https://www.youtube.com/watch?v=E3r8_z1f60U
+
+URL: https://www.reddit.com/r/AmazonDSPDrivers/comments/gydrct/mentor_has_many_flaws/
+- A community for DSP van drivers of Amazon.
+Join our discord: https://discord.gg/BUu6Rqw
+- I had my phone in the glove box the entire day didn't touch it till the end of the day when I picked it up after I had stopped at the hub to end route I got phone manipulation for that day. Also it assumes every time you have hard braking that you're following too close and you had to slam on the brakes. This alone is a flaw, I had a deer and a dog run out in front of me and I hit the brakes. I got hard braking because they assume i wasnt paying attention and it was the exact opposite. What this says to me is, go ahead and hit the deer or dog and cause thousands of dollars damage just so your stupid score stays above 800😐 I drive a country route and the speed limits are 55 my GPS, on that great app they use freezes constantly and then all of the sudden it says you have arrived so yes I hit the brakes, I didn't slam on the brakes just hit the brakes so I wouldn't have to drive two miles down the road to turn around.  again hard braking. Just a few examples, there are many more. This app is not the answer to make a good driver the training program for Amazon drivers is non-existent. There needs to be more Hands-On training then what they are doing. Fun fact UPS spends at least two weeks with driver training. This app is a joke!
+
+URL: https://slashdot.org/story/21/02/12/2129213/amazon-uses-an-app-called-mentor-to-track-and-discipline-delivery-drivers
+- Catch up on stories from the past week (and beyond) at the Slashdot story archive
+- Nickname:
+- Password:
+- Nickname:
+- Password:
+- The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+- They should make this available on the App Store so people can see how well or poorly they drive. That'd be a hoot.
+- There are many free apps on the app store that already do that. They measure harsh braking, whether your phone is in a cradle or not, and when you exceed the speed limit by x number of miles per hour.
+- When I was an Uber driver a couple of years ago, the Uber app would measure those things as well. I would get dinged because I would wait for ride requests at home and then I would run out to the car in my driveway with my phone in hand. Also, I would get dinged in downtown San Francisco around the skyscraper area, because the GPS signals would bounce off the buildings in certain spots, and make it look like I was driving super erratically.
+- Eventually, Uber turned that functionality off, at least in my area. I wouldn't be surprised if this became a liability issue for them. After all, if they knew which areas I was more likely to have an accident in (or to do harsh braking), they could have chosen to forbid customers from calling us from those particular locations and asked them to walk to a safer location first.
+- Car insurance companies are really good at calculating driver risk.  That's how they make money, by pricing just above the "expected cost" based on driver risk. A car insurance company that doesn't do this well goes out of business.
+- Car insurance companies have found that an app that measures things like how often the driver brakes hard, floors the accelerator, or texts while driving does help them measure risky driving.
+- That's good evidence that an app measuring these things can in fact see indications of aggressive and dangerous driving habits.
+- Those apps don't work. They see you floor it and think you are accelerating hard, but actually it's just that your little 1.0 litre engine struggles to go up hills or pull out onto a roundabout safely.
+- If all the companies use one, then if the app says that you are bad none of them will give you a cheap premium and you will have to pay more.
+- Stupid is OK as long as everyone is stupid.
+- > Those apps don't work. They see you floor it and think you are accelerating hard, but actually it's just that your little 1.0 litre engine struggles to go up hills
+- The app, running on your smartphone, is taking its measurement from your smartphone's accelerometer.  It's not actually connected to your gas pedal.  It's measuring actual acceleration.
+- They said your driving sucks because your driving sucks, not because your car sucks.
+- The ones in the UK plug in to your OBD-II port and record things like pedal position.
+- I'd be wary of the smartphone ones too. I was reading on a forum about someone who had their insurance cancelled for speeding, because the GPS thought they were on a parallel road with lower limit.
+- Also how does it know you are driving? Do you have to tap something in the app every time? Or are you going to get penalized for being a passenger in someone else's car, or going on a rollercoaster?
+- Guess what OBD II reports besides pedal position? Speed.That's code 13. Throttle position is 17.
+- So yeah if your 1.0 liter car is going up a steep hill, it will show acceleration is zero.
+- TFS addresses the second half of your post, if you're curious to know.
+- That would be fine if they had someone sensible looking at it. They don't, it just notes that you floored it.
+- I'm sure that you are aware that humans, as a rule, greatly over-estimate our abilities.  We all think we're well above average at whatever, including those who are well below average. The Dunningâ"Kruger effect. That especially sucks because it means it's very hard to improve. We humans don't see where we need to improve, so we don't improve. We continue to suck.
+- > Within the 1st week I hit the 3 per month hard braking limit.
+- The data says .... :)
+- That's correlated to acceleration, not gunning to go up hill.  You've not worked on an actuarial model before, I suspect.
+- we had one for a few weeks when switching insurance with a recent charged accident for my wife.
+- We actually got reports for each "incident", with description and location.
+- Mostly they were for sudden hard breaking.
+- In the school parking lot full of teenage drivers . . .
+- It reduced our premium by about $1k . . .
+- Those apps the auto insurance companies want people to use are giving them flawed, inaccurate data.  They may *think* it's helping them, but let's look at the facts with those!
+- 1. The apps measure metrics like how hard you brake or accelerate based on the g-force sensor/accelerometer built into your smartphone. That means an incident like someone's smartphone falling off of a suction-cup mount on their windshield onto the floor on the car could register as a sudden acceleration or braking event. It also mean
+- The state I lived in (Maryland) even has legislation barring the insurance companies from raising your rates based on refusal to use one of these programs. A number of other states enacted similar laws. Do they have a law against raising everyone's rates and then just giving the people who accept the devices a discount?
+- The state I lived in (Maryland) even has legislation barring the insurance companies from raising your rates based on refusal to use one of these programs. A number of other states enacted similar laws.
+- Do they have a law against raising everyone's rates and then just giving the people who accept the devices a discount?
+- See also: World of Warcraft "rested" experience bonus.
+- If the insurance companies are so good at what they do, why didn't they sell pandemic insurance before Covid-19 struck? (Actually, my "solution approach" would be to run the clock backwards and let them "sell" the pandemic insurance now (to the government), with appropriately incentivized coverage that also has the advantage of hindsight. Rather than spraying money at random with big fire hoses, the governments would loan the borrowed money to the insurance companies to pay the documented damage claims of t
+- > If the insurance companies are so good at what they do, why didn't they sell pandemic insurance before Covid-19 struck?
+- Because they would have had to pay out $16 trillion?The insurance companies want to MAKE money, not lose trillions of dollars.
+- > Rather than spraying money at random with big fire hoses, the governments would loan the borrowed money to the insurance companies to pay the documented damage claims of the actual victims. The insurance companies are supposed to be experts in checking clai
+- Basically the ACK, but I'm sorry the first point wasn't clear enough for you that you seemed to think we were in disagreement. My implicit premise is that the future is unknown and therefore it is impossible to provide sufficient premise for all of the possible disasters that might happen. The government is therefore forced to step up as the insurer of the last resort for such risks that cannot be insured in advance. My suggestion is basically a different kind of time machine.
+- (I think the main problem with
+- Yes, but most insurance companies I've seen use a device that plugs into your car and broadcasts the info from your car to your phone via Bluetooth. It's much more reliable that way, instead of trying to guess what's happening from the sensors and/or the GPS of only your phone.
+- the one we used for a month, which reduced the annual premium by $1k after a charged accident, had its own cellular connection.
+- my wife didn't have a smartphone back then . . .
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggerated
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+Sounds like you need to clean your driveway better.
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggerated
+- Slid off your driveway? Like on the ice?
+Sounds like you need to clean your driveway better.
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.Assuming facts not in evidence. Then constructing a strawman.  There is a reason the name for UPS in the shipping community is "Oops".
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggerated
+- Slid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.
+- Assuming facts not in evidence. Then constructing a strawman.  There is a reason the name for UPS in the shipping community is "Oops".
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.Assuming facts not in evidence. Then constructing a strawman.  There is a reason the name for UPS in the shipping community is "Oops".I was asking a question, not really assuming much, but I have a hard time picturing a big UPS truck sliding off dry pavement.
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.Assuming facts not in evidence. Then constructing a strawman.  There is a reason the name for UPS in the shipping community is "Oops".
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggeratedSlid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.
+- UPS driver slid off my driveway and had to be recovered by tow truck... Which he did not tell me, I found out when the tow truck arrived. Their competence is exaggerated
+- Slid off your driveway? Like on the ice?
+
+Sounds like you need to clean your driveway better.
+- Assuming facts not in evidence. Then constructing a strawman.  There is a reason the name for UPS in the shipping community is "Oops".
+- I was asking a question, not really assuming much, but I have a hard time picturing a big UPS truck sliding off dry pavement.
+- The driveway was muddy, I literally explicitly told him to turn around in my front yard which would have tracked it up a bit but no big deal, this was in the country. Instead he turned around where I told him not to and zing! Off the fucking driveway.
+- I could have turned the truck around where he turned it around, but he couldn't. And I suspected he couldn't, which is why I told him not to. I was right.
+- Amazon deliveries continue to be the worst in the biz.  They frequently fail to deliver packages properly or even at all.  If I had a dollar every time a package was left in front of an open door or not put inside their very own Amazon Lockers, I would probably have enough money to buy out Amazon.
+- Amazon deliveries continue to be the worst in the biz.  They frequently fail to deliver packages properly or even at all.  If I had a dollar every time a package was left in front of an open door or not put inside their very own Amazon Lockers, I would probably have enough money to buy out Amazon.Amazon has setup their DSP program to drive that behavior. Drivers have to deliver a set number of packages and get paid for x hours to that. They need to meet their time quotas and if they get done early still get paid the full amount. If a DSP wants to hire better drivers they really can't pay more than the going rate as that would significantly cut their profits. Amazon holds all the cards and the DSPs are essentially their way of transfering all the costs and risks of last mile to the DSPs and get lever
+- Amazon deliveries continue to be the worst in the biz.  They frequently fail to deliver packages properly or even at all.  If I had a dollar every time a package was left in front of an open door or not put inside their very own Amazon Lockers, I would probably have enough money to buy out Amazon.
+- Amazon has setup their DSP program to drive that behavior. Drivers have to deliver a set number of packages and get paid for x hours to that. They need to meet their time quotas and if they get done early still get paid the full amount. If a DSP wants to hire better drivers they really can't pay more than the going rate as that would significantly cut their profits. Amazon holds all the cards and the DSPs are essentially their way of transfering all the costs and risks of last mile to the DSPs and get lever
+- Poor Digital Signal Processors have it rough.
+- From the moment Amazon Delivery was introduced in my area, it's been horrible.  Late deliveries, deliveries marked as completed yet showing up a day or two later, completely missed deliveries...I consider myself lucky if something shows up on time and in good condition.
+- Whatever scores they're giving the drivers, it's too high.
+- I miss Fedex/UPS deliveries.  Hell, at this point I'd take USPS.
+- Amazon requires contracted delivery drivers to download and continuously run a smartphone app, called âoeMentor,â that monitors their driving behavior while theyâ(TM)re on the job. The app, which Amazon bills as a tool to improve driver safety, generates a score each day that measures employeesâ(TM) driving performance.
+- Let's review the common law factors [irs.gov] that distinguish an independent contractor from an employee.
+- "Behavioral: Does the company control or have the right to control what the worker does and how the worker does his or her job?"
+- Well, that distinction has completely disappeared for these jobs, now hasn't it?
+- "The irs greed with me"
+- Yes, the IRS greed is often with me as well.
+- Well, that distinction has completely disappeared for these jobs, now hasn't it?Yes, but that's why Amazon has been franchising out some of its delivery services these past two or three years.Many of its new van drivers are not independent contractors, but actual employees of very small Amazon-branded franchised delivery services. This way, if something happens, the franchise owner gets sued by its drivers (or the franchise goes out of business), but Amazon remains insulated. Also, if the franchise is small enough, it means it doesn't have as many Federal regulations to follow.
+- Well, that distinction has completely disappeared for these jobs, now hasn't it?
+- Yes, but that's why Amazon has been franchising out some of its delivery services these past two or three years.
+- Many of its new van drivers are not independent contractors, but actual employees of very small Amazon-branded franchised delivery services. This way, if something happens, the franchise owner gets sued by its drivers (or the franchise goes out of business), but Amazon remains insulated. Also, if the franchise is small enough, it means it doesn't have as many Federal regulations to follow.
+- Many of its new van drivers are not independent contractors, but actual employees of very small Amazon-branded franchised delivery services.
+- Those "services" are independent contractors.  Being an employee of a "service" that is a faux independent contractor does not transform one into an employee of another entity, and that accepts your unstated assumption that the drivers are actually classified as employees of any entity in the first place.
+- The common law factors don't care about the de jure form of the re
+- The app name "Mentor" should be "tormentor" or in Harry Potter genre, "dementor."
+- A algorithm is completely blind to any exceptions within the situation at hand, that the programmer did not expect. It will punish you for breaking or speeding, even if it's to save someone's life.But at least with an algorithm, you know why it does it, and who decided it to be that way.
+- A human boss could also misjudge, but even a bad one usually has had a lifetime of experience to grow some common sense. Like it being OK to drive "badly" if it means not running a baby over.
+- This bullshit right here ... this
+- every step, ... you... take... every...breath... you take
+- It's funny you mention these lyrics. Maybe you already know, but I've read online (always reliable & accurate, right?) that "Every Breath You Take" was never meant to be a love song, but rather about stalking someone. Accurate, in this context, of course!
+- I seem to recall Sting saying he wrote it about his ex-wife.
+- It's just like your mother in law sitting in the back seat.
+- ...give me your Agonizer.
+- Also you just plain don't get quality employees, who voluntarily want to work harder to succeed, who want to take those extra steps, when you treat them like worthless throw-away people or like convicts in prison. What would you pay for delivery if they could hire "quality employees" who would require a quality salary and full medical benefits and retirement pension, and 401k, and paid leave, and paid childcare, and paid maternity leave and paid paternity leave and... $50 per delivery? $100 per delivery?  how much is fine with you?  And what about the ability of others to afford such services?
+What about enforcing tipping like the restaurant industry?
+How would you like to see your ability to get deliveries as they a
+- Also you just plain don't get quality employees, who voluntarily want to work harder to succeed, who want to take those extra steps, when you treat them like worthless throw-away people or like convicts in prison.
+- What would you pay for delivery if they could hire "quality employees" who would require a quality salary and full medical benefits and retirement pension, and 401k, and paid leave, and paid childcare, and paid maternity leave and paid paternity leave and... $50 per delivery? $100 per delivery?  how much is fine with you?  And what about the ability of others to afford such services?
+What about enforcing tipping like the restaurant industry?
+How would you like to see your ability to get deliveries as they a
+- Just stop buying from Amazon. Don't be lazy and only ever buy from them. Instead, look around and find alternatives. Many companies have their own online sale these days and one can order directly and doesn't have to go through Amazon. Amazon is a cancer.
+- I won't be renewing my amazon prime in a couple of months.
+- As my deliveries have gone up during the Time of Chirus, I've noticed that Wally-world is almost always (as in, over 90% of the time) less than amazon, sometimes the same to the penny, and I don't recall the last time it was higher.
+- And the free delivery is faster . . . some "two day" items are dropped on my porch from the local store a couple of hours later.
+- I have to make sure the total order is $35 for most things, but that really isn't a problem.
+- Good thing your phone doesn't incorporate any kind of storage device it could use to store all the data until the next time it can contact Mother.
+- Oh wait...
+- >I'm not aware of the outcome: my colleague left the company but was gagged with an NDA.
+- She lost.
+- The Fourth Amendment absolutely, categorically, does not apply to private parties. (There would be exceptions for corporate performance of government surveillance, of course).
+- It may have been a violation of her privacy for many *other* reasons which would allow a recovery, and it may have been a breach of contract.   But definitely not Fourth Amendment.
+- hawk, esq.
+- It is a federal crime for you to lie to an insurance company.
+- It is no offense for an insurance company to lie to you.
+- You can’t even sue in many cases.
+- Nothing is for your safety.
+- Arisia will hear of this!
+- Why is it called Mentor and not Womentor or Persontor?  Clearly sexist.  Also racist.
+- There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+- Minneapolis Bans Its Police Department From Using Facial Recognition Software
+- Canadian Regulator Clears Launch of World's First Bitcoin ETF
+- We warn the reader in advance that the proof presented here depends on a
+clever but highly unmotivated trick.
+		-- Howard Anton, "Elementary Linear Algebra"
+
+- Amazon Flex algorithm delivery driver firings
+- Amazon Flex delivery driver routing safety
+- Amazon delivery driver safety cameras
+- Page infoType: SystemPublished: February 2021Last updated: October 2021

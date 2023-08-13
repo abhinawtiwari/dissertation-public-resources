@@ -1,0 +1,213 @@
+- Occurred: July 2019
+- Can you improve this page?Share your insights with us
+- AI-powered portrait generator AI Portrait Ars drew controversy soon after its launch when it was found to be whitening coloured peoples' skins.
+- Mashable journalist Morgan Sung discovered that the generator, which turned selfies into realistic Impressionist and Baroque portraits, 'whitened my skin to an unearthly pale tone, turned my flat nose into one with a prominent bridge and pointed end, and replaced my very hooded eyes with heavily lidded ones.'
+- According to Mauro Martino, co-developer of the app, 'the intention is to share the experience of being portrayed by an AI algorithm, to discover how AI sees you. There is no willingness to improve or deform the starting picture.'
+- Martino and collaborator Luca Stornaiuolo said AI Portrait Ars was not just for entertainment, but that they were making a broader point about perceptions of beauty, and the notion of AI fairness.
+- The model was apparently based on a collection of 15,000 portraits, predominantly from the 15th century western European Renaissance period, which would help explain the skin whitening, and the tendency to produce faces with straight, high noses and thin smiles.
+- Operator: Mauro Martino; Luca StornaiuoloDeveloper: Mauro Martino; Luca Stornaiuolo
+- Country: USA
+- Sector: Research/academia
+- Purpose: Generate portraits
+- Technology: Generative adversarial network (GAN); Neural network; Machine learning Issue: Bias/discrimination - race, ethnicity
+- Transparency:
+- AI Portaits website
+- AI Portrait Instagram profile
+- Mauro Martino (2018). AI Portraits | The experience of being portrayed by an AI algorithm
+URL: https://mashable.com/article/ai-portrait-generator-pocs/
+- Surprise! Artificial intelligence-generated portraits based off artwork from 15th century Europe... kind of suck at depicting people of color.
+- Because we're apparently always ready to hand over our photos for the sake of a trend, the internet's current obsession is an AI portrait generator(opens in a new tab) that deconstructs your selfies and rebuilds them as Renaissance and Baroque portraits.
+- Created by researchers at the MIT-IBM Watson AI Lab, AI Portrait Ars is a fun way to see how you would have been perceived if you lived in another time period.
+- "Portraits interpret the external beauty, social status, and then go beyond our body and face," its creators wrote in the site's "Why" section. "A portrait becomes a psychological analysis and a deep reflection on our existence."
+- Unless, apparently, you're not white.
+- When I uploaded my photo into AI Portrait Ars, I was both horrified and amused by what the tool spat out. The painted version of me had my dark circles and eyebrows — at least my morning makeup routine is pulling through — but it whitened my skin to an unearthly pale tone, turned my flat nose into one with a prominent bridge and pointed end, and replaced my very hooded eyes with heavily lidded ones.
+- We won't even talk about the atrocity that was supposed to be my lips.
+- The researchers wrote that the AI pulls from a data set of "tens of thousands of paintings from the Early Renaissance to Contemporary Art" using Generative Adversarial Network (GAN) models to produce "different styles and levels of abstraction."
+- There are two neural networks at play here: a discriminator, which figures out what makes a face and can recognize portraits, and a generator, which paints the portraits. Unlike neural style transfers, which take images and alter them with unique colors and textures while preserving the original's features, the AI Portrait Ars "paintings" completely redesign the original subject. In an example provided by the site, the creators say that the model settled on a "Renaissance style" and recreated its (white) subject by "highlighting the elegance of the aquiline nose, the smoothness of the forehead."
+- "This type of portraiture is quite distinctive of the Western artistic tradition," the creators continued on the site's "Why" section. "Training our models on a data set with such a strong bias leads us to reflect on the importance of AI fairness."
+- The creators at the MIT-IBM Watson AI Lab didn't respond to request for comment, and it's unclear how far the data set of artwork extends. Although the site says the data set includes contemporary art, it doesn't say whether it includes art featuring subjects of color.
+- The creators also emphasize the fact that the AI is focused on 15th century art, which could explain all the straight, high noses and much paler skin tones.
+- Even when the skin color change wasn't as drastic, the AI does appear to whitewash distinct features. Coin Center's Director of Communications Neeraj Agrawal said he was surprised at how his portrait turned out.
+- "The nose threw me off," he told Mashable in a Twitter DM. "The guy looked more Italian than Indian."
+- Polygon reporter Petrana Radulovic pointed out that the AI lightened her eyes and gave her nose a much higher bridge.
+- And in a version that didn't lighten my skin tone, the AI still gave me a much narrower, sharper nose than my own.
+- As the AI Portrait AR creators note, the bias also extends to open-mouth smiles. Renaissance portrait artists rarely depicted their subjects with a toothy grin, because that feature was associated with a more comic painting genre -- so the AI tends to swap out large smiles for the tight-lipped grimaces from its data set.
+- "The inability of artificial intelligence to reproduce our smiles is teaching us something about the history of art," the site's description says.
+- That's not to say that there aren't any examples of non-white portrait subjects — the Tumblr account medievalpoc(opens in a new tab) highlights plenty of people of color throughout European art history. While the artwork that can fit into the definition of "portrait" is limited, there are definitely examples(opens in a new tab) of merchants, nobility, and clergymen who certainly weren't white.
+- Ka Bradley, a British Cambodian Twitter user, acknowledged that there could be cultural blindspots -- Islamic laws forbade the depiction of sentient beings in artwork, for example. But even then, she challenges why European art is considered "classical" while art from other parts of the world during the same period isn't.
+- "I guess it's partly to do with Western Europe being the dominant cultural hegemony, with a history of colonizing other lands," she said in a Twitter DM to Mashable. "So Western portraiture is 'classical art' ... whereas figurative/portrait art from other spheres [around] the same time is [an] 'artifact' or 'ruin,' separated from its own developmental timeline and understood through the lens of the colonizer."
+- That being said, she wasn't particularly happy with her AI portrait, either.
+- Want some more examples? Here are some celebrities of color who had some, uh, especially strange results with the portrait generator.
+- BTS's Jungkook was given more rounded brows, and his monolids were replaced with heavily lidded eyes.
+- While it kept her hair color, the AI narrowed Kehlani's nose and lightened her skin.
+- The generator also lightened Tessa Thompson's skin color, and turned her braided hair into some kind of bulky hat.
+- Dwayne "The Rock" Johnson went from, well, "The Rock"... to a light pink thumb with green eyes.
+- There are no words to describe what it did to Lizzo.
+- For some celebrities, instead of altering skin tones, the AI resorted to depicting their darker shades as sketches. It still gave Idris Elba a prominent, European bridge and deeper-set eyes, though.
+- And it turned Jason Momoa into a hurried sketch of a grizzled ship captain, which may actually be pretty appropriate.
+- As its creators acknowledge, the AI Portrait AR is an experiment in exploring the bias of the model. That being said, it raises eyebrows when the model is better at portraying a meme than an actual human being who doesn't happen to be white.
+- It's reminiscent of Google's Arts and Culture app, which promised to match users' selfies to documented works of art. Although it was well meaning, the app's database didn't include much artwork from non-European or American artists, and it struggled to match the faces of people of color.
+- The creators of AI Portrait Ars do nod to the vibrant portraiture of non-European cultures, but as they acknowledge, the software was trained on a data set consisting of mostly white features, and so it still can't identify and generate physical features that people of color have long been ostracized and othered for having.
+- While social media helped normalize certain facial features, Western society has long looked down upon broad noses, darker skin tones, and larger lips. To overlook the depiction of people of color in Western art history — and omit them from the data set used to train a tool like this — isn't just a blind spot, but literal erasure.
+- While the AI Portrait AR is a fun example of how powerful technology has become, it's still disappointing for whole swaths of other cultures' physical features to be excluded from "art."
+- More in
+Artificial Intelligence
+
+URL: https://www.vice.com/en_us/article/8xzwgx/racial-bias-in-ai-isnt-getting-better-and-neither-are-researchers-excuses
+- An AI-powered portrait generator went viral last week thanks to its ability to turn selfies into realistic Impressionist portraits. For people of color, however, the results leave much to be desired.
+- The flaw in AI Portrait Ars, an app built by researchers at the MIT-IBM Watson AI Lab, was first pointed out by Morgan Sung, a reporter at Mashable. She found that the app “whitened my skin to an unearthly pale tone, turned my flat nose into one with a prominent bridge and pointed end, and replaced my very hooded eyes with heavily lidded ones." This result is both terribly disappointing and utterly predictable.
+- "I wasn't surprised at the whitewashing at all, since I'm used to things like Snapchat filters lightening my skin, making my eyes bigger, narrowing my nose. But I was taken aback by how extreme it was," Sung told Motherboard. “The painting that AI portrait built was a completely different face."
+- In 2019, AI developers should know that algorithmic bias not only exists but is a serious problem we must fight against. So why does it continue to persist? And can we actually stop it? These are open questions that boil down to where you think the blame lies. Is it the case that these algorithms are exaggerating parts of human nature? Are algorithmic biases a reflection of our society’s systemic problems? In the case of the AI Portrait Ars, it may help to trace why it couldn’t draw the faces of people of color in order to figure out why this continues to happen.
+- Part of the problem lies with how AI Portrait Ars fundamentally works. The program relies on a generative adversarial network (GAN), meaning there are two types of algorithms pitted against each other as adversaries to create its portraits. The first type are generative algorithms, responsible for generating new data. The second type are discriminator algorithms, responsible for deciding whether new data belongs to the training dataset.
+- With AI Portrait Ars, the generator learns how to create realistic portraits of people and the discriminator learns how to discern which aren't convincing enough based on the dataset. Datasets, then, are of the utmost importance in determining whether or not the GAN will read certain data (facial features) as authentic or not. The training dataset has over 15,000 images, but it’s important to remember where these images were likely pulled from.
+- “This was an experiment by one of our researchers. The images from the app's users were deleted immediately from our servers after the Renaissance portrait was generated. The experiment has run its course,” IBM Research said in a statement to Motherboard.
+- “Also, the tool reflects the data it was trained on: a collection of 15,000 portraits, predominantly from the Western European Renaissance period,” the company continued. “In some cases, it produced a strong alteration of colors and shapes. That’s a reality of the style, not the algorithm.”
+- This experiment, however, mirrors dozens of other AI and facial recognition experiments that have had far more accurate results for white people than people of color. If the experiment proved anything, it’s that AI researchers continue to be drawn to experiments and research that perpetuate the biases we already know exist in AI research.
+- It’s also not actually a “reality of the style” of Renaissance art that people of color weren’t in paintings of the era. There are many examples of people of color in European art history, though they are largely assumed by the masses to be non-existent in art from the Renaissance.
+- “The material available for illuminating the lives of individual Africans in Renaissance Europe through the visual arts is considerable, though little known to the wider public,” a lengthy 2013 report from Baltimore’s Walters Art Museum called “Revealing the African Presence in Renaissance Europe” notes.
+- It is important to “understand the period in terms of individuals of African ancestry, whom we encounter in arresting portrayals from life, testifying to the Renaissance adage that portraiture magically makes the absent present. We begin with slaves, moving up the social ladder to farmers, artisans, aristocrats, scholars, diplomats, and rulers from different parts of the African continent,” it continues.
+- The problem with AI Portrait Ars reflects how, historically, technology often functions as an extension of the status quo as opposed to a great equalizer. Color film, for example, was initially calibrated to look best with white skin tones since they were the preferred consumer market. In the 1970s, what prompted the industry to even consider better rendering of darker colors was economic pressure from Kodak’s professional accounts. Furniture manufacturers were angry that their advertisements using Kodak color film didn’t capture the difference between dark-grained wood and light-grained wood, while chocolate confectioners were angry that the film couldn't capture all the different shades of chocolate.
+- At this point, AI researchers—especially ones utilizing IBM’s Watson, should know better. In 2018, Joy Buolamwini, founder of the Algorithm Justice League, published her MIT thesis analyzing facial recognition technology from IBM Watson, Microsoft, and Face++ (a Chinese artificial intelligence company). Buolamwini found that all of the programs had the highest error rates for dark-skinned women and the most accurate results with light-skinned men, but that IBM Watson had the highest disparity in the error rates between dark-skinned women and light-skinned men (the error rate was 34.4 percent higher for dark-skinned women). Buolamwini also found that as skin tones got darker, IBM Watson failed to correctly recognize a subject's gender nearly 50 percent of the time.
+- To IBM’s credit, Buolamwini’s research pushed the company to radically improve its facial recognition technology. This, however, hasn’t stopped the problem of racial bias from reappearing in other IBM products like their AI Portrait Ars, or the industry at large. Until we can root out the biases baked into our society that keep reemerging in each new generation of technology, what is to be done?
+- Caroline Sinders, a machine learning designer who previously worked with IBM Watson, told Motherboard that part of the problem lies with a "lack of awareness that we need to test multiple genders or multiple races." At the same time, Sinders asked whether the solution is as simple as more diversity in data. “When these failures pop up, it really does highlight a lack of diversity in the sets. But also having a more diverse dataset for things that use facial images poses a problem where better facial apps lead to … better facial recognition. Do we necessarily want that?”
+- That’s a valid question when applied to the many in-the-field uses of AI and facial recognition technology, many of which are deployed disproportionately by police against people of color. As Sinders mentioned, better facial apps leads to better facial recognition—but do we need yet another AI face app at all?
+- Today, the problem of getting datasets that represent populations accurately and the legacy of technology being used to preserve power systems are very much interlinked. In a New York Times op-ed, Buolamwini talks about the "coded gaze," a phenomenon where “A.I. systems are shaped by the priorities and prejudices — conscious and unconscious — of the people who design them.” The extremely high rates of misidentification that plague facial recognition software when used on people of color have led to calls for its complete and total ban. These embedded biases can affect hiring prospects, misidentify innocent people, and give unaccountable actors in the private sector or law enforcement apparatus greater information about our personal lives, without our consent. Already some cities have already banned the technology, and Congress is expected to vote on legislation that would forbid face recognition in government-owned public housing.
+- All of this, however, makes clear that it’s not exactly clear what the best way to stop this is. Do we use more data to empower problematic technology? Do we use algorithms to de-bias other algorithms? Do we risk continuing to disrupt people’s lives while we figure this thing out? Maybe all this means that the answer is that we can’t, at least not without first questioning whether such fundamentally problematic technology should exist at all.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.vox.com/future-perfect/2019/7/25/20708589/ai-portraits-art-bias-classical-painting
+- “The inability of artificial intelligence to reproduce our smiles is teaching us something,” say the tool’s creators.
+- Finding the best ways to do good.
+- Researchers have launched a website that lets you upload a selfie and see it transformed into a classical portrait of you, thanks to artificial intelligence. Within seconds, you can become a van Gogh or Rembrandt or Titian painting. It’s pretty awesome, and I had way too much fun poking around the site.
+- That is, until it crashed Tuesday due to overwhelming traffic. The site, which makes art using an AI method known as a generative adversarial network, had gone viral. It’s easy to understand why: The fact that AI can make impressive art has already captured the public’s imagination (a machine-generated painting even sold for $432,500 at auction). Now that AI is making impressive art out of us, of course we’re going to be extra excited.
+- What I found compelling about AI Portraits was not just its ability to turn me into a fancy Renaissance lady (though, hey, I’ll take that) but also the rationale the researchers gave for creating the site in the first place. They want us to explore the way human bias creeps into AI — including the AI they’ve just placed at our fingertips.
+- Based at the MIT-IBM Watson AI Lab, the researchers used 45,000 paintings to train their model. That data set includes portraits from the early Renaissance through to contemporary art, but its focus is on 15th-century Europe.
+- “This type of portraiture is quite distinctive of the Western artistic tradition,” they write on the site. “Training our models on a data set with such strong bias leads us to reflect on the importance of AI fairness.”
+- The researchers are drawing our attention to the fact that, yes, their AI tool remakes our selfies into beautiful portraits, but it’s one very particular type of beauty. It’s not recasting us in the style of, say, Indian miniature paintings, because it hasn’t been trained on Indian artwork. An AI trained on European art will churn out a portrait biased toward European styles.
+- And it’ll be a portrait that doesn’t allow us to smile. As the creators explain:
+- We encourage you to experiment with the tool as a way of exploring the bias of the model. For example, try smiling or laughing in your input image. What do you see? Does the model produce an image without a smile or laugh? Portrait masters rarely paint smiling people because smiles and laughter were commonly associated with a more comic aspect of genre painting, and because the display of such an overt expression as smiling can seem to distort the face of the sitter. This inability of artificial intelligence to reproduce our smiles is teaching us something about the history of art.
+- It’s also illustrating the key AI principle of “bias in, bias out” — meaning that what you get out of an AI system really depends on what you feed into it. In other words, AI is not somehow “objective.”
+- That’s a reality many of us have not yet internalized, in large part because the makers and marketers of algorithmic decision-making systems have presented them as tools that can help us make choices more impartially.
+- By this point, we know this dream of unbiased AI is a fantasy, because we’ve seen example after example of how algorithmic bias damages people’s lives.
+- Amazon abandoned a recruiting algorithm after it was shown to favor men’s résumés over women’s. Researchers concluded an algorithm used in courtroom sentencing was more lenient to white people than to black people. A study found that mortgage algorithms discriminate against Latino and African American borrowers. Transgender Uber drivers had their accounts suspended because the company’s facial recognition system is bad at identifying the faces of people who are transitioning. Three other facial recognition systems were found to misidentify people of color much more often than white people.
+- I could go on, but you get the picture. It’s pretty bleak. So can we fix it?
+- The tech industry knows that human bias can seep into AI systems, and some companies, like IBM, are releasing “debiasing toolkits” to tackle the problem. These offer ways to scan for bias in AI systems — say, by examining the data they’re trained on — and adjust them so that they’re fairer.
+- But that technical debiasing is not the same thing as fairness. In some cases, it can result in even more social harm. For example, given that facial recognition tech is now used in police surveillance, which disproportionately targets people of color, maybe we don’t exactly want it to get great at identifying black people.
+- That’s why I’ve argued that we need new legal protections to safeguard us from biased AI, and drafted an algorithmic bill of rights with the help of 10 AI experts. The demands in it include transparency, consent, redress mechanisms, and independent oversight of algorithmic systems gone wrong.
+- Realistically, though, it may be a while before such protections become internalized by corporations, let alone enshrined in law. So in the meantime, I think it’s important for us to be fully aware of the risks posed by AI.
+- A fun website that transforms our selfies into cool paintings won’t get us all the way there, but precisely because it’s fun and cool, it can be a very effective educational tool.
+- Sign up for the Future Perfect newsletter. Twice a week, you’ll get a roundup of ideas and solutions for tackling our biggest challenges: improving public health, decreasing human and animal suffering, easing catastrophic risks, and — to put it simply — getting better at doing good.
+- 
+- Explanatory journalism is a public good
+- At Vox, we believe that everyone deserves access to information that helps them understand and shape the world they live in. That's why we keep our work free.   Support our mission and help keep Vox free for all by making a financial contribution to Vox today.
+- $95/year
+- $120/year
+- $250/year
+- $350/year
+- We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+- Each week, we explore unique solutions to some of the world's biggest problems.
+- Check your inbox for a welcome email.
+- Oops. Something went wrong. Please enter a valid email and try again.
+- Filed under:
+
+URL: https://www.biometricupdate.com/201907/persistent-ai-bias-examined-with-facial-recognition-water-gun-and-other-initiatives
+- 
+- An artist has developed a water gun which identifies targets with biometric facial recognition the European Commission’s SHERPA project on ethics in machine learning to show how algorithmic bias can lead to discrimination and unfair treatment, Horizon reports.
+- The demonstration comes just as Vice Motherboard reports the AI Portrait Ars app developed by the MIT-IBM Watson AI Lab ‘whitewashes’ images, in another case of apparent algorithmic racial bias. Mashable reporter Morgan Sung found the app significantly changed both her skin tone and facial features to make her seem more Caucasian in the portrait.
+- The app uses a generative adversarial network (GAN) to create portraits with generative and discriminator algorithms. IBM Research told Motherboard in a statement that the tool reflects the dataset, which was mostly drawn from “a collection of 15,000 portraits, predominantly from the Western European Renaissance period.” The company also says the strong alteration of colors and shapes is reflective of the Renaissance portrait style.
+- The app represents another instance in a growing list of biometric systems and algorithms working less well for non-white people.
+- Professor Bernd Stahl, SHERPA project leader, and director of the Centre for Computing and Social Responsibility at De Montfort University in Leicester, UK, says AI researchers should be aware by now of the ethical implications of their algorithms.
+- “Our artist has built a water gun with a face recognition on it so it will only squirt water at women or it can be changed to recognise a single individual or people of a certain age,” says Stahl. “The idea is to get people to think about what this sort of technology can do.”
+- The SHERPA team has conducted 10 empirical case studies on AI use in a range of sectors, and Stahl expresses concern about the impact of algorithms on people’s right to work and to free elections. Predictive policing is another field in which algorithmic bias could be particularly harmful. Stahl notes that transparency is also a significant part of the problem.
+- The EC has also launched the SIENNA project to develop recommendations and codes on conduct for emerging technologies, including AI. SIENNA is conducting workshops, expert consultations, and public opinion surveys, and is preparing to produce recommendations.
+- “If we don’t get the ethics right, then people are going to refuse to use it and that will annihilate any technical progress,” Stahl says.
+- algorithms  |  biometrics  |  ethics  |  facial recognition  |  machine learning  |  research and development
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.theverge.com/tldr/2019/7/22/20703810/ai-classical-portrait-apps-selfie-web-transformation
+- By  James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.
+- Bored of using AI to age yourself into a desiccated husk? Why not use it to turn your selfies into harrowing but artistic portraits instead? Head over to aiportraits.com, home of a fun little widget built by researchers at the MIT-IBM Watson AI Lab, and upload a photo to try out an artistic transformation for yourself.
+- The site uses an algorithm trained on 45,000 classical portraits to render your face in faux oil, watercolor, or ink. There’s a huge number of styles included in this database, covering artists from Rembrandt to Titian to van Gogh, with each input producing a unique portrait.
+- As the researchers point out, unlike earlier AI methods that created similar AI portraits, the algorithm here is not merely “painting over” your face in a new style. Instead, it uses what’s known as a generative adversarial network (GAN) to generate new features from scratch.
+- Certain elements within any selfie may prompt the algorithm to use a specific style. In the images below, for example, researchers say the algorithm “decides upon a Renaissance style, highlighting the elegance of the aquiline nose, the smoothness of the forehead.” If you try a few different selfies, you’ll certainly get different results.
+- Before you get worried about the privacy implications (as some have warned with face-aging app FaceApp), this does all seem above board. Your photos are sent to the creators’ servers in order to produce the portrait, but the researchers promise they won’t use your data for any other purpose, and any images you send are “immediately” deleted after use.
+- But know this: once the AI paints your portrait, your youthful features will be frozen forever, while your digital rendering ages day by day in your downloads folder. Yea, it will become a foul ledger of your life, a record of every sin and vice you commit. Its very existence will wrack your conscience and corrupt all pleasure and joy you had once hoped for.
+- But that’s fairly standard for this sort of privacy policy and nothing at all to worry about.
+- Original art from The Verge covering the future of technology, science, and culture
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://mindmatters.ai/2019/11/how-algorithms-can-seem-racist/
+
+URL: https://www.slashgear.com/ai-portraits-ars-transforms-selfies-into-a-piece-of-art-22584843/
+- AI is utilized today in so many ways that it might be easier to list where it isn't. In the tech industry, one of the most common uses of AI and machine learning is in photography, like touching up photos or even heavily modifying them, like the controversial FaceApp. Hopefully less damning, a new MIT research project called AI Portraits Ars takes those same principles to render selfies and photos in a stylistically correct masterpiece from the classics, the Renaissance, or even contemporary art.
+
+
+Style transfer this is not. That is also a popular AI application that takes a photo and applies the painting styles and colors of another art style. Impressive as that may be, the final product doesn't actually change the nature, form, or structure of the original phone.
+AI Portraits Ars, in contrast, generates an image that looks like it was painted by an artist from that period. Lines are blurred, skin tones are modified, and even hairstyles are changed. And the actual art period it applies can vary depending on the presence or absence of elements in the original photo.
+It's definitely a very impressive demonstration of some of the capabilities of AI and machine learning but it could also be a vehicle for tangential education as well. For example, the researchers point out how the AI isn't able to reproduce smiles in the final portrait. That's not because of some programming error but because the source materials, which focused mostly on 15th-century European art styles, also shied away from portraying smiles for one reason or another.
+
+Given the recent controversy surrounding the selfie-aging FaceApp app, it might have been poor timing to publicize this AI experiment, as impressive and whimsical as it may be. The site does have a privacy disclaimer that photos are immediately deleted after being processed by the AI but you'll have to put your faith in a group of MIT Researchers to keep their word.
+- AI is utilized today in so many ways that it might be easier to list where it isn't. In the tech industry, one of the most common uses of AI and machine learning is in photography, like touching up photos or even heavily modifying them, like the controversial FaceApp. Hopefully less damning, a new MIT research project called AI Portraits Ars takes those same principles to render selfies and photos in a stylistically correct masterpiece from the classics, the Renaissance, or even contemporary art.
+- Style transfer this is not. That is also a popular AI application that takes a photo and applies the painting styles and colors of another art style. Impressive as that may be, the final product doesn't actually change the nature, form, or structure of the original phone.
+- AI Portraits Ars, in contrast, generates an image that looks like it was painted by an artist from that period. Lines are blurred, skin tones are modified, and even hairstyles are changed. And the actual art period it applies can vary depending on the presence or absence of elements in the original photo.
+- It's definitely a very impressive demonstration of some of the capabilities of AI and machine learning but it could also be a vehicle for tangential education as well. For example, the researchers point out how the AI isn't able to reproduce smiles in the final portrait. That's not because of some programming error but because the source materials, which focused mostly on 15th-century European art styles, also shied away from portraying smiles for one reason or another.
+- Given the recent controversy surrounding the selfie-aging FaceApp app, it might have been poor timing to publicize this AI experiment, as impressive and whimsical as it may be. The site does have a privacy disclaimer that photos are immediately deleted after being processed by the AI but you'll have to put your faith in a group of MIT Researchers to keep their word.
+
+URL: https://tab.uol.com.br/noticias/redacao/2020/04/15/inteligencia-artifical-que-pinta-retratos-releva-vies-racial.htm
+- repórteres na rua
+- em busca da realidade
+- repórteres na rua
+- em busca da realidade
+- Marie Declercq
+- Do TAB
+- 15/04/2020 04h00
+- Com grande parte das pessoas trancadas em casa em quarentena para evitar o contágio da covid-19, o site AI Gahaku virou um passatempo engraçadinho. A ideia é subir uma selfie e esperar que a IA (inteligência artificial) "pinte" sua foto em diversos estilos da história da arte. No entanto, alguns internautas alertaram que Gahaku (que significa "grande artista" em japonês) modifica drasticamente os rostos de pessoas que não são brancas, deixando-as com traços mais "europeus".
+- Alguns usuários do Twitter postaram o "quadro" pintando pela IA questionando por que saíram brancas ou com feições europeias, e testamos a IA artista com fotos de celebridades para ver o resultado final. Todas saíram brancas ou borradas, como se Gahaku não reconhecesse a face apresentada.
+- 
+- Tá mas pq eu fiquei branca??? pic.twitter.com/JbPBSGnI7g
+- O problema do site japonês não é novidade — e é conhecido como "racismo algorítmico" por pesquisadores da área. No ano passado, o site AI Portrait Ars trazia a mesma proposta de recriar um retrato como pintura, mas usuários asiáticos e negros logo notaram que o software deformava seus rostos e os fazia parecer mais brancos. Criado por um pesquisador do Laboratório de IA do MIT-IBM Watson, o site foi tirado do ar. Segundo o laboratório, isso aconteceu por ser apenas um experimento, e que o problema não era da tecnologia em si, mas dos exemplos disponíveis no dataset (conjunto de dados) usado para ensinar a máquina a pintar os quadros. Em resumo, a IA pintava daquela forma por conta da menor quantidade de retratos de não brancos na história da arte. No caso do site criado pelo laboratório do MIT, foi usado um conjunto com mais de 15 mil pinturas do período renascentista da Europa ocidental.
+- So today I tried using Yunho's picture on this "Al Gahaku" canvas and these are some of the results ...... pic.twitter.com/NYUnXSNBEk
+- 
+- 
+- Datasets são informações tabuladas, reunidas especialmente para a programação de IAs, como softwares de reconhecimento facial. No caso das imagens, o maior dataset do mundo é o ImageNet, criado em 2009 pela pesquisadora Fei Ling-Ling, em que milhões de imagens são classificadas por palavras-chave. O problema começa aí. Quem determina essas classificações são seres humanos, que trazem consigo uma bagagem de vieses e preconceitos que refletem a desigualdade social. Outro serviço, o Amazon Mechanical Turk, contrata pessoas para executar funções relacionadas à tecnologia que ainda podem ser executadas com mais eficiência por humanos, sendo uma delas a curadoria e classificação de imagens. Além das péssimas condições de trabalho reportadas pelos contratados, também foram detectados também problemas de racismo na classificação das imagens.
+- No caso da ImageNet, o racismo tecnológico foi escancarado em 2019 pelo ImageNet Roulette, em que o usuário publicava sua fotografia e conferia as classificações atribuídas à sua imagem. Uma mulher branca recebia classificações como "mulher bonita", enquanto pessoas negras e de outras etnias recebiam classificações racistas como "negro", "black" e termos parecidos. A repercussão fez com que a ImageNet retirasse mais de 600 mil imagens de seu gigantesco banco de dados.
+- Por mais que a tecnologia seja vista por alguns como um grande equalizador na sociedade — por supostamente não trazer consigo preconceitos e desigualdades — ela é desenvolvida por seres humanos e, assim, sempre refletirá nossos vieses sociais, como o racismo e o machismo. Em um caso bastante emblemático dos anos 1970, filmes coloridos eram calibrados para deixar peles brancas mais bonitas. A mesma coisa se repetiu em 2018, quando a cientista e pesquisadora do MIT Joy Adowaa Buolamwini analisou programas de reconhecimento facial da IBM Watson, da Microsoft e da Face++ e descobriu que a margem de erro era sempre maior para mulheres negras. O trabalho de Buolamwini foi emblemático ao revelar problemas de diversidade nessas tecnologias e deu origem à Algorithmic Justice League, uma organização criada para questionar e combater o viés racista presente muitas vezes na fase de desenvolvimento de um software
+- Isso não significa que as IAs são malignas. Falta um maior cuidado na curadoria e uma disposição mais consciente em aumentar a diversidade nos datasets. "O dataset precisa ter exemplos, nesse caso, muitos exemplos de pessoas negras — especialmente mulheres. A IA comete esse tipo de erro por ter sido treinada com muitos exemplos de rostos de homens brancos. A discussão é essa. Você precisa tomar uma decisão muito consciente para rever esse conjunto de dados", explica ao TAB Sergio Venancio, artista, programador e professor.
+- Vendo vocês usarem esse site que transforma selfies em pinturas https://t.co/ZOUgyRyyQYE ele é basicamente uma Inteligência Artificial artistaUma de muitasEm 2018, inclusive, aconteceu pela primeira vez o leilão de uma obra de arte feita por uma IAEssa aqui: pic.twitter.com/NRD0BmidXq
+- No caso do Gahaku, Venancio diz que a falha em reconhecer e retratar corretamente pessoas que não são brancas se deve ao dataset usado e também à falta de variedade de rostos não europeus na arte da Europa ocidental. Há, no entanto, pesquisas extensas mostrando que a pintura renascentista não retratou apenas europeus, e que há diversos retratos de pessoas negras produzidos nesse período. Eles apenas não são muito conhecidos pelo público. O esforço, portanto, é trazer esses exemplos à tona para melhorar a curadoria e, nos casos em que haja poucos exemplos, buscar projetos que questionem a falta de representação das mulheres negras na arte ocidental.
+- "No caso da história da arte — em que as proporções de gênero, cor de pele, etnia, todas essas questões de diversidade estão bem desbalanceadas —, por mais que você pegue alguns exemplos mais diversos e dê para uma IA, o dataset continuaria desequilibrado. Essa revisão da própria história da arte é proposta por alguns artistas, que estão recriando clássicos da pintura renascentista colocando mulheres negras no lugar de homens ricos e divindades", diz Venancio.
+- O "embranquecimento" automático no site AI Gahaku já foi percebido por Sato Neet, programadora que levou um mês para criar o aplicativo. "Realmente confirmamos que alguns dos resultados da artista estão tendenciosos. Vamos usar uma variedade maior de dados para a AI aprender melhor, e assim aumentar a diversidade nos resultados", explicou Neet ao TAB.
+- ID: {{comments.info.id}}URL: {{comments.info.url}}
+- Por favor, tente novamente mais tarde.
+- 
+- Não é possivel enviar novos comentários.
+- Essa área é exclusiva para você, assinante, ler e comentar.
+- Ainda não é assinante? Assine já.
+- Se você já é assinante do UOL, faça seu login.
+- O autor da mensagem, e não o UOL, é o responsável pelo comentário. Reserve um tempo para ler as Regras de Uso do UOL.
+- 
+- 
+- "Para mim, é uma vingança", disse a atriz, artista visual e poeta Zahy Tentehar, dias antes da estreia da ópera "O
+- Divulgado nesta segunda-feira (15), o relatório final de investigações do centro vinculado à FAB (Força Aérea...
+- No país do sertanejo, uma geração de novatos tem levado o gênero a um outro patamar, liderando a agenda de...
+- "Uma das paulistanas mais roqueiras e ilustres, Rita Lee 'se comportou' durante o encerramento do show de...
+- É preciso que se diga: Rita Lee estabeleceu todas as bases. Antes de Rita, o "star system" feminino da música...
+- A semana mal começou e você, certamente, já começou a adiar as coisas. Um post nas redes sociais faz piada:...
+- Se fosse mais jovem, a professora Tracy Shipley, 60, teria saído de casa ainda de madrugada e enfrentado quase 3...
+- Quem anda pela região de Xintiandi, em Xangai, encara lojas de algumas das marcas mais simbólicas do capitalismo:...
+- Existem certos fenômenos na internet que são rapidamente assimilados por quem a frequenta, mas é difícil...
+- Em Taguatinga, região administrativa a 19 quilômetros de Brasília, conhecida pelo comércio e por ser um...
+- O estudante Gabriel Oliveira, 26, assistiu duas vezes à montagem brasileira da peça "Tom na Fazenda", em cartaz no
+
+- Stable Diffusion image generator
+- DALL-E image generator
+- Page infoType: IssuePublished: March 2023

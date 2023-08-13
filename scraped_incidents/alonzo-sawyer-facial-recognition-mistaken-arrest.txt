@@ -1,0 +1,228 @@
+- Occurred: 2022
+- Can you improve this page?Share your insights with us
+- 54-year old Alonzo Sawyer was arrested and jailed for nine days for an assault and theft he did not commit thanks to poor analysis of CCTV footage using facial recognition by an intelligence analyst at the Maryland Transit Administration Police, a unit of Baltimore Police Department.
+- The analysis failed to take into account the fact that Sawyer is older, taller than the suspect in the video, has facial hair and gaps between his teeth, and his right foot slews out when he walks, according to photographs shown to the police by his wife.
+- Maryland Chiefs of Police Association president Russ Hamill said that what happened to Alonzo Sawyer was 'horrifying' when speaking in opposition to a bill seeking to regulate the use of facial recognition in Maryland.
+- According to Deborah Levi, a Baltimore public defender in Baltimore, the Baltimore Police Department used facial recognition over 800 times in 2022.
+- In January 2023, it emerged that Georgia man Randall Reid had been wrongly arrested and jailed for a purse theft incident in Baton Rouge using facial recognition by Louisiana authorities, even though he had never visited the state.
+- Operator: Baltimore Police Department Developer:
+- Country: USA
+- Sector: Govt - police
+- Purpose: Strengthen security
+- Technology: CCTV; Facial recognition Issue: Accuracy/reliability; Bias/discrimination - race, ethnicity
+- Transparency: Governance; Black box
+- Baltimore Police Department website
+URL: https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Khari Johnson
+- Carronne Sawyer took the week off work to get her husband Alonzo out of jail. She knew he was asleep on the couch with her at the time police alleged he assaulted a bus driver near Baltimore and stole their smartphone. But an intelligence analyst using face recognition software had labeled him a possible match with the suspect seen on CCTV footage from the bus, police records show, and an officer had confirmed it.
+- At a police station and in a meeting with her husband’s former parole officer, the person who had confirmed the software’s suggested match, Carronne drew attention to details in photos on her phone taken recently by her daughter. Her husband is taller than the suspect in the video, she explained, and has facial hair and gaps between his teeth. His right foot slews out when he walks, something she did not see in video footage of the attack.
+- “I said my husband is 54 years old. This guy looks like he could be our son,” Carronne says. Alonzo was eventually released after nine days in jail, she says, during which time he missed his wife’s Gladys Knight tribute show and his work as a barber, and could not complete a construction contract he had secured. “I’m just grateful I was able to do all the labor and running around, because had I not he would still be sitting there for something he didn’t do,” Carronne says. The Sawyers’ ordeal took place in spring 2022 but has not previously been reported.
+- Around the time Alonzo was released, the victim in the bus incident identified another man as the suspect in the video, Deon Ballard, who is 7 inches shorter and more than 20 years younger than Sawyer, according to charging documents. Ballard’s mother and a police officer who arrested him confirmed that identification, one document shows, and he is due to stand trial in April.
+- Maryland Transit Administration Police did not respond to repeated requests for comment and deputy state’s attorney for Baltimore County John Cox declined to confirm Ballard and Sawyer were arrested for the same crime. WIRED was unable to speak with Alonzo Sawyer, who is serving time in a Maryland jail on a charge unrelated to the bus incident.
+- The Alonzo Sawyer case adds to just a handful of known instances of innocent people getting arrested following investigations that involved face recognition misidentification—all have been Black men. Three cases came to light in 2019 and 2020, and another last month, in which Georgia resident Randal Reid was released from jail after a judge recalled an arrest warrant linking him to thefts of designer purses in Louisiana.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Carronne Sawyer recalled her husband’s experience in public this month, calling in to the Maryland State House by video chat to speak in support of a proposed law to restrict police use of face recognition. The technology is largely unregulated in the US, but a wave of local restrictions and even bans have been passed in recent years.
+- Debates that led to those policies have often focused on discussions of harms from police use of face algorithms, such as the chilling effects on free speech and protests, or the consequences of surveillance tools being disproportionately used against communities of color. In Baltimore, Sawyer’s case provided a more tangible reminder of the reasons to restrict the technology.
+- Charles Sydnor, a Maryland state senator for Baltimore County, says that learning of Alonzo Sawyer’s case in fall 2022 inspired him to reintroduce the senate version of the proposed bill regulating face recognition, after a version failed to pass last year. “Not only is it in Maryland, but it’s in my backyard, my home jurisdiction,” Sydnor says. “My suspicion is you may have some in law enforcement say, well, the man got freed in nine days, so the system works. If face recognition kicks off investigations that land innocent people in jail, there’s a problem.”
+- Sydnor has been trying to put guardrails on face recognition for years. In 2020 he introduced a bill that would have placed a one-year moratorium on state and local government use of the technology. False arrests of Black men after incorrect matches by face recognition software that began to come to light later that year brought a renewed sense of urgency.
+- Face recognition systems have a history of misidentifying people with dark skin, and more than 60 percent of Baltimore residents identify as Black. Sydnor says he feels a pressing need to get regulation into place to protect their rights. He pivoted to proposing restrictions on face recognition that fall short of a ban after concluding that the technology was too widespread for a ban to be practical.
+- Sydnor’s proposed bill and an equivalent introduced in the Maryland legislature’s other chamber, the House of Delegates, would limit police use of face recognition to cases involving violent crimes, human trafficking, or “ongoing threat to public safety or national security.” They would also restrict police to searching for face matches in only databases of driver’s license and mug shot photos, putting off-limits services like that of startup Clearview AI, which scraped billions of face images from the web, including from social media.
+- The bills also require annual reports detailing police use of the technology, proficiency tests for the human analysts who pick possible matches from a list chosen by an algorithm, and police to have evidence beyond just a face recognition match to make an arrest.
+- Sydnor concedes that the proposed bill may not prevent the next case like that of Alonzo Sawyer, but he hopes it will still lead to better outcomes. “This bill was introduced as a compromise. It certainly isn’t as strong as I wanted it to be,” Sydnor says. “They’re not going to stop using [face recognition]. So long as there’s nothing in place, they’re going to continue using it unregulated.”
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- The proposed Maryland bills were developed with input from a working group that saw state lawmakers meet with prosecutors and public defenders, law enforcement agencies, and civil liberties groups like the ACLU and the Innocence Project.
+- Maryland is a unique place to debate face recognition regulation, says Andrew Northrup, an attorney in the forensics division of the Maryland Office of the Public Defender. He calls Baltimore “a petri dish for surveillance technology,” because the city spends more money per capita on police among 72 major cities in the US, according to a 2021 analysis by the nonprofit Vera Institute of Justice, and has a long history of surveillance technology in policing.
+- The use of invasive surveillance technology including face recognition in Baltimore during protests following the 2015 death of Freddie Gray led former House Oversight and Reform Committee chair Elijah Cummings to interrogate the issue in Congress. And in 2021, the Baltimore City Council voted to place a one-year moratorium on face recognition use by public and private actors, but not police, that expired in December.
+- Northrup spoke in favor of the bill and its requirement for proficiency testing at the same House of Delegates Judiciary Committee hearing addressed by Carronne Sawyer this month. He warned that as use of the technology becomes more common, bad face recognition could replace bad eyewitness identification as a major source of wrongful convictions. Most people are bad at recognizing strangers, Northrup says, even when assisted by an algorithm.
+- Organizations representing Maryland police and prosecutors participated in the formation of the proposed bill through the working group but have still raised opposition. In the Judiciary Committee hearing, Maryland Chiefs of Police Association president Russ Hamill said that what happened to Alonzo Sawyer was horrifying, but he spoke in opposition to the bill. He said it too tightly restricted the type of cases in which face recognition could be used and also complained about its limitations on which photo databases police can search.
+- Nick Picerno, a police captain for Montgomery County, an urban area near Washington, DC, also said those parts of the bill would hinder law enforcement. He  said officers in his department have previously used the technology to identify an indecent exposure suspect caught on a doorbell camera and to identify a child abuse victim in a TikTok video. He asked that the proposal be modified to allow use of face recognition to identify both suspects and witnesses in many more categories of crime, including firearm possession, child pornography, domestic violence, and cruelty to animals.
+- Deborah Levi, a public defender in Baltimore, told the hearing that her public records requests indicated that the Baltimore Police Department alone used face recognition more than 800 times in 2022. In one case, police ran an Instagram photo of a person holding a gun through face recognition software, then secured a no-knock warrant for the address of the person suggested as a match, she said.
+- Carronne Sawyer supports the proposed law because she believes it stipulation that face recognition “may not serve as the sole basis for positive identification” would have made a difference in her husband’s case. His ordeal changed how she feels around police and took away her faith in due process, she says, leaving her convinced that society urgently needs regulation like that under discussion in Maryland.
+- “I’m just thinking about how many other people have gone through what my husband had to go through and didn’t have anybody to fight for them,” she says. “How many people are sitting in jail now for something they didn’t do because of facial recognition and law enforcement agencies not doing their due diligence?”The Maryland state legislature adjourns in April and won’t meet again until January 2024. If the proposed bills do not pass before then, police use of face recognition will remain unregulated in the state for at least another year.
+- 📨 Understand AI advances with our Fast Forward newsletter
+- 🎧 Our new podcast wants you to Have a Nice Future
+- Doug Rushkoff is ready to renounce the digital revolution
+- This is catfishing on an industrial scale
+- The post office is spying on mail. Senators want to stop it
+- Waluigi, Carl Jung, and the case for moral AI
+- Tears of the Kingdom’s creators answer your questions
+- 📷 Snap into spring with the Gear team’s picks for the best camera bags, fun instant cameras, and mirrorless cameras
+- Khari Johnson
+- Khari Johnson
+- Morgan Meaker
+- Morgan Meaker
+- Justin Ling
+- Parth M.N.
+- Dell Cameron
+- Morgan Meaker
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.techdirt.com/2023/03/03/facial-recognition-pitches-in-to-help-cops-arrest-a-maryland-man-for-a-crime-he-didnt-commit/
+- Legal Issues
+- Facial recognition tech needs more work. It’s not great. Even when it’s good, it’s still pretty bad. While it performs well when identifying people not often considered to be criminal suspects (middle-aged white men), it’s far less accurate when identifying everyone else (minorities, women).
+- Cops don’t often see what the problem is. Their job usually involves harassing/arresting minorities, so anything that lends itself to business as usual is considered capable and competent.
+- This tech is now law enforcement mainstream. And it’s doing what critics said it would do: resulting in bogus arrests predicated on nothing more than digital conclusions drawn by underperforming tech.
+- What’s been seen elsewhere in the nation has now been observed in Maryland. According to this report by Khari Johnson for Wired, facial recognition tech has played an integral part in another wrongful arrest of an innocent person.
+- Alonzo Sawyer was arrested for an assault and theft he didn’t commit. The software said his face matched the CCTV footage. But focusing on Sawyer’s face ignored everything else about the suspect captured on video. Fortunately for Alonzo, his wife (Carronne Sawyer) went to bat for him after he was arrested.
+- Carronne drew attention to details in photos on her phone taken recently by her daughter. Her husband is taller than the suspect in the video, she explained, and has facial hair and gaps between his teeth. His right foot slews out when he walks, something she did not see in video footage of the attack.
+- “I said my husband is 54 years old. This guy looks like he could be our son,” Carronne says.
+- All of these differences were ignored by the tech and the person operating it, the Maryland Transit Administration Police’s “intelligence analyst.” Both the tech and the human backstop ignored obvious discrepancies, like the fact that Alonzo Sawyer was seven inches taller and 20 years older than the second person the MTA eventually arrested, Deon Ballard.
+- Thanks to this failure, Maryland state senator, Charles Syndor, is, once again, seeking to block facial recognition tech use by government agencies. His first attempt, mounted in 2021, failed to go anywhere. With a wrongful arrest now on the record, Senator Syndor figures this is the best time to push legislation seeking to regulate law enforcement use of unproven (and unregulated) tech.
+- If passed, the legislation will do more than curtail MTA’s careless wielding of the powerful, but inaccurate, tech. The Baltimore PD is a fan of facial recognition and wholeheartedly embraces its arrival. According to public defender Deborah Levi, public records show the Baltimore PD ran more than 800 facial recognition searches in 2022 alone — a twice-a-day occurrence that doesn’t appear to have resulted in more meaningful arrests. Then again, it also didn’t result in more bogus arrests, which is the sort of thing that can be considered a win, even if it just means the faulty tech wasn’t abused.
+- Until cops are willing to be honest and open about this tech, they shouldn’t be trusted with it. And no cop agency should be allowed to use nothing more than a purported match to obtain arrest warrants or stop citizens going about their daily business. The tech is too raw to trust. And if cops think it actually works as well as advertised, it’s only because they want their preexisting biases to be confirmed.
+- Filed Under: alonzo sawyer, facial recognition, false arrest, maryland, maryland transit administration police
+- Now think of Devin Nunes, the Internet cow, facial age verification and face recognition… shudder.
+- Now think of Devin Nunes
+- I’d rather not.
+- *udder
+- 🤣
+- This will be a long term problem, sadly. Some people will welcome the ambiguity or false positives known of a system to distract from their own prejudices. Computer told them to, it’s not that they wanted a guy or they hate a race, they were just following orders, so to speak.
+- Whether they’re deliberately passing the buck or they genuinely just did what the computer said is almost irrelevant, when it says Buttle and not Tuttle, someone is in trouble despite the evidence in front of them.
+- Not simply “following orders”. Once they make an arrest, they can say they have a suspect in custody, they have action on the case.
+- … even if that action on the case results in a multi-million dollar settlement later, THEY aren’t paying the settlement.
+- You might not be able to block them from using it because the public will fall for the hype & fear…
+- The much better solution is when it is wrong, there is an award paid to the falsely accused that is very public and very large.
+- Imagine putting the accused in this case in front of a judge to look at him and the video & the questions the Judge would ask about when the human reviewer was declared legally blind.
+- Until there is a penalty that hurts, they will keep pushing tech to be the answer even when the tech is a complete failure.
+- Exactly, and the media doesn’t help. I can’t watch ‘FBI’ (CBS on Tuesday night) because, well one reason why, they use facial recognition at least once an episode. And its never wrong!
+Even worse, on the ‘International’ version they had a program that would construct a face from a voice recording and then used facial reconstruction to match that face. Even the Europol cop they work with didn’t believe it.
+When the easily bamboozeled public sees this they don’t want to listen to stories like this one where the tech didn’t perform miracles.
+- One famously atrocious show (I forget which) featured them trying to “hack” harder, so two people started typing furiously on the same keyboard. There’s always the notorious “enhance, enhance” trope where people zoom into a fuzzy video until they get a crystal clear image of something reflected in a person’s eyes that reveals the real criminal.
+- It’s all fun and games until someone who falls for that stuff is in the jury, and the US seems to have a culture that tells people that if they end up in the jury they failed at something anyway.
+- There’s already been so much abuse of DNA evidence I shudder to think of the consequences of facial recognition, but when you have people driving into rivers because their GPS told them to, blind allegiance to facial recognition is probably inevitable.
+- The problem with that is that police departments- have no money of their own. Those very large awards you suggest would be paid with other people’s money – losing money that was never yours and never would be yours doesn’t hurt at all.
+- Are also voters. Voters who flatly refuse to shorten the reigns on the cops. Well, big expenses are the obvious and predictable cost of not electing leaders willing to take on their own enforcers.
+- The much better solution is when it is wrong, there is an award paid to the falsely accused that is very public and very large.
+- If fines worked law enforcement departments wouldn’t keep paying them out.
+- No if you want to motivate them to stop using garbage tech and/or start respecting laws and rights you can drop the fine amount to a painful but modest amount you just need to make it personal, because it’s one thing to accuse someone of a crime when the department is on the hook should it turn out they were innocent but it’s something else entirely when bank accounts of the individual officers in question are on the line for it.
+- Cops love wonky facial recognition for the same reason they love those $2 drug field test kits that have a false-positive rate over 50% – their goal isn’t to catch actual criminals, their goal is to fill the holding cells to prove their job is vital to society.
+- If a court later drops 99% of all the charges police generate, that’s on the courts, not the cops.
+- So in other words, the Maryland cops are fans of what can only be described as Faecal Recognition. Yes, it’s shitty at its job. But what the heck, it’s genuine computer Faecal Recognition.
+- I expect, if the Marylanders can be arsed to save their sanity, for protestors with placards with pictures of cops faces placed next to pictures of faeces, and above it, the legend, “Faecal Recognition Works”.
+- “Until cops are willing to be honest and open”
+- HAHAHA
+- They sometimes are, they are entirely honest and open when they say “I’m gonna fuck you up!”
+- “We were equally unreliable but at least we were not racist!”
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://vervetimes.com/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/
+
+URL: https://www.msn.com/en-us/news/crime/another-black-man-falsely-accused-thanks-to-facial-recognition-technology/ar-AA186vHw
+- In Spring 2022, a Maryland man named Alonzo Sawyer was jailed for allegedly assaulting a Baltimore bus driver and stealing his phone. Sawyer was identified as a suspect by an analyst using facial recognition software on closed-camera TV footage of the incident.
+- The problem? Sawyer looked nothing like the perpetrator. As his wife informed the authorities, the person in the footage looked much younger, much shorter, and had other different features—like no facial hair and no gaps between his teeth. He even moved differently; her husband's right foot sticks out when he walks.
+- Related: Can Artificial Intelligence Help Reduce Police Brutality?
+- As WIRED reports on the details that only recently became public, the 54-year-old Sawyer was jailed for nine days, missing work, and accused of a crime because of artificial intelligence tech that has been shown to misidentify those with darker skin, particularly Black men in previous cases. As the story points out, "Face recognition systems have a history of misidentifying people with dark skin, and more than 60 percent of Baltimore residents identify as Black."
+- Outrage over this and previous incidents has lawmakers in Maryland trying to pass restrictions on facial-recognition use in the state, but it's a tight deadline; the legislature adjourns in April and doesn't return until early next year. Previously, there was a one-year moratorium on this type of tech, but it only applied to public and private users, not police. And it expired at the end of 2022.
+- How often do police use it? One public defender in Baltimore says her research shows Baltimore PD used facial recognition 800 times last year. A simple Instagram photo, she said, could be used to secure a no-knock warrant against a matching suspect.
+- It’s understandable if you're a fan of ChatGPT and are all-in on AI. But when police forcibly enter your residence and you didn't do anything, things become clear: The algorithms are not your friends.
+- More From LEVEL:
+
+URL: https://www.levelman.com/another-black-man-falsely-accused-thanks-to-facial-recognition-technology/
+- Maryland is considering restricting the tech, which sometimes misidentifies those with darker skin as potential suspects
+- In Spring 2022, a Maryland man named Alonzo Sawyer was jailed for allegedly assaulting a Baltimore bus driver and stealing his phone. Sawyer was identified as a suspect by an analyst using facial recognition software on closed-camera TV footage of the incident.
+- The problem? Sawyer looked nothing like the perpetrator. As his wife informed the authorities, the person in the footage looked much younger, much shorter, and had other different features—like no facial hair and no gaps between his teeth. He even moved differently; her husband's right foot sticks out when he walks.
+- Related: Can Artificial Intelligence Help Reduce Police Brutality?
+- As WIRED reports on the details that only recently became public, the 54-year-old Sawyer was jailed for nine days, missing work, and accused of a crime because of artificial intelligence tech that has been shown to misidentify those with darker skin, particularly Black men in previous cases. As the story points out, "Face recognition systems have a history of misidentifying people with dark skin, and more than 60 percent of Baltimore residents identify as Black."
+- Outrage over this and previous incidents has lawmakers in Maryland trying to pass restrictions on facial-recognition use in the state, but it's a tight deadline; the legislature adjourns in April and doesn't return until early next year. Previously, there was a one-year moratorium on this type of tech, but it only applied to public and private users, not police. And it expired at the end of 2022.
+- How often do police use it? One public defender in Baltimore says her research shows Baltimore PD used facial recognition 800 times last year. A simple Instagram photo, she said, could be used to secure a no-knock warrant against a matching suspect.
+- It’s understandable if you're a fan of ChatGPT and are all-in on AI. But when police forcibly enter your residence and you didn't do anything, things become clear: The algorithms are not your friends.
+- 
+- More From LEVEL:
+- We're Not Falling for Marjorie Taylor Greene's White Tears
+- Omar L. Gallaga
+May 26, 2023
+- Black Kids Have the Worst Rates of Asthma of Any Race in the U.S.
+- Omar L. Gallaga
+May 24, 2023
+- Oakland Athletics Announcer Fired Over Racial On-Air Oopsie
+- Omar L. Gallaga
+May 23, 2023
+- NAACP Issues Florida Travel Advisory, Confirming What Many Already Knew
+- Omar L. Gallaga
+May 22, 2023
+- The Five-Year Fallout of the Viral 'Starbucks Racism' Video
+- Omar L. Gallaga
+May 19, 2023
+- The Black Man's Blueprint
+- © 2023 LEVEL Man
+
+URL: https://t3n.de/news/gesichtserkennung-mann-unschuldig-1537966/
+- Eine fehlerhafte Gesichtserkennung sorgte dafür, dass US-Amerikaner Alonzo Sawyer neun Tage im Gefängnis verbrachte – obwohl er unschuldig ist. Es ist nicht der erste derartige Fall.
+- Gesichtserkennung: Bei Schwarzen Menschen macht die Software oft Fehler. (Bild: yurakrasil/Shutterstock)
+- 
+- Eigentlich verbrachte der 54-jährige Alonzo Sawyer mit seiner Frau einen ruhigen Abend auf der Couch. Entsprechend unmöglich war es, dass er zur selben Zeit einen Bus überfällt und den Fahrgästen ihre Smartphones stiehlt.
+- Genau das warf ihm aber kurze Zeit später die Polizei vor, nachdem ein Analyst mithilfe einer KI-Gesichtssoftware Sawyer auf einem Überwachungsvideo von dem Vorfall erkannt haben will. Das brachte ihn für neun Tage hinter Gitter.
+- Sawyers Frau versuchte, seine Unschuld zu beweisen. Neben ihrer Aussage von dem auf der Couch verbrachten Abend erkannte sie auf dem angeblichen Beweisvideo auch, dass der Verdächtige dort keinesfalls ihr Mann sein konnte.
+- Denn derjenige, der den Bus überfallen hatte, war deutlich kleiner und jünger, hatte keinen Bart und keine Zahnlücken – im Gegensatz zu ihrem Mann. Außerdem hat Sawyer laut seiner Frau einen auffälligen Gang. Auch das habe sie in dem Videomaterial nicht erkennen können, wie Wired berichtet.
+- Sawyer hatte letztlich Glück im Unglück: Ein Opfer des Überfalls hatte einen anderen Verdächtigen ausgemacht. Dieser war tatsächlich fast 20 Zentimeter kleiner und 20 Jahre jünger als Sawyer und muss sich im April 2023 für den Überfall verantworten.
+- Nach einigen Tagen wurde Sawyer also aus der Untersuchungshaft entlassen.
+- Es ist nicht der erste Fall, bei dem ein Mensch in den USA aufgrund einer fehlerhaften Gesichtserkennung unschuldig ins Fadenkreuz der Ermittlungsbehörden gerät.
+- Erst Anfang dieses Jahres war von einem ähnlichen Fall berichtet worden. Hier war ein 28-Jähriger auf Basis einer Gesichtserkennung verhaftet worden. Auch hier passten weder Gewicht noch Größe mit der Täterbeschreibung zusammen.
+- Dennoch hielten die Behörden an ihrer Überzeugung fest. Letztlich rettete den Mann ein deutlich sichtbares Muttermal, das dem realen Täter fehlte.
+- Bei den dokumentierten ähnlich gelagerten Vorfällen der vergangenen Jahre, bei denen eine Gesichtserkennung für die Verhaftung Unschuldiger gesorgt hat, ging es ausschließlich um Schwarze Menschen. Bekannt ist, dass entsprechende Software bei Nicht-Weißen eine höhere Fehlerrate aufweist.
+- Empfohlene redaktionelle Inhalte
+- Hinweis zum Datenschutz
+- Leider ist etwas schief gelaufen...
+- Das Problem ist, dass sich viele US-Behörden dennoch bei der Strafverfolgung auf Gesichtserkennungssoftware wie die umstrittene Clearview AI verlassen. Offenbar so sehr, dass sie auffällige Abweichungen, etwa beim Körperbau, ignorieren.
+- Die Technologie ist in den USA weitgehend unreguliert im Einsatz. Einige US-Staaten haben sie aber schon verboten oder eingeschränkt. Fälle wie der aktuelle sorgen sicher für weiteren Gesprächsstoff.
+- Bitte gib eine gültige E-Mail-Adresse ein.
+- Es gab leider ein Problem beim Absenden des Formulars. Bitte versuche es erneut.
+- Bitte gib eine gültige E-Mail-Adresse ein.
+- Hinweis zum Newsletter & Datenschutz
+- Bitte klicke auf den Link in der Bestätigungsmail, um deine Anmeldung abzuschließen.
+- Du willst noch weitere Infos zum Newsletter?
+                Jetzt mehr erfahren
+- Wir freuen uns über kontroverse Diskussionen, die gerne auch mal hitzig geführt werden dürfen. Beleidigende, grob anstößige, rassistische und strafrechtlich relevante Äußerungen und Beiträge tolerieren wir nicht.
+                            Bitte achte darauf, dass du keine Texte veröffentlichst, für die du keine ausdrückliche Erlaubnis des Urhebers hast. Ebenfalls nicht erlaubt ist der Missbrauch der Webangebote unter t3n.de als Werbeplattform. Die Nennung
+                            von
+                            Produktnamen, Herstellern, Dienstleistern und Websites ist nur dann zulässig, wenn damit nicht vorrangig der Zweck der Werbung verfolgt wird.
+                            Wir behalten uns vor, Beiträge, die diese Regeln verletzen, zu löschen und Accounts zeitweilig oder auf Dauer zu sperren.
+- Trotz all dieser notwendigen Regeln: Diskutiere kontrovers, sage anderen deine Meinung, trage mit weiterführenden Informationen zum Wissensaustausch bei, aber bleibe dabei fair und respektiere die Meinung anderer.
+                            Wir wünschen Dir viel Spaß mit den Webangeboten von t3n und freuen uns auf spannende Beiträge.
+- Dein t3n-Team
+- Melde dich mit deinem t3n Account an oder fülle die unteren Felder aus.
+- Dein Kommentar
+- Kommentar absenden
+- Kommentar absenden
+- Bitte schalte deinen Adblocker für t3n.de aus, um diesen Artikel zu lesen.
+- Wir sind ein unabhängiger Publisher mit einem Team von mehr als 75 fantastischen Menschen,
+                            aber ohne riesigen Konzern im Rücken. Banner und ähnliche Werbemittel sind für unsere
+                            Finanzierung sehr wichtig.
+- Schon jetzt und im Namen der gesamten t3n-Crew: vielen Dank für deine Unterstützung! 🙌
+- Deine t3n-Crew
+- Bitte melde dich an, um diesen Artikel in deiner persönlichen Merkliste auf t3n zu speichern.
+- Du hast schon einen t3n-Account? Hier anmelden
+- Spreading knowledge & future optimism.
+- agof- und IVW-geprüft
+- Ausgezeichnet von kununu
+
+- Randall Reid facial recognition wrongful arrest, jailing
+- Rio de Janeiro facial recognition wrongful arrests
+- Page infoType: Incident Published: March 2023

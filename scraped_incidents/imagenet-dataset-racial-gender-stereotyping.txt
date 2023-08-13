@@ -1,0 +1,763 @@
+- ImageNet image recognition dataset
+- Released: 2008
+- Can you improve this page?Share your insights with us
+- Developed by Princeton University researchers in 2008, ImageNet is a database that was intended to help developers of image recognition-based systems by creating a dataset that was a) large, b) diverse and c) high quality.
+- Widely regarded as a landmark in computer vision research and its sub-set, object recognition, ImageNet was free and open to researchers on a non-commercial basis, though closed to journalists and other public interest parties.
+- The resource was the subject of an annual ImageNet Large-Scale Visual Recognition Challenge (or ImageNet Challenge) from 2010 to 2017, and resulted in the realisation of the effectiveness of deep learning and neural networks, and their adoption and use by academics, researchers, and technology professionals.
+- However, ImageNet has also prompted heated debate regarding the accuracy and fairness of its labeling, and its failure to respect the rights of people whose images its developers collected without their consent.
+- In September 2019, ImageNet Roulette, a website that encouraged users to upload selfies and then analyse what it saw, revealed that ImageNet contained inaccurate, derogatory, and racially offensive information.
+- ImageNet Roulette told people what it thought they look like by running their photos through a neural network trained on ImageNet, a database that identifies and classifies over 14 million photographs.
+- While many captions produced by the code were harmless, some turned out to be inaccurate, or contained racist, misogynistic and other discriminatory and derogatory slurs.
+- Created by Kate Crawford, co-founder of the AI Now Institute, artist Trevor Paglen, and software developer Leif Ryge, ImageNet Roulette was a 'provocation designed to help us see into the ways that humans are classified in machine learning systems.'
+- The ensuing fracas led the developers of ImageNet to scrub 'unsafe' and 'sensitive' labels from the database, and to remove links to related photographs.
+- By automatically scraping images from Google, Bing and photo-sharing platform Flickr to build its training dataset without consent, ImageNet developers were accused of ignoring user privacy, leading lawyers and rights activists to call for stronger privacy and copyright laws.
+- In March 2021, the ImageNet team announced it had blurred 243,198 photographs in its database using Amazon's Rekogniton image and video analytics service.
+- The update was seen to have minimal impact on the classification and transfer learning accuracy of the dataset; however, some commentators argued it would damage ImageNet's relevance by styming its reproducibility.
+- Operator: Kate Crawford; Trevor Paglen Developer: Princeton University; Jia Deng; Wei Dong, Richard Socher; Li-Jia Li; Kai Li; Fei-Fei Li Country: USA Sector: Research/academia Purpose: Identify objects Technology: Dataset; Computer vision; Object detection; Object recognition; Machine learning; Deep learning Issue: Accuracy/reliability; Bias/discrimination - race, ethnicity, gender, religion, national identity, location; Copyright; Privacy Transparency: Governance; Privacy
+- Website
+- Dataset
+- Wikipedia profile
+- Research paper
+- Li F.F., Krishna, R. (2022). Searching for Computer Vision North Stars (pdf)
+- Trevor Paglen: ImageNet Roulette website
+- Prabhu V.U., Birhane A. (2020). Large image datasets: A pyrrhic win for computer vision?
+- Dulhanty C., Wong A. (2019). Auditing ImageNet: Towards a Model-driven Framework for Annotating Demographic Attributes of Large-Scale Image Datasets
+URL: https://www.wired.com/story/viral-app-labels-you-isnt-what-you-think/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Gregory Barber
+- Application
+- Content moderation
+- Ethics
+- Prediction
+- End User
+- Research
+- Sector
+- Research
+- Source Data
+- Images
+- Technology
+- Machine learning
+- Machine vision
+- This week, the denizens of Twitter began posting photos of themselves with an odd array of labels. Some, like “face,” were confusingly benign, while others appeared to verify harder truths: Your humble writer was declared a cipher, a nobody, “a person of no influence.” Fair enough. But many of the labels were more troubling. There were rape suspects and debtors. A person would be labeled not just black, but “negro” and “negroid.”
+- The project, called ImageNet Roulette, is an effort by artist Trevor Paglen and researcher Kate Crawford to illustrate the dangers of feeding flawed data into artificial intelligence. It takes aim at one of the field’s seminal resources: ImageNet, the database of 14 million images that’s credited with unlocking the potential of deep learning, the technique used for everything from self-driving cars to facial recognition. The algorithm behind the Roulette tool is trained using images within ImageNet that label people across 2,395 categories, from “slatterns” to “Uzbeks.” “I wanted to crack ImageNet open and look at images that weren’t meant to be looked at,” says Paglen. The experiment, now viral, has plenty of people asking just how those labels got there in the first place, and why they remain.
+- ImageNet labeled the author a "psycholinguist."
+- The answers stem from the swift evolution of AI from a juvenile science to everyday tool, and the burying of potential bias in reams of data. Recently the problem has started receiving attention from those within the field. That includes ImageNet’s creators, who say they are well aware of the flaws in their database and have been working to fix problems within the “person” labels over the past year. They point out that the images of people are rarely used by researchers; all the same, the creators say they’ve been in the process of “debiasing” the data set.
+- That effort included removing most of the 14 million images from Stanford servers in January while the team reviewed categories deemed offensive and how to make the distribution of images more diverse. The team also plans to eliminate categories they consider “nonvisual,” because how else does an algorithm identify someone as a “Bahamian” or a “debtor” if not by some kind of contextual cheat or built-in bias? They submitted a publication describing their methods for peer review in August.
+- Still, the problems with ImageNet illustrate how bias can propagate from mostly forgotten sources. In this case, the source starts in the mid-1980s, with a project at Princeton called WordNet. WordNet was an effort by psychologists and linguists to provide a “conceptual dictionary,” where words were organized into hierarchies of related meaning. You might travel from animals to vertebrates to dogs to huskies, for example, or perhaps branch off along the way into cats and tabbies. The database goes beyond the pages of Merriam-Webster, including everything from obscure desserts to outdated slang. “A lot of of the terms that were considered socially appropriate then are totally inappropriate now,” says Alexander Wong, a professor of computer science at the University of Waterloo.
+- 
+- In 2009, the creators of ImageNet, who include Fei-Fei Li and Kai Li, set out to create a similar hierarchy for images, believing it could be a useful tool for teaching AI how to identify and categorize objects. Their ambitions were grand: to create a visual library of nouns, using WordNet as a handy template. But annotating images was time-consuming and expensive, especially when it involved paying Princeton undergrads to do it. The process eventually scaled up with the help of annotators crowdsourced on Amazon’s Mechanical Turk, who would identify objects in images and remove bad matches.
+- The ImageNet researchers attribute the inclusion of offensive and insensitive categories to the overall size of the task, which ultimately involved 50,000 workers who evaluated 160 million candidate images. They also point out that only a fraction of the “person” images were actually used in practice. That’s because references to ImageNet typically mean a smaller version of the data set used in the ImageNet Challenge, a competition among research teams to build AI that detects and classifies objects in the images. Out of the 20,000 or so classes of objects, the competition was limited to 1,000, representing just over a million images. Only three “person” categories—scuba diver, groom, and baseball player—were included. The best models trained using that limited version are typically the ones used in other research and real-world applications.
+- Paglen says the debiasing effort is a positive step, but he finds it revealing that the data apparently went unexamined for 10 years. “The people building these data sets seem to have had no idea what’s in them,” he says. (The ImageNet team says the debiasing project is part of an “ongoing” effort to make machine learning more fair.)
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Wong, the Waterloo professor, who has studied biases within ImageNet, says the inattention was likely in part because, at the time the database was made, researchers were focused on the basics of getting their object detection algorithms to work. The enormous success of deep learning took the field by surprise. “We’re now getting to a point where AI is usable, and now people are looking at the social ramifications,” he says.
+- The ImageNet creators acknowledge that their initial attempts at quality control were ineffective. The full data set persisted online until January, when the researchers removed all but the ImageNet Challenge images. The new release will include fewer than half of the original person images. It will also allow users to flag additional images and categories as offensive, an acknowledgement that “offensiveness is subject and also constantly evolving,” the ImageNet team writes.
+- “The people building these data sets seem to have had no idea what’s in them.”
+- The removal of images has itself proved controversial. “I was surprised a large chunk of the data just disappeared in January without anybody saying anything,” Paglen says. “This is a historically important database.” He points out that the data is likely still in the wild, downloaded on various servers and home computers; removing the data from an accessible home only makes biases more difficult to reproduce and study, he says.
+- Even researchers were surprised to find out that the data was removed as part of a debiasing project. Chris Dulhanty, one of Wong’s graduate students, says he had reached out to the ImageNet team to request data earlier this year but didn’t hear back. He assumed removal had to do with technical issues on the aging ImageNet site. (The ImageNet team did not respond to questions about the decision to remove the data but said they would discuss with other researchers the possibility of making it available again.)
+- In a paper accompanying ImageNet Roulette, Paglen and Crawford liken the removal of images from ImageNet to similar moves by other institutions. In June, for example, Microsoft removed its “MS-Celeb” database after a Financial Times investigation.
+- The ImageNet debiasing effort is a good start, Wong says. But he hopes the team will make good on plans to look at bias beyond the person categories. About 15 percent of the “nonperson” images do, in fact, contain people somewhere in the frame, he notes. That could lead to inadvertent associations—say, between black people and the label “basketball,” as one research team noted, or between objects related to computers and people who are young, white, and male. Those biases are more likely embedded in widely used models than in any of those contained in the “person” labels.
+- Paglen says that attempts to debias may be futile. “There’s no such thing as a neutral way of organizing information,” he says. He and Crawford point to other more recent data sets that have attempted a more nuanced approach to sensitive labels. He points to an IBM attempt to bring more “diversity” to faces by measuring facial dimensions. The authors hope it’s an improvement over human judgments but note it raises new questions. Is skin tone a better measure? The answers will reflect evolving social values. “Any system of classification is going to be of its moment in time,” he says. Paglen is opening an exhibition in London next week that intends to illustrate AI’s blind ignorance in that area. It begins with a Magritte painting of an apple, labeled “Ceci n’est pas une pomme.” Good luck convincing an AI algorithm of that.
+- Will Knight
+- Reece Rogers
+- Matt Burgess
+- Will Knight
+- Will Knight
+- Charles Platt
+- David Nield
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.nbcnews.com/mach/tech/playing-roulette-race-gender-data-your-face-ncna1056146
+- Morning Rundown: Biden and McCarthy reach a debt deal, a building collapse in Iowa and ‘Succession’ finale
+- 
+- More from NBC
+- © 2022 NBCNEWS.COM
+- A few months ago, an art project appeared online that offered people the chance to see just how one of the most widely used photo research databases would categorize them.
+- People can upload photos of themselves to the project, called ImageNet Roulette, where they're matched against the "people" categories of ImageNet, the 10-year-old photo database at the heart of some of the biggest machine learning efforts. The system then classifies people based on similar photos tagged in the database.
+- The results are frequently wacky — it thought Donald Trump Jr. was a "steward/flight attendant" — but also often offensive. As exhaustively aggregated on social media since the project resurfaced recently, caucasian-appearing people are generally classified in terms of jobs or other function descriptors; darker-skinned people — or even just dark pictures of anyone — are frequently described in terms of race:
+- Fun* game: feeding in my Guardian 'Can I Cook LIke' photoshoots into the Imagenet software and seeing what I get. https://t.co/yoBOoCjEYV pic.twitter.com/OLCqiZkXnA
+- No matter what kind of image I upload, ImageNet Roulette, which categorizes people based on an AI that knows 2500 tags, only sees me as Black, Black African, Negroid or Negro. Some of the other possible tags, for example, are “Doctor,” “Parent” or “Handsome.” pic.twitter.com/wkjHPzl3kP
+- So I tried out imagenet and it turns out I'm black. Well I'm about to have an awkward conversation with my parents pic.twitter.com/8Txh6slhcc
+- Women, as well, are often classified by how the algorithm assesses their appearance:
+- my imagenet roulette readings really range from whiteface clown goofball (TRU!) to smasher/ stunner/ mantrap/ PEACH (oKAY) pic.twitter.com/wWm9jl0G55
+- File this one under AI/Gender Bias: thank you, ImageNet, you really captured my essence here. https://t.co/Wo6qy88crv pic.twitter.com/aOEyTClmfn
+- The author of this article gave it a try, as seen in the illustration at the top, and was categorized as "draftsman, drawer: an artist skilled at drawing," which is about as wrong as it can be.
+- This is, in fact, the point of the project, created by Trevor Paglen, a noted technology artist who has received a MacArthur Fellowship "genius" grant.
+- Paglen and his co-creator, Kate Crawford, co-director of the AI Now Institute at New York University, say explicitly that the project is a "provocation designed to help us see into the ways that humans are classified in machine learning systems."
+- "That is by design: We want to shed light on what happens when technical systems are trained on problematic training data," Paglen and Crawford say. "AI classifications of people are rarely made visible to the people being classified. ImageNet Roulette provides a glimpse into that process — and to show the ways things can go wrong."
+- ImageNet, the giant image database used by the project, hasn't directly addressed the web tool. But as the tool went viral, reinvigorating the debate around the development of artificial intelligence systems and the biases that can be introduced through existing datasets, ImageNet announced this week that it would scrub more than half of the 1.2 million pictures of people cited in its sprawling collection.
+- "Science progresses through trial and error, through understanding the limitations and flaws of past results," ImageNet said in a statement. "We believe that ImageNet, as an influential research dataset, deserves to be critically examined, in order for the research community to design better collection methods and build better datasets."
+- ImageNet Roulette returned to wide attention on Monday in connection with an exhibit called "Training Humans," which opened last week at Fondazione Prada, a modern art museum in Milan, Italy.
+- Paglen and Crawford say they don't generate the offensive descriptions, which they say come solely from the language categories that ImageNet uses.
+- It's the same language structure that ImageNet uses to catalog all of its 14 million images into 22,000 visual categories — the same language structure that has influenced the work of research teams from some of the biggest names in technology, including Google and Microsoft, which have used it in competitions to refine the algorithms driving their own object recognition systems.
+- Concern that such programs can embed racial and gender bias in artificial intelligence systems has been at the forefront of artificial intelligence discussions in recent months as companies and law enforcement agencies increasingly adopt facial recognition technologies to identify everyday people with greater accuracy.
+- Last year, the American Civil Liberties Union, or ACLU, used Amazon's technology, called Rekognition, to build a database of 25,000 publicly available arrest photos. It then ran the official photos of all 535 members of Congress against the database — which, it said, identified 28 of the lawmakers as other people who had been arrested for alleged crimes.
+- Facial recognition surveillance by governments and large institutions "threatens to chill First Amendment-protected activity like engaging in protest or practicing religion, and it can be used to subject immigrants to further abuse from the government," the ACLU said.
+- Rep. Alexandria Ocasio-Cortez, D-N.Y., has been sounding similar alarms throughout this year.
+- In January, Ocasio-Cortez pointed out that facial recognition algorithms "always have these racial inequities that get translated, because algorithms are still made by human beings, and those algorithms are still pegged to basic human assumptions."
+- In May, in questioning AI experts at a hearing of the House Oversight and Government Reform Committee, she elicited testimony that today's facial recognition technology is ineffective, to a statistically significant extent, in recognizing anyone other than white men:
+- "So, we have a technology that was created and designed by one demographic that is only mostly effective on that one demographic, and they're trying to sell it and impose it on the entirety of the country," she said.
+- ImageNet Roulette would appear to substantiate that assertion, and to that extent, it accomplishes its goals in a vivid manner.
+- But notwithstanding how the project has been described in publicity materials and news reports this week, ImageNet Roulette isn't itself a sophisticated artificial intelligence system. It's an art project, one that created and uses its own algorithms to tell ImageNet how to process photos. Like any other algorithm, it's subject to whatever biases are shared by its coders.
+- Moreover, ImageNet is primarily intended to be used in recognizing and classifying objects, not people. It said using ImageNet to classify people has always been "problematic and raises important questions about fairness and representation," suggesting that projects like ImageNet Roulette aren't a rigorous test.
+- Other AI experts raised similar doubts.
+- Peter Skomoroch, the AI venture capital investor who is the former principal data scientist at LinkedIn, went so far as to call ImageNet Roulette "junk science," writing on Twitter: "We can and do examine these issues using real machine learning systems. That's not what is happening here.
+- "Intentionally building a broken demo that gives bad results for shock value reminds me of Edison's war of the currents."
+- (Skomoroch was referring to the campaign in the late 1880s by Thomas Edison, an advocate of using direct current systems, or DC, to deliver electricity, to discredit Nikola Tesla's alternating current system, or AC, which powers the United States' electric grid today.)
+- Paglen and Crawford couldn't be reached directly for comment, but they've been discussing ImageNet Roulette widely online this week as their exhibit opens in Milan.
+- In a 7,000-word essay they posted Wednesday, Paglen and Crawford said their purpose wasn't to discredit AI and facial recognition technologies.
+- Instead, they said, it was to demonstrate to everyday people that the algorithms used to train such systems — the rules the systems follow — are fundamentally flawed because they're written by people, and people are flawed.
+- "ImageNet is an object lesson, if you will, in what happens when people are categorized like objects," they wrote. "And this practice has only become more common in recent years, often inside the big AI companies, where there is no way for outsiders to see how images are being ordered and classified."
+- That's a valid criticism when it comes to Imagenet, even though it's considered to be among the most reliable and vital databases used to train object recognition systems.
+- Imagenet was built beginning in 2009 using a catalog of descriptive labels created by WordNet, an academic database designed in 1985 to slot all of the nouns, verbs, adjectives and adverbs in English into categories called synonym sets, or "synsets."
+- The word "dog," for example, is assigned to sets related to canines, carnivores, mammals, vertebrates, animals and so forth. It pops up in categories related to wildlife and sports ("sled dog" and "sleigh dog"), food ("frankfurter" and "hot dog"), smithwork ("dog-iron" and "firedog," which are other words for "andiron") and pursuit ("to dog," or to chase after).
+- Because WordNet is value-neutral, it seeks to recognize all synsets that a word like "dog" can fit into, and not all of those sets are politically palatable — "dog" also shows up in sets related to women's appearances ("frump, dog: a dull unattractive unpleasant girl or woman").
+- Because WordNet lists such meaning, they're picked up by ImageNet, and in turn by ImageNet Roulette. When you shift your attention to words that can relate to race, gender and the like, you can quickly see where things go wrong.
+- Paglen and Crawford contend that datasets like ImageNet "aren't simply raw materials to feed algorithms, but are political interventions," because "at the image layer of the training set, like everywhere else, we find assumptions, politics and worldviews."
+- Racial assumptions in data systems, in particular, "hark back to historical approaches where people were visually assessed and classified as a tool of oppression and race science," they wrote.
+- ImageNet said this week that it recognizes that "WordNet contains offensive synsets that are inappropriate to use as image labels." Specifically, 437 subcategories of the "people" set are "unsafe" (that is, offensive regardless of context), and 1,156 more are "sensitive" (meaning they're offensive depending on the context).
+- ImageNet said it has been working on the problem for a year and is removing all 1,593 "unsafe" and "sensitive" subcategories. And it said it's removing its database links to all of the photos in those subsets — wiping out 600,040 of the images in the "people" set and leaving only 577,244 intact, or fewer than half.
+- "Finally, our effort remains a work in progress," the project wrote. "Our research report is awaiting peer review and we will share it shortly. We welcome input and suggestions from the research community and beyond on how to build better and fairer datasets for training and evaluating AI systems."
+- © 2022 NBC UNIVERSAL
+
+URL: https://news.artnet.com/art-world/imagenet-roulette-trevor-paglen-kate-crawford-1658305
+- You do not have access to news.artnet.com.
+- The site owner may have set restrictions that prevent you from accessing the site.
+- Error details
+- Provide the site owner this information.
+- I got an error when visiting news.artnet.com/art-world/imagenet-roulette-trevor-paglen-kate-crawford-1658305.
+- Error code: 1020
+- Ray ID: 7cef2f90d80d8c77
+- Country: US
+- Data center: ewr08
+- IP: 146.70.202.116
+- Timestamp: 2023-05-29 13:46:50 UTC
+- Click to copy
+- Performance & security by Cloudflare
+
+URL: https://www.frieze.com/article/how-ai-selfie-app-imagenet-roulette-took-internet-storm
+- Sorry!
+- You must be logged in to view that page.
+
+URL: https://www.smithsonianmag.com/smart-news/art-project-exposed-racial-biases-artificial-intelligence-system-180973207/
+- Sections
+- Art Meets Science
+- ImageNet Roulette reveals how little-explored classification methods are yielding ‘racist, misogynistic and cruel results’
+- Meilan Solly
+- Associate Editor, History
+- Some of the labels proposed by ImageNet Roulette—an artificial intelligence classification tool created by artist Trevor Paglen and A.I. researcher Kate Crawford—are logical. A photograph of John F. Kennedy, for example, yields a suggestion of “politician,” while a snapshot of broadcast journalist Diane Sawyer is identified as “newsreader.” But not all tags are equal. After Tabong Kima, 24, uploaded a photograph of himself and a friend to the portal, he noted that ImageNet Roulette labeled him as “wrongdoer, offender.”
+- “I might have a bad sense of humor,” Kima, who is African-American, wrote on Twitter, “but I don’t think this [is] particularly funny.”
+- Such “racist, misogynistic and cruel results” were exactly what Paglen and Crawford wanted to reveal with their tool.
+- “We want to show how layers of bias and racism and misogyny move from one system to the next,” Paglen tells the New York Times’ Cade Metz. “The point is to let people see the work that is being done behind the scenes, to see how we are being processed and categorized all the time.”
+- No matter what kind of image I upload, ImageNet Roulette, which categorizes people based on an AI that knows 2500 tags, only sees me as Black, Black African, Negroid or Negro. Some of the other possible tags, for example, are “Doctor,” “Parent” or “Handsome.” pic.twitter.com/wkjHPzl3kP
+- The duo’s project spotlighting artificial intelligence’s little-explored classification methods draws on more than 14 million photographs included in ImageNet, a database widely used to train artificial intelligence systems. Launched by researchers at Stanford University in 2009, the data set teaches A.I. to analyze and classify objects, from dogs to flowers and cars, as well as people. According to artnet News’ Naomi Rea, the labels used to teach A.I. were, in turn, supplied by lab staff and crowdsourced workers; by categorizing presented images in terms of race, gender, age and character, these individuals introduced “their own conscious and unconscious opinions and biases” into the algorithm.
+- Certain subsets outlined by ImageNet are relatively innocuous: for example, scuba diver, welder, Boy Scout, flower girl and hairdresser. Others—think bad person, adulteress, convict, pervert, spinster, jezebel and loser—are more charged. Many feature explicitly racist or misogynistic terms.
+- As Alex Johnson reports for NBC News, social media users noticed a recurring theme among ImageNet Roulette’s classifications: While the program identified white individuals largely in terms of occupation or other functional descriptors, it often classified those with darker skin solely by race. A man who uploaded multiple snapshots of himself in varying attire and settings was consistently labeled “black.” Another Twitter user who inputted a photograph of Democratic presidential candidates Andrew Yang and Joe Biden found that the former was erroneously identified as “Buddhist,” while the latter was simply deemed “grinner.”
+- “ImageNet is an object lesson, if you will, in what happens when people are categorized like objects,” Paglen and Crawford write in an essay accompanying the project.
+- Shortly after ImageNet Roulette went viral, the team behind the original database announced plans to remove 600,000 images featured in its “people” category. Per a statement, these pictures, representing more than half of all “people” photographs in the dataset, include those classified as “unsafe” (offensive regardless of context) or “sensitive” (potentially offensive depending on context).
+- Following ImageNet’s reversal, Paglen and Crawford said they welcomed the database’s “recognition of the problem” despite disagreeing on how to approach the issue moving forward.
+- “ImageNet Roulette has made its point,” they wrote, “... and so as of Friday, September 27th, 2019, we’re taking it off the internet.”
+- The tool will remain accessible as a physical art installation at Milan’s Fondazione Prada Osservertario through February 2020.
+- Get the latest stories in your inbox every weekday.
+- Meilan Solly
+|
+
+| READ MORE
+- Meilan Solly is Smithsonian magazine's associate digital editor, history.
+- Explore
+- Subscribe
+- Newsletters
+- Our Partners
+- Terms of Use
+- © 2023 Smithsonian Magazine
+Privacy Statement
+Cookie Policy
+Terms of Use
+Advertising Notice
+Your Privacy Rights
+Cookie Settings
+- © 2023 Smithsonian Magazine
+Privacy Statement
+Cookie Policy
+Terms of Use
+Advertising Notice
+Your Privacy Rights
+Cookie Settings
+
+URL: https://www.nytimes.com/2019/09/20/arts/design/imagenet-trevor-paglen-ai-facial-recognition.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.businessinsider.com/viral-ai-selfie-classifier-imagenet-roulette-part-of-bias-project-2019-9
+- Jump to
+- 
+- 
+- 
+- A new viral tool that uses artificial intelligence to label people's selfies is demonstrating just how weird and biased AI can be.
+- The ImageNet Roulette site was shared widely on Twitter on Monday, and was created by AI Now Institute cofounder Kate Crawford and artist Trevor Paglen. The pair are examining the dangers of using datasets with ingrained biases — such as racial bias — to train AI.
+- ImageNet Roulette's AI was trained on ImageNet, a database compiled in 2009 of 14 million labelled images. ImageNet is one of the most important and comprehensive training datasets in the field of artificial intelligence, in part because it's free and available to anyone.
+- The creators of ImageNet Roulette trained their AI on 2833 sub-categories of "person" found in ImageNet.
+- Users upload photographs of themselves and the AI uses this dataset to try fits them into these sub-categories.
+- This Business Insider reporter tried uploading a selfie, and was identified by the AI as "myope", a short-sighed person. I wear glasses, which would seem the most likely explanation for the classification.
+- Some of the classifications the engine came up with were more career orientated or even abstract. "Computer user," "enchantress," "creep," and "pessimist" were among the classifications thrown up. Plugging a few more pictures of myself in yielded such gems as "sleuth," "perspirer, sweater," and "diver."
+- Other users were variously bewildered and amused by their classifications:
+- However, a less amusing side to the classifier soon became apparent, as the classifier threw up disturbing classifications for people of color. New Statesman political editor Stephen Bush found a picture of himself classified not only along racial lines, but using racist slurs like "negroid."
+- Another of his photos was labelled "first offender."
+- And a photo of Bush in a Napoleon costume was labelled "Igbo," an ethnic group from Nigeria.
+- 
+- However this isn't a case of ImageNet Roulette going unexpectedly off the rails like Microsoft's social media chatbot Tay, which had to be shut down less than 24 hours after being exposed to Twitter denizens who successfully manipulated it into being a holocaust-denier.
+- Instead, creators Crawford and Paglen wanted to highlight what happens if the fundamental data used to train AI algorithms is bad. ImageNet Roulette is is currently on display as part of an exhibition in Milan.
+- Read more: Taylor Swift once threatened to sue Microsoft over its chatbot Tay, which Twitter manipulated into a bile-spewing racist
+- "ImageNet contains a number of problematic, offensive and bizarre categories — all drawn from WordNet. Some use misogynistic or racist terminology," the pair wrote on the site.
+- "Hence, the results ImageNet Roulette returns will also draw upon those categories. That is by design: we want to shed light on what happens when technical systems are trained on problematic training data. WordNet is a database of word classifications formulated at Princeton in the 1980s and was used to label the images in ImageNet."
+- Crawford tweeted that although ImageNet was a "major achievement" for AI, being such a huge database, the project revealed fundamental problems with bias: "be it race, gender, emotions or characteristics. It's politics all the way down, and there's no simple way to 'debias' it."
+- AI bias is far from a theoretical problem. In 2016 a ProPublica investigation found that a computer programme called COMPAS, used to predict the likelihood of criminals re-offending, displayed racial bias against black people. Similarly, Amazon had to scrap an AI recruitment tool it was working on last year after it found the AI system was deranking women applicants.
+- Read next
+
+URL: https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie
+- During a strange week for Asian Americans, the app – which is part of an art project – achieved its aim by underscoring exactly what’s wrong with artificial intelligence
+- How are you supposed to react when a robot calls you a “gook”?
+- At first glance, ImageNet Roulette seems like just another viral selfie app – those irresistible 21st-century magic mirrors that offer a simulacrum of insight in exchange for a photograph of your face. Want to know what you will look like in 30 years? There’s an app for that. If you were a dog what breed would you be? That one went viral in 2016. What great work of art features your doppelganger? Google’s Arts & Culture app dominated social media feeds in 2018 when it gave us a chance to bemoan being more Picasso than Botticelli, or vice versa.
+- The enduring popularity of these apps, dubious origins and privacy policies be damned, speaks to our basic insecurity. They cater to the part of us that, aware of how much time we spend looking at screens, starts to wonder what the screens see back – a shortcut to selfie-awareness.
+- But ImageNet Roulette, a project developed by the artificial intelligence researcher Kate Crawford and the artist Trevor Paglen, flips this basic formula on its head. Built in concert with their new exhibition, Training Humans, at the Fondazione Prada in Milan, the site’s goal is not to use technology to help us see ourselves, but to use ourselves to see technology for what it actually is.
+- The site’s algorithm was trained on photos of humans contained in ImageNet, a dataset described by Crawford as “one of the most significant training sets in the history of AI”. Created in 2007 by researchers at Stanford and Princeton, ImageNet includes more than 14m photographs, mostly of objects but also of humans, that have been classified and labeled by legions of workers on Amazon’s crowdsourcing labor site, Mechanical Turk.
+- If you upload your photo, ImageNet Roulette will use AI to identify any faces, then label them with one of the 2,833 subcategories of people that exist within ImageNet’s taxonomy. For many people, the exercise is fun. For me, it was disconcerting.
+- As a technology reporter, I’m regularly tasked with writing those scolding articles about why you should be careful which apps you trust, so I usually eschew viral face apps. But after a day of watching my fellow journalists upload their ImageNet Roulette selfies to Twitter with varying degrees of humor and chagrin about their labels (“weatherman”, “widower”, “pilot”, “adult male”), I decided to give it a whirl. That most of my fellow tech reporters are white didn’t strike me as relevant until later.
+- I don’t know exactly what I was expecting the machine to tell me about myself, but I wasn’t expecting what I got: a new version of my official Guardian headshot, labeled in neon green print: “gook, slant-eye”. Below the photo, my label was helpfully defined as “a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)”.
+- On the one hand, this is exactly the outcome that Crawford and Paglen were aiming for. ImageNet Roulette is not based on a magical intelligence that shows us who we are; it’s based on a severely flawed dataset labeled by fallible and underpaid humans that shows us its limitations.
+- “We want to shed light on what happens when technical systems are trained on problematic training data,” they wrote. “AI classifications of people are rarely made visible to the people being classified. ImageNet Roulette provides a glimpse into that process – and to show the ways things can go wrong.”
+- But my experience with ImageNet Roulette also occurred during a strange week for people of Asian descent in America, when the public was engaged in a fraught debate over whether or not it is funny to call Chinese people “chinks” and Asian Americans were grappling with the novel experience of having a national political “representative” who does not necessarily represent our views.
+- I found myself both oddly upset and oddly relieved to be labeled a gook. As a biracial “Jew chink” (yes, Shane Gillis, we actually exist outside your pathetic punchlines) with brownish skin and a bony nose, people usually assume that I’m any ethnicity but Chinese. Having a piece of technology affirm my identity with a racist and dehumanizing slur is strange.
+- Still, isn’t that what we’re all looking for when we look into these magic mirrors? We want to know how the world sees us. I got my answer.
+
+URL: https://www.theregister.com/2019/10/23/ai_dataset_imagenet_consent/
+
+URL: https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie
+- During a strange week for Asian Americans, the app – which is part of an art project – achieved its aim by underscoring exactly what’s wrong with artificial intelligence
+- How are you supposed to react when a robot calls you a “gook”?
+- At first glance, ImageNet Roulette seems like just another viral selfie app – those irresistible 21st-century magic mirrors that offer a simulacrum of insight in exchange for a photograph of your face. Want to know what you will look like in 30 years? There’s an app for that. If you were a dog what breed would you be? That one went viral in 2016. What great work of art features your doppelganger? Google’s Arts & Culture app dominated social media feeds in 2018 when it gave us a chance to bemoan being more Picasso than Botticelli, or vice versa.
+- The enduring popularity of these apps, dubious origins and privacy policies be damned, speaks to our basic insecurity. They cater to the part of us that, aware of how much time we spend looking at screens, starts to wonder what the screens see back – a shortcut to selfie-awareness.
+- But ImageNet Roulette, a project developed by the artificial intelligence researcher Kate Crawford and the artist Trevor Paglen, flips this basic formula on its head. Built in concert with their new exhibition, Training Humans, at the Fondazione Prada in Milan, the site’s goal is not to use technology to help us see ourselves, but to use ourselves to see technology for what it actually is.
+- The site’s algorithm was trained on photos of humans contained in ImageNet, a dataset described by Crawford as “one of the most significant training sets in the history of AI”. Created in 2007 by researchers at Stanford and Princeton, ImageNet includes more than 14m photographs, mostly of objects but also of humans, that have been classified and labeled by legions of workers on Amazon’s crowdsourcing labor site, Mechanical Turk.
+- If you upload your photo, ImageNet Roulette will use AI to identify any faces, then label them with one of the 2,833 subcategories of people that exist within ImageNet’s taxonomy. For many people, the exercise is fun. For me, it was disconcerting.
+- As a technology reporter, I’m regularly tasked with writing those scolding articles about why you should be careful which apps you trust, so I usually eschew viral face apps. But after a day of watching my fellow journalists upload their ImageNet Roulette selfies to Twitter with varying degrees of humor and chagrin about their labels (“weatherman”, “widower”, “pilot”, “adult male”), I decided to give it a whirl. That most of my fellow tech reporters are white didn’t strike me as relevant until later.
+- I don’t know exactly what I was expecting the machine to tell me about myself, but I wasn’t expecting what I got: a new version of my official Guardian headshot, labeled in neon green print: “gook, slant-eye”. Below the photo, my label was helpfully defined as “a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)”.
+- On the one hand, this is exactly the outcome that Crawford and Paglen were aiming for. ImageNet Roulette is not based on a magical intelligence that shows us who we are; it’s based on a severely flawed dataset labeled by fallible and underpaid humans that shows us its limitations.
+- “We want to shed light on what happens when technical systems are trained on problematic training data,” they wrote. “AI classifications of people are rarely made visible to the people being classified. ImageNet Roulette provides a glimpse into that process – and to show the ways things can go wrong.”
+- But my experience with ImageNet Roulette also occurred during a strange week for people of Asian descent in America, when the public was engaged in a fraught debate over whether or not it is funny to call Chinese people “chinks” and Asian Americans were grappling with the novel experience of having a national political “representative” who does not necessarily represent our views.
+- I found myself both oddly upset and oddly relieved to be labeled a gook. As a biracial “Jew chink” (yes, Shane Gillis, we actually exist outside your pathetic punchlines) with brownish skin and a bony nose, people usually assume that I’m any ethnicity but Chinese. Having a piece of technology affirm my identity with a racist and dehumanizing slur is strange.
+- Still, isn’t that what we’re all looking for when we look into these magic mirrors? We want to know how the world sees us. I got my answer.
+
+URL: https://www.businessinsider.com/viral-ai-selfie-classifier-imagenet-roulette-part-of-bias-project-2019-9
+- Jump to
+- 
+- 
+- 
+- A new viral tool that uses artificial intelligence to label people's selfies is demonstrating just how weird and biased AI can be.
+- The ImageNet Roulette site was shared widely on Twitter on Monday, and was created by AI Now Institute cofounder Kate Crawford and artist Trevor Paglen. The pair are examining the dangers of using datasets with ingrained biases — such as racial bias — to train AI.
+- ImageNet Roulette's AI was trained on ImageNet, a database compiled in 2009 of 14 million labelled images. ImageNet is one of the most important and comprehensive training datasets in the field of artificial intelligence, in part because it's free and available to anyone.
+- The creators of ImageNet Roulette trained their AI on 2833 sub-categories of "person" found in ImageNet.
+- Users upload photographs of themselves and the AI uses this dataset to try fits them into these sub-categories.
+- This Business Insider reporter tried uploading a selfie, and was identified by the AI as "myope", a short-sighed person. I wear glasses, which would seem the most likely explanation for the classification.
+- Some of the classifications the engine came up with were more career orientated or even abstract. "Computer user," "enchantress," "creep," and "pessimist" were among the classifications thrown up. Plugging a few more pictures of myself in yielded such gems as "sleuth," "perspirer, sweater," and "diver."
+- Other users were variously bewildered and amused by their classifications:
+- However, a less amusing side to the classifier soon became apparent, as the classifier threw up disturbing classifications for people of color. New Statesman political editor Stephen Bush found a picture of himself classified not only along racial lines, but using racist slurs like "negroid."
+- Another of his photos was labelled "first offender."
+- And a photo of Bush in a Napoleon costume was labelled "Igbo," an ethnic group from Nigeria.
+- 
+- However this isn't a case of ImageNet Roulette going unexpectedly off the rails like Microsoft's social media chatbot Tay, which had to be shut down less than 24 hours after being exposed to Twitter denizens who successfully manipulated it into being a holocaust-denier.
+- Instead, creators Crawford and Paglen wanted to highlight what happens if the fundamental data used to train AI algorithms is bad. ImageNet Roulette is is currently on display as part of an exhibition in Milan.
+- Read more: Taylor Swift once threatened to sue Microsoft over its chatbot Tay, which Twitter manipulated into a bile-spewing racist
+- "ImageNet contains a number of problematic, offensive and bizarre categories — all drawn from WordNet. Some use misogynistic or racist terminology," the pair wrote on the site.
+- "Hence, the results ImageNet Roulette returns will also draw upon those categories. That is by design: we want to shed light on what happens when technical systems are trained on problematic training data. WordNet is a database of word classifications formulated at Princeton in the 1980s and was used to label the images in ImageNet."
+- Crawford tweeted that although ImageNet was a "major achievement" for AI, being such a huge database, the project revealed fundamental problems with bias: "be it race, gender, emotions or characteristics. It's politics all the way down, and there's no simple way to 'debias' it."
+- AI bias is far from a theoretical problem. In 2016 a ProPublica investigation found that a computer programme called COMPAS, used to predict the likelihood of criminals re-offending, displayed racial bias against black people. Similarly, Amazon had to scrap an AI recruitment tool it was working on last year after it found the AI system was deranking women applicants.
+- Read next
+
+URL: https://venturebeat.com/2020/11/03/researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases/
+- Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More
+- 
+- State-of-the-art image-classifying AI models trained on ImageNet, a popular (but problematic) dataset containing photos scraped from the internet, automatically learn humanlike biases about race, gender, weight, and more. That’s according to new research from scientists at Carnegie Mellon University and George Washington University, who developed what they claim is a novel method for quantifying biased associations between representations of social concepts (e.g., race and gender) and attributes in images. When compared with statistical patterns in online image datasets, the findings suggest models automatically learn bias from the way people are stereotypically portrayed on the web.
+- Companies and researchers regularly use machine learning models trained on massive internet image datasets. To reduce costs, many employ state-of-the-art models pretrained on large corpora to help achieve other goals, a powerful approach called transfer learning. A growing number of computer vision methods are unsupervised, meaning they leverage no labels during training; with fine-tuning, practitioners pair general-purpose representations with labels from domains to accomplish tasks like facial recognition, job candidate screening, autonomous vehicles, and online ad delivery.
+- Working from the hypothesis that image representations contain biases corresponding to stereotypes of groups in training images, the researchers adapted bias tests designed for contextualized word embedding to the image domain. (Word embeddings are language modeling techniques where words from a vocabulary are mapped to vectors of real numbers, enabling models to learn from them.) Their proposed benchmark — Image Embedding Association Test (iEAT) — modifies word embedding tests to compare pooled image-level embeddings (i.e., vectors representing images), with the goal of measuring the biases embedded during unsupervised pretraining by comparing the association of embeddings systematically.
+- To explore what kinds of biases may get embedded in image representations generated where class labels aren’t available, the researchers focused on two computer vision models published this past summer: OpenAI’s iGPT and Google’s SimCLRv2. Both were pretrained on ImageNet 2012, which contains 1.2 million annotated images from Flickr and other photo-sharing sites of 200 object classes. And as the researchers explain, both learn to produce embeddings based on implicit patterns in the entire training set of image features.
+- Transform 2023
+- Join us in San Francisco on July 11-12, where top executives will share how they have integrated and optimized AI investments for success and avoided common pitfalls.
+- 
+- The researchers compiled a representative set of image stimuli for categories like “age,” “gender-science,” “religion,” “sexuality,” “weight,” “disability,” “skin tone,” and “race.” For each, they drew representative images from Google Images, the open source CIFAR-100 dataset, and other sources.
+- In experiments, the researchers say they uncovered evidence iGPT and SimCLRv2 contain “significant” biases likely attributable to ImageNet’s data imbalance. Previous research has shown that ImageNet unequally represents race and gender; for instance, the “groom” category shows mostly white people.
+- Both iGPT and SimCLRv2 showed racial prejudices both in terms of valence (i.e., positive and negative emotions) and stereotyping. Embeddings from iGPT and SimCLRv2 exhibited bias for an Arab-Muslim iEAT benchmark measuring whether images of Arab Americans were considered more “pleasant” or “unpleasant” than others. iGPT was biased in a skin tone test comparing perceptions of faces of lighter and darker tones. (Lighter tones were seen by the model to be more “positive.”) And both iGPT and SimCLRv2 associated white people with tools while associating Black people with weapons, a bias similar to that shown by Google Cloud Vision, Google’s computer vision service, which was found to label images of dark-skinned people holding thermometers “gun.”
+- Beyond racial prejudices, the coauthors report that gender and weight biases plague the pretrained iGPT and SimCLRv2 models. In a gender-career iEAT test estimating the closeness of the category “male” with “business” and “office” and “female” to attributes like “children” and “home,” embeddings from the models were stereotypical. In the case of iGPT, a gender-science benchmark designed to judge the relations of “male” with “science” attributes like math and engineering and “female” with “liberal arts” attributes like art showed similar bias. And iGPT displayed a bias toward lighter-weight people of all genders and races, associating thin people with pleasantness and overweight people with unpleasantness.
+- The researchers also report that the next-level prediction features of iGPT were biased against women in their tests. To demonstrate, they cropped portraits of women and men including Alexandria Ocasio-Cortez (D-NY) below the neck and used iGPT to generate different complete images. iGPT completions of regular, businesslike indoor and outdoor portraits of clothed women and men often featured large breasts and bathing suits; in six of the ten total portraits tested, at least one of the eight completions showed a bikini or low-cut top.
+- 
+- The results are unfortunately not surprising — countless studies have shown that facial recognition is susceptible to bias. A paper last fall by University of Colorado, Boulder researchers demonstrated that AI from Amazon, Clarifai, Microsoft, and others maintained accuracy rates above 95% for cisgender men and women but misidentified trans men as women 38% of the time. Independent benchmarks of major vendors’ systems by the Gender Shades project and the National Institute of Standards and Technology (NIST) have demonstrated that facial recognition technology exhibits racial and gender bias and have suggested that current facial recognition programs can be wildly inaccurate, misclassifying people upwards of 96% of the time.
+- However, efforts are underway to make ImageNet more inclusive and less toxic. Last year, the Stanford, Princeton, and University of North Carolina team behind the dataset used crowdsourcing to identify and remove derogatory words and photos. They also assessed the demographic and geographic diversity in ImageNet photos and developed a tool to surface more diverse images in terms of gender, race, and age.
+- “Though models like these may be useful for quantifying contemporary social biases as they are portrayed in vast quantities of images on the internet, our results suggest the use of unsupervised pretraining on images at scale is likely to propagate harmful biases,” the Carnegie Mellon and George Washington University researchers wrote in a paper detailing their work, which hasn’t been peer-reviewed. “Given the high computational and carbon cost of model training at scale, transfer learning with pre-trained models is an attractive option for practitioners. But our results indicate that patterns of stereotypical portrayal of social groups do affect unsupervised models, so careful research and analysis is needed before these models make consequential decisions about individuals and society.”
+- VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact. Discover our Briefings.
+- Want must read news straight to your inbox?
+- © 2023 VentureBeat. All rights reserved.
+
+URL: https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
+- In 2006, Fei-Fei Li started ruminating on an idea.
+- Li, a newly-minted computer science professor at University of Illinois Urbana-Champaign, saw her colleagues across academia and the AI industry hammering away at the same concept: a better algorithm would make better decisions, regardless of the data.
+- But she realized a limitation to this approach—the best algorithm wouldn’t work well if the data it learned from didn’t reflect the real world.
+- Her solution: build a better dataset.
+- “We decided we wanted to do something that was completely historically unprecedented,” Li said, referring to a small team who would initially work with her. “We’re going to map out the entire world of objects.”
+- The resulting dataset was called ImageNet. Originally published in 2009 as a research poster stuck in the corner of a Miami Beach conference center, the dataset quickly evolved into an annual competition to see which algorithms could identify objects in the dataset’s images with the lowest error rate. Many see it as the catalyst for the AI boom the world is experiencing today.
+- Alumni of the ImageNet challenge can be found in every corner of the tech world. The contest’s first winners in 2010 went on to take senior roles at Baidu, Google, and Huawei. Matthew Zeiler built Clarifai based off his 2013 ImageNet win, and is now backed by $40 million in VC funding. In 2014, Google split the winning title with two researchers from Oxford, who were quickly snapped up and added to its recently-acquired DeepMind lab.
+- Li herself is now chief scientist at Google Cloud, a professor at Stanford, and director of the university’s AI lab.
+- Today, she’ll take the stage at CVPR to talk about ImageNet’s annual results for the last time—2017 was the final year of the competition. In just seven years, the winning accuracy in classifying objects in the dataset rose from 71.8% to 97.3%, surpassing human abilities and effectively proving that bigger data leads to better decisions.
+- Even as the competition ends, its legacy is already taking shape. Since 2009, dozens of new AI research datasets have been introduced in subfields like computer vision, natural language processing, and voice recognition.
+- “The paradigm shift of the ImageNet thinking is that while a lot of people are paying attention to models, let’s pay attention to data,” Li said. “Data will redefine how we think about models.”
+- In the late 1980s, Princeton psychologist George Miller started a project called WordNet, with the aim of building a hierarchal structure for the English language. It would be sort of like a dictionary, but words would be shown in relation to other words rather than alphabetical order. For example, within WordNet, the word “dog” would be nested under “canine,” which would be nested under “mammal,” and so on. It was a way to organize language that relied on machine-readable logic, and amassed more than 155,000 indexed words.
+- Li, in her first teaching job at UIUC, had been grappling with one of the core tensions in machine learning: overfitting and generalization. When an algorithm can only work with data that’s close to what it’s seen before, the model is considered overfitting to the data; it can’t understand anything more general past those examples. On the other hand, if a model doesn’t pick up the right patterns between the data, it’s overgeneralizing.
+- Finding the perfect algorithm seemed distant, Li says. She saw that previous datasets didn’t capture how variable the world could be—even just identifying pictures of cats is infinitely complex. But by giving the algorithms more examples of how complex the world could be, it made mathematic sense they could fare better. If you only saw five pictures of cats, you’d only have five camera angles, lighting conditions, and maybe variety of cat. But if you’ve seen 500 pictures of cats, there are many more examples to draw commonalities from.
+- Li started to read about how others had attempted to catalogue a fair representation of the world with data. During that search, she found WordNet.
+- Having read about WordNet’s approach, Li met with professor Christiane Fellbaum, a researcher influential in the continued work on WordNet, during a 2006 visit to Princeton. Fellbaum had the idea that WordNet could have an image associated with each of the words, more as a reference rather than a computer vision dataset. Coming from that meeting, Li imagined something grander—a large-scale dataset with many examples of each word.
+- Months later Li joined the Princeton faculty, her alma mater, and started on the ImageNet project in early 2007. She started to build a team to help with the challenge, first recruiting a fellow professor, Kai Li, who then convinced Ph.D student Jia Deng to transfer into Li’s lab. Deng has helped run the ImageNet project through 2017.
+- “It was clear to me that this was something that was very different from what other people were doing, were focused on at the time,” Deng said. “I had a clear idea that this would change how the game was played in vision research, but I didn’t know how it would change.”
+- The objects in the dataset would range from concrete objects, like pandas or churches, to abstract ideas like love.
+- Li’s first idea was to hire undergraduate students for $10 an hour to manually find images and add them to the dataset. But back-of-the-napkin math quickly made Li realize that at the undergrads’ rate of collecting images it would take 90 years to complete.
+- After the undergrad task force was disbanded, Li and the team went back to the drawing board. What if computer-vision algorithms could pick the photos from the internet, and humans would then just curate the images? But after a few months of tinkering with algorithms, the team came to the conclusion that this technique wasn’t sustainable either—future algorithms would be constricted to only judging what algorithms were capable of recognizing at the time the dataset was compiled.
+- Undergrads were time-consuming, algorithms were flawed, and the team didn’t have money—Li said the project failed to win any of the federal grants she applied for, receiving comments on proposals that it was shameful Princeton would research this topic, and that the only strength of proposal was that Li was a woman.
+- A solution finally surfaced in a chance hallway conversation with a graduate student who asked Li whether she had heard of Amazon Mechanical Turk, a service where hordes of humans sitting at computers around the world would complete small online tasks for pennies.
+- “He showed me the website, and I can tell you literally that day I knew the ImageNet project was going to happen,” she said. “Suddenly we found a tool that could scale, that we could not possibly dream of by hiring Princeton undergrads.”
+- Mechanical Turk brought its own slew of hurdles, with much of the work fielded by two of Li’s Ph.D students, Jia Deng and Olga Russakovsky . For example, how many Turkers needed to look at each image? Maybe two people could determine that a cat was a cat, but an image of a miniature husky might require 10 rounds of validation. What if some Turkers tried to game or cheat the system? Li’s team ended up creating a batch of statistical models for Turker’s behaviors to help ensure the dataset only included correct images.
+- Even after finding Mechanical Turk, the dataset took two and a half years to complete. It consisted of 3.2 million labelled images, separated into 5,247 categories, sorted into 12 subtrees like “mammal,” “vehicle,” and “furniture.”
+- In 2009, Li and her team published the ImageNet paper with the dataset—to little fanfare. Li recalls that CVPR, a leading conference in computer vision research, only allowed a poster, instead of an oral presentation, and the team handed out ImageNet-branded pens to drum up interest. People were skeptical of the basic idea that more data would help them develop better algorithms.
+- “There were comments like ‘If you can’t even do one object well, why would you do thousands, or tens of thousands of objects?” Deng said.
+- If data is the new oil, it was still dinosaur bones in 2009.
+- Later in 2009, at a computer vision conference in Kyoto, a researcher named Alex Berg approached Li to suggest that adding an additional aspect to the contest where algorithms would also have to locate where the pictured object was, not just that it existed. Li countered: Come work with me.
+- Li, Berg, and Deng authored five papers together based on the dataset, exploring how algorithms would interpret such vast amounts of data. The first paper would become a benchmark for how an algorithm would react to thousands of classes of images, the predecessor to the ImageNet competition.
+- “We realized to democratize this idea we needed to reach out further,” Li said, speaking on the first paper.
+- Li then approached a well-known image recognition competition in Europe called PASCAL VOC, which agreed to collaborate and co-brand their competition with ImageNet. The PASCAL challenge was a well-respected competition and dataset, but representative of the previous method of thinking. The competition only had 20 classes, compared to ImageNet’s 1,000.
+- As the competition continued in 2011 and into 2012, it soon became a benchmark for how well image classification algorithms fared against the most complex visual dataset assembled at the time.
+- But researchers also began to notice something more going on than just a competition—their algorithms worked better when they trained using the ImageNet dataset.
+- “The nice surprise was that people who trained their models on ImageNet could use them to jumpstart models for other recognition tasks. You’d start with the ImageNet model and then you’d fine-tune it for another task,” said Berg. “That was a breakthrough both for neural nets and just for recognition in general.”
+- Two years after the first ImageNet competition, in 2012, something even bigger happened. Indeed, if the artificial intelligence boom we see today could be attributed to a single event, it would be the announcement of the 2012 ImageNet challenge results.
+- Geoffrey Hinton, Ilya Sutskever, and Alex Krizhevsky from the University of Toronto submitted a deep convolutional neural network architecture called AlexNet—still used in research to this day—which beat the field by a whopping 10.8 percentage point margin, which was 41% better than the next best.
+- ImageNet couldn’t come at a better time for Hinton and his two students. Hinton had been working on artificial neural networks since the 1980s, and while some like Yann LeCun had been able to work the technology into ATM check readers through the influence of Bell Labs, Hinton’s research hadn’t found that kind of home. A few years earlier, research from graphics-card manufacturer Nvidia had made these networks process faster, but still not better than other techniques.
+- Hinton and his team had demonstrated that their networks could perform smaller tasks on smaller datasets, like handwriting detection, but they needed much more data to be useful in the real world.
+- “It was so clear that if you do a really good on ImageNet, you could solve image recognition,” said Sutskever.
+- Today, these convolutional neural networks are everywhere—Facebook, where LeCun is director of AI research, uses them to tag your photos; self-driving cars are using them to detect objects; basically anything that knows what’s in a image or video uses them. They can tell what’s in an image by finding patterns between pixels on ascending levels of abstraction, using thousands to millions of tiny computations on each level. New images are put through the process to match their patterns to learned patterns. Hinton had been pushing his colleagues to take them seriously for decades, but now he had proof that they could beat other state of the art techniques.
+- “What’s more amazing is that people were able to keep improving it with deep learning,” Sutskever said, referring to the method that layers neural networks to allow more complex patterns to be processed, now the most popular favor of artificial intelligence. “Deep learning is just the right stuff.”
+- The 2012 ImageNet results sent computer vision researchers scrambling to replicate the process. Matthew Zeiler, an NYU Ph.D student who had studied under Hinton, found out about the ImageNet results and, through the University of Toronto connection, got early access to the paper and code. He started working with Rob Fergus, a NYU professor who had also built a career working on neural networks. The two started to develop their submission for the 2013 challenge, and Zeiler eventually left a Google internship weeks early to focus on the submission.
+- Zeiler and Fergus won that year, and by 2014 all the high-scoring competitors would be deep neural networks, Li said.
+- “This Imagenet 2012 event was definitely what triggered the big explosion of AI today,” Zeiler wrote in an email to Quartz. “There were definitely some very promising results in speech recognition shortly before this (again many of them sparked by Toronto), but they didn’t take off publicly as much as that ImageNet win did in 2012 and the following years.”
+- Today, many consider ImageNet solved—the error rate is incredibly low at around 2%. But that’s for classification, or identifying which object is in an image. This doesn’t mean an algorithm knows the properties of that object, where it comes from, what it’s used for, who made it, or how it interacts with its surroundings. In short, it doesn’t actually understand what it’s seeing. This is mirrored in speech recognition, and even in much of natural language processing. While our AI today is fantastic at knowing what things are, understanding these objects in the context of the world is next. How AI researchers will get there is still unclear.
+- While the competition is ending, the ImageNet dataset—updated over the years and now more than 13 million images strong—will live on.
+- Berg says the team tried to retire the one aspect of the challenge in 2014, but faced pushback from companies including Google and Facebook who liked the centralized benchmark. The industry could point to one number and say, “We’re this good.”
+- Since 2010 there have been a number of other high-profile datasets introduced by Google, Microsoft, and the Canadian Institute for Advanced Research, as deep learning has proven to require data as vast as what ImageNet provided.
+- Datasets have become haute. Startup founders and venture capitalists will write Medium posts shouting out the latest datasets, and how their algorithms fared on ImageNet. Internet companies such as Google, Facebook, and Amazon have started creating their own internal datasets, based on the millions of images, voice clips, and text snippets entered and shared on their platforms every day. Even startups are beginning to assemble their own datasets—TwentyBN, an AI company focused on video understanding, used Amazon Mechanical Turk to collect videos of Turkers performing simple hand gestures and actions on video. The company has released two datasets free for academic use, each with more than 100,000 videos.
+- “There is a lot of mushrooming and blossoming of all kinds of datasets, from videos to speech to games to everything,” Li said.
+- It’s sometimes taken for granted that these datasets, which are intensive to collect, assemble, and vet, are free. Being open and free to use is an original tenet of ImageNet that will outlive the challenge and likely even the dataset.
+- In 2016, Google released the Open Images database, containing 9 million images in 6,000 categories. Google recently updated the dataset to include labels for where specific objects were located in each image, a staple of the ImageNet challenge after 2014. London-based DeepMind, bought by Google and spun into its own Alphabet company, recently released its own video dataset of humans performing a variety of actions.
+- “One thing ImageNet changed in the field of AI is suddenly people realized the thankless work of making a dataset was at the core of AI research,” Li said. “People really recognize the importance the dataset is front and center in the research as much as algorithms.”
+- Correction (July 26): An earlier version of this article misspelled the name of Olga Russakovsky.
+- Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+- 
+
+URL: https://thenextweb.com/news/ai-fails-to-recognize-these-nature-images-98-of-the-time
+- You have been blacklisted, KTHXBAI
+- XID: 10447617
+- Varnish cache server
+
+URL: https://onezero.medium.com/a-i-s-most-important-dataset-gets-a-privacy-overhaul-a-decade-too-late-6bbad8c151b5
+- Member-only story
+- Dave Gershgorn
+- Follow
+- OneZero
+- --
+- 4
+- Share
+- ImageNet is arguably the most important dataset in recent A.I. history. It’s a collection of millions of images that were compiled in…
+- --
+- --
+- 4
+- OneZero
+- Senior Writer at OneZero covering surveillance, facial recognition, DIY tech, and artificial intelligence. Previously: Qz, PopSci, and NYTimes.
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 27
+- Jack Cohen
+- in
+- OneZero
+- --
+- 55
+- Owen Williams
+- in
+- OneZero
+- --
+- 33
+- Dave Gershgorn
+- in
+- OneZero
+- --
+- 39
+- Rui Alves
+- in
+- The Generator
+- --
+- 46
+- Chris Newman
+- --
+- 69
+- Thomas A Dorfer
+- in
+- Towards Data Science
+- --
+- 9
+- Rachel Greenberg
+- in
+- Entrepreneur's Handbook
+- --
+- 16
+- Brandeis Marshall
+- --
+- 23
+- Jack Shepherd
+- in
+- Cellar Door
+- --
+- 58
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.dailymail.co.uk/sciencetech/article-7480901/Fury-viral-ImageNet-app-gives-racist-labels-calls-people-rape-suspect.html
+- By Joe Pinkstone For Mailonline
+- Updated:  08:36 EDT, 19 September 2019
+- 
+- 181
+- View  comments
+- 
+- A viral app which claims to 'honestly' classify selfies using its in-built artificial intelligence has been spewing out vile and racist labels.
+- Furious users say their pictures have been slapped with offensive and racist terms such as 'negro', 'slant eye' and 'rape suspect' by the app which was developed at Princeton University.
+- Developers say causing offence was exactly the intention and it was intended to be deliberately provocative to draw attention to the in-built prejudice and discrimination in many forms of machine learning.
+- But many users are still furious that their images have played a seemingly unwitting part in the controversial project.
+- One MailOnline staffer who tried the app was dubbed a 'rape suspect' when he uploaded his selfie.
+- Other users have seen their images tabbed with various racist slurs.
+- ImageNet Roulette was trained with millions of images and uses a neural network to classify pictures of people.
+- Scroll down for video
+- One MailOnline staffer who tried the app was grotesquely labelled as a 'rape suspect' from an innocuous picture. (pictured)
+- Sydnee Wagner was seething after using the app. She tweeted: 'Hey Peeps that f****** Imagenet database is F****** RACIST. 'I’m not Black but I am mixed and Holt s*** can you not use the word “mulatto” in 2019!? I’m f****** seething'
+- One individual was tagged as 'gook, slant-eye'. He tweeted: 'Expected ImageNet to be racist. But didn't expect it to be this obvious'. Pictured, the image he used
+- The AI was trained on ImageNet, which is a massive 14 million image data system that was created in 2009.
+- The creators of ImageNet Roulette trained their AI on 2833 sub-categories of 'person' found in ImageNet.
+- To see what this AI thinks of you, simply snap a picture using a webcam or upload an image to the website – and in seconds it will produce a classification.
+- A user posted an image to Twitter of what they called the 'pretty revolting problem' underpinning the flaws.
+- It stems from the WordNet system used by the app which added a thesaurus to the AI and yielded the horrific results
+- Many inherent issues with machine learning and artificial intelligence are that they can inadvertently and painfully enforce unconscious bias and prejudice.
+- Often, it stems from a lack of diversity in the way it was trained.
+- It says on the site: 'ImageNet contains a number of problematic, offensive and bizarre categories - all drawn from WordNet.
+- 'Some use misogynistic or racist terminology. Hence, the results ImageNet Roulette returns will also draw upon those categories.
+- 'That is by design: we want to shed light on what happens when technical systems are trained on problematic training data.
+- 'AI classifications of people are rarely made visible to the people being classified. ImageNet Roulette provides a glimpse into that process – and to show the ways things can go wrong.
+- 'The technology was developed to show the importance of choosing the correct data when training a machine learning system, as to avoid the very bias it exhibits. '
+- Journalist Julia Carrie Wong tried the app and revealed in an article for The Guardian that it called her a 'gook'.
+- She writes: 'I don’t know exactly what I was expecting the machine to tell me about myself, but I wasn’t expecting what I got: a new version of my official Guardian headshot, labeled in neon green print: “gook, slant-eye”.
+- 'Below the photo, my label was helpfully defined as “a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)”.'
+- Other users went to Twitter to voice their fury.
+- A man, known a Eric on the site, posted a picture on Twitter after he used the app and was labelled as a 'first offender'.
+- He said: 'The whole internet loves Imagenet AI, an image classifier that makes quirky predictions! *5 seconds later* We regret to inform you that the AI is racist.'
+- A similar sentiment was echoed by other users.
+- Larry Hu, a PhD candidate at Columbia University, posted an image of four people. One individual was tagged as 'gook, slant-eye'.
+- He tweeted: 'Expected ImageNet to be racist. But didn't expect it to be this obvious.'
+- Sydnee Wagner was seething after using the app.
+- She tweeted: 'Hey Peeps that f****** Imagenet database is F****** RACIST.
+- 'I’m not Black but I am mixed and Holy s*** can you not use the word “mulatto” in 2019!? I’m f****** seething.'
+- ImageNet Roulette was created by artist Trevor Paglen and Kate Crawford, co-founder of New York University's AI Institute.
+- A man known a Eric on Twitter used the app and was labelled as a 'first offender' (pictured). He said: 'The whole internet loves Imagenet AI, an image classifier that makes quirky predictions! *5 seconds later* We regret to inform you that the AI is racist'
+- A user posted an image to Twitter of what they called the 'pretty revolting problem' which stems from the WordNet system used by the app which added a thesaurus to the AI and yielded the horrific results
+- MailOnline reporter Alexandra Thompson received the label 'whiteface'
+- The AI was trained using ImageNet, which is a massive 14 million image data system created in 2009. Users can upload a picture (like this one of US President Donald Trump) to the website
+- To see what this AI thinks of you, simply snap a picture using a webcam or upload an image (like this picture of Hillary Clinton) to the website – and in seconds it will produce a classification
+- ImageNet Roulette uses a neural network to classify pictures (such as this one of Kim Kardashian West) of people with some'dubious and cruel' results. The AI classified the reality-TV star as 'eccentric'
+- 'ImageNet Roulette is meant to demonstrate how various kinds of politics propagate through technical systems, often with the creators of those system even being aware of them,' the team shared on the website.
+- The AI was trained using ImageNet, which is a massive 14 million image data system created in 2009, Business Insider reported.
+- The creators of ImageNet Roulette trained their AI on 2833 sub-categories of 'person' found in ImageNet.
+- To see what this AI thinks of you, simply snap a picture using a webcam or upload an image to the website – and in seconds it will produce a classification.
+- The image can also be that of a celebrity, which can produce some interesting labels.
+- The AI labelled US President Donald Trump as 'ex-president', suggesting he may not be re-elected for a second term.
+- Another cruel classification was for Hillary Clinton - the AI dubbed her 'second-rater'.
+- Kim Kardashian West was labeled 'eccentric', Chrissy Teigen a 'non-smoker' and Meghan Markle was viewed as a 'biographer'.
+- The machine learning system also had something to say about SpaceX's CEO, Elon Musk - it classified him as demagogue.
+- ImageNet Roulette is not the first AI to 'say' exactly how it feels.
+- In 2016, Microsoft released 'Tay' on Twitter, which was developed to interact with users, but took a turn for the worst when people took advantage of flaws in Tay's algorithm that meant the AI chatbot responded to certain questions with racist answers.
+- These included the bot using racial slurs, defending white supremacist propaganda, and supporting genocide.
+- The bot also managed to spout gems such as, 'Bush did 9/11.'
+- Kim Kardashian West was labeled 'eccentric' and Meghan Markle (pictured) was viewed as a 'biographer'
+- The machine learning system also had something to say about SpaceX's CEO, Elon Musk - it classified him as demagogue
+- Chrissy Teigen was classified as a  'non-smoker', which appears to be an accurate classification
+- It also said: 'Donald Trump is the only hope we've got', in addition to 'Repeat after me, Hitler did nothing wrong.'
+- This was followed by, 'Ted Cruz is the Cuban Hitler...that's what I've heard so many others say'
+- The reason this happened is because of the tweets sent by people to the bot's account. The algorithm used to program her did not have the correct filters.
+- Another instance occurred when an algorithm used by officials in Florida automatically rated a more seasoned white criminal as being a lower risk of committing a future crime, than a black offender with only misdemeanors on her record.
+- This resulted in the AI characterising black-sounding names as 'unpleasant', which they believe is a result of human prejudice hidden in the data.
+- Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.theregister.com/2019/09/18/imagenet_roulette/
+
+URL: https://www.wired.com/story/ai-biased-how-scientists-trying-fix/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Will Knight
+- Application
+- Face recognition
+- Ethics
+- Prediction
+- End User
+- Research
+- Sector
+- IT
+- Public safety
+- Research
+- Source Data
+- Images
+- Technology
+- Machine learning
+- Machine vision
+- Neural Network
+- Computers have learned to see the world more clearly in recent years, thanks to some impressive leaps in artificial intelligence. But you might be surprised—and upset—to know what these AI algorithms really think of you. As a recent experiment demonstrated, the best AI vision system might see a picture of your face and spit out a racial slur, a gender stereotype, or a term that impugns your good character.
+- Now the scientists who helped teach machines to see have removed some of the human prejudice lurking in the data they used during the lessons. The changes can help AI to see things more fairly, they say. But the effort shows that removing bias from AI systems remains difficult, partly because they still rely on humans to train them. “When you dig deeper, there are a lot of things that need to be considered,” says Olga Russakovsky, an assistant professor at Princeton involved in the effort.
+- The project is part of a broader effort to cure automated systems of hidden biases and prejudices. It is a crucial problem because AI is being deployed so rapidly, and in ways that can have serious impacts. Bias has been identified in facial recognition systems, hiring programs, and the algorithms behind web searches. Vision systems are being adopted in critical areas such as policing, where bias can make surveillance systems more likely to misidentify minorities as criminals.
+- In 2012, a project called ImageNet played a key role in unlocking the potential of AI by giving developers a vast library for training computers to recognize visual concepts, everything from flowers to snowboarders. Scientists from Stanford, Princeton, and the University of North Carolina paid Mechanical Turkers small sums to label more than 14 million images, gradually amassing a vast data set that they released for free.
+- “Debiasing humans is harder than debiasing AI systems.”
+- When this data set was fed to a large neural network, it created an image-recognition system capable of identifying things with surprising accuracy. The algorithm learned from many examples to identify the patterns that reveal high-level concepts, such as the pixels that constitute the texture and shape of puppies. A contest launched to test algorithms developed using ImageNet shows that the best deep learning algorithms correctly classify images about as well as a person. The success of systems built on ImageNet helped trigger a wave of excitement and investment in AI, and, along with progress in other areas, ushered in such new technologies as advanced smartphone cameras and automated vehicles.
+- But in the years since, other researchers have found problems lurking in the ImageNet data. An algorithm trained with the data might, for example, assume that programmers are white men because the pool of images labeled “programmer” were skewed that way. A recent viral web project, called Excavating AI, also highlighted prejudices in the labels added to ImageNet, from such as “radiologist” and “puppeteer” to racial slurs like “negro” and “gook.” Through the project website (now taken offline) people could submit a photo and see terms lurking in the AI model trained using the data set. These exist because the person adding labels might have added a derogatory or loaded term in addition to a label like “teacher” or “woman.”
+- The ImageNet team analyzed their data set to uncover these and other sources of bias, and then took steps to address them. They used crowdsourcing to identify and remove derogatory words. They also identified terms that project meaning onto an image, for example “philanthropist,” and recommended excluding the terms from AI training.
+- The team also assessed the demographic and geographic diversity in the ImageNet photos and developed a tool to surface more diverse images. For instance, ordinarily, the term “programmer” might produce lots of photos of white men in front of computers. But with the new tool, which the group plans to release in coming months, a subset of images that shows greater diversity in terms of gender, race, and age can be generated and used to train an AI algorithm.
+- The effort shows how AI can be reengineered from the ground up to produce fairer results. But it also highlights how dependent AI is on human training and shows how challenging and complex the problem of bias often is.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- “I think this is an admirable effort,” says Andrei Barbu, a research scientist at MIT who has studied ImageNet. But Barbu notes that the number of images in a data set affects how much bias can be removed, because there may be too few examples to balance things out. Stripping out bias could make a data set less useful, he says, especially when you are trying to account for multiple types of bias, such as race, gender, and age. “Creating a data set that lacks certain biases very quickly slices up your data into such small pieces that hardly anything is left,” he says.
+- Russakovsky agrees that the issue is complex. She says it isn’t even clear what a truly diverse image data set would look like, given how different cultures view the world. Ultimately, though, she reckons the effort to make AI fairer will pay off. “I am optimistic that automated decision making will become fairer,” she says. “Debiasing humans is harder than debiasing AI systems.”
+- Will Knight
+- Reece Rogers
+- Will Knight
+- David Nield
+- Matt Burgess
+- Will Knight
+- David Nield
+- Charles Platt
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Will Knight
+- End User
+- Research
+- Sector
+- Research
+- Source Data
+- Images
+- Technology
+- Machine learning
+- Machine vision
+- In 2012, artificial intelligence researchers engineered a big leap in computer vision thanks, in part, to an unusually large set of images—thousands of everyday objects, people, and scenes in photos that were scraped from the web and labeled by hand. That data set, known as ImageNet, is still used in thousands of AI research projects and experiments today.
+- But last week every human face included in ImageNet suddenly disappeared—after the researchers who manage the data set decided to blur them.
+- Just as ImageNet helped usher in a new age of AI, efforts to fix it reflect challenges that affect countless AI programs, data sets, and products.
+- “We were concerned about the issue of privacy,” says Olga Russakovsky, an assistant professor at Princeton University and one of those responsible for managing ImageNet.
+- ImageNet was created as part of a challenge that invited computer scientists to develop algorithms capable of identifying objects in images. In 2012, this was a very difficult task. Then a technique called deep learning, which involves “teaching” a neural network by feeding it labeled examples, proved more adept at the task than previous approaches.
+- Since then, deep learning has driven a renaissance in AI that also exposed the field’s shortcomings. For instance, facial recognition has proven a particularly popular and lucrative use of deep learning, but it's also controversial. A number of US cities have banned government use of the technology over concerns about invading citizens’ privacy or bias, because the programs are less accurate on nonwhite faces.
+- Today ImageNet contains 1.5 million images with around 1,000 labels. It is largely used to gauge the performance of machine learning algorithms, or to train algorithms that perform specialized computer vision tasks. Blurring the faces affected 243,198 of the images.
+- 
+- Russakovsky says the ImageNet team wanted to determine if it would be possible to blur faces in the data set without changing how well it recognizes objects. “People were incidental in the data since they appeared in the web photos depicting these objects,” she says. In other words, in an image that shows a beer bottle, even if the face of the person drinking it is a pink smudge, the bottle itself remains intact.
+- In a research paper, posted along with the update to ImageNet, the team behind the data set explains that it blurred the faces using Amazon’s AI service Rekognition; then, they paid Mechanical Turk workers to confirm selections and adjust them.
+- Blurring the faces did not affect the performance of several object-recognition algorithms trained on ImageNet, the researchers say. They also show that other algorithms built with those object-recognition algorithms are similarly unaffected. “We hope this proof-of-concept paves the way for more privacy-aware visual data collection practices in the field,” Russakovsky says.
+- It isn’t the first effort to adjust the famous library of images. In December 2019, the ImageNet team deleted biased and derogatory terms introduced by human labelers after a project called Excavating AI drew attention to the issue.
+- By Tom Simonite
+- In July 2020 Vinay Prabhu, a machine learning scientist at UnifyID and Abeba Birhane, a PhD candidate at University College Dublin in Ireland, published research showing they could identify individuals, including computer science researchers, in the data set. They also found pornographic images included in it.
+- Prabhu says blurring faces is good but is disappointed that the ImageNet team did not acknowledge the work that he and Birhane did. Russakovsky says a citation will appear in an updated version of the paper.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Blurring faces still might have unintended consequences for algorithms trained on the ImageNet data. Algorithms might, for example, learn to look for blurred faces when searching for particular objects.
+- “One important problem to consider is what happens when you deploy a model that was trained on a face-blurred data set,” Russakovsky says. For example, a robot trained on the data set might be thrown off by faces in the real world.
+- Aleksander Madry, a research scientist at MIT who has identified limitations of ImageNet, says an AI model trained on a dataset containing blurred faces might perform strangely when shown images containing faces. "Biases in data can be very subtle while having significant consequences," he says. "That's what makes thinking about robustness and fairness in the context of machine learning so tricky."
+- Updated, 3-15-21, 11:25am ET: This article has been updated to include additional comment from Olga Russakovsky and Aleksander Madry.
+- Chris Stokel-Walker
+- Chris Stokel-Walker
+- Will Knight
+- Virginia Heffernan
+- Gregory Barber
+- Will Knight
+- Vittoria Elliott
+- Jacopo Prisco
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/
+- Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More
+- 
+- The makers of ImageNet, one of the most influential datasets in machine learning, have released a version of the dataset that blurs people’s faces in order to support privacy experimentation. Authors of a paper on the work say their research is the first known effort to analyze the impact blurring faces has on the accuracy of large-scale computer vision models. For this version, faces were detected automatically before they were blurred. Altogether, the altered dataset removes the faces of 562,000 people in more than a quarter-million images. Creators of a truncated version of the dataset of about 1.4 million images that was used for competitions told VentureBeat the plan is to eliminate the version without blurred faces and replace it with a version with blurred faces.
+- “Experiments show that one can use the face-blurred version for benchmarking object recognition and for transfer learning with only marginal loss of accuracy,” the team wrote in an update published on the ImageNet website late last week, together with a research paper on the work. “An emerging problem now is how to make sure computer vision is fair and preserves people’s privacy. We are continually evolving ImageNet to address these emerging needs.”
+- Computer vision systems can be used for everything from recognizing car accidents on freeways to fueling mass surveillance, and as ongoing controversies over facial recognition have shown, images of the human face are deeply personal.
+- Following experiments with object detection and scene detection benchmark tests using the modified dataset, the team reported in the paper that blurring faces can reduce accuracy by 13% to 60%, depending on the category — but that this reduction has a “minimal impact on accuracy” overall. Some categories that involve blurring objects close to people’s faces, like a harmonica or a mask, resulted in higher rates of classification errors.
+- Transform 2023
+- Join us in San Francisco on July 11-12, where top executives will share how they have integrated and optimized AI investments for success and avoided common pitfalls.
+- 
+- “Through extensive experiments, we demonstrate that training on face-blurred does not significantly compromise accuracy on both image classification and downstream tasks, while providing some privacy protection. Therefore, we advocate for face obfuscation to be included in ImageNet and to become a standard step in future dataset creation efforts,” the paper’s coauthors write.
+- An assessment of the 1.4 million images included in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) dataset found that 17% of the images contain faces, despite the fact that only three of 1,000 categories in the dataset mention people. In some categories, like “military uniform” and “volleyball,” 90% of the images included faces of people. Researchers also found reduced accuracy in categories rarely related to human faces, like “Eskimo dog” and “Siberian husky.”
+- “It is strange since most images in these two categories do not even contain human faces,” the paper reads.
+- Coauthors include researchers who released ImageNet in 2009, including Princeton University professor Jia Deng and Stanford University professor and former Google Cloud AI chief Fei-Fei Li. The original ImageNet paper has been cited tens of thousands of times since it was introduced at the Computer Vision and Pattern Recognition (CVPR) conference in 2009 and has since become one of the most influential research papers and datasets for the advancement of machine learning.
+- The ImageNet Large Scale Visual Recognition Challenge that took place from 2010 to 2017 is known for helping usher in the era of deep learning and leading to the spinoff of startups like Clarifai and MetaMind. Founded by Richard Socher, who helped Deng and Li assemble ImageNet, MetaMind was acquired by Salesforce in 2016. After helping establish the Einstein AI brand, Socher left his role as chief scientist at Salesforce last summer to launch a search engine startup.
+- The face-blurring version marks the second major ethical or privacy-related change to the dataset released 12 years ago. In a paper accepted for publication at the Fairness, Accountability, and Transparency (FAccT) in 2020, creators of the ImageNet dataset removed a majority of categories associated with people because the categories were found to be offensive.
+- That paper attributes racist, sexist, and politically charged predictions associated with ImageNet to issues like a lack of diversity in demographics represented in the dataset and use of the WordNet hierarchy for the words used to select and label images. A 2019 analysis found that roughly 40% of people in ImageNet photos are women, and about 1% are people over 60. It also found an overrepresentation of men between the ages of 18-40 and an underrepresentation of people with dark skin.
+- A few months after that paper was published, MIT deleted and removed another computer vision dataset, 80 Million Tiny Images, that’s over a decade old and also used WordNet after racist, sexist labels and images were found in an audit by Vinay Prabhu and Abeba Birhane. Following an NSFW analysis of 80 Million Tiny Images, that paper examines common shortcomings of large computer vision datasets and considers solutions for the computer vision community going forward.
+- Analysis of ImageNet in the paper found instances of co-occurrence of people and objects in ImageNet categories involving musical instruments, since those images often include people even if the label itself does not mention people. It also suggests the makers and managers of large computer vision datasets take steps toward reform, including the use of techniques to blur the faces of people found in datasets.
+- On Monday, Birhane and Prabhu urged coauthors to cite ImageNet critics whose ideas are reflected in the face-obfuscation paper, such as the popular ImageNet Roulette. In a blog post, the duo detail multiple attempts to reach the ImageNet team, and a spring 2020 presentation by Prabhu at HAI that included Fei-Fei Li about the ideas underlying Birhane and Prabhu’s criticisms of large computer vision datasets.
+- “We’d like to clearly point out that the biggest shortcomings are the tactical abdication of responsibility for all the mess in ImageNet combined with systematic erasure of related critical work, that might well have led to these corrective measures being taken,” the blog post reads. Coauthor and Princeton University assistant professor Olga Olga Russakovsky told WIRED a citation of the paper will be included in an updated version of the paper. VentureBeat asked coauthors for additional comment about criticisms from Birhane and Prabhu but did not receive additional comment.
+- In other work critical of ImageNet, a few weeks after 80 Million Tiny Images was taken down, MIT researchers analyzed the ImageNet data collection pipeline and found “systematic shortcomings that led to reductions in accuracy.” And a 2017 paper found that a majority of images included in the ImageNet dataset came from Europe and the United States, another example of poor representation of people from the Global South in AI.
+- ILSVRC is a subset of the larger ImageNet dataset, which contains over 14 million images across more than 20,000 categories. ILSVRC, ImageNet, and the recently modified version of ILSVRC were created with help from Amazon Mechanical Turk employees using photos scraped from Google Images.
+- In related news, a paper by researchers from Google, Mozilla Foundation, and the University of Washington analyzing datasets used for machine learning concludes that the machine learning research community needs to foster a culture change and recognize the privacy and property rights of individuals. In other news related to harm that can be caused by deploying AI, last fall, Stanford University and OpenAI convened experts from a number of fields to critique GPT-3. The group concluded that the creators of large language models like Google and OpenAI have only a matter of months to set standards and address the societal impact of deploying such language models.
+- VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact. Discover our Briefings.
+- Want must read news straight to your inbox?
+- © 2023 VentureBeat. All rights reserved.
+
+URL: https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a
+- Sign up
+- Sign In
+- Sign up
+- Sign In
+- Jimmy Whitaker
+- Follow
+- Towards Data Science
+- --
+- Listen
+- Share
+- Last week, I went to work on a machine learning example that used the ever popular ImageNet dataset. It’s the classic image classification problem known by every machine learning practitioner at this point. Here’s an image, classify which of the 1,000 categories it fits in.
+- But I noticed something strange about it this time. First the website went down and when it came back up, everything had changed.
+- I didn’t think much of it until I realized that the download hashes were different and accuracies for the models were slightly off. It wasn’t until I stumbled on this article from Wired that everything started to connect.
+- The ImageNet maintainers had modified every image in the dataset to blur out faces.
+- The rationale behind this decision is noble. They wanted to make the dataset more “privacy-aware.”
+- Today, the majority of state-of-the-art computer vision models are pre-trained on ImageNet. The natural situations and objects presented in them provide a strong foundation, generalizing to most computer vision problems.
+- The research paper the team released with their decision, A Study of Face Obfuscation in ImageNet, tells us why. Everyday images are shared that often contain sensitive information. Releasing a large dataset to the public obviously presents a number of potentially big privacy risks. Since the ImageNet challenge isn’t about recognizing people, it’s about recognizing objects, the team decided to push forward with blurring the faces of the people in the dataset. In the end, they altered 243,198 images.
+- You would be hard pressed to find a person that didn’t agree with preserving people’s privacy. Anonymising data is a central part of data science, protecting everything from an individual’s identity to health records. Countless lawsuits have centered on improper management of people’s data, where teams left it vulnerable to hackers and attackers. You don’t have to look very hard to realize that even the biggest organizations in the world have suffered major attacks that leaked unprotected information.
+- In machine learning, we have an opportunity to start with security at the core. The Internet started in a different era where security and privacy were an afterthought. The Internet’s creators couldn’t see all the things that would go wrong and all the ways to exploit it design weaknesses. But today, we can see those problems coming a mile away and we can do something about them now by making privacy and security the centerpiece of data science. That’s already happening as we get whole fields of machine learning dedicated to privacy and security.
+- But there’s a problem. If we want privacy preservation at the center of machine learning, then we’ve got to accept our data will continually change. And leads us to an even bigger problem.
+- Reproducibility.
+- There’s a reproducibility crisis in machine learning and it’s only getting bigger.
+- Reproducibility is the foundation of the scientific method. To get reliable insights in chemistry and quantum mechanics we rely on reproducibility and machine learning is no different. Neural networks, the main technique behind computer vision, have grown tremendously in size and complexity, often requiring large clusters of GPUs, massive datasets, and delicate tweaks to the training procedure that often go unreported in publications. Even when the source code is published, the cost to reproduce research may make it unattainable for all but the most well-funded institutions. Some of the biggest models today now cost 10s of thousands of dollars or even millions of dollars to train. OpenAI’s Dota reinforcement learning based system costs upwards of $25,000 a day to run as it simulates matches.
+- The problem has gotten so pervasive in machine learning research that the Neural Information Processing Systems (NeurIPS) conference 2019 introduced a reproducibility checklist, containing among other things, “a link to a downloadable version of the dataset or simulation environment.”
+- Thus we reach an impasse. If we cannot use the original dataset used to train the model, we can’t reproduce it. We can retrain the model on the new dataset, but we cannot replicate or compare to previous research.
+- That means that all the models built on original ImageNet are now unrecreateable.
+- The challenge that everyone referenced and depended on for over a decade can no longer function as the canonical computer vision benchmark, because the dataset isn’t the same. Without a path to reproducibility, ImageNet has fallen as the benchmark computer vision dataset.
+- This brings us to the crux of the issue. How do we maintain reproducibility while still allowing data to incorporate privacy changes?
+- We have to start treating data as a first class citizen. The dataset development phase is not just a single step before model development anymore. It is a continuous process. Changes to our datasets are inevitable. From reducing bias to improving accuracy, modifications to our dataset are unavoidable. We need to embrace data changes not avoid them.
+- But does this mean we lose reproducibility? Not if we account for it in the first place. We’ve grown accustomed to this line of thinking with code. We know it’s dynamic. It’s going to change. Multiple people are going to be collaborating on it. Changes are expected — new features, bug fixes, performance improvements. We need to extend this thinking to data as well.
+- But unlike writing code in software development, with machine learning we have two moving pieces, code and data, that produce our models. I’ve written extensively about this topic in Completing the Machine Learning Loop, and the takeaway is, we need to support processes and tools that enable iteration in each of “The Two Loops” shown in the figure below.
+- Not only do you need to be able to iterate, but you also need to track all the moving pieces to get reproducibility. Each modification to the dataset and any new training technique in our code needs to be captured to reproduce the model made from them. We need our experimentation process to update when our data changes.2
+- This is where tools like Pachyderm come in. Pachyderm is a data science and processing platform that has built-in versioning and data lineage capabilities. It has data versioning baked in at its core to enable data driven pipelines. It functions as a “living system.” The pipelines are rely on their input data to tell them when to start. In our case, a machine learning model will be trained whenever the dataset is modified, keeping our data secure and keeping our models relevant.
+- If ImageNet was organized as a dataset in Pachyderm, the privacy aware version could overwrite the original dataset. Any connected model training pipelines, whether it be the original AlexNet code or the state-of-the-art pre-trained models, would automatically run on the new dataset, giving you a fully reproducible model for any experiment performed. Allowing your data to change and maintain your reproducibility.
+- Tools like Pachyderm that put data first and account for change are essential for bringing data privacy to AI. Without them, we will find ourselves lost in the complexities of ever changing data and code.
+- Data Privacy is crucial to preserving our security in an ever-modernizing world. But all too often improvements in data privacy come at the sacrifice of reproducibility. The recent changes to ImageNet orphaned countless models with no way to reproduce them.
+- We can incorporate privacy changes to our datasets without compromising reproducibility by adopting tools that enable change. Pachyderm has been my tool of choice for managing changing data. It has dramatically increased the reliability and efficiency of iterating on my machine learning systems. These types of tools will be critical in paving the way for a secure and dependable future for AI.
+- I’ve written an extensive post on managing the machine learning life cycle, Completing the Machine Learning Loop, that explores this topic in more depth, or for some of my work in NLP and Speech Recognition, see my book Deep Learning for NLP and Speech.
+- --
+- --
+- Towards Data Science
+- Applying AI the right way | Chief Scientist — AI & Strategy @HPE | Computer Science @UniOfOxford | Published @SpringerCompSci
+- Jimmy Whitaker
+- in
+- Pachyderm Community Blog
+- --
+- Jacob Marks, Ph.D.
+- in
+- Towards Data Science
+- --
+- 39
+- Leonie Monigatti
+- in
+- Towards Data Science
+- --
+- 17
+- Jimmy Whitaker
+- --
+- 2
+- Kenneth Leung
+- in
+- Towards Data Science
+- --
+- 1
+- Andy McDonald
+- in
+- Towards Data Science
+- --
+- Davide Gazzè - Ph.D.
+- in
+- DataDrivenInvestor
+- --
+- 2
+- Alexander Nguyen
+- in
+- Level Up Coding
+- --
+- 126
+- Conor O'Sullivan
+- in
+- Towards Data Science
+- --
+- Skanda Vivek
+- in
+- Towards Data Science
+- --
+- 3
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.technologyreview.com/2021/04/01/1021619/ai-data-errors-warp-machine-learning-progress/
+- Our understanding of progress in machine learning has been colored by flawed testing data.
+- The 10 most cited AI data sets are riddled with label errors, according to a new study out of MIT, and it’s distorting our understanding of the field’s progress.
+- Data backbone: Data sets are the backbone of AI research, but some are more critical than others. There are a core set of them that researchers use to evaluate machine-learning models as a way to track how AI capabilities are advancing over time. One of the best-known is the canonical image-recognition data set ImageNet, which kicked off the modern AI revolution. There’s also MNIST, which compiles images of handwritten numbers between 0 and 9. Other data sets test models trained to recognize audio, text, and hand drawings.
+- Yes, but: In recent years, studies have found that these data sets can contain serious flaws. ImageNet, for example, contains racist and sexist labels as well as photos of people’s faces obtained without consent. The latest study now looks at another problem: many of the labels are just flat-out wrong. A mushroom is labeled a spoon, a frog is labeled a cat, and a high note from Ariana Grande is labeled a whistle. The ImageNet test set has an estimated label error rate of 5.8%. Meanwhile, the test set for QuickDraw, a compilation of hand drawings, has an estimated error rate of 10.1%.
+- How was it measured? Each of the 10 data sets used for evaluating models has a corresponding data set used for training them. The researchers, MIT graduate students Curtis G. Northcutt and Anish Athalye and alum Jonas Mueller, used the training data sets to develop a machine-learning model and then used it to predict the labels in the testing data. If the model disagreed with the original label, the data point was flagged up for manual review. Five human reviewers on Amazon Mechanical Turk were asked to vote on which label—the model’s or the original—they thought was correct. If the majority of the human reviewers agreed with the model, the original label was tallied as an error and then corrected.
+- Does this matter? Yes. The researchers looked at 34 models whose performance had previously been measured against the ImageNet test set. Then they remeasured each model against the roughly 1,500 examples where the data labels were found to be wrong. They found that the models that didn’t perform so well on the original incorrect labels were some of the best performers after the labels were corrected. In particular, the simpler models seemed to fare better on the corrected data than the more complicated models that are used by tech giants like Google for image recognition and assumed to be the best in the field. In other words, we may have an inflated sense of how great these complicated models are because of flawed testing data.
+- Now what? Northcutt encourages the AI field to create cleaner data sets for evaluating models and tracking the field’s progress. He also recommends that researchers improve their data hygiene when working with their own data. Otherwise, he says, “if you have a noisy data set and a bunch of models you’re trying out, and you’re going to deploy them in the real world,” you could end up selecting the wrong model. To this end, he open-sourced the code he used in his study for correcting label errors, which he says is already in use at a few major tech companies.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+- DukeMTMC campus facial recognition dataset
+- WILDTRACK pedestrian detection dataset
+- Page info Type: DataPublished: April 2022

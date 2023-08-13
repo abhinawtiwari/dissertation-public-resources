@@ -1,0 +1,80 @@
+PREFIX ex: <http://example.org/>
+PREFIX incident: <http://example.org/incident/>
+PREFIX org: <http://example.org/org/>
+PREFIX i72: <http://example.org/i72/>
+PREFIX oep: <http://example.org/oep/>
+
+INSERT DATA {
+    # Incident resource
+    incident:Singapore_Xavier_Patrol_Robots
+        ex:source_url "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots" .
+
+    # StakeholderOutcomes
+    incident:Impact_of_Singapore_Xavier_Patrol_Robots_on_Public_Safety
+        a ex:StakeholderOutcome ;
+        ex:forStakeholder "Public safety" ;
+        ex:forOutcome "Safety" ;
+        ex:fromPerspectiveOf "Public safety" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "positive" ;
+        ex:hasIndicator "The number of crimes that are prevented by the Xavier patrol robots" ;
+        ex:hasImpactReport "The Straits Times' report on the Singapore Xavier patrol robots" ;
+        org:hasName "Impact of Singapore Xavier patrol robots on public safety" ;
+        org:hasDescription "The impact of the Singapore Xavier patrol robots on public safety" .
+
+    incident:Impact_of_Singapore_Xavier_Patrol_Robots_on_Civil_Liberties
+        a ex:StakeholderOutcome ;
+        ex:forStakeholder "Civil liberties" ;
+        ex:forOutcome "Privacy" ;
+        ex:fromPerspectiveOf "Civil liberties" ;
+        ex:hasImportance "high importance" ;
+        ex:isUnderserved false ;
+        ex:intendedImpact "negative" ;
+        ex:hasIndicator "The number of people who feel that their privacy has been violated by the Xavier patrol robots" ;
+        ex:hasImpactReport "The Straits Times' report on the Singapore Xavier patrol robots" ;
+        org:hasName "Impact of Singapore Xavier patrol robots on civil liberties" ;
+        org:hasDescription "The impact of the Singapore Xavier patrol robots on civil liberties" .
+
+    # Stakeholders
+    incident:Public_Safety
+        a ex:Stakeholder ;
+        ex:hasName "Public safety" ;
+        ex:hasDescription "Government agencies responsible for public safety" ;
+        ex:hasCatchmentArea "Singapore" ;
+        ex:hasStakeholderCharacteristic "Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime" ;
+        ex:performs "Enforcing the law" ;
+        i72:located_in "Singapore" ;
+        oep:partOf incident:Singapore_Xavier_Patrol_Robots .
+
+    incident:Civil_Liberties
+        a ex:Stakeholder ;
+        ex:hasName "Civil liberties" ;
+        ex:hasDescription "Organizations that are concerned about the protection of civil liberties" ;
+        ex:hasCatchmentArea "Global" ;
+        ex:hasStakeholderCharacteristic "Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy" ;
+        ex:performs "Advocating for civil liberties" ;
+        i72:located_in "Global" ;
+        oep:partOf incident:Singapore_Xavier_Patrol_Robots .
+
+    # ImpactRisks
+    incident:Risk_1
+        a ex:ImpactRisk ;
+        ex:forOutcome "Safety of public" ;
+        ex:hasLikelihood "medium" ;
+        ex:hasConsequence "high" ;
+        ex:hasMitigation "The Xavier patrol robots could be hacked and used to harm people" ;
+        ex:hasIdentifier "1" ;
+        ex:hasDescription "The risk that the Xavier patrol robots will be used to harm people" ;
+        oep:partOf incident:Singapore_Xavier_Patrol_Robots .
+
+    incident:Risk_2
+        a ex:ImpactRisk ;
+        ex:forOutcome "Privacy of citizens" ;
+        ex:hasLikelihood "high" ;
+        ex:hasConsequence "high" ;
+        ex:hasMitigation "The Xavier patrol robots could be used to collect data on citizens without their consent" ;
+        ex:hasIdentifier "2" ;
+        ex:hasDescription "The risk that the Xavier patrol robots will be used to collect data on citizens without their consent" ;
+        oep:partOf incident:Singapore_Xavier_Patrol_Robots .
+}

@@ -1,0 +1,845 @@
+- Occurred: August 2021
+- Can you improve this page?Share your insights with us
+- An investigation has found that mortgage lenders are much more likely to turn down Latino, Asian, Native American and Black applicants than White ones.
+- A Markup assessment of mortgage data, co-published by the AP, discovered that mortgage loan applicants of colour were 40%–80% more likely to be denied than their White counterparts across the US, and that the disparity was greater than 250% in some urban areas.
+- The algorithms used by lenders are mostly mandated by Freddie Mac and Fannie Mae, whose own underwriting algorithms are a closely held secret.
+- The Markup's investigation was cited as a reason for the introduction of the US Algorithmic Accountability Act of 2022.
+- Operator: Freddie Mac; Fannie Mae Developer: Freddie Mac; Fannie Mae Country: USA Sector: Banking/financial services Purpose: Assess mortgage applications Technology: Underwriting algorithms Issue: Bias/discrimination - race, ethnicityTransparency: Governance; Black box
+URL: https://www.documentcloud.org/documents/21011405-mortgage-bankers-trade-groups-letter-to-cfpb-10-29-14
+
+URL: https://www.documentcloud.org/documents/21010234-cfpb-final-policy-guidance-disclosure-of-loan-level-hmda-data
+
+URL: https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms
+- These two people applied for loans in
+				Chicago, Ill.,
+				in 2019.
+			
+
+
+				They both earned
+				$350K–$400K
+
+
+
+				and their debt level was
+				healthy.
+			
+
+				and sought to borrow
+				55%–60%
+				of the property's value.
+- White
+				applicant
+				approved
+
+
+
+Black
+				applicant
+				denied
+- Even accounting for factors lenders said would explain disparities, people of color are denied mortgages at significantly higher rates than White people
+        
+        
+          
+
+By 
+Emmanuel Martinez and 
+
+      Lauren Kirchner
+- The new four-bedroom house in Charlotte, N.C., was Crystal Marie and Eskias McDaniels’s personal American dream, the reason they had moved to this Southern town from pricey Los Angeles a few years ago. A lush, long lawn, 2,700 square feet of living space, a neighborhood pool and playground for their son, Nazret. All for $375,000.
+- Prequalifying for the mortgage was a breeze. They said they had saved much more than they would need for the down payment, had very good credit—scores of 805 and 725—and earned roughly six figures each, she in marketing at a utility company and Eskias representing a pharmaceutical company. The monthly mortgage payment was less than they’d paid for rent in Los Angeles for years.
+- They were scheduled to sign the mortgage documents on Aug. 23, 2019—a Friday—and were so excited to move in they booked movers for the same day.
+- The Wednesday before the big day, the loan officer called Crystal Marie, and everything changed, she said: The deal wasn’t going to close.
+- The loan officer told the couple that he had submitted the application internally to the underwriting department for approval a dozen, 15, maybe 17 times, getting a ‘no’ each time. The couple had spent $6,000 in fees and deposits—all nonrefundable.
+- “It seemed like it was getting rejected by an algorithm,” she said, “and then there was a person who could step in and decide to override that or not.”
+- She was told she didn’t qualify because she was a contractor, not a full-time employee—even though her boss told the lender she was not at risk of losing her job. Her co-workers were contractors, too, and they had mortgages.
+- Crystal Marie’s co-workers are White. She and Eskias are Black.
+- Show Your WorkDenied
+- Even after including factors the mortgage industry said explain differences, lenders are still more likely to deny people of color than White people under similar financial circumstances
+- “I think it would be really naive for someone like myself to not consider that race played a role in the process,” she said.
+- An investigation by The Markup has found that lenders in 2019 were more likely to deny home loans to people of color than to White people with similar financial characteristics—even when we controlled for newly available financial factors that the mortgage industry for years has said would explain racial disparities in lending.
+- Holding 17 different factors steady in a complex statistical analysis of more than two million conventional mortgage applications for home purchases, we found that lenders were 40 percent more likely to turn down Latino applicants for loans, 50 percent more likely to deny Asian/Pacific Islander applicants, and 70 percent more likely to deny Native American applicants than similar White applicants. Lenders were 80 percent more likely to reject Black applicants than similar White applicants. These are national rates.
+- In every case, the prospective borrowers of color looked almost exactly the same on paper as the White applicants, except for their race.
+- 
+- Source: 2019 HMDA Data, illustrations from ProPublica. We applied the odds ratios from our regression to White applicants’ actual denial rates to calculate the number of denials for each racial and ethnic group above. These numbers are not the actual denials or actual number of applications in each location, but rather have been standardized for comparison. We rounded to the nearest person.
+- The industry had criticized previous similar analyses for not including financial factors they said would explain disparities in lending rates but were not public at the time: debts as a percentage of income, how much of the property’s assessed worth the person is asking to borrow, and the applicant’s credit score.
+- The first two are now public in the Home Mortgage Disclosure Act data. Including these financial data points in our analysis not only failed to eliminate racial disparities in loan denials, it highlighted new, devastating ones.
+- We found that lenders gave fewer loans to Black applicants than White applicants even when their incomes were high—$100,000 a year or more—and had the same debt ratios. In fact, high-earning Black applicants with less debt were rejected more often than high-earning White applicants who have more debt.
+- “Lenders used to tell us, ‘It’s because you don’t have the lending profiles; the ethno-racial differences would go away if you had them,’ ” said José Loya, assistant professor of urban planning at UCLA who has studied public mortgage data extensively and reviewed our methodology. “Your work shows that’s not true.”
+- We sent our complete analysis to industry representatives: The American Bankers Association, The Mortgage Bankers Association, The Community Home Lenders Association, and The Credit Union National Association. They all criticized it generally, saying the public data is not complete enough to draw conclusions, but did not point to any flaws in our computations.
+- Blair Bernstein, director of public relations for the ABA, acknowledged that our analysis showed disparities but that “given the limitations” in the public data we used, “the numbers are not sufficient on their own to explain why those disparities exist.”
+- In written statements, the ABA and MBA criticized The Markup’s analysis for not including credit scores and for focusing on conventional loans only and not including government loans, such as those guaranteed by the Federal Housing Administration and Department of Veterans Affairs.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Isolating conventional loans from government loans is common in mortgage research because they are different products, with different thresholds for approval and loan terms. Government loans bring people who wouldn’t otherwise qualify into the market but tend to be more expensive for the borrower.
+- Even the Federal Reserve and Consumer Financial Protection Bureau, the agency that releases mortgage data, separate conventional and FHA loans in their research on lending disparities. Authors of one academic study out of Northeastern and George Washington universities said they focus on conventional loans only because FHA loans have “long been implemented in a manner that promotes segregation.”
+- As for credit scores, it was impossible for us to include them in our analysis because the CFPB strips them from public view from HMDA data—in part due to the mortgage industry’s lobbying to remove them, citing borrower privacy.
+- When the CFPB first proposed expanding mortgage data collection to include the very data that industry trade groups have told us is vital for doing this type of analysis—credit scores, debt-to-income ratio, and loan-to-value ratio—those same groups objected. They didn’t want the government to even collect the data, let alone make it public. They cited the risk of cyberattack, which could reveal borrowers’ private information.
+- “These new [data] fields include confidential financial data,” several large trade groups wrote in a letter to the CFPB, including the ABA and MBA. “Consequently, if this [sic] data are inadvertently or knowingly released to the public, the harm associated with re-identification would be even greater.”
+- Government regulators do have access to credit scores. The CFPB analyzed 2019 HMDA data and found that accounting for credit scores does not eliminate lending disparities for people of color.
+- Black
+        applicants were 
+        50% to 120% more likely to be denied
+        than
+        White
+        applicants with the same credit score
+- Asian/Pacific Islander
+        applicants were 
+        30% to 110% more likely to be denied
+        than
+        White
+        applicants with the same credit score
+- Latino
+        applicants were
+        20% to 90% more likely to be denied
+        than
+        White
+        applicants with the same credit score
+- Applicants of color were
+        20% to 120% more likely to be denied
+        than
+        White
+        applicants with the same credit score
+- In addition to finding disparities in loan denials nationally, we examined cities and towns across the country individually and found disparities in 89 metropolitan areas spanning every region of the country. In Charlotte, where Crystal Marie and her family searched for a home, lenders were 50 percent more likely to deny loans to Black applicants than White ones with similar financial profiles. In other places, the gap was even larger.
+- Black applicants in Chicago were 150 percent more likely to be denied by financial institutions than similar White applicants there. Lenders were more than 200 percent more likely to reject Latino applicants than White applicants in Waco, Texas, and to reject Asian and Pacific Islander applicants than White ones in Port St. Lucie, Fla. And Native American applicants in Minneapolis were 100 percent more likely to be denied by financial institutions than similar White applicants there.
+- “It’s something that we have a very painful history with,” said Alderman Matt Martin, who represents Chicago’s 47th Ward. “Redlining,” the now-outlawed practice of branding certain Black and immigrant neighborhoods too risky for financial investments that began in the 1930s, can be traced back to Chicago. Chicago activists exposed that banks were still redlining in the 1970s, leading to the establishment of the Home Mortgage Disclosure Act, the law mandating the collection of data used for this story.
+- When you see that maybe the tactics are different now, but the outcomes are substantially similar, it’s just not something we can continue to tolerate.
+- “When you see that maybe the tactics are different now, but the outcomes are substantially similar,” Martin added, “it’s just not something we can continue to tolerate.”
+- Who makes these loan decisions? Officially, lending officers at each institution. In reality, software, most of it mandated by a pair of quasi-governmental agencies.
+- Freddie Mac and Fannie Mae were founded by the federal government to spur homeownership and now buy about half of all mortgages in America. If they don’t approve a loan, the lenders are on their own if the borrower skips out.
+- And that power means that Fannie and Freddie essentially set the rules for the industry, starting from the very beginning of the mortgage-approval process.
+- Fannie and Freddie require lenders to use a particular credit scoring algorithm, “Classic FICO,” to determine whether an applicant meets the minimum threshold necessary to even be considered for a conventional mortgage, currently a score of 620.
+- This algorithm was developed from data from the 1990s and is more than 15 years old. It’s widely considered detrimental to people of color because it rewards traditional credit, to which White Americans have more access. It doesn’t consider, among other things, on-time payments for rent, utilities, and cellphone bills—but will lower people’s scores if they get behind on them and are sent to debt collectors. Unlike more recent models, it penalizes people for past medical debt even if it’s since been paid.
+- “This is how structural racism works,” said Chi Chi Wu, a staff attorney at the National Consumer Law Center. “This is how racism gets embedded into institutions and policies and practices with absolutely no animus at all.”
+- This is how structural racism works.
+- Potentially fairer credit models have existed for years. A recent study by Vantage Score—a credit model developed by the “Big Three” credit bureaus to compete with FICO—estimated that its model would provide credit to 37 million Americans who have no scores under FICO models. Almost a third of them would be Black or Latino.
+- Yet Fannie and Freddie have resisted a steady stream of plaintive requests since 2014 from advocates, the mortgage and housing industries, and Congress to update to a newer model. Even the company that created Classic FICO has lobbied for the agencies to adopt a newer version, which it said expands credit to more people.
+- “A lot of things that minorities and underserved borrowers are doing, responsible financial behaviors, are going under the radar,” said Scott Olson, executive director of the Community Home Lenders Association, a trade group representing small and midsized independent mortgage lenders.
+- Fannie’s and Freddie’s regulator and conservator, the Federal Housing Finance Agency, continues to allow the companies to stick with Classic FICO, more than five years after ordering them to study the effects of switching to something newer. The FHFA has also expressed concern about the “cost and operational implications” if they would have to continually test new credit scoring models.
+- Neither of the companies would answer questions from The Markup about why they still require Classic FICO.
+- “They’ve been testing alternate scores for years, and I don’t know why the process is taking so long,” said Lisa Rice, president and CEO of the National Fair Housing Alliance, a consortium of hundreds of fair housing organizations. “Well-deserving consumers are being left behind.”
+- Fannie’s and Freddie’s approval process also involves other mysterious algorithms: automated underwriting software programs that they first launched in 1995 to much fanfare about their speed, ease and, most important, fairness.
+- “Using a data base as opposed to human judgment can avoid influences by other forces, such as discrimination against minority individuals and red-lining,” Peter Maselli, then a vice president of Freddie Mac, told The New York Times when it launched its software, now called Loan Product Advisor. A bank executive told Congress that year that the new systems were “explicitly and implicitly ‘color blind,’ ” since they did not consider a person’s race at all in their evaluations.
+- If the data that you’re putting in is based on historical discrimination, then you’re basically cementing the discrimination at the other end.
+- But, like similar promises that algorithms would make color-blind decisions in criminal risk assessment and health care, research shows that some of the factors Fannie and Freddie say their software programs consider affect people differently depending on their race or ethnicity. These include, in addition to credit histories, the prospective borrowers’ assets, employment status, debts, and the size of the loan relative to the value of the property they’re hoping to buy.
+- “The quality of the data that you’re putting into the underwriting algorithm is crucial,” said Aracely Panameño, director of Latino affairs for the Center for Responsible Lending. “If the data that you’re putting in is based on historical discrimination, then you’re basically cementing the discrimination at the other end.”
+- Research has shown that payday loan sellers usually place branches in neighborhoods populated mainly by people of color, where bank branches are less common. As a result, residents are more likely to use these predatory services to borrow money. This creates lopsided, incomplete credit histories because banks report both good and bad financial behavior to credit bureaus, while payday loan services only report missed payments.
+- Gig workers who are people of color are more likely to report that those jobs are their primary source of income—rather than a side hustle they’re using for extra cash—than White gig workers. Having multiple sources of income or unconventional employment can complicate the verification process for a mortgage, as Crystal Marie and Eskias learned.
+- Considering an applicant’s assets beyond the down payment, which lenders call “reserves,” can cause particular problems for people of color. People with fatter bank accounts present a lower risk because they can more easily weather a setback that would leave others unable to pay the mortgage. But, largely due to intergenerational wealth and past racist policies, the typical White family in America today has eight times the wealth of a typical Black family and five times the wealth of a Latino family. People of color are more likely to have smaller savings accounts and smaller (or nonexistent) stock portfolios than White people.
+- Any type of data that you look at from the financial services space has a high tendency to be highly correlated to race.
+- “This is a relatively new world of automated underwriting engines that by intent may not discriminate but by effect likely do,” said David Stevens, a former president and CEO of the Mortgage Bankers Association, now an independent financial consultant.
+- Not even home valuations are free from controversy. The president of the trade group representing real estate appraisers, who determine property values for loans, recently acknowledged that racial bias is prevalent in the industry and launched new programs to combat it.
+- “Any type of data that you look at from the financial services space has a high tendency to be highly correlated to race,” said Rice, of the National Fair Housing Alliance.
+- In written statements, Fannie said its software analyzes applications “without regard to race,” and both Fannie and Freddie said their algorithms are routinely evaluated for compliance with fair lending laws, internally and by the FHFA and the Department of Housing and Urban Development. HUD said in an email to The Markup that it has asked the pair to make changes in underwriting criteria as a result of those reviews but would not disclose the details.
+- “This analysis includes a review to ensure that model inputs are not serving as proxies for race or other protected classes,” Chad Wandler, Freddie’s director of public relations, said in a written statement. He declined to elaborate on what the review entails or how often it’s done.
+- No one outside Fannie and Freddie knows exactly how the factors in their underwriting software are used or weighted; the formulas are closely held secrets. Not even the companies’ regulator, the FHFA, appears to know, beyond broad strokes, exactly how the software scores applicants, according to Stevens, who served as Federal Housing Administration commissioner and assistant secretary for housing at HUD during the Obama administration.
+- The Markup’s analysis does not include decisions made by Fannie’s and Freddie’s underwriting algorithms because, while lenders are required to report those decisions to the government, the CFPB scrubs them from public mortgage data, arguing that including them “would likely disclose information about the applicant or borrower that is not otherwise public and may be harmful or sensitive.” Lenders’ ultimate mortgage decisions are public, however. Borrowers’ names are not reported to the government and addresses are not in the public data.
+- Fannie and Freddie declined to answer our questions about why their algorithms’ decisions are excluded from the public data but said in a 2014 letter to the CFPB that the revelation could allow their decision-making algorithms to be reverse-engineered.
+- Loan officers say the software’s decisions are mysterious even to them.
+- “When you run so many deals through the automated system, you’ll look at one deal that didn’t get an approval, and you just know that that’s a better client than someone else that might’ve gotten approved,” said Ashley Thomas III, a broker and owner of LA Top Broker, Inc., a minority-owned real estate agency and brokerage in South Los Angeles. “That lack of transparency in the technology is very concerning.”
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The Community Home Lenders Association sent a letter to Fannie and Freddie in April complaining about unannounced changes to both of their underwriting software programs that members discovered when applicants who had previously been approved suddenly were denied.
+- Olson, executive director of CHLA, said there’s no good reason to keep lenders in the dark: “The more transparent, the more clear the guidance is, the easier it is for borrowers to know what they need to do to be in a position to qualify.”
+- Earlier this month—and weeks after we began asking about its algorithms—Fannie announced in a press release that it would start incorporating on-time rent payments in its loan approval software starting in mid-September. When we asked about the timing of that change, spokesperson Katie Penote emailed The Markup a statement saying the company wanted prospective borrowers “to have this option as soon as possible” but was silent about what prompted it.
+- In addition to using Fannie’s or Freddie’s software, many large lenders also run applicants through their institutions’ own underwriting software, which may be more stringent. How those programs work is even more of a mystery; they are also proprietary.
+- When we examined the reasons lenders listed for denying mortgages in 2019, the most common reason across races and ethnicities, with the exception of Native Americans, was that applicants had too much debt relative to their incomes. When lenders did list “credit history” as the reason for denial, it was cited more often for Black applicants than White ones in 2019: 33 percent versus 21 percent.
+- When we examined the decisions by individual lenders, many denied people of color more than White applicants. An additional statistical analysis showed that several were at least 100 percent more likely to deny people of color than similar White borrowers. Among them: the mortgage companies owned by the nation’s three largest home builders.
+- The two principal laws forbidding housing and lending discrimination are the 1968 Fair Housing Act and the 1974 Equal Credit Opportunity Act. An alphabet soup of federal agencies can refer evidence of violations of these laws to HUD or the justice department for investigation, but referrals have dropped precipitously over the past decade.
+- We have never totally enforced the Fair Housing Act.
+- Marcia Fudge, who took over HUD leadership earlier this year, told Axios in June that part of the reason Black ownership rates are so low in America is that “we have never totally enforced the Fair Housing Act.” In an email, HUD press secretary Meaghan Lynch told The Markup that Fudge intends to tackle “systemic discrimination in the housing and credit markets that is at the heart of the racial homeownership gap.”
+- “We do have laws that explicitly protect against discrimination, and yet you still see these disparities that you’re finding, so that suggests that we need better enforcement of existing laws, and more investigations,” said Kevin Stein, deputy director of the California Reinvestment Coalition. “Agencies need to do a better job of ferreting out discrimination and taking serious action once they find it.”
+- Another key housing law, the federal Community Reinvestment Act (CRA) of 1977, allows the federal government to penalize lenders who fail to invest in low-income or blighted neighborhoods but makes no requirements regarding borrowers’ race. Stein’s group has lobbied for the law to be reformed.
+- Lenders who violate fair lending rules can be punished with fines in the millions of dollars. Rep. Al Green (D-TX) has sponsored legislation wending its way through Congress that would make it a crime to engage in lending discrimination.
+- “Banks already have laws that punish people who commit fraud,” he said. “You can be imprisoned for—I hope you have your seatbelt on—30 years. Why not have some similar law that deals with banks who are invidiously discriminating against people who are trying to borrow money?”
+- And some fair lending advocates have begun to ask whether the value system in mortgage lending should be tweaked.
+- “As an industry, we need to think about, what are the less discriminatory alternatives, even if they are a valid predictor of risk,” said David Sanchez, a former Federal Housing Finance Agency policy analyst who currently directs research and development at the nonprofit National Community Stabilization Trust. “Because if we let risk alone govern all of our decisions, we are going to end up in the exact same place we are now when it comes to racial equity in this country.”
+- There’s no Klansmen in our yard or anything—but it’s definitely something we always think about.
+- Crystal Marie said whatever effect race may have had on her denial, it wasn’t overt.
+- “I’m not sure you ever really know, because there’s no Klansmen in our yard or anything—but it’s definitely something we always think about,” she said. “It’s just something that we always understand might be a possibility.”
+- The lender, loanDepot, denied race had anything to do with the decision. The company’s vice president of communications, Lori Wildrick, said in an email that the company follows the law and expects “fair and equitable treatment” for every applicant. “We take the issues raised by Ms. [McDaniels] very seriously and are conducting a thorough review of her concerns.”
+- Crystal Marie said that buying a house was crucial for her because she wants to pass on wealth to her son someday, giving him an advantage she never had. So when the loan officer told her that the deal wasn’t going to happen, she refused to give up.
+- With the help of their real estate agent, and multiple emails from her employer on her behalf, she and her husband Eskias pushed back against the denial.
+- At around 8 p.m. on the night before the original closing date, Crystal Marie got an email from the lender: “You’re cleared to close.”
+- She still doesn’t understand how the lender went from a no to a yes, but she was relieved and elated.
+- “It means so much to me, as a Black person, to own property in a place where not that many generations ago you were property,” said Crystal Marie, who said she is descended from slaves in neighboring South Carolina.
+- She said her family has always had a fraught relationship with money. Some relatives were so mistrustful of banks that they’d insisted on dealing only in cash, she said, making it impossible to build up credit or wealth for future generations.
+- “It’s meant so much,” she said, “that we were able to go through this process and finally, eventually, be successful.”
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- The Secret Bias Hidden in Mortgage-Approval Algorithms
+- From the series —
+    
+
+      Denied and 
+
+      Investigations
+- Emmanuel Martinez
+Investigative Data Journalist
+- Lauren Kirchner
+Investigative Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://themarkup.org/denied/2021/08/25/dozens-of-mortgage-lenders-showed-significant-disparities-here-are-the-worst
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Denied
+- Mortgage companies affiliated with the nation’s three largest home builders were at least twice as likely to deny applicants of color as similar White borrowers
+        
+        
+          
+
+By 
+Emmanuel Martinez and 
+
+      Malena Carollo
+- For years, research and reporting has found that mortgage lenders overall deny people of color more often than White applicants. The industry’s longtime argument is that the lending gap can be explained by financial differences among individual applicants.
+- But a statistical analysis by The Markup, which included some of those key factors, found that dozens of lenders were more likely to deny applicants of color than similarly qualified White applicants. One was 160 percent more likely to deny Black applicants than their White counterparts.
+- Three of the lenders with the largest disparities had an unusual market in common. They were the mortgage companies affiliated with the nation’s three largest home builders: DHI Mortgage finances homes built by D.R. Horton, Lennar Mortgage finances homes built by Lennar Corp., and Pulte Mortgage finances homes built by PulteGroup Inc.
+- The disparities for individual lenders mirror those uncovered by The Markup’s analysis of federal mortgage data overall. We found that in 2019, the U.S. mortgage industry was 40 to 80 percent more likely to deny people of color than similarly qualified White applicants, despite various federal laws that forbid discriminatory lending practices. Black applicants faced the biggest disparities.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- These discrepancies persisted even though the analysis included two out of three factors that the mortgage industry had argued would explain away disproportionate denial rates: debt-to-income ratio and combined loan-to-value ratio. The third, credit scores, is still stripped from public federal mortgage data reported under the Home Mortgage Disclosure Act (HMDA)—but an analysis by government regulators found that accounting for credit scores does not erase disparities either.
+- More than 5,500 banks, credit unions, and independent mortgage companies reported data to the federal government in 2019 for every loan application they processed. Only the top one percent of lenders processed enough applications for a statistical analysis of their individual practices.
+- Among those, The Markup found more than two dozen companies that showed statistically significant lending disparities. Seven of those lenders had the worst track records. These were all at least 100 percent more likely to deny Black and Latino applicants and received more than 1,000 applications from each of those two racial and ethnic groups. For Asian/Pacific Islander applicants, the likelihood of denial did not meet The Markup’s threshold for a disparity, and there were not enough Native American applications to make a definitive conclusion.
+- The lenders with the largest disparities also all faced criticism from at least one government agency in recent years for their business practices. While scrutiny from a government agency is not uncommon, repeat offenses and multiple kinds of offenses can raise flags.
+- or more of conventional loans by the six independent mortgage companies on our list went to upper- and middle-class communities.
+- “When you start seeing different kinds of violations, you begin to worry about the lender’s operations as a whole,” said Sara Pratt, a lawyer with Relman Colfax. She previously oversaw the U.S. Department of Housing and Urban Development’s civil rights enforcement unit.
+- Six of the lenders with the biggest disparities are independent mortgage companies, and the seventh is a credit union. They are governed by fewer federal lending rules than banks. They are still subject to the Fair Housing Act, but independent mortgage companies and credit unions are not regulated by the Community Reinvestment Act of 1977, which requires banks to make an effort to lend in disadvantaged neighborhoods.
+- In 2019, the six independent mortgage companies on our list dedicated at least 80 percent of their conventional loans to upper- and middle-class communities, our analysis shows.
+- Here are the lenders that showed the largest disparities in denials between White applicants and similar Black and Latino applicants in 2019, ranked from largest to smallest disparities.
+- This Texas-based lender produced the widest disparity: It was 160 percent more likely to deny Black applicants and 100 percent more likely to deny Latino applicants than comparable White applicants.
+- DHI Mortgage’s top markets include Dallas, Houston, and Austin. The independent mortgage company finances many of the homes built by its parent organization, D.R. Horton, which identifies itself as the nation’s largest home builder. The company also has its own affiliated title and insurance companies.
+- Craig Pizer, a senior vice president and compliance officer at DHI Mortgage, said the company’s mission is to provide excellent customer service when buying a home and is “deeply committed to providing equal opportunity to every member of our community to achieve the dream of homeownership.” He did not take issue with The Markup’s analysis.
+- Percent by which DHI Mortgage Company was more likely to deny Black applicants than comparable White applicants in 2019.
+- In 2013 and again in 2017, California’s Department of Business Oversight found that the company charged borrowers too much daily interest, and DHI Mortgage agreed to pay an $18,000 administrative penalty to settle those claims.
+- DHI Mortgage paid the U.S. Department of Housing and Urban Development $180,000 in 2016 to settle claims that the company submitted “false statements” involving loans insured by the U.S. Federal Housing Administration, including stating that it was not affiliated with its parent company D.R. Horton. DHI did not admit wrongdoing.
+- In an emailed statement, Pizer said the company “resolved the matter” in these cases through settlement agreements.
+- “For the California matter, (DHI Mortgage) ultimately enhanced our policies and procedures to ensure compliance with all applicable California financial codes,” he said.
+- The Markup’s analysis of federal mortgage data showed that this independent mortgage company was 130 percent more likely to deny Black applicants and 110 percent more likely to deny Latino applicants than their White counterparts.
+- Headquartered in Miami, Lennar Mortgage, as it is currently known, has changed its name multiple times since it was created in 1981 by Lennar Corporation, which was the nation’s second largest home builder by revenue in 2020, according to the National Association of Home Builders. In 2019—the period of The Markup’s analysis—it went by Eagle Home Mortgage and primarily served the Houston and Phoenix metros areas, where it made more than 1,000 loans to each region.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The company said its approval rates for Black and Latino borrowers and its share of Black and Latino applicants are both higher than the national averages but did not refute The Markup’s findings.
+- “Our underwriting practices are applied consistently, fairly, and in a non-discriminatory manner,” Lennar spokesperson Aaron Curtiss said. “We support initiatives to address macroeconomic and societal disparities and actively focus on originating loans to underserved communities.”
+- The company agreed to pay $13.2 million in 2018 to settle allegations brought by the U.S. Department of Justice that it “knowingly” submitted mortgages to be insured by the Federal Housing Administration when the loans did not meet federal standards and “knowingly failed to perform quality control reviews.” The alleged violations were reported by a whistleblower and took place between 2006 and 2011, when the mortgage company was called Universal American Mortgage Company.
+- Lennar Mortgage did not respond to requests for comment about its federal settlement.
+- In 2019, this independent mortgage lender was 120 percent more likely to deny Latino applicants than comparable White applicants. Freedom Mortgage did not report enough applications from Black borrowers in 2019 for this analysis to return a reliable conclusion for those.
+- Headquartered in Mount Laurel, N.J., Freedom Mortgage made loans in 47 different states that year, with a quarter of those going to New York State’s Nassau and Suffolk counties and the New York City metropolitan area. The company was founded in 1990.
+- In a written statement, Freedom Mortgage said it presents different types of loan products to its customers and then determines which product best fits customers’ needs.
+- “Freedom Mortgage is reducing the homeownership gap in underserved communities through [government-insured loans], down payment assistance programs, manual underwriting of loans, and many other tools,” said Ellen Longo, vice president of public relations, in an email. The company did not mention finding any flaws in The Markup’s analysis.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The Consumer Financial Protection Bureau fined the company $1.75 million in 2019 after it found that Freedom Mortgage incorrectly recorded “race, ethnicity, and sex” information for applicants, including identifying borrowers as White when the borrower didn’t specify race in the application. The agency characterized this as “intentional.”
+- A statement released by the company at the time said that Freedom Mortgage took the issues brought by the CFPB seriously and cooperated with the agency and that no consumers were harmed by these reporting inaccuracies.
+- Three years earlier, Freedom Mortgage agreed to pay a $2 million administrative penalty to the Massachusetts Division of Banks after the agency alleged that Freedom Mortgage did not comply with state and federal regulations for lending. That same year, Freedom Mortgage agreed to pay the U.S. Department of Justice $113 million after it was accused of writing loans that didn’t meet the standards to be insured by the U.S. Federal Housing Authority.
+- In 2014, the company settled with the U.S. Department of Housing and Urban Development for $104,000 over discrimination claims. The agency alleged that Freedom Mortgage required 69 applicants with disabilities to show documentation relating to their disability. As part of the settlement, the money would be used to pay damages to those affected.
+- Freedom Mortgage did not return emailed requests for comment on the government actions.
+- Pulte Mortgage was 120 percent more likely to deny Latino applicants than White applicants with similar financial characteristics in 2019. Pulte Mortgage did not have enough applications from Black borrowers in 2019 for a reliable conclusion.
+- Based in Englewood, Colo., this company made its largest share of loans in Phoenix. It is owned by PulteGroup Inc., the third-largest home builder in the country by revenue in 2020, according to the National Association of Home Builders. On its website, PulteGroup says it operates under its “overarching principle of ‘do the right thing’ ” in all aspects of its business, including its financial services.
+- Pulte Mortgage and Pulte Home Corporation agreed to pay $1.18 million in 2010 to settle allegations brought by the Arizona Attorney General’s Office that the company was using its oral prequalification process to determine how much potential customers could afford to spend “and to promote Pulte Mortgage,” its lender. It did not admit wrongdoing.
+- The attorney general further alleged that the company did not provide the same resources to its Spanish-speaking customers. The company’s Spanish-language website, for example, only outlined the potential benefits of its loans without detailing their potential risks, whereas the English website had both. It also did not provide any translators or contracts in Spanish.
+- Its Spanish-language website has since been taken down.
+- The company acknowledged that it received an email containing The Markup’s findings and did not refute any of them, but did not respond to requests seeking comment, including about the 2010 allegations.
+- This lender was 110 percent more likely to reject both Black and Latino applicants than similarly qualified White ones.
+- Movement Mortgage was founded in 2008, the same year many financial institutions began to fail because of the housing crash. More than 10 years later, the company now has 650 offices in 50 states. It’s based in South Carolina and made more than 10 percent of its 2019 loans in the Charlotte metro area, which includes counties in both North and South Carolina.
+- Adam O’Daniel, the director of marketing and communications at Movement Mortgage, said the company believes federal mortgage data can lead to misleading and damaging findings because the data is incomplete.
+- “HMDA data does not account for borrower credit scores, which is among the most significant factors in credit decisions by mortgage lenders,” O’Daniel said in a written statement. “Without that information, it is impossible for a third party to determine that a lender is disproportionately denying a protected class of borrowers.”
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Movement Mortgage paid $1.1 million in penalties in 2017, after California’s Department of Business Oversight found that the company overcharged its customers and “serviced loans” without a California license. As part of those penalties, Movement had to refund more than $140,000 to more than 1,300 customers. This was the second time in a span of five years that the state agency found that Movement Mortgage was overcharging customers.
+- Movement Mortgage did not respond to emailed requests for comment on the California actions.
+- Fairway was 110 percent more likely to deny Black applicants than similar White applicants in 2019. The likelihood of denial for Latino applicants did not meet The Markup’s threshold of a statistically significant disparity for this analysis.
+- The company was founded in 1996 and is the country’s largest provider of U.S. Department of Agriculture’s Guaranteed Rural Housing program loans in 2021 by volume. It is headquartered in Madison, Wis., and Carrollton, Texas, and has offices in every state except West Virginia and Alaska. Its largest lending market is Phoenix.
+- Kirby Bradley, Fairway’s chief content officer, said in an email that the company believes HMDA data cannot provide meaningful conclusions regarding its lending behavior because the data lacks applicants’ credit scores.
+- The company said that it conducts its own analyses on how Fairway Independent lends, which didn’t show any disparities between White applicants and those of color. The company didn’t provide details about its findings.
+- Fairway agreed to a $162,000 settlement with the Massachusetts Division of Banks in 2011 after the agency alleged that Fairway didn’t adequately retain documents and worked with loan originators that were not licensed.
+- The company did not return emailed requests for comment about the Massachusetts action.
+- Navy Federal was 110 percent more likely to deny Black applicants than comparable White applicants. The likelihood of denial for Latino applicants was not high enough to meet The Markup’s threshold of a significant disparity.
+- The credit union exclusively serves active and retired members of the military, their families, and U.S. Department of Defense civilian employees. It says it was founded at the end of the Great Depression, in 1933, by seven ​​employees of the Navy “who wanted to help themselves and their co-workers reach their financial goals.”
+- It didn’t report a location on a quarter of its applications, but for those that did contain a location, its top market was the Washington, D.C., metro area.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Navy Federal Credit Union said in an email that The Markup’s findings do not accurately reflect the company’s lending practices, but declined to specify any inaccuracies.
+- “Navy Federal Credit Union is committed to equal and equitable lending practices and strict adherence to all fair lending laws,” said Brian K. Parker, assistant vice president of corporate communications. “Helping our members reach their financial goals remains our top priority.”
+- The CFPB fined the credit union $28.5 million over its debt collection practices in 2016. According to the CFPB investigation, Navy Federal Credit Union falsely threatened to sue, garnish wages, and contact commanding officers for any members who became late on their loans. The credit union also limited tardy borrowers’ access to their debit cards, ATMs, and online checking. The only option Navy Federal Credit Union offered them online was to pay back the delinquent portion of their loans, according to the CFPB.
+- Navy Federal Credit Union declined to answer The Markup’s questions about those claims. The credit union told Reuters in 2016 that it cooperated with the federal agency and made the necessary changes.
+- The Markup investigative reporter Lauren Kirchner contributed to this report.
+- This article has been corrected to show that Movement Mortgage is tied for fourth, not third, among the lenders that showed the largest disparities in denials between White applicants and similar Black and Latino applicants in 2019.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Dozens of Mortgage Lenders Showed Significant Disparities. Here Are the Worst
+- From the series —
+    
+
+      Denied
+- Emmanuel Martinez
+Investigative Data Journalist
+- Malena Carollo
+Investigative Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://themarkup.org/show-your-work/2021/08/25/how-we-investigated-racial-disparities-in-federal-mortgage-data
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Show Your WorkDenied
+- Have you read this article yet? You may want to start here.
+- Denied
+- Even accounting for factors lenders said would explain disparities, people of color are denied mortgages at significantly higher rates than White people
+- In the United States, homeownership is synonymous with building wealth. Homeowners are wealthier than those who rent. Owning a home is often less expensive than renting. And the wealth accumulated through a home is generational: Children of homeowners are more likely to own a home than those of renters.
+- But people of color, particularly Black Americans, have historically been shut out of homeownership.
+- In the 1930s, the federal government encouraged lending institutions to deny mortgages to prospective homebuyers who lived in neighborhoods with high populations of Black people or immigrants. The practice became known as “redlining” because the government-sponsored Home Owners’ Loan Corporation drew red lines around these neighborhoods, deeming them a hazardous credit risk.
+- It took more than 30 years for the federal government to outlaw redlining. The Fair Housing Act of 1968 made it illegal to deny someone housing based on race or other protected categories.
+- Despite the law, people of color continue to be denied mortgages at higher rates than their White counterparts. In 1988, The Atlanta Journal-Constitution found lenders in Atlanta made five times as many loans to people living in White neighborhoods compared to those living in Black neighborhoods, even when the applicants made the same amount of money.
+- The trend persists today, more than 50 years after the passage of The Fair Housing Act. One of the authors of this investigation, Emmanuel Martinez, reported in 2018 that Black applicants in Philadelphia were almost three times as likely to be denied a mortgage compared to White borrowers there, even when they had similar financial characteristics. That investigation looked at denial rates in major metropolitan areas across the country, rather than computing a national rate, because of the limitations of the data available at the time.
+- The lending industry criticized these findings, saying the analysis lacked key variables that lenders use to make mortgage decisions and would explain the lending gap: debt-to-income ratio, combined loan-to-value ratio, and credit score. None of those variables were attainable for analysis because they were not included in the public data at the time.
+- Starting in 2019, the federal government began releasing two of those three variables—debt-to-income and combined loan-to-value ratios—in federal mortgage data. Those two metrics measure how well applicants manage their debt and how much of the property’s overall value is being financed.
+- We sought to investigate whether including these factors in a statistical analysis would eliminate well-documented lending disparities between White applicants and applicants of color. We found that they did not.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Our new analysis shows that, even when accounting for debt-to-income and combined loan-to-value ratios in addition to other financial characteristics, lenders were still more likely to deny people of color home loans than White applicants. Applicants’ credit scores are still not released publicly, though lenders are required to report them to the federal government as part of their Home Mortgage Disclosure Act (HMDA) reporting.
+- The improved data also allowed us to discern statistically valid odds of denial nationwide for people of different races and ethnicities. To our knowledge, this is the first time that the public data has been robust enough to do so.
+- We found that nationwide, Black applicants are nearly twice as likely to be denied conventional mortgages as similarly qualified White applicants. Latino, Asian/Pacific Islander, and Native American applicants are also more likely to be denied mortgages at higher rates than White ones, even when they have the same financial characteristics.
+- The most common reason listed for denials was that applicants had too much debt relative to their income, which is in line with previous findings by the Consumer Financial Protection Bureau (CFPB) and a survey of mortgage bankers that found they were most concerned about applicants’ high debt ratios.
+- In addition to looking at the data nationally, we analyzed lending rates at the local level. We found lending disparities vary not only by location but also by racial and ethnic demographic. We found 89 metropolitan areas, spanning every region of the country, where lenders were more likely to deny people of color conventional mortgages than White people with similar financial characteristics. Of the biggest metropolitan areas, Chicago, had one of the widest disparities: Black applicants there were 150 percent more likely to be denied than White applicants. In Minneapolis, lenders were more likely to deny Black, Latino, Asian/Pacific Islander, and Native American applicants than White applicants.
+- Lastly, HMDA’s volume of applications also allowed us to look at lending patterns of various financial institutions. Seven lenders—DHI Mortgage Company, Lennar Mortgage (formally known as Eagle Home Mortgage), Pulte Mortgage, Freedom Mortgage Corporation, Movement Mortgage, Fairway Independent Mortgage Corporation, and Navy Federal Credit Union—showed wide disparities between the lending rates to people of color and similarly qualified White applicants.
+- Despite our including the two new key variables, mortgage lending groups and individual lenders said our analysis is still incomplete and doesn’t accurately reflect their lending patterns. Their main critique was the lack of credit scores and credit histories; those factors, they said, can explain the differences in lending outcomes.
+- Analyses of lending disparities have traditionally relied on data released through the Home Mortgage Disclosure Act of 1975, known as HMDA data. It’s currently kept and maintained by the CFPB, and its purpose is to ensure that lenders are meeting the housing needs of the communities they serve and to help identify potential discriminatory lending patterns.
+- Over the years, lenders have been required to report more data about their mortgage applications and prospective borrowers to the federal government. HMDA’s latest expansion came from the 2010 Dodd-Frank Act, which was in response to the 2008 housing crisis. The federal law enacted a series of reforms of the financial industry—among them, requiring lenders to report and publicly disclose more information, including borrowers’ debt-to-income and combined loan-to-value ratios. Those disclosure rules went into effect in 2019 and were first applied to 2018 mortgage data. Lenders are also required to disclose applicants’ credit scores, but the government still does not release those, citing privacy concerns. The public database does not contain applicants’ names or home addresses.
+- HMDA data is loan-level data containing many details of individual mortgage applications. We downloaded the 2019 dataset multiple times (as it is updated from time to time), most recently on Aug. 10, 2021. It contained more than 17 million applications, nearly 90 percent of all loans made in the country from more than 5,500 financial institutions. Smaller lenders are not required to report the applications they receive. Of those financial institutions that report their data, some don’t have to disclose the new fields required by the Dodd-Frank Act.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The dataset provides detailed information about the lender, the borrower, the loan, and the property. It contains the borrowers’ income, sex, race and ethnicity, among other characteristics. It details whether the mortgage was secured through conventional means or insured by the government, the reason the mortgage is being sought, the size of the loan, etc. It lists information about the property that’s being purchased, like the number of units and its general location (census tract).
+- The Dodd-Frank Act expanded the number of fields in the HMDA data that are publicly available, adding more than 50 columns. This makes the 2018 and 2019 public datasets the most expansive ever released. We used the 2019 dataset, which was the most recent available when we began our investigation.
+- One of the most significant additions to the data is the applicant’s debt-to-income ratio, which banks and federal regulators say is the most important of a handful of key factors lenders consider.
+- Banks say they place more emphasis on debt-to-income ratios than credit scores. A survey conducted for the Fair Isaac Corporation, otherwise known as FICO, the company that produces credit scores, found that almost 60 percent of bankers are most concerned about high debt-to-income ratios when approving loans. Only 10 percent of them said that low credit scores were their biggest concern.
+- The CFPB arrived at a similar conclusion in a 2020 report. When looking at why lenders denied prospective borrowers in 2019, the agency said, debt-to-income ratio was the most common reason.
+- This ratio tells financial institutions whether a person can afford the mortgage. It’s calculated by dividing a borrower’s total monthly payments on all of their lines of credit by their monthly income. A high debt-to-income ratio means a person devotes most of his or her income to paying debts. Lenders also have to report credit scores, but the CFPB publicly reveals only the type of credit model used to assess each applicant’s creditworthiness, not the score itself.
+- For this analysis, we focused on mortgages that reflect everyday homeownership and where the government does not insure the loan. Therefore, we limited our data to so-called first-lien conventional mortgages for home purchase on one- to four-unit properties, where the borrower intends to live in the property. We then filtered those further, using only those mortgages with the clearest outcome: loans either made or denied. We excluded all other outcomes, including applications that were withdrawn and applications that were approved by the lender but not ultimately accepted by the applicant.
+- Researchers and government analysts and regulators often analyze conventional loans separately from Federal Housing Administration (FHA) mortgages and other government-backed loans, such as those from the U.S. Department of Veterans Affairs (VA). Conventional mortgages are the best measure of the mortgage industry’s behavior on individual decisions without government intervention.
+- Limiting our analysis to these specific loans and removing other records for statistical reasons reduces our universe of data to about 2.4 million mortgage applications nationwide in 2019.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- To determine whether the inclusion of debt-to-income and combined loan-to-value ratios explains away the lending disparities between people of color and their White counterparts, we used a statistical technique called binary logistic regression. This type of regression allows us to assess and quantify the relationship between multiple independent variables against a single binary outcome—in this case, the yes or no decision: whether a lender made the loan or denied the application.
+- We built one main regression model for all conventional mortgages in our universe and applied it to the entire country. We then created two derivative models from that main one: one to analyze major metropolitan areas and another to analyze individual lenders.
+- Our national model for conventional applications contained 17 variables:
+- When we analyzed metro areas, we created more than 950 subsets based on the metro area location of the property (metropolitan statistical areas, metropolitan divisions, micropolitan statistical areas). This model has 16 variables because we excluded the metro area size variable and we also combined some of the categories within those variables because of small sample sizes.
+- We also applied our regression model to lenders that reported more than 5,000 conventional home purchase applications in 2019. We removed three variables from this regression equation: the type of lender, the size of the lender, and the metro area size flag. Most financial institutions lend in specific markets and tend to stay within those geographic boundaries.
+- When holding 17 independent variables constant against the dependent variable of being denied a mortgage, we found that lenders are more likely to deny applicants of color compared to White ones with similar financial characteristics, with Black applicants faring the worst.
+- Our analysis shows that financial institutions were almost twice as likely to deny Black applicants conventional mortgages in 2019 compared to White applicants who had the same debt-to-income ratios, made the same amount of money, and shared other important financial characteristics.
+- Lenders were also more likely to deny Latino, Asian/Pacific Islander, and Native American applicants than their White counterparts when we held the key financial characteristics constant. The disparities for these racial and ethnic groups ranged from 40 to 70 percent more likely to be denied.
+- Various lenders say they are more comfortable making loans to applicants with low debt-to-income ratios. Some banks say applicants with ratios of 50 percent or higher should reduce their debt before applying for a mortgage. The federal government says applicants with ratios of 43 percent or higher may qualify for only nontraditional mortgages, such as those with balloon payments.
+- HMDA data displays debt-to-income ratios for each loan application as either categorical or continuous data. Those whose ratios fall below 36 percent are divided into three categories, with breaks at every 10th percent: 36 to 30 percent, 30 to 20 percent, and below 20 percent. The data splits ratios above 50 percent into two buckets: those between 50 and 60 percent and those that are more than 60 percent. Ratios that fell between 36 and 49 percent are displayed as the raw percentage.
+- To standardize this column, we created buckets using the most consistent definitions among lenders. Bank of America, JPMorgan Chase, and Wells Fargo agree that DTI ratios below 36 percent are the best. These banks, among other lenders, also say that ratios above 50 percent need the most work.
+- Because lenders define ratios between 36 and 50 percent differently, we split the raw percentages into two buckets at 43 percent. The CFPB says borrowers can end up with different loan products if they are above or below that ratio. By doing this, we created four categories for debt-to-income ratio.
+- In our nationwide model, the “struggling” debt-to-income ratio category was the most important factor predicting mortgage denial.
+- Applicants with the worst debt-to-income ratio in 2019 (“struggling” category) were nearly 46 times as likely to be denied compared to those with “healthy” ratios, when we controlled for other factors.
+- Those in the “nearing unmanageable” category (between 43 and 49 percent) were 1.4 times as likely to be denied than those who have the best DTI ratios.
+- Applicants with manageable DTIs showed no statistically significant results.
+- Our regression analysis takes into account only loans and denials, excluding the other outcomes, which are more ambiguous.
+- However, even when we included approvals in our analysis—those where the applicant chose not to accept the loan, for instance—we still found that people of color had worse outcomes. They were still approved at lower rates than their White counterparts.
+- Lenders approved Black applicants with “healthy,” “manageable,” and “nearing unmanageable” DTIs about 80 percent of the time. But they approved White applicants in those three categories about 90 percent of the time.
+- The starkest disparity was in loan approval rates for Black applicants who are in the “struggling” category compared to White applicants with the same amount of debt. Lenders approved White applicants with a debt-to-income ratio of 50 percent or more at more than twice the rate as Black applicants in that category. Lending rates are also much lower for Latino, Native American, Asian/Pacific Islander applicants than White ones in the “struggling” category.
+- Taking the analysis one step further, the differences in approval rates are stark for some applicants of color compared to White applicants in worse financial shape. We compared approval rates for high-earning applicants of color—those who earn $100,000 or more—with less affluent White applicants—those earning less than $100,000.
+- Lenders approved poorer White applicants with the same debt-to-income ratio at higher rates than richer Black applicants across the “healthy,” “manageable,” and “nearing unmanageable” categories. Only in the “struggling” category do lenders approve loans to higher earning Black applicants at the same rate as poorer White applicants.
+- Other applicants of color—Asian/Pacific Islander, Latino, and Native American—have the same or slightly higher approval rates compared to poorer White applicants.
+- We applied our model to 959 metropolitan areas, metropolitan divisions, and micropolitan areas across the country, testing for racial and ethnic differences in mortgage lending.
+- The majority of those metro areas, 709 of them, did not produce meaningful results because they’re too small (most of these had fewer than 500 applications). We tossed out another 122 areas because they either lacked heterogeneity among the variables in our equation or the regression model produced a poor fit. That left 128 metro areas with meaningful results.
+- In 37 of those 128 metro areas, the four racial and ethnic variables (Black, Latino, Asian/Pacific Islander, and Native American) were unreliable because they were not statistically significant or there were not enough applications. That doesn’t mean that there are no lending disparities for applicants of color in these areas; we would need more data to draw a more definitive conclusion.
+- The remaining 91 metro areas produced reliable findings. People of color in those metro areas were between 20 percent and 230 percent more likely to be denied than similar White applicants. In the Los Angeles metro area, for example, our regression showed that Latino applicants are 20 percent more likely to be denied than their White counterparts who have similar financial characteristics.
+- For this story, we are defining metro areas as having a “statistically significant disparity” if a group is at least 50 percent more likely to be denied than similar White applicants.
+- In two metro areas—the Fort Lauderdale/Pompano Beach/Sunrise area and the Las Vegas/Henderson/Paradise area—the only reliable results were for Black and Asian/Pacific Islander applicants, and those disparities were less than 50 percent. While those are valid results, they are not statistically significant disparities under our definition.
+- That left 89 metro areas where we found at least one of the four racial and ethnic groups were more likely to be denied compared to similarly situated White applicants. All of these metro areas had a pseudo r-squared of 0.1 or above, and the race and ethnicity variables had p-values below 0.05, and the odds ratio was 1.5 or above.
+- These lending disparities appeared in every region of the country, from the South—including Nashville and Birmingham—to the Northeast (Boston), the Midwest (Minneapolis), and the West (Riverside, Calif.).
+- Disparities were present in some of the nation’s largest cities, including New York, Los Angeles, Chicago, and Houston, and in smaller cities such as Florence, S.C., and Waco, Texas.
+- Our analysis showed Black applicants are more likely to be denied in 71 of the 89 metro areas (80 percent). Of all the metro areas where Black applicants were more likely to be denied, they fared the worst in the Dayton-Kettering metro area of Ohio. They were nearly three times as likely to be denied as similarly qualified White applicants there.
+- Lenders were more likely to deny Latino applicants in 39 metro areas (49 percent), Asian/Pacific Islander applicants in 55 metro areas (62 percent), and Native American applicants in one metro area. (There were 15 metro area where Native American applicants are more likely to be denied, but we are not including those because of the small number of applications.)
+- In the 10 most populous metro areas in the country, Black prospective homebuyers fared the worst in Chicago. Lenders there were 2.5 times as likely to reject Black applicants than White ones with similar financial circumstances.
+- They were also 1.6 times as likely to deny Latino applicants in Chicago as similarly qualified White applicants there and 1.4 times as likely to turn away Asian/Pacific Islander applicants in Chicago as their White counterparts. The regression didn’t produce statistically significant results for Native American applicants.
+- Minneapolis also showed a rare distinction: Of all the metro areas with statistically significant lending disparities, it was the only one where lenders were more likely to turn away applicants of all four racial and ethnic groups than their White counterparts.
+- In Minneapolis, all four racial and ethnic groups were more likely to be denied conventional mortgages than similarly qualified White applicants.
+- More than 5,500 lenders reported at least one mortgage application to the government in 2019. Wells Fargo was by far the largest, reporting more than one million applications. The next closest lender, Quicken Loans, reported 20,000 fewer applications. Nearly three-quarters of financial institutions reported fewer than 900 applications that year, a relatively small number for purposes of statistical analysis.
+- We applied our regression equation to the nation’s biggest lenders—those that reported 5,000 or more conventional home loan applications in our dataset. There were 72 financial institutions that met this criterion.
+- Of those, the regression equation did not produce meaningful results for 30 lenders, because of a lack of variance for some of the variables or a poor fit produced by the model. We tossed out another 12 lenders because of collinearity issues and an additional four lenders because none of the race and ethnicity variables were statistically significant. This left 26 lenders with statistically significant results.
+- Our analysis showed these 26 lenders were between 30 to almost 260 percent more likely to deny applicants of color than similarly situated White borrowers. All of these financial institutions consistently denied Black borrowers at higher rates; some lenders were 30 percent more likely to deny Asian/Pacific Islander and Latino applicants than similar White borrowers. Our sample did not include enough Native American applicants to draw a conclusion.
+- Seven lenders received more than 1,000 applications from Black and Latino borrowers, and these lenders were at least twice as likely to deny applicants of those races and ethnicities compared to their White counterparts. These were some of the widest disparities among those lenders that produced statistically significant results.
+- DHI Mortgage Company, Lennar Mortgage, Pulte Mortgage, Freedom Mortgage Corporation, Movement Mortgage Corporation, Fairway Independent Mortgage Corporation, and Navy Federal Credit Union were all at least twice as likely to deny applicants of color when we held 14 variables constant—including income, debt-to-income ratio, and combined loan-to-value ratio.
+- Lenders can deny mortgage applications for multiple reasons. They can list up to four reasons in HMDA. The options include:
+- Across most racial and ethnic groups, with the exception of Native American applicants, lenders reported rejecting most applications because the debt would be too high relative to their income.
+- Lenders listed debt-to-income ratio as one of the reasons they refused to make loans to Black applicants 35 percent of the time. Debt was also the most common reason lenders listed in denying White applicants—33 percent of their rejections.
+- When lenders listed “credit history” as the reason for denial in 2019, it was cited more often for Black applicants than White ones: 33 percent versus 21 percent.
+- Lenders say an applicant’s credit score is an essential variable they use to evaluate mortgage applications. A credit-scoring algorithm takes a person’s history of making payments and attempts to predict that person’s likelihood of paying back a loan in the future, with a numerical score. That score is a snapshot in time; a person’s credit score can fluctuate from one day to the next based on outstanding bills and balances on lines of credit.
+- Credit scores usually range from 350 to 850, though each credit-scoring company uses a slightly different range of scores. A higher score indicates a higher likelihood of repayment. FICO says a score above 670 in its model is considered good, and anything above 800 is exceptional. About two-thirds of people have a good or better credit score, according to Experian.
+- In its analysis of the 2019 HMDA data, the CFPB found that for all applications, Black applicants had, on average, the lowest credit score of all racial and ethnic groups—a median credit score of 694. For conforming conventional mortgages, the Black median credit score jumped to 724. The median credit score for White applicants was nearly 60 points higher for all applications and 35 points higher for conforming conventional mortgages.
+- Researchers said people of color are given lower credit scores because some of the factors that go into the algorithm have a disproportionate effect on people of color.
+- The CFPB found people of color have higher denial rates even when it held credit scores constant.
+- Despite the importance of credit scores in lending decisions, we could not control for this variable in any of our models. As mentioned earlier, the CFPB shares credit scores with other government regulators but not with the public, saying this data point could reveal too much about a prospective homebuyer’s identity. The agency says it must weigh applicants’ privacy with the benefits of releasing data.
+- Other variables the CFPB chose to exclude from the public version of the data for privacy concerns include the property address, the date the application was submitted, the date the decision was made, and the decision made by the automated underwriting system, which lenders can override. Applicant names are not reported under HMDA.
+- HMDA data includes various types of mortgages that are either conventional loans, where the lender assumes the risk if a borrower defaults, and government-backed loans, where one of several federal agencies would be on the hook.
+- Conventional mortgages typically require a higher down payment and a higher credit score than government-guaranteed mortgages and are often less expensive for the borrower in the long run.
+- FHA loans, which are insured by the Federal Housing Administration, require a lower down payment and credit score in exchange for higher fees and interest rates for the life of the loan. Previous studies have shown borrowers in neighborhoods of color receive FHA loans at higher rates than conventional loans, raising concerns that lenders push applicants of color into government-backed loans. The City of Philadelphia sued and settled with Wells Fargo over this matter. Other studies have argued that FHA loans “have long been implemented in a manner that promotes segregation.”
+- We limited our analysis to only conventional loans, to gauge lenders’ actions without the safety net of this government backing.
+- The lending industry criticized our analysis for not including government-backed loans, arguing  that FHA loans, for example, are used to bridge the gap between prospective borrowers who don’t qualify for conventional loans and homeownership.
+- Our analysis of 2019 HMDA data does show Black, Latino, and Native American applicants have more success securing FHA loans than conventional ones. However, White borrowers still get FHA loans at higher rates than applicants of color.
+- Black applicants receive conventional loans 61 percent of time, while they are able to secure FHA loans almost 65 percent of time. White borrowers receive both conventional and FHA loans about 75 percent of the time.
+- Racial and ethnic identities are rarely straightforward, and the data reflects that complexity. Each applicant and co-applicant can list up to five different racial and ethnic categories.
+- To streamline the analysis, we focused on the first racial and ethnic identity listed for the main applicant. This unfortunately meant we didn’t focus on mixed-race individuals, as that would have added another complex layer to the analysis.
+- Since 2018, HMDA data has disaggregated the ethnic identities for Asians (Filipino, Vietnamese, Korean, etc.), Latinos (Mexican, Puerto Rican, Cuban, etc.), and Pacific Islanders (Native Hawaiian, Guamanian, Samoan, etc.). But along with those specific ethnicities, HMDA still provides the general umbrella term for each race and ethnicity as an option: Lenders can still choose Latino, Asian, or Native Hawaiian/Pacific Islander.
+- We re-aggregated these ethnicities to have a statistically significant sample size for each racial and ethnic group, with the full understanding that no racial or ethnic group is a monolith.
+- According to our analysis, Latino applicants nationwide are 1.4 times as likely to be denied conventional mortgages compared to similarly qualified non-Hispanic White applicants. That number may be an underestimate because of the diversity within the Latino population. The 2019 HMDA data shows higher denial rates for the specific Latino identities as opposed to the general umbrella “Latino” category. Studies have also shown that lending patterns for Latino applicants vary by geography.
+- We also aggregated Asian and Pacific Islander applicants for the sake of applying the most consistent model across the nationwide dataset, the individual metro area subsets, and on the lender analysis. It’s important to note that on a national level, Pacific Islander applicants have higher denial rates than Asian applicants.
+- We sent our methodology to industry leaders—American Bankers Association (ABA), the Mortgage Bankers Association (MBA), The Community Home Lenders Association, and The Credit Union National Association. They all criticized our analysis, saying we didn’t include credit scores and credit histories and that our scope was too narrow because we focused on conventional mortgages.
+- But credit scores are stripped from public HMDA data, and credit histories are not reported. Lending industry representatives said that because of this, HMDA data is not complete enough to explain why disparities between people of color and their White counterparts exist.
+- “Any meaningful review of mortgage lending practices for possible discrimination, as regulators and the courts have made clear, must also consider individual factors such as a borrower’s credit score and credit history, which lenders are required by law to take into account,” said Blair Bernstein, director of public relations for the ABA, in a written statement. “An individual’s credit history can help explain why seemingly comparable applicants may not always end up with the same lending outcome.”
+- In addition to credit scores and histories, the MBA argued that our analysis should have included government-backed loans because it would have painted a more complete picture of homeownership and lending rates.
+- “It [the analysis] purposely excludes mortgages guaranteed by the Federal Housing Administration (FHA), designed to help borrowers with lower credit scores and small down payments,” said Mike Fratantoni, chief economist at the MBA, in a written statement.
+- When we sent our findings to the seven lenders with large lending disparities, all of them responded with written statements saying that they follow the law. In addition:
+- In the past, the lending industry argued that HMDA data couldn’t provide an accurate picture of lending disparities because it lacked key variables: credit scores, debt-to-income ratios, and combined loan-to-value ratios.
+- Because of the Dodd-Frank Act, debt-to-income and combined loan-to-value ratios are now included in the latest data. We found debt-to-income ratio was the biggest predictor in the public data, deciding when lenders make or deny mortgages.
+- However, holding debt-to-income and combined loan-to-value ratios constant, along with 15 other variables, we still found applicants of color are more likely to be denied a mortgage than their White counterparts. Nationwide, Black applicants fared the worst: Financial institutions were nearly twice as likely to deny them when compared to similarly qualified White applicants.
+- Lenders even made loans at higher rates to poorer White applicants than richer applicants of color with the same debt ratios.
+- While we calculated statistically significant odds of denial for applicants of color for the entire country, we found regional differences.
+- In 89 metro areas, financial institutions were significantly more likely to deny mortgages to applicants of color than to their White counterparts. Black applicants were more likely to be denied in 71 of those areas, Latinos in 39, Asian/Pacific Islander in 55, and Native Americans in one area.
+- The top 10 most populous metro areas, from New York and Los Angeles to Houston and Atlanta, all showed statistically significant disparities for at least one racial or ethnic group. Among the largest metropolitan areas, disparities for Black applicants were highest in Chicago. In Minneapolis, lenders were more likely to deny all four racial and ethnic groups—Black, Latino, Asian/Pacific Islander, and Native American applicants—than similar White applicants, the only metro area with this distinction.
+- Of the lenders we were able to test, seven stand out with the widest lending disparities between people of color and White people: DHI Mortgage Company, Lennar Mortgage (formerly known as Eagle Home Mortgage), Pulte Mortgage, Freedom Mortgage Corporation, Movement Mortgage Corporation, Fairway Independent Mortgage Corporation, and Navy Federal Credit Union. These all had received more than 1,000 applications from Black and Latino applicants in 2019 and were at least twice as likely to deny them than their White counterparts, even though they had similar financial characteristics.
+- Loan Type
+- HMDA data denotes four types of loans:
+- Loan type categorizes the institution at risk of losing money if borrowers default. In a conventional loan, the lender is at risk; in guaranteed loans, one of several federal agencies would be on the hook.
+- Conventional mortgages typically require a higher down payment and a higher credit score than government-guaranteed mortgages. Although they are considered more difficult to get than government home loans, these mortgages are often less expensive for the borrower in the long run.
+- We limited our analysis to conventional loans, in order to gauge lenders’ actions without the safety net of this government backing.
+- Loan Purpose
+- An applicant can get a mortgage, buy a new home, or refinance an existing mortgage to get better terms or take out a bigger loan.
+- We limited our data to mortgages sought for home purchase because we wanted to measure people’s access to new homeownership. Those who want to refinance already own a home.
+- Property Type
+- Applicants can get mortgages for different types of property, from a single-family home to an entire apartment complex. We included only applications for properties that had one-to-four units, which would capture single-family homes and duplexes, triplexes and quadplexes.
+- Occupancy Type
+- Occupancy type indicates whether the applicant is going to live in the home, use it as a second home, or use it as an investment property. Because we are looking at principal homeownership, we narrowed the data to applications where the home would be the applicant’s primary residence.
+- Construction Method
+- In the HMDA data, properties are either site-built, meaning they were originally built from the ground up at the location of the property, or they are “manufactured” homes, like mobile homes. We focused on site-built homes.
+- Business or Commercial Purpose
+- Commercial and business property loan applications are also included in the HMDA data. We excluded these from our analysis.
+- Lien Status
+- A lien refers to the order in which a person or entity would be repaid if a borrower defaults on a loan. Whichever entity holds the first lien on a loan is scheduled to be repaid first. For this analysis, we focused on first-lien mortgages.
+- Action Taken
+- Action Taken refers to the outcome of the application. These can be:
+- We focused on the two most straightforward outcomes: where the lender approved the application and the loan was made (originated), or where the lender denied it. In terms of looking for disparities in lending, researchers and advocates we interviewed told us the other outcomes are less clear.
+- For example, a lender can approve the loan, but the applicant can turn it down because they shopped around and received multiple offers, or the terms of the loan were too expensive or otherwise unsatisfactory. Researchers and advocates also told us that lenders have tried to artificially reduce their rejection rates by purposefully sitting on applications for so long that the applicants have been forced to withdraw them.
+- Combined Loan-to-Value Ratio
+- This data point looks at all the money used to finance the property—the primary mortgage, as well as any additional lines of credit or secondary mortgages—in proportion to the property value. It tells lenders how much of the overall home’s value an applicant is financing. This figure is represented as a percentage.
+- While it’s not uncommon for CLTVs to be above 100 percent, most lenders prefer them to be under. In our data, CLTV was above 100 percent in more than 60,000 applications, with the highest being listed at more than 61 million percent.
+- Because it’s hard to distinguish between correctly reported CLTV and erroneous ones, we decided to filter out those records where the CLTV was above 100 as well as those where the data is missing.
+- Race and Ethnicity
+- HMDA data has five columns for race and ethnicity because applicants and co-applicants can list multiple racial and ethnic identities on their applications. In determining the race and ethnicity of the applicant, we relied on the first race and ethnicity of the main applicant. This was the most straightforward approach.
+- Applicants who marked their ethnicity as Latino regardless of race were grouped together to form a Latino group. Non-Hispanic applicants, including those who didn’t report an ethnicity, were grouped together according to their race: Non-Hispanic White, Non-Hispanic Black, etc. Those applicants who didn’t report a race or an ethnicity were grouped separately. The racial and ethnic categories we used are:
+- Sex
+- We created three categories for sex: male, female, and not applicable. Those records in the not applicable category were those that either didn’t provide any information or where both the male and female options were marked.
+- Co-applicant
+- HMDA data doesn’t have a single column that flags whether there’s a co-applicant or not. Instead, that information is scattered across five columns: co-applicant’s race, ethnicity, sex, age, and credit model used. Each of those columns includes an option that states there’s no co-applicant.
+- We determined there was no co-applicant when all five columns were consistent in listing the “no” option or when one column marked the no co-applicant option and the other four columns didn’t provide any information.
+- We determined there was a co-applicant when at least one of the five columns provided clear information about the co-borrower and none of the rest were marked in the negative (no co-applicant).
+- Age and credit model are new fields, and not every lender is required to report that information. But all lenders must report an applicant’s race, ethnicity, and sex, where applicable. Because of those requirements, we gave more weight to the race, ethnicity, and sex fields when looking for co-applicants, meaning that when race, ethnicity, or sex clearly state there’s a co-applicant, but age or credit models say there isn’t, we marked those records as having a co-applicant. Of the 17.5 million records in the 2019 HMDA dataset, there were only 20,000 instances (less than one percent) where those sets of columns contradict each other.
+- We created a third bucket for those cases where we did not have enough information to unequivocally say whether there was a co-applicant or not. This included records that did not report any information on a co-applicant’s race, ethnicity, sex, age, or credit model. Additionally, we included those records where information in various columns contradicted each other: for example, records where race, ethnicity, and sex said no co-applicant, but age and credit score said there was a co-applicant.
+- Our co-applicant variables included:
+- For the metro area and lender regression model, we filtered out applications where the co-applicant field was “not applicable” because they accounted for less than 0.5 percent of the total data and that variable would present issues when analyzing individual metro areas and lenders.
+- Age
+- The data displays an applicant’s age as categorical data, in buckets, rather than as a continuous variable. Those buckets are constructed in 10-year increments, as well as buckets for the youngest and oldest applicants:
+- For the most part, we left the HMDA age categorizations intact and used them as variables, with one exception. For those applicants whose age is greater than 74, we folded those records into the 65–74 category because they accounted for a small percentage of the data. This created a variable we called 65 or greater.
+- Any records where the age was missing we put into their own category.
+- Our final age variables groups:
+- When analyzing metro areas and lenders, we combined the “less than 25” and “between 25 and 34” into one category, merged “between 35 and 44” and “between 45 and 54” into one bucket and used it as the reference variable, and consolidated the “between 55 and 64” and “65 of older” into one variable. We also filtered applications where age was not provided because they account for less than a 10th of one percent.
+- Income
+- This is the annual income of the applicant and co-applicant. Income is skewed to the right, meaning the majority of applicants are clustered at the lower end of the income spectrum, with a few outliers with drastically high incomes, forming a long tail on the right side of the histogram. Because of this and the fact that there is a wide gap between the lowest and highest incomes, we took the logarithm of income to shrink the gap. We used this variable as a continuous one. We also included only those records where income was greater than zero.
+- Loan Amount
+- Loan amount has the same characteristics as income, skewed to the right and with a large gap between the lowest loans and the highest ones. We also took the logarithm of the loan amount to handle these issues. We used this variable as a continuous one.
+- Property Value Ratio
+- Like income and loan amount, property value is skewed to the right and has extreme outliers. Property values differ depending on their location: An $800,000 home in San Francisco is different from a home of the same value in Fresno, Calif.
+- To normalize the data, we decided to calculate a ratio between the property value and median property value of the county. We chose the median property values of a county over the metro area because not every county in the HMDA data is associated with a metro area. We used 2019 American Community Survey data for median property values for each county in the country.
+- Property value data is closer to having a normal distribution when the ratios are considered. The normal distribution becomes more apparent when removing ratios that are greater than 10.
+- We first tried using property values as a categorical variable, calculating the z-scores of the property value ratios to create six distinct buckets. The last bucket, the sixth, contained the outliers, the super expensive homes relative to the county they are situated in. But we realized those types of homes don’t exist in abundance in most metro areas.
+- We settled on using the property value ratio as a continuous variable.
+- Mortgage Term
+- This variable describes the length of time a borrower has to pay off the mortgage. We turned this variable into categorical data with four buckets:
+- When looking at metro areas and individual lenders, we combined the “less than 30 years” and “more than 30 years” variables into one category and filtered out the records where the data was missing.
+- Credit Model
+- Lenders have 10 options for indicating which credit scoring model was used to assess an applicant’s creditworthiness:
+- Because TransUnion has two different models, and the 98 version only accounts for a small fraction of the total data, we combined the two into a single TransUnion category. The two Vantage models are not widely used either, so we folded those two models with the “other” credit model option. We grouped the “not applicable” and “exempt” options together.
+- This gave us five categories for credit models:
+- Debt-to-Income Ratio
+- This variable looks at the relationship between an applicant’s monthly debt compared to his or her monthly income. HMDA data lists the variable as both categorical and continuous data, meaning some of the ratios are grouped into buckets, while others have the exact ratios listed.
+- We standardized this variable by turning it into categorical data. There were many ways we could have categorized debt-to-income ratios. Bank of America says the best debt-to-income ratio for a mortgage applicant to have is less than 36 percent. JPMorgan Chase breaks the ratio into four distinct buckets: “healthy,” “manageable,” “nearing unmanageable,” and “struggling to manage debt.” The CFPB says a borrower should be able to get a mortgage with the most stable features and consistent terms, like interest rates, with a ratio of monthly debt to income up to 43 percent.
+- We created four categories based on the most consistent definitions and also relied on the CFPB for the middle categories:
+- Combined Loan-to-Value Ratio:
+- For home purchases, the combined loan-to-value ratio represents all aggregated loans being taken to purchase the property in relation to the property’s appraised value. This figure is represented as a percentage.
+- We first included this data point as a categorical variable, split at 80 percent. But we found a stronger fit in our model when we used the raw percentages. We used this variable as a continuous one.
+- The ratio between the median income of a census tract and of the metro area
+- This column describes how rich or poor the neighborhood (census tract) where the property is located is, compared to the metro area where the census tract is located. It’s calculated by dividing the median income of the neighborhood by the median income of the metro area. The variable is expressed as a percentage.
+- We converted this data into categorical data, as defined by government regulators and lending requirements. These categories are used to look at lending in poor and working-class neighborhoods.
+- Lender Type
+- We divided lenders into three primary categories: banks, credit unions, and independent mortgage companies.
+- These categories were based on another dataset, called HMDA panel, that comes from the Federal Housing Finance Agency. That dataset details more specifically the different types of lenders.
+- For lenders that didn’t fall into those three categories, we looked them up in the Federal Deposit Insurance Corporation databases and researched their websites to find out what categories they belonged to. We created a “not applicable” group for lenders we could not fit into the categories.
+- Lender definition categories:
+- We removed the lenders that were classified as “not applicable” for the metro area regression analysis because they accounted for less than half of one percent of the data.
+- The size of the lender
+- The CFPB puts out a dataset called Public Panel that details specific information about the lenders that report their applications, including the regulator of the financial institution, their location, and their assets. We would have liked to use assets as a variable for size, but asset information is missing for 20 percent of all lenders. However, the total number of applications strongly correlates with a lender’s assets, so we used the number of applications as a proxy for size. We used this variable as a continuous one.
+- The Automated Underwriting System
+- Financial institutions input all the information they have collected about a prospective homebuyer into an algorithm, called the automated underwriting system, and that spits out a decision about whether they should deny or approve the loan. Sometimes lenders will manually overwrite that decision.
+- Each federal guarantee entity has its own underwriting system. Fannie Mae uses Desktop Underwriter, Freddie Mac uses Loan Prospector, the Federal Housing Administration uses TOTAL Scorecard, and the United States Department of Agriculture uses Guaranteed Underwriting System. Individual banks and lenders may also use their own, internal, underwriting algorithms when assessing a mortgage application.
+- Financial institutions can run an application through multiple automated underwriting systems. HMDA data offers five options for lenders to indicate which systems they used.
+- Because Fannie Mae’s Desktop Underwriter was used about half of the time for all conventional mortgages, we broke up all five columns into three categories:
+- Non-Hispanic White demographic percentage of the property’s location
+- Redlining has historically been based not only on the race and ethnicity of the applicant but also the demographic composition of the neighborhood. Based on old redlining maps, the federal government and lenders viewed White neighborhoods as the most favorable ones to invest in, and the risk they associated with financing a neighborhood increased as its residents became less White.
+- Because of this, we included the non-Hispanic, White population of each census tract in the country. We used the 2019 American Community Survey data from the census and created four variables that took into account the decreasing White population. Those groups were split at every 25th percentage point:
+- The size of the metro area where the property is located
+- To control for larger metro areas, we downloaded 2019 American Community Survey population data. Population data is skewed to the right, with a few large outliers. We decided to break up metro areas by population using percentiles. The population range in the 90th percentile was wide, so we separated those areas in the 99th percentile from the rest. Micropolitan statistical areas tend to be smaller than their metropolitan statistical area counterparts, so we kept those in a single category.
+- Our categories for the metro areas are as follows:
+- We thank Calvin Bradford (Calvin Bradford & Associates, Ltd.), Rebecca Goldin (Sense About Science USA and George Mason University), Jennifer LaFleur (Center for Public Integrity), and José Loya (UCLA) for reviewing an earlier draft of this methodology.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- How We Investigated Racial Disparities in Federal Mortgage Data
+- From the series —
+    
+
+      Show Your Work, 
+
+      Denied, and 
+
+      Investigations
+- Emmanuel Martinez
+Investigative Data Journalist
+- Lauren Kirchner
+Investigative Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://apnews.com/article/lifestyle-technology-business-race-and-ethnicity-mortgages-2d3d40d5751f933a88c1e17063657586
+- 
+- The new four-bedroom house in Charlotte, North Carolina, was Crystal Marie and Eskias McDaniels’ personal American dream, the reason they had moved there from pricey Los Angeles.
+- A lush, long lawn, 2,700 square feet of living space, gleaming kitchen, and a neighborhood pool and playground for their son, Nazret. All for $375,000.
+- Pre-qualifying for the mortgage was a breeze: They had high credit scores, earned roughly six figures each and had saved more they would need for the down payment.
+- But two days before they were supposed to sign, in August 2019, the loan officer called Crystal Marie with bad news: The deal wasn’t going to close.
+- “It seemed like it was getting rejected by an algorithm,” she said, “and then there was a person who could step in and decide to override that or not.”
+- She was told she didn’t qualify because she was a contractor, not a full-time employee — even though her co-workers were contractors, too. And they had mortgages.
+- Crystal Marie’s co-workers are white. She and Eskias are Black.
+- “I think it would be really naive for someone like myself to not consider that race played a role in the process,” she said.
+- An investigation by The Markup has found that lenders in 2019 were more likely to deny home loans to people of color than to white people with similar financial characteristics — even when we controlled for newly available financial factors that the mortgage industry has in the past said would explain racial disparities in lending.
+- —
+- This story was reported by The Markup, and the story and data were distributed by The Associated Press.
+- —
+- Holding 17 different factors steady in a complex statistical analysis of more than 2 million conventional mortgage applications for home purchases reported to the government, we found that, in comparison to similar white applicants, lenders were:
+- ● 80% more likely to reject Black applicants
+- ● 70% more likely to deny Native American applicants
+- ● 50% more likely to turn down Asian/Pacific Islander applicants
+- ● 40% more likely to reject Latino applicants
+- These are national rates.
+- When we examined cities and towns individually, we found disparities in 90 metros spanning every region of the country. Lenders were 150% more likely to reject Black applicants in Chicago than similar white applicants there. Lenders were more than 200% more likely to reject Latino applicants than white applicants in Waco, Texas, and to reject Asian and Pacific Islander applicants than white ones in Port St. Lucie, Florida. And they were 110% more likely to deny Native American applicants in Minneapolis.
+- “Lenders used to tell us, ‘It’s because you don’t have the lending profiles; the ethno-racial differences would go away if you had them,’” said José Loya, assistant professor of urban planning at UCLA who has studied public mortgage data extensively and reviewed our methodology. “Your work shows that’s not true.”
+- The American Bankers Association, The Mortgage Bankers Association, The Community Home Lenders Association, and The Credit Union National Association all criticized the analysis.
+- In written statements, the ABA and MBA dismissed our findings for failing to include credit scores or government loans, which are mortgages guaranteed by the Federal Housing Administration, Department of Veterans Affairs and others.
+- Government loans have different thresholds for approval, which bring people into the market who wouldn’t otherwise qualify, but generally cost buyers more. Even the Federal Reserve and Consumer Financial Protection Bureau, the agency that releases mortgage data, separate conventional and government loans in their research on lending disparities.
+- It was impossible for us to include credit scores in our analysis because the CFPB strips them from the public version of the data — in part due to the mortgage industry’s lobbying, citing borrower privacy.
+- While home lending decisions are officially made by loan officers at each institution, they are largely driven by software, most of it mandated by a pair of quasi-governmental agencies.
+- Freddie Mac and Fannie Mae were founded by the federal government to spur homeownership and now buy about half of all mortgages in America. As a result, they essentially set the rules from the very beginning of the mortgage-approval process.
+- They require lenders to use a particular credit scoring algorithm, “Classic FICO,” to determine whether an applicant meets the minimum threshold to be considered for a conventional mortgage in the first place, currently a score of 620.
+- Launched more than 15 years ago based on data from the 1990s, Classic FICO is widely considered detrimental to people of color because it rewards traditional credit, to which they have less access than white Americans. It doesn’t consider, among other things, on-time payments for rent, utilities, and cellphone bills — but will lower people’s scores if they get behind on those bills and sent to debt collectors. Unlike more recent models, it penalizes people for past medical debt after it’s been paid.
+- Yet Fannie and Freddie have resisted a stream of plaintive requests since 2014 from advocates, the mortgage and housing industries, and Congress to allow a newer model. They did not respond to questions about why.
+- The approval process also requires a green light by Fannie or Freddie’s automated underwriting software. Not even their regulator, the FHFA, knows exactly how they decide, but some of the factors the companies say their programs consider can affect people differently depending on their race or ethnicity, researchers have found.
+- For instance, traditional banks are less likely than payday loan sellers to place branches in neighborhoods populated mainly by people of color. Payday lenders don’t report timely payments, so they can only damage credit.
+- Gig workers who are people of color are more likely to report those jobs as their primary source of income, rather than a side hustle, than white gig workers. This can make their income seem more risky.
+- Considering an applicant’s assets beyond the down payment, which lenders call “reserves,” can cause particular problems for people of color. Largely due to intergenerational wealth and past racist policies, the typical white family in America today has eight times the wealth of a typical Black family, and five times the wealth of a Latino family. White families have larger savings accounts and stock portfolios than people of color.
+- The president of the trade group representing real estate appraisers recently acknowledged racial bias is prevalent in the industry, which sets property values, and launched new programs to combat bias.
+- “If the data that you’re putting in is based on historical discrimination,” said Aracely Panameño, director of Latino affairs for the Center for Responsible Lending, “then you’re basically cementing the discrimination at the other end.”
+- In written statements, Fannie said its software analyzes applications “without regard to race” and both Fannie and Freddie said their algorithms are routinely evaluated for compliance with fair lending laws, internally and by the FHFA and the Department of Housing and Urban Development. HUD said it has asked the pair to make changes as a result, but would not disclose the details.
+- Many large lenders also run applicants through their institutions’ own underwriting software. How those programs work is even more of a mystery; they are also proprietary.
+- Some fair lending advocates have begun to ask whether the value system in mortgage lending should be tweaked.
+- “As an industry, we need to think about, what are the less discriminatory alternatives, even if they are a valid predictor of risk,” said David Sanchez, a former FHFA policy analyst, who currently directs research and development at the nonprofit National Community Stabilization Trust. “Because if we let risk alone govern all of our decisions, we are going to end up in the exact same place we are now when it comes to racial equity in this country.”
+- Crystal Marie and Eskias McDaniels’ lender denied race had anything to do with their denial. In an email, loanDepot vice president of communications Lori Wildrick said the company follows the law and expects “fair and equitable treatment” for every applicant.
+- The couple refused to give up after the loan officer told them the mortgage fell through and enlisted their real estate agent to help. Crystal Marie’s employer sent multiple emails vouching for her.
+- Around 8 p.m. on the night before the original closing date, Crystal Marie got an email from the lender: “You’re cleared to close.” She still doesn’t understand how she got to yes, but she was relieved and elated.
+- “It means so much to me, as a Black person,” said Crystal Marie, who said her family descended from slaves in neighboring South Carolina, “to own property in a place where not that many generations ago you were property.
+- “It’s meant so much.”
+- ___
+- This story was reported by The Markup, and the story and data were distributed by The Associated Press.
+
+URL: https://www.marketplace.org/2021/08/25/housing-mortgage-algorithms-racial-disparities-bias-home-lending/
+- 
+- Lenders are more likely to deny mortgage loans to people of color than to white people with comparable financial profiles, according to new reporting by the investigative news outlet The Markup. Racial bias was present even after reporters controlled for factors like income and neighborhood, as well as factors that lenders previously said would explain the disparities: debt-to-income ratio and combined loan-to-value ratio.
+- The reporters could not control for credit scores due to public data limitations, but government regulators have determined that credit scores alone do not account for racial disparities in lending.
+- After analyzing more than two million conventional mortgage applications from 2019, reporters Emmanuel Martinez and Lauren Kirchner found that, nationwide, lenders were 40% more likely to reject Latino applicants, 50% more likely to reject Asian and Pacific Islander applicants, 70% more likely to reject Native American applicants and 80% more likely to reject Black applicants than financially comparable white applicants. And the disparities were even more dramatic in cities like Waco, Texas, where Latino applicants were over 200% more likely to be denied than their white counterparts.
+- In an interview with Marketplace’s David Brancaccio, Martinez said that biased algorithms are one crucial driver of the disparities.
+- “There’s still certainly a human element to all of this, but more and more, [lending] is becoming more algorithmic-driven. Loan officers collect all the financial characteristics of a prospective borrower, and then input that into an algorithm. But when you consider things like wealth and assets, research shows that white families have eight times the amount of wealth as Black families. And so, when you use that as a barrier to entry, it’s going to disproportionately affect Black families and families of color,” said Martinez.
+- The following is an edited transcript of the interview.
+- Emmanuel Martinez: I found that people of color are more likely to be denied than their white counterparts, even when they look financially the same. And [that includes] factors that the lending industry said would explain them away. For context, I’ve been looking at this topic for the last four years, I’ve been working with this data extensively. And the first time that I published this analysis, I found the same thing. Lenders told me that they weren’t denying people of color because of their race, they were denying them because of things like debt-to-income ratio and combined loan-to-value ratio. And now, with this analysis, I have those two ratios — and I still find that people of color are denied at higher rates, even when including those two important financial characteristics.
+- David Brancaccio: Just so we’re clear. People who look just about the same on paper, the one difference: are they white or are they people of color — that seems to skew the chances that you’ll get a loan or you’ll get denied?
+- Martinez: Yes. I found that Latinos nationally are 40% more likely to be denied. And the worst is Black applicants, they are 80% more likely to be denied than their white counterparts, even though they have the same financial characteristics.
+- Brancaccio: You also found regional variations: that Latino applicants in Waco, Texas were 200% more likely to get their applications rejected.
+- Martinez: Yeah, I found that Waco, Texas, was the worst place, according to my statistics, for Latinos. But that differs from like, say, Boston, where they’re 70% more likely to be denied. So it just depends on where the person of color is. In some places, they’re closer to the parity, and in other places — like Waco, Texas — there’s a wide disparity between Latinos and their white counterparts.
+- Brancaccio: Yeah, you found that in Chicago, Black borrowers were 150% more likely to get denied a loan, so it really does vary.
+- Martinez: Yeah, it varies significantly by the region. When looking at the biggest cities in America, Chicago was the worst for Black applicants — and Chicago is especially interesting because a lot of the redlining history goes back to Chicago. But then when you look at places like Denver, Colorado or Sacramento, California, [Black applicants are] 60% more likely to be denied. So there are definitely places with disparities, but then there are places where the disparity is a lot worse.
+- Brancaccio: Now, I saw you cited the American Bankers Association. They said the data that you could get still had limitations, and they don’t believe you’ve made the case that the system discriminates.
+- Martinez: Right. Their updated statement is that it’s still about credit score and credit histories; that, if I had that, then that would explain the disparities. But when the CFPB, when the government looked at that particular metric, they found that, when they hold credit score constant, people of color still are denied at higher rates than their white counterparts. So credit scores don’t explain away the disparities completely.
+- Brancaccio: You’ve been studying this for years now. What’s your sense of what is causing this? Is this loan officers who are personally biased? Is it something else? Is it many factors?
+- Martinez: It’s many factors. There’s still certainly a human element to all of this but, more and more, it’s becoming more algorithmic-driven. Loan officers collect all the financial characteristics of a prospective borrower and then input that into an algorithm. But when you consider things like wealth and assets, research shows that white families have eight times the amount of wealth as Black families. And so, when you use that as a barrier to entry, it’s going to disproportionately affect Black families and families of color. Other variables that have a disproportionate impact that Freddie and Fannie look at in their algorithms are the gig economy and who lists that as a primary source of income. People of color are more likely to list the fact that their primary source of income comes from the gig economy. And lenders don’t like that. They like stable income. That is another factor that has a disproportionate effect on people of color.
+- Brancaccio: Now, some critics of the system think this is a structural racism device. That how you engineer and how you implement the algorithms can exacerbate long-standing inequities.
+- Martinez: Exactly. For lenders, the decision revolves around risk, and they don’t want to lend to risky borrowers. And so that’s the philosophical debate that advocates are trying to introduce: That risk should not govern everything; that the conversation should be more nuanced.
+- Brancaccio: And advocates for change are not suggesting lenders throw out this notion of risk. Isn’t it that they’re trying to figure out innovative ways to assess who’s likely to pay back and who’s not without these factors that play to historical discrimination and historical bias?
+- Martinez: Yeah, and I think that that’s an important aspect to capture. They’re not saying we should throw these out, they’re saying we should consider more nuanced perspectives. For example, if someone can make their rent and be a consistent, on-time rent payer, wouldn’t that also signal that that person is probably going to pay back their mortgage? But rent payment isn’t something that a lot of these algorithms have considered in the past, up until recently. Once we started reporting on this aspect, Fannie announced that they are starting to consider rent payment histories as part of their decision-making process. That is starting next month, in September. And so that is kind of the nuanced conversation, that we should consider more variables that are more fair to people.
+- Brancaccio: So, some possibilities for change. But still, Fannie Mae, with all its power, still very much has a tradition of using what’s called the classic FICO credit score. And that’s something that’s been around for a long time, and it’s a little unclear exactly what goes into your credit score. They don’t tell you.
+- Martinez: Yeah, there’s a lot of mystery around credit scores. For example, the credit score that’s available to you and me through my banking app or through the credit bureaus isn’t the one that’s necessarily going to be used when a lender decides to approve or deny you a mortgage. There’s another formula that’s used to calculate your mortgage credit score. But Freddie and Fannie have stuck to using this 15-year-old algorithm, even though there are more fair ones that exist. The government, Congress, advocates, and even FICO itself has tried to get Fannie and Freddie to use more fair credit scoring algorithms. Even FICO has newer, updated credit scoring models, and they’ve advocated Freddie and Fannie to use those new ones, but Freddie and Fannie have resisted.
+- Brancaccio: But the reason we don’t really know what goes into your credit score is that the companies say they’re worried that we, the borrowers, will start gaming the system to our advantage and mess up their predictive quality.
+- Martinez: Exactly. Even the algorithms used by Freddie and Fannie, that decision is recorded and collected by the government but kept away from the public data. So I can’t see what decision these algorithms are making. And the reason why Freddie and Fannie told the government they should keep it out [of the public data] is because they didn’t want anyone reverse-engineering their decision. So there’s a lot of mystery surrounding these things. There is some stuff on how FICO constructs its algorithm and what percentage of income versus credit or debts are considered, but we only know from a very cursory standpoint. There’s no detailed information about how these things work out in the public.
+- There’s a lot happening in the world.  Through it all, Marketplace is here for you.
+- You rely on Marketplace to break down the world’s events and tell you how it affects you in a fact-based, approachable way. We rely on your financial support to keep making that possible.
+- Your donation today powers the independent journalism that you rely on. For just $5/month, you can help sustain Marketplace so we can keep reporting on the things that matter to you.
+
+URL: https://www.dailymail.co.uk/news/article-9925561/The-secret-bias-hidden-mortgage-approval-algorithms.html
+- By Associated Press and Stephen M. Lepore For Dailymail.Com
+- Published:  07:00 EDT, 25 August 2021   |  Updated:  12:43 EDT, 26 August 2021
+- 
+- 118
+- View  comments
+- 
+- Black people are 80 percent more likely to be denied home loans than similarly-qualified white counterparts, a new investigation has found.
+- Native Americans, Asian/Pacific Islanders and Latinos are also being rejected by algorithms at far higher rates than white people in the US.
+- The findings are at odds with the lending industry's longtime claims that high rejection rates are down to financial characteristics rather than race.
+- The analysis looked at 17 variables, including race, sex, loan amount, property value and income debt-to-income ratio.
+- This digital embed shows how many people of each ethnic group would likely be denied if 100 similarly qualified applicants applied for mortgaged in the U.S.
+- In an analysis of more than 2 million conventional mortgage applications from 2019 for homes reported to the government, The Markup found that, in comparison to similar white applicants, lenders in the US were:
+- Freddie Mac and Fannie Mae were founded by the federal government to spur homeownership and now buy about half of all mortgages in America. As a result, they essentially set the rules from the very beginning of the mortgage-approval process.
+- They require lenders to use a particular credit scoring algorithm, 'Classic FICO,' to determine whether an applicant meets the minimum threshold to be considered for a conventional mortgage in the first place, currently a score of 620.
+- Launched more than 15 years ago based on data from the 1990s, Classic FICO is widely considered detrimental to people of color because it rewards traditional credit, to which they have less access than white Americans.
+- This digital embed shows how many people of each ethnic group would likely be denied if 100 similarly qualified applicants applied for mortgaged in the Los Angeles region of California.
+- This digital embed shows how many people of each ethnic group would likely be denied if 100 similarly qualified applicants applied for mortgages in the Charlotte region of North Carolina
+- It doesn't consider, among other things: on-time payments for rent, utilities, and cellphone bills - but will lower people´s scores if they get behind on those bills and sent to debt collectors.
+- Unlike more recent models, it penalizes people for past medical debt after it´s been paid.
+- Yet Fannie and Freddie have resisted a stream of plaintive requests since 2014 from advocates, the mortgage and housing industries, and Congress to allow a newer model. They did not respond to questions about why.
+- The approval process also requires a green light by Fannie or Freddie´s automated underwriting software.
+- Not even their regulator, the FHFA, knows exactly how they decide, but some of the factors the companies say their programs consider can affect people differently depending on their race or ethnicity, researchers have found.
+- For instance, traditional banks are less likely than payday loan sellers to place branches in neighborhoods populated mainly by people of color. Payday lenders don´t report timely payments, so they can only damage credit.
+- Gig workers who are people of color are more likely to report those jobs as their primary source of income, rather than a side hustle, than white gig workers. This can make their income seem more risky.
+- Considering an applicant´s assets beyond the down payment, which lenders call 'reserves,' can cause particular problems for people of color.
+- Largely due to intergenerational wealth and past racist policies, the typical white family in America today has eight times the wealth of a typical Black family, and five times the wealth of a Latino family. White families have larger savings accounts and stock portfolios than people of color.
+- In written statements, Fannie said its software analyzes applications 'without regard to race' and both Fannie and Freddie said their algorithms are routinely evaluated for compliance with fair lending laws, internally and by the FHFA and the Department of Housing and Urban Development. HUD said it has asked the pair to make changes as a result, but would not disclose the details.
+- Many large lenders also run applicants through their institutions´ own underwriting software. How those programs work is even more of a mystery; they are also proprietary.
+- 
+- Crystal Marie McDaniels said buying a house was crucial for her because she wants to pass on wealth to her son
+- The new four-bedroom house in Charlotte, North Carolina, was Crystal Marie and Eskias McDaniels´ personal American dream, the reason they had moved there from pricey Los Angeles.
+- A lush, long lawn, 2,700 square feet of living space, gleaming kitchen, and a neighborhood pool and playground for their son, Nazret. All for $375,000.
+- Pre-qualifying for the mortgage was a breeze: They had high credit scores, earned roughly six figures each and had saved more they would need for the down payment.
+- But two days before they were supposed to sign, in August 2019, the loan officer called Crystal Marie with bad news: The deal wasn´t going to close.
+- 'It seemed like it was getting rejected by an algorithm,' she said, 'and then there was a person who could step in and decide to override that or not.'
+- She was told she didn´t qualify because she was a contractor, not a full-time employee - even though her co-workers were contractors, too. And they had mortgages.
+- This digital embed shows how many people of each ethnic group would likely be denied if 100 similarly qualified applicants applied for mortgaged in the Chicago region of Illinois.
+- Crystal Marie´s co-workers are white. She and Eskias are Black.
+- 'I think it would be really naive for someone like myself to not consider that race played a role in the process,' she said.
+- When the AP and The Markup examined cities and towns individually, they found disparities in 90 metros spanning every region of the country. Lenders were 150% more likely to reject Black applicants in Chicago than similar white applicants there. Lenders were more than 200% more likely to reject Latino applicants than white applicants in Waco, Texas, and to reject Asian and Pacific Islander applicants than white ones in Port St. Lucie, Florida. And they were 110% more likely to deny Native American applicants in Minneapolis.
+- 'Lenders used to tell us, `It´s because you don´t have the lending profiles; the ethno-racial differences would go away if you had them,´' said José Loya, assistant professor of urban planning at UCLA who has studied public mortgage data extensively and reviewed the methodology. 'Your work shows that´s not true.'
+- 
+- 
+- 
+- 
+- McDaniels closed on her home despite the fact was told she didn´t qualify because she was a contractor, not a full-time employee - even though her co-workers were contractors, too
+- The American Bankers Association, The Mortgage Bankers Association, The Community Home Lenders Association, and The Credit Union National Association all criticized the analysis.
+- In written statements, the ABA and MBA dismissed the findings for failing to include credit scores or government loans, which are mortgages guaranteed by the Federal Housing Administration, Department of Veterans Affairs and others.
+- Crystal Marie and Eskias McDaniels were denied a loan for a four-bedroom $375,000 house in Charlotte, North Carolina. The couple say they prequalified for the mortgage, had saved more than they would need for the down payment, and had good credit scores and salaries.
+- The loan officer told the couple the application had been submitted internally to the underwriting department for approval at least a dozen times, with each one rejected.
+- The pair had spent $6,000 in fees and deposits - all nonrefundable.
+- 'It seemed like it was getting rejected by an algorithm,' she said, 'and then there was a person who could step in and decide to override that or not.'
+- She was told she didn't qualify because she was a contractor, not a full-time employee, even though her boss told the lender she was not at risk of losing her job. Her co-workers were contractors, too, and they had mortgages. Crystal Marie's co-workers are white while she and Eskias are Black.
+- 'I think it would be really naive for someone like myself to not consider that race played a role in the process,' she said.
+- Crystal Marie McDaniels was denied a mortgage
+- 
+- Government loans have different thresholds for approval, which bring people into the market who wouldn´t otherwise qualify, but generally cost buyers more. Even the Federal Reserve and Consumer Financial Protection Bureau, the agency that releases mortgage data, separate conventional and government loans in their research on lending disparities.
+- It was impossible for the study to include credit scores in their analysis because the CFPB strips them from the public version of the data - in part due to the mortgage industry's lobbying, citing borrower privacy.
+- While home lending decisions are officially made by loan officers at each institution, they are largely driven by software, most of it mandated by a pair of quasi-governmental agencies.
+- The president of the trade group representing real estate appraisers recently acknowledged racial bias is prevalent in the industry, which sets property values, and launched new programs to combat bias.
+- 'If the data that you´re putting in is based on historical discrimination,' said Aracely Panameño, director of Latino affairs for the Center for Responsible Lending, 'then you´re basically cementing the discrimination at the other end.'
+- Some fair lending advocates have begun to ask whether the value system in mortgage lending should be tweaked.
+- 'As an industry, we need to think about, what are the less discriminatory alternatives, even if they are a valid predictor of risk,' said David Sanchez, a former FHFA policy analyst, who currently directs research and development at the nonprofit National Community Stabilization Trust. 'Because if we let risk alone govern all of our decisions, we are going to end up in the exact same place we are now when it comes to racial equity in this country.'
+- Crystal Marie and Eskias McDaniels' lender denied race had anything to do with their denial. In an email, loanDepot vice president of communications Lori Wildrick said the company follows the law and expects 'fair and equitable treatment' for every applicant.
+- The couple refused to give up after the loan officer told them the mortgage fell through and enlisted their real estate agent to help. Crystal Marie´s employer sent multiple emails vouching for her.
+- Around 8 p.m. on the night before the original closing date, Crystal Marie got an email from the lender: 'You´re cleared to close.' She still doesn´t understand how she got to yes, but she was relieved and elated.
+- An investigation found that lenders in 2019 were more likely to deny home loans to people of color than to white people with similar financial characteristics
+- 'It means so much to me, as a black person,' said Crystal Marie, who said her family descended from slaves in neighboring South Carolina, 'to own property in a place where not that many generations ago you were property.
+- 'It´s meant so much.'
+- A mixed race couple was left crushed when their Florida home was appraised for $135,000 more after they removed evidence that a black woman lived there.
+- Abena and Alex Horton said that when they first had their four-bedroom house in Jacksonville valued, the appraiser told them it was only worth $330,000 — which was considerably lower than the couple had expected.
+- Suspecting that racism might be at play, the couple removed all family photos and books by black authors from the house, and made sure that only Alex, who is white, was home for the second appraisal; lo and behold, this time the appraiser assigned the value at $465,000, over 40 per cent more than the previous estimate.
+- Suspicious appraisal: Abena and Alex Horton are looking to refinance their four-bedroom house in Jacksonville, Florida and had it appraised in June
+- Home sweet home: The first appraiser valued it at $330,000 — lower than the couple expected and less than other homes in the area
+- The couple was starting the process of refinancing their home when they scheduled the first appraisal in June.
+- They estimated that their four-bedroom, four-bath ranch-style house in a predominantly white neighborhood would be appraised for $465,000 — and looked to other homes in the area, which were valued at $350,000 to $550,000.
+- When the appraiser came, however, had different ideas.
+- 'The appraiser came by and he was immediately unpleasant — making one rude comment after another,' Abena wrote in a viral Facebook post.
+- 'He expressed exaggerated surprise when he saw me working at my home office during the walk-through.'
+- Ultimately, the appraiser valued the home at only $330,000, which Abena called 'laughable.'
+- 'We appraised far lower than neighboring home sales with fewer bathrooms, fewer bedrooms, significantly lower square footage and half the land,' she wrote.
+- Terrible: Abena removed any photos that showed black people and replaced them with images of white friends; she also stored away books by black authors
+- Compelling evidence: A second appraisal came back 41% higher at $465,000, which Abena and Alex attribute to racial discrimination
+- Speaking to ABC News, she said rolled her eyes at the number, calling the original appraiser 'so petty and hateful.'
+- 'Why did I let myself forget that I live in America as a black person and that I need to take some extra steps to get a fair result?' she said.
+- The Hortons managed to get the bank to agree to a second appraisal, and this time around they made some changes.
+- Abena, a lawyer, removed the photos of their multiracial family, replacing them with paintings of her white husband and his parents, as well as holiday cards from white friends.
+- She also put away books by black authors like Zora Neale Hurston and Toni Morrison and made sure Shakespeare was on display instead.
+- When the second appraiser came, only Alex was home, as Abena and their six-year-old son had gone out.
+- The experiment worked: The second appraiser valued the home at $465,000 — $135,000 and more than 40 per cent more than the original estimate.
+- 'My heart kind of broke,' Abena said. 'To know just how much, me personally, I was devaluing the home just by sitting in it'
+- Reported: The Hortons said they have filed a complaint with the Department of Housing and Urban Development
+- 'My heart kind of broke,' Abena told the New York Times.
+- 'I know what the issue was. And I knew what we needed to do to fix it, because in the black community, it’s just common knowledge that you take your pictures down when you’re selling the house. But I didn’t think I had to worry about that with an appraisal.'
+- She said the experience was 'crushing' and was 'ashamed' that her son would noticed that she'd hid their race.
+- 'I’m ashamed to say that I really wanted to refinance and pay off my house sooner and have full equity in my home, and so I was willing to put up with that indignity to do it because I knew it was going to be effective,' she told ABC News.
+- 'So it was a combination of pragmatism and deep and profound sadness.
+- After the second appraiser left, Abena was in tears.
+- 'Because we realize just how much more removing that variable increased the value of our home,' she said.
+- 'Racism silently but conspicuously steals wealth,' Abena wrote on Facebook
+- 'To know just how much, me personally, I was devaluing the home just by sitting in it. Just by living my life. Just by paying my mortgage. Just by raising my son there. How much [the first appraiser] felt that that devalued my house, devalued the neighborhood.'
+- In addition to being emotionally crushing for the Hortons, this kind of discrimination is illegal.
+- The Fair Housing Act of 1968 says that home appraisers cannot discriminate based on race, religion, national origin, or gender. Those who do can lose their license and even go to prison.
+- The Hortons said they have filed a complaint with the Department of Housing and Urban Development.
+- 'Racism silently but conspicuously steals wealth,' Abena wrote on Facebook.
+- 'Racism wastes time. Racism raises blood pressure. Racism makes me hate myself for my calm acceptance of what I had to do, and have always had to do, to achieve a fair result.
+- 'I write this from a place of absolute anguish, to sort through my emotions. I want better for my son.'
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.forbes.com/sites/korihale/2021/09/02/ai-bias-caused-80-of-black-mortgage-applicants-to-be-denied
+- Artificial intelligence and a hologram of a house and a percent sign. Mortgage concept for housing ... [+] mortgage interest rates. Copy space, 3D illustration, 3D rendering
+- Artificial Intelligence and its inherent bias seems to be an ongoing contributing factor in slowing minorities home loan approvals. An investigation by The Markup found  lenders were more likely to deny home loans to people of color than to white people with similar financial characteristics. Specifically, 80% of Black applicants are more likely to be rejected, along with 40% of Latino applicants, and 70% of Native American applicants are likely to be denied. How detrimental is the secret bias hidden in mortgage algorithms?
+- The Breakdown You Need to Know:
+- It’s important to note that 45% of the country's largest mortgage lenders now offer online or app-based loan origination, as FinTech looks to play a major role in reducing bias in the home lending market, CultureBanx reported. Not to mention that with AI involved minority borrowers who get approved online, they’re typically paying more under algorithmic lending. In 2017, $2.25 trillion of the $13 trillion of outstanding household debt in the U.S. was associated with minority households.
+- Through an analysis of 17 different constant factors of more than two million conventional national mortgage applications, the Associated Press looked deeper into this matter by city. It found that Chicago lenders were 150% more likely to reject Black applicants than similar white applicants. In Waco, TX , the situation is even worse because lenders were more than 200% more likely to reject Latino applicants than white applicants.
+- Homeownership’s High Stakes:
+- Disparities in homeownership rates are cited as the leading cause in the racial wealth gap. There are several studies which indicate the median white family holds more than ten times the wealth of the median African American family. McKinsey projected that closing the racial wealth gap could net the U.S. economy between $1.1 trillion and $1.5 trillion by 2028, and homeownership is a major component of that.
+- AI based lending should be much more altruistic when it comes to home loans because of the simple fact they don't want to leave any money behind. A study from the National Bureau of Economic Research noted that “if lenders were to discriminate in the accept/reject decision, it would imply that money is left on the table. ...(s)uch unprofitable discrimination must reflect a human bias by loan officers."
+- The U.S. Census bureau reported that Black homeownership dropped to its lowest level at 40% and has been steadily declining since its 2004 peak. It is possible that AI could help reverse this trend as researchers calculate that, from 2009 to 2015, 0.74 to 1.3 million minority applicants were rejected, who would have been accepted were it not for discrimination by loan officers.
+- What’s Next:
+- While home lending decisions are officially made by loan officers at each institution, they are largely driven by software, most of it mandated by a pair of quasi-governmental agencies. The American Bankers Association, The Mortgage Bankers Association, The Community Home Lenders Association, and The Credit Union National Association, all criticized The Markup’s  analysis. The real devil is in the algorithmic detail and actual homeownership rates, which we know has continued to decline for African Americans over the past few decades.
+- 
+
+URL: https://www.culturebanx.com/post/a-i-bias-caused-80-of-black-mortgage-applicants-to-be-denied
+
+URL: https://greensboro.com/news/local_news/report-minorities-in-greensboro-high-point-more-likely-to-be-denied-mortgage-loans/article_13f07052-0505-11ec-a8a7-bfb9809ff675.html
+- Get local news delivered to your inbox!
+- GREENSBORO — People of color in the area are twice as likely to be denied mortgage loans as white borrowers, a startling new analysis from The Associated Press shows.
+- The information is part of a broader study that found racial bias in mortgage lending in all regions of the country.
+- Home ownership is considered the top way for families to build wealth and, historically, that choice has been less available to people of color — and the numbers bear that out.
+- The Associated Press found a disparity in 89 metropolitan areas, according to a review of publicly-available mortgage data compiled by The Markup, a nonprofit newsroom based in New York City.
+- The survey shows that the Greensboro-High Point region ranks 52nd in those 89 metro areas in turning away Black borrowers, who are 1.8 times more likely to be denied mortgages than white borrowers.
+- The region ranks even worse among the metros — third in the nation — for disadvantages suffered by Latino borrowers, who are 2.7 times more likely to be denied mortgages than white borrowers.
+- Local and state experts say that until lending practices become more equitable, which can be accomplished by enforcing anti-bias laws already in place, those disparities will undoubtedly continue.
+- "I have a great deal of faith in law and I really do believe if you have laws and you enforce them it changes conduct and ultimately it changes minds," said Kathryn A. Sabbeth, an associate professor at the University of North Carolina School of Law.
+- The in-depth study used data from the Home Mortgage Disclosure Act, a public database of millions of individual mortgage applications.
+- The Markup analyzed 17 million mortgage applications from 2019, classified them by metropolitan areas and used statistical formulas to show the likelihood that applicants would be denied, linking that with race.
+- Of 572 small and large communities in the nation, 89 metro areas —  including Greensboro-High Point, Raleigh-Cary and Charlotte-Concord-Gastonia — showed significant evidence that borrowers were at a disadvantage because of their race.
+- The survey also showed that even people of color with similar income and debt records to whites were denied mortgages at a higher rate.
+- Still, while the data is troubling, it only reaffirms what many have long suspected about the lending practices of leading financial institutions. But what may have seemed like a problem for other cities has been put into stark perspective by the new report.
+- This area, in lending to minorities, may not be the worst — but it's far from the best. The Greensboro-High Point metropolitan statistical area covers Guilford, Rockingham and Randolph counties with a population of more than 760,000 people.
+- And it's among those people where there are disparities that are difficult to explain away, the survey data shows.
+- In 2019, Black people applied for 1,226 mortgage loans, according to survey data. But 114 of those loans — 9.3% — were denied.
+- By comparison, white applicants asked for 4,045 loans with 209 applications declined for a 4.2% rejection rate.
+- Latinos, however, saw the highest disparity, with 11% of 428 applications being declined.
+- Elsewhere in the state's major metro areas, similar figures surfaced.
+- The Raleigh-Cary region, with 1.3 million people, saw whites denied mortgages at a 3.4% rate while Blacks were denied at a rate of 8.8% and Latinos at 8.2%.
+- In Charlotte-Concord-Gastonia, a metro area with 2.5 million, the gap was even greater: Whites were denied mortgages at a 4.7% rate while Blacks were turned down at a 10.3% rate.
+- In 1930, according to the report, the federal government encouraged lending institutions to deny mortgages to prospective homebuyers who lived in neighborhoods with high populations of Black people or immigrants. The practice became known as “redlining” because the government-sponsored Home Owners’ Loan Corporation drew red lines around these neighborhoods, deeming them a hazardous credit risk.
+- The Fair Housing Act of 1968 made it illegal to deny someone housing based on their race or other protected categories, according to the report. Despite the law, people of color continue to be denied mortgages at higher rates than white people, researchers and journalists have shown.
+- Institutional bias and outright racism are still factors that deny mortgages to people of color, said Sabbeth, the UNC law professor.
+- Sabbeth believes, however, better enforcement of the laws already on the books can have a direct impact on the disparity.
+- But first, political and judicial leaders must find the will to implement and enforce those laws.
+- Financial institutions have pushed back on the evidence that shows systemic racial bias, but Sabbeth said that from her research, bias is real.
+- "It is still a practice where these banks are drawing maps on where they will or will not make loans. And the drawing of these maps is racial, there’s no denying that," she said.
+- The fact that people of color rent their homes by a higher percentage also puts them at a disadvantage, she said, because credit reporting agencies don't consider a reliable history of making rent or utility payments as part of a good credit history.
+- One bit of hope, she said, is the fact that the Fannie Mae lending agency has begun to incorporate rent payments in its mortgage application evaluation process.
+- "Because, historically, credit-score algorithms have failed to take into account rent payments and utility payments, the credit scores of African Americans and Latinos have been unfairly disadvantaged in my view," Sabbeth said.
+- In the meantime, programs like those offered by the city of Greensboro aim to assist first-time homebuyers  so they can begin to build wealth and overcome biases in the system.
+- The city is trying to push back on such disadvantages to encourage home ownership among minorities. But it's not alone in taking up the cause.
+- For 33 years, the Habitat for Humanity of Greater Greensboro has broken the cycle of limited ownership opportunities for people of color and others by putting more than 500 families into homes with mortgages they're able to sustain and ultimately pay off.
+- The nonprofit acts, in many ways, as a bank with a helping hand. If a person doesn't qualify for a conventional consumer loan, Habitat is there to assist with financial education and mortgage payments that never exceed 30% of a family's monthly income.
+- Banks are "processing to make the money. We're looking to make a generational change in poverty here," said David Kolosieke, president and CEO of Habitat's Greensboro operation.
+- Families that could qualify for a conventional mortgage are not the market for Habitat, Kolosieke said. It's people who have limited means but are willing to build the financial skills it takes to own and maintain a home that Habitat wants to help.
+- Kolosieke said a disadvantage for many borrowers is high student-loan debt. In a cruel irony, that's the kind of debt people assume so they can get ahead in life. But that can also block their chances when they apply for mortgages.
+- "We're seeing more and more of it in the application process," he said.
+- Habitat for Humanity understandably is also an advocate for the kinds of political solutions that can assist people with getting mortgages and housing through more equitable policies and financial assistance programs.
+- In Greensboro, Habitat for Humanity expects to provide 15 homes to families this year and up to 20 when volunteer labor rises after the pandemic eases. That's roughly 20% of the mortgages that were denied to Black applicants here in 2019, the organization says.
+- "When you add all those things up," Kolosieke said, "it certainly makes a difference in building equity with people of color."
+- Contact Richard M. Barron at 336-373-7371 and follow @BarronBizNR on Twitter.
+- Get local news delivered to your inbox!
+- 
+- 
+- Get up-to-the-minute news sent straight to your device.
+
+URL: https://journalnow.com/news/state-and-regional/racial-disparity-in-mortgage-loan-denials-less-pronounced-in-winston-salem-area-compared-with-n/article_8fd6af44-043b-11ec-9c73-cb6f46a4ba52.html
+
+URL: https://www.nationalmortgagenews.com/news/fannie-mae-freddie-macs-automated-underwriting-changes-irk-lenders
+
+URL: https://themarkup.org/denied/2022/02/04/markup-mortgage-industry-investigation-cited-in-support-of-algorithmic-accountability-bill
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Denied
+- The measure would require companies to test the algorithms they use for bias and discrimination 
+        
+        
+          
+
+By 
+Lauren Kirchner
+- Authors of a bill introduced in the Senate and House on Thursday that aims to increase oversight of automated decision-making systems cited The Markup’s investigation into racial disparities in mortgage denials in their announcement of the measure.
+- “Automated systems are increasingly making critical decisions about Americans’ health, finances, housing, educational opportunities and more—potentially exposing the public to major new risks from flawed or biased algorithms,” reads a summary of the Algorithmic Accountability Act of 2022 released by its main sponsor, Sen. Ron Wyden (D-OR). “The Markup investigated poorly designed mortgage-approval algorithms that inexplicably denied loans to applicants who had just previously been approved. These harms could have been mitigated if companies had appropriately assessed the impacts of applying automation to these critical decisions.”
+- Denied
+- Even accounting for factors lenders said would explain disparities, people of color are denied mortgages at significantly higher rates than White people
+- The Markup’s analysis of public mortgage data, co-published last year with the Associated Press, found that people of color who applied for home loans in 2019 were 40 to 80 percent more likely to be denied than White applicants with similar financial characteristics. The stark difference in denials was a constant nationwide, but in some cities the disparity was greater than 250 percent.
+- Experts interviewed for the investigation said some of the problems were due to opaque algorithms that guide the mortgage-approval process and use data that affects different groups differently.
+- For example, the standard method of credit scoring for mortgages, required by quasi-governmental agencies Fannie Mae and Freddie Mac, uses an outdated formula that can disadvantage people of color. The calculations of Fannie’s and Freddie’s automated underwriting software also depend on financial factors that are anything but color-blind. Experts say both processes can contribute to the further entrenchment of centuries-old racial biases and inequities.
+- The inner workings of automated underwriting software are also very secretive—even for the loan officers who use it. According to The Markup’s sources, not even the federal agencies tasked with regulating the industry know exactly how the software works.
+- Mortgage industry groups criticized The Markup’s investigation at the time because the analysis of mortgage denials did not include applicants’ credit scores, which are not publicly available, and because it focused on conventional loans only and not government-insured loans.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- After the investigation published last year, our findings were cited in the announcement by the Consumer Financial Protection Bureau, the U.S Department of Justice, and the Office of the Comptroller of the Currency of a new initiative to fight discriminatory mortgage lending practices. In response to the story, Minnesota’s attorney general also warned that lenders whose algorithms discriminate “should not be surprised” if they are investigated for violating the law.
+- The new bill, which was co-sponsored by Sen. Cory Booker (D-NJ) and Rep. Yvette Clarke (D-NY), would require companies to assess the algorithms they use, and the data used to train them, “for impacts on accuracy, fairness, bias, discrimination, privacy and security” and then fix whatever problems they might find. It would apply to any algorithms used to make “critical decisions” about people’s lives—including their education, employment, family planning, health care, legal services, housing, and financial services. It would give the Federal Trade Commission more authority and more resources to oversee the process.
+- The bill is an update to the lawmakers’ previous attempt to pass similar legislation in the Senate in 2019. They said they consulted dozens of experts and advocacy groups to improve it. The new version was endorsed by Color of Change, Consumer Reports, the Electronic Privacy Information Center (EPIC), and the Institute of Electrical and Electronics Engineers (IEEE), among others.
+- As The Markup recently reported, many efforts to regulate governments’ use of algorithms on the local level have failed to pass. Government agencies and contractors who frequently oppose the bills not only fight to keep the details of proprietary software private but also rebuff attempts from would-be regulators to learn what software is even in use.
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Markup Mortgage Industry Investigation Cited in Support of Algorithmic Accountability Bill
+- From the series —
+    
+
+      Denied and 
+
+      Impact
+- Lauren Kirchner
+Investigative Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+- Upstart consumer lending discrimination
+- US mortgage credit score data economic, racial bias
+- Page infoType: IncidentPublished: August 2021

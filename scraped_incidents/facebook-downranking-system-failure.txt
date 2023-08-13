@@ -1,0 +1,492 @@
+- Occurred: March 2022
+- Can you improve this page?Share your insights with us
+- Facebook has experienced a 'massive' failure of its content ranking system that exposed users to a surge of disinformation, hate speech and other harmful content, according an internal report obtained by The Verge.
+- The document attributes the failure to a software bug and says that posts that would usually have been demoted by the company's algorithms were boosted by as much as 30%.
+- A Facebook spokesman told The Verge the bug 'has not had any meaningful, long-term impact on our metrics.'
+- Operator: Meta/FacebookDeveloper: Meta/FacebookCountry: USA; Global Sector: TechnologyPurpose: Minimise harmful content Technology: Content ranking system Issue: Robustness; Mis/disinformationTransparency: Governance; Black box
+URL: https://www.theverge.com/2022/3/31/23004326/facebook-news-feed-downranking-integrity-bug
+- By  Alex Heath, a deputy editor and author of the Command Line newsletter. He’s covered the tech industry for over a decade at The Information and other outlets.
+- A group of Facebook engineers identified a “massive ranking failure” that exposed as much as half of all News Feed views to potential “integrity risks” over the past six months, according to an internal report on the incident obtained by The Verge.
+- The engineers first noticed the issue last October, when a sudden surge of misinformation began flowing through the News Feed, notes the report, which was shared inside the company last week. Instead of suppressing posts from repeat misinformation offenders  that were reviewed by the company’s network of outside fact-checkers, the News Feed was instead giving the posts distribution, spiking views by as much as 30 percent globally. Unable to find the root cause, the engineers watched the surge subside a few weeks later and then flare up repeatedly until the ranking issue was fixed on March 11th.
+- In addition to posts flagged by fact-checkers, the internal investigation found that, during the bug period, Facebook’s systems failed to properly demote probable nudity, violence, and even Russian state media the social network recently pledged to stop recommending in response to the country’s invasion of Ukraine. The issue was internally designated a level-one SEV, or site event — a label reserved for high-priority technical crises, like Russia’s ongoing block of Facebook and Instagram.
+- The technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021
+- Meta spokesperson Joe Osborne confirmed the incident in a statement to The Verge, saying the company “detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics.” The internal documents said the technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021. “We traced the root cause to a software bug and applied needed fixes,” said Osborne, adding that the bug “has not had any meaningful, long-term impact on our metrics” and didn’t apply to content that met its system’s threshold for deletion.
+- For years, Facebook has touted downranking as a way to improve the quality of the News Feed and has steadily expanded the kinds of content that its automated system acts on. Downranking has been used in response to wars and controversial political stories, sparking concerns of shadow banning and calls for legislation. Despite its increasing importance, Facebook has yet to open up about its impact on what people see and, as this incident shows, what happens when the system goes awry.
+- In 2018, CEO Mark Zuckerberg explained that downranking fights the impulse people have to inherently engage with “more sensationalist and provocative” content. “Our research suggests that no matter where we draw the lines for what is allowed, as a piece of content gets close to that line, people will engage with it more on average — even when they tell us afterwards they don’t like the content,” he wrote in a Facebook post at the time.
+- “We need real transparency to build a sustainable system of accountability”
+- Downranking not only suppresses what Facebook calls “borderline” content that comes close to violating its rules but also content its AI systems suspect as violating but needs further human review. The company published a high-level list of what it demotes last September but hasn’t peeled back how exactly demotion impacts distribution of affected content. Officials have told me they hope to shed more light on how demotions work but have concern that doing so would help adversaries game the system.
+- In the meantime, Facebook’s leaders regularly brag about how their AI systems are getting better each year at proactively detecting content like hate speech, placing greater importance on the technology as a way to moderate at scale. Last year, Facebook said it would start downranking all political content in the News Feed — part of CEO Mark Zuckerberg’s push to return the Facebook app back to its more lighthearted roots.
+- I’ve seen no indication that there was malicious intent behind this recent ranking bug that impacted up to half of News Feed views over a period of months, and thankfully, it didn’t break Facebook’s other moderation tools. But the incident shows why more transparency is needed in internet platforms and the algorithms they use, according to Sahar Massachi, a former member of Facebook’s Civic Integrity team.
+- “In a large complex system like this, bugs are inevitable and understandable,” Massachi, who is now co-founder of the nonprofit Integrity Institute, told The Verge. “But what happens when a powerful social platform has one of these accidental faults? How would we even know? We need real transparency to build a sustainable system of accountability, so we can help them catch these problems quickly.”
+- Clarification at 6:56 PM ET: Specified with confirmation from Facebook that accounts designated as repeat misinformation offenders saw their views spike by as much as 30%, and that the bug didn’t impact the company’s ability to delete content that explicitly violated its rules.
+- Correction at 7:25 PM ET: Story updated to note that “SEV” stands for “site event” and not “severe engineering vulnerability,” and that level-one is not the worst crisis level. There is a level-zero SEV used for the most dramatic emergencies, such as a global outage. We regret the error.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.protocol.com/bulletins/facebook-ranking-failure-bug
+- The company said the issue began in 2019 and was resolved March 11.
+- A bug has allowed harmful posts to slip through Meta's ranking filters.
+- For the last six months, Facebook engineers have been seeing intermittent spikes in misinformation and other harmful content on News Feed, with posts that would usually be demoted by the company's algorithms being boosted by as much as 30% instead. The cause, according to reporting by The Verge, was a bug that one internal report described as a “massive ranking failure.”
+- The bug first originated in 2019, but its impact was first noticed in October 2021. The company said it was resolved March 11. “We traced the root cause to a software bug and applied needed fixes,” Meta spokesperson Joe Osborne told The Verge.
+- The bug caused posts that had been flagged by fact-checkers, as well as nudity, violence and Russian state media, to slip through the company's usual down-ranking filters, according to an internal report obtained by The Verge.
+- Meta and other tech giants have leaned on down-ranking as a more palatable approach to content moderation than removing content altogether. Scholars like Stanford's Renée DiResta have also called on tech giants to embrace this approach and realize that "free speech is not the same as free reach."
+- 
+- In this case, those ranking systems appear to have failed. But Osborne told The Verge the bug “has not had any meaningful, long-term impact on our metrics.”
+- It will be difficult for those outside of Meta to vet those metrics. Meta has blocked new users from accessing CrowdTangle, one of the core tools researchers and journalists have used to track trends in what's popular on Facebook, and has dismantled the team leading it. And while the company does release reports on the prevalence of certain kinds of policy violations in any given quarter, those reports offer little indication of what's behind those numbers. Even if the report did show an uptick in, say, violence on Facebook, it'd be impossible to know if that's due to this bug or to Russia's invasion of Ukraine or some other global atrocity.
+- The company in a statement to Protocol said:
+- "The Verge vastly overstated what this bug was because ultimately it had no meaningful, long-term impact on problematic content. Only a very small number of views of content in Feed were ever impacted because the overwhelming majority of posts in Feed are not eligible to be down-ranked in the first place. After detecting inconsistencies we found the root cause and quickly applied fixes. Even without the fixes, the multitude of other mechanisms we have to keep people from seeing harmful content — including other demotions, fact-checking labels and violating content removals — remained in place.”
+- But it's still unclear which posts were boosted due to the bug or how many views they received.
+- This story was updated on March 31 with a statement from Meta.
+- Issie Lapowsky ( 
+	@issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired, where she covered the 2016 election and the Facebook beat in its aftermath. Prior to that, Issie worked as a staff writer for Inc. magazine, writing about small business and entrepreneurship. She has also worked as an on-air contributor for CBS News and taught a graduate-level course at New York University's Center for Publishing on how tech giants have affected publishing.
+- Mobile game revenue will decline for the first time in history this year, market research firm Newzoo now says in a revised outlook for the 2022 global games market. While the whole game industry is expected to contract by 4.3% — another first since Newzoo began tracking the market in 2007 — the company is predicting a 6.4% decline in mobile game spending on top of a 4.2% decline in console game spending.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Amazon is planning to lay off thousands of employees, Protocol has learned, ahead of what the company has cautioned will be a slow holiday shopping season.
+- 
+- 
+- 
+- Google agreed to pay $391.5 million and make changes to its user privacy controls as part of a settlement with a coalition of 40 state attorneys general. The coalition accused Google of misleading customers about location-tracking practices that informed ad targeting.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- FTX has filed for bankruptcy and the crypto company also announced that founder Sam Bankman-Fried has resigned as CEO.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Salesforce recently updated its internal policies to make it easier for managers to terminate employees for performance issues without HR involvement, Protocol has learned, a move that comes as the software giant looks to shed as many as 2,500 jobs.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- The Consumer Financial Protection Bureau said fraud and scam reports comprise the top complaint it receives about virtual currencies — and that customers are finding little help from companies when it happens.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Elon Musk sent his first email to Twitter staff late Wednesday, warning of a difficult economic road ahead and telling employees they need to be in office for a minimum of 40 hours per week. "Sorry that this is my first email to the whole company, but there is no way to sugarcoat the message," he began, ominously.
+- 
+- 
+- 
+- 
+- 
+- 
+- Binance isn’t buying FTX after all. The crypto giant said Wednesday it has decided that it  “will not pursue the potential acquisition” based on a “corporate due diligence” review.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- On Wednesday, John Kerry unveiled a plan for a new carbon credit program aimed at mobilizing private capital to help middle-income countries transition away from coal and move toward renewable energy.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Meta announced it was laying off more than 11,000 employees Wednesday morning, slashing jobs in its recruiting department and refocusing its remaining team on AI discovery, ads, and its investment in the metaverse.
+- "I want to take accountability for these decisions and for how we got here," Mark Zuckerberg wrote in a message to employees that was also posted online. "I know this is tough for everyone, and I’m especially sorry to those impacted."
+- 
+- 
+- 
+- 
+- 
+- Al Gore has one mission this week at COP27, and that’s to give climate negotiators what he hopes will be a critical tool to address the crisis at hand: an independent, global inventory of greenhouse gas emissions, down to the individual facility.
+- The Climate TRACE coalition just released the world’s most detailed inventory of global greenhouse gas emissions, which Gore, a founding member, is unveiling on Wednesday at the United Nations climate summit in Egypt.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Way back in March, your friendly Protocol Climate team offered you some tips for writing a climate plan that doesn’t suck. Surely you took that advice. But if for some reason you didn’t, the United Nations has your back.
+- 
+- 
+- 
+- 
+- Binance CEO Changpeng “CZ” Zhao said Tuesday the crypto powerhouse signed a deal to acquire rival FTX.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Salesforce is preparing for a major round of layoffs that could affect as many as 2,500 workers across the software vendor, Protocol has learned, in a bid to cut costs amid a new activist investor challenge and harsh economic conditions.
+- 
+- 
+- 
+- 
+- 
+- 
+- BlockFi has introduced a new digital assets interest product for accredited investors, after previously agreeing to shut down a yield-paying crypto product that the SEC said was illegal.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- The Justice Department said Monday it seized $3.4 billion worth of bitcoin stolen in the 2012 hack of the Silk Road dark web marketplace.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- U.S. election infrastructure is exceedingly secure, and voter fraud here is sorare it’s comparable to your annual chances of getting struck by lightning. Despite this, former President Donald Trump and a long list of allies in the Republican Party have spent the last two years questioning the overall integrity of the U.S. election system. Many of those allies are now candidates themselves, and their coordinated attack on the country’s status as a democracy is not a relic of 2020. Some have already startedrepeating these “Big Lie” charges ahead of next week’s midterms. And the social platforms that help them spread their message haveprepared few measures to stop it.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- The White House just laid out its climate tech priorities to reach net zero by 2050.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Coinbase said Thursday that it lost more users in the third quarter. But the decline wasn’t the disastrous drop that Wall Street was expecting, and that sparked a rally in the crypto company’s shares after-hours.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- The Biden administration announced $9 billion in funding Wednesday to improve home efficiency, which could help support the installation of up to 500,000 heat pumps. With winter approaching and utilities warning of gas shortages, there are some major challenges facing the technology that money can be used to tackle.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Block beat earnings expectations, with strong growth largely fueled by its Cash App business. Traders sent shares up more than 12% after-hours Thursday.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Stripe is laying off 14% of its staff, its co-founders said Thursday, as the fintech startup must start "building differently for leaner times."
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Roku saw its revenue growth slow in Q3, and warned investors Wednesday that things are about to get worse: “A lot of Q4 ad campaigns are being canceled,” said Roku CEO Anthony Wood during the company’s Q4 earnings call. “We’re seeing lots of big categories pull back. Telecom, insurance … even toy marketers are planning on reducing their spending.”
+- 
+- 
+- 
+- 
+- 
+- Green jobs and corporate climate pledges abound, but skilled sustainability professionals are scarce.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Robinhood reported a drop in third-quarter revenue but also a narrower loss on Wednesday, in a sign that it might be stabilizing its business as it attempts to recover from a staggering drop in the stock and crypto trading activity that fueled its growth.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+URL: https://www.dailymail.co.uk/sciencetech/article-10675719/Meta-admits-Facebook-bug-led-surge-misinformation.html
+- By Jonathan Chadwick For Mailonline
+- Updated:  07:11 EDT, 1 April 2022
+- 
+- 82
+- View  comments
+- 
+- Meta has admitted that a Facebook bug led to a 'surge of misinformation' and other harmful content appearing in users' News Feeds between October and March.
+- According to an internal document, engineers at Mark Zuckerberg's firm failed to suppress posts from 'repeat misinformation offenders' for almost six months.
+- During the period, Facebook systems also likely failed to properly demote nudity, violence and Russian state media during the war on Ukraine, the document said.
+- Meta reportedly designated the issue a 'level 1 site event' – a label reserved for high-priority technical crises, like Russia's block of Facebook and Instagram.
+- Meta has admitted that a Facebook bug led to a 'surge of misinformation' and other harmful content appearing in users' News Feeds between October and March (file photo)
+- According to an internal document, a bug exposed Facebook users to harmful content.
+- Engineers at Meta (the company headed by Mark Zuckerberg that owns Facebook) failed to suppress posts from 'repeat misinformation offenders' for six months.
+- During the period, Facebook systems likely failed to properly demote nudity, violence and Russian state media during the war on Ukraine, the document said.
+- Meta renamed itself in October, as part of its long-term project to turn its social media platform into a metaverse - a collective virtual shared space featuring avatars of real people.
+- MailOnline has contacted Meta for comment, although the firm reportedly confirmed the six-month long bug to the Verge.
+- This was only after the Verge obtained the internal Meta document, which was shared inside the company last week.
+- '[Meta] detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics,' said Meta spokesperson Joe Osborne.
+- 'We traced the root cause to a software bug and applied needed fixes. [The bug] has not had any meaningful, long-term impact on our metrics.'
+- Meta engineers first noticed the issue last October, when a sudden surge of misinformation began flowing through News Feeds.
+- This misinformation came from 'repeat offenders' – users who repeatedly share posts that have been deemed as misinformation by a team of human fact-checkers.
+- 'Instead of suppressing posts from repeat misinformation offenders that were reviewed by the company’s network of outside fact-checkers, the News Feed was instead giving the posts distribution,' the Verge reports.
+- Facebook accounts that had been designated as repeat 'misinformation offenders' saw their views spike by as much as 30 per cent.
+- According to an internal document, engineers at Mark Zuckerberg's firm failed to suppress posts from 'repeat misinformation offenders' for six months. Pictured is Zuckerberg, via video, speaking during the 2022 SXSW Conference and Festivals at Austin Convention Center on March 15, 2022
+- Facebook owner Meta gave user information to hackers who pretended to be law enforcement officials last year, a company source has said.
+- Imposters were able to get details like physical addresses or phone numbers in response to falsified 'emergency data requests', which can slip past privacy barriers, said the source who requested anonymity.
+- Bloomberg news agency, which originally reported Meta being targeted, also reported that Apple had provided customer data in response to forged data requests.
+- Apple and Meta did not officially confirm the incidents, but provided statements citing their policies in handling information demands.
+- Source: AFP
+- Unable to find the cause, Meta engineers had to just watch the surge subside a few weeks later and then flare up repeatedly over the next six months.
+- The issue was finally fixed three weeks ago, on March 11, according to the internal document.
+- Meta said the bug didn’t impact the company's ability to delete content that violated its rules.
+- According to Sahar Massachi, a former member of Facebook’s Civic Integrity team, Meta's issue just highlights why more transparency is needed in internet platforms and the algorithms they use.
+- 'In a large complex system like this, bugs are inevitable and understandable,' he said.
+- 'But what happens when a powerful social platform has one of these accidental faults? How would we even know?
+- 'We need real transparency to build a sustainable system of accountability, so we can help them catch these problems quickly.'
+- Last May, Meta (known then as Facebook) said it would take stronger action against repeat misinformation offenders, in the form of penalties such as account restrictions.
+- 'Whether it's false or misleading content about Covid-19 and vaccines, climate change, elections, or other topics, we're making sure fewer people see misinformation on our apps,' the firm said in a blog post.
+- 'Independent fact-checkers said the information is false': Facebook users are warned of posts that have been deemed as misinformation by a team of human fact-checkers
+- 'We will reduce the distribution of all posts in News Feed from an individual's Facebook account if they repeatedly share content that has been rated by one of our fact-checking partners.'
+- Last year, the firm said it would start downranking all political content on Facebook – a decision taken based on feedback from users who 'don’t want political content to take over their News Feed'.
+- Meta renamed itself in October, as part of its long-term project to turn its social media platform into a metaverse – a collective virtual shared space featuring avatars of real people.
+- In the future, the social media platform will be accessible within the metaverse using virtual reality (VR) and augmented reality (AR) headsets and smart glasses.
+- In a recent interview, Mark Zuckerberg said that over the next five years, he wants people to think of Facebook not as a social media company, but a 'metaverse' company.
+- That is one that is akin to a virtual environment where people can work and play for most of their 24 hours without leaving their home.
+- 'And my hope, if we do this well, I think over the next five years or so, in this next chapter of our company, I think we will effectively transition from people seeing us as primarily being a social media company to being a metaverse company,' Zuckerberg said in the interview with The Verge.
+- 'And obviously, all of the work that we're doing across the apps that people use today contribute directly to this vision in terms of building community and creators.
+- 'But this is something that I'm spending a lot of time on, thinking a lot about, we're working on a ton. And I think it's just a big part of the next chapter for the work that we're going to do in the whole industry.'
+- So what exactly is the metaverse?
+- As Zuckerberg describes it, it's a 'vision' that spans the entire tech industry, calling it the successor to the mobile internet.
+- 'But you can think about the metaverse as an embodied internet, where instead of just viewing content — you are in it,' he continued.
+- 'And you feel present with other people as if you were in other places, having different experiences that you couldn't necessarily do on a 2D app or webpage, like dancing, for example, or different types of fitness.'
+- The Facebook CEO says his vision – which he has been working on for several months – would not only reach into virtual reality, but augmented reality, computers, mobile devices and game consoles as well.
+- Share what you think
+- The comments below have not been moderated.
+- The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+- We are no longer accepting comments on this article.
+- Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.thedrum.com/news/2022/04/01/facebook-system-designed-smother-harmful-misinformation-actually-spread-it
+- Advertisement
+- The Drum Awards for Marketing APAC
+- -d -h -min -sec
+- April 1, 2022 | 3 min read
+- Listen to article
+                 
+4 min
+- Facebook engineers have belatedly uncovered a significant flaw in its downranking system to filter out harmful content, which exposed up to half of all News Feed views to potential ’integrity risks’ for six months.
+- Facebook flaw increased harmful News Feed content for six months / Adobe Stock
+- Reports in The Verge suggest the ‘massive ranking failure’ was first identified last October when engineers battled against a wave of misinformation that threatened to inundate the News Feed. Closer investigations revealed that a ranking system designed to suppress misinformation from flagged accounts, as identified by a team of external fact-checkers, was instead surfacing these posts to audiences.
+- Leaked correspondence suggests the bug boosted views of malign posts by as much as 30% intermittently until the issue was finally resolved on March 11.
+- Throughout this six-month period, Facebook’s much-vaunted policing algorithms failed to properly downrank nudity, violence and Russian state propaganda – a period that overlapped with the country’s invasion of Ukraine.
+- Fielding inquiries from The Verge, Meta spokesperson Joe Osborne described five separate instances of ”inconsistencies in downranking” attributed to a ”software bug” during which inappropriate material was given raised visibility.
+- Osborne insists however that the episode ”has not had any meaningful, long-term impact on our metrics,” stressing that content that passed the threshold for deletion was not affected.
+- The system of downranking has been touted by Facebook as evidence that self-regulation is effective, heading off calls for new legislation to curb the spread of ‘sensationalist and provocative’ content that typically attracts the most attention.
+- Until now, Facebook has boasted of the success its algorithms have had identifying ‘borderline’ content that skirts the boundaries of acceptability in areas such as hate speech, flagging suspected infractions for manual review.
+- A recent report found that hate speech was present in six out of every 10,000 Facebook views.
+- Meta
+- Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.
+- © Carnyx Group Ltd 2022 | The Drum is a Registered Trademark and property of Carnyx Group Limited. All rights reserved.
+
+URL: https://gizmodo.com/facebooks-news-feed-boosted-bad-posts-for-six-months-1848734620
+- A “massive ranking failure” in the Facebook News Feed promoted content it pegged as bad for the past six months. The flaw in the News Feed’s ranking algorithm elevated misinformation, violence, and the Russian state media outlets Facebook pledged to downrank in response to President Vladimir Putin’s invasion of Ukraine to more than a billion people worldwide.
+- The warping of the News Feed’s brain stem reversed the effects of its content moderation systems in a comical and obvious way it seems like a joke Saturday Night Live would make about Facebook. Posts identified by fact checkers or Facebook’s artificial intelligence for downranking—appearing further from the top of the feed—would instead receive a boost to their visibility. Facebook’s systems juiced these “integrity risks” by as much as 30 percent worldwide, the company’s engineers said in an internal dossier first reported by The Verge. In all, the bug affected as many as half of all News Feed users, the report said.
+- Facebook said in a statement to The Verge, “Meta detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics… We traced the root cause to a software bug and applied needed fixes.” Facebook said it “has not had any meaningful, long-term impact on our metrics.” The company did not immediately respond to Gizmodo’s request for comment.
+- The technical issue with the News Feed reportedly dates back to 2019 but began causing problems in late 2021. The company’s engineers, touted as some of the best in the world, knew of the problem in October of last year but couldn’t find its cause or fix it until March 11th. The engineers christened their six-month-old algorithmic satan baby with Facebook’s most dire and dorky designation, a “Severe Engineering Vulnerability.”
+- The News Feed is Facebook’s flagship product, the collection of posts every user sees first when they go to Facebook.com or open the Facebook app. With nearly three billion monthly active users, it stands to reason that the flaw in the News Feed exposed more than a billion people to content Facebook intended for them not to see.
+
+URL: https://www.bgr.in/news/facebook-bug-promoted-fake-news-on-news-feed-took-six-months-to-fix-1252956/
+- iPhone 16 Pro, iPhone 16 Pro Max display and camera details tipped
+- Xiaomi extends warranty of select Mi, Redmi, Poco phones: Read details
+- Tecno Camon 20 Pro launched in India. Is it a good Redmi Note 12 rival?
+- Acer Aspire 5 gaming laptop arrives in India: Check price, specs
+- MediaTek to ARM   s new tech its next-gen smartphone processors
+- Twitter approved 83 percent of govt requests for content moderation globally
+- BGMI is ready to play on Android, iOS: Here   s what   s new
+- Apple is shutting down its 'My Photo Stream' this summer: Here's what users need to do
+- Tecno Camon 20 series launched in India: Check price, specification and availability here
+- US lawyer penalised for using ChatGPT: Here's why
+- Google Street View now available in multiple locations in India: Here's how to access it
+- WhatsApp is testing screen sharing feature along with new placement for navigation bar
+- Twitter Space team narrowed down from 100 to roughly three employees
+- Amazon announces 5G Revolution Sale: Check offers on best 5G smartphones here
+- Daam malware is infecting Android devices: CERT-IN issues advisory
+- Exclusive Interview with Ravi Kunwar - Vice President - India & APAC - HMD Global
+- In conversation with Avneet Singh Marwah, CEO SPPL
+- WhatsApp Working On New Feature 'Channels' For Broadcasting Information - Watch Video
+- Twitter’s legacy check mark removal hits legacy accounts, celebrities and even the pope - Watch Video
+- Techlusive.in is a leading online destination for all things technology including news related to smartphones, smart TVs, smartwatches, TWS earbuds, latest games and apps, and the general consumer electronics markets. It is among India’s top sources of breaking mobile news, and a technology category leader among early adopters, savvy technophiles, and casual readers alike.
+- Copyright 2023 India Dot Com Private Limited
+
+URL: https://uk.news.yahoo.com/facebook-bug-promoted-posts-containing-200928176.html
+- A Facebook bug promoted misinformation on its News Feed instead of stymieing it in recent months.
+- Engineers first noticed the issue in October and resolved the bug on March 11, The Verge reported.
+- Facebook has long grappled with critics who say the platform is a major driver of false information that stokes divisiveness.
+- A software bug has been inadvertently amplifying misinformation on Facebook instead of combatting it, according to a Thursday report from The Verge.
+- According to an internal report viewed by the outlet, Facebook engineers identified a "massive ranking failure" on its News Feed that heavily distributed posts containing nudity, violence, and false information reviewed by independent third-party fact checkers over the past six months.
+- It also indexed posts by Russian state-owned media outlets, which have since blocked Facebook after the company restricted the accounts of the publications in response to the country's invasion of Ukraine in February.
+- The technical issue at the root of the problem was first introduced in 2019, but didn't cause any issues until 2021 when the engineers first noticed it. The issue was resolved on March 11, The Verge reported.
+- Facebook, now Meta, did not immediately respond to Insider's request for comment. Company spokesperson Joe Osborne confirmed the issue to The Verge and said Meta "detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics."
+- How Facebook ranks content and pushes posts to users has become a contentious topic for the company in recent years.
+- For example, the platform rolled out an algorithm tweak in 2018 that promoted posts it anticipated users would engage with the most, such as content from friends and family. It was a move designed to keep people scrolling longer, but it also led to higher circulation of violent, false, and politically divisive content.
+- The move heavily influenced news production as well, forcing publishers to reorient their business models to reach readers, who had proven they were more likely to click on so-called clickbait stories driven by sensationalism.
+- The "Facebook Papers" from 2021 in part revealed that Facebook employees were concerned that the 2018 algorithm change would indeed elevate political divisiveness and outrage.
+- The platform took action in August 2021 when it announced it would start downranking political content in people's News Feeds, or reducing the number of political posts that users see. The move marked a departure for Facebook, which has traditionally relied heavily on its ranking algorithm, which decides how likely someone is to share or comment on a certain post based on past engagement.
+- Read the original article on Business Insider
+
+URL: https://www.spiegel.de/netzwelt/apps/facebook-gab-inhalten-die-es-ausbremsen-wollte-mehr-newsfeed-reichweite-a-03f5d6e9-12af-4466-baeb-a3c9b60929a0
+- Meta-Dienst Facebook: Noch immer eines der wichtigsten Netzwerke der Welt
+- Ein Software-Bug hatte offenbar über Monate Einfluss darauf, wie präsent fragwürdige Inhalte in Facebooks Newsfeed waren. Das schreibt »The Verge« 
+
+
+ unter Berufung auf einen internen Facebook-Bericht. Eine Gruppe von Facebook-Ingenieuren ist demnach einem »massiven Ranking-Fehler« auf die Spur gekommen. Das Problem soll darin bestanden haben, dass manche fragwürdigen Beiträge, deren Verbreitung Facebook eigentlich einschränken wollte, nicht weniger, sondern mehr Views erhielten. Die Rede ist von einem Plus von bis zu 30 Prozent, ausgerechnet für Inhalte von Konten, die wiederholt als Verbreiter von Falschinformationen aufgefallen waren.
+- Die ersten Hinweise auf das Problem sollen die Ingenieure im Oktober entdeckt haben, schreibt »The Verge« mit Verweis auf den internen Bericht. Damals seien im Newsfeed plötzlich besonders viele Fehlinformationen aufgetaucht. Erst am 11. März sei das Problem endgültig gelöst worden.
+- »The Verge« zufolge wurden sowohl Beiträge, die externe Faktenprüfer als problematisch markiert hatten, nicht ordnungsgemäß herabgestuft, als auch Beiträge, bei denen der Verdacht bestand, sie enthielten Nacktheit oder Gewalt. Auch im Fall russischer Staatsmedien soll es bei der Zurückstufung von Inhalten Probleme gegeben haben. Auf Facebooks Möglichkeit, Inhalte ganz von seiner Plattform zu entfernen, soll der Fehler keine Auswirkungen gehabt haben.
+- Facebook nutzt das sogenannte Downranking fragwürdiger Inhalte als Möglichkeit, die Qualität seines Newsfeeds zu verbessern. Herabgestuft werden laut »The Verge« unter anderem Inhalte, die Facebook als grenzwertig, aber gerade noch mit seinen Regeln vereinbar ansieht, sogenannter »Borderline«-Content. Genauso aber Inhalte, die Facebooks KI-Tools als potenziell problematisch identifizieren und daher menschlichen Prüfern zur Begutachtung vorlegen. Eine recht allgemeine Übersicht dazu, welche Inhalte das Netzwerk herabstuft, hat Facebook hier veröffentlicht .
+- Welche Dimension und Folgen genau die Ranking-Störung hatte, ist bislang nicht einzuschätzen. Metas Sprecher Joe Osborne bestätigte »The Verge«, dass es einen Softwarefehler gab. Sein Unternehmen habe »bei fünf verschiedenen Gelegenheiten Unstimmigkeiten beim Downranking festgestellt«, so Osborne, »die mit kleinen, vorübergehenden Erhöhungen bei internen Metriken korrelierten«.
+- Auf Twitter betonte Osborne , der Bug habe »keine bedeutenden, langfristigen Auswirkungen« auf die problematischen Inhalte gehabt, die Nutzer zu sehen bekamen. Insgesamt sei nur eine »sehr kleine Anzahl« von Views problematischer Inhalte im Newsfeed jemals betroffen gewesen, »da die überwältigende Mehrheit der Beiträge« auf Facebook gar nicht herabgestuft würde.
+- 
+- Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit können personenbezogene Daten an Drittplattformen übermittelt werden.
+
+Mehr dazu in unserer Datenschutzerklärung.
+- Der Tech-Journalist Charles Arthur gab sich mit diesem Statement nicht zufrieden. Er antwortete Osborne auf Twitter, dieser solle definieren, was er mit den Begriffen »bedeutend«, »langfristig« und »überwältigende Mehrheit« meint. Ebenso forderte er Meta auf, Daten rund um den Vorfall zu veröffentlichen oder sie Wissenschaftlern zur Verfügung zu stellen: »Damit ließe sich die Behauptung einer ›sehr kleinen Anzahl‹ prüfen.«
+- Meta-Dienst Facebook: Noch immer eines der wichtigsten Netzwerke der Welt
+- Melden Sie sich an und diskutieren Sie mit
+
+URL: https://siliconangle.com/2022/03/31/meta-news-feed-bug-increasing-views-sketchy-content-six-months/
+- UPDATED 21:28 EDT / MARCH 31 2022
+- by 
+James Farrell
+- Meta Platforms Inc. admitted today that for a period of six months, its algorithm was doing exactly what it was intended not to do, which was increase views of some dubious content rather than suppress it.
+- According to The Verge, which first reported the matter, engineers working on Meta’s Facebook platform said there was a “massive ranking failure” in the News Feed. An internal report stated that it started in October last year and carried on for about six months.
+- Instead of suppressing news that had already been tagged by third-party human fact-checkers or artificial intelligence for possibly being misinformation, the algorithm seems to have gone berserk and spiked the views of that content by as much as 30%. According to the same report, the algorithm promoted all kinds of dishonorable content, including posts that showed violence and nudity, but also posts by Russian state media – with the last one being something Meta had just clamped down on, along with other tech platforms.
+- Meta didn’t deny this embarrassing gaffe, with spokesperson Joe Osborne telling the Verge that it was a software bug that’s now fixed. He said Facebook had “detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics.”
+- The downranking of certain content and what is known as shadow banning has never exactly been very transparent at Facebook. Thanks to the leaks last year, it was discovered that Facebook provided a kind of moderation immunity to millions of accounts.
+- Meanwhile, certain activists with certain views have complained that social media platforms such as Facebook downrank their content even though the stories don’t necessarily break any rules. Facebook, however, does have a policy on what it calls “borderline” content.
+- Still, in 2021, Facebook said it had made changes to give people more power over what they see by giving them more options to choose what kind of content they want to see. “People should be able to better understand how the ranking algorithms work and why they make particular decisions, and they should have more control over the content that is shown to them,” said the company.
+- THANK YOU
+- Nvidia launches GH200 Superchip to accelerate generative AI workloads
+- US slams China's ban on buying Micron chips as 'economic coercion'
+- Facebook users lose access after violations of linked spam Instagram accounts they don't own
+- No deal: New Relic ends talks with private equity firms over leveraged buyout
+- Lawyer's reliance on ChatGPT leads to false case citations in airline lawsuit
+- GPUs get all the headlines, but the future of AI is real-time data
+- Nvidia launches GH200 Superchip to accelerate generative AI workloads
+- INFRA - BY MIKE WHEATLEY . 10 HOURS AGO
+- US slams China's ban on buying Micron chips as 'economic coercion'
+- POLICY - BY MIKE WHEATLEY . 14 HOURS AGO
+- Facebook users lose access after violations of linked spam Instagram accounts they don't own
+- APPS - BY DUNCAN RILEY . 14 HOURS AGO
+- No deal: New Relic ends talks with private equity firms over leveraged buyout
+- CLOUD - BY MIKE WHEATLEY . 15 HOURS AGO
+- Lawyer's reliance on ChatGPT leads to false case citations in airline lawsuit
+- AI - BY DUNCAN RILEY . 15 HOURS AGO
+- GPUs get all the headlines, but the future of AI is real-time data
+- AI - BY DAVE VELLANTE . 2 DAYS AGO
+- Forgot Password?
+- Like Free Content? Subscribe to follow.
+
+URL: https://www.msn.com/en-us/news/technology/e2-80-98massive-ranking-failure-e2-80-99-meant-facebook-showed-users-nudity-violence-and-russian-misinformation/ar-AAVK0oe
+- This page is gone.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-29T14:11:04.8911379+00:00
+- 99185a05-b7db-47c2-8906-c7f8966e7686
+
+URL: https://www.thehindubusinessline.com/info-tech/social-media/facebookbug-promoted-misinformation-on-users-news-feed/article65280918.ece
+- ADVERTISEMENT
+- Get businessline apps on
+- Connect with us
+- TO ENJOY ADDITIONAL BENEFITS
+- Connect With Us
+- Get BusinessLine apps on
+- By Madhu Balaji
+- Comments
+- READ LATER
+- Facebook engineers identified a massive ranking failure that amplified misinformation on News Feed instead of combating it, an internal report obtained by The Verge said. It took six months to fix the software bug.
+- Joe Osborne, a spokesperson of Meta, confirmed the incident in a statement to The Verge and said the company “detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics.” Osborne added that the bug did not create any long-term impact on metrics.
+- “We traced the root cause to a software bug and applied needed fixes,” Osborne added. The internal document said that the technical issue first surfaced in 2019 and created a noticeable impact in October 2021, when there was a sudden surge of misinformation.
+- Instead of suppressing posts from repeated misinformation offenders — reviewed by the company’s third-party fact-checkers — the views of the posts on News Feed spiked as much as 30 per cent globally, The Verge reported. The engineers, unable to find the root cause, witnessed the surge subside in a few weeks and then unfold until the ranking issue was fixed on March 11.
+- Instagram announces new messaging features
+- “During the bug period, Facebook’s systems failed to properly demote nudity, violence, and even Russian state media the social network recently pledged to stop recommending in response to the country’s invasion of Ukraine,” The Verge reported.
+- Comments
+- BACK TO TOP
+- Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines  for posting your comments.
+- We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+- Facebook Australia news, civil society blocks
+- Facebook Cross-check
+- Page infoType: IncidentPublished: March 2022

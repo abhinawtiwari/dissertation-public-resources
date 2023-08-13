@@ -1,0 +1,36 @@
+- Released: December 2015
+- Can you improve this page?Share your insights with us
+- The Large-scale CelebFaces Attributes (CelebA) Dataset is a facial dataset developed by a team of researchers at the Chinese University of Hong Kong to help train and test computer vision applications such as facial analysis, facial recognition, and facial detection.
+- Released late 2015, the dataset consists of 202,599 images of over 10,000 mostly western celebrities, each annotated with 40 attributes such as moustache, beard, spectacles, and the shape of face and nose.
+- CelebA became a commonly used dataset and is seen to have helped make facial recognition and analysis tools more accurate. It has been referred to and cited in hundreds of academic studies and tests.
+- However, CelebA has been found to be flawed in important ways.
+- Accuracy: A University of Nevada research study estimates that at least one third of CelebA images are incorrectly labelled one or more times, making reliable predictions impossible and leading them to conclude that it is 'flawed as a facial analysis tool and may not be suitable as a generic evaluation benchmark for imbalanced classification'. Furthermore, attributes such as attractiveness are highly subjective and subject to cultural and other preconceptions.
+- Bias/discrimination: CelebA reinforces stereotypes, for instance by labelling Asians with 'narrow eyes' and Blacks with 'thick lips'. The dataset is also comprised of nearly 90% white faces, resulting (pdf) in uneven results in terms of gender, age, ethnicity and other sensitive attributes.
+- Dual-use: Concerns have been raised that datasets such as CelebA can easily be used to identify, monitor and track people, including minorities and protected groups, unethically and illegally.
+- Privacy: Little is known about how data was collected to construct CelebA, or whether those whose pictures were used were informed or their consent given.
+- Safety: CelebA contains potentially insulting labels such as 'fat' and 'double chin', which some people may find insulting or offensive.
+- According to NBC News, the researchers behind CelebA would not speak on the record about how the dataset was compiled,  whether licensing was complied with, or consent given.
+- Operator: NVIDIADeveloper: The Chinese University of Hong Kong
+- Country: Hong Kong
+- Sector: Research/academia
+- Purpose: Train and develop AI models
+- Technology: Dataset; Computer vision; Deep learning; Facial recognition; Facial detection; Facial analysis; Machine learning; Neural network; Pattern recognition Issue: Accuracy/reliability; Dual/multi-use; Privacy; Safety; Surveillance
+- Transparency: Governance; Marketing; Privacy
+- Website
+- Research paper
+- LFWA+ Dataset
+- CelebAMask-HQ Dataset
+- CelebA-Spoof Dataset
+- CelebA-Dialog Dataset
+- CelebA-HQ dataset
+- Lingenfelter, B., Davis, S.R., Hand, E.M. (2022). A Quantitative Analysis of Labeling Issues in the CelebA Dataset
+- Böhlen, M., Chandola, V., Salunkhe, A. (2017). Server, server in the cloud. Who is the fairest in the crowd?
+- MIT Technology Review; December 10, 2020 - How our data encodes systemic racism
+- Biometric Update; Nov 27, 2020 - Report says lack of diversity in face biometrics datasets extends to expression, emotion
+- VentureBeat; July 24, 2020 - Researchers find evidence of bias in facial expression data sets
+- NBC News; March 19, 2019 - Facial recognition's 'dirty little secret': Millions of online photos scraped without consent
+- Daily Mail; October 31, 2017 - Look familiar? AI systems work together to produce eerily realistic faces of 'fake' celebrities
+- Forbes; October 30, 2017 - NVIDIA just made the face of AI a little more uncanny in the valley
+- Microsoft Celeb (MS-Celeb-1M) facial recognition dataset
+- Real-World Masked Face Dataset
+- Page info Type: Dataset/databasePublished: January 2023

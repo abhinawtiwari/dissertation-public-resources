@@ -1,0 +1,196 @@
+- Uber UpFront Fares driver pay algorithm
+- Released: February 2022
+- Can you improve this page?Share your insights with us
+- Reuters reports that Uber is testing a new algorithm that allows drivers in 24 cities across the US to see pay and destinations before accepting a trip and encourages drivers to take short rides at peak times.
+- Uber says its new Upfront Fare algorithm is based on 'several factors', including base fare, time and distance rates, and real-time demand at the destination. It also states that, 'in general', fares on short trips will go up whilst those on long trips will decrease.
+- However, some drivers say the new algorithm results in lower overall earnings, and that Uber appears to be taking a bigger cut of fares, according to The Markup.
+- Human and civil rights advocates worry the opacity of algorithmic fare calculations, notably the inability to verify how these system work and the impacts they have, means it is very hard to hold gig worker companies such as Uber to account.
+- Except California, where Uber started a similar programme in 2020, the company had resisted offering drivers the ability to see the fare and destination before accepting a trip on the basis that drivers may 'cherry-pick trips' or 'discriminate against riders in disadvantaged neighbourhoods'.
+- Uber is trying to encourage more drivers to sign up having lost many during the COVID-19 pandemic.
+- Operator: Uber Developer: UberCountry: USASector: AutomotivePurpose: Determine pay Technology: Pay algorithm Issue: Employment - pay; Fairness Transparency: Governance; Black box
+URL: https://www.uber.com/blog/all-new-upfront-fares/
+- You’re seeing information for US . To see local features and services for another location, select a different city.
+- Start ordering with Uber Eats
+- September 21, 2022 / US
+- Share
+- In some cities, it’ll now be easier to decide if a trip is worth your time and effort.Right when you receive a request, you’ll see:
+- The fares you’ll see won’t be based on fixed time and distance rates alone. Upfront Fares can be based on several factors. Some you know well, like time to pickup and time to destination, and some are new, like demand at the destination.
+- Upfront Fares are created in real time and reflect what’s happening around you. Here are 2 examples of what this means:
+- Upfront Fares will make short UberX trips more valuable to you. You will get a slightly higher amount on some short trips and a slightly lower amount on some long trips.
+- If there’s unexpected traffic and the trip gets a lot longer, your fare will increase
+- If there’s a change of pickup or dropoff address in the app while you’re on your way, your fare will be updated as you go
+- In your trip history, you’ll see a label on trips that have had earnings adjustments.
+- In all trip receipts, you can now see the exact fare you accepted up front. If your earnings are different from the original offer, your trip receipt will let you know why.
+- No, but keep in mind that now you will have a lot more information to help you decide which trips are worth your time and effort.
+- We will no longer post set time and distance rates since you’ll see the fare on every request before you accept it. With Upfront Fares, you’ll have more information to decide if a trip is worth your time and effort.
+- Upfront Fares are different in that they’re not based on fixed time and distance rates alone. Upfront Fares can be based on several factors. Some you know well, like time to pickup and time to destination, and some are new, like demand at the destination. If surge pricing is available on a trip, Upfront Fares will include it.
+- Upfront Fares are different in that they’re not based on fixed time and distance rates alone. Upfront Fares can be based on several factors. Some you know well, like time to pickup and time to destination, and some are new, like demand at the destination.
+- No matter what, you’ll see the fare on every request before you accept it, so you can decide if it’s worth your time and effort.
+- Items that are not included in Upfront Fares are wait time fees and tips, which continue to be added as soon as they’re paid out. Amounts related to Quests and other driver promotions will also continue to be added to your balance as they’re paid out.
+- Yes.
+- If there’s unexpected traffic and the trip gets a lot longer, you’ll see an increased fare on the trip receipt.
+- If there’s a change of address in the app while you’re on a trip, you’ll see an updated fare as you go.
+- You’ll typically earn the fare you saw up front even if you take a shorter route. So if you’d like, you can continue to choose a quicker or shorter route based on your own expertise.
+- Posted by Uber
+- Category: Driver products
+- December 30, 2022 / US
+- November 4, 2022 / US
+- October 31, 2022 / US
+- October 16, 2022 / US
+- September 19, 2022 / New Jersey
+- March 20 / New York City
+- Benefits and Earnings for NYC Drivers
+- May 24 / Global
+- Optimizing HDFS with DataNode Local Cache for High-Density HDD Adoption
+- March 23 / Global
+- Demand and ETR Forecasting at Airports
+- May 26 / US
+- How to improve paratransit service delivery with TNCs: answers to your questions
+
+URL: https://www.youtube.com/watch?v=MpfnqwnXXTs
+
+URL: https://therideshareguy.com/upfront-pricing-for-drivers/
+
+URL: https://www.reuters.com/business/autos-transportation/exclusive-uber-revamps-driver-pay-algorithm-large-us-pilot-attract-drivers-2022-02-26/
+- Feb 25 (Reuters) - Uber Technologies Inc (UBER.N) is testing a new driver earnings algorithm in 24 U.S. cities that allows drivers to see pay and destinations before accepting a trip and raises the incentives for drivers to take short rides in an effort to attract more drivers.
+- The changes, which are currently in pilot programs, mark the most wide-ranging updates to Uber's driver pay algorithm in years and come at a time when the company is still trying to win back drivers who left at the start of the pandemic. Fares paid by consumers are not affected.
+- Drivers have long demanded the ability to see the fare and destination before accepting a trip, but Uber has resisted, saying it could open the door to drivers cherry-picking trips or discriminating against riders in disadvantaged neighborhoods.
+- Uber already has a similar program in California, launched in the wake of a 2020 state battle over gig worker rights to prove its drivers are independent contractors.
+- But the company said its latest fare pilot in the United States was not related to gig worker regulation. The test has been rolled out in cities across Texas, Florida and the Midwest where gig worker reforms are not on the agenda.
+- "Gig work is very competitive, not just with Lyft (LYFT.O) but other platforms, and we think this feature really enhances our platform's competitiveness versus others," said Dennis Cinelli, Uber's head of mobility in the United States and Canada.
+- Cinelli said the pay changes at this point would not impact consumer prices, adding the changes "aren't financial features."
+- Uber declined to comment on the financial impact of the changes for the company, which could mean it has to incur higher costs for short trips.
+- Cinelli said the company had not seen any discrimination by drivers in California since the policy launched there in 2020.
+- "Otherwise, we wouldn't have rolled it out at this time," he said, adding that Uber had the ability to deactivate drivers who repeatedly declined trips based on race or low-income areas.
+- Providing drivers with upfront pay details meant the company also had to reduce earnings for longer trips to prevent drivers from avoiding short rides, Cinelli said.
+- Uber said data from some cities with upfront pay have shown a 22% average increase in driver earnings for trips in which the distance to the pickup location is longer than the trip itself.
+- Driver responses were mixed on some online groups. Some complained the new algorithm seemed arbitrary and no longer allowed them to calculate pay based on a per-mile (per-km) basis.
+- "My earnings are already destroyed by the high prices for gas and now Uber is taking even more money away from me on long trips," said Kevin Hernandez, a Houston driver.
+- Other drivers in online groups said the upfront fare information allowed them to select only higher-paying rides, with several drivers sharing screenshots of increased earnings since the altered algorithm was launched.
+- Expansion will depend on drivers. "If we're not seeing it attract and retain drivers we wouldn't roll it out further," Cinelli said.
+- Our Standards: The Thomson Reuters Trust Principles.
+- Thomson Reuters
+- U.S.-based business and finance journalist covering Uber, Lyft, Tesla and larger auto and transportation trends with a focus on electrification, tech, safety and regulation. Data-driven reporter with a track record of uncovering corporate strategies through data analysis. Previous work includes breaking news on the U.S. legal team and covering politics and companies from the German bureau.
+- Boeing Co is working on a deal to sell at least 150 737 Max jetliners to Saudi Arabian startup Riyadh Air, Bloomberg News reported on Sunday.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://themarkup.org/working-for-an-algorithm/2022/03/01/secretive-algorithm-will-now-determine-uber-driver-pay-in-many-cities
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- Working for an Algorithm
+- The company has long used ride time and mileage to decide driver pay but is now turning to an opaque calculation called “Upfront Fares”
+        
+        
+          
+
+By 
+Dara Kerr
+- Uber has quietly changed the way it pays drivers in several major cities across the U.S., using a new feature it’s calling “Upfront Fares.” Instead of paying drivers for trips based on just time and distance, it’s now using an algorithm “based on several factors” to calculate the fare. What all of those factors are is unclear. Uber has long used an upfront pricing algorithm to determine how much passengers pay, which is one of the reasons riders sometimes see vast price fluctuations.
+- The company says the new feature provides drivers with more transparency. They see more details of a prospective ride before accepting it, such as the fare and pick-up and drop-off locations, which is something drivers say they’ve been asking for. In the past, most drivers wouldn’t receive this information until after they accepted a ride.
+- Uber spokesperson Harry Hartfield said upfront fares are about giving drivers “more control and choice” but will include a “balancing” of payments. That means, he said, drivers will make less money for longer trips but should earn more on shorter trips.
+- Some drivers say, however, that they’ve mostly seen lower earnings overall since the change. On top of that, they say, it seems like Uber is taking a bigger cut of fares.
+- There’s no rhyme or reason to it.
+- “Before, you could guestimate—back of envelope calculate—and see that [the trip is] this far and this long and figure out you’ll make this much,” said Sam Vance, who’s been a full-time UberX and Lyft driver in Columbus, Ohio, for more than four years. Now, “it’s not based on anything. There’s no rhyme or reason to it.”
+- Uber has long said the average amount it takes from fares is about 25 percent. But Vance shared screenshots with The Markup of two recent trips he did for Uber that show the company took far more. One shows a customer paid $30 for a 20.9-mile trip, Vance earned $14, Uber got $13, and the rest went to sales tax. The other trip, which was 8.8 miles and included an airport drop, the customer paid $22, Vance got $6, Uber took $9, and the remainder went to airport fees and sales tax.
+- When asked about its take from Vance’s trips, Uber’s Hartfield said these trips were not necessarily representative of Uber’s usual take. Vance said that Uber often takes around half the fare.
+- Before Uber’s change in pay structure, Vance said he’d normally average around $1 per mile once time and distance were calculated, especially if he was driving on the highway. So, the 20.9-mile trip would have earned him about $21, and the 8.8-mile trip would have brought in roughly $9.
+- “Some drivers are really looking forward to this because they think it’s going to be a positive change,” Vance said. “But it’s not what you think it is.”
+- The Rideshare Guy blog (which partners with Uber and receives commissions for signing up new drivers for the company) was the first publication to detail Uber’s new pay structure. Reuters additionally reported on it last week. According to both sources, Uber has rolled out upfront fares to a total of 24 U.S. cities in states including Texas, Florida, and throughout the Midwest. It appears the company initially started testing the pay structure in a handful of cities about six months ago, including Columbus, where Vance lives.
+- Uber isn’t the first gig company to experiment with algorithms to calculate driver earnings. A few years ago, Instacart, DoorDash, and Shipt started calculating pay for their delivery couriers using what workers call “black box algorithms.” Anecdotally, many couriers for those delivery companies have said the seemingly arbitrary fluctuations of the pay algorithms have made it harder to predict and figure out their earnings. They also say they’ve seen their pay decline over time.
+- Worker advocates say using concrete factors, like time and mileage, helps drivers and couriers better assess if a trip is worth taking and understand how they’re being compensated.
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The more opaque the fare calculations, the more drivers, regulators, and the public have a hard time holding the gig companies accountable to fair and transparent pay standards, said Amos Toh, a senior researcher for Human Rights Watch who studies the effects of artificial intelligence and algorithms on gig work.
+- “Uber didn’t come out and say this is going to be algorithmic, but the criteria that they are using—a range of factors and things that aren’t specified—could indicate that the fares are going to disappear behind a black box algorithm,” Toh said. “When you put a fare calculation behind a black box algorithm, it’s possible to have the capacity to learn from driver behavior … and actually learn what is the lowest rate a driver will take for a ride.”
+- “We don’t have any evidence that Uber is doing this,” Toh added. “But the real problem is the secrecy, because it makes it impossible to verify.”
+- Uber’s Hartfield didn’t respond to questions about why Uber changed its pay structure in these markets, when the pilot first began, or whether it plans to take it nationwide. He also didn’t respond to questions about what cities currently have upfront fares or how Uber’s algorithm calculates driver fares.
+- [T]he real problem is the secrecy, because it makes it impossible to verify.
+- When asked for all of the factors that are taken into account to calculate drivers’ fares, Hartfield said in an emailed statement, “Rather than just the time and distance of the trip, upfront fares are based on a much more comprehensive set of factors including base fares, estimated trip length and duration, real-time demand at the destination, and surge pricing. While earnings are subject to seasonal demand patterns and the types of trips a driver chooses to take, we haven’t observed an earnings impact due to this pilot in cities that have had upfront fares for more than six months.” He didn’t respond to questions about whether this was the complete list of factors or whether there were more factors.
+- Hartfield said The Markup could “learn more about the pilot” from the blog post by The Rideshare Guy and also sent a link to a YouTube video by Uber about upfront fares, saying, “It’s worth looking through the comments under the video, most of which are from drivers saying they’d like to see these changes in more markets.”
+- Because it turns out moving fast and breaking things broke some super important things.
+- Because it turns out moving fast and breaking things broke some super important things.
+- The video has several comments from drivers saying they’re happy to see more trip information before accepting a fare. Other commenters say they don’t like the idea of being paid less for longer rides. Several Reddit threads and comments on driver forums have also popped up, with drivers who’ve tested the feature saying they’ve often seen lower fares, confusing fare drops during rides, and an overall decrease in rides.
+- Along with upfront fares, Uber has also rolled out a companion feature in those 24 cities called “Trip Radar.” The way it works is that Uber shows a trip to several drivers at once, and whoever accepts the ride first gets it. Vance said he usually only has a second or two to see it and click, so he doesn’t have time to see the upfront details right away.
+- “It’s kind of a moot point because it comes up so fast on the screen, and there are four or five other drivers tapping on it,” Vance said. “It’s like Hungry Hungry Hippos, and everyone is tapping.”
+- Hartfield didn’t respond to request for comment on drivers not having time to see upfront details with Trip Radar and having to compete for rides.
+- Vance said recently, in his haste to accept a ride, he got stuck on a five-hour round-trip drive to Cleveland. For that trip, he earned just $90. Before Uber instituted upfront fares, Vance said he liked doing longer trips. Back then, he said, a trip to Cleveland would usually net him at least $140.
+- “Because there’s no longer a rate card, that’s interrupted the way drivers drive. Your strategy just has to be different,” Vance said. “Now you have to stay out longer, and it takes a lot more to make money, and you don’t make as much.”
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Secretive Algorithm Will Now Determine Uber Driver Pay in Many Cities
+- From the series —
+    
+
+      Working for an Algorithm
+- Dara Kerr
+Enterprise Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://labsnews.com/en/news/business/uber-tests-algorithm/
+
+URL: https://thepaypers.com/mobile-payments/uber-tests-algorithm-that-changes-us-drivers-payments--1254972
+- The algorithm also raises the incentives for drivers to take short rides in an effort to attract more drivers. In Brazil, the second-largest market for the application and where inflation and the price of gasoline have been putting pressure on the earnings of partner drivers, it is already common to see drivers choosing shorter trips at peak times, source Latin America Business Stories (LABS) explains.
+- The changes, which are currently in pilot programmes, are part of a wide-ranging updates to Uber‘s driver pay algorithm and come at a time when the company is still trying to win back drivers who left at the start of the pandemic the news announcement continues. Fares paid by consumers are not affected.
+- Every day we send out a free e-mail with the most important headlines of the last 24 hours.
+- Subscribe now
+- We welcome comments that add value to the discussion. We attempt to block comments that use offensive language or appear to be spam, and our editors frequently review the comments to ensure they are appropriate. If you see a comment that you believe is inappropriate to the discussion, you can bring it to our attention by using the report abuse links. As the comments are written and submitted by visitors of the The Paypers website, they in no way represent the opinion of The Paypers.
+- The Paypers is the Netherlands-based leading independent source of news and intelligence for professionals in the global payment community.
+                        The Paypers provides a wide range of news and analysis products aimed at keeping the ecommerce, fintech, and payment professionals informed about latest developments in the industry.
+- tp:news
+tp:research
+tp:events
+- The Paypers
+                        Prinsengracht 777e
+                        1017 JZ Amsterdam
+                        The Netherlands
+- Telephone: +31 20 658 0652
+- © 2023 The Paypers BV. All rights reserved.
+                    No part of this site can be reproduced without explicit permission of The Paypers(V2.7).
+- Privacy Policy
+Cookie Statement
+Terms and Conditions
+
+URL: https://www.medianama.com/2022/03/223-uber-pilot-us-cities-fare-drop-details-drivers/
+- Hi, what are you looking for?
+- Can Taking Away Safe Harbour Fix Free Speech Issues In An Internet Dominated by A Few Tech Cos? #NAMA
+- Content Blocking Orders Not Following Free Speech Protections Upheld by Supreme Court: Experts at MarketsNama #NAMA
+- What are the problems that companies face when law enforcement agencies demand for data? #NAMA
+- Digital India Act Consultation in Mumbai: Live updates
+- AI Companies Pushing for Regulation: Key issues discussed in the US Subcommittee hearing on AI oversight
+- This could be the most significant update that the company has made to its algorithm in years.
+- By
+- Published
+- Uber is testing new driver algorithms in the US which will allow drivers to see the fare and drop location before accepting a trip, according to a Reuters report. It is unclear whether Uber will roll this feature out in other markets, including India, if this test is successful. The pilot is being run in 24 US cities as of now and the fares being paid by the consumers will remain unchanged. The test is underway in cities across Texas, Florida, and the midwestern states, the report added. Uber initiated a similar pilot in the state of California which went live in the aftermath of the 2020 battle over the status of gig workers. The company informed Reuters that its latest pilot is not related to gig worker regulation as many cities where this pilot is being conducted do not have gig economy reforms on their agenda The changes are likely to incentivise drivers to cancel fewer rides by offering them clarity over trip details upfront. It remains to be seen what impact this will have in India where customers have often complained of frequent driver cancellations. What will be the impact of this feature on Uber? The company did not disclose the financial impact of these changes which means that it will see an increase in its costs, Reuters suggested. Uber's head of mobility in the United States and Canada, Dennis Cinelli told Reuters that the company had to reduce earnings for long trips so that drivers refrained from avoiding…
+- I cover several beats such as Crypto, Telecom, and  OTT at MediaNama. I can be found loitering at my local theatre when I am off work consuming movies by the dozen.
+- Is it safe to consider all "publicly available data" as public?
+- PhonePe launched an e-commerce buyer app for ONDC called Pincode. We, however, believe that it should also launch a seller app.
+- Amazon announced that it will integrate its logistics network and SmartCommerce services with the Open Network for Digital Commerce (ONDC).
+- India's smartphone operating system BharOS has received much buzz in the media lately, but does it really merit this attention?
+- After using the Mapples app as his default navigation app for a week, Sarvesh draws a comparison between Google Maps and Mapples
+- Google has released a Google Travel Trends Report which states that branded budget hotel search queries grew 179% year over year (YOY) in India, in...
+- 135 job openings in over 60 companies are listed at our free Digital and Mobile Job Board: If you’re looking for a job, or...
+- By Aroon Deep and Aditya Chunduru You’re reading it here first: Twitter has complied with government requests to censor 52 tweets that mostly criticised...
+- Rajesh Kumar* doesn’t have many enemies in life. But, Uber, for which he drives a cab everyday, is starting to look like one, he...
+- MediaNama is the premier source of information and analysis on Technology Policy in India. More about MediaNama, and contact information, here.
+- © 2008-2021 Mixed Bag Media Pvt. Ltd. Developed By PixelVJ
+- © 2008-2021 Mixed Bag Media Pvt. Ltd. Developed By PixelVJ
+- Copyright © 2021 MediaNama. Made in India.
+
+- Deliveroo UK rider management algorithm
+- Doordash order matching algorithm
+- Page infoType: SystemPublished: February 2022Last updated: March 2022

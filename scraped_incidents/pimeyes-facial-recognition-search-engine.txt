@@ -1,0 +1,488 @@
+- Released: 2017
+- Can you improve this page?Share your insights with us
+- PimEyes is a tool that uses facial recognition technology to enable users to search for faces and identify people online. It was created in 2017 by Polish software developers Łukasz Kowalczyk and Denis Tatina, and purchased in 2021 by Georgian academic Giorgi Gobronidze.
+- PimEyes has been dogged by controversy since its launch about its impact on privacy and potential for surveillance, stalking, harassment, and extortion.
+- PimEyes scours news sites, review sites, blogs, wedding photography, and pornography sites for matches. The company says it does not include results from many social media sites. However, in March 2023, WIRED reported that software engineer and writer Cher Scarlett had been using stolen photos of dead people from Ancestry.com to train its algorithms.
+- PimEyes says it does not store photographs on its servers, but privacy campaigners are concerned the search tool allows anyone to identify and track anyone, including work colleagues, celebrities, politicians, and others. OneZero's Dave Gershgorn notes 'because anyone can search for anyone, services like PimEyes may generate more privacy issues than they solve.'
+- The power and accuracy of PimEyes also unnerves some commentators. The New York Times reports that it found years-old pictures even if the sample image featured people wearing sunglasses or face masks. And factors such as different facial hair, new hair styles, or the passage of time appeared to make little difference.
+- Others highlight the ease with which PimEyes can be used for various forms of illegal and unethical surveillance, harassment and abuse, including stalking, revenge porn, fraud, and trolling. In November 2022, UK pressure group Big Brother Watch lodged a legal complaint to the UK data and privacy watchdog claiming PimEyes facilitates 'surveillance and stalking on a scale previously unimaginable'.
+- PimEyes offers a number of subscription tiers for users to protect their identities and reputations. Digital rights organisations and others highlight the ineffectiveness of some of these services, and question PimEyes' purpose and sincerity. For example, German digital rights blog Netzpolitik labelled PimEyes little more than 'a payment model for mass searches'.
+- From the start, PimEyes has been reluctant to discuss its corporate and product governance, including its naming its directors and investors, how it obtains data, the types of organisations it works with, and what they do with the data it supplies. It also refuses to reveal how its algorithms work.
+- Operator: PimEyes Developer: PimEyes Country: UK; USA; Global Sector: Technology Purpose: Identify individuals Technology: Facial recognition Issue: Privacy; Surveillance; Safety; Dual/multi-use; Business model Transparency: Governance; Black box; Privacy; Marketing
+- PimEyes website
+- Big Brother Watch (2022). Legal complaint to UK Information Commissioners (pdf)
+- Netzpolitik (2020). A Polish company is abolishing our anonymity
+URL: https://onezero.medium.com/this-simple-facial-recognition-search-engine-can-track-you-down-across-the-internet-518c7129e454
+
+URL: https://fortune.com/2021/03/23/after-clearview-more-bad-actors-in-a-i-facial-recognition-might-show-up/
+- Hi, readers. Senior tech writer Aaron Pressman here, filling in for Jeremy. (To my Data Sheet subscribers of Data Sheet: hi again!)
+- Because the controversial Silicon Valley facial recognition startup Clearview A.I. is based in the United States and backed by U.S. investors, it’s subject not only to U.S. law but also the kind of public pressure that major media such as the New York Times can bring to bear. But what if a copycat tried to set up a similar service that anyone could pay to use, including stalkers, identity thieves, and whoever else? And what if they set up it up far beyond the reach of U.S. law and major media?
+- A couple of quick Google searches turn ups many possible candidates. Berify is aimed at helping artists and other creatives find pirated images, not faces. Social Catfish, as the name implies, is targeted at online daters worried about the real identity of the person they just swiped right on.
+- And then there’s PimEyes, a “mysterious new site” mentioned by the Times recently in its deep dive on Clearview. On first glance, PimEyes appears to be much like Clearview, promising to use its A.I-fueled algos to match an uploaded photo with images from all over the web and social media for a fee. And it’s open to anyone. I uploaded a picture snapped from my Mac’s webcam and it quickly returned a dozen accurate matches of me from across the Internet—and a bunch that were not me.
+- The web site says PimEyes is administered by Face Recognition Solutions Ltd., with this address: House of Francis, Room 303, Ile Du Port, Mahe, Seychelles. You know, Seychelles, the island chain off the coast of East Africa that is located more than 8,000 miles from the United States.
+- I corresponded a bit with the proprietors of the service. The owners bought the technology from a Polish startup in 2019, but declined to identify themselves further. The goal is to throw open the gates of A.I. facial recognition, they say:
+- “We truly believe that it is necessary to democratize facial recognition technology. Every person has the right to find themselves on the Internet, protect their privacy and defend themselves against scammers, identity thieves, or illegal usage of their image. Face recognition technology should not only be reserved for corporations or governments.”
+- The company notes that per its terms of service it is designed only to help a customer find their own image out on the Internet, not to allow for people to search for unknown persons. Search results include only the site where an image was found, not any personal data about the person pictured.
+- It does seems from the company’s pricing page that you might have to pay $80 a month to have your images blocked from the company’s search system. But my unidentified company rep points to a form on the web site where anyone can request an image to be deleted for free.
+- So perhaps for now the Pandora’s Box of A.I. facial recognition remains closed. For how much longer, nobody knows.
+- Aaron Pressman@ampressmanaaron.pressman@fortune.com
+- A popular Japanese online motorcycle enthusiast was not who she appeared to be. In posted pictures, Twitter user @azusagakuyuki looked like a young women riding a fancy Yamaha bike. But she was actually a 50-year-old man using FaceApp and other software to disguise his appearance. A reflection in the motorcycle's side mirror and an unusually hairy arm gave the man away.
+- The European Commission's proposed rules for "high risk" A.I. programs may have a big hole in their standards. Politico reports that the rules fail to address the potential for racial, gender and other types of bias that have commonly cropped up in A.I. systems in the United States. “We shouldn't see the issues of the potential harmful impact on racialized communities through tech as a U.S. issue," Sarah Chander of digital rights group EDRi tells the publication. "It's going to be wherever you find manifest structural discrimination and racial inequality."
+- Stanford University's Human-Centered Artificial Intelligence Institute released its annual data dump of A.I. developments. The pandemic failed to slow investment in A.I., as most companies reporting kept their dollars flowing steadily or increased their spending on A.I. projects. Jobs postings in the U.S., however, did decrease 8% from 2019 to 300,999 jobs. Journal postings and (virtual) conference attendance were up.
+- So-called soft-bodied robots, those made from flexible components that can reshape the machine for various tasks, may get a boost from a newly developed deep-learning technique. Because the robots can take on an almost infinite number of shapes, it can be hard to program them for adopting the most efficient shape for the job they're assigned. MIT researchers used a neural network to plan where sensors should be placed to help the robots adopt the best shape for a particular task.
+- With so many companies making so many promises to improve their environmental impact, who can keep track? A.I. to the rescue. A trio of European researchers has developed a deep neural language-based system called ClimeBert to read through thousands of corporate disclosures and assess how serious the companies are about taking action. The program found that, unfortunately, most of the voluntarily included language was boilerplate-copied or adopted from the Task Force for Climate-related Financial Disclosures, or TCFD. The study concludes sterner regulation is required to force companies to report true climate risks to their businesses.
+- In analyzing the disclosures of TCFD-supporting firms, ClimateBert comes to the sobering conclusion that the firms’ TCFD support is mostly cheap talk and that firms cherry-pick to report primarily non-material climate risk information. From our analysis, we conclude that the only way out of this dilemma is to turn voluntary reporting into regulatory disclosures.
+- Israeli startup raises $18.5 million to train A.I. with fake data By Jeremy Kahn
+- Why Russia is cracking down on social media By Daria Solovieva
+- U.S. military to test whether jetpacks are ready for the battlefield By Jackie Snow
+- Online sign-ups made the U.S. vaccine rollout less fair. Here’s how to fix them By David Z. Morris
+- How Intel’s new CEO can revive the chipmaker’s fortunes By Aaron Pressman
+- Spark Capital steps away from its investment in Dispo By Lucinda Shen
+- My wife and I made a double comic book-movie blunder last weekend. With all the hype around Zach Snyder's recut of the 2017 flop Justice League, we decided to watch both new and original versions to compare and contrast. We slogged through the Whedon movie, barely making until the end. A little silly, a lot incoherent. But the dark and humorless Snyder cut? We only made it about halfway. I can't even say which version was worse, but at least Whedon's was quick.
+- That had me thinking there must be a better way to go about comic-book movies. Researchers at Dalian University of Technology in China and City University of Hong Kong have an idea to reverse the flow from comic books to movies: Their A.I. system tries to turn movies into comic books. First a "key frame extraction" system tries to grab the most important images from a movie and turn them into comic-book panels. Then the system translates speech from the movie into text bubbles for the comic. The researchers picked some non-action movies and a TV show for their initial video-clip conversion tests: Titanic, The Message, Friends, and Up in the Air. But a panel of viewers found the comic books better than those produced by other automated systems. That seems like a pretty low bar, though. Maybe I'll stick with reading human-drawn comic books and watching non-comic book movies.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.dailymail.co.uk/sciencetech/article-8406157/Creepy-facial-recognition-search-engine-tracks-persons-photos-online.html
+- By Joe Pinkstone For Mailonline
+- Updated:  02:23 EDT, 8 April 2023
+- 
+- 73
+- View  comments
+- 
+- A Polish website called PimEyes uses facial recognition to search the internet for pictures of a person based on a single image.
+- That photo can be taken from a news site, social media, or an uploaded selfie, and the computer algorithm then shows matches on the web.
+- The free part of service shows photos it believes to be the same person, and rates the 'match' out of five stars.
+- It provides a generic name of the site where the picture is found (i.e. dailymail.co.uk), but does not provide a link or detailed information on the image's context.
+- For that added insight, it offers a premium service for £9.79 a day where customers can see exactly where the photo comes from.
+- This fee also allows users to set up alerts, which notify them when an image matching the one they have uploaded is added to the internet.
+- That means if a person inputs a picture of a stranger to the site and sets up an alert for their face, the system will let the customer know when it finds this stranger in a picture posted to Twitter, for example.
+- An online security expert slammed the technology and said it poses a 'very serious privacy implications' for users.
+- MailOnline tested the software on pictures of reporters and celebrities with mixed results.
+- Scroll down for video
+- This photograph of Amanda Holden was  taken today. It was inputted into the PimEyes system and the facial recognition revealed thousands of different images of the star
+- Pictured, the results from PimEyes when Amanda Holden's face was inputted into the software. The Polish company was extremely effective at finding other images of the Britain's Got Talent judge
+- PimEyes premium allows people to set up to 25 alerts. These could be used for 25 photos of a single person, to increase success odds, or be photos of 25 people.
+- Dave Gershgorn reports for OneZero that the site also offers contracts to law-enforcement agencies.
+- He reports that the facial recognition software has the ability to scan 'darknet websites' as well as the surface web, and says that PimEyes is incorporated into the app of at least one company, called Paliscope.
+- Paliscope is targeted at law-enforcement agencies to allow them to use facial recognition on images and files, to help identify suspects in a case.
+- Paliscope says it has partnered with 4theOne Foundation, an organisation which is dedicated to finding trafficked children.
+- PimEyes claims to allow people to protect their privacy and prevent the misuse of their images, but there are no safeguards in place to ensure a person uploads their own face.
+- There is nothing to prevent people uploading a photo of a stranger taken without permission and scouring the web for more details on their life.
+- The ability to seek out more images and information on a person from a single photo poses dangers to all manner of people.
+- PimEyes is not the first site to give the public access to facial recognition technology and search for a person's face online.
+- Earlier this year, Russian search engine Yandex was accused of providing an unregulated facial recognition system and violating personal privacy.
+- Yandex, which claims to conduct more than 50 per cent of Russian searches on Android, allows users to input an image and see results of the exact same person.
+- Another Russian company, called NtechLab, launched FindFace in 2016. This functioned in a similar way to PimEyes and was extremely popular.
+- It was eventually shut down and the tech adapted for state surveillance. The company's founders said at the time that they built the technology to help women find someone to date.
+- MailOnline reporters tested the site and found it had limited and temperamental success for a photo of a member of the general public. Pictured, two images that were uploaded. The selfie on the left was taken this morning and yielded no matches. The image on the right, from Facebook, did create matches
+- MailOnline tested the site to see how effective it was at finding non-famous people. When a selfie taken at my desk today was put into the system, it found no correct matches (pictured)
+- When a Facebook profile picture was used and not a new selfie, the site found more pictures which are available online (pictured, the results). However, it is worth noting that two of the results included the exact same image as the profile photo (top left)
+- Brian Higgins, a security specialist at Comparitech.com told MailOnline the site poses 'very serious and obvious privacy implications'.
+- 'I seriously doubt the developers are so naïve as to think it would only be used for its designated purpose,' he adds.
+- 'Unfortunately, the internet is not governed by any blanket privacy protections. Every site or platform will ask users to accept its Terms and Conditions.
+- 'These are almost always many pages long and will include reference to "image ownership" which often allows the provider rights to storage and use of any images.
+- When the Twitter display photo of MailOnline health editor Stephen Mathews (pictured) was fed into PimEyes, it found correct matches
+- 'The FindFace T&Cs were a prime example of this, yet global uptake was swift and substantial.
+- 'Unfortunately, nobody reads the Terms and Conditions, thus allowing platforms like PimEyes to leverage new and developing technologies to provide potentially unethical products and services.
+- 'The only solution to the problem is for individual internet users to take their own privacy more seriously and take steps to protect themselves.'
+- Pictured, the first page of PimEyes results when health editor at MailOnline, Stephen Matthews, used his Twitter profile picture. It correctly matched his face to more than ten results, however six of the results included the exact same photo (pictured)
+- Pictured, more results for Stephen Matthews (pictured). These matches are the correct person but they are all variations of two individual photos — smiling after receiving a journalism award and a front-on picture used in another MailOnline article. It did not find any surprising or hidden pictures
+- MailOnline has approached PimEyes for comment but, at the time of publication, has not received a reply.
+- MailOnline reporters tested the site and found it had limited and temperamental success for a photo of a member of the general public.
+- When used on celebrities however, the site was, unsurprisingly, far more effective.
+- Images of Amanda Holden, Piers Morgan and Boris Johnson all yielded hundreds of correct matches, showing the effectiveness of the technology for a face that is regularly in the public domain.
+- This photo, posted by Piers Morgan on his Instagram account today, was put into the PimEyes system
+- It appears to be more effective on high-resolution images already online, as opposed to new selfies that have not been shared before.
+- I submitted a selfie taken at my home desk this morning, which had not been posted online in any capacity (until the publication of this article), into PimEyes.
+- It failed to find any photos of myself online from this selfie, despite there being a number on social media and on the MailOnline site.
+- The photograph of Piers Morgan holding up a sausage roll yielded several different results of the journalist and TV personality from elsewhere on the internet (pictured)
+- However, when I used my Facebook profile picture it was more successful, finding  six photos. It is worth noting that two of the results included the exact same image.
+- But it did successfully identify my face in four photographs which are online, from various sources.
+- This ability differentiates it from mainstream search engines such as Google, which do not use facial recognition in image searches.
+- Pictured, British Prime Minister Boris Johnson. this photo was put into PimEyes and revealed thousands of matches
+- Instead, Google's technology looks for similar features such as attire and surroundings.
+- For example, if a white man with brown hair wearing a blue tie in front of a white background uses Google Image search on a selfie, it will provide images that match the description. It does not use data from a person's face.
+- PimEyes however, pulled up images where I was wearing a variety of clothes in different lighting and surroundings, indicating it does indeed use facial recognition.
+- Boris Johnson yielded thousands of hits of different photos of him when his face was uploaded into PimEyes when MailOnline tested his photo
+- Health editor at MailOnline, Stephen Matthews, used his Twitter profile picture and found the site was moderately successful.
+- Pictured, the image of MailOnline health reporter Connor Boyd which was inputted into the PimEyes system
+- It correctly matched his face to more than ten results, however six of the results were the exact same photo on different domains.
+- The other results were variations of two individual photos — smiling after receiving a journalism award and a front-on picture used in another MailOnline article.  It did not find any surprising or hidden pictures.
+- MailOnline health reporter Connor Boyd also tested the PimEyes technology.
+- After inputting a clear image, the software was able to correctly identify just one other image of Mr Boyd.
+- This image — a holiday photo from 2015 — was surprising as it is a photo with very little prominence online or on social media.
+- However, more readily available images of Mr Boyd were not identified by the software, despite his face appearing in past articles on MailOnline, one of the world's most read websites. All other results were incorrect.
+- MailOnline health reporter Connor Boyd also tested the PimEyes technology. After inputting a clear image, the software was able to correctly identify just one other image of Mr Boyd. This image — a five-year-old holiday photo (top left) — was surprising as it is a photo with very little prominence online or on social media
+- Felix Rosbach, product manager at German software developing firm comforte AG says there is only so much an individual can do to protect themselves from this tech.
+- He told MailOnline: 'As a private individual the only thing you can do to protect your data, is to make sure your social media profiles aren't publicly available and by only sharing data with trusted parties.'
+- But Mr Rosbach adds that there is unfortunately very little users can do if peers post pictures of you publicly.
+- He calls on the search engines themselves to ensure members of the public are protected.
+- He said: 'Search engines should make sure that these functionalities can't be misused.
+- 'But with machine learning software becoming broadly available, there will always be a page or an app that is able to offer this service.
+- 'Companies instead should and can make sure that sensitive consumer data is protected all the time.
+- 'And it's not only about securing the access to data – it's also about strong data protection to make sure data is useless in case of a data loss, a misconfiguration or a data breach.'
+- Share what you think
+- The comments below have not been moderated.
+- The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+- We are no longer accepting comments on this article.
+- EXCLUSIVE: Tina Turner spent her final months taking yoga classes at the park, shopping for Italian designer clothes and gourmet foods and driving her Porsche Cayenne around her lakeside village, where she was known as 'modest' and 'friendly'
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://theintercept.com/2022/07/16/facial-recognition-search-children-photos-privacy-pimeyes/
+- © THE INTERCEPT
+- ALL RIGHTS RESERVED
+- PimEyes makes sensitive images of children available to anyone with an internet connection.
+- Abusive parents searching for kids who have fled to shelters. Governments targeting the sons and daughters of political dissidents. Pedophiles stalking the victims they encounter in illicit child sexual abuse material.
+- The online facial recognition search engine PimEyes allows anyone to search for images of children scraped from across the internet, raising a host of alarming possible uses, an Intercept investigation has found.
+- Often called the Google of facial recognition, PimEyes search results include images that the site labels as “potentially explicit,” which could lead to further exploitation of children at a time when the dark web has sparked an explosion of images of abuse.
+- “There are privacy issues raised by the use of facial recognition technology writ large,” said Jeramie Scott, director of the Surveillance Oversight Project at the Electronic Privacy Information Center. “But it’s particularly dangerous when we’re talking about children, when someone may use that to identify a child and to track them down.”
+- Over the past few years, several child victim advocacy groups have pushed for police use of surveillance technologies to fight trafficking, arguing that facial recognition can help authorities locate victims. One child abuse prevention nonprofit, Ashton Kutcher and Demi Moore’s Thorn, has even developed its own facial recognition tool. But searches on PimEyes for 30 AI-generated children’s faces yielded dozens of pages of results, showing how easily those same tools can be turned against the people they’re designed to help.
+- While The Intercept searched for fake faces due to privacy concerns, the results contained many images of actual children pulled from a wide range of sources, including charity groups and educational sites. PimEyes previously came under fire for including photos scraped from major social media platforms. It no longer includes those images in search results. Instead, searches churn up a welter of images that feel plucked from the depths of the internet. Some come from personal websites that parents created anonymously or semi-anonymously to feature photos of their children, likely not anticipating that they could one day be pulled up by strangers taking snapshots of kids on the street.
+- One search for an AI-generated child turned up images of a real boy in Delaware, where a photographer had taken portraits of his family on a sunny spring day. When she posted the portraits in her online portfolio, the photographer omitted the boy’s name and other identifying details. But a determined person might theoretically be able to find such information. (The photographer did not respond to requests to comment for this article.)
+- Another search turned up a girl displaying a craft project at an after-school program in Kyiv, Ukraine, in a photo taken just before the war. A second page on the same website showed the girl at home this spring; by then, Kyiv was under siege, the program had gone remote, and teachers were assigning kids craft projects to complete from their kitchen tables.
+- A third search turned up a photo of a 14-year-old British boy that had been featured in a video about the U.K. educational system. The commentator gave the boy’s first name and details about the school he attended.
+- Still another search turned up a photo of a toddler from an American home-schooling blog, where the girl’s mother had revealed her first name and, when the family was traveling, rough whereabouts.
+- PimEyes is the brainchild of two Polish developers who created the site in 2017 on a whim. It reportedly passed through the hands of an anonymous owner who moved the headquarters to the Seychelles and then in December 2021 was purchased by Georgian international relations scholar Giorgi Gobronidze, who had met the site’s creators while lecturing in Poland.
+- In a wide-ranging video interview that stretched to nearly two hours, Gobronidze offered a vague and sometimes contradictory account of the site’s privacy protections.
+- He said that PimEyes was working to develop better safeguards for children, though he offered varying responses when asked what those might entail. “It’s a task that was given already to our technical group, and they have to bring me a solution,” he said. “I gave them several options.”
+- At the same time, he dismissed the argument that parents who post anonymous photos of their children have any expectation of privacy. “Parents should be more responsible,” he said. “I have never posted a photo of my child on social media or on a public website.”
+- On its website, PimEyes maintains that people should only use the tool to search for their own faces, claiming that the service is “not intended for the surveillance of others and is not designed for that purpose.” But the company offers subscriptions that allow people to perform dozens of unique searches a day; the least expensive package, at $29.99 a month, offers 25 daily searches. People who shell out for the premium service can set alerts for up to 500 different images or combinations of images, so that they are notified when a particular face shows up on a new site.
+- Gobronidze claimed that many of PimEyes’s subscribers are women and girls searching for revenge porn images of themselves, and that the site allows multiple searches so that such users can get more robust results. “With one photo, you can get one set of results, and with another photo you can get a totally different set of results, because the index combination is different on every photo,” he said. Sometimes, he added, people find new illicit images of themselves and need to set additional alerts to search for those images. He acknowledged that 500 unique alerts is a lot, though he said that, as of Thursday, 97.7 percent of PimEyes subscribers had a lighter account.
+- PimEyes’s previous owners marketed it as a way to pry into celebrities’ lives, the German digital rights site Netzpolitik reported in 2020. Following criticism, the company pivoted to claiming that the search engine was a privacy tool. Gobronidze said that fraught features were being overhauled under his ownership. “Previously, I can say that PimEyes was tailor-designed for stalkers, [in that] it used to crawl social media,” he said. “Once you dropped a photo, you could find the social media profiles for everyone. Now it is limited only to public searches.”
+- But many people clearly do not see PimEyes as an aid to privacy. The site has already been used to identify adults in a wide variety of cases, from so-called sedition hunters working to find perpetrators after the January 6 insurrection, to users of the notorious site 4chan seeking to harass women.
+- Nor do PimEyes’s marketing materials suggest much concern for privacy or ethics. In a version of the “people kill people” argument favored by the U.S. gun lobby, a blog post on the site blithely alludes to its many uses: “PimEyes just provides a tool, and the user is obliged to use the tool with responsibility. Everyone can buy a hammer, and everyone can either craft with this tool, or kill.”
+- “These things should only be instrumentalized with the clear and knowledgeable consent of users,” said Daly Barnett, a staff technologist at the Electronic Frontier Foundation. “This is just another example of the large overarching problem within technology, surveillance-built or not. There isn’t privacy built from the get-go with it, and users have to opt out of having their privacy compromised.”
+- Alarmingly, search results for AI-generated kids also include images that PimEyes labels as “potentially explicit.” The backgrounds in the labeled images are blurred, and since clicking through to the source URLs could contribute to the exploitation of children, The Intercept could not confirm whether they are, in fact, explicit. Gobronidze said that the labels are assigned in part based on images’ source URLs, and that often the photos are harmless. When PimEyes representatives do run across child sexual abuse images, he said, representatives report it to law enforcement.
+- But one example he gave shows how easily the site can be used to unearth abusive or illegal content. A 16-year-old girl had used her parents’ credit card to open an account, Gobronidze said. She soon found revenge porn videos that had been uploaded by an ex-boyfriend — images that likely fit the legal definition of child pornography. (He said PimEyes issued takedown notices for the websites and advised the girl to talk with authorities, her parents, and psychologists.)
+- Gobronidze was vague on how he might limit abuse of children on the site. Subscribing requires a credit card, PayPal, or Amazon Pay account, and users upload their IDs only when asking PimEyes to perform takedown notices on their behalf. By design, he said, the search engine only seeks matches in photos and does not guess at age, gender, race, or ethnicity. “We do not want to be a monster machine,” he said, dubbing a more heavy-handed approach “Big Brother.” But at another point in the interview, he said he was planning to exclude images of children from search results. Still later, he said that his technical team was figuring out how to balance these two conflicting goals.
+- PimEyes flags people who “systematically” use the engine to search for children’s faces, he said. Users who plug in one or two faces of children are typically assumed to be family members. If a PimEyes representative gets suspicious, he said, they might ask a subscriber for a document like a birth certificate that would prove that a user is a parent.
+- When asked how a birth certificate would rule out abuse or stalking by noncustodial parents, Gobronidze said that PimEyes might instead request a signed form, similar to what parents and legal guardians provide in some countries when crossing borders with a child, to show they have any other parent’s consent. In a later email, he said that PimEyes had twice asked for “documents + verbal explanation” for people who uploaded images of children, and that the site had subsequently banned one of the accounts.
+- “The fact that PimEyes doesn’t have safeguards in place for children and apparently is not sure how to provide safeguards for children only underlines the risks of this kind of facial recognition service,” said Scott, of EPIC. “Participating in public, whether online or offline, should not mean subjecting yourself to privacy-invasive services like PimEyes.”
+- The inclusion of children’s faces in PimEyes search results underscores just how fraught the facial recognition landscape has become. For years, victim advocacy groups have pushed for expanded use of the technology by law enforcement. The Kutcher-Moore nonprofit, Thorn, has developed a facial recognition tool called Spotlight that it provides to investigators working on sex trafficking cases, as well as to the National Center for Missing and Exploited Children. In a recent report, the center said that in 2021, Spotlight helped it identify over 400 missing children in online sex trafficking advertisements.
+- Commercial providers of facial recognition have also gotten into trafficking prevention. The controversial facial recognition company Clearview AI sells its tools to police for identifying child victims.
+- But those same tools can also be used to target the vulnerable. Clearview AI promoted the use of its database for child trafficking after being sued by the American Civil Liberties Union for endangering survivors of domestic violence and undocumented immigrants, among others. Prostasia Foundation, a child protection group that supports sex workers rights and internet freedom, contends that an earlier Thorn tool sometimes flagged images of adults, leading to the arrest of sex workers.
+- This tension is even more extreme with PimEyes, which has virtually no guardrails and smashes long-standing expectations of privacy for both adults and children.
+- Gobronidze said that PimEyes had talked to Thorn about using its tool Safer to detect child sexual abuse material using image hashing technology — a potentially odd relationship given that PimEyes makes images of children searchable to the general public, while Thorn aims to protect children from stalkers and abusers.
+- “There has been one exploratory call between our Safer team and PimEyes to show how Safer helps platforms detect, report and remove CSAM,” a Thorn spokesperson said, using the acronym for child sexual abuse material. “No partnership materialized after that single call and they are not users of Safer or any tools built by Thorn.”
+- When asked about concerns about its facial recognition tool, Thorn sent a statement through a spokesperson. “Spotlight is a highly targeted tool that was built specifically to identify child victims of sex trafficking and is only available to law enforcement officers who investigate child sex trafficking.”
+- In the United States, PimEyes could run up against a 1998 law requiring the Federal Trade Commission to protect children’s online privacy. But so far, U.S. regulators have homed in on sites that store images or information, said Emma Llansó, director of the Free Expression Project at the Center for Democracy and Technology. PimEyes crawls images hosted on other sites. “PimEyes is just scraping whatever they can get their hands on on the web and isn’t making promises to users about what it will and won’t do with that data,” Llansó said. “So it’s something of a gray area.”
+- Gobronidze is keenly aware of the distinction. “We don’t store any photos,” he claimed. “We don’t have any.”
+- That is not entirely true. PimEyes’s privacy policy holds that for unregistered users — anyone who uses the site without a paid account — it retains facial images, along with the “fingerprint” of a face, for 48 hours and that data from the photos indexed in results is stored for two years. A sample PimEyes search showed thumbnail images of faces — photos returned in search queries that the site has edited to blur their backgrounds. A network traffic analysis showed that those photos are hosted on a PimEyes subdomain called “collectors.”
+- In an email, Gobronidze said he had not previously heard or read about that subdomain and was “intrigued” to learn of it. He noted that he had forwarded the results of The Intercept’s analysis to PimEyes’s tech and data security units, adding that he could not “disclose [the] full technological cycle” because it is proprietary.
+- Scott, of EPIC, would rather not wait around for courts and regulators to consider the storage question. “Congress needs to act to not only protect our children, but all of us from the dangers of facial recognition technology,” he said. “Services like this should be banned. That’s how you should regulate it.”
+- Book recommendations and more from Intercept staffers.
+- Voices
+- America’s schmanciest people love Kissinger. Is it in spite of his monstrousness or because of it?
+- The End of Roe
+- Reporters are parroting — and spreading — sentimental falsehoods.
+- © The Intercept. All rights reserved
+
+URL: https://www.biometricupdate.com/202006/another-facial-recognition-firm-sees-money-in-biometric-mining
+- 
+- Executives at a Polish facial recognition service firm, PimEyes, say their software can look at an uploaded image and locate other images of that person online.
+- The service is similar to but more limited than Clearview AI‘s controversial face-scraping application. It also is not unlike a legacy service from a Russian neural network company that at one time searched social media profiles for matches to uploaded images.
+- PimEyes’ free tool searches only sites and platforms — including some social media sites — that are open to the public. Revenue is generated through premium services, according to media reports.
+- According to technology news site OneZero, premium features include getting alerts every time the tool recognizes a newly uploaded image matching one submitted by a customer. Search alerts can be set for up to 25 people.
+- There is a basic, 24-hour, account that costs $9.99, and allows for one alert. A so-called professional subscription is $14.69 per month, and provides multiple alerts.
+- The company also sells access to its database to developers, with a maximum of 100 million searches per month. PimEyes’ site indicates that this level costs $19.99 “+$100 credits for start.” It is not explained what that fee buys in terms of access time or number of comparisons.
+- It is hard to find a similar service that has proven successful and free of controversy.
+- Clearview AI continues to sell subscriptions through which organizations, namely law enforcement agencies, try to match uploaded images against the 3 billion to 4 billion photos that the company has scraped from social media platforms and other sources.
+- But it is mired in multiple lawsuits that threaten to multiply. And the leaders of social media sites — among the wealthiest one-percenters on the planet — are increasingly agitated that their members are being farmed by someone other than themselves.
+- In its early days NtechLab marketed FindFace, a tool with which a person could take a picture of literally anyone anywhere with a digital camera and match it against the world’s social media images.
+- NtechLab has moved on from what it called a dating app to government surveillance. A Forbes article in January 2020 indicates that the company has been paid at least $3.2 million to plug its algorithm into the tens of thousands of municipal surveillance cameras around Moscow.
+- biometric data  |  biometric matching  |  biometrics  |  face photo  |  facial recognition  |  PimEyes
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://eandt.theiet.org/content/articles/2020/08/how-online-facial-recognition-systems-could-endanger-our-personal-privacy/
+- Image credit: Dreamstime for background; Cloaked image of Ben Heubl
+- By Ben Heubl
+- Published Thursday, August 13, 2020
+- E&T reverse-engineered an online facial-recognition system and revealed how the trend towards facial-recognition-supported online search could expose users to unexpected privacy risks.
+- When I first used a tool called FindClone, I found myself face-to-face with a fake social media profile that stole my headshot as their profile image. A person decided it’s worth stealing my face for his or her fake VK profile, a social media platform dubbed the Russian answer to Facebook.
+- FindClone relies on facial-recognition software and compares your input image across millions of VK profile images. It’s free, but you must submit your phone number. I wasn’t shocked that someone stole my image – impersonation using another person’s headshot is scarily common; hackers, criminals and fake online daters (‘catfish’) do it all the time – what really concerned me was how easy it was to make a connection between my image and one of me swirling around in the deepest internet.
+- A concerning example is Clearview. According to news reports, the New York-based tech start-up scraped three billion headshots and other facial images from social media pages. Scraping is the term developers use for the act of saving data and images on local servers.
+- With this controversy, the firm hit the headlines around the world. Its CEO justifies the collection spree with being in accordance with applicable laws, arguing: “Individuals in these countries can opt-out.” So why is the company so hungry for our images?
+- The firm sells access to its database to law-enforcement agencies. The system simplifies their search, enabling them to compare a suspect’s image across Clearview’s database in a matter of moments. If they find a match, they can gather enough intelligence to make an arrest. The company’s marketing material celebrates helping to catch terrorists.
+- Critics said the company has changed little since its big coming out in 2019, including continuing to operate during the pandemic era. In March, Josephine Wolff, a New York Times opinion writer, wrote that the company’s product remains every bit as dangerous, invasive and unnecessary as it was before the spread of coronavirus.
+- What are we giving up if companies like Clearview can scrape billions of our personal social images? First, let’s look at the business. Clearview is not alone in the space. A recent investigation by Netzpolitik found Polish company Pimeyes, which scrapes images from the web and sells services to law-enforcement agencies. Pimeyes’ founders, Łukasz Kowalczyk and Denis Tatina, are reported to have amassed a database of 900 million faces.
+- How profitable these businesses are, we don’t know – as start-ups like these don’t have to disclose their accounts publicly. But it does raise questions whether new demand could encourage new supply. In other words, if business for serving law-enforcement services is lucrative, could we soon expect more firms to follow the examples of Pimeyes and Clearview to broker deals around our faces?
+- To answer that, we must ask what Clearview and Pimeyes do exactly. How does their offering work? It is best explained by a simplified example. We found that almost anyone can replicate the basic concept of building a facial-recognition system.
+- E&T emulated their operation by building a small facial-recognition database that was tested by being fed images of my face. It was straightforward, an endeavour you can easily replicate at home if you are a little bit tech savvy. It involved no more than a few lines of Python code (a popular programming language) to match images from a database with ones we wanted to test. The process is described step-by-step below.
+- How to build your own online facial-recognition system
+- To build such a simplified system, we must create a database of images to reflect the billions of headshots that Clearview collected. Then we run the algorithm to match those with our input images.
+- We will eventually explain what it takes to scale it up to dangerous levels – we don’t advocate this step, but it will help clarify the risks it poses to our online privacy.
+- Step 1: Installing the software
+- We installed a popular open-source python library called FaceRecognition. There are others, but we used this one as it’s an often-fancied option praised for its simplicity and alleged accuracy. The producers say it’s “the world’s simplest facial-recognition API for Python and the command line”.​
+- Image credit: Ben Heubl (cloaked images)
+- E&T’s experiment compared faces of the same person and tested whether the facial-recognition algorithm can identify the person from other images.
+- FaceRecognition was created using dlib’s face recognition and built relying on deep learning, according to its owners – deep-learning AI systems rely on use of multiple layers in the network. Model accuracy is 99.38 per cent on the Labelled Faces in the Wild, a public benchmark for face verification, making it a popular option and perfect for an experiment like ours.
+- E&T tested it on a few headshots of myself that have made it onto the internet over the course of several years. The results show the algorithm can make solid distinctions between various facial image types. It recognised me from a self-portrait, as well as from an image that hides my mouth (see graphic).
+- To get a more reliable sample and see what works and what doesn’t, we added additional images. Image-heavy social media networks are a good way to get started. Sources like Twitter or Linkedin, both of which I have used for years, as well as online magazines and newspapers that display my image, offer enough pictures for experimentation.
+- Visual data such as video content may also serve as an input source. Despite suffering in resolution quality, facial-recognition searches can work with videos if they are broken down into individual frames. When it comes to video, PimEyes’ partnership with Paliscope is noteworthy. Law-enforcement services use Paliscope’s facial-recognition capabilities to identify people in videos as well as documents.
+- So, why is this a concern for privacy? Let’s assume you went to a location that reveals personal information; a nightclub, a drug rehabilitation centre, an STI-testing clinic, or a regime critical protest, for example. Now, let us assume a stranger at the same location recorded a video or took photos and uploaded them to the internet. Theoretically, if this material reveals your face, it could expose you to anyone that has access to such software and who wishes to investigate you. A user who sees you and recognises you online remains relatively low risk, particularly given how big the internet is. An automated computer process that looks for your face can be more effective.
+- However, if Clearview has a client searching for you, an algorithm that scrapes the relevant images could help them spot you in no time. Needless to say, any third party – including the government – with the power to link your identity to the location or people you are seen with, could reveal personal information that you might prefer to keep private.
+- Step 2: Collecting a database
+- Online, I copy-paste every image I find of my face and save in a dedicated folder. Arguably, the process is more advanced for companies like Clearview. Instead of copy-pasting each image one-by-one, professionals run automated scraper programs that accelerate the data-gathering process.
+- Image credit: Ben Heubl, cloaked images
+- To establish a connection between identity and photos, the online images must have a reference. By this, we mean they need to be tagged with a name or information that links them to your identity. In order to be useful – or harmful, depending on your view – for anyone, including Clearview’s clients, the reference images must be indexed. We will do this by calling images by the correct name, such as ‘Ben_glasses.png’, ‘Ben_winterhat.png’ or ‘Ben_cap.png’ (see above).
+- Governments have an edge when it comes to indexed personal images as they may have your image already on file. They know who you are. For instance, I have a passport and a driver’s licence with an image of myself, of which authorities have a copy. If a malicious government wanted to check whether you went to those aforementioned locations, it could use your indexed passport photos on an image database to compare online videos and images. To what extent European GDPR rules can prohibit companies like PimEyes remains largely unclear.
+- Note how we keep two folders for our system: one folder with indexed images – the ‘known folder’; the other one with images that aren’t known – the ‘unknown folder’. We tell the open-source Python library to compare the folders. As the system finds matches between indexed and unindexed image folders, we are told about it via a note in the Mac OS Terminal window. You may also request a matching score. If we think the algorithm is a tad too insensitive – i.e., resulting in too many matches – we can adjust the dial for how sensitive the algorithm should be in comparing images.
+- Step 3: Scaling it up
+- The final step involves scaling it all up. This means instead of me using only a handful of images, we collect and compare billions of online images – one reason Clearview now faces an international probe.
+- Image credit: PimEyes screenshots; Ben Heubl
+- To see a scalable version working, you can try both FindClone and PimEyes. Both are freely accessible, which makes them more likely to be subject to abuse – for PimEyes, however, you can only upload an image shot from your laptop’s camera, which operators hope will demotivate abuse by those who like to find other people.
+- If you are based in a Western democracy, including the UK or the USA, PimEyes may give you better results as FindClone only operates on (mainly Russian) VK profiles.
+- We tested PimEyes and found the results to be astoundingly accurate. By uploading pictures of your face, results reveal where your visage appears on various platforms and which account was responsible for posting it. Out of five results for my lockdown look, which included new glasses, three were accurate. Two of the results surprised me because I completely forgot where and why I had taken the photos.
+- Privacy issues
+- Are all image searches bad? Some point to tech giant Google, which still offers a reverse image search. You can upload a picture and Google’s search results may include similar colours, patterns or backgrounds, and sometimes the same image that was uploaded. It does though, at the time of writing, avoid running facial-recognition software on your search. How long until this changes? A powerhouse like Google may find it a trivial challenge to make facial images searchable, and the implications are far-reaching. Any image taken of a person in the streets could suddenly become subject to reverse facial-image search. Results for social media profiles or documents could immediately reveal a person’s identity.
+- Google is constantly trying to improve searches, including those via images. You can already improve your odds of finding faces by adding “&imgtype=face” after the URL from which you’ve specified face results. But results remain mediocre at best and aren’t reliant on facial recognition.
+- Competition may also motivate Google to add more intrusive facial-recognition search features. Naturally, search engine operators aim to provide the best service as they try to avoid losing users. It is only logical to ship new features to produce better results. What does the competition do? Russian rival Yandex has already switched on facial-recognition features for its image search. That’s why its results are, some say, often superior to Google’s. Yandex also allows for searching images and text together.
+- If enough people switch away from Google to other search engines, could it push the company to make potentially unethical choices? Ethics is at the heart of the discussion. NtechLab, a facial-recognition company, was reported to have supplied the Russian government with mass-surveillance technology. Today, it serves the Russian state in Moscow to accommodate the effort of mass surveillance.
+- In 2016 NtechLab launched FindFace, which subsequently got shut down for public use and now only offers a paid-for version, which E&T did not test. It presented something similar to what PimEyes or FindClone offer for free.
+- Perhaps more controversially, since the pandemic it offered clients the ability to identify people who break Covid-19 lockdown rules. On its website, NtechLab claims “we at NtechLab are hard at work on adjusting and implementing our outbreak and quarantine control system to fight the pandemic”. NtechLab promises it can “recognise home-quarantined people and sends immediate notifications upon their appearance in the camera view even if the face is covered by a medical mask”. Privacy rights activists may find the idea irksome to allow facial recognition to help in hunting down lockdown breakers.
+- It’s not all bad, however, and online facial-recognition can have some advantages. With improved search features, finding intelligence on other netizens can come in handy for the police, investigators and users. Let’s assume you are ‘blind dating’ a person from online dating application Tinder. Checking whether the person is real and matches the description before you’ve met could help avoid nasty surprises and improve users’ safety.
+- There is a case for technical investigative journalists employing facial recognition for open-source intelligence work, and there have been occasions where FindClone or PimsEye proved to be useful to check disinformation and individual sources. In both cases here, the question is whether the threat to privacy is greater than the benefit.
+- Facial recognition remains a controversial topic and various governments have decided it is safer to outlaw it. Some concerns stem from caveats such as inaccuracy and concerns linked to racial bias. Recent Black Lives Matter protests highlighting the lack of racial equality will only add pressure.
+- In January, the EU commission said it would consider banning facial recognition for up to five years until it discovers acceptable ways to prevent abuse of the system.
+- Social media companies don't like it: PimEyes’ use of Instagram and YouTube content motivated them to take legal action against the search engine, and PimEyes risks heavy fines for potentially breaching GDPR rules – details remain unclear as to how high those fines could be, but similar breaches suggest they could be considerable. Last year, a fine of €200,000 was imposed on a company for using personal data from public sources.
+- So, what’s the solution to the privacy conundrum? More extreme policy intervention might work. There are other, more technical, solutions. One is image cloaking, which refers to a technique to make it harder for facial-recognition systems to identify people from images. By alternating tiny, pixel-level changes invisible to the human eye, a personal image is made unrecognisable by the facial-recognition system if the original model was trained on the basis of the altered image. Results by others, including tests run by the New York Times, confirmed that it works on new algorithms that use ‘cloaked’ images.
+- One major drawback remains: “Cloaking photos with Fawkes does not make your photos difficult to recognise,” explains Ben Y Zhao, professor of computer science at the University of Chicago. E&T tested image cloaking first hand by running the previous experiment on my face, though this time we used the Fawkes closing system on input images. An open-source Mac OS software package offers easy access to run the tool on images locally. Zhao’s explanation is the reason the cloaked images could still be matched with our DIY facial-recognition system, despite being cloaked. In short, cloaking doesn't work immediately and will only pay off over time as algorithms will use my cloaked images that I first have to make available on the web.
+- Systems like Fawkes still offer some hope in the fight for online privacy (all images in this article received a cloaking treatment). Perhaps one day we can go back to being anonymous netizens, something that made the internet a hit in the first place.
+- Sign up to the E&T News e-mail to get great stories like this delivered to your inbox every day.
+- England, Didcot, Oxfordshire
+- £31931 - £44166 per annum
+- England, Hampshire, Basingstoke / Berkshire, England, Reading
+- £27960 - £65000 per annum
+- Contact us
+- © 2023 The Institution of Engineering and Technology. The Institution of Engineering and Technology is registered as a Charity in England & Wales (no 211014) and Scotland (no SC038698).
+
+URL: https://www.nature.com/articles/d41586-020-03188-2
+- Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+- Advertisement
+- You can also search for this author in PubMed
+ Google Scholar
+- Cameras watch over Belgrade’s Republic Square. Credit: Vladimir Zivojinovic for Nature
+- In Belgrade’s Republic Square, dome-shaped cameras hang prominently on wall fixtures, silently scanning people walking across the central plaza. It’s one of 800 locations in the city that Serbia’s government said last year it would monitor using cameras equipped with facial-recognition software, purchased from electronics firm Huawei in Shenzhen, China.
+- 
+- Access Nature and 54 other Nature Portfolio journals
+- Get Nature+, our best-value online-access subscription
+- $29.99 / 30 days
+- cancel any time
+- 
+- Subscribe to this journal
+- Receive 51 print issues and online access
+- $199.00 per year
+- only $3.90 per issue
+- 
+- Rent or buy this article
+- Get just this article for as long as you need it
+- $39.95
+- 
+- Prices may be subject to local taxes which are calculated during checkout
+- Nature 587, 350-353 (2020)
+- doi: https://doi.org/10.1038/d41586-020-03188-2
+- Additional reporting by Richard Van Noorden.
+- Kak, A. (ed.) Regulating Biometrics: Global Approaches and Urgent Questions (AI Now Institute, 2020).
+- Google Scholar
+- Feldstein, S. The Global Expansion of AI Surveillance (Carnegie Endowment for International Peace, 2019).
+- Google Scholar
+- Ada Lovelace Institute. Beyond Face Value: Public Attitudes to Facial Recognition Technology (Ada Lovelace Institute, 2019).
+- Google Scholar
+- Buolamwini, J. & Gebru, T. Proc. Mach. Learn. Res. 81, 77–91 (2018).
+- Google Scholar
+- Learned-Miller, E., Ordóñez, V., Morgenstern, J. & Buolamwini, J. Facial Recognition Technologies in the Wild: A Call for a Federal Office (Algorithmic Justice League, 2020).
+- Download references
+- Is facial recognition too biased to be let loose?
+- The ethical questions that haunt facial-recognition research
+- Halt the use of facial-recognition technology until it is regulated
+- Why faces don’t always tell the truth about feelings
+- Researchers who agree to manipulate citations are more likely to get their papers published
+- Nature Index 03 MAY 23
+- COVID-19 amplified racial disparities in the US criminal legal system
+- Article 19 APR 23
+- Why open-source generative AI models are an ethical way forward for science
+- World View 18 APR 23
+- Rewriting the quantum-computer blueprint
+- Outlook 24 MAY 23
+- Commercializing quantum computers step by step
+- Outlook 24 MAY 23
+- Humans and algorithms work together — so study them together
+- Comment 10 MAY 23
+- Revealing vascular roadblocks in the brain
+- Outlook 24 MAY 23
+- Users choose to engage with more partisan news than they are exposed to on Google Search
+- Article 24 MAY 23
+- Global south’s bold carbon dioxide removal projects
+- Correspondence 23 MAY 23
+- Founded by prominent scientists and scholars, Westlake is committed to building a truly international, world-leading, research-focused university.
+- Hangzhou, Zhejiang, China
+- Westlake University
+- Westlake University is a new type of non-profit research-oriented university in Hangzhou, Zhejiang, the People's Republic of China, supported by pu...
+- Hangzhou
+- Westlake University
+- The labs of Sandeep Robert Datta and Michael E. Greenberg are seeking a postdoctoral fellow as part of a joint project to probe the molecular basis...
+- Boston, Massachusetts (US)
+- Harvard Medical School Department of Neurobiology
+- The Faculty of Social and Behavioural Sciences of Friedrich Schiller University Jena invites application for the CZS Endowed Professorship for art...
+- Jena, Thüringen (DE)
+- Friedrich-Schiller-Universität Jena
+- The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship at NTU supports research on applying AI techniques to STEM areas
+- Singapore (SG)
+- Nanyang Technological University (NTU)
+- 
+- Is facial recognition too biased to be let loose?
+- The ethical questions that haunt facial-recognition research
+- Halt the use of facial-recognition technology until it is regulated
+- Why faces don’t always tell the truth about feelings
+- An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+- Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+- Nature (Nature)
+                
+
+ISSN 1476-4687 (online)
+    
+
+ISSN 0028-0836 (print)
+- © 2023 Springer Nature Limited
+
+URL: https://edition.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html
+- You probably haven’t seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you.
+- If you upload a picture of your face to PimEyes’ website, it will immediately show you any pictures of yourself that the company has found around the internet. You might recognize all of them, or be surprised (or, perhaps, even horrified) by some; these images may include anything from wedding or vacation snapshots to pornographic images.
+- PimEyes is open to anyone with internet access. It’s a stark contrast from Clearview AI, which became well-known for building its enormous stash of faces with images of people from social networks and limits its use to law enforcement (Clearview has said it has hundreds of such customers).
+- PimEyes’ decision to make facial-recognition software available to the general public crosses a line that technology companies are typically unwilling to traverse, and opens up endless possibilities for how it can be used and abused.
+- Imagine a potential employer digging into your past, an abusive ex tracking you, or a random stranger snapping a photo of you in public and then finding you online. This is all possible through PimEyes: Though the website instructs users to search for themselves, it doesn’t stop them from uploading photos of anyone. At the same time, it doesn’t explicitly identify anyone by name, but as CNN Business discovered by using the site, that information may be just clicks away from images PimEyes pulls up.
+- “Using the latest technologies, artificial intelligence and machine learning, we help you find your pictures on the Internet and defend yourself from scammers, identity thieves, or people who use your image illegally,” the website declares.
+- It’s precisely this ease of access that concerns Clare Garvie, a senior associate at Georgetown Law’s Center on Privacy and Technology, who has extensively researched police use of facial-recognition technology.
+- “Face recognition at its foundation is a tool of identification,” Garvie told CNN Business. “Think of any reason a person would want to conduct an identification — positive and negative — and that’s what this tool makes possible.”
+- PimEyes lets users see a limited number of small, somewhat pixelated search results at no cost, or you can pay a monthly fee, which starts at $29.99, for more extensive search results and features (such as to click through to see full-size images on the websites where PimEyes found them and to set up alerts for when PimEyes finds new pictures of faces online that its software believes match an uploaded face).
+- The company offers a paid plan for businesses, too: $299.99 per month lets companies conduct unlimited searches and set up 500 alerts.
+- The images come from a range of websites, including company, media and pornography sites — the last of which PimEyes told CNN Business that it includes so people can search online for any revenge porn in which they may unknowingly appear.
+- Clearview AI has billions of our photos. Its entire client list was just stolen
+- But while Clearview AI built its massive stockpile of faces in part by scraping images from major social networks (it was subsequently served with cease-and-desist notices by Facebook, Google, and Twitter, sued by several civil rights groups, and declared illegal in Canada), PimEyes said it does not scrape images from social media. (A Clearview AI spokesperson would not confirm whether the company currently grabs photos from social sites such as Facebook and Twitter, just saying that the company “collects only public data from the open internet.” The company’s CEO has said in the past that it has a first-amendment right in the United States to collect publicly available information.)
+- Although PimEyes instructs visitors to only search for their own face, there’s no mechanism on the site to ensure it’s used this way. Several Twitter users claim to have used it in an effort to identify US Capitol rioters, for example — efforts that PimEyes told CNN Business it is aware of but that are unavoidable, despite being a violation of the site’s terms and conditions, since PimEyes can’t verify who is performing a search for a given face. The site, PimEyes noted, doesn’t identify by name those who search for faces nor those whose faces show up in search results.
+- There’s also no way to ensure this facial-recognition technology isn’t used to misidentify people. There are a handful of US state laws restricting the use of facial-recognition systems and city-wide bans on it, yet these rules tend to target how government and businesses might use such software, not individuals.
+- PimEyes’ ease of access and the lack of enforcement of its own search rules makes it a tool primed for online stalking and surveillance, said Lucie Audibert, legal officer with London-based human rights group Privacy International.
+- “In the hands of random citizens, like you or me, it becomes a creepy stalking tool where you can identify anyone on the streets or in any public space,” Audibert said.
+- To get a sense for what PimEyes can do and how well it works, CNN Business paid for the $29.99-per-month individual subscription, which gave me the ability to conduct 25 “premium” searches per day, see all the search results PimEyes dredged up from around the internet, and the ability to set up alerts for any new images that PimEyes comes across.
+- I conducted multiple searches for my face online, using new and old photos featuring different hairstyles. In some I wore glasses; in others I did not. Sometimes, before PimEyes would conduct a search, a pop-up forced me to check two boxes saying I accepted the site’s terms of service and that I agreed to use a photo of my face to conduct the search.
+- The results that were actually pictures of me (and not, say, pornographic images of similar-looking women, of which there were plenty) were mostly familiar. These included work-related headshots, still images from videos I recorded while testing gadgets years ago, and a picture of me smiling with my high school journalism teacher.
+- There was one surprise: a photo of me dancing at a friend’s wedding in 2013. I hadn’t realized the picture was taken at the time, but that’s not what was startling. Rather, it was the fact that I’m hardly in the picture at all. On the right side of the frame, you can see part of my face, in profile.
+- My eyes appear closed and I’m wearing black glasses. It’s a blurry image, but it’s definitely me.
+- A false facial recognition match sent this innocent Black man to jail
+- With PimEyes, I could trace a selfie to my identity with just a few clicks. As a journalist with headshots and biographies at multiple publications’ websites, it’s pretty easy to connect my face to my name online. So I tried again with the image of a friend (after first getting his consent) who works in another field and has a smaller online presence; one of the first results was from his website, which has his name in the URL.
+- With their permission, I also ran several co-workers’ selfies through PimEyes to see what popped up. It revealed photos documenting bits and pieces of my colleagues’ pasts: my boss’s wedding, the adoption of another manager’s dog, the time a fellow reporter’s funny facial expression was turned into a meme when he was in college (he knew this, fortunately). In multiple cases, it only took a click or two to connect faces to names.
+- I wanted to learn more about how PimEyes works, and why it’s open to anyone, as well as who’s behind it. This was much trickier than uploading my own face to the website. The website currently lists no information about who owns or runs the search engine, or how to reach them, and users must submit a form to get answers to questions or help with accounts.
+- Poring over archived images of the website via the Internet Archive’s Wayback Machine, as well as other online sources, yielded some details about the company’s past and how it has changed over time.
+- The Pimeyes.com website was initially registered in March 2017, according to a domain name registration lookup conducted through ICANN (Internet Corporation for Assigned Names and Numbers). An “about” page on the Pimeyes website, as well as some news stories, shows it began as a Polish startup.
+- An archived image of the website’s privacy policy indicated that it was registered as a business in Wroclaw, Poland, as of August 2020. This changed soon after: The website’s privacy policy currently states that PimEyes’ administrator, known as Face Recognition Solutions Ltd., is registered at an address in the Seychelles. An online search of the address — House of Francis, Room 303, Ile Du Port, Mahe, Seychelles — indicated a number of businesses appear to use the same exact address. This suggests that, while it may be registered in the archipelago nation (which is on the European Union list of tax havens), it may be operating elsewhere.
+- PimEyes positions itself as a tool for finding pictures of yourself online, yet this was not always its focus. An image of the website from October 2018, for instance, indicates it instructed users to upload a photo of whomever they wanted to look for. It showed pictures of celebrities such as Angelina Jolie, Rihanna, and Donald Trump as examples.
+- In June 2020, some news articles noted how PimEyes may be used by stalkers. In one piece, PimEyes told the BBC that the website’s aim was to help individuals “fight for their own online privacy,” including finding fake profiles, leaked images, and unauthorized photo usage. At the time, it also told the BBC that it worked with police forces via a software investigation tool called Paliscope (and an archived version of the PimEyes’ website’s “Frequently Asked Questions” indicated that PimEyes marketed to law enforcement as recently as that month; though that reference was gone a few days later, a company blog post suggests PimEye’s technology can be used to “look for criminals or missing persons.”)
+- In early July, the website suddenly emphasized personal privacy. “Upload your photo and find where your face image appears online. Start protecting your privacy,” PimEyes’ site said at the time.
+- The shift makes sense to Garvie, who pointed out that, initially, Clearview AI was more widely available than it is now (she knows someone, she said, outside of law enforcement, who had the app on his phone).
+- She thinks PimEyes more strongly resembles Russian facial-recognition software FindFace than Clearview; FindFace, which was available to consumers in Russia, gained prominence in 2016 for its ability to match up faces in user-submitted images to pictures on Russian social network Vkontakte. (The software, which was also used to identify and badger Russian sex workers, is currently available just to business and government customers.)
+- To learn more about how the site works, CNN Business sent a note to a generic-sounding PimEyes email address, which was listed on an old version of the website’s privacy policy. It yielded an anonymous response from someone who referred to themselves as “PimEyes Team”; they said the site had been purchased from its previous owners in 2020 (the website did indicate new owners, along with a new look, in September, but CNN Business could not verify whether or how the change in ownership occurred).
+- They refused to conduct a formal interview, saying they “don’t take part in live interviews or direct interviews,” but that they would answer questions sent via email. Over multiple messages they answered a number of questions, but ignored or sidestepped others, such as why the company had switched its focus from suggesting users search for anyone to searching just for yourself.
+- This new tool can tell you if your online photos are helping train facial recognition systems
+- They would not say how much they paid to purchase PimEyes from its prior owners, nor why they bought it, though they did write the company is currently based in the Seychelles due to the country’s “good incorporation environment.”
+- When asked where employees are actually based, they answered that PimEyes has an “international team, but we don’t want to disclose details.”
+- Our emails back and forth did reveal a potential clue about their location, however, due to timestamps. The first note I sent them was timestamped at 11:58 am, PDT, on Thursday, April 8; their response, which I got the next day at 2:31 am my time, included my note, but this time the timestamp above my words read 20:58, or 8:58 pm. When it’s 11:58 am in California, it’s 8:58 pm in a number of places, including Poland. This same nine-hour time difference was evident across numerous emails.
+- They confirmed that the facial-recognition search engine works similarly to other such systems, by comparing measurements between different facial features in one image (the one you upload) to those in others (in this case, ones it has found online). In order to match up the faces that users submit, PimEyes must scour the internet for images of people. PimEyes doesn’t save images from around the internet, they explained, but it does keep an index of facial-feature measurements from photos it has spotted on the web.
+- This kind of AI-driven image-matching is different from what happens when you upload a picture of yourself to a site such as Google Images and conduct a search: There, the results will include pictures of similar people (for me, that means lots of dark-haired women in glasses), but Google isn’t using facial measurements in the hopes of finding you, specifically, in other pictures online.
+- The person behind the PimEyes Team email would not provide a current figure for how many faces it has indexed. But according to archived images of PimEyes.com, as of August 2018, PimEyes said it had analyzed “over 30 million websites”, and in November 2019, the company claimed to have analyzed 900 million faces (Clearview AI, by comparison, claimed to have scraped over 3 billion photos from the internet as of February 2020).
+- When PimEyes’ search engine finds a match between the photo a user uploads and one PimEyes has previously seen online, it can pair the measurements of the previously analyzed photo with the web address where that photo is located. The website shows you an array of all the pictures it thinks look most like your own photo.
+- The search accuracy, the company claimed, is about 90%; in general, the accuracy of facial-recognition technology depends on many factors, such as the quality of face images that are fed into a system.
+- Portland passes broadest facial recognition ban in the US
+- The person behind the PimEyes Team email claimed the company doesn’t use photos that are uploaded by users to improve its software. PimEyes claims to delete images that are uploaded to the site after two days.
+- They would not name any paying business customers, only saying that “there are no law enforcement agencies among them”.
+- And while they confirmed there is no way to enforce the site’s policy of making users search only for themselves (a policy that seems contradicted, at the least, by offering its facial-recognition product to businesses), they pointed out that “any tool or service can be used against the purpose it was created for or its terms of use.”
+- “It is naive to think that if our search engine didn’t exist, harassers wouldn’t break the law,” they wrote. “On the other hand — we are available to everyone, so any victim of harassment or other internet crime can check themselves using our search engine.”
+- This accessibility is precisely what concerns Audibert, of Privacy International, and Garvie, of Georgetown. One of Audibert’s biggest concerns about PimEyes, she said, maybe even more so than with Clearview, is whose hands it could fall into. People could use it to identify others in public places, she points out, while private companies could use it to track people.
+- It could also result in plenty of users misidentifying the faces that the search engine thinks closely resemble the person they’re trying to find, the consequences of which could be enormous. Police already use facial-recognition systems to track down potential suspects, even though the technology has been shown to be less accurate when identifying people of color. Several Black men, at least, have been wrongfully arrested due to this use of facial recognition.
+- Garvie, who used PimEyes on an image of her own face, noticed that most of the results that were not her were of similar-looking White women in their 30s. This type of misidentification is common across facial-recognition algorithms, she said, and also makes it more likely that a person who sees those results will then make a misidentification.
+- Tech companies are still helping police scan your face
+- PimEyes’ technology could hurt people in other ways, too, such as by outing people who are transgender — intentionally or not. When Rachel Thorn, a professor at Kyoto Seika University, uploaded a recent photo of herself to PimEyes, she encountered other recent images of herself. There were also older images, she said, where she presented as masculine. She looks very different today, she said, but guessed that PimEyes may have picked up on similarities between facial features in a recent photo and old photos.
+- “As a transgender person it was not a great feeling to see old photos of myself show up. I’m pretty sure almost any transgender person would feel the same way,” she said.
+- Thorn, who studies Japanese graphic novels, known as manga, was impressed by the technology but also worried about how it could be abused. And since the site didn’t stop her from uploading anyone else’s image, she did: She looked up an acquaintance who had worked in pornography by uploading a selfie that person sent her. Sure enough, pornographic images of her friend popped up.
+- “I thought, ‘Oh my gosh’,” she said. “If you wanted to find out if someone had ever done work in porn, this would do it.”
+- Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+- © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.
+
+URL: https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html
+- Please enable JS and disable any ad blocker
+
+URL: https://uk.pcmag.com/security/140604/this-facial-recognition-site-is-creeping-everyone-out
+- We review products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+- A facial recognition tool called PimEyes has recently gone from unknown to infamous.
+- PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.
+- The New York Times reports that it found years-old pictures even if the sample image featured people wearing sunglasses or face masks. Other factors such as different facial hair, new hair styles, or the passage of time didn't seem to make all that much of a difference either.
+- For some a tool like PimEyes could be little more than a novelty. But for others it's a nightmare.
+- CNN reports that Cher Scarlett, a software engineer who led the #AppleToo movement before departing the company, is in the latter camp. The report then explains in detail how "PimEyes brought back a real-life nightmare that occurred nearly two decades ago."
+- Scarlett herself explains in a blog post that PimEyes charges her $300 per month to hide all images of her—some of which reportedly feature tags like "abuse," "torture," and "choke"—from its search results. (The images remain available on their original websites, however.)
+- PimEyes has responded to the resulting scrutiny with a blog post in which it says:
+- The company also says that it's "elaborated set of internal rules [sic]" and that "accounts with suspicious activities are being monitored and in case of concerns [sic] they are suspended." But the company also notes that items removed from its database as part of its opt-out program—which people have to pay for—may end up back in its database if they're uploaded elsewhere.
+- Unfortunately, calling attention to this issue has also made PimEyes more popular. The company updated its "News & Updates" page on May 25 to say that "due to increased traffic PimEyes administration had to set up queues for free users to ensure sustainability of the critical infrastructure." CNN published its report on May 24; the Times report went live on May 26.
+- Those reports exposed a widely available tool that charges between $30 and $300 per month for two very different services: allowing users to search its database on the one hand, and letting them hide themselves from search results on the other.
+- PCMag.com is a leading authority on technology, delivering lab-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+- PCMag is obsessed with culture and tech, offering smart, spirited coverage of the products and innovations that shape our connected lives and the digital trends that keep us talking.
+
+URL: https://cherp.medium.com/want-to-see-scenes-from-an-actual-sex-trafficking-torture-porn-check-out-pimeyes-cafc65de4f00
+
+URL: https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.bbc.co.uk/news/technology-63544169
+- Privacy campaign group Big Brother Watch has made a complaint against face recognition search engine PimEyes.
+- PimEyes enables people to look for faces in images which have been posted publicly on the internet.
+- Big Brother Watch claims it facilitates stalking and has complained to the UK data and privacy watchdog.
+- But PimEyes' chief executive Giorgi Gobronidze says it poses fewer risks related to stalking than social media or other search engines.
+- Mr Gobronidze told the BBC that because PimEyes only searches images posted publicly anyone misusing it "gets only the information available on the open internet".
+- Big Brother Watch's complaint to the Information Commissioner's Office (ICO) claims that PimEyes has enabled "surveillance and stalking on a scale previously unimaginable".
+- Starting with a person's picture, PimEyes finds other photos of them published online. This could include images on photo-sharing sites, in blog posts and news articles, and on websites.
+- Big Brother Watch says that by piecing together information associated with these images - for example the text of a blog post, or a photo on a workplace website - a stalker could work out a person's "place of work, or indications of the area in which they live".
+- "Images of anyone, including children, can be scoured and tracked across the internet," wrote Madeleine Stone, legal and policy officer at Big Brother Watch, as she announced the complaint.
+- She argued the tool could be secretly used by potential employers, university admissions officers, domestic abusers or stalkers, and said it threatened to "end anonymity as we know it".
+- The campaigners accuse PimEyes of unlawfully processing the biometric data of millions of UK citizens - arguing it does not obtain permission from those whose images are analysed.
+- However, PimEyes told the BBC it was technically impossible to tell how many UK citizens' faces it has analysed.
+- Mr Gobronidze also responded to accusations his search engine broke data protection law. He claimed it was "technically impossible to reconstruct a single photo" from the data the company held, "even if we put our entire database on the open web".
+- To make full use of PimEyes, users need to take out one of three types of paid subscription.
+- In its terms and conditions, the site says it is intended to allow people to search for publicly available information about themselves.
+- "PimEyes is not intended for the surveillance of others and is not designed for that purpose," it says.
+- But Big Brother Watch claims there are no safeguards against this. There has also been concern that the tool could be used to uncover the real identity of sex workers.
+- However Mr Gobronidze claims that PimEye's "data security unit" looks for suspicious activity, for example if a male user always looks for female individuals, or a user uploads a photo of a child.
+- And the site does allow people to opt out of their image appearing in results.
+- The company argues that there are positive uses of the tool, telling the BBC that it:
+- However, another face recognition search engine has found itself in legal hot water.
+- ClearviewAI's tool is not usable by the general public, and the firm says it is only available to law enforcement. Nonetheless it faced a £7.5m fine from the Information Commissioner's Office (ICO).
+- Responding to Big Brother Watch's call for an investigation the ICO said "We are aware of this matter and we are assessing the information provided."
+- How AI is helping to identify the dead in Ukraine
+- Free face-search tool 'could be used by stalkers'
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+- RCMP facial recognition covert surveillance
+- Ukraine-Russia war Clearview AI prisoner identification
+- Page info Type: SystemPublished: November 2022Last updated: March 2023

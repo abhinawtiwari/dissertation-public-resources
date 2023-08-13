@@ -1,0 +1,173 @@
+- Occurred: March 2019
+- Can you improve this page?Share your insights with us
+- A Tesla Model 3 hit a tractor-trailer turning on to a highway outside Miami, Florida, tearing the roof off the Tesla and killing its driver Jeremy Beren Banner.
+- The sherriff's report did not say whether the Tesla's Autopilot semi-autonomous driving system or its automatic emergency braking system were working at the time of the crash.
+- The National Transportantion Safety Board (NTSB) investigated and concluded that Autopilot had been engaged 10 seconds before the crash, and that the vehicle stopped detecting his hands on the wheel eight seconds before the crash.
+- Neither Autopilot nor the driver had attempted evasive manoeuvers, the NTSB found.
+- Operator: Jeremy Beren Banner Developer: Tesla
+- Country: USA
+- Sector: Automotive
+- Purpose: Automate steering, acceleration, braking
+- Technology: Driver assistance system; Self-driving system Issue: Accuracy/reliability; Safety
+- Transparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Wikipedia profile
+- NTSB investigation [No. HWY19FH008]
+- Tesla Deaths
+URL: https://www.extremetech.com/extreme/291549-tesla-model-3-in-fatal-accident-had-autopilot-engaged
+
+URL: https://www.nbcnews.com/news/us-news/man-dies-after-tesla-crashes-semitrailer-florida-n978466
+- 
+- Profile
+- Sections
+- tv
+- Featured
+- More From NBC
+- Follow NBC News
+- MIAMI — A federal safety agency is sending a three-member team to investigate a fatal crash involving a Tesla electric car and a semitrailer that is strikingly similar to a 2016 crash involving another vehicle made by the company.
+- The National Transportation Safety Board said late Friday on Twitter that the team would work in cooperation with the Palm Beach County Sheriff's Office, which is probing the Friday morning crash in Delray Beach.
+- A sheriff's report says the tractor-trailer was making a left turn onto a divided highway to head north when the southbound 2018 Tesla Model 3 hit the semi's driver side, tearing off the Tesla's roof as it passed under the trailer. The Tesla's driver, 50-year-old Jeremy Beren Banner, died at the scene.
+- The report didn't say whether the Tesla's Autopilot semi-autonomous driving system or its automatic emergency braking system were working at the time of the crash. Tesla released a statement Friday expressing sadness and saying the company is "working to learn more and are reaching out to the authorities to offer our cooperation."
+- The circumstances of the crash are much like one that occurred in May 2016 on the opposite side of Florida, near Gainesville. Joshua Brown, 40, of Canton, Ohio, was traveling in a Tesla Model S on a divided highway and using the Autopilot system when he was killed.
+- The NTSB, in a 2017 report, wrote that design limitations of the Autopilot system played a major role in the fatal crash, the first known one in which a vehicle operated on a highway under semi-autonomous control systems. The agency, which makes safety recommendations to the National Highway Safety Administration and other agencies, said that Tesla told Model S owners that Autopilot should be used only on limited-access highways, which are primarily interstates. The report said that despite upgrades to the system, Tesla did not incorporate such protections.
+- Tesla has said that Autopilot and automatic emergency braking are driver-assist systems, and that drivers are told in the owner's manual that they must continuously monitor the road and be ready to take control if necessary.
+- In January of 2017, NHTSA ended an investigation into the Gainesville-area crash, finding that Tesla's Autopilot system had no safety defects at the time.
+- But the agency warned automakers and drivers not to treat the semi-autonomous driving systems as if they could drive themselves. Semi-autonomous systems vary in capabilities, and Tesla's system can keep a car centered in its lane and away from other vehicles. It can also change lanes when activated by the driver.
+- The NTSB likely will incorporate the Delray Beach crash into other investigations from last year involving Tesla vehicles. Investigators are probing a fatal March 2018 crash involving a Tesla SUV near Mountain View, California. That vehicle was operating on Autopilot when it struck a freeway barrier, killing its driver, the agency determined.
+- In addition, the NTSB is investigating the crash of a Tesla Model S sedan that may have been using Autopilot when it hit a parked firetruck on Interstate 405 near Los Angeles. The driver told authorities the Autopilot was working at the time.
+- NHTSA also is looking into a May 11 crash involving a Tesla Model S near Salt Lake City. Autopilot was in use when the car hit a stopped fire department truck.
+- © 2023 NBC UNIVERSAL
+
+URL: https://www.theverge.com/2019/5/17/18629214/tesla-autopilot-crash-death-josh-brown-jeremy-banner
+- By  Andrew J. Hawkins, transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work has appeared in The New York Daily News and City & State.
+- On May 7th, 2016, a 40-year-old man named Joshua Brown was killed when his Tesla Model S sedan collided with a tractor-trailer that was crossing his path on US Highway 27A, near Williston, Florida. Nearly three years later, another Tesla owner, 50-year-old Jeremy Beren Banner, was also killed on a Florida highway under eerily similar circumstances: his Model 3 collided with a tractor-trailer that was crossing his path, shearing the roof off in the process.
+- There was another major similarity: both drivers were found by investigators to have been using Tesla’s advanced driver assist system Autopilot at the time of their respective crashes.
+- Autopilot is Level 2 semi-autonomous system, as described by the Society of Automotive Engineers, that combines adaptive cruise control, lane keep assist, self-parking, and, most recently, the ability to automatically change lanes. Tesla bills it as one of the safest systems on the road today, but the deaths of Brown and Banner raise questions about those claims and suggest that the Tesla has neglected to address a major weakness in its flagship technology.
+- There are some big differences between the two crashes
+- There are some big differences between the two crashes. For instance, Brown and Banner’s cars had completely different driver assistance technologies, although both are called Autopilot. The Autopilot in Brown’s Model S was based on technology supplied by Mobileye, an Israeli startup since acquired by Intel. Brown’s death was partly responsible for the two companies parting ways in 2016. Banner’s Model 3 was equipped with a second-generation version of Autopilot that Tesla developed in house.
+- That suggests that Tesla had a chance to address this so-called “edge case,” or unusual circumstance, when redesigning Autopilot, but it has, so far, failed to do so. After Brown’s death, Tesla said its camera failed to recognize the white truck against a bright sky; the US National Highway Traffic Safety Administration (NHTSA) essentially found that Brown was not paying attention to the road and exonerated Tesla. It determined he set his car’s cruise control at 74 mph about two minutes before the crash, and he should have had at least seven seconds to notice the truck before crashing into it.
+- Tesla had a chance to address this so-called “edge case,” when redesigning Autopilot, but it has failed to do so
+- Federal investigators have yet to make a determination in Banner’s death. In a preliminary report released May 15th, the National Traffic Safety Board (NTSB) said that Banner engaged Autopilot about 10 seconds before the collision. “From less than 8 seconds before the crash to the time of impact, the vehicle did not detect the driver’s hands on the steering wheel,” NTSB said. The vehicle was traveling at 68 mph when it crashed.
+- In a statement, a Tesla spokesperson phrased it differently, changing the passive “the vehicle did not detect the driver’s hands on the steering wheel” to the more active “the driver immediately removed his hands from the wheel.” The spokesperson did not respond to follow-up questions about what the company has done to address this problem.
+- In the past, Tesla CEO Elon Musk has blamed crashes involving Autopilot on driver overconfidence. “When there is a serious accident it is almost always, in fact maybe always, the case that it is an experienced user, and the issue is more one of complacency,” Musk said last year.
+- The latest crash comes at a time when Musk is touting Tesla’s plans to deploy a fleet of autonomous taxis in 2020. “A year from now, we’ll have over a million cars with full self-driving, software, everything,” he said at a recent “Autonomy Day” event for investors.
+- Those plans will be futile if federal regulators decide to crack down on Autopilot. Consumer advocates are calling on the government to open up an investigation into the advanced driver assist system. “Either Autopilot can’t see the broad side of an 18-wheeler, or it can’t react safely to it,” David Friedman, vice president of advocacy for Consumer Reports, said in a statement. “This system can’t dependably navigate common road situations on its own and fails to keep the driver engaged exactly when needed most.”
+- “Either Autopilot can’t see the broad side of an 18-wheeler, or it can’t react safely to it”
+- Car safety experts note that adaptive cruise control systems like Autopilot rely mostly on radar to avoid hitting other vehicles on the road. Radar is good at detecting moving objects but not stationary objects. It also has difficulty detecting objects like a vehicle crossing the road not moving in the car’s direction of travel.
+- Radar outputs of detected objects are sometimes ignored by the vehicle’s software to deal with the generation of “false positives,” said Raj Rajkumar, an electrical and computer engineering professor at Carnegie Mellon University. Without these, the radar would “see” an overpass and report that as an obstacle, causing the vehicle to slam on the brakes.
+- On the computer vision side of the equation, the algorithms using the camera output need to be trained to detect trucks that are perpendicular to the direction of the vehicle, he added. In most road situations, there are vehicles to the front, back, and to the side, but a perpendicular vehicle is much less common.
+- “Essentially, the same incident repeats after three years,” Rajkumar said. “This seems to indicate that these two problems have still not been addressed.” Machine learning and artificial intelligence have inherent limitations. If sensors “see” what they have never or seldom seen before, they do not know how to handle those situations. “Tesla is not handling the well-known limitations of AI,” he added.
+- Tesla has not yet explained in detail how it intends to fix this problem. The company releases a quarterly safety report about the safety of Autopilot, but that report is short on details. That means experts in the research community don’t have hard data that would allow them to compare the effectiveness of Autopilot to other systems. Only Tesla has 100 percent understanding of Autopilot’s logic and source code, and it guards those secrets closely.
+- “We need detailed exposure data related to when, where, and what conditions drivers are leveraging Autopilot,” said Bryan Reimer, a research scientist in the MIT Center for Transportation and Logistics, in an email to The Verge, “so that we can begin to better quantify the risk with respect to other vehicles of a similar age and class.”
+- Other Tesla owners have spoken out about Autopilot’s problem of perceiving trucks in the vehicle’s path. An anonymous Twitter user who uses the handle @greentheonly “hacked” a Model X and posts observations on Twitter and YouTube. They did this to “observe Autopilot from the inside,” they said in an email to The Verge. In March, their Model X encountered a tractor-trailer perpendicular to their path, similar to both Brown and Banner. The vehicle would have tried to drive underneath the truck had the driver not intervened.
+- According to @greentheonly’s data, the semi was not marked as an obstacle. But they decided not to tempt fate: “I did not try to approach the trailer and see if any of the inputs would change (but I bet not).”
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://electrek.co/2019/03/01/tesla-driver-crash-truck-trailer-autopilot/
+- Earlier today, a Tesla Model 3 owner died in a tragic accident with a semi truck. The Model 3 went under the truck’s trailer resulting “in the roof being sheared off as it passed underneath,” which is known as a “side underride” accident.
+- The circumstances are extremely similar to the famous 2016 fatal Autopilot crash. The accident is still under investigation and Autopilot hasn’t been ruled out.
+- We first learned of the accident, which happened in Delray, Florida, from a reader earlier this morning.
+- After contacting the Palm Beach County Sheriff’s office, we received the preliminary police report, which explains the accident:
+- “Vehicle 1 (V-1) was a tractor/trailer combination vehicle traveling eastbound on the driveway access to 14095 SR 7 (Pero Farms) preparing to turn left onto SR 7. Vehicle 2 (V-2) was traveling southbound on SR 7 within the outside lane approaching Pero Farms. After V-1 came to a brief stop at a stop sign, V-1 entered the southbound lanes of SR 7 pulling into the path of V-2. V-2 struck the driver side of V-1’s trailer resulting in the roof being sheared off as it passed underneath the trailer. V-2 continued southbound and came to a final rest approx 3/10th of a mile south of the collision. The driver of V-2 was pronounced deceased on scene.”
+- In this case, the Vehicle 1 is the tractor-trailer and Vehicle 2 is the Model 3.
+- It appears that this is the intersection where the accident happened:
+- The accident is reminscent of the tragic death of 45-year-old Joshua Brown in a collision with a truck while using the Autopilot of his Tesla Model S in Florida back in May 2016.
+- Neither Brown nor Autopilot managed to see the trailer of a truck crossing the highway and the car ended up going underneath the trailer and Autopilot kept driving another significant distance before coming to a stop.
+- It sparked a federal investigation into Tesla’s Autopilot system and eventually, NHTSA closed its investigation without finding any defect or issuing any recall.
+- In this new accident, the vehicle again kept going for over 500 yards (half a km) before coming to a stop.
+- We contacted Tesla about this new accident in Florida today and a Tesla spokesperson responded:
+- “We are deeply saddened to hear about this incident. We are working to learn more and are reaching out to the authorities to offer our cooperation.”
+- The local police force told Electrek that they were still also investigating the crash.
+- FTC: We use income earning auto affiliate links. More.
+- Subscribe to Electrek on YouTube for exclusive videos and subscribe to the podcast.
+- Tesla is a transportation and energy company. It…
+- The Autopilot is Tesla's advanced assisted drivi…
+- Fred is the Editor in Chief and Main Writer at Electrek.
+- You can send tips on Twitter (DMs open) or via email: fred@9to5mac.com
+- Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.
+- Get interesting investment ideas by Fred Lambert
+- ChargePoint Home WiFi Enabled Electric Vehicle (EV) Charger
+
+URL: https://www.reuters.com/article/us-tesla-crash/us-safety-agencies-to-investigate-fatal-tesla-crash-in-florida-idUSKCN1QJ031
+- Discover Thomson Reuters
+- By David Shepardson
+- 3 Min Read
+- WASHINGTON (Reuters) - The National Highway Traffic Safety Administration (NHTSA) and the National Transportation Safety Board (NTSB) said they are sending teams to investigate a fatal crash in Florida on Friday involving a Tesla Inc car and a semi-trailer.
+- The two agencies are investigating several crashes involving the use of Tesla’s driver assistance system Autopilot including a fatal crash in California in March 2018. NHTSA, the auto safety regulator, can demand a recall if it believes a defect poses an unreasonable risk, while the NTSB makes safety recommendations.
+- A spokesman for the U.S. Transportation Department that oversees NHTSA said late on Friday that “NHTSA’s Crash Investigation Division assigned a Special Crash Investigation team to investigate the crash”, while the NTSB said it is sending a team of three “to conduct a safety investigation”.
+- A report on Friday’s crash released by the Palm Beach County Sheriff’s Department did not indicate if Autopilot was engaged at the time of the crash that killed the 50-year-old Tesla Model 3 owner.
+- The report said the Tesla struck a tractor trailer and the roof was sheared off as it passed underneath the trailer and came to a rest three-tenths of a mile south of the collision. The driver was pronounced dead at the scene.
+- Tesla declined to comment on Friday.
+- Some Tesla drivers say they are able to avoid putting their hands on the wheel for extended periods when using Autopilot, while Tesla advises drivers that they must keep their hands on the steering wheel and pay attention at all times while using Autopilot.
+- NHTSA is also probing the January 2018 crash of a Tesla vehicle apparently traveling in Autopilot that struck a fire truck in Culver City, California, a May 2018 crash in Utah of a Tesla in Autopilot mode and a May 2018 Tesla accident in Florida that killed two teenagers and injured another but was not in Autopilot mode.
+- The NTSB is investigating three earlier Tesla incidents being reviewed by NHTSA, as well as an August 2017 Tesla battery fire in California, in which an owner ran the vehicle into his garage.
+- Friday’s crash is similar to the first fatal Tesla crash linked to Autopilot use.
+- In May 2016, a Tesla Model S driver was killed near Williston, Florida, using Autopilot when he slammed into a tractor trailer that also sheared off the vehicle roof.
+- The incident raised questions about the safety of systems that can perform driving tasks for extended stretches of time with little or no human intervention, but which cannot completely replace human drivers.
+- The NTSB said in September 2017 Tesla lacked proper safeguards that allowed the driver “to use the system outside of the environment for which it was designed and the system gave far too much leeway to the driver to divert his attention.”
+- In January 2017, NHTSA said its review found no evidence of defects in the 2016 fatal Autopilot crash that would require a recall.
+- Reporting by David Shepardson; Editing by Sandra Maler and Muralikumar Anantharaman
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://gizmodo.com/fatal-tesla-model-3-crash-in-florida-prompts-investigat-1833012986
+- A man driving a Tesla Model 3 in Delray Beach, Florida was killed in a collision with another vehicle early Friday that has prompted investigations by the National Transportation Safety Board and the National Highway Traffic Safety Administration.
+- The NTSB tweeted late Friday that it was sending a three-person team to investigate the incident, and that it will work together with the Palm Beach Sheriff’s Office on the probe. The NHTSA told Reuters that it too had dispatched an investigative team to look into the incident. Both agencies are currently looking into collisions involving Tesla’s self-driving mode.
+- A preliminary police report from the Palm Beach County Sheriff’s Office obtained by Electrek said the collision occurred at an intersection off Florida State Road 7 near Pero Family Farms. The 2018 Tesla Model 3 was reportedly headed southbound at the time that a tractor-trailer, pulling out of a driveway leading to Pero Family Farms after stopping at a stop sign, attempted to turn left onto the highway headed northbound.
+- At that time the tractor-trailer entered the path of the Tesla, and the latter hit the driver’s side of the trailer, “resulting in the roof being sheared off as it passed underneath the trailer,” the report said. The 50-year-old Tesla driver died on the scene, per Reuters. It is not clear whether the Tesla’s Autopilot mode was active at the time of the collision.
+- Per the police report, the Tesla Model 3 continued for nearly a third of a mile before coming to a complete stop. As several reports have noted, the incident bears remarkable similarities to another fatal crash involving a Tesla Model S that occurred in Florida in 2016.
+- During that incident, the Tesla struck a tractor-semitrailer in such a way that its roof was sheared off. The vehicle reportedly continued on through a “drainage culvert and two wire fences,” per an NTSB report on the incident, before hitting a utility pole and finally coming to a stop. The report said Autopilot systems were enabled at the time of the crash.
+- Tesla told Electrek that it was “deeply saddened to hear about this incident,” adding that it was contacting the authorities to cooperate in their investigation. We’ve reached out to Tesla for more information and will update this report if we hear back.
+- [Reuters]
+
+URL: https://uk.pcmag.com/infotainment-systems/127222/tesla-model-3-crashes-into-overturned-truck
+- We review products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+- Tesla is facing fresh questions this week regarding the safety of its Autopilot system after a Model 3 was recorded crashing at high speed into an overturned truck.
+- As Jalopnick reports, the crash occurred on Taiwan's National Highway 1 where a truck had overturned. Video footage posted on Twitter shows a white Model 3 approaching the overturned truck at speed and failing to stop. Even viewed from the opposite angle, it's hard to see if the Model 3 brakes are applied before the crash happened. It's also been suggested, but not confirmed, that none of the airbags in the Model 3 deployed.
+- The Fourth Highway Police Brigade reported the Model 3 was being drive by a 53-year-old man named Huang and that he was using the vehicle's assist system at the time of the crash. The Brigade suggests the brakes were applied "at the last moment" and therefore far too late to avoid an impact.
+- As with previous crashes, Tesla will no doubt want to review the data the car collected before commenting officially on what happened and where the fault lies. The company has been fighting back against claims its Autopilot systems is flawed and that its vehicles can catch fire for years now. We've also seen the opposite, where Tesla's Autopilot managed to predict a crash seconds before it happens, as well as avoid an incident the driver had no way of predicting would happen. It will be interesting to find out what happened this time as something clearly went wrong even if the driver was paying full attention.
+- PCMag.com is a leading authority on technology, delivering lab-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+- PCMag is obsessed with culture and tech, offering smart, spirited coverage of the products and innovations that shape our connected lives and the digital trends that keep us talking.
+
+URL: https://www.zdnet.com/article/tesla-fatal-model-3-crash-autopilots-operational-design-condemned/
+- Most Popular
+- The National Transportation Safety Board (NTSB) has published its final report into a fatality involving a Model 3 Tesla with Autopilot engaged, which crashed into a semi-tractor trailer in March 2019 on a highway in Delray Beach, Florida.
+- The NTSB says the probable cause of the accident was the semi driver's failure to give right of way, pulling out on to US Highway 441 in front of the oncoming Model 3.
+- However, the report also criticizes the Model 3 driver's over-reliance on Autopilot, which it says was partly Tesla's fault due to the way it had designed Autopilot.
+- "Contributing to the crash was the operational design of Tesla's partial automation system, which permitted disengagement by the driver, and the company's failure to limit the use of the system to the conditions for which it was designed," the NTSB said.
+- SEE: The new commute: How driverless cars, hyperloop, and drones will change our travel plans (TechRepublic cover story) | Download the PDF version
+- The 50-year-old driver of the Model 3 didn't appear to see the semi crossing the highway and traveled under it, sheering off the vehicle's roof.
+- NTSB says Tesla informed it that the Model 3's forward collision warning and automatic emergency braking systems were not designed to activate for crossing traffic or to prevent crashes at high speeds.
+- Tesla said the Autopilot vision system did not detect the truck as an object or threat as it crossed the path of the car.
+- NTSB also laid some blame for the fatality on way the National Highway Traffic Safety Administration's (NHTSA) has approached regulation of driver-assistance systems.
+- It slammed NHTSA last month over the death of an Apple engineer who was playing a mobile game while driving his Tesla Model X P100D SUV with Autopilot enabled in Mountain View, California.
+- SEE: Tesla yanks Autopilot features from used car because 'they weren't paid for'
+- NTSB said the NHTSA's "failure … to develop a method of verifying manufacturers' incorporation of acceptable system safeguards for vehicles with Level 2 automation further contributed to the crash".
+- "The Delray Beach investigation marks the third, fatal, vehicle crash we have investigated where a driver's over-reliance on Tesla's Autopilot and the operational design of Tesla's Autopilot have led to tragic consequences," said NTSB chairman Robert Sumwalt.
+- "In the Mountain View crash, that overreliance was coupled with the equally deadly menace of distraction, demonstrating the insidious nature of the threat and the lack of policy and technology to eliminate it," he added.
+
+URL: https://gizmodo.com/new-documents-reveal-one-driver-s-agony-and-confusion-d-1841720801
+- New documents released by the National Transportation Safety Board (NTSB) this week reveal the agonizing experience of one of the drivers involved in the fatal crash with a Tesla Model 3 in Delray Beach, Florida in 2019. The Tesla crash in Florida is one of two recent cases that have captured the federal government’s attention because the circumstances involved the company’s Autopilot technology.
+- The NTSB documents contain an interview with Richard Wood, a truck driver that was driving a tractor-trailer on March 1 in 2019. That morning, Wood pulled the tractor-trailer from a driveway and began to cross to the other side of a highway with light traffic. Jeremy Banner, the Tesla Model 3 driver, was heading to work and set his speed about 70 mph, even though the speed limit on the highway is 55. Banner had the Autopilot feature activated on his Tesla.
+- Billionaire tech founder Elon Musk made quite a splash in China today, where he took the stage to…
+- According to Wood, he saw two sets of car lights coming toward him but thought he had time to make it across. While Banner was traveling at 70 mph, Wood was driving at approximately 11 mph.
+- “It was dark and the cars looked like they was back further than what they was,” Wood told the NTSB investigators.
+- Moments later, tragedy struck, although Wood didn’t fully realize what had happened at first. Wood said that he “felt a push against my trailer” and got out of the vehicle. He saw debris stuck on the side of the trailer and a scruff mark down the side. Since it was dark, Wood couldn’t see much, and initially believed he was involved in a hit and run.
+- Upon closer inspection, he found that there were pieces of the Tesla’s windshield stuck on the trailer that looked pink, which led him to believe that the other driver was hurt. The truth doesn’t set in until another driver in a pickup truck approached him and asked what happened.
+- “And this guy in this pickup truck come up and goes, ‘are you the guy that drives this tractor?’ I said, ‘yeah.’ And he goes, ‘that dude didn’t make it,’” Wood recalled. “I said, ‘what are you talking about?’ He goes, ‘that guy’ – he goes, ‘it sheared the whole roof off his car.’ He goes, ‘he didn’t make it.’ And I just – I went downhill after that.”
+- You can’t buy Tesla’s electric Cybertruck yet, but you can get a vehicle that looks pretty close.…
+- In the end, Banner’s car drove underneath Wood’s tractor-trailer, which sheared off the Model 3’s roof and killed Banner. Wood didn’t see Banner because the momentum from the Model 3 moved the car so far down the road that it was out of sight for the truck driver. Data from Tesla’s computer indicate that Banner hit the brakes less than a second before the crash.
+- In a preliminary report, the NTSB stated that neither the preliminary data nor the videos from the accident indicate that the driver or the Autopilot executed evasive maneuvers.
+- After Wood interacted with the pickup truck driver, he told NTSB investigators that he went back to his truck and just sat there until the police arrived.
+- “I was just shaking,” Wood said, adding that, “And that’s all I’ve been thinking about since.”
+- The Delray Beach crash investigation is currently ongoing. In a news release, the NTSB stated that a final report on the crash, including the findings and probable cause, would be released in the coming weeks.
+- In addition to the Delray Beach crash, the NTSB also released documents related to another ongoing investigation centered on the crash of a Tesla Model X in Mountain View, California in 2018. The driver in that case, an Apple engineer named Walter Huang, died when his Tesla slammed into a concrete barrier on a Silicon Valley highway. Huang had the Autopilot feature on his Tesla Model X activated when he crashed.
+- Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on Saturday night when…
+- The NTSB documents reveal that Huang had told his wife about the Model X’s Autopilot and said that the feature had malfunctioned at that particular section of the highway on other occasions. The NTSB will begin deliberations over findings, recommendations and probable cause related to the case at its Feb. 25 public board meeting.
+- On its website, Tesla claims that Autopilot features are designed to assist users with the most burdensome parts of driving. Autopilot enables cars to steer, accelerate and brake automatically within their driving lanes. Nonetheless, Tesla states that current Autopilot features require “active driver supervision” and do not make the vehicle autonomous.
+
+- Tesla Model S runs red light on Autopilot, kills two
+- Tesla Model Y crashes into parked police car
+- Page infoType: IncidentPublished: March 2023

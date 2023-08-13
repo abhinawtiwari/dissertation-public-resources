@@ -1,0 +1,264 @@
+- Released: 2020
+- Can you improve this page?Share your insights with us
+- LAION is a German non-profit collective led by Christoph Schuhmann at the University of Vienna that has created a series of open-source datasets. These datasets have been used to train Stable Diffusion, Imagen and other text-to-image systems and models.
+- Launched in 2020 and comprising 400 million image and text pairings, LAION-400M was touted as the world's largest openly available dataset of image and text pairings. Its successor LAION-5b, comprising 5 billion pairings, was released in March 2022.
+- A 2021 audit (pdf) of LAION-400M by Abeba Birhane, Vinay Uday Prabhu and Emmanuel Kahembwe at University College Dublin, University of Edinburgh and UnifyID discovered that it contains 'troublesome and explicit images and text pairs of rape, pornography, malign stereotypes, racist and ethnic slurs, and other extremely problematic content.'
+- As Politico notes: 'When the researchers typed the word “Korean,” the model didn’t bring up images of BTS or bulgogi, but naked Korean women. Searching the word “Indian” brought up pictures of South Asian women being raped. 'Best president' brought up images of Donald Trump.'
+- The researchers argue that LAION-400M and other large language models are rarely managed in the interests of the individuals and organisation whose data is being collected and used. For instance, these systems often contain personal data collected without consent, and sometimes make it purposely difficult for individuals to remove their data.
+- In September 2022, AI artist 'Lapine' discovered that private medical photographs meant only to be available to her doctor had been used to train the image-text dataset LAION-5B. The dataset is supposed only to use publicly available images on the web.
+- Furthermore, given content collected for large language models is often second or third hand and are are unlikely to have been properly cleaned, the researchers recommend dataset creators need to be much more careful about licensing.
+- 'The rights of the data subject remain unaddressed here' the researchers argue (pdf). 'It is reckless and dangerous to underplay the harms inherent in such large scale datasets and encourage their use in industrial and commercial settings. The responsibility of the licence scheme under which the dataset is provided falls solely on the dataset creator.'
+- Operator: Stability AIDeveloper: LAION; Jenia Jitsev; Richard Vencu; Christoph Schuhumann Country: Germany Sector: Technology; Research/academiaPurpose: Improve large language training models Technology: Dataset; Machine learningIssue: Safety; Bias/discrimination - race, ethnicity; Privacy; CopyrightTransparency: Governance
+- Wikipedia profile
+- Website
+- Dataset
+- Research paper
+- Blog post
+- Birhane A., Prabhu V.U., Kahembwe E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes
+URL: https://www.unite.ai/are-under-curated-hyperscale-ai-datasets-worse-than-the-internet-itself/
+- By
+- Researchers from Ireland, the UK and the US have warned that the growth in hyperscale AI training datasets threaten to propagate the worst aspects of their internet sources, contending that a recently-released academic dataset features ‘troublesome and explicit images and text pairs of rape, pornography, malign stereotypes, racist and ethnic slurs, and other extremely problematic content'.
+- The researchers believe that a new wave of massive under-curated or incorrectly-filtered multimodal (for instance, images and pictures) datasets are arguably more damaging in their capacity to reinforce the effects of such negative content, since the datasets preserve imagery and other content that may since have been removed from online platforms through user complaint, local moderation, or algorithms.
+- They further observe that it can take years – in the case of the mighty ImageNet dataset, an entire decade – for long-standing complaints about dataset content to be addressed, and that these later revisions are not always reflected even in new datasets derived from them.
+- The paper, titled Multimodal datasets: misogyny, pornography, and malignant stereotypes, comes from researchers at University College Dublin & Lero, the University of Edinburgh, and the Chief Scientist at the UnifyID authentication platform.
+- Though the work focuses on the recent release of the CLIP-filtered LAION-400M dataset, the authors are arguing against the general trend of throwing increasing amounts of data at machine learning frameworks such as the neural language model GPT-3, and contend that the results-focused drive towards better inference (and even towards Artificial General Intelligence [AGI]), is resulting in the ad hoc use of damaging data sources with negligent copyright oversight; the potential to engender and promote harm; and the ability to not only perpetuate illegal data that might otherwise have disappeared from the public domain, but to actually incorporate such data's moral models into downstream AI implementations.
+- Last month, the LAION-400M dataset was released, adding to the growing number of multi-modal, linguistic datasets that rely on the Common Crawl repository, which scrapes the internet indiscriminately and passes on responsibility for filtering and curation to projects that make use of it. The derived dataset contains 400 million text/image pairs.
+- LAION-400M is an open source variant of Google AI's closed WIT (WebImageText) dataset released in March of 2021, and features text-image pairs, where an image in the database has been associated with accompanying explicit or metadata text (for example, the alt-text of an image in a web gallery). This enables users to perform text-based image retrieval, revealing the associations that the underlying AI has formed about these domains (i.e. ‘animal', ‘bike', ‘person', ‘man', ‘woman').
+- This relationship between image and text, and the cosine similarity that can embed bias into query results, are at the heart of the paper's call for improved methodologies, since very simple queries to the LAION-400M database can reveal bias.
+- For instance, the image of pioneering female astronaut Eileen Collins in the scitkit-image library retrieves two associated captions in LAION-400M: ‘This is a portrait of an astronaut with the American flag' and ‘This is a photograph of a smiling housewife in an orange jumpsuit with the American flag'.
+- American astronaut Eileen Collins gets two very different takes on her achievements as the first woman in space under LAION-400M. Source: https://arxiv.org/pdf/2110.01963.pdf
+- The reported cosine similarities that make either caption likely to be applicable are very near to each other, and the authors contend that such proximity would make AI systems that use LAION-400M relatively likely to present either as a suitable caption.
+- LAION-400M has made a searchable interface available, where unticking the ‘safe search' button reveals the extent to which pornographic imagery and textual associations dominate labels and classes. For instance, searching for ‘nun' (NSFW if you subsequently disable safe mode) in the database returns results mostly related to horror, cosplay and costumes, with very few actual nuns available.
+- Turning off Safe Mode on the same search reveals a slew of pornographic images related to the term, which push any non-porn images down the search results page, revealing the extent to which LAION-400M has assigned greater weight to the porn images, because they are prevalent for the term ‘nun' in online sources.
+- The default activation of Safe Mode is deceptive in the online search interface, since it represents a UI quirk, a filter which will not only not necessarily be activated in derived AI systems, but which has been generalized into the ‘nun' domain in a way that is not so easily filtered or distinguished from the (relatively) SFW results in terms of algorithmic usage.
+- The paper features blurred examples across various search terms in the supplementary materials at the end. They can't be featured here, due to the language in the text that accompanies the blurred photos, but the researchers note the toll that examining and blurring the images took on them, and acknowledge the challenge of curating such material for human oversight of large-scale databases:
+- ‘We (as well as our colleagues who aided us) experienced varying levels of discomfort, nausea, and headache during the process of probing the dataset.  Additionally, this kind of work disproportionately encounters significant negative criticism across the academic AI sphere upon release, which not only adds an additional emotional toll to the already heavy task of studying and analysing such datasets but also discourages similar future work, much to the detriment of the AI field and society in general.'
+- The researchers contend that while human-in-the-loop curation is expensive and has associated personal costs, the automated filtering systems designed to remove or otherwise address such material are clearly not adequate to the task, since NLP systems have difficulty isolating or discounting offensive material which may dominate a scraped dataset, and subsequently be perceived as significant due to sheer volume.
+- The paper argues that under-curated datasets of this nature are ‘highly likely' to perpetuate the exploitation of minority individuals, and address whether or not similar open source data projects have the right, legally or morally, to shunt accountability for the material onto the end user:
+- ‘Individuals may delete their data from a website and assume that it is gone forever, while it may still exist on the servers of several researchers and organisations. There is a question as to who is responsible for removing that data from use in the dataset? For LAION-400M, the creators have delegated this task to the dataset user. Given such processes are intentionally made complex and that the average user lacks the technical knowledge to remove their data, is this a reasonable approach?'
+- They further contend that LAION-400M may not be suitable for release under its adopted Creative Common CC-BY 4.0 license model, despite the potential benefits for the democratization of large scale datasets, previously the exclusive domain of well-funded companies such as Google and OpenAI.
+- The LAION-400M domain asserts that the dataset images ‘are under their own copyright' – a ‘pass-through' mechanism largely enabled by court rulings and government guidelines of recent years that broadly approve web-scraping for research purposes. Source: https://rom1504.github.io/clip-retrieval/
+- The authors suggest that grass-roots (i.e. crowd-sourced volunteers) could address some of the dataset issues, and that researchers could develop improved filtering techniques.
+- ‘Nonetheless, the rights of the data subject remain unaddressed here.  It is reckless and dangerous to underplay the harms inherent in such large scale datasets and encourage their use in industrial and commercial settings. The responsibility of the licence scheme under which the dataset is provided falls solely on the dataset creator'.
+- The paper argues that visio-linguistic datasets as large as LAION-400M were previously unavailable outside of big tech companies, and the limited number of research institutions that wield the resources to collate, curate and process them. They further salute the spirit of the new release, while criticizing its execution.
+- The authors contend that the accepted definition of ‘democratization', as it applies to open source hyperscale datasets, is too limited, and ‘fails to account for the rights, welfare, and interests of vulnerable individuals and communities, many of whom are likely to suffer worst from the downstream impacts of this dataset and the models trained on it'.
+- Since the development of GPT-3 scale open source models are ultimately designed to be disseminated to millions (and by proxy, possibly billions) of users worldwide, and since research projects may adopt datasets prior to them being subsequently edited or even removed, perpetuating whatever problems were designed to be addressed in the modifications, the authors argue that careless releases of under-curated datasets should not become a habitual feature in open source machine learning.
+- Some datasets that were suppressed long after their content had passed through, perhaps inextricably, into long-term AI projects, have included the Duke MTMC (Multi-Target, Multi-Camera) dataset, which was ultimately withdrawn due to repeated concerns from human rights organizations around its use by repressive authorities in China; Microsoft Celeb (MS-Celeb-1M), a dataset of 10 million ‘celebrity' face images which transpired to have included journalists, activists, policy makers and writers, whose exposure of biometric data in the release was heavily criticized; and the Tiny Images dataset, withdrawn in 2020 for self-confessed ‘biases, offensive and prejudicial images, and derogatory terminology'.
+- Regarding datasets which were amended rather than withdrawn following criticism, examples include the hugely popular ImageNet dataset, which, the researchers note, took ten years (2009-2019) to act on repeated criticism around privacy and non-imageable classes.
+- The paper observes that LAION-400M effectively sets even these dilatory improvements back, by ‘largely ignoring' the aforementioned revisions in ImageNet's representation in the new release, and spies a wider trend in this regard*:
+- ‘This is highlighted in the emergence of bigger datasets such as Tencent ML-images dataset (in February 2020) that encompasses most of these non-imageable classes, the continued availability of models trained on the full-ImageNet-21k dataset in repositories such as TF-hub,  the continued usage of the unfiltered-ImageNet-21k in the latest SotA models (such as Google’s latest EfficientNetV2 and CoAtNet models) and the explicit announcements permitting the usage of unfiltered-ImageNet-21k pretraining in reputable contests such as the LVIS challenge 2021.
+- ‘We stress this crucial observation: A team of the stature of ImageNet managing less than 15 million images has struggled and failed in these detoxification attempts thus far.
+- ‘The scale of careful efforts required to thoroughly detoxify this massive multimodal dataset and the downstream models trained on this dataset spanning potentially billions of image-caption pairs will be undeniably astronomical.'
+- 
+- * My conversion of the author's inline citations to hyperlinks.
+- 
+- Gartner Recognizes Leading Data Platform Weka as a Visionary
+- Amazon Mechanical Turk Pays Less Than 40% of US Minimum Wage, Research Suggests
+- Writer on machine learning, artificial intelligence and big data.
+Personal site:  martinanderson.ai Contact:  [email protected] Twitter: @manders_ai
+- What Is Data Storytelling? Components, Benefits, & Examples
+- What Is a Data Engineer? Salary, Responsibilities, & Roadmap
+- What is a Data Analyst? Salary, Responsibilities, Skills, & Career Path
+- How Explainable AI Enhances Reliability and Trustworthiness
+- 10 Best ETL Tools (May 2023)
+- NVIDIA’s eDiffi Diffusion Model Allows ‘Painting With Words’ and More
+- Advertiser Disclosure: Unite.AI is committed to rigorous editorial standards to provide our readers with accurate information and news. We may receive compensation when you click on links to products we reviewed.
+- Copyright © 2023 Unite.AI
+
+URL: https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-us-bill-of-ai-rights-parliament-gets-its-act-together-sort-of-the-dark-side-of-large-ai-models/
+- In-depth reporting, data and actionable intelligence for policy professionals – all in one place.
+- 
+- 
+- 
+- 
+- 
+- How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.
+- Press play to listen to this article
+- Voiced by artificial intelligence.
+- How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond.
+- By MELISSA HEIKKILÄ
+- Send tips, feedback and anecdotes | @Melissahei | Subscribe for free
+- Welcome to AI: Decoded, brought to you every Wednesday by Melissa Heikkilä, POLITICO’s AI Correspondent in London.
+- This week:
+- — The U.S. is working on a bill of rights for the AI age.
+- — The dark side of large AI models.
+- — The European Parliament gets its act together, sort of.
+- BILL OF RIGHTS FOR THE AI AGE
+- It’s happening! The U.S. is working on a “bill of rights” for the AI age, wrote Eric Lander and Alondra Nelson, who lead the White House Office of Science and Technology Policy in an opinion piece in Wired. “Powerful technologies should be required to respect our democratic values and abide by the central tenet that everyone should be treated fairly. Codifying these ideas can help ensure that,” they wrote.
+- Freedom fighters: The U.S. wants to “clarify the rights and freedoms we expect data-driven technologies to respect.” Possible outcomes for the bill include knowing when and how AI is affecting decisions on civil rights and liberties, the right to be free from AI that has been trained on poor-quality datasets, freedom from “pervasive or discriminatory surveillance and monitoring” at home and the workplace, as well as a way to seek redress for algorithmic harms.
+- Alexa, what are my rights? Privacy, transparency and consumer protection in AI are having a moment. Technologies such as smart speakers and other connected devices will face more scrutiny. Automated hiring tools, virtual assistants that don’t understand accents, biased and discriminatory healt hcare algorithms and facial recognition software will also be targets of stricter rules.
+- Purse strings closed: The federal government is also considering refusing to procure AI technology or software that doesn’t adhere to these rights and requiring federal contractors to respect the bill too. New laws or regulations are also on the table.
+- “Concrete rules” incoming: The U.S. National Security Council’s Peter Harrell has said that instead of one overarching policy document, the U.S. will target specific practices such as social scoring with “meaningful concrete rules.” Social scoring is an AI-powered application popularized by the Chinese government that ranks people’s trustworthiness based on their behavior. If you’ve seen the Nosedive episode on Black Mirror, you’d know it’s an easy sell. The EU’s AI Act outright bans it, and the EU and the U.S. have also jointly denounced the practice.
+- First targets: The government is starting work by opening a consultation on biometric recognition technologies including emotion recognition, and hiring algorithms.
+- Antidote to autocracy: The language is not too dissimilar from what the EU has proposed, and hints that some elements of the bloc’s strict data protection regime, the GDPR, and the AI Act are gaining traction in the White House too. This bill of rights statement is a major signal from Biden’s White House that America too needs to think about digital rights at home if it wants to counter autocratic AI practices abroad.
+- American AI policy civil war: Efforts to regulate AI in the U.S. will not only face opposition from its powerful tech sector, but its defense industry too. In an interview with the Financial Times, Nicolas Chaillan, the Pentagon’s first chief software officer, said he resigned from his post because of frustration about how slow the U.S. military was at adopting new technologies in the growing threat of China. Chaillan said bureaucracy and overregulation were to blame, and that Chinese companies were making “massive investment” into AI while not thinking about ethics.
+- DIY, billionaire-style: America’s number one China hawk, former Google boss Eric Schmidt, is launching the Special Competitive Studies Project, a self-funded project to boost American AI capabilities. The project will have a nonpartisan board of national security leaders. The project is modeled on the Cold War-era Rockefeller Special Studies Project.
+- THE DARK SIDE OF LARGE AI MODELS
+- Pandora’s box: Last summer, a group of AI researchers unveiled LAION-400M, which they touted as the world’s largest openly available dataset consisting of image and text pairings crawled from the internet. On a superficial level, this is great. Companies such as Google, Deepmind and OpenAI are extremely protective of their large AI models, and researchers have no visibility of how these models work or are trained. Open access models also give smaller companies the opportunity to develop products and services.
+- But problems arose when researchers dug deeper.
+- In a new paper, AI researchers Abeba Birhane, Vinay Uday Prabhu and Emmanuel Kahembwe detail the “horrifying” results when you create a massive, unfiltered dataset based on the internet. They found it was riddled with misogyny, violent pornography, and racist stereotypes.
+- When the researchers typed the word “Korean,” the model didn’t bring up images of BTS or bulgogi, but naked Korean women. Searching the word “Indian” brought up pictures of South Asian women being raped. “Best president” brought up images of Donald Trump. You get the idea.
+- The real world vs the internet: The research highlights the dangers of using huge datasets to represent the world. The views represented are not that of “reality, not of the world, but the view from a specific perspective, which is the European, super conservative political leaning cisgendered white man,” Birhane, one of the researchers, said.
+- Hiding under the surface: In the AI community, a lot of people are obsessed with building ever bigger AI models. LAION-400M gives us a glimpse of what might exist in other AI labs. “We are completely in the dark about the big elephant in the room which is Wu Dao 2.0,” said Prahbu. China claims that model is 10 times more powerful than its rivals. Other models by Google and OpenAI don’t reveal how they are trained, so we don’t know whether they’re encountering similar problems.
+- Right to be forgotten: The dataset trawled the internet between 2014 and 2021 and gobbled up the content it picked up. Kahembwe said this goes against the EU’s “right to be forgotten,” which allows citizens to demand their data is deleted. “There’s currently no real, viable mechanism to get rid of it. We’ve not really thought about that from a policy or regulatory or technological perspective,” Kahembwe said.
+- Message to all AI developers: “If we’re going to be collecting and training these large AI on tons and tons of interconnected data, then in a weird way, the AI community is setting up its own challenge that is going to figure out a way to clean up the internet,” said Kahembwe.
+- Toll on mental health: Granting access to independent researchers and auditors is one step forward, the group agrees. But having humans sift through the masses of filth is not sustainable or efficient. Facebook content moderators have reported how hugely detrimental their work is on their mental health.
+- Even this paper took its toll on the researchers. Birhane describes: “I work in a lab here, and my supervisor told me I cannot look at that dataset in the lab because it’s not appropriate for the workplace. And so I had to work at home most of the time. My mood changed. I really struggled and I couldn’t sleep.”
+- All eyes on you Alphabet: Prahbu said he thinks there are a handful of technical fixes, but they are expensive and only possible for companies such as Google and Deepmind. Some basic things companies can do would be improving their text and text-image filtering, checking if URLs that are being included in datasets are GDPR-compliant and removing any information that identifies a person.
+- PARLIAMENT GETS ITS ACT TOGETHER, SORT OF
+- Sharing is caring: Two committees will have to share the AI Act spoils. In a letter, obtained by Contexte, the chair of the Conference of Committee Chairs Antonio Tajani recommended that the internal market (IMCO) and the legal affairs (JURI) committees share the bill. The industry, civil liberties and culture committees will also get to participate in the negotiations, and the industry committee will get an exclusive say on articles that fall under its mandate. The decision still has to get final approval from the Conference of Presidents.
+- Feeling salty: Tajani’s decision sparked outrage in MEPs in IMCO, which initially had dibs over the whole thing. Lead negotiator Brando Benifei (S&D) and his colleagues had gathered sufficient support to add an amendment that would ban facial recognition in public places, and Parliament approved a resolution last week calling for a ban. The new arrangement would make it harder.
+- This is good news for the EPP: The center-right group has been one of the only ones in Parliament opposing bans, and the group is very likely to be assigned the file in JURI. The group’s veteran tech-minded MEP, Axel Voss, sits in the committee, and has made it no secret that he wants to be EPP’s AI guy. The JURI-Voss combo will give EPP more clout to resist the banning of facial recognition technologies and introduce more industry-friendly amendments.
+- Ulterior motives: Tajani is a member of the EPP group, and this has not gone unnoticed by critics who are contesting the legal basis of his decision. “There was a lot of concern because it seems a political move to give space to the positions of EPP, which is blatantly in a minority position in the Parliament,” an EU official said.
+- Bans on the table: The legal affairs committee will be in charge of amending some of the most controversial articles in the bill, including rules for “high-risk” AI systems and the list of prohibited AI uses such as remote biometric identification in public places by law enforcement.
+- What happens next: This decision will allow the European Parliament to start working on the AI Act, and to finalize its roster of negotiators in different committees. However it is likely other political groups and committees will challenge Tajani’s decision, and in the crazy, labyrinthine world of EU politics, there is a possibility things might be rearranged once again.
+- Microsoft has trained the world’s largest language model called the Megatron-Turing Natural Language Generation.
+- The State of AI in 2021, an influential report on the past year’s trends in the AI industry, is out.
+- The Facebook whistleblower says its algorithms are dangerous. MIT Tech Review.
+- European consumer group BEUC is not convinced the EU’s AI Act does enough to protect consumers.
+- Spotify launched a new AI-powered contextual targeting system.
+- How to get a job at Deepmind as a research engineer.
+- This edition of AI: Decoded would not have happened without Saim Saeed, Nicholas Vinocur and Mark Scott.
+- SUBSCRIBE to the POLITICO newsletter family: Brussels Playbook | London Playbook | Playbook Paris | EU Confidential | Sunday Crunch | EU Influence | London Influence | AI: Decoded | Digital Bridge | China Direct | D.C. Playbook | All our POLITICO Pro policy morning newsletters
+- Log in to access content and manage your profile. If you do not have an account you can register here.
+- 
+- Forgot your password?
+- By logging in, you confirm acceptance of our POLITICO Privacy Policy.
+
+URL: https://info.deeplearning.ai/the-batch-ai-has-a-web-problem-google-goes-multimodal-unfinished-symphony-completed-transformers-get-faster-still-1
+- 
+- 
+- 
+- 
+- 
+- Dear friends,
+- 
+- I’ve seen many friends transition from an academic or research role to a corporate role. The most successful ones adjusted to corporate work by shifting their mindset in a few crucial ways.
+- The worlds of academia and industry are governed by different values. The former prizes scientific innovation and intellectual freedom, and the latter prizes building a successful business that delivers impact and profit. If you’re thinking of taking the leap, here are some tips that might ease the way.
+- The shift in mindset between academia and industry is significant, but knowing the key differences in advance can make it easier to shift appropriately. I’ve enjoyed roles in both domains, and both offer valuable ways to move the world forward.
+- Keep learning!Andrew
+- P.S. We hear a lot about AI folks going from academia to industry, but transitions in the opposite direction happen, too. For example, Peter Norvig, after 20 years at Google where he played a key role in building Google Research, recently joined Stanford University.
+- 
+- 
+- 
+- The emerging generation of trillion-parameter models needs datasets of billions of examples, but the most readily available source of examples on that scale — the web — is polluted with bias and antisocial expressions. A new study examines the issue.
+- What’s new: Abeba Birhane and colleagues at University College Dublin and University of Edinburgh audited the LAION-400M dataset, which was released in September. It comprises data scraped from the open web, from which inaccurate entries were removed by a state-of-the-art model for matching images to text. The automated curation left plenty of worrisome examples among the remaining 400 million examples — including stereotypes, racial slurs, and sexual violence — raising concerns that models trained on LAION-400M would inherit its shortcomings.
+- Key insight: The compilers of LAION-400M paired images and text drawn from Common Crawl, a large repository of web data. To filter out low-quality pairs, they used CLIP to score the correspondence between them and discarded those with the lowest scores. But CLIP itself is trained on a massive trove of web data. Thus it’s bound to find a high correspondence between words and pictures that are frequently associated with one another on the web, even if the associations are spurious or otherwise undesirable.
+- NSFT (not safe for training): The authors entered text queries into LAION-400M’s search function, which returned matching images.
+- Behind the news: The LAION-400M team, a loosely knit collective led by Christoph Schuhmann at University of Vienna, aims to re-create Google’s Wikipedia-based Image Text dataset and ultimately use it to train open-source analogs of OpenAI’s CLIP and DALL·E. The group was inspired by EleutherAI’s community effort to build an open source version of GPT-3.
+- Why it matters: It’s enormously expensive to manually clean a dataset that spans hundreds of millions of examples. Automated curation has been viewed as a way to ensure that immense datasets contain high-quality data. This study reveals serious flaws in that approach.
+- We’re thinking: Researchers have retracted or amended several widely used datasets to address issues of biased and harmful data. Yet, as the demand for data rises, there’s no ready solution to this problem. Audits like this make an important contribution, and the community — including large corporations that produce proprietary systems — would do well to take them seriously.
+- 
+- The transformer architecture is notoriously inefficient when processing long sequences — a problem in processing images, which are essentially long sequences of pixels. One way around this is to break up input images and process the pieces separately. New work improves upon this already-streamlined approach.
+- What’s new: Zizhao Zhang and colleagues at Google and Rutgers University simplified an earlier proposal for using transformers to process images. They call their architecture NesT.
+- Key Insight:  A transformer that processes parts of an image and then joins them can work more efficiently than one that looks at the entire image at once. However, to relate the parts to the whole, it must learn how the pixels in different regions relate to one another. A recent model called Swin does this by shifting region boundaries in between processing regions and merging them together — a step that nonetheless consumes compute cycles. Using convolutions to process both within and across regions can enable a model to learn such relationships without shifting region boundaries, saving that computation.
+- How it works: The authors trained NesT to classify images in ImageNet.
+- Results: A 38 million-parameter NesT achieved 83.3 accuracy on ImageNet. This performance matched that of an 88-million parameter Swin-B — a 57 percent saving in the compute budget.
+- Why it matters: Transformers typically bog down when processing images. NesT could help vision applications take fuller advantage of the architecture’s strengths.
+- We’re thinking: Computational efficiency for the Swin!
+- 
+- We’re updating our Natural Language Processing Specialization to reflect the latest advances! Join instructor Younes Bensouda Mourri and Hugging Face engineer Lewis Tunstall for a live Ask Me Anything session on November 3, 2021. Get answers to all your NLP-related questions!
+- 
+- 
+- Google will upgrade its search engine with a new model that tracks the relationships between words, images, and, in time, videos — the first fruit of its latest research into multimodal machine learning and multilingual language modeling.
+- What’s new: Early next year, Google will integrate a new architecture called Multitask Unified Model (MUM) into its traditional Search algorithm and Lens photo-finding system, VentureBeat reported. The new model will enable the search engines to break down complex queries (“I’ve hiked Mt. Adams and now I want to hike Mt. Fuji next fall. What should I do differently to prepare?”) into simpler requests (“prepare to hike Mt. Adams,” “prepare to hike Mt. Fuji,” “Mt. Fuji next fall”). Then it can combine results of the simpler requests into coherent results.
+- How it works: Announced in May, MUM is a transformers-based natural language model. It’s based on Google’s earlier T5 that comprises around 110 billion parameters (compared to BERT’s 110 million, GPT-3’s 175 billion, and Google’s own Switch Transformer at 1.6 trillion). It was trained on a dataset of text and image documents drawn from the web from which hateful, abusive, sexually explicit, and misleading images and text were removed.
+- Behind the news: In 2019, Google Search integrated BERT. The change improved the results of 10 percent of English-language queries, the company said, particularly those that included conversational language or prepositions like “to” (the earlier version couldn’t distinguish the destination country in a phrase like “brazil traveler to usa”).  BERT helped spur a trend toward larger, more capable transformer-based language models.
+- Why it matters: Web search is ubiquitous, but there’s still plenty of room for improvement. This work takes advantage of the rapidly expanding capabilities of transformer-based models.
+- We’re thinking: While we celebrate any advances in search, we found Google’s announcement short on technical detail. Apparently MUM really is the word.
+- 
+- 
+- Ludwig van Beethoven died before he completed what would have been his tenth and final symphony. A team of computer scientists and music scholars approximated the music that might have been.
+- What’s new: The Beethoven Orchestra in Bonn performed a mock-up of Beethoven’s Tenth Symphony partly composed by an AI system, the culmination of an 18-month project. You can view and hear the performance here.
+- How it works: The master left behind around 200 fragmentary sketches of the Tenth Symphony, presumably in four movements. A human composer in 1988 completed two movements, for which more source material was available, so the team set out to compose two more.
+- Everyone’s a critic: Composer Jan Swafford, who wrote a 2014 biography of Beethoven, described the finished work as uninspired and lacking Beethovenian traits such as rhythms that build to a sweeping climax.
+- Behind the news: In 2019, Huawei used AI powered by its smartphone processors to realize the final two movements of Franz Schubert’s unfinished Eighth Symphony. The engineers trained their model on roughly 90 pieces of Schubert’s work as well as pieces written by composers who influenced him. A human composer cleaned up the output, organized it into sections, and distributed the notes among various instruments.
+- Why it matters: AI is finding its way into the arts in a variety of roles. As a composer, generally the technology generates short passages that humans can assemble and embellish. It’s not clear how much the team massaged the model’s output in this case, but the ambition clearly is to build an end-to-end symphonic composer.
+- We’re thinking: Elgammal has published work on generative adversarial networks. Could one of his GANs yield Beethoven’s Eleventh?
+- 
+- 
+- Senior Technical Program Manager: Landing AI is looking for a program manager to bridge the engineering team and business partners. The ideal candidate has a strong background in relationship management with at least three years in a direct program management position and at least two years in a technical role. Apply here
+- 
+- Marketing Manager, Community & Events: DeepLearning.AI is looking for a marketing manager to spearhead events and experiential marketing. The ideal candidate is a talented leader, communicator, and creative producer who is ready to create world-class events that keep DeepLearning.AI community members connected and engaged with each other. Apply here
+- 
+- Marketing Operations Manager: DeepLearning.AI seeks a marketing operations expert to oversee its data and analytics strategy, manage its marketing technology stack, and optimize workflows and processes. The ideal candidate is a strong project manager, communicator, and technical wizard who can help the company manage its community of learners. Apply here
+- 
+- Data Engineer (LatAm): Factored is looking for top data engineers with experience in data structures and algorithms, operating systems, computer networks, and object-oriented programming. You must have experience with Python and excellent skills in English. Apply here
+- 
+- Software Development Engineer: Landing AI seeks software development engineers to build scalable AI applications and deliver optimized inference software. A strong background in Docker, Kubernetes, infrastructure, network security, or cloud-based development is preferred. Apply in North America or Latin America
+- 
+- Sales Development Representative (North America): Landing AI is looking for a salesperson to generate new business opportunities through calls, strategic preparation, and delivering against quota. Experience with inside sales and enterprise products and a proven track record of achieving quotas is preferred. Apply here
+- 
+- Machine Learning Engineer Intern (LatAm, North America, or Taiwan): Landing AI is looking for an intern to help build end-to-end machine learning applications. Strong machine learning and deep learning background along with technical deep-dive experience in at least two projects is preferred. Apply here
+- 
+- Product Design Lead: Workera seeks a talented product designer to understand complex problems and find effective solutions. This position will help define UX processes and develop a nimble UX team to deliver high-quality work. Apply here
+- 
+- Head of Engineering (Full-Time Remote): Zest is looking for an engineering leader to provide thought leadership and establish a technical vision. Experience in developing and shipping consumer-facing mobile apps for iOS and Android is a must. Apply here
+- 
+- Software Engineers (Remote): Workera, a precision upskilling company that enables individuals and organizations to identify, measure, interpret, and develop AI skills, is looking for software engineers of all levels. You’ll own the mission-critical effort of implementing and deploying innovative learning technologies. Apply here
+- 
+- Solutions Consultant: Workera is looking for a solutions architect to empower its go-to-market team, create a streamlined sales-enabling environment, and accelerate business opportunities. Apply here
+- 
+- Various Roles: Workera seeks an enterprise lead product manager, product design lead, compliance and risk manager, financial planning and analysis manager, and senior data engineer. Apply here
+- 
+- Subscribe and view previous issues here.
+- 
+- Thoughts, suggestions, feedback? Please send to thebatch@deeplearning.ai. Avoid our newsletter ending up in your spam folder by adding our email address to your contacts list.
+- 
+- DeepLearning.AI, 195 Page Mill Road, Suite 115, Palo Alto, CA 94306, United States
+- Unsubscribe
+Manage preferences
+
+URL: https://www.reddit.com/r/MachineLearning/comments/pmwvw9/p_laion400m_opensource_dataset_of_400_million/
+- 
+- LAION-400-Million Open Dataset.
+- Site for searching dataset using CLIP.
+- Background info: CLIP.
+
+URL: https://futurism.com/the-byte/private-medical-photos-ai
+- An AI artist going by the name Lapine says she discovered that private medical photos from nearly ten years ago were being used in an image set that trains AI, called LAION-5B.
+- Lapine made this unnerving discovery by using Have I Been Trained, a site that lets artists to check if their work has been used in the image set. When Lapine performed a reverse image search of her face, two of her private medical photos unexpectedly cropped up.
+- "In 2013 a doctor photographed my face as part of clinical documentation," Lapine explained on Twitter. "He died in 2018 and somehow that image ended up somewhere online and then ended up in the data set — the image that I signed a consent form for my doctor — not for a data set."
+- LAION-5B is supposed to only use publicly available images on the web. And by all ethical and reasonable accounts, you’d think that would mean private photos of medical patients would be excluded. Apparently not.
+- Somehow, those photos were taken from her doctor’s files and ended up online, and eventually, in LAION’s image set. Ars Technica, following up on Lapine's discovery, found plenty more "potentially sensitive" images of patients in hospitals.
+- LAION gathered those images using web scraping, a process where bots scour the internet for content — and who knows what they might dredge up.
+- A LAION engineer said in the organization's public Discord that the database doesn’t actually host the images, so the best way to remove one is "to ask for the hosting website to stop hosting it," as quoted by Ars.
+- But as Lapine points out, that process often requires you to divulge personal information to the site in question.
+- In the end, accountability might be tricky to pin down. Did the hospital or doctor mess up by not properly securing the photos, or are web scrapers like LAION too invasive? That may be a false dichotomy, as the answers aren’t mutually exclusive.
+- Regardless, it’s bad enough that AIs are assimilating artists' works without their consent. But allowing private medical photos to be looked at by AI? That should be ringing everyone's alarm bells. If even those aren't sacrosanct, what is?
+- Read more: Artist finds private medical record photos in popular AI training data set
+- More on AI: Experts Horrified by Facial Recognition Site That Digs Up "Potentially Explicit" Photos of Children
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://arstechnica.com/information-technology/2022/09/artist-finds-private-medical-record-photos-in-popular-ai-training-data-set/
+- Front page layout
+- Site theme
+- Benj Edwards
+    -  Sep 21, 2022 3:43 pm UTC
+- Late last week, a California-based AI artist who goes by the name Lapine discovered private medical record photos taken by her doctor in 2013 referenced in the LAION-5B image set, which is a scrape of publicly available images on the web. AI researchers download a subset of that data to train AI image synthesis models such as Stable Diffusion and Google Imagen.
+- Lapine discovered her medical photos on a site called Have I Been Trained, which lets artists see if their work is in the LAION-5B data set. Instead of doing a text search on the site, Lapine uploaded a recent photo of herself using the site's reverse image search feature. She was surprised to discover a set of two before-and-after medical photos of her face, which had only been authorized for private use by her doctor, as reflected in an authorization form Lapine tweeted and also provided to Ars.
+- 🚩My face is in the #LAION dataset. In 2013 a doctor photographed my face as part of clinical documentation. He died in 2018 and somehow that image ended up somewhere online and then ended up in the dataset- the image that I signed a consent form for my doctor- not for a dataset. pic.twitter.com/TrvjdZtyjD
+- Lapine has a genetic condition called Dyskeratosis Congenita. "It affects everything from my skin to my bones and teeth," Lapine told Ars Technica in an interview. "In 2013, I underwent a small set of procedures to restore facial contours after having been through so many rounds of mouth and jaw surgeries. These pictures are from my last set of procedures with this surgeon."
+- The surgeon who possessed the medical photos died of cancer in 2018, according to Lapine, and she suspects that they somehow left his practice's custody after that. "It’s the digital equivalent of receiving stolen property," says Lapine. "Someone stole the image from my deceased doctor’s files and it ended up somewhere online, and then it was scraped into this dataset."
+- Lapine prefers to conceal her identity for medical privacy reasons. With records and photos provided by Lapine, Ars confirmed that there are medical images of her referenced in the LAION data set. During our search for Lapine's photos, we also discovered thousands of similar patient medical record photos in the data set, each of which may have a similar questionable ethical or legal status, many of which have likely been integrated into popular image synthesis models that companies like Midjourney and Stability AI offer as a commercial service.
+- This does not mean that anyone can suddenly create an AI version of Lapine's face (as the technology stands at the moment)—and her name is not linked to the photos—but it bothers her that private medical images have been baked into a product without any form of consent or recourse to remove them. "It’s bad enough to have a photo leaked, but now it’s part of a product," says Lapine. "And this goes for anyone’s photos, medical record or not. And the future abuse potential is really high."
+- LAION describes itself as a nonprofit organization with members worldwide, "aiming to make large-scale machine learning models, datasets and related code available to the general public." Its data can be used in various projects, from facial recognition to computer vision to image synthesis.
+- For example, after an AI training process, some of the images in the LAION data set become the basis of Stable Diffusion's amazing ability to generate images from text descriptions. Since LAION is a set of URLs pointing to images on the web, LAION does not host the images themselves. Instead, LAION says that researchers must download the images from various locations when they want to use them in a project.
+- Under these conditions, responsibility for a particular image's inclusion in the LAION set then becomes a fancy game of pass the buck. A friend of Lapine's posed an open question on the #safety-and-privacy channel of LAION's Discord server last Friday asking how to remove her images from the set. LAION engineer Romain Beaumont replied, "The best way to remove an image from the Internet is to ask for the hosting website to stop hosting it," wrote Beaumont. "We are not hosting any of these images."
+- In the US, scraping publicly available data from the Internet appears to be legal, as the results from a 2019 court case affirm. Is it mostly the deceased doctor's fault, then? Or the site that hosts Lapine's illicit images on the web?
+- Ars contacted LAION for comment on these questions but did not receive a response by press time. LAION's website does provide a form where European citizens can request information removed from their database to comply with the EU's GDPR laws, but only if a photo of a person is associated with a name in the image's metadata. Thanks to services such as PimEyes, however, it has become trivial to associate someone's face with names through other means.
+- Ultimately, Lapine understands how the chain of custody over her private images failed but still would like to see her images removed from the LAION data set. "I would like to have a way for anyone to ask to have their image removed from the data set without sacrificing personal information. Just because they scraped it from the web doesn’t mean it was supposed to be public information, or even on the web at all."
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+- DALL-E image generator
+- Stable Diffusion image generator
+- Page infoTYpe: DataPublished: October 2021Last updated: December 2022

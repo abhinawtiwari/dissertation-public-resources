@@ -1,0 +1,304 @@
+- USPS rural letter carrier algorithmic pay cuts
+- Occurred: May 2023
+- Can you improve this page?Share your insights with us
+- The US Postal Service (USPS) has been accused of developing an algorithmic system that is said to reduce the pay of most of its rural post carriers significantly, leading to accusations of shoddy development and implementation.
+- The USPS' new Rural Route Evaluated Compensation System (RRECS), which determines the annual salary and work schedule of rural mail carriers, has led to 66 percent of rural carriers, or some 100,000 workers, having their pay by thousands of dollars.
+- VICE reports that 'flaws' in its implementation have resulted in most workers unintentionally under-reporting the time it takes to deliver mail, resulting in pay cuts.
+- Three US senators have asked (pdf) the USPS to delay implementing RRECS, noting USPS is 'struggling to deliver mail to rural areas, due in part to an inability to recruit rural letter carriers.'
+- Operator: United States Postal Service (USPS)  Developer: United States Postal Service (USPS) Country: USA Sector: Govt - postal Purpose: Calculate pay Technology: Pay algorithmIssue: Employment - jobs Transparency: Governance; Black box
+- USPS website
+- USPS Wikipedia profile
+- US Senators' letter (pdf)
+URL: https://www.vice.com/en/article/88xnbb/two-thirds-of-rural-mail-carriers-are-being-hit-with-a-massive-pay-cut-calculated-by-an-algorithm
+- Two-thirds of rural mail carriers nationwide are scheduled to be hit with a pay cut of thousands of dollars annually and may also be assigned more work days, due to the implementation of a new algorithm that determines their salary and work schedule. The change, which has enraged many rural carriers, comes as the United States Postal Service struggles to hire enough rural carriers to reliably deliver mail to areas of the country.
+- “It’s crazy to me,” a rural carrier in Maryland who asked to remain anonymous to avoid retaliation told Motherboard. His annual salary was slashed by $9,000 and he has to work an extra day for every two-week pay period. “I’ll be working more and making less all while doing the exact same work.”
+- The pay cuts were initially scheduled for early April, but have been pushed back each pay period since for unspecified reasons, according to posts and comments on websites and forums dedicated to rural postal workers. The target of their ire is RRECS, or the Rural Route Evaluated Compensation System. It was designed to more efficiently calculate the number of hours a worker needs to deliver mail on their given route, but flaws in its implementation have resulted in most workers unintentionally under-reporting the time it takes to deliver the mail, resulting in pay cuts.
+- In a statement, USPS spokesperson David Coleman said, “The compensation system for rural letter carriers is a nationally negotiated pay system codified in the parties’ National Agreement. The current modifications to the compensation system were the result of a previous interest arbitration proceeding and mandated by an interest arbitrator. The parties worked jointly for years to implement these new provisions and will continue to share data and information throughout the implementation process.” The union that represents rural carriers, the National Rural Letter Carriers Association, did not respond to a Motherboard request for comment.
+- USPS mail carriers fall under two different major classification systems, rural and city carriers. There are roughly twice as many city carriers as rural carriers. While they broadly serve the urban versus rural areas their names suggest, some rural routes are legacies from the pre-urban sprawl era, meaning some "rural" carriers work in relatively dense areas. Sometimes the two work out of the same post office.
+- Generally, rural carriers operate under more relaxed work rules than city carriers. For example, they don’t have to wear USPS uniforms—although some choose to purchase their own—and often drive their own vehicles. But the biggest difference between city and mail carriers is they operate under different pay structures. City carriers are hourly employees that get paid overtime for working more than eight hours a day. Rural carriers are paid a salary based on an annual tally of the mail on their route. The more delivery points and mail volume, the higher the pay. While far from perfect, this structure alleviates tension many city carriers face with management over whether the day’s mail volume requires overtime hours to deliver. The job is to deliver the mail, however long or short it takes.
+- At the center of this system is the route evaluation to determine the workdays per week and the route’s annual salary. This tally used to be done manually in which an inspector shadows the route. But the USPS recently instituted a new route evaluation system called the Rural Route Evaluated Compensation System, or RRECS. And it is the reason 66 percent of rural carriers, or some 100,000 workers, just had their pay cut.
+- Instead of manual route counts, RRECS relies on the daily mail count automatically tabulated as it passes through sorting machines at postal facilities, combined with handheld scanners the carriers have equipped with touchscreens, barcode readers, and GPS. Carriers must log all kinds of minutiae into the scanners, such as when they begin loading their trucks, when they set out on their routes, where they stop for lunch, and hundreds of other data points. All of that data is processed through opaque algorithms to evaluate routes. The terms of how RRECS would be implemented has been the focus of a decade-long fight between the National Rural Letter Carriers' Association (NRLCA) and the USPS, eventually settled by an arbitrator.
+- In the endless, ample online discussion forums where rural letter carriers have been discussing RRECS—one of two pinned posts at the top of the USPS subreddit is currently “So your route got RRECed…”—it appears few if any carriers got trained on what RRECS is and how it would evaluate their routes. For example, many carriers would scan a package while sitting in the truck, then bring the package to the door while the scanner remained in the truck, because the scanner is difficult to hold while handling a large package. Carriers are given extra time to bring packages to doors, but by leaving the scanner in the truck, RRECS evaluated those deliveries as being done at the mailbox. If done over dozens of packages a day, RRECS could evaluate a route as requiring fewer hours than it really did.
+- Another issue is that RRECS evaluates routes using annual data regardless of who is doing the delivery. The mail is delivered six—and, in areas where the USPS has agreements with Amazon for Sunday delivery—seven days a week. Postal workers with permanent route assignments don’t deliver the mail every single day on their route, especially when taking into account vacations and sick days. On those days, substitutes paid by the hour fill in for their routes. Those substitutes have little incentive to do all the time-consuming data entry and parcel scanning to ensure the route is being properly evaluated through RRECS, yet the RRECS calculation is an average for the entire year, including substitute days.
+- The end result, according to figures the NRLCA sent to its members that have been subsequently posted in various forums, was a broad pay cut. Of the 81,665 routes re-evaluated by RRECS, 66 percent lost hours, resulting in lower pay. 44 percent lost more than three hours a week but only 14 percent gained more than three hours.
+- For his part, the rural carrier in Maryland has started looking for another job. “I shouldn’t have to twirl around three times just to get paid fairly,” he said referring to the new RRECS system. “It feels like working for Amazon.”
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.vice.com/en/article/5d9gqb/senators-call-on-usps-to-delay-controversial-pay-cut-for-rural-carriers-determined-by-mystery-algorithm
+- Six Democratic senators urged the USPS to delay implementing a controversial algorithmically-generated pay system on Friday that will slash the salaries of two-thirds of rural letter carriers until the system’s “serious flaws” are rectified.
+- The new pay system, called the Rural Route Evaluated Compensation System (RRECS), has been years in the making and is the result of an arbitrator decision on how to more efficiently calculate rural carrier pay, which is based on annual estimates of how long it takes to deliver the mail on that specific route, as Motherboard reported last month.
+- Under RRECS, carriers must log hundreds of actions they take every single day and carry a scanner with them at all times as it tracks their movements to evaluate workloads, down to minute details such as whether they have to deliver a package to a mailbox or a door. In the plethora of online discussions by rural carriers about RRECS, many carriers reported receiving little to no training on how to properly use this new system in a way that would accurately capture their workload and, therefore, pay, likely resulting in widespread under-reporting of workloads.
+- As a result, 66 percent of rural carriers are slated for pay cuts, with 44 percent of carriers losing more than three paid hours per week, despite nothing having changed about their actual routes. The USPS has not disclosed either publicly or to the National Rural Letter Carriers Association, the union representing rural carriers, how the RRECS algorithms actually work. This pay cut is likely to exacerbate an already short-handed workforce of rural carriers which has left many rural communities struggling to reliably get mail and packages.
+- RRECS implementation has been repeatedly delayed, but carriers are bracing for it to go into effect starting next week. The letter, signed by Senators Ron Wyden, Bernie Sanders, Elizabeth Warren, Sherrod Brown, John Fetterman, and Ed Markey, calls on USPS Postmaster General Louis DeJoy to delay its implementation until its problems can be fixed.
+- “We understand the need to update the rural letter carrier route evaluation system and ensure that rural carriers are compensated for labor that has gone unaccounted for under the current system,” the letter states. “However, RRECS is not narrowly tailored to address these problems and is reportedly rife with glaring flaws in its implementation and training for its adoption. RRECS imposes an intense system of worker surveillance on rural carriers that requires them to log every tiny task of their daily routes using devices that frequently malfunction.”
+- In addition to calling for a delay, the senators asked DeJoy if the USPS will publicly disclose the algorithms behind RRECS and promise to limit the surveillance technology implemented to only that required to evaluate routes.
+- USPS spokesperson Darlene Casey said, “The compensation system for rural letter carriers is a nationally negotiated pay system codified in the parties’ National Agreement. The current modifications to the compensation system were the result of a previous interest arbitration proceeding and mandated by an interest arbitrator. The parties worked jointly for years to implement these new provisions and will continue to share data and information throughout the implementation process.” Casey added the USPS will respond to the senators’ letter.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.reuters.com/world/us/senators-say-new-us-postal-service-pay-plan-will-cut-rural-worker-compensation-2023-05-05/
+- WASHINGTON, May 5 (Reuters) - Six U.S. senators on Friday urged the U.S. Postal Service (USPS) to delay implementing a new compensation system that they said would cut pay for tens of thousands of rural postal delivery workers.
+- The senators -- Democrats Ron Wyden, Elizabeth Warren, Sherrod Brown, Ed Markey and John Fetterman and independent Bernie Sanders -- in a letter to U.S. Postmaster General Louis DeJoy seen by Reuters said the automated Rural Route Evaluated Compensation System (RRECS) should not be used "until the system’s serious flaws are rectified."
+- USPS and a union representing workers agreed last month the system would not take effect until at least Saturday. The union and USPS in 2012 had agreed to create a new system to determine compensation for rural carriers.
+- They also asked how USPS "will reimburse rural carriers for lost earnings when the system makes an inaccurate determination about their routes" and for detailed answers to questions.
+- USPS, in response, said the compensation system for rural letter carriers is nationally negotiated and codified in their labor agreement and that changes were the result of an arbitration proceeding.
+- USPS added it would respond to the senators' letter.
+- The letter from the senators said the system "will reduce the pay of 66% of carriers significantly, and for nearly 14,000 carriers, those cuts will exceed 8 hours of pay a week."
+- The senators said rural letter carriers travel millions of miles daily providing essential services.
+- "We understand the need to update the rural letter carrier route evaluation system and ensure that rural carriers are compensated for labor that has gone unaccounted for under the current system," the senators wrote, "but it is critical that USPS fixes the known issues with the system before implementation."
+- The letter added that "at a time when USPS is struggling to deliver mail to rural areas, due in part to an inability to recruit rural letter carriers, we fear that RRECS’ impact on working conditions and pay will further deteriorate a vital service to our rural communities."
+- Our Standards: The Thomson Reuters Trust Principles.
+- Kami Rita Sherpa had stood at the top of world just days earlier, exultant at having summited Mount Everest for a record 28th time.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://www.reddit.com/r/antiwork/comments/128wukd/im_a_postal_worker_i_took_a_25_pay_cut_today_help/
+- A subreddit for those who want to end work, are curious about ending work, want to get the most out of a work-free life, want more information on anti-work ideas and want personal help with their own jobs/work-related struggles.
+- Crosspost from r/mildlyinfuriating
+- Quite possibly more than mildly infuriating. But anyways here goes.
+- I'm a united stated postal service mail carrier. New rules in place regarding pay has caused my pay to decrease by about 25% starting next Saturday.
+- My pay is going from roughly $65,000 to $47,000. It's a real shame that in today's economy the postal service is allowing this to happen. I can hardly make an honest living working for the government!
+- Almost every carrier in my office is also receiving a pay cut. Anywhere from 5-30%. Absolutely no one got an increase in pay.
+- Something needs to be done about this. Contact your congressman. Talk to your friends and family about this issue. Hardworking honest Americans deserve proper pay!
+- Edit: Some of you are asking why these cuts are happening. I'm doing the same work on the same route. To quote user @Satsuma_sada
+- It would be hard to explain to a non-postal worker.
+- The USPS and the Rural Union disagreed about how to get paid for mail volume. It went into arbitration. An arbitrator chose a new, complicated algorithm based way of determining volume.  That algorithm goes into affect this week. People are losing thousands of dollars off their wages and the Postal Service won’t release the math behind the algorithm.
+- It’s a mess.
+- Edit 2: people have mentioned striking. Unfortunately postal workers aren't allowed to strike. I'd like to change this.
+- Edit 3: some people are asking for sources. Check r/usps, ruralinfo.net, or the union website nrlca.org
+- Edit 4: this is blowing up a bit. Thanks to those who gave me well wishes. I love my job and I love serving my customers. I just want fair pay.
+- Edit 5: This post took on a lot more attention than I could ever hope for. A special thanks to all the international postal workers in Canada and the UK that have reached out in the comments. Good luck to all my fellow postal workers both domestic and abroad.
+- Additional reading on why federal employees cannot legally srike:
+- https://libcom.org/article/1970-us-national-postal-strike
+- https://en.m.wikipedia.org/wiki/U.S._postal_strike_of_1970
+
+URL: https://prospect.org/labor/2023-04-21-rural-letter-carriers-reduced-pay/
+- After a new evaluation system is implemented, some workers could lose $8,000 per year or more. Threats to quit have been widespread.
+- by 
+    David Dayen
+- April 21, 2023
+- 5:15 AM
+- Jacqueline Dormer/Republican-Herald via AP
+- Letter carrier Greg Andregic loads his truck for the day in Pottsville, Pennsylvania, March 1, 2022.
+- A new payment system that is estimated to reduce base pay for most rural letter carriers, for some by thousands of dollars, has led to widespread threats of quitting and concern about whether the mail will get delivered in rural America.
+- The U.S. Postal Service intended to begin implementing the new system, known as the Rural Route Evaluated Compensation System, or RRECS, on Saturday, despite a grievance filed by the National Rural Letter Carriers’ Association union (NRLCA) seeking a 60-day delay and a release of the data that went into it. “We know and the USPS knows that there are errors that need to be corrected,” the NRLCA stated last week in a message to members. “The USPS’s position is to implement and correct the errors later” (emphasis in original).
+- The effective date for RRECS, which has been in the making for more than a decade, was recently delayed to April 8 and then to April 22. There are rumors that it has been delayed again for one more pay period, but since it was established by a binding arbitration ruling, at some point RRECS will govern rural letter carrier pay. Schedules were posted in some post offices with the new changes this week.
+- A preliminary review of the new system from the NRLCA found that two-thirds of all rural letter carriers are on track to lose at least one hour per week, and 44 percent will lose four hours or more. About 14 percent of carriers would gain hours. The changes can add to days worked while reducing hours on those days, which can reduce opportunities for overtime.
+- More from David Dayen
+- Two years ago, as RRECS was getting finalized, workers were told that most carriers would see modest changes at most. But losing four hours a week can translate into an annual salary cut of $8,000, according to letter carriers who spoke to the Prospect on condition of anonymity. Others have claimed pay cuts of 25 percent. One letter carrier estimated that the reductions sum to nine million man-hours per year, which translates to $270 million in savings for USPS.
+- Two weeks ago, the NRLCA said it was working to resolve disputes over implementation. The union has neglected to respond to multiple requests for comment.
+- Thus far, the inner workings of the RRECS algorithm and the calculations that went into it remain a closely guarded secret. But rural letter carriers have been told what the new evaluation means for them, and message boards, private Facebook groups, and other social media sites have lit up in the past few weeks as a result.
+- “I have an 80 mile rt. with 700 plus boxes … bare minimum, its a 5 hour rt. on a standard day, 6 hour rt on a heavy day. This is NOT right!!!!” wrote one letter carrier, who claimed to lose four hours per week, at a messaging site called Rural Mail Talk. “Just another tool to steal from their workers. When we have been short staffed for as long as we have i think they have lost hope on all new hires and now going to torture everyone that has stayed,” wrote another on Reddit.
+- Two-thirds of all rural letter carriers are on track to lose at least one hour per week, and 44 percent will lose four hours or more.
+- A TikTok video from another carrier, who claims he will lose $12,000 per year, cited the threats to the postal system from the changes. “A lot of you may not be getting mail today,” he says in the video. “We’ve had some people walk out.”
+- In a statement, USPS spokesperson David Coleman said, “The compensation system for rural letter carriers is a nationally negotiated pay system codified in the parties’ National Agreement. The current modifications to the compensation system were the result of a previous interest arbitration proceeding and mandated by an interest arbitrator. The parties worked jointly for years to implement these new provisions and will continue to share data and information throughout the implementation process.”
+- The agency did not respond to questions about how it will ensure mail delivery if walkouts increase.
+- UNLIKE OTHER LETTER CARRIERS who are paid by the hour, those who work in rural areas are paid based on an evaluation of how many hours per week it takes to complete their route. Some of these areas have an enormous footprint and require lots of driving. But under federal law, USPS must serve all mailboxes, regardless of whether they cost more money for delivery than the revenue they bring in.
+- For many years, an official mail count evaluated how long the route took to complete. For two to three weeks a year, every parcel, letter, and flat was counted and put into a formula. The subsequent number of hours, with a per-hour pay rate based on seniority, became a rural letter carrier’s base pay. If carriers get a route done in five hours that is supposed to take seven, they don’t have to move over to help with someone else’s route.
+- There were tensions between the union and USPS over whether the mail count could be manipulated to reduce pay. This became a point of contention in bargaining sessions, and after 2010 contract negotiations went to arbitration, the arbitrator ruled that a new formula was needed to determine routes. Both sides appointed engineers, along with an independent engineer, who designed RRECS. According to the arbitrator, the system was initially supposed to be in place by May 2015. But while there have been a series of delays, RRECS is mandated under a memorandum of understanding between the NRLCA and USPS.
+- To put RRECS together, rural letter carriers have been surveilled and tracked for the time it takes to perform all of their tasks, not for a couple of weeks but for an entire year. Workers also had to manually input “scans” of their work. The intricate list of what is getting tracked goes well beyond the old mail count.
+- Lower mail volumes and a reduction in Amazon packages, either through lighter post-pandemic demand or Amazon using its own drivers for last-mile service, could be potential reasons for the cuts. But without the data, it’s hard to say what prompted such a widespread shift. And there are reports of erroneous calculations.
+- A Texas-based letter carrier named Shelon Williams told KVUE in Austin that RRECS estimated only 71 percent of her route was covered on an average day. She claimed that she covered it in full.
+- “I urge you all to consider grieving any discrepancies you may have noticed in the new system,” said one letter carrier on Rural Mail Talk. “By doing so, we can bring attention to these issues and work towards finding a solution.” The carrier alleged that things like GPS signal loss and other calculation problems were prevalent.
+- Postmaster General Louis DeJoy said in remarks to the American Enterprise Institute last year that USPS plans to reduce the workforce by 50,000 over the next several years through attrition. The agency has suffered significant losses in recent years and is losing more money than expected this year. The 50,000 number would help the Postal Service break even, DeJoy said.
+- Some letter carriers who spoke to the Prospect suspected that RRECS was part of this plan, given that it could lead to significant resignations.
+- In addition, when package deliveries spiked during the pandemic, rural letter carriers were paid under the old evaluation system, and saw no bonus for those years. This has intensified the anger over losing hours.
+- There was a protest in Washington last week over the issue. And uncertainty over when the new pay rates will be implemented has frayed the nerves of many rural letter carriers. “Why don’t they just admit it’s flawed and delay indefinitely until they figure how to tweak it,” asked one user on Rural Mail Talk.
+- David Dayen is the Prospect’s executive editor. His work has appeared in The Intercept, The New Republic, HuffPost, The Washington Post, the Los Angeles Times, and more. His most recent book is ‘Monopolized: Life in the Age of Corporate Power.’
+- April 21, 2023
+- 5:15 AM
+- TAP depends on your support
+- We’ve said it before: The greatest threat to democracy from the media isn’t disinformation, it’s the paywall. When you support The American Prospect, you’re supporting fellow readers who aren’t able to give, and countering the class system for information. Please, become a member, or make a one-time donation, today. Thank you!
+- About the Prospect / Contact Info
+- Browse Archive / Back Issues
+- Subscription Services
+- Privacy Policy
+- DONATE TO THE PROSPECT
+- 
+- 
+- Copyright 2023 | The American Prospect, Inc. | All Rights Reserved
+
+URL: https://www.ruralinfo.net/preliminary-rrecs-evaluation-results-via-nrlca.html
+
+URL: https://bestlifeonline.com/usps-carrier-pay-cuts-controversy-news/
+- Our content is fact checked by our senior editorial staff to reflect accuracy and ensure our readers get
+			   sound information and advice to make the smartest, healthiest choices.
+- We adhere to structured guidelines for sourcing information and linking to other resources, including
+               scientific studies and medical journals.
+- If you have any concerns about the accuracy of our content, please reach out to our editors by e-mailing
+               [email protected].
+- A change in rules for certain carriers could lead to problems for customers.
+- Regular mail delivery is a vital service for the millions of us relying on the postal system to receive essential items like prescriptions and bills. But over the past year, the U.S. Postal Service (USPS) has been heavily criticized for problems involving missing mail. Customers claim they've suffered from ongoing issues with delivery delays and even stolen checks. Now, USPS workers are warning that a new problem may cause even more issues for customers. Read on to find out why you might not be getting your mail soon.
+- READ THIS NEXT: USPS Is Making These New Changes to Your Mail.
+- A long-lasting disagreement between the National Rural Letter Carriers' Association (NRLCA) and the USPS over how rural workers should be paid has resulted in the new Rural Route Evaluated Compensation System (RRECS).
+- Since 2013, the two agencies have been working together to reach a resolution and develop these new rules. The RRECS replaces the old manual evaluation process, serving as a mostly automated system that "will base compensation on volume data collected over a 12-month period," per the NRLCA.
+- According to an updated timeline, the official implementation of RRECS has started this month. On April 1, carriers received forms that summarize the data that will be used to determine their route evaluation—and how they'll be getting paid.
+- The first pay period under these rules begins on April 8, and rural USPS workers should expect to get their first RRECS-based paycheck on April 28.
+- Several USPS workers have taken to social media recently to share how the new RRECS rules are resulting in a significant pay reduction for them.
+- "I'm a postal worker. I took a 25 percent pay cut today," a Reddit user wrote on April 1. The carrier revealed that their pay is going down from $65,000 to $47,000, and that they're hardly the only one taking a hit.
+- "Almost every carrier in my office is also receiving a pay cut. Anywhere from 5-30%. Absolutely no one got an increase in pay," the user added.
+- Others say the implementation of RRECS is resulting in reduced hours, which is further affecting pay.
+- "Basically just got told that [I'm] going from 6 days a week to 1-2 days a week," another Reddit user wrote on April 1 in a discussion about the new system.
+- RELATED:
+			For more up-to-date information, sign up for our
+				daily newsletter.
+ae0fcc31ae342fd3a1346ebb1f342fcb
+- In a video posted to his TikTok account, @kellman9, USPS worker Kellman Kirkconnell warned customers about the situation.
+- "We just got told … a lot of us are losing money with our new pay system," Kirkconnell said in his TikTok, per Daily Dot. "I'm losing about $12,000 per year, guaranteed." (He clarified that he is actually losing $10,250 in a follow-up video.)
+- The video has since been removed but not before earning nearly 4 million views. According to Kirkconnell, the pay cuts have already pushed some postal carriers to abandon their work.
+- "A lot of you may not be getting mail today," he said. "We've had some people walk out, and other people lost way more than I did."
+- When Best Life reached out to the USPS about the new RRECS rules, the agency provided a statement about the change, but did not comment on concerns that it could affect customers' mail deliveries.
+- "The compensation system for rural letter carriers is a nationally negotiated pay system codified in the parties' National Agreement. The current modifications to the compensation system were the result of a previous interest arbitration proceeding and mandated by an interest arbitrator," the USPS said. "The parties worked jointly for years to implement these new provisions and will continue to share data and information throughout the implementation process."
+- But staffing problems have already been a concern for customers. In Dec. 2022, the Postal Service blamed a shortage of available employees as "the main factor" for delivery delays in several parts of the U.S., including Kansas City.
+- "Unfortunately, the Kansas City region, like many other areas of the country, has had trouble hiring the appropriate number of personnel," James Reedy, a government relations representative for the USPS, wrote in a response letter to two Missouri congressmen who sent a complaint about postal delays in the region.
+- Call them when you need a hand.
+- Here are the top six reasons why, experts say.
+- A genius hack.
+- These doctor-approved tips can ease your pain.
+- Cleaning experts have a lot to say on the topic.
+- These award-winners are a hot topic of discussion.
+- © 2023 Galvanized Media. All Rights Reserved. Bestlifeonline.com is part of the Dotdash Meredith Publishing Family.
+- © 2023 Galvanized Media. All Rights Reserved. Bestlifeonline.com is part of the Dotdash Meredith Publishing Family.
+
+URL: https://www.govexec.com/pay-benefits/2023/05/pay-cuts-have-rural-letter-carriers-scared-and-outraged/386376/
+- Overhaul of the pay structure for rural employees was a process that was years in the making and subject to a series of delays. 
+                  
+                    Don & Melinda Crawford/Education Images/Universal Images Group via Getty Images
+- 
+- Stay Connected
+- Eric Katz
+- Thousands of letter carriers at the U.S. Postal Service are starting to see new schedules that have reduced their hours and cut their pay, causing significant anxiety within the workforce.
+- The changes are part of a revamping of the pay structure for rural employees, a process that has been years in the making and subject to a series of delays. The new work schedules were slated to go into effect last month, but were repeatedly pushed back as the Postal Service sought to iron out kinks.
+- The National Rural Letter Carriers Association has filed a national grievance on the plan, saying USPS has withheld details on the data that underlies the new hour and pay calculations. The new system was developed in conjunction with the union after an arbitrator in 2012 said the two sides should come together to create a structure that better adapts to the mailing agency’s evolving business conditions.
+- The Rural Route Evaluated Compensation System, or RRECS, required USPS to electronically track the volume of mail and packages rural letter carriers deliver on a daily basis. The system was designed to capture all of the work activities the employees carry out, down to the level of how long it takes them to walk from their delivery trucks to mailboxes and back. After a lengthy process that required employees to input every step of their work days into a scanner—and a second effort after USPS required a new survey—about 66% of rural letter carriers are now seeing their pay reduced, according to a union estimate.
+- In addition to the union, lawmakers and individual employees—on social media and at rallies—are speaking out about the changes. Postmaster General Louis DeJoy recently told reporters the decision predated him and the matter was out of his hands.
+- “That was a negotiated process, an arbitrated process,” DeJoy said. “That was done a long time before I got here. And it's you know, it's unfortunate, but, I mean, it is what it is and I didn't decide it.”
+- Unlike rural letter carriers, their city-based counterparts are paid on a flat, hourly basis that is not dependent on how much mail they deliver. USPS has historically conducted occasional hand counts of the mail to determine the hours and pay for employees in rural locations, but the 2012 arbitration decision upended that process. The rural letter carriers union and postal management worked for years on developing the electronic replacement before finally deploying it last year. Several letter carriers who spoke to Government Executive said they received little training on how to properly log their work and criticized management for a lack of transparency.
+- Initially, employees praised the new system as USPS had conducted manual counts “irregularly and at a time of USPS' choosing when mail volumes were low,” one letter carrier who asked to remain anonymous said. Due to the ensuing confusion and the agency’s reluctance to turn over the underlying data that resulted, many employees have now lost faith in the process.
+- David Rodriguez, another rural letter carrier, said his post office employs 12 mail men and women, and 11 of them have lost hours under the new system. Some employees had their hours reduced so severely they will only be conducting auxiliary routes, which further reduces pay. Others, such as Rodriguez, will keep his 45 hours per week but will now have to work six days instead of five to achieve that. On an hourly basis, he said, he will be making far less money, while also losing a day off per week.
+- Rodriguez acknowledged there is an overall decline in the volume he is delivering. In 2011, he said, he was averaging between 4,000 and 5,000 mail pieces per day. Now it can be as low as 2,000 or range up to 3,500. The route still takes the same amount of time, he said, particularly as packages are slower to deliver. Rodriguez said he previously turned down other job offers because he likes being a rural letter carrier and his route in particular. The new system has completely changed the mood for him and his colleagues, however.
+- “It’s hurting a lot of us,” he said. “We’re all pretty scared.”
+- The aforementioned rural letter carrier who requested anonymity said she now expects many of her colleagues to find new jobs.
+- “I think the route values will have fallen so far that there will be an exodus of people who feel they cannot survive on their new calculations,” she said. “I think there will be confusion, tears, outrage and rejection.”
+- Earlier this month, Sens. Ron Wyden, D-Ore., Bernie Sanders, I-Vt., Elizabeth Warren, D-Mass., Sherrod Brown, D-Ohio, John Fetterman, D-Pa., and Ed Markey, D-Mass., sent a letter to DeJoy asking him to delay RRECS implementation, pointing to its “serious flaws.” Nearly 14,000 employees are set to lose more than eight hours of pay per week, they said, based on unreliable data.
+- “Implementing RRECS in its current form will arbitrarily enact a pay cut for tens of thousands of rural postal workers who still lack a formal dispute process and have a history of delayed back pay from the postal service,” the senators said. “Furthermore, USPS has withheld information about how RRECS has made its initial route evaluations.”
+- They requested that USPS share the data that led to the new route calculations, create a process for employees to dispute changes to their routes, explain how management decided to shorten the expected time to complete certain tasks and ensure the rural letter carrier workforce capacity does not diminish.
+- “At a time when USPS is struggling to deliver mail to rural areas, due in part to an inability to recruit rural letter carriers, we fear that RRECS’ impact on working conditions and pay will further deteriorate a vital service to our rural communities,” the senators said.
+- Dave Partenheimer, a USPS spokesman, said the new process was jointly negotiated by the agency and the union.
+- “The current modifications to the compensation system were the result of a previous interest arbitration proceeding and mandated by an interest arbitrator,” Partenheimer said. “The parties worked jointly for years to implement these new provisions and will continue to share data and information throughout the implementation process.”
+- A third rural letter carrier told Government Executive the changes demonstrated a lack of appreciation for what the workforce has endured in recent years.
+- “We were even on the front line during the last two years during Covid delivering everyday, exposing ourselves, risking our lives and our families’ lives,” the employee said, comparing that experience to some in management who were able to work remotely. “And we, the delivering employees, got absolutely nothing in return for our hard work but a pay cut.”
+- In April, Doug Tulino, the deputy postmaster general and USPS’ chief human resources officer, told the rural letter carriers union the new system would go into effect in early May after a delay to allow for a “further review of the data underlying these new route evaluations.” Tulino also vowed to finalize an “alternate dispute resolution process” for employees. USPS acknowledged it may have to adjust some routes that become “overburdened or substandard,” but it will not do that until after it has some time to conduct analysis of the implementation.
+- NEXT STORY:
+
+              Federal Prison Employees Ask the Supreme Court to Review COVID Hazard Pay Case
+- Do Not Sell My Personal Information
+- When you visit our website, we store cookies on your browser to collect
+          information. The information collected might relate to you, your preferences or your device, and is mostly
+          used to make the site work as you expect it to and to provide a more personalized web experience. However, you
+          can choose not to allow certain types of cookies, which may impact your experience of the site and the
+          services we are able to offer. Click on the different category headings to find out more and change our
+          default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary
+          Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the
+          cookie banner and remembering your settings, to log into your account, to redirect you when you log out,
+          etc.). For more information about the First and Third Party Cookies used please follow this link.
+- Manage Consent Preferences
+- Strictly Necessary Cookies - Always Active
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy
+          choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of
+          your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts
+          of the site will not work as intended if you do so. You can usually find these settings in the Options or
+          Preferences menu of your browser. Visit www.allaboutcookies.org
+          to learn more.
+- Sale of Personal Data, Targeting & Social Media Cookies
+- Under the California Consumer Privacy Act, you have the right to opt-out of the
+          sale of your personal information to third parties. These cookies collect information for analytics and to
+          personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal
+          information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and
+          will not hand over your personal information to any third parties. Additionally, you may contact our legal
+          department for further clarification about your rights as a California consumer by using this Exercise My
+          Rights link
+- If you have enabled privacy controls on your browser (such as a plugin), we have
+          to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the
+          web. This may affect our ability to personalize ads according to your preferences.
+- Targeting cookies may be set through our site by our advertising partners. They
+          may be used by those companies to build a profile of your interests and show you relevant adverts on other
+          sites. They do not store directly personal information, but are based on uniquely identifying your browser and
+          internet device. If you do not allow these cookies, you will experience less targeted advertising.
+- Social media cookies are set by a range of social media services that we have
+          added to the site to enable you to share our content with your friends and networks. They are capable of
+          tracking your browser across other sites and building up a profile of your interests. This may impact the
+          content and messages you see on other websites you visit. If you do not allow these cookies you may not be
+          able to use or see these sharing tools.
+- If you want to opt out of all of our lead reports and lists, please submit a
+          privacy request at our Do Not Sell page.
+        Save Settings
+- Cookie List
+- A cookie is a small piece of data (text file) that a website – when visited by a
+          user – asks your browser to store on your device in order to remember information about you, such as your
+          language preference or login information. Those cookies are set by us and called first-party cookies. We also
+          use third-party cookies – which are cookies from a domain different than the domain of the website you are
+          visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking
+          technologies for the following purposes:
+- Strictly Necessary Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy
+          choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of
+          your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts
+          of the site will not work as intended if you do so. You can usually find these settings in the Options or
+          Preferences menu of your browser. Visit www.allaboutcookies.org
+          to learn more.
+- Functional Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our
+          website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site
+          performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You
+          can set your browser to block or alert you about these cookies, but some parts of the site will not work as
+          intended if you do so. You can usually find these settings in the Options or Preferences menu of your
+          browser. Visit www.allaboutcookies.org
+          to learn more.
+- Performance Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our
+          website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site
+          performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You
+          can set your browser to block or alert you about these cookies, but some parts of the site will not work as
+          intended if you do so. You can usually find these settings in the Options or Preferences menu of your
+          browser. Visit www.allaboutcookies.org
+          to learn more.
+- Sale of Personal Data
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Social Media Cookies
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Targeting Cookies
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Help us tailor content specifically for you:
+
+- US Postal Inspection Service iCOP covert monitoring and surveillance
+- UK Post Office Horizon payment system scandal
+- Page infoType: IncidentPublished: May 2023

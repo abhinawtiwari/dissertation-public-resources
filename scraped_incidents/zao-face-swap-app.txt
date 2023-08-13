@@ -1,0 +1,298 @@
+- Occurred: September 2019
+- Can you improve this page?Share your insights with us
+- An app that enables users to superimpose a single image of their face onto videos of celebrities such as Leonardo di Caprio and Marilyn Monroe, ZAO quickly surged in popularity and was the most downloaded free app in China’s iOS App Store immediately after its launch in September 2019.
+- But with users and rights advocates concerned about privacy, copyright, and security, it also proved highly controversial.
+- One section of the app's user agreement stated that users uploading their images to ZAO gave it 'free, irrevocable, permanent, transferable, and relicenseable' rights over the intellectual property rights to their faces, and permitted ZAO to share their images with whomever they chose and use their images for marketing purposes.
+- ZAO lists Changsha Shenduronghe Network Technology, a wholly owned subsidiary of Momo that owns a live-streaming and dating service, as its developer. Momo apologised for the terms of the agreement and revised it to say that it would not 'excessively collect user information.'
+- Despite Momo's assurances, the ease with which identities could be swapped led platforms such as China's Weixin/WeChat to ban users from uploading ZAO-made videos to them on the basis that they were seen as a potential security risk.
+- Operator: Momo; AppleDeveloper: Momo Country: ChinaSector: Media/entertainment/sports/arts Purpose: Swap faces Technology: Deepfake - imageIssue: Privacy; Copyright; Security Transparency: Governance; Privacy
+- ZAO app website
+URL: https://www.bbc.co.uk/news/technology-49570418
+- An artificial-intelligence app that allows users to insert their faces in place of film and TV characters has caused controversy in China.
+- Zao has sparked privacy fears and suggestions it could be used to defeat systems using facial recognition.
+- It appeared in China on 29 August and has proven wildly popular.
+- But it has led to developers Momo apologising for its end-user agreement, which stripped users of the rights to their images.
+- And as the app went viral, Zao's owners aired fears users were devouring its expensively purchased server capacity.
+- Its popularity has also lead to assurances from Alipay, part of the Chinese web giant Alibaba, saying that it's impossible for so-called deepfake videos created by the app to be used to cheat its Smile to Pay facial-recognition system.
+- Zao is a face-swapping app that uses clips from films and TV shows, convincingly changing a character's face by using selfies from the user's phone.
+- But some users had noted the app's terms and conditions "gave the developers the global right to permanently use any image created on the app for free", Hong Kong's South China Morning Post reported.
+- "Moreover, the developers had the right to transfer this authorisation to any third party without further permission from the user," the paper said, adding experts believed this broke Chinese law.
+- Momo had subsequently deleted the controversial clause and issued an apology, saying its app would not store users' biometric information nor "excessively collect user information", Shanghai-based The Paper said.
+- But popular social media platform WeChat quickly banned users from uploading Zao videos via its platform, citing "security risks".
+- This video can not be played
+- WATCH: The face-swapping software explained
+- The app may also be a victim of its own success, with Zao saying, on its Sina Weibo social media account, it had used up a third of its monthly server capacity, budgeted at 7m yuan (£805,000), on its first night.
+- And the following day, as users complained of a slow service, it said, "with a heavy heart", servers were at fully capacity.
+- Alipay, the world's largest mobile payment platform, with over 870 million users, has assured its users videos created in Zao cannot be used to defraud its systems.
+- Many Alipay users take advantage of its Smile to Pay system, which allows payment verification by the user looking into a camera at a shop or restaurant's point-of-sale.
+- Alibaba, which owns Alipay, says it uses sophisticated anti-spoofing algorithms to make sure it isn't fooled by still photographs or deepfake videos.
+- "There is a lot of online face-changing software - but no matter how realistic, it is impossible to break through the facial payment system", the company said on its Weibo account.
+- Even before the system attempts to match the face, it detects whether the presented image is a still, video or software simulation.
+- "This avoids fraud caused by face-changing technology," Alibaba said.
+- Momo also moved to calm fears Zao could be used for fraud, clarifying Alipay's point it only used and adapted still photographs for its deepfake videos.
+- "The facial payment security threshold is extremely high, and 'face-changing' technology realised by only one photo can't break through the security system," the developers said.
+- It was "completely impossible" for deepfakes of this kind to threaten payment security, Momo told The Paper.
+- And last year, academic Pan Helin told China Daily Alipay's facial recognition was "theoretically a more secure and convenient method than the conventional use of passwords".
+- Concerns over the app reached state-run Chinese press.
+- Global Times said it was another example of "concerning" AI-powered apps "which could be used maliciously".
+- China was already considering tightening regulations governing AI face-stitching technology, the paper said.
+- And lawyer Zhang Xinnian told it the laws governing phone apps' terms and conditions needed to be tightened.
+- Zao's initial terms "violated user privacy and once personal information is leaked and abused it could lead to criminal incidents", he added.
+- Meanwhile, law professor Zhu Wei told state news agency Xinhua: "People are using a mobile client that involves information about personal identity, property, scan codes and mobile payments and they can't see exactly what information is obtained by the app, so it is very dangerous."
+- A commentary in the Beijing News even asked whether the app could become "a threat to national security".
+- With genuine concerns about national and personal security from Zao and future deepfake services, "it is necessary to regulate them as soon as possible with clear legal provisions", it added.
+- A Guangzhou Daily editorial said: "Changing-face videos is fun but the potential security risks cannot be ignored."
+- And The Paper said while Zao's popularity would be short-lived, its arrival had made it easier for dark actors to take advantage of face-changing technology.
+- BBC Monitoring reports and analyses news from TV, radio, web and print media around the world. You can follow BBC Monitoring  on Twitter and Facebook.
+- Facebook lets deepfake Zuckerberg remain
+- Mona Lisa 'brought to life' by AI
+- BBC newsreader 'speaks' languages he can’t
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.theguardian.com/technology/2019/sep/02/chinese-face-swap-app-zao-triggers-privacy-fears-viral
+- Critics say face-swap app could spread misinformation on a massive scale
+- A Chinese app that lets users convincingly swap their faces with film or TV characters has rapidly become one of the country’s most downloaded apps, triggering a privacy row.
+- Released on Friday, the Zao app went viral as Chinese users seized on the chance to see themselves act out scenes from well-known movies using deepfake technology, which has already prompted concerns elsewhere over potential misuse.
+- Users provide a series of selfies in which they blink, move their mouths and make facial expressions, which the app uses to realistically morph the person’s animated likeness on to movies, TV shows or other content.
+- In case you haven't heard, #ZAO is a Chinese app which completely blew up since Friday. Best application of 'Deepfake'-style AI facial replacement I've ever seen. Here's an example of me as DiCaprio (generated in under 8 secs from that one photo in the thumbnail) 🤯 pic.twitter.com/1RpnJJ3wgT
+- The company was forced to issue a statement on Sunday pledging changes after critics attacked the app’s privacy policy, which it had “free, irrevocable, permanent, transferable, and relicenseable” rights to all user-generated content.
+- There has been growing concern over deepfakes, which use artificial intelligence to appear genuine. Critics say the technology can be used to create bogus videos to manipulate elections, defame someone, or potentially cause unrest by spreading misinformation on a massive scale.
+- “We understand the concerns about privacy. We’ve received the feedback, and will fix the issues that we didn’t take into consideration, which will take some time,” a statement released by Zao said.
+- Zao is owned by Momo Inc, a Tinder-like dating service that is listed on the US Nasdaq.
+- It has since changed its terms to say it will not use headshots or videos uploaded by users, other than to improve the app. It also pledged to remove from its servers any content that was uploaded but subsequently deleted by users.
+- The backlash has not dented the app’s popularity. As of Monday afternoon it remained the top free download in China, according to the app market data provider App Annie.
+- Concerns over deepfakes have grown since the 2016 US election campaign, which saw wide use of online misinformation, according to US investigations.
+- In June, Facebook’s chief executive, Mark Zuckerberg, said the social network was struggling to find ways to deal with deepfake videos, saying they may constitute “a completely different category” of misinformation than anything faced before.
+
+URL: https://www.thepaper.cn/newsDetail_forward_4322786
+- 登录
+- 对用户协议涉嫌过度收集用户信息及隐私安全争议，AI换脸软件 “ZAO”首次做出回应。
+- 9月3日，“ZAO”运营团队发布声明称，作为一个初创产品，其在大家核心关切的问题上确实考虑不周。“这两天，我们一直在反思和修正。”
+- “我们非常理解大家对于隐私和安全问题的担忧，也很重视大家的各种反馈、意见和建议。我们第一时间对《用户协议》条款的文本进行彻底地梳理，对容易引发歧义的地方进行修改和调整。”ZAO还就大家关心的问题做以下说明：
+- 1. “ZAO”不会存储个人面部生物识别特征信息。
+- “ZAO”称，在用户使用过程中，为保护肖像权不被冒用，“ZAO”设置了真人验证环节，整个过程仅为验证用户上传的照片是您本人，为确保用户的信息安全，“ZAO”不会存储个人面部生物识别特征信息。
+- 2．“ZAO”所呈现的"换脸"效果，是根据用户提交的头像照片，按照用户选定的素材场景，通过后期技术叠加所实现的虚构图像，并没有采集任何个人生物识别特征。虚构图像能达到肉眼上近似，但并不是用户的真实信息。
+- 3．使用“ZAO”不会产生支付风险。
+- 刷脸支付安全门槛极高，仅通过一张照片实现的“换脸”技术完全无法突破刷脸支付的安全系统。权威支付平台也均从专业技术角度，强调“换脸”完全不可能威胁支付安全。
+- 4．用户删除信息或注销账号，“ZAO”均会依据相关法律法规的规定删除相应信息。目前有用户看到注销后的缓存信息，会在后续更新版本时修复。
+- 我们非常重视个人信息保护和数据安全，在产品中也运用了加密存储等多种安全措施，严格遵守法律法规的要求，全面保护个人信息和数据安全。
+- ZAO的运营团队，还对此前给大家造成疑虑和困扰再次致歉。
+- 8月30以来，打出“仅需一张照片，出演天下好戏”口号的“ZAO”刷屏朋友圈。大量用户使用这款App，上传自拍照片，将自己“变成”影视片段的主角，并将这些“改头换面”过的视频片段，上传微信朋友圈等社交平台，引发“病毒式”传播。
+- 短短两天之后的9月1日，在苹果应用商店App Store的免费App下载排名中，陌陌系出品的“ZAO”已经雄踞第一。其火爆程度可见一斑。
+- 与此同时，作为一款AI换脸软件，“ZAO”刷屏后引发的隐私安全焦虑也迅速升温。8月31日晚间开始，有网友聚集在“ZAO”的官方微博，要求注销账号，删除本地面孔。至9月1日晚间，“ZAO”在App Store的评分已由此前的4.6分降至1.9分。
+- 9月1日，澎湃新闻记者注意到，打出“仅需一张照片，出演天下好戏”口号的“ZAO”，微信分享链接已停止访问，页面显示“网页存在安全风险，被多人投诉，为维护绿色上网环境，已停止访问”。
+- 声明全文：
+- ZAO: 不会存储个人面部生物识别特征信息
+- 各位关心“ZAO”的朋友：
+- 很抱歉，新生的“ZAO”给大家带来了诸多疑虑。
+- 作为一个初创产品，我们在大家核心关切的问题上确实考虑不周。这两天，我们一直在反思和修正。
+- 我们非常理解大家对于隐私和安全问题的担忧，也很重视大家的各种反馈、意见和建议。我们第一时间对《用户协议》条款的文本进行彻底地梳理，对容易引发歧义的地方进行修改和调整，并就大家关心的问题做以下说明：
+- 1. “ZAO”不会存储个人面部生物识别特征信息。
+- 在您的使用过程中，为保护肖像权不被冒用，“ZAO”设置了真人验证环节，整个过程仅为验证您上传的照片是您本人，为确保您的信息安全，“ZAO”不会存储个人面部生物识别特征信息。
+- 2．“ZAO”所呈现的"换脸"效果，是我们根据您提交的头像照片，按照您选定的素材场景，通过后期技术叠加所实现的虚构图像，并没有采集任何个人生物识别特征。虚构图像能达到肉眼上近似，但并不是您的真实信息。
+- 3．使用“ZAO”不会产生支付风险。
+- 刷脸支付安全门槛极高，仅通过一张照片实现的"换脸"技术完全无法突破刷脸支付的安全系统。权威支付平台也均从专业技术角度，强调"换脸"完全不可能威胁支付安全。
+- 4．您删除信息或注销账号，“ZAO”均会依据相关法律法规的规定删除相应信息。目前有用户看到注销后的缓存信息，会在后续更新版本时修复。
+- 我们非常重视个人信息保护和数据安全，在产品中也运用了加密存储等多种安全措施，严格遵守法律法规的要求，全面保护个人信息和数据安全。
+- 此前给大家造成疑虑和困扰，我们再次致歉。感谢大家对我们产品的关注，我们会积极更新和完善服务，给大家带来更多新技术的愉快体验。
+- “ZAO”运营团队
+- 2019年9月3日
+- Android版
+- iPhone版
+- iPad版
+- 沪ICP备14003370号
+- 沪公网安备31010602000299号
+- 互联网新闻信息服务许可证：31120170006
+- 增值电信业务经营许可证：沪B2-2017116
+- © 2014-2023 上海东方报业有限公司
+
+URL: http://www.chinadaily.com.cn/global/2019-11/19/content_37523904.htm
+- 
+- Questions asked about use of technology
+- People in Zhengzhou, capital of Henan province, can now use the subway through facial recognition technology.
+- Introduced in September, facial recognition is available to passengers who link their online payment systems to the subway's smartphone app.
+- However, one traveler, Feng Yi, 25, who works for a tourism company in Zhengzhou, voiced his concerns. "I feel uncomfortable, because I don't know why the company is using my facial details, or whether they will be leaked," he said.
+- "Scanning people's faces in public places makes me feel unsafe, especially when the technology is being adopted elsewhere, such as banks, colleges and hotels."
+- He also questioned the need to collect facial information, saying that when he registered online accounts, he provided his phone and identity card numbers and his fingerprints. "I can hardly refuse to use the technology, as it is a precondition or obligatory for using some apps," he said.
+- Facial recognition is also being adopted in other cities. For example, Beijing Subway said last month it was testing such a system to help speed up security checks.
+- Heated debate on the legitimacy and ethics of using facial recognition spread on social media platforms after a face-swapping app named Zao allowed users to imitate celebrities from blockbuster movies or hit TV series through the use of artificial intelligence.
+- Zhao Zhanling, a legal researcher at the China University of Political Science and Law, said growing public concern over facial recognition is understandable.
+- "Compared with ID card and fingerprint information, facial recognition can help identify a person more accurately," he said. "If such information is collected improperly or leaked, the risks will be considerable."
+- Widespread use of the technology has heightened such concerns, because there is no law in China to regulate the use and collection of facial information, he said, suggesting that app operators, public service providers and government departments be more careful in preventing abuse of the science.
+- 
+- 
+- 
+- Li Ya, a lawyer from the Beijing Zhongwen Law Firm said, "The technology is no problem, but its adoption must be regulated before a special law is introduced."
+- Efficiency or privacy?
+- Guo Bing, an associate professor of law at Zhejiang Sci-Tech University, has the same concerns as Feng about the collection and use of personal information.
+- On Oct 28, Guo took the Hangzhou Safari Park to Fuyang District People's Court in Hangzhou, capital of Zhejiang province, over the collection and use of visitors' facial recognition details. Three days later, the court accepted the case. The litigation is believed to be the first in China involving such technology and comes as its use increases nationwide.
+- In April, Guo agreed to use fingerprint recognition to pay an annual fee of more than 1,000 yuan ($142) for an admission card to the park. But last month, the park told him its entry system was to be upgraded and card users had to supply facial information.
+- Yuan Xiaoqin, the park's brand manager, was quoted by China Central Television as saying: "Facial recognition can help a visitor enter the park in two or three seconds. Fingerprint information sometimes isn't sensitive, especially in cases of injury or when the fingers are too dry to enable recognition."
+- However, Guo disagreed and asked the park to return his payment. "Consumers will face big risks if their facial information is leaked, used illegally or abused," he said. "In collecting visitors' facial information, the park has seriously harmed their rights, and it didn't inform me about the upgrade when I registered the card.
+- "As a commercial business, the park will fall under suspicion of illegally collecting visitors' personal data if it applies facial recognition technology without their permission," he added.
+- Hou Guoji, a businessman from Xuzhou, Jiangsu province, said the demand for facial information should have been clarified when the park helped Guo register the card.
+- But he added that the technology can benefit people in daily life - for example, if they forget to carry their ID card at airports. "If the technology can be adopted in signing contracts or legal documents, I believe financial security will also be greatly improved," he said.
+- Li, the lawyer, said the speed and convenience brought by the technology for security checks and verifying identities is undeniable.
+- Zhao, the legal researcher, said: "Efficiency or privacy? That's the question in the fast-developing internet and technology era. With enhanced awareness of protecting personal information, the issue of better adopting technologies, including facial recognition, AI and deepfakes, must be urgently studied and regulated."
+- Deepfakes refers to using an image of a person and replacing it with someone else's likeness.
+- "If facial information is leaked, it will be hard to take effective compensatory measures," Zhao said. "That's why many users worry that such information may be collected unnecessarily or used improperly."
+- Li said he can understand some complaints about the technology, "as it can seem excessive after people have provided ID card and mobile phone numbers, along with fingerprint details".
+- Feng, from Zhengzhou, said: "There is too much being disclosed. It's like being naked in public."
+- He said the use of facial recognition technology by public security bureaus for investigative purposes is acceptable, "because I know why they collect the information and they also promise under their investigation rules not to release it and use it illegally".
+- "But elsewhere, such as hotels and colleges... ID card numbers and fingerprint details should be sufficient to verify identities."
+- Zhao said: "The use of facial information by institutions such as internet platforms and public service providers is akin to painting a person's portrait or figuring out who the person is more accurately. But I think the need for such a portrait should be the main factor in applying the technology."
+- Many netizens were attracted when Zao, the app, made its debut at the end of August, as it promised "amazing face exchanges". But later, public enthusiasm waned on suspicion that the app was collecting an excessive amount of personal information.
+- An agreement for using the app, which sparked widespread controversy online, stated, "Before you upload or post any content, you agree to grant Zao, its affiliates and Zao users worldwide the right to irrevocably use your original photos, synthesized photo and videos for free and for good ... and to make changes to the portraits of the original holders."
+- Zhao said: "At least people can refuse the app if they don't want their facial information disclosed, but sometimes such recognition is inevitable. For example, some businesses, banks and government departments have adopted the technology to check employees' work attendance."
+- He said there is no clear line governing who or which institution can collect people's facial information. "Some collect it for security purposes, others for enhanced efficiency, or even for fun."
+- Law on the way
+- 
+- 
+- Li said that although there is no specific law on the use of the technology and on protecting personal information, some Chinese legislation does relate to privacy protection.
+- For example, the Cybersecurity Law stipulates that people or institutions must make "legitimacy and necessity" a priority in collecting or using personal information, and should ensure transparency. The law also states that providers must be told how their information is used and why it is needed, and this should be based on agreement.
+- Feng said, "The onus on providing facial recognition details should rest with the person concerned, instead of he or she being forced to do so."
+- Zhao said it was time China set a "threshold" for applying such technology and that supervision should be stepped up before the introduction of related laws.
+- In March, Zhang Yesui, spokesman for the second session of the 13th National People's Congress, the country's top legislature, placed legislation relating to protecting personal information on the agenda and said government departments and agencies were working on a draft law.
+- Gao Zicheng, a legislator and lawyer, said the drafting is a "must" but will require a significant amount of time, because it is difficult to define what personal data is and how much private information can be disclosed.
+- In addition, ensuring development of the technology while guaranteeing the security of personal information is a challenge, as there is no conflict between privacy protection and the legitimate collection or use of data, he said.
+- Contact the writers at caoyin@chinadaily.com.cn
+- 
+- 
+- 
+- 
+- Facial recognition technology captures images of a woman violating traffic regulations in Jinhu county, Jiangsu province. Yang Huisheng / For China Daily
+- 
+- Facial recognition technology captures images of a woman violating traffic regulations in Jinhu county, Jiangsu province. Yang Huisheng / For China Daily
+- 
+- 
+- (China Daily Global 11/19/2019 page1)
+
+URL: http://www.sixthtone.com/news/1004513/chinese-deepfake-app-censured-over-privacy-concerns
+- Subscribe to our newsletter
+- FOLLOW US
+- A newly released face-swapping app has come under fire for a clause in its terms and conditions allowing it to sell users’ photos and videos, Sixth Tone’s sister publication, The Paper, reported Sunday.
+- Zao — meaning “make,” “build,” or “fabricate” in Mandarin — turns users into “stars” by digitally grafting their faces onto the bodies of celebrities in scenes from movies, TV shows, and music videos to create what is known as a “deepfake,” a technological portmanteau combining “deep learning” and “fake.”
+- After downloading the app, users are asked to upload photos of themselves that can be used to make a face-flipped clip of their choice. Each video takes less than 10 seconds to generate, with enhanced quality if users agree to let their cellphone’s camera film their face from various angles, and while blinking their eyes or opening their mouths.
+- Lei Xiaoliang — head of the Changsha-based company that developed Zao — also co-founded Momo, one of China’s most popular dating apps. Since its release Friday, Zao has rocketed up the charts to become the No. 2 most widely downloaded free app on Apple’s China app store as of Monday evening.
+- 
+- Over the past three days, Zao users have been sharing self-made videos on their social feeds on WeChat, Tencent’s ubiquitous messaging app. Zao’s average ratings, however, dropped dramatically across several app stores after netizens discovered a problematic clause in the user agreement. The clause — which has since been deleted — said Zao maintained the portrait rights to user-supplied images within the app, as well as the right to distribute or sell such images.
+- On Monday, Sixth Tone found that, while video clips and GIFs could still be downloaded from Zao and shared on WeChat, the messaging app had blocked users from accessing Zao within its interface: Now, when WeChat users click their friends’ posts shared from Zao, they are greeted with a message saying the third-party app “has been reported multiple times and contains security risks.”
+- Meanwhile, on China’s other dominant social app, microblogging platform Weibo, a hashtag about Zao content being partially blocked on WeChat had been viewed over 160 million times by Monday evening.
+- On Sunday, Zao addressed the public’s privacy concerns in a Weibo post. “We understand everyone’s concerns about privacy and have received all of your feedback,” the app wrote. “We will make changes in areas we hadn’t considered well, and we need some time (to do this).”
+- The current version of Zao’s user agreement is prefaced by a note clarifying that “user content will remain exclusively with Zao” unless users consent to having it shared elsewhere. When users delete videos, they are simultaneously removed from Zao’s servers, the agreement further states. The original clause about Zao’s unfettered, permanent ownership of its users’ portrait rights has been removed.
+- However, these latest assurances seem to have done little to placate netizens, many of whom are still calling for the app’s removal. “Can the app be quickly taken off the app store? Don’t let it stay there continuing to harm society,” one Weibo user commented under Zao’s post.
+- On Monday, a Chengdu-based lawyer who blogs under the pen name Fashanshu explained that, under Article 41 of China’s cybersecurity law, network operators are forbidden from sharing citizens’ personal information. If Zao intends to transfer users’ portrait rights and related information to third parties, as suggested by the app’s initial user agreement, this “could potentially violate relevant laws,” the lawyer wrote.
+- A college student who spoke to Sixth Tone said she was initially impressed by Zao’s capabilities but later worried whether the app could be used to damage reputations. “When I first saw my friend share her Zao video, I liked it quite a lot because the clip was from a movie I like and her face fit (into the scene) perfectly,” said Cai Ziying, a third-year student at Shanghai Lixin University of Accounting and Finance. “But I no longer want to give the app a try because I’m afraid it might put my face on an incriminating video and send it to my parents.”
+- In February, a deepfake video of mainland actor Yang Mi’s face convincingly superimposed onto Hong Kong actor Athena Chu’s body went viral on Weibo, prompting its creator to come forward and explain that he had merely wanted to make people “more aware of how (deepfakes) could be used in the future.”
+- Editor: David Paulk.
+- (Header image: A promotional photo for the Zao “deepfake” app. IC)
+- 
+- FOLLOW US
+- Subscribe to our newsletter
+
+URL: https://edition.cnn.com/2019/09/03/tech/zao-app-deepfake-scli-intl/index.html
+- Markets
+- Fear & Greed Index
+- Latest Market News
+- A new Chinese app that lets people swap faces with celebrities is updating its policies after a backlash from users concerned about their privacy and how its convincing fake image technology could be used.
+- The app, called Zao, works by superimposing an image of the user’s face onto a character in a video or GIF using artificial intelligence (AI). It was uploaded to China’s iOS App Store on Friday and became the most downloaded free app on the store by Sunday, according to tracking firm App Annie.
+- To use the app, you can sign up using your phone number and then upload images of your face from your phone.
+- Then you can choose from a number of videos — featuring celebrities such as Leonardo DiCaprio and Marilyn Monroe — onto which you can superimpose your face before sharing the results with your friends.
+- But privacy concerns were raised when people noticed the user agreement said people who uploaded photos surrender intellectual property rights to their face and allow Zao to use their image for marketing, according to Reuters. The user agreement has since been updated, and CNN Business could not immediately verify the original language independently.
+- The Democratic Party deepfaked its own chairman to highlight 2020 concerns
+- Zao also raised questions about how the images could be used. Creating convincing fake audio and video — known as “deepfakes” — isn’t new, but it previously took a great deal of time, skill and money. An app like Zao brings that technology to smartphone users around the world.
+- On Tuesday, Zao said it had changed its user agreement to address “concerns about privacy and safety issues.”
+- “This is a new product. We were indeed inconsiderate about people’s core concerns,” the company said in a statement posted on the Chinese social media website Weibo.
+- According to the latest version of its user agreement, Zao “will try its best, based on the privacy terms, to use the content you have authorized us to use within a reasonable, necessary and expressly stated extent.”
+- “Your necessary authorization and agreement will not change your ownership of the intellectual property rights,” according to the terms.
+- The company also promised in its statement not to store “facial biometric data” on its app. It also said it would delete information about users “according to the law” if they erase their accounts. Parent company Momo Inc. told CNN Business that would also apply to any users who signed the app’s original terms and conditions.
+- “We protect personal data and value data safety,” Zao added. “We’ve also adopted several safety measures including storage encryption.”
+- Zao proved so popular that the app’s servers almost crashed due to the sheer number of users, according to a post the app makers published Saturday on Weibo.
+- One Twitter user, Allan Xia, uploaded a video of his face swapped with Leonardo DiCaprio’s.
+- Xia called the app the “best application of ‘Deepfake’-style AI facial replacement I’ve ever seen,” and said the video was generated in under eight seconds from one photo.
+- Concerns about fraudulent use of the app even prompted a response from Alipay, a popular Chinese online payment system.
+- “Rest assured that no matter how sophisticated the current facial swapping technology is, it can not deceive our payment apps,” Alipay said in a statement Sunday on its Weibo account. “Even if the extremely rare case that an account is stolen, insurance companies will cover lost funds in full.”
+- Zao said in its Tuesday statement that the use of its system would not cause “payment risks,” adding that the “security threshold for facial recognition payment is extremely high.”
+- The issues raised by Zao are reminiscent of FaceApp, another viral app that uses AI to transform user photos.
+- FaceApp's viral success proves we will never take our digital privacy seriously
+- In early 2017, the service received a wave of press publicity for using artificial intelligence to transform pictures of faces, making them look older or younger, male or female, or adding a smile to appear happier.
+- It then went viral again in July 2019 and was met with renewed privacy concerns. The fears were sparked by an unverified — and now deleted — claim from a developer on Twitter about the app “uploading all your photos,” along with the simple fact that the company is based in St. Petersburg, Russia.
+- In one densely-worded section of the terms of service, FaceApp informed users that they grant “a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully-paid, transferable sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed, without compensation to you.”
+- In other words, the company could effectively do what it wanted with your selfie.
+- Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+- © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.
+
+URL: https://www.theverge.com/2019/9/2/20844338/zao-deepfake-app-movie-tv-show-face-replace-privacy-policy-concerns
+- By  Jon Porter, a reporter with five years of experience covering consumer tech releases, EU tech policy, online platforms, and mechanical keyboards.
+- If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.
+- Zao, a free deepfake face-swapping app that’s able to place your likeness into scenes from hundreds of movies and TV shows after uploading just a single photograph, has gone viral in China. Bloomberg reports that the app was released on Friday, and quickly reached the top of the free charts on the Chinese iOS App Store. And like the FaceApp aging app before it, the creators of Zao are now facing a backlash over a perceived threat to user privacy.
+- Twitter user Allan Xia posted a neat demonstration of what the app is capable of yesterday with a 30 second clip of their face replacing Leonardo Dicaprio in famous moments from several of his films. According to Xia, the clips were generated in under eight seconds from just a single photograph, however Bloomberg notes that the app can also guide you through the process of taking a series of photographs — where it will ask you to open and close your mouth and eyes — to generate more realistic results.
+- According to Xia, the app only offers a limited number of clips for you to insert your face into. The app’s developer has likely trained their algorithms on each of these clips to easily re-map a user’s face onto them, as Xia speculates. The app cannot map your face onto any video clip of your choosing.
+- The technology looks similar to what we’ve seen recently from researchers at London’s Imperial College, who showed off technology that’s able to turn a single photo into a singing portrait. The difference here is that Zao is inserting your likeness into an existing video, rather than animating a photo of you directly.  Nevertheless, it demonstrates how quickly the underlying technology has evolved: what once required hundreds of images to create a rather convincing deepfake video now requires just a single image with better results.
+- An almost-immediate backlash from users over privacy
+- Zao’s privacy policy generated an almost-immediate backlash from users, who bombarded its App Store listing with thousands of negative reviews. The Zao app lists the developer as Changsha Shenduronghe Network Technology, which Bloomberg notes is a wholly owned subsidiary of Momo, a Chinese company that owns a live-streaming and dating service.
+- The privacy policy includes a clause which says that its developer gets a “free, irrevocable, permanent, transferable, and relicense-able” license to all user-generated content, according to Bloomberg. The company has been forced to quickly respond to the criticism, and now says it won’t use its users’ photos or videos for anything other than app improvements without their consent. It will also erase user data from its servers when users delete their data from the app.
+- It’s a similar controversy to the one that surrounded FaceApp earlier this year, when the face-aging app again went viral in July. The app’s developer was forced to clarify its privacy policy, and to offer users the option of deleting their photos off its servers if they wished. In the case of FaceApp, commentators were quick to point out that the app’s privacy policy was no more invasive than many of the most popular mobile apps across the world.
+- Protesters in Hong Kong are going to great lengths to cover their faces over fears that police are using facial recognition technology to identify and arrest targets. People are increasingly aware of how important their facial imagery data is, and are rightly concerned about companies who don’t make adequate safeguards to protect it.
+- Whenever a service is provided for free, a company is inevitably profiting from your data. Sometimes it’s for better ad targeting, sometimes it’s to train their AI for better facial recognition. You often don’t know.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://abcnews.go.com/US/chinese-deepfake-app-zao-fire-privacy-concerns/story5
+
+URL: https://www.forbes.com/sites/zakdoffman/2019/09/02/chinese-best-ever-deepfake-app-zao-sparks-huge-faceapp-like-privacy-storm/
+- iOS App Store
+- China is having its own FaceApp privacy storm—you'll need to ignore the irony for a moment, as the ZAO face-swapping app has become an overnight sensation. ZAO enables users to upload images and then its AI engine swaps their faces with those of celebrities in a wide selection of different video clips.
+- Launched on Friday [August 30], ZAO became the most downloaded app in China's iOS App Store over the weekend. The issue, unsurprisingly, is that the deepfake sensation has been slammed as a privacy disaster waiting to happen.
+- Just as with the FaceApp controversy, it is ZAO's privacy policy as much as its technology that has caused concerns. Again, this is down to the rights being granted by users to the developers over the images uploaded. Ostensibly just for processing and marketing purposes, this boils down to a stack of free data made available for indiscriminate usage.
+- The FaceApp controversy combined a loose privacy policy with the apparent risk of "sending" data to Russia—albeit the publicity around that risk was almost entirely overblown. With ZAO, the user base is in China, so it doesn't have the same international data security dimension. Of course, any international expansion will raise the spectre of sending data to China in much the same way.
+- For the time being, the privacy storm remains in China, intensified by the fact that the data is being given to MOMO Inc, an organisation that is literally in the "identity exchange" game, albeit for entertainment purposes.
+- "We thoroughly understand the anxiety people have towards privacy concerns," the company behind ZAO assured its users on Weibo, later picked up by the media. "We have received the questions you have sent us. We will correct the areas we have not considered and require some time."
+- The privacy issue dropped ZAO's App Store ratings—but, as with FaceApp, there's an element here of "any publicity being good publicity," and the media profile hasn't hurt the market appeal of an app described by some as the best of its kind. This isn't the first face-swapping technology to drive a viral consumer craze—and it won't be the last. But it's clear illustration of how quickly the technology is advancing and how (relatively) easily it can be deployed.
+- Two factors stand out here. First, this privacy storm looks to have developed even faster than we saw with FaceApp—Chinese tech giant Tencent has already reportedly blocked links to the app from its dominant WeChat messaging platform, citing "security risks." And, second, this is a data privacy issue in China, where expectations of data security and monitoring are materially different than in the West.
+- In fact, such is the backlash in China over the ZAO app, that even state-controlled media is running the story. And this from the country that has just been accused of mounting a two-year hacking campaign on Apple, Android and Microsoft devices.
+- For the time being, one can expect the privacy policies surrounding the app to adapt and change to reflect user concerns. And then we can focus on the ease of mass deployment of a powerful deepfake application, which in itself raises all kinds of concerns.
+- 
+
+URL: https://www.technologyreview.com/2019/09/04/133170/ai-app-in-china-makes-you-movie-star-risks-privacy/
+- ZAO, a viral Chinese app that uses AI to face-swap users and famous actors, is now embroiled in a major privacy controversy.
+- The news: On Friday, a new app released by Momo, a social-media developer, instantly went viral on Chinese social media. It allows users to upload a single portrait and, within seconds, see their face superimposed onto actors in iconic movie scenes. By Sunday, it had become the most downloaded free entertainment app in China’s Apple Store.
+- AI fakery: It’s the latest—and perhaps most impressive—application of generative adversarial networks, or GANs, the AI algorithms behind deepfakes. While GANs have been used for face-editing and face-swapping before (increasingly so in Hollywood films), ZAO’s use of a single photo, coupled with the speed and seamlessness of its swap, demonstrates how far the state of the art in media fakery has advanced.
+- The controversy: Within hours of its release, ZAO began to spark privacy concerns, specifically over a clause in the user agreement that gave developers the right to use all uploaded photos for free in perpetuity. It also allowed them to transfer that right to any third party without user permission. Legal experts in China said that wasn’t legal, and by Saturday, the app’s developer had caved under pressure and removed the clause. WeChat, China’s top social-networking app, also banned any sharing of footage or photos from ZAO.
+- Déjà vu: The episode replayed a similar controversy over FaceApp, a photo-editing app that went viral in July. The app also used GANs to retouch people’s portraits and had amassed over 150 million photos of faces since its launch. ZAO received a much quicker and sharper backlash, but it too had likely already been used by millions of users by the time it revised its policy. On one hand, the frequency of such incidents shows how easily a user’s personal data can now be co-opted and repurposed beyond his or her control. On the other, it shows that people have also become more sensitive to privacy and are less willing to give it up without a fight.
+- To have more stories like this delivered directly to your inbox, sign up for our Webby-nominated AI newsletter The Algorithm. It's free.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+- DeepFaceLive face swapping
+- FaceApp facial transformations
+- Page infoType: IncidentPublished: March 2023

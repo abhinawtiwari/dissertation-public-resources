@@ -1,0 +1,10 @@
+Objective: verification of incorrect values.
+Two categories here: verfiable and unverfiable
+
+the ones about importance/severity/likelihood/consequence being high/medium/low are quite subjective to the opinions of the audience.
+It's difficult even for a human to discern.
+Other field such as the ones having the region the incident occured in is verifiable from the article.
+
+Verification - manual and automated
+manual needs long reading of the articles and slow.
+Automated verification can increase the productivity of manual verification and also present an idea of accuracy of the results.

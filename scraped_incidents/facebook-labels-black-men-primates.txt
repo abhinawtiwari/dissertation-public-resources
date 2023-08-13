@@ -1,0 +1,119 @@
+- Occurred: September 2021
+- Can you improve this page?Share your insights with us
+- Facebook's recommendation system has been discovered to be asking users watching a Daily Mail video featuring Black men whether they like to '[k]eep seeing videos about Primates.'
+- The video was published late June by the Daily Mail on its Facebook page and depicted white people, including police officers, confronting Black men. No primates were shown.
+- The discovery led to widespread condemnation of Facebook apparent inability to manage unsafe content on its platform, and to discussions about its over-reliance on technology to detect and manage unsafe content.
+- The company apologised for its 'unacceptable error', said it had disabled its topic recommendation feature responsible for the message, and will look to ensure it does not happen again.
+- Operator: Meta/Facebook Developer: Meta/FacebookCountry: USA Sector: TechnologyPurpose: Recommend topics Technology: Topic recommendation systemIssue: Bias/discrimination - race Transparency: Governance; Black box
+URL: https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html
+- Please enable JS and disable any ad blocker
+
+URL: https://engadget.com/facebook-ai-mislabels-video-black-men-primates-044255703.html
+- Facebook has apologized after its AI slapped an egregious label on a video of Black men. According to The New York Times, users who recently watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to "[k]eep seeing videos about Primates." The social network apologized for the "unacceptable error" in a statement sent to the publication. It also disabled the recommendation feature that was responsible for the message as it looks into the cause to prevent serious errors like this from happening again.
+- Company spokeswoman Dani Lever said in a statement: "As we have said, while we have made improvements to our AI, we know it's not perfect, and we have more progress to make. We apologize to anyone who may have seen these offensive recommendations."
+- Gender and racial bias in artificial intelligence is hardly a problem that's unique to the social network — facial recognition technologies are still far from perfect and tend to misidentify POCs and women in general. Last year, false facial recognition matches led to the wrongful arrests of two Black men in Detroit. In 2015, Google Photos tagged the photos of Black people as "gorillas," and Wired found a few years later that the tech giant's solution was to censor the word "gorilla" from searches and image tags.
+- The social network shared a dataset it created with the AI community in an effort to combat the issue a few months ago. It contained over 40,000 videos featuring 3,000 paid actors who shared their age and gender with the company. Facebook even hired professionals to light their shoot and to label their skin tones, so AI systems can learn what people of different ethnicities look like under various lighting conditions. The dataset clearly wasn't enough to completely solve AI bias for Facebook, further demonstrating that the AI community still has a lot of work ahead of it.
+
+URL: https://www.telegraph.co.uk/news/2021/09/04/facebook-sorry-labelling-black-men-primates-video/
+- Company blames topic recommendation software for 'clearly unacceptable error'
+- Facebook on Friday said it disabled its topic recommendation feature after it mistook black men for "primates" in video at the social network.
+- A Facebook spokesperson called it a "clearly unacceptable error" and said the recommendation software involved was taken offline.
+- "We apologise to anyone who may have seen these offensive recommendations," Facebook said.
+- "We disabled the entire topic recommendation feature as soon as we realised this was happening so we could investigate the cause and prevent this from happening again."
+- Facial recognition software has been criticised by civil rights advocates who point out problems with accuracy, particularly when it comes to people who are not white.
+- Facebook users in recent days who watched a British tabloid video featuring black men were shown an auto-generated prompt asking if they would like to "keep seeing videos about primates", according to The New York Times.
+- The June 2020 video in question, posted by the Daily Mail, is titled "White man calls cops on black men at marina."
+- A screen capture of the recommendation was shared on Twitter by former Facebook content design manager Darci Groves.
+- "This 'keep seeing' prompt is unacceptable," Ms Groves tweeted, aiming the message at former colleagues at Facebook.
+- "This is egregious."
+
+URL: https://eu.usatoday.com/story/tech/2021/09/03/facebook-video-black-men-primates-apology/5721948001/
+- Facebook apologized after it mislabeled a video of Black men as “primates,” the latest in a series of racial gaffes by artificial intelligence systems that technology companies use to automate recommendations and other features.
+- Facebook users who recently watched a video from The Daily Mail featuring clips of Black men in altercations with white police officers and civilians received a prompt asking if they would like to “keep seeing videos about Primates,” the New York Times reported late Friday.
+- "This was clearly an unacceptable error and we disabled the entire topic recommendation feature as soon as we realized this was happening so we could investigate the cause and prevent this from happening again," Facebook spokesperson Dani Lever said in a statement to USA TODAY.
+- "As we have said, while we have made improvements to our AI we know it's not perfect and we have more progress to make," she said. "We apologize to anyone who may have seen these offensive recommendations."
+- ►Talking about abortion online in Texas? What you say on Facebook or Twitter could hurt you
+- ►Texas abortion law: TikTok coder creates iPhone shortcut to send whistleblower site fake tips
+- Facebook often touts its artificial intelligence that it trains using images uploaded by users.
+- This is not the first time that a technology company has come under fire for racial bias in its automated systems.
+- In 2015, Google apologized after its Photos application mistakenly identified black people as "gorillas."
+- Another incident a year later had Google image searches for “three Black teenagers” showing mugshots and “three white teenagers” showing smiling white teens. That same year, Microsoft’s AI chatbot Tay began spouting racial slurs and had to be yanked offline.
+- Other signs of racial bias creeping into technology products include Instagram filters that lighten skin or fetishize ethnic features and Snapchat filters that use blackface or caricatures of Asians.
+
+URL: https://www.thedailybeast.com/facebook-ai-slaps-primates-label-on-daily-mail-video-of-black-men
+- SEARCH
+- CHENE REACTION
+- NOT WHAT YOU WANT
+- ‘SPARKS FLYING’
+- CRISIS (ALMOST) AVERTED
+- CAUSE UNKNOWN
+- ‘HORRIFIC’
+- CONTAMINATED
+- ‘I DARE YOU’
+- ‘AN UNACCEPTABLE ERROR’
+- Reporter/Editor
+- Facebook’s artificial intelligence slapped a racist label on a video of Black men, asking users who had watched the video if they would like to “keep seeing videos about Primates.” The video, published in late June by The Daily Mail, depicted white people, including police officers, confronting Black men, often unprompted. It showed no primates. The social media company apologized in a statement to The New York Times, calling the AI’s action “an unacceptable error,” saying it had shut off the feature for the time being, and promising to research ways to “prevent this from happening again.” The error calls to mind a similar misstep by Google in 2015, when Google Images labeled pictures of Black people as containing gorillas.
+
+URL: https://www.thewrap.com/facebook-apology-primates-label-video-black-men/
+- The incident, generated by artificial intelligence software, ”was clearly an unacceptable error,“ the social network giant says
+- Getty Images
+- Facebook apologized Friday after a video featuring Black men in confrontations with white police officers and other civilians was found to be labeled by artificial intelligence software as a video “about primates.”
+- “This was clearly an unacceptable error and we disabled the entire topic recommendation feature as soon as we realized this was happening so we could investigate the cause and prevent this from happening again,” Facebook said in a statement to USA Today.
+- The Daily Mail video published to Facebook, first reported by The New York Times, was accompanied by a prompt asking whether users would like to “keep seeing videos about Primates.”
+- “As we have said, while we have made improvements to our AI we know it’s not perfect and we have more progress to make,” the Facebook statement said. “We apologize to anyone who may have seen these offensive recommendations.”
+- Fellow Big Tech giants Google and Microsoft have faced backlash for similar race-related mistakes stemming from automated applications.
+- In 2015, Google apologized after its Photos feature auto-labeled Black people as “gorillas.” A year later, image searches on Google were found to show police mugshots when “three Black teenagers” was entered, while an entry for “three white teenagers” surfaced smiling white teens.
+- Also in 2016, Microsoft shut down its chatbot Tay after it started using racial slurs.
+- Please fill out this field.
+- Photo by Corina Marie for TheWrap
+- I agree with TheWrap's Terms of Service and Privacy Policy and provide my consent to receive marketing communications from them.
+- 
+
+URL: https://www.news.com.au/breaking-news/facebook-mistakenly-labels-black-men-primates/news-story/48d4bb3956b64eaf58b71d1a7953256b
+- Facial recognition software has been blasted by civil rights advocates who point out problems with accuracy, particularly it comes to people who are not white
+- Facebook on Friday said it disabled its topic recommendation feature after it mistook Black men for "primates" in video at the social network.
+- A Facebook spokesperson called it a "clearly unacceptable error" and said the recommendation software involve was taken offline.
+- "We disabled the entire topic recommendation feature as soon as we realized this was happening so we could investigate the cause and prevent this from happening again."
+- Facebook users in recent days who watched a British tabloid video featuring Black men were show an auto-generated prompt asking if they would like to "keep seeing videos about Primates," according to the New York Times.
+- While humans are among the many species in the primate family, the video had nothing to do with monkeys, chimpanzees or gorillas.
+- "This 'keep seeing' prompt is unacceptable," Groves tweeted, aiming the message at former colleagues at Facebook.
+- gc/ch
+- ...
+- Bola Tinubu vows to unite and secure Africa's troubled giant
+- Outcry as Uganda's anti-gay bill signed into law
+- Erdogan confronts polarised Turkey after historic win
+- Our Apps
+
+URL: https://www.theverge.com/2021/9/4/22657026/facebook-mislabeling-video-black-men-primates-algorithm
+- By  Kim Lyons
+- Facebook is apologizing for an incident where its AI mislabeled a video of Black men with a “primates” label, calling it an “unacceptable error” that it was examining to prevent it from happening again. As reported by the New York Times, users who watched a June 27th video posted by the UK tabloid Daily Mail received an auto-prompt asking whether they wanted to “keep seeing videos about Primates.”
+- Facebook disabled the entire topic recommendation feature as soon as it realized what was happening, a spokesperson said in an email to The Verge on Saturday.
+- “This was clearly an unacceptable error,” the spokesperson said. The company is investigating the cause to prevent the behavior from happening again, the spokesperson added. “As we have said, while we have made improvements to our AI we know it’s not perfect and we have more progress to make. We apologize to anyone who may have seen these offensive recommendations.”
+- The incident is just the latest example of artificial intelligence tools showing gender or racial bias, with facial recognition tools shown to have a particular problem of misidentifying people of color. In 2015, Google apologized after its Photos app tagged photos of Black people as “gorillas.” Last year, Facebook said it was studying whether its algorithms trained using AI—including those of Instagram, which Facebook owns— were racially biased.
+- In April, the US Federal Trade Commission warned that AI tools that have demonstrated “troubling” racial and gender biases may be in violation of consumer protection laws if they’re used decision-making for credit, housing or employment. “Hold yourself accountable— or be ready for the FTC to do it for you,” FTC privacy attorney Elisa Jillson wrote in a post on the agency’s website.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.forbes.com/sites/edwardsegal/2021/09/04/facebook-apologizes-for-embarassing-mistake-caused-by-ai/
+- In this photo illustration Facebook logo can be seen, Kolkata, India, 28 February, 2020. Facebook ... [+] Inc on Thursday announced its decision to cancel its annual developer conference due to Coronavirus outbreak according a news media report.  (Photo by Indranil Aditya/NurPhoto via Getty Images)
+- Some crisis situations are caused by what people say or do. On occasion, a crisis—or an embarrassing incident—is caused by technology.
+- The New York Times reported yesterday that, “Facebook users who recently watched a video from a British tabloid featuring Black men saw an automated prompt from the social network that asked if they would like to ‘keep seeing videos about Primates’, causing the company to investigate and disable the artificial intelligence-powered feature that pushed the message.
+- “This was clearly an unacceptable error and we disabled the entire topic recommendation feature as soon as we realized this was happening so we could investigate the cause and prevent this from happening again,” Facebook spokeswoman Dani Lever said in a statement to USA Today.
+- “As we have said, while we have made improvements to our AI, we know it’s not perfect and we have more progress to make,” she said. “We apologize to anyone who may have seen these offensive recommendations.”
+- This is not the first time that advanced technology has created an embarrassing situation for an organization.
+- The Washington Post reported yesterday that “a judge ruled that Apple will have to continue fighting a lawsuit brought by users in federal court in California, alleging that the company’s voice assistant Siri has improperly recorded private conversations.”
+- Last week at the Paralympics in Tokyo, Toyota self-driving pods injured a pedestrian. Reuters reported that, “In a YouTube video, Toyota Chief Executive Akio Toyoda apologized for the incident and said he offered to meet the person but was unable to do so. “A vehicle is stronger than a person, so I was obviously worried about how they were,” he said, answering questions about the incident.
+- Toyoda said the accident showed the difficulty for the self-driving vehicle to operate in the special circumstances of the village during the Paralympics with people there who are visually impaired or have other disabilities. “It shows that autonomous vehicles are not yet realistic for normal roads,” he said.
+- When Notre Dame Cathedral burned in 2019, YouTube had to apologize for mistakenly linking the historic fire in Paris to the Sept. 11, 2001, terrorist attacks.
+- According to ABC News, “The video giant said a new tool for battling misinformation made ‘the wrong call’" when it displayed text from Encyclopedia Britannica about 9/11 in several videos of the iconic cathedral burning on Monday.”
+- "We are deeply saddened by the ongoing fire at the Notre Dame Cathedral," a YouTube spokesperson said. "These panels are triggered algorithmically, and our systems sometimes make the wrong call. We are disabling these panels for livestreams related to the fire."
+- NPR reported that in 2015, Google's image recognition software classified photos of Black people as "gorillas." Google apologized and removed the labels of gorilla, chimp, chimpanzee and monkey.
+- "We're appalled and genuinely sorry that this happened," a Google spokeswoman said. "There is still clearly a lot of work to do with automatic image labeling, and we're looking at how we can prevent these types of mistakes from happening in the future."
+- 
+- 
+- 
+
+- Facebook job ad delivery gender discrimination
+- Facebook credit card age ad targeting
+- Page infoType: IncidentPublished: September 2021

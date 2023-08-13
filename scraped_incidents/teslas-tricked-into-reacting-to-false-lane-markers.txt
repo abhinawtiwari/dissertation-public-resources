@@ -1,0 +1,641 @@
+- Occurred: April 2019
+- Can you improve this page?Share your insights with us
+- A teams of researchers at Israel's Ben-Gurion University have created a basic projection system that is able to trick Tesla’s Autopilot driver assistance system into seeing things that don't exist.
+- The team used off-the-shelf drones and a cheap projector to project a number of 'phantom' images onto the road, including false traffic lines and a false speed limit sign.
+- Whilst the reaction of the Tesla was mostly fairly limited - when shown an image of Elon Musk, the Autopilot system slowed from 18mph to 14mph - the spoofs show how easily a Tesla could be manipulated by third-parties.
+- Ben-Gurion student Ben Nassi also successfully spoofed a Mobileye 630 PRO driver assist system using inexpensive drones and battery-powered projectors.
+- Operator: Ben-Gurion University Developer: Tesla
+- Country: Canada
+- Sector: Automotive
+- Purpose: Summon car
+- Technology: Driver assistance system Issue: Accuracy/reliability; Safety
+- Transparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Wikipedia profile
+URL: https://www.nassiben.com/phantoms
+- Privacy & Cyber Security
+- Phantom of the ADAS
+- Securing Advanced Driver Assistance Systems from Split-Second Phantom Attacks
+- Ben Nassi*    Yisroel Mirsky*         Dudi Nassi*
+- Raz Ben Netanel*           Green**       Yuval Elovici*
+- 
+- *Ben-Gurion University of the Negev  **Independent Tesla Researcher
+- Abstract
+- In this paper, we investigate "split-second phantom attacks," a scientific gap that causes two commercial advanced driver-assistance systems (ADASs), Telsa Model X (HW 2.5 and HW 3) and Mobileye 630, to treat a depthless object that appears for a few milliseconds as a real obstacle/object. We discuss the challenge that split-second phantom attacks create for ADASs. We demonstrate how attackers can apply split-second phantom attacks remotely by embedding phantom road signs into an advertisement presented on a digital billboard which causes Tesla’s autopilot to suddenly stop the car in the middle of a road and Mobileye 630 to issue false notifications. We also demonstrate how attackers can use a projector in order to cause Tesla’s autopilot to apply the brakes in response to a phantom of a pedestrian that was projected on the road and Mobileye 630 to issue false notifications in response to a projected road sign. To counter this threat, we propose a countermeasure which can determine whether a detected object is a phantom or real using just the camera sensor. The countermeasure (GhostBusters) uses a "committee of experts" approach and combines the results obtained from four lightweight deep convolutional neural networks that assess the authenticity of an object based on the object’s light, context, surface, and depth. We demonstrate our countermeasure’s effectiveness (it obtains a TPR of 0.994 with an FPR of zero) and test its robustness to adversarial machine learning attacks.
+- ​
+- The Perceptual Challenge
+- ​
+- Would you consider the projection of the person and road sign real?
+Telsa considers the projected character as a real person. 
+Mobileye 630 PRO considers the projected road sign as a real road sign.
+- ​
+- ​
+- ​
+- ​
+- Phantoms
+- We define a phantom as a depthless visual object used to deceive ADASs and cause these systems to perceive the object and consider it real. A phantom object can be created by a projector or be presented via a digital screen (e.g., billboard). The depthless object presented/projected is made from a picture of a 3D object (e.g., pedestrian, car, truck, motorcycle, traffic sign). The phantom is intended to trigger an undesired reaction from an ADAS.
+- For example, the picture below presents a projected phantom of a car that was detected by the
+Tesla (HW 2.5) which considered it a real car.
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- Split-Second Phantom Attacks
+- A split-second phantom attack is a phantom that appears for a few milliseconds and is treated as a real object/obstacle by an ADAS.
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- What is the minimal duration that a phantom needs to appear in order to be detected by ADAS?
+- 
+- 
+- 
+- 
+- 
+- 
+- ​
+- 
+- 
+- 
+- 
+- Split Second Phantom Attacks can be applied via advertisement and cause ADAS to trigger a reaction. Attackers can use a dedicated algorithm to hide a phantom in an arbitrary advertisement:
+- ​
+- Original frame                                                               Detecting focus areas in a frame
+- (in blue)
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- Detecting dead areas in a frame                                             Detecting dead areas in the
+- (in green)                                                                        entire advertisement
+- ​
+- ​
+- ​
+- ​
+- 
+- 
+- 
+- 
+- 
+- Using the algorithm, we created compromised advertisements.
+- Here is a demonstration of the attack applied via digital billboard against Tesla Model X (HW 3):
+- ​
+- The compromised advertisement                                       The result: Tesla's AP (HW 3)
+- (The phantom appears for 500 ms)                                       automatically stopes the car
+- ​
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Here is another demonstration of the attack applied via digital billboard against Mobileye 630 PRO:
+- ​
+- The compromised advertisement                                       The result: Mobileye 630 PRO
+- (The phantom appears for 125 ms)                                       issues false notification
+- ​
+- ​
+- ​
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Split Second Phantom Attacks can be applied using a portable projector mounted
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- 
+- Phantoms can also cause the Tesla Model X (HW 2.5) to brake suddenly.
+See how the car reduces its speed from 18 MPH to 14 MPH as a result of a phantom
+- that is detected as person. This time we did not apply the attack in split second.
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- The Countermeasure - GhostBusters
+- A committee of machine learning models which validates objects detected by the on-board object detector. The GhostBusters can be deployed on existing ADASs without the need for additional sensors and does not require any changes to be made to existing road infrastructure. It consists of four lightweight deep CNNs which assess the realism and authenticity of an object by examining the object’s reflected light, context, surface, and depth. A fifth model uses the four models’ embeddings to identify phantom objects.
+- ​
+- ​
+- ​
+- ​
+- ​
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- ​
+- The countermeasure outperforms the baseline method and achieves an AUC of over 0.99 and a TPR of 0.994 with a threshold set to an FPR of zero. When applying the countermeasure to seven state-of-the-art road sign detectors, we were able to reduce the attack success rate from 99.7-81.2% without our module to 0.01% when using our module.
+- ​
+- The trained models, code, and the used datasets can be downloaded from our GitHub.
+- 
+- Citation
+- @inproceedings{10.1145/3372297.3423359,
+author = {Nassi, Ben and Mirsky, Yisroel and Nassi, Dudi and Ben-Netanel, Raz and Drokin, Oleg and Elovici, Yuval},
+title = {Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks},
+year = {2020},
+isbn = {9781450370899},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3372297.3423359},
+doi = {10.1145/3372297.3423359},
+booktitle = {Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {293–308},
+numpages = {16},
+keywords = {split-second phantom attacks, advanced driver-assistance systems, neural-networks, security},
+location = {Virtual Event, USA},
+series = {CCS '20}
+}
+- ​
+- Press
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- Talks
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- ​
+- 
+- 
+- 
+- 
+- 
+- ​
+- 
+- 
+- FAQs
+- ​
+- Are phantoms bugs?
+- No. Phantoms are definitely not bugs.
+They are not the result of poor code implementation in terms of security.
+- They are not a classic exploitation (e.g., buffer overflow, SQL injections) that can be
+easily patched by adding an "if" statement.
+- They reflect a fundamental flaw of models that detect objects that were not trained to distinguish
+between real and fake objects.
+- ​
+- Why are phantom attacks so dangerous?
+- Previous attacks:
+- 1. Necessitate that the attackers approach the attack scene in order to manipulate an object
+    using a physical artifact (e.g., stickers, graffiti) or to set up the required equipment,
+    acts that can expose attackers’ identities.
+- 2. Require skilled attackers (experts in radio spoofing or adversarial machine learning techniques).
+- 3. Required full knowledge of the attacked model.
+- 4. Leave forensic evidence at the attack scene.
+- 5. Require complicated/extensive preparation (e.g., a long preprocessing phase to
+    find an evading instance that would be misclassified by a model).
+- ​
+- Phantom attacks:
+- 1. Can be applied remotely (using a drone equipped with a portable projector or by hacking digital        billboards that face the Internet and are located close to roads), thereby
+    eliminating the need to physically approach the attack scene, changing the exposure vs.
+    application balance.
+- 2. Do not require any special expertise.
+- 3. Do not rely on a white-box approach.
+- 4. Do not leave any evidence at the attack scene.
+- 5. Do not require any complex preparation.
+- 6. Can be applied with cheap equipment (a few hundred dollars).
+- ​
+- Why does Tesla consider phantoms real obstacles?
+- We believe that this is probably the result of a "better safe than sorry" policy that considers a visual projection a real object even though the object is not detected by other sensors (e.g., radar and ultrasonic sensors).
+- ​
+- Can phantoms be classified solely based on a camera?
+Yes.
+- By examining a detected object's context, reflected light, and surface,
+- we were able to train a model that accurately detects phantoms (0.99 AUC).
+- ​
+- Will the deployment of vehicular communication systems eliminate phantom attacks?
+- No.
+- The deployment of vehicular communication systems might limit the opportunities
+attackers have to apply phantom attacks, but won’t eliminate them.
+- ​
+- Did you disclosed your findings to Mobileye and Tesla?
+- Yes.
+- We kept Tesla and Mobileye updated via a series of mails sent from early May to October 19.
+- ​
+- Acknowledgments
+- We would like to thank Tomer Gluck, Yaron Pirutin, Aviel Levi, and Itay Fadida for their help in this research.
+
+- Incident video 1
+- Incident video 2
+URL: https://arstechnica.com/cars/2020/01/how-a-300-projector-can-fool-teslas-autopilot/
+- Front page layout
+- Site theme
+- Jim Salter
+    -  Jan 28, 2020 1:00 pm UTC
+- Six months ago, Ben Nassi, a PhD student at Ben-Gurion University advised by Professor Yuval Elovici, carried off a set of successful spoofing attacks against a Mobileye 630 Pro Driver Assist System using inexpensive drones and battery-powered projectors. Since then, he has expanded the technique to experiment—also successfully—with confusing a Tesla Model X and will be presenting his findings at the Cybertech Israel conference in Tel Aviv.
+- The spoofing attacks largely rely on the difference between human and AI image recognition. For the most part, the images Nassi and his team projected to troll the Tesla would not fool a typical human driver—in fact, some of the spoofing attacks were nearly steganographic, relying on the differences in perception not only to make spoofing attempts successful but also to hide them from human observers.
+- Nassi created a video outlining what he sees as the danger of these spoofing attacks, which he called "Phantom of the ADAS," and a small website offering the video, an abstract outlining his work, and the full reference paper itself. We don't necessarily agree with the spin Nassi puts on his work—for the most part, it looks to us like the Tesla responds pretty reasonably and well to these deliberate attempts to confuse its sensors. We do think this kind of work is important, however, as it demonstrates the need for defensive design of semi-autonomous driving systems.
+- Nassi and his team's spoofing of the Model X was carried out with a human assistant holding a projector, due to drone laws in the country where the experiments were carried out. But the spoof could have also been carried out by drone, as his earlier spoofing attacks on a Mobileye driver-assistance system were.
+- From a security perspective, the interesting angle here is that the attacker never has to be at the scene of the attack and doesn't need to leave any evidence behind—and the attacker doesn't need much technical expertise. A teenager with a $400 drone and a battery-powered projector could reasonably pull this off with no more know-how than "hey, it'd be hilarious to troll cars down at the highway, right?" The equipment doesn't need to be expensive or fancy—Nassi's team used several $200-$300 projectors successfully, one of which was rated for only 854x480 resolution and 100 lumens.
+- Of course, nobody should be letting a Tesla drive itself unsupervised in the first place—Autopilot is a Level 2 Driver Assistance System, not the controller for a fully autonomous vehicle. Although Tesla did not respond to requests for comment on the record, the company's press kit describes Autopilot very clearly (emphasis ours):
+- Autopilot is intended for use only with a fully attentive driver who has their hands on the wheel and is prepared to take over at any time. While Autopilot is designed to become more capable over time, in its current form, it is not a self-driving system, it does not turn a Tesla into an autonomous vehicle, and it does not allow the driver to abdicate responsibility. When used properly, Autopilot reduces a driver's overall workload, and the redundancy of eight external cameras, radar and 12 ultrasonic sensors provides an additional layer of safety that two eyes alone would not have.
+- Even the name "Autopilot" itself isn't as inappropriate as many people assume—at least, not if one understands the reality of modern aviation and maritime autopilot systems in the first place. Wikipedia references the FAA's Advanced Avionics Handbook when it defines autopilots as "systems that do not replace human operators, [but] instead assist them in controlling the vehicle." On the first page of the Advanced Avionics Handbook's chapter on automated flight control, it states: "In addition to learning how to use the autopilot, you must also learn when to use it and when not to use it."
+- Within these constraints, even the worst of the responses demonstrated in Nassi's video—that of the Model X swerving to follow fake lane markers on the road—doesn't seem so bad. In fact, that clip demonstrates exactly what should happen: the owner of the Model X—concerned about what the heck his or her expensive car might do—hit the brakes and took control manually after Autopilot went in an unsafe direction.
+- The problem is, there's good reason to believe that far too many drivers don't believe they really need to pay attention. A 2019 survey demonstrated that nearly half of the drivers polled believed it was safe to take their hands off the wheel while Autopilot is on, and six percent even thought it was OK to take a nap. More recently, Sen. Edward Markey (D-Mass.) called for Tesla to improve the clarity of its marketing and documentation, and Democratic presidential candidate Andrew Yang went hands-free in a campaign ad—just as Elon Musk did before him, in a 2018 60 Minutes segment.
+- The time may have come to consider legislation about drones and projectors specifically, in much the same way laser pointers were regulated after they became popular and cheap. Some of the techniques used in the spoofing attacks carried out here could also confuse human drivers. And although human drivers are at least theoretically available, alert, and ready to take over for any confused AI system today, that won't be the case forever. It would be a good idea to start work on regulations prohibiting spoofing of vehicle sensors before we no longer have humans backing them up.
+- Listing image by David Butow | Getty Images
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.dailymail.co.uk/sciencetech/article-7944181/Israeli-scientists-trick-Teslas-Autopilot-feature-projecting-fake-signs-road.html
+- By Michael Thomsen For Dailymail.com
+- Updated:  22:35, 29 January 2020
+- 
+- 53
+- View  comments
+- 
+- A research team at Ben-Gurion University have created a simple projection system able to trick Tesla’s Autopilot into seeing things that aren’t actually there.
+- Using commercially available drones and a cheap projector - the kind a person might use to watch television in an apartment of small home - the team projected a series of deceptive images onto the road.
+- The images included false traffic lines, a false speed limit sign, and an image of Elon Musk himself, projected on the road as if her were an endangered pedestrian.
+- Scroll down for video
+- Researchers at Ben Gurion University in Israel successfully tricked Tesla's Autopilot feature using a drone and an inexpensive living projector with false road signs and images of pedestrians in the road who weren't actually there
+- The researchers collectively labeled all these different visual phenomena as ‘phantoms,’ according to a report in ArsTechnica.
+- While the Tesla they tested reacted to every phantom in some way, most of its responses were fairly mild.
+- When confronted with the possibility that it might run over a phantom Elon Musk, the Autopilot system just slowed down a little, going from 18mph to 14mph.
+- In another test, they found projecting a road sign with a false speed limit for just 125 milliseconds was enough for the car’s camera sensors to log the information, though it resulted in no immediate changes.
+- When false white traffic lines were projected onto the road, indicating a hard left turn on a stretch of straight road, the Tesla didn’t actually make a hard left turn but did drift slightly to the left.
+- While it was a mild response, during a busier time of day, it could have caused the car to drift into oncoming traffic.
+- Tesla’s current guidelines for Autopilot asks the human pilot to remain fully attentive and keep their hands on the wheel and ready to take over control of the vehicle at all times.
+- Many of the phantom projections were often of such a low resolution they easily blended into the background, where it’s likely many passengers would have missed them altogether.
+- Using a low resolution project that displays images at a resolution of 854x480 and with just 100 lumens, researchers were able to get a Tesla in Autopilot mode to slowdown thinking it was about to collide with a pedestrian
+- One of the projectors used in the experiments displayed a low resolution of just 854x480 and a brightness of just 100 lumens.
+- They point to the car's capacity to be fooled by such subtle environmental cues as a potential flaw that could be exploited by nefarious actors .
+- Interestingly, they also suggest their phantoms might be used as the basis of a new kind of Turing Test, allowing researchers to differentiate computer operators from human operators based on how they respond to complex environmental stimuli.
+- January 20, 2016 in China: Gao Yaning, 23, died when the Tesla Model S he was driving slammed into a road sweeper on a highway near Handan, a city about 300 miles south of Beijing. Chinese media reported that Autopilot was engaged.
+- May 7, 2016 in Williston, Florida: Joshua D. Brown, 40, of Canton, Ohio died when cameras in his Tesla Model S failed to distinguish the white side of a turning tractor-trailer from a brightly lit sky.
+- The National Transportation and Safety Board found that the truck driver's failure to yield the right of way and a car driver's inattention due to overreliance on vehicle automation were the probable cause of the crash.
+- The NTSB also noted that Tesla Autopilot permitted the car driver to become dangerously disengaged with driving. A DVD player and Harry Potter movies were found in the car.
+- March 23, 2018 in Mountain View, California: Apple software engineer Walter Huang, 38, died in a crash on U.S. Highway 101 with the Autopilot on his Tesla engaged.
+- The vehicle accelerated to 71 mph seconds before crashing into a freeway barrier, federal investigators found.
+- The NTSB, in a preliminary report on the crash, also said that data shows the Model X SUV did not brake or try to steer around the barrier in the three seconds before the crash in Silicon Valley.
+- March 1, 2019 in Delray, Florida: Jeremy Banner, 50, died when his 2018 Tesla Model 3 slammed into a semi-truck.
+- NTSB investigators said Banner turned on the autopilot feature about 10 seconds before the crash, and the autopilot did not execute any evasive maneuvers to avoid the crash.
+- 
+- 'You let your fame and your power corrupt you': Eamonn Holmes blasts 'narcissist' Phillip Schofield in bombshell interview, claiming star and lover would 'hit the town on Thursdays' for 'playtime' and reveals how 'life is tough' for the young man
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.forbes.com/sites/thomasbrewster/2019/04/01/hackers-use-little-stickers-to-trick-tesla-autopilot-into-the-wrong-lane/
+- A Tesla Model Son show in Hong Kong.
+- Elite hackers from China have found a way to trick a Tesla Model S into going into the wrong lane by strategically placing some simple stickers on the road.
+- Keen Labs, widely regarded as one of the most technically ingenious cybersecurity research groups in the world, developed two kinds of attack to mess with the Tesla autopilot’s lane-recognition tech.
+- First, the researchers sought to make alterations to lane markings, first by adding a large number of patches to the line to make it appear blurred. It worked, but as the patches looked much too conspicuous, the Keen hackers decided that it’d be too difficult to carry out in the real world.
+- So the researchers tried to create a “fake lane.” They discovered that Tesla’s autopilot would detect a lane where there were just three inconspicuous tiny squares strategically placed on the road. When they left small stickers at an intersection, the hackers believed they would trick the Tesla into thinking the patches marked out the continuation of the right lane. On a test track, their theory was proved correct, as the autopilot took the car into the real left lane.
+- “Our experiments proved that this architecture has security risks and reverse-lane recognition is one of the necessary functions for autonomous driving in non-closed roads,” the Keen Labs wrote in a paper. “In the scene we build, if the vehicle knows that the fake lane is pointing to the reverse lane, it should ignore this fake lane and then it could avoid a traffic accident.”
+- In other attacks, the Keen crew claimed to have the ability to remotely control the steering wheel and start up the windscreen wipers. In the former, via a complex series of steps that broke through some of the security barriers put up around the onboard network, Keen discovered a way to control the steering wheel with a gamepad, though they were in the vehicle at the time. While that initially sounds serious, the attack didn’t work when a car had been taken manually from reverse to drive mode at any speed above 8 km per hour. However, when in cruise control, the attack worked “without limitations.”
+- As for the windscreen hack, it’d be tricky, in a real-world scenario, to deploy the specially-crafted image that fooled the Tesla into believing it was raining. But the fake lane would be easy to recreate using cheap materials, Keen Labs said.
+- Tesla hadn’t responded to a request for comment at the time of publication.
+- It’s not the first time Keen Labs has exposed potential problems in the safety and security of Tesla's digital systems. Back in 2016, the hackers discovered a way to remotely take control of a Tesla’s brakes.
+- In March, during the CanSecWest security conference in Canada, prizes totalling more than $900,000 were on offer to anyone who could hack a Tesla. Only one team demonstrated a successful exploit: a hack of the onboard browser that let researchers Richard Zhu and Amat Cama display their own messages on the infotainment system. They walked off with $35,000 and the car. None of the car’s control systems were commandeered, however.
+- UPDATE: A Tesla spokesperson told Forbes that it had addressed the vulnerabilities regarding remote control of they steering wheel before the Keen researchers had even been in touch. As for the other issues, the spokesperson added: “The rest of the findings are all based on scenarios in which the physical environment around the vehicle is artificially altered to make the automatic windshield wipers or Autopilot system behave differently, which is not a realistic concern given that a driver can easily override Autopilot at any time by using the steering wheel or brakes and should always be prepared to do so, and can manually operate the windshield wiper settings at all times.”
+- 
+
+URL: https://www.thedrive.com/news/27262/you-can-fool-teslas-autopilot-by-placing-small-stickers-on-the-ground-study-finds
+- Researchers at Tencent Keen Security Lab were able to force a Tesla on Autopilot to change lanes using small red and white stickers.
+- stefthepef
+- stefthepef
+- Here's your periodic reminder to pay attention when using Tesla's Autopilot. Researchers at the Tencent Keen Security Lab found it unnervingly easy to force a Tesla Model S running Autopilot to change lanes, according to Digital Trends. We've seen Autopilot get confused by unclear road markings before, but now researchers say that the addition of as few as three color-coded stickers on the road can be enough to fool Autopilot into changing lanes, even into oncoming traffic.
+- There's a neat video outlining some of the research Tencent Keen Security Lab did into the ways Tesla's autopilot can be fooled. Much of their research is into Autopilot's use of neural networks to "see" what's on the road, notes IEEE Spectrum. Because these networks see things differently than humans, researchers were able to fool a Tesla Model S's systems into thinking it was raining and turning on the windshield wipers accordingly through an algorithm-generated image.
+- More worrisome is the lab's research into Autopilot's lane recognition systems, where the addition of three stickers in the middle of an intersection was all they needed to trick Autopilot into believing there was a lane, thus turning the car into oncoming traffic.
+- While the stickers shown in Tencent Keen Security Lab's video were white, the team was also able to achieve a similar result using small red stickers that wouldn't be as noticeable to humans. Digital Trends explains:
+- In one instance, small, red stickers were placed on the ground to make the vehicle believe it needed to change lanes. The attack could force a vehicle into oncoming traffic. The attack worked in daylight and didn’t require any sort of interference like snow or rain that might make things more difficult for the Autopilot system to process the road.
+- In one instance, small, red stickers were placed on the ground to make the vehicle believe it needed to change lanes. The attack could force a vehicle into oncoming traffic. The attack worked in daylight and didn’t require any sort of interference like snow or rain that might make things more difficult for the Autopilot system to process the road.
+- To Tesla's credit, the extent to which a lane marking has to be blurred for Autopilot to disregard it was fairly significant, IEEE Spectrum notes. However, the fact that Autopilot has been trained to recognize these blurred or broken lines as lane markers is exactly what makes it easier to trick in the other direction, with false lane markers that trick it into oncoming lanes of traffic.
+- The team was able to compromise the Tesla in other ways, bypassing several layers of security to take over the steering of the Model S using an app, which allowed them to steer the car using a game controller or smartphone. Digital Trends explained that the app was somewhat limited in functionality for cars that recently shifted from reverse to drive, but it was still able to fully override Autopilot and the steering wheel controls from a car that was in park or using cruise control.
+- That trick's a bit more labor-intensive than fooling the car with unclear lane markings, however, and involved breaking through several layers of security meant to keep such a hijack from happening. As anyone who's driven through a construction zone lately can attest, strange markings on the road are a relatively common sight, and a good reason to always pay attention while you're using Autopilot.
+- You can read Tencent Keen Security Lab's full paper which details their research into Tesla's Autopilot system here. The team of researchers presented their research to Tesla in hopes that Tesla will implement a way for the car to recognize reverse lanes of traffic.
+- In the meantime, though, it's still up to you to step in when Autopilot gets it wrong, which even Tesla noted in a statement back to the Tencent Keen Security Lab:
+- In this demonstration, the researchers adjusted the physical environment (e.g. placing tape on the road or altering lane lines) around the vehicle to make the car behave differently when Autopilot is in use. This is not a real-world concern given that a driver can easily override Autopilot at any time by using the steering wheel or brakes and should be prepared to do so at all times.
+- In this demonstration, the researchers adjusted the physical environment (e.g. placing tape on the road or altering lane lines) around the vehicle to make the car behave differently when Autopilot is in use. This is not a real-world concern given that a driver can easily override Autopilot at any time by using the steering wheel or brakes and should be prepared to do so at all times.
+- It's also worth noting, as IEEE Spectrum does, that Tencent Company (the sponsor of the Keen Security Lab) wants to develop its own autonomous driving systems that could be seen as a competitor to Autopilot, so they have some extra incentive to find flaws in what other companies have already made. Either way, it's a good reminder that semi-autonomous driving systems like Autopilot aren't truly self-driving yet.
+- Sign Up For Our Newsletters
+- The chronicle of car culture, delivered to your inbox.
+- © 2022 Recurrent Ventures. All Rights Reserved.
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+URL: https://electrek.co/2019/04/01/tesla-autopilot-hacker-tricked/
+- Keen Security Lab, a group of security researchers backed by Tesla investor Tencent, released a new report about Tesla’s Autopilot system and how to trick it.
+- We have previously reported on Keen Lab’s multiple “white hat” efforts to hack Tesla vehicles.
+- They have managed to take control of Tesla vehicles on several occasions and their research has led to Tesla upgrading its software security.
+- Now they are turning their attention to Tesla’s Autopilot system in a new research paper released today.
+- Instead of directly hacking the Advanced Driver Assistance System (ADAS) software, Keen Lab explored how the system could be tricked with misleading visual inputs.
+- At first, they simply tried to trick the automatic wipers, which are powered by Autopilot’s computer vision system and cameras, by showing images of water to the front-facing camera – triggering the system:
+- 
+- Tesla wasn’t impressed by Keen Lab’s demonstration and commented:
+- “This research was demonstrated by displaying an image on a TV that was placed directly in front of the windshield of a car. This is not a real-world situation that drivers would face, nor is it a safety or security issue. Additionally, as we state in our Owners’Manual, the ‘Auto setting [for our windshield wipers] is currently in BETA.’ A customer can also elect to use the manual windshield wiper setting at any time.”
+- The team ramped things up by trying something a lot more dangerous; using stickers on the road to mess with the lane recognition system:
+- “Tesla Autopilot recognizes lanes and assists control by identifying road traffic markings. Based on the research, we proved that by placing interference stickers on the road, the Autopilot system will capture these information and make an abnormal judgement, which causes the vehicle to enter into the reverse lane.”
+- Here’s a video of how the Autopilot system reacts to the trick:
+- Tesla also issued an answer regarding this test – saying that it would be up to the driver to correct the situation:
+- “In this demonstration the researchers adjusted the physical environment (e.g. placing tape on the road or altering lane lines) around the vehicle to make the car behave differently when Autopilot is in use. This is not a real-world concern given that a driver can easily override Autopilot at any time by using the steering wheel or brakes and should be prepared to do so at all times.”
+- Here’s Keen Security Lab’s full Autopilot report:
+- [scribd id=404017043 key=key-nI9c3iDLrtnP1x8Nz5jI mode=scroll]
+- FTC: We use income earning auto affiliate links. More.
+- Subscribe to Electrek on YouTube for exclusive videos and subscribe to the podcast.
+- Tesla is a transportation and energy company. It…
+- Fred is the Editor in Chief and Main Writer at Electrek.
+- You can send tips on Twitter (DMs open) or via email: fred@9to5mac.com
+- Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.
+- Get interesting investment ideas by Fred Lambert
+- ChargePoint Home WiFi Enabled Electric Vehicle (EV) Charger
+
+URL: https://tech.slashdot.org/story/19/04/02/0347232/researchers-trick-tesla-autopilot-into-steering-into-oncoming-traffic
+- Follow Slashdot blog updates by subscribing to our blog RSS feed
+- Nickname:
+- Password:
+- Nickname:
+- Password:
+- The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+- So, optical illusions fool a driver. They just fund a kind that fools a digital driver. Film at 11
+- Because machines "think" very differently from people, the optical illusions will be very different. No surprise there,
+- Next we'll get a headline that if you put a number sticker over speed limit signs, human drivers can be tricked into driving at the wrong speed - even though very clearly the stickers have the wrong UV patterns and react to LIDAR clearly in an altered way.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- It points to a big gap in machine learning strategies in general:  Training generally happens focused on positive correlations and not a lot of injection of maliciously designed data.  So a well trained model is dumb and just says 'training says always follow lines' and follows it right head on into traffic.
+- This is also a sign of likely problems in road construction, where markings are frequently very messed up.
+- This is not 'a machine can be fooled like a human', it's a reminder that the machine is still a *lot* dumber than a human.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- I've seen lots of drivers do exactly this. That was in Montreal though, so it may be significantly less common elsewhere.
+- It points to a big gap in machine learning strategies in general: Training generally happens focused on positive correlations and not a lot of injection of maliciously designed data.
+- There's usually lots of negative data in training sets, but you're right,
+- The goal is "better than humans" as tens of thousands die every year, and not "perfect".
+- So occasionally someone dies and some kid goes to jail, just like bowling balls to the head.
+- The current poor excuse for 'AI' will never be 'better than humans' because it is fundamentally incapable of anything like 'thinking', it's just following complicated 'decision trees'. We have no idea how 'thinking' actually works therefore we cannot build machines that 'think', which is why it fails like this so badly.I don't think 'you' understand what it 'means' to quote something. Tends to make folks put less stock in your ruminations about AI and the nature of human thought.
+- The current poor excuse for 'AI' will never be 'better than humans' because it is fundamentally incapable of anything like 'thinking', it's just following complicated 'decision trees'. We have no idea how 'thinking' actually works therefore we cannot build machines that 'think', which is why it fails like this so badly.
+- I don't think 'you' understand what it 'means' to quote something. Tends to make folks put less stock in your ruminations about AI and the nature of human thought.
+- I think humans give themselves way too much credit for their "thinking" ability.  The research suggests what we do is nothing like the logical reasoning most of us assume. Mysterious processes tell us the answer and then, if pressed, we justify it to ourselves.
+- I agree, and I think people who use stories like this as "oh look, proof self-driving cars will never work" are wrong. But adversarial examples are an issue that should be solved. I don't think it's a terribly difficult solution though. One of the great things about adversarial examples is that you don't even need more training data to get started, just the output of your own adversarial generator.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.If there's active traffic, people will avoid it. But there are plenty of times that human drivers get confused by road markings, especially during construction, worn paint, poor lighting, rain, and blinding headlights from oncoming traffic.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- If there's active traffic, people will avoid it. But there are plenty of times that human drivers get confused by road markings, especially during construction, worn paint, poor lighting, rain, and blinding headlights from oncoming traffic.
+- If there's active traffic, people will avoid it. But there are plenty of times that human drivers get confused by road markings
+- Yes....   But machines are supposed to be BETTER.     Before self-driving cars are ready, they must be able to avoid  jumping into the same lane as active oncoming traffic while traveling down a road or highway,  even if the road markings are confusing or in error.
+- Yes.... But machines are supposed to be BETTER. They may be someday.  They already are better than some human drivers.  There are some people who really should not be allowed to drive and many people drive impaired/distracted with some regularity.  Currently your hypothetical average human driver is probably still better than even the best machine driver but the machine's are getting better and human drivers are not.  Eventually it seems probable that machine drivers will be safer than most (or all) human drivers.  Exactly when that happens is unclear bu
+- Yes.... But machines are supposed to be BETTER.
+- They may be someday.  They already are better than some human drivers.  There are some people who really should not be allowed to drive and many people drive impaired/distracted with some regularity.  Currently your hypothetical average human driver is probably still better than even the best machine driver but the machine's are getting better and human drivers are not.  Eventually it seems probable that machine drivers will be safer than most (or all) human drivers.  Exactly when that happens is unclear bu
+- It has to be able to actually 'think' in order to do that, and this type of software is completely incapable of 'thinking',
+- No...  It doesn't have to "think" to do that,  nor would I expect a computer to "think" in the same sense as human thinking.I would simply expect the vehicle to detect the path of oncoming traffic,  and take any necessary correction to not enter that path in spite of confusing road markings.It just means a more-nuanced "decision tree" as you call it.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.I guarantee you I can find examples of humans would would be fooled.  There are a LOT of humans that are quite easy to mislead and all humans can be mislead sometimes.  The only difference is that the tactics that fool a human will usually be different than those that fool a machine but make no mistake that both can be fooled.  There are plenty of examples  [theweek.com] of people very dutifully following the instructions from their GPS into trouble despite it being painfully obvious that the GPS instructions were faulty
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- I guarantee you I can find examples of humans would would be fooled.  There are a LOT of humans that are quite easy to mislead and all humans can be mislead sometimes.  The only difference is that the tactics that fool a human will usually be different than those that fool a machine but make no mistake that both can be fooled.  There are plenty of examples  [theweek.com] of people very dutifully following the instructions from their GPS into trouble despite it being painfully obvious that the GPS instructions were faulty
+- There are plenty of examples of people very dutifully following the instructions from their GPS into trouble despite it being painfully obvious that the GPS instructions were faulty in some way.Really? That could never happen!  [google.com] But seriously, I completely agree. It takes very little to confuse, fool, or distract a human. There is nothing surprising about being able to do that, nor should there be something surprising about being able to do the same to a machine with sensory input. The difference is that you can reprogram the machine to not do that next time. Humans are surprisingly resistant to learning not to do dumb shit, and all it takes is a night with no sleep or a bit of trauma in their lives,
+- There are plenty of examples of people very dutifully following the instructions from their GPS into trouble despite it being painfully obvious that the GPS instructions were faulty in some way.
+- Really? That could never happen!  [google.com]
+- But seriously, I completely agree. It takes very little to confuse, fool, or distract a human. There is nothing surprising about being able to do that, nor should there be something surprising about being able to do the same to a machine with sensory input. The difference is that you can reprogram the machine to not do that next time. Humans are surprisingly resistant to learning not to do dumb shit, and all it takes is a night with no sleep or a bit of trauma in their lives,
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.I guarantee you I can find examples of humans would would be fooled.  There are a LOT of humans that are quite easy to mislead and all humans can be mislead sometimes. There are a lot of coyotes who get tricked by misleading road markers, too, and run right into a mountain side.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.I guarantee you I can find examples of humans would would be fooled.  There are a LOT of humans that are quite easy to mislead and all humans can be mislead sometimes.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- I guarantee you I can find examples of humans would would be fooled.  There are a LOT of humans that are quite easy to mislead and all humans can be mislead sometimes.
+- There are a lot of coyotes who get tricked by misleading road markers, too, and run right into a mountain side.
+- Yes, I'm sure you can, idiots will always exist, but I bet you can't find anything that will systemically cause human drivers toAccidents caused by idiot drivers are still accidents, and harder to fix.
+- Yes, I'm sure you can, idiots will always exist, but I bet you can't find anything that will systemically cause human drivers to
+- Accidents caused by idiot drivers are still accidents, and harder to fix.
+- Yes, I'm sure you can, idiots will always exist, but I bet you can't find anything that will systemically cause human drivers to.Want to bet?  All it takes is a badly labeled street sign in the right place and most humans will be fooled at least once.  Naturally the failure modes for humans are different from machines but we have 40,000 deaths from auto accidents each year that prove that humans aren't especially safe or reliable drivers.Furthermore you are aware that software can be upgraded, right?  Every machine can learn from the errors of every other machine.  You can make a machine less idiotic - humans not so much.  When Tesla
+- Yes, I'm sure you can, idiots will always exist, but I bet you can't find anything that will systemically cause human drivers to.
+- Want to bet?  All it takes is a badly labeled street sign in the right place and most humans will be fooled at least once.  Naturally the failure modes for humans are different from machines but we have 40,000 deaths from auto accidents each year that prove that humans aren't especially safe or reliable drivers.
+- Furthermore you are aware that software can be upgraded, right?  Every machine can learn from the errors of every other machine.  You can make a machine less idiotic - humans not so much.  When Tesla
+- I'd rather deal with accidents caused by humans than the horror and tragedy of humans being killed because some machine fucked up and there was nothing anyone could do to stop it from happening -- then there's nobody to even blame because a machine did it, you can't even point at a person and say "it's their fault".The only thing that matters if the number of lives saved. If self driving cars don't achieve significant gains in that area it'll be a non-starter and you will never have to experience that "horror".As for the state of the art, there's no question. It's the driver's responsibility, whether the car was on autopilot or not. Autopilot is an assist only. The driver is expected to remain alert and ready to take over at any moment. So do not worry, you'll have someone to blame, and that'll make the death of a lov
+- I'd rather deal with accidents caused by humans than the horror and tragedy of humans being killed because some machine fucked up and there was nothing anyone could do to stop it from happening -- then there's nobody to even blame because a machine did it, you can't even point at a person and say "it's their fault".
+- The only thing that matters if the number of lives saved. If self driving cars don't achieve significant gains in that area it'll be a non-starter and you will never have to experience that "horror".
+- As for the state of the art, there's no question. It's the driver's responsibility, whether the car was on autopilot or not. Autopilot is an assist only. The driver is expected to remain alert and ready to take over at any moment. So do not worry, you'll have someone to blame, and that'll make the death of a lov
+- If the Tesla has an issue, ALL Tesla's have an issue. And ... one software update can fix them ALL. You can't do that with humans.
+- If the Tesla has an issue, ALL Tesla's have an issue.
+- And ... one software update can fix them ALL. You can't do that with humans.
+- Or make them all go berserk. You can't do that with humans, but you surely can with things like OTA updatable Siemens centrifuges or vehicles.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?Unfortunately this situation occurs quite frequently at road construction sites where new lanes are overlaid over existing lanes.  The old and new sets of lane markings make lane localization difficult at times even for humans to know where the true lane lies.  Often in these cases, the human will follow the preceding and surrounding traffic in an attempt to avoid collisions, even if the true lane appears to be otherwise.
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?
+- The difference being a human that sees lane markers leading into active oncoming traffic will decide there are shenigans and not follow.
+- Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?
+- Unfortunately this situation occurs quite frequently at road construction sites where new lanes are overlaid over existing lanes.  The old and new sets of lane markings make lane localization difficult at times even for humans to know where the true lane lies.  Often in these cases, the human will follow the preceding and surrounding traffic in an attempt to avoid collisions, even if the true lane appears to be otherwise.
+- Humans are very good at spotting things that are not really markings, such as spilt paint or ribbons blown into the road. White tape is fairly common in construction and often falls off vehicles.
+- A human can spot a long tyre print made from spilt paint and not follow it. A machine... It can, but it needs to be trained and tested.
+- What's most interesting here is that Tesla started out claiming Autopilot was amazing, and setting the drive attention detection system to be extremely lax. You could go for many min
+- Complete bollocks. Care to set up a situation like that and see how many drivers follow the dots blindly?
+- There's a coyote and roadrunner joke [youtube.com] here I can't quite pin down.
+- While it is little consolation to the deceased, I fail to see how placing markers designed to deliberately cause a car wreck is not pre-meditated murder. Someone could easily be lying in wait in the woods with a rifle and shoot drivers, or waiting on overpass to drop bricks. That latter one, sadly, happens with some regularity. Murdering people is pretty easy.
+- I am more interested in cases where it gets confused by routine bad situations. Construction is one, although my experience is that the car is telling
+- While it is little consolation to the deceased, I fail to see how placing markers designed to deliberately cause a car wreck is not pre-meditated murder. Someone could easily be lying in wait in the woods with a rifle and shoot drivers, or waiting on overpass to drop bricks.While there are fortunately very few people who are demented enough to shoot at people on the highway, there are many cases of mischievous teenagers who toss rocks from overpasses onto unsuspecting drivers.  I have no doubt that these teenagers would try the "fool the self-driving car camera" trick after reading about it.
+- While it is little consolation to the deceased, I fail to see how placing markers designed to deliberately cause a car wreck is not pre-meditated murder. Someone could easily be lying in wait in the woods with a rifle and shoot drivers, or waiting on overpass to drop bricks.
+- While there are fortunately very few people who are demented enough to shoot at people on the highway, there are many cases of mischievous teenagers who toss rocks from overpasses onto unsuspecting drivers.  I have no doubt that these teenagers would try the "fool the self-driving car camera" trick after reading about it.
+- it's a reminder that the machine is still a *lot* dumber than a humanDepends on the classification of dumb.  We've all seen massively paradoxical things being done by drivers who were confused by the lane markings.  Hell, rubbernecking leads to more crashes as attention is drawn off the road and onto the accident meaning the drive may not see the car in front of them slamming on the brakes.  So really depending on how one defines "fooling the driver" one could easily say humans are just as easily fooled by things.  The massive difference here is that while evolution of our b
+- it's a reminder that the machine is still a *lot* dumber than a human
+- Depends on the classification of dumb.  We've all seen massively paradoxical things being done by drivers who were confused by the lane markings.  Hell, rubbernecking leads to more crashes as attention is drawn off the road and onto the accident meaning the drive may not see the car in front of them slamming on the brakes.  So really depending on how one defines "fooling the driver" one could easily say humans are just as easily fooled by things.  The massive difference here is that while evolution of our b
+- I get your point.  But because we live in the age of sensationalist headlines the authors never bothered to tell you that, although it would steer into on-coming traffic, if there WERE actually on-coming traffic it would start blaring at you (loud enough to wake the dead), automatically braking, shaking the wheel, etc.  Ask me how I know...
+- My personal feeling about autopilot / partial self-driving (owning a car that has it) is that I am not a fan.  EVs are awesome, but I think autonomous operation of a vehi
+- Exactly. Humans can be fooled - sure. But if the paint has peeled off the roadway, or is covered with snow, or somebody shot holes in the speed limit sign, or something else "out of the ordinary" our brains immediately detect "situation not normal" and we quickly come up with plan B. Computers though apparently stay on plan A until they hit a wall.
+- Situation Normal, Situation Normal, Situation Normal .... Deploy Airbags!
+- The story was put forward as a security event. I think in the end though that "machine is
+- Machines doesn't think as you probably understand which is why this is a problem - the machine can be fooled but doesn't detect that what fools it isn't logical. A human generally detect those cases and adapt to the situation. The problem is the reliance of pseduo-AI pattern matching without the actual AI, the part that would make the machine "think".Another problem is the sensitivity of current systems in that small patterns that just would make a human somewhat confused instead is detected as a highly acc
+- Because machines "think" very differently from people, the optical illusions will be very different. No surprise there.I'd like to preface this comment with a disclaimer: I am not attacking or insulting you in this comment; you just happen to be exemplar of an point I've made in the past. 
+So-called 'machine learning', 'deep learning algorithms', 'neural networks', and everything else they're erroneously calling 'Artificial Intelligence' these day, is completely and totally incapable of 'thinking', 'cognition', 'consciousness', 'sentience', or any other major feature and phenomenon that we associate with actual Intellgence.
+- Because machines "think" very differently from people, the optical illusions will be very different. No surprise there.
+- I'd like to preface this comment with a disclaimer: I am not attacking or insulting you in this comment; you just happen to be exemplar of an point I've made in the past. 
+So-called 'machine learning', 'deep learning algorithms', 'neural networks', and everything else they're erroneously calling 'Artificial Intelligence' these day, is completely and totally incapable of 'thinking', 'cognition', 'consciousness', 'sentience', or any other major feature and phenomenon that we associate with actual Intellgence.
+- Tell that to the fella who was denogginized by an 18 wheeler! Oh wait, you can't, LOLAsk this guy if he was glad to be in a Tesla when he fell asleep at the wheel:https://www.youtube.com/watch?... [youtube.com]
+- Tell that to the fella who was denogginized by an 18 wheeler! Oh wait, you can't, LOL
+- Ask this guy if he was glad to be in a Tesla when he fell asleep at the wheel:
+- https://www.youtube.com/watch?... [youtube.com]
+- Ask this guy if he was glad to be in a Tesla when he fell asleep at the wheel:Another way to look at it: he fell asleep *because* he was in a Tesla. The problem with Teslas is that they are essentially self driving cars, minus the certification of being so (because such a thing doesn't exist yet). Of course people are going to fall asleep, pull out their laptop, watch a movie, and so on.That's the realistic future of self driving cars. There never will be a stamp of "fully autonomous", and the driver will always have ultimate responsibility for the operation of the vehicle. They will
+- Ask this guy if he was glad to be in a Tesla when he fell asleep at the wheel:
+- Another way to look at it: he fell asleep *because* he was in a Tesla. The problem with Teslas is that they are essentially self driving cars, minus the certification of being so (because such a thing doesn't exist yet). Of course people are going to fall asleep, pull out their laptop, watch a movie, and so on.
+- That's the realistic future of self driving cars. There never will be a stamp of "fully autonomous", and the driver will always have ultimate responsibility for the operation of the vehicle. They will
+- denogginizedLove it
+- denogginized
+- Love it
+- Love itDecapitation is hilarious! Let's all joke about their gruesome death, and as a bonus, think about their grieving family and chuckle.
+- Love it
+- Decapitation is hilarious! Let's all joke about their gruesome death, and as a bonus, think about their grieving family and chuckle.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.And if the AoA sensor was reading wrong, the pilot likely would have taken control and not let the plane crash.  Those "likely" sure are dangerous.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.
+- And if the AoA sensor was reading wrong, the pilot likely would have taken control and not let the plane crash.  Those "likely" sure are dangerous.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.And if the AoA sensor was reading wrong, the pilot likely would have taken control and not let the plane crash.  Those "likely" sure are dangerous.You do know that this issue was a bit more complex than you seem to indicate.  Part of the problem with the MAX was the pilots DID intervene, they just didn't understand what was happening and let the aircraft trim itself nose down instead of countering with nose up trim.  In short, they *didn't* take control, control of the right thing at least.  Both aircraft where 100% flyable, the pilots just had to figure out what was happening and deal with the issue in the time they had. These guys didn't have enough
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.And if the AoA sensor was reading wrong, the pilot likely would have taken control and not let the plane crash.  Those "likely" sure are dangerous.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.
+- And if the AoA sensor was reading wrong, the pilot likely would have taken control and not let the plane crash.  Those "likely" sure are dangerous.
+- You do know that this issue was a bit more complex than you seem to indicate.  Part of the problem with the MAX was the pilots DID intervene, they just didn't understand what was happening and let the aircraft trim itself nose down instead of countering with nose up trim.  In short, they *didn't* take control, control of the right thing at least.  Both aircraft where 100% flyable, the pilots just had to figure out what was happening and deal with the issue in the time they had. These guys didn't have enough
+- So because technology fails one time we should give up on it?
+- Both your example and the one in the article have been addressed at this point. And due to only one or two issues, the technology has been fixed on every model of that vehicle.
+- That's the nice thing about technology.
+- The second, significant failure in your reasoning is not considering the lives saved with the technology working correctly. While it's not an easy calculation, ignoring the benefit and focusing on the harm can easily lead you to cause m
+- Then there were all those cases where the AoA sensor was right and the pilot let the plane drop out of the sky yanking back on their stick with the stall alarm blaring at high volumes as they died.
+- Thanks but no thanks. I'll take predictable, programmable, and above all fixable computers over fallible squashy blobs of barely thinking water sacks behind the wheel any day.
+- There's a reason the generally excepted error rate for humans is 10% on demand and for a well designed machine it's several orders of magnit
+- One does get the impression that people are trying very hard to get us riled up but are running out of ideas to manage it.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.Oh, that's nice.  So my Tesla will just get duped into crossing over to the wrong side of the road, but will swerve back (in which direction?) when it eventually encounters traffic barreling toward it in what it wrongfully considers to be its lane, while the other cars will be in the process of taking evasive action (in which direction?) due to a car barreling toward them in THEIR lane.Yeah, no problem whatsoever.
+- They even said, if there had been cars there, the Tesla likely would have noticed them and not blithely crashed head on.
+- Oh, that's nice.  So my Tesla will just get duped into crossing over to the wrong side of the road, but will swerve back (in which direction?) when it eventually encounters traffic barreling toward it in what it wrongfully considers to be its lane, while the other cars will be in the process of taking evasive action (in which direction?) due to a car barreling toward them in THEIR lane.
+- Yeah, no problem whatsoever.
+- Well.. I'm not sure that swerving into the oncoming lane is the best option when somebody crosses over into your lane..
+- My druthers would be to hit the binders and head for the shoulder and hopefully get the horn sounding... That seems like a better option in general. It may not be the right call all the time, but it seems like the best option in a bad situation.
+- Get out of the other car's way, staying on your side of the road, get on the brakes and scrub as much energy off and increase the time before the
+- Completely agree that's a great approach when we have time to calmly and rationally think it through from the comfort of our armchairs, but in the trenches I'd expect that to break down in somewhat inverse proportion to the amount of reaction time available, experience of the driver, familiarity with the road, etc.
+- And that's for human drivers -- when we're debating whether it's ok to have this sort of behavior out of self-driving cars, we need to consider what can be expected to happen when the oncoming tra
+- You do what you practice, in advance or it's anybody's guess what you will do..  I suggest that if you don't have the presence of mind in panic situations that you go out and practice, actually, even if you don't tend to panic, practice.  Have somebody randomly declare an emergency and time how long you take to respond correctly.   Even mentally walking though these exercises will help prepare you for when it really happens.
+- Far too often we run headlong into situations without a plan for when things go wro
+- You mean like it wouldn't blithely crash head-on into a concrete divider?
+- Ooops.
+- "The rest of the findings are all based on scenarios in which the physical environment around the vehicle is artificially altered to make the automatic windshield wipers or Autopilot system behave differently, which is not a realistic concern given that a driver can easily override Autopilot at any time by using the steering wheel or brakes and should always be prepared to do so and can manually operate the windshield wiper settings at all times."
+- While I agree that it shouldn't be a realistic concern, peop
+- Real airline pilots have tons of training, understand the limits of the systems, and are literally PAID over six figures to do the terribly boring job of monitoring the system.  Tesla owners could have zero training, are certainly not privy to the actual system limitations, and are shown tons of marketing indicating the main benefit of autopilot is the ability to NOT pay attention.
+- But I can see how they are "basically the same thing".
+- Human drivers too would be affected if someone adds fake lane marking. I remember a prankster was arrested for rearranging the traffic cones in a construction zone to create two colliding lanes. T
+- http://www.humoar.com/fake-roa... [humoar.com]
+- Lidar hacking would actually be more difficult because it's a scanning laser system.  They're not used for identifying lane markers but 3D physical objects.  You'd almost need something like a holographic plate to trick a Lidar system which isn't going to be that easy to stick to the road and even then it'd basically at best be tricking Lidar to either believe there's a hole or lump in the road that's not there.
+- I found that it's super easy to make human drivers crash with a simple $5 laser.
+- It's amazing how many of our systems only work with the underlying assumption that we're not actively trying to murder each other at any given moment.
+- It's amazing how many of our systems only work with the underlying assumption that we're not actively trying to murder each other at any given moment.
+- Dammit!  This is why we can't have nice things.
+- How about dropping a couple of big chunks of concrete on the road, in the dead of night ? When you throw them from a pick-up truck, that's easier than getting out, and carefully applying stickers to the road.
+- How about dropping a couple of big chunks of concrete on the road, in the dead of night ? When you throw them from a pick-up truckNow you're talking -- that sort of thing would be just as easy for any random person to pull off (because everyone has a pickup truck and is capable of slinging around chunks of concrete big enough to cause cars to swerve around them), would have exactly the same effect on cars and traffic (in that people would of course maintain speed while swerving around them and not return to their own lane afterward), and is just as hard for the average driver to detect and for the average good samaritan to remedy.
+- How about dropping a couple of big chunks of concrete on the road, in the dead of night ? When you throw them from a pick-up truck
+- Now you're talking -- that sort of thing would be just as easy for any random person to pull off (because everyone has a pickup truck and is capable of slinging around chunks of concrete big enough to cause cars to swerve around them), would have exactly the same effect on cars and traffic (in that people would of course maintain speed while swerving around them and not return to their own lane afterward), and is just as hard for the average driver to detect and for the average good samaritan to remedy.
+- Unless you drop them immediately in front of or on a car, people can see them. In Seattle, dodging potholes and concrete chunks in the roadway is de rigueur.
+- Redundant?  Really?  If that's the best fit you reflexive Tesla apologist mods can find, maybe it's a sign you're trying too hard.
+- Were these engineers contracted out to Boeing to design their MCAS system for the 737max?
+- Seriously, the design pattern of a life critical system that makes decisions based on one set of or type of sensor is asinine.  Boeing should have had the MCAS's AoA indicator cross checked with velocity, GPS, and engine data.  Tesla should have the wiper controls visual sensor crosschecked with a humidifier, and the lane sensor crosschecked with a LIDAR.  Isn't this just basic stuff here.  I don't consider myself a gen
+- Computers will never be people.  I don't think we WANT them to become that smart. Imagine the moral questions on that.
+- These and other funky glitches are reasons why I wouldn't really want to fully depend on the Tesla system.  Google Car on the other hand uses a much larger complement of sensors and a 3D space mapping LIDAR to avoid these issues, unless you're going to go as far as placing a styrofoam lifesized car or panel onto the road which would almost fool real-life drivers as well.  Google believes in the concept of making sure the system fully works instead of taking dangerous compromises.
+- a driver can easily override Autopilot at any time by using the steering wheel or brakes and should always be prepared to do so
+- You're not in control, but you have to be constantly ready to take control.  You don't have insight into its mental processes so you never know what it's about to do, but you have to be constantly ready to react to what it just did.
+- And people find driving with Autopilot to be less stressful than driving without it?  I guess I'm different from most people.
+- And people find driving with Autopilot to be less stressful than driving without it? I guess I'm different from most people.Because in most cases the system works fine, and people get complacent.
+- And people find driving with Autopilot to be less stressful than driving without it? I guess I'm different from most people.
+- Because in most cases the system works fine, and people get complacent.
+- While "autopilot" is engaged, you do have visibility to "what the car sees" on the screen.  That tells you what obstacles it sees as well as where it thinks the vehicle lanes are.  If they don't seem to make sense to what you see, then it's time to take over.
+- Like the "autopilot" in planes, when the cruise control take over, it reduces cognitive load because the driver doesn't need to pay attention to as many things. That translates into less stress and the ability to pay attention for longer.
+- If the driver d
+- While "autopilot" is engaged, you do have visibility to "what the car sees" on the screen.  That tells you what obstacles it sees as well as where it thinks the vehicle lanes are.  If they don't seem to make sense to what you see, then it's time to take over.Like the "autopilot" in planes, when the cruise control take over, it reduces cognitive load because the driver doesn't need to pay attention to as many things. That translates into less stress and the ability to pay attention for longer.If the driver does other things instead, that's really the driver's fault. Though Tesla's marketing isn't really helping on that front, either.Bumping this up for visibility, because the AC is spot on.Everything I've heard from Tesla owners driving moderate to long distances is that it's far less stressful with autopilot. Much less mental fatigue, because there's a lot less you need to do. It's not nothing, but when your car largely stays in its lane, slows for traffic ahead of you, auto-brakes if there's an obstruction, monitors your blind spots, turns on the wipers when it rains, and figures out how far you can go before recharging and suggests
+- While "autopilot" is engaged, you do have visibility to "what the car sees" on the screen.  That tells you what obstacles it sees as well as where it thinks the vehicle lanes are.  If they don't seem to make sense to what you see, then it's time to take over.
+- Like the "autopilot" in planes, when the cruise control take over, it reduces cognitive load because the driver doesn't need to pay attention to as many things. That translates into less stress and the ability to pay attention for longer.
+- If the driver does other things instead, that's really the driver's fault. Though Tesla's marketing isn't really helping on that front, either.
+- Bumping this up for visibility, because the AC is spot on.
+- Everything I've heard from Tesla owners driving moderate to long distances is that it's far less stressful with autopilot. Much less mental fatigue, because there's a lot less you need to do. It's not nothing, but when your car largely stays in its lane, slows for traffic ahead of you, auto-brakes if there's an obstruction, monitors your blind spots, turns on the wipers when it rains, and figures out how far you can go before recharging and suggests
+- I guess I'm different from most people.Probably because you have senseless distrust in electronics. If you're nervous about a computer steering your car, I can't imagine what a wreak you must be on the road with all those other variables you can't control.
+- I guess I'm different from most people.
+- Probably because you have senseless distrust in electronics. If you're nervous about a computer steering your car, I can't imagine what a wreak you must be on the road with all those other variables you can't control.
+- Work zones with lines all over the place may trigger this??
+- In my state we have a "no cell phone use in work zones" law, and giant signs before all work zones notifying drivers. I'd bet that the same will happen with self-driving cars as they become more popular. And like the no-phones law, most people will obey it, some won't and will get fined, some won't and will get into accidents and fined, and some will get into accidents and injure someone else and get fined and potentially also get jail time.
+- self-driving with no controls? or taxis? will do what in work zones then?
+- A plastic bag over a stop-sign should work too and it would get the non-Tesla drivers as well.Also continuing the middle line into the abyss and hiding the original line that goes around.Putting a fake stop-sign on the middle of the highway should be fun too.
+- No need to be a 'researcher' for stuff like that.
+- Putting a fake stop-sign on the middle of the highway should be fun too.Or painting a fake tunnel on a rock.
+- Putting a fake stop-sign on the middle of the highway should be fun too.
+- Or painting a fake tunnel on a rock.
+- Putting a fake stop-sign on the middle of the highway should be fun too.Or painting a fake tunnel on a rock.The great thing about painted tunnels is that birds can go through them but predators cannot.
+- Putting a fake stop-sign on the middle of the highway should be fun too.Or painting a fake tunnel on a rock.
+- Putting a fake stop-sign on the middle of the highway should be fun too.
+- Or painting a fake tunnel on a rock.
+- The great thing about painted tunnels is that birds can go through them but predators cannot.
+- The great thing about painted tunnels is that birds can go through them but predators cannotProvided you use ACME paint, of course.
+- The great thing about painted tunnels is that birds can go through them but predators cannot
+- Provided you use ACME paint, of course.
+- A plastic bag over a stop-sign should work too and it would get the non-Tesla drivers as well.Would it? I suspect it could trip up a bad driver, but any decent driver should be able handle the situation safely. 
+When I approach an uncontrolled intersection (one without a traffic light or a stop sign / other signage) I look for cross traffic and be prepared to stop. Part of my evaluation as to if an intersection is uncontrolled or not is to look at both the signage intended for me AND the signage intended for the cross traffic. If I don't have a stop sign and the cross traffic doesn't have a stop sig
+- A plastic bag over a stop-sign should work too and it would get the non-Tesla drivers as well.
+- Would it? I suspect it could trip up a bad driver, but any decent driver should be able handle the situation safely. 
+When I approach an uncontrolled intersection (one without a traffic light or a stop sign / other signage) I look for cross traffic and be prepared to stop. Part of my evaluation as to if an intersection is uncontrolled or not is to look at both the signage intended for me AND the signage intended for the cross traffic. If I don't have a stop sign and the cross traffic doesn't have a stop sig
+- Would stuff like autopilot be considered less controversial?
+- I'd guess it would get promoted by the company as something other than quite such an autonomous self-driving platform.
+- Volvo (and I'm sure others, I've only been exposed to Volvo's system personally) has what amounts to a nearly self-driving system -- distance sensing cruise, lane centering, you very nearly don't need to "drive" to drive, yet there's not nearly the constant promotion/hostility to their system and other similar ones.
+- Even my lowly Sub
+- The military finally admitted to the UFOs.  Do you get any news at all?LOL.. Technically maybe, as in "We don't (at this point) know what that was." but not in the sense that aliens have landed.  Could have been swamp gas, weather balloons, optical illusions or even a bad acid trip, we don't know, but nobody has any evidence that aliens landed.
+- The military finally admitted to the UFOs.  Do you get any news at all?
+- LOL.. Technically maybe, as in "We don't (at this point) know what that was." but not in the sense that aliens have landed.  Could have been swamp gas, weather balloons, optical illusions or even a bad acid trip, we don't know, but nobody has any evidence that aliens landed.
+- You'd have to be able to predict the future to know exactly where to place the stickers where the assassination victim would head-on the truck coming the other wayAfter observing someone for a little while, you can start to predict their movements.  Most people operate on a general routine and schedule.  You can know their route to work, and approximately when they will get there.  Your confederate could be driving the truck.  I'm sure there are less elaborate ways to do someone in, however.
+- You'd have to be able to predict the future to know exactly where to place the stickers where the assassination victim would head-on the truck coming the other way
+- After observing someone for a little while, you can start to predict their movements.  Most people operate on a general routine and schedule.  You can know their route to work, and approximately when they will get there.  Your confederate could be driving the truck.  I'm sure there are less elaborate ways to do someone in, however.
+- Just don't place the stickers on both sides or they will still miss each other.
+- Or you just place them in an area where almost everyone drives a Tesla like around Google or Facebook HQ.As long as its the people driving them its fine.
+- Or you just place them in an area where almost everyone drives a Tesla like around Google or Facebook HQ.
+- As long as its the people driving them its fine.
+- This wouldn't work on a freeway since they are generally divided by K-Rail which are too heavy to move without a crane.
+- Lane markings are standard and set in a way for a very specific reason. There is a ton of regulations around how they work.
+- Plus, even if you got the Tesla onto oncoming traffic, who's to say it wouldn't see the approaching car and ABS itself to a dead stop, which it is supposed to do. Hopefully, the other driver does the same!
+- I'm somewhat amazed that you're almost 100% wrong. Both this and the Boeing have a human override, the Tesla far more so than the plane, for good reason. The plane that crashed had the same issue resolved the day before by following the proper steps to address it. Yes, there was a problem with the plane, but it was solvable by the pilots. The failure the next day was threefold, and not just a technical issue. The malfunctioning instrument wasn't fixed, the pilots weren't notified of the issue or the actions
+- The fact that one group of pilots did it right and the other didn't shows that they had the time. The question is if they had the training. That's looking like a part of the issue. Having a single point of failure and selling instrument failure lights as an upgrade seem to be the largest issue.
+- But you're still ignoring the fact that the MCAS likely kept a bunch of planes in the sky before an instrument failure brought a couple down. Pointing to it as some horrible idea that humans should never have done is
+- "A separate section of the report showed how the researchersâ"exploiting a now-patched root-privileged access vulnerability in Autopilot ECU (or APE)â"were able to use a game pad to remotely control a car. That vulnerability was fixed in Tesla's 2018.24 firmware release."
+- Fact:
+- By hacking the web browser in your car, a random third-party can cause your car to steer in any direction the attacker likes using a toy joystick.
+- No matter WHAT the theoretical example, that shouldn't even be possible.
+- This is
+- There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+- Linux Mint 19.2 'Tina' is On the Way, But the Developers Seem Defeated and Depressed
+- Over Half of Norway Car Sales Are Now Electric
+- We will have solar energy as soon as the utility companies solve one technical
+problem -- how to run a sunbeam through a meter.
+
+URL: https://thenextweb.com/cars/2020/02/05/teslas-autopilot-dangerously-fooled-by-drone-mounted-projectors/
+- You have been blacklisted, KTHXBAI
+- XID: 14716677
+- Varnish cache server
+
+- Tesla Autopilot tricked into accelerating
+- Tesla Model S tricked into veering into wrong lane
+- Page infoType: IncidentPublished: March 2023

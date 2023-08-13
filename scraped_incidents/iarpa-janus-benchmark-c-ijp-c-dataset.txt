@@ -1,0 +1,99 @@
+- Released: 2017
+- Can you improve this page?Share your insights with us
+- Iarpa Janus Benchmark-C (IJP-C) is a database of YouTube video still-frames and Flickr and Wikimedia photos used for face recognition benchmarking.
+- IJP-3 was compiled in 2017 by US government subcontractor Noblis and contains 21,294 images of 3,531 people 'with diverse occupations' and and of varying levels of fame.
+- The dataset averages six pictures and three videos per person, and is available on application to computer vision and facial recognition researchers.
+- According (pdf) to Iarpa, 'the Janus program dramatically improved the performance of facial recognition software by increasing the speed and accuracy of identity matching.'
+- However, as discovered by activist Adam Harvey and highlighted by the Financial Times in September 2019, the dataset included a number of political activists, civil rights advocates, and journalists, including Ai Wei Wei, Tracey Emin, Evgeny Morozov, John Maeda, and Ta-Nehisi Coates.
+- None of these individuals were made aware of their inclusion in the database by Noblis or Iarpa, amd their images had been obtained without their explicit consent. Furthemore, the use of YouTube videos constituted a clear violation of the platform's terms of service.
+- Equally, as the FT pointed out, the use of the dataset by companies such as Chinese AI firm SenseTime and Japanese IT firm NEC, as well as by organisations such as China's National University of Defense Technology, raises concerns about its potential use for military and security purposes, including the mass surveillance of Uyghurs and other oppressed minorities.
+- Operator: SenseTime; NEC; National University of Defense Technology (NUDT) Developer: Noblis; Iarpa Country: USA Sector: Govt - police: Govt - security; Govt - welfare Purpose: Create facial recognition benchmark Technology: Dataset; Facial recognition; Computer vision; Neural network; Machine learning  Issue: Privacy; Dual/multi-use; Surveillance Transparency: Governance; Privacy
+- Website
+- Research paper
+- Challenge
+- Poster (pdf)
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+- Murgia M., Financial Times (2019). Who’s using your face? The ugly truth about facial recognition
+URL: https://therecord.media/jillian-york-nft-stole-my-face/
+- 
+- The day after Christmas last year, I poured a glass of wine and opened my laptop to check Twitter. It had been a long and unrelenting year and that night I was far away from family while feeling a touch of the holiday blues. In past years, holiday Twitter had been a joyful space for me, where people would share family stories, or vent, or post their end-of-year-thoughts and resolutions.
+- But on this particular occasion, however, I was taken by surprise.
+- Staring back at me from my Twitter mentions was my own face, albeit a distorted version of it in cartoon form with a (misspelled) caption reading “Jillion York.” The image was familiar; I quickly realized it was based on a professional photograph that I had commissioned a year prior.
+- I clicked the image’s corresponding link, which led to a collection of images hosted on a website called OpenSea, “the world’s first and largest NFT marketplace.”
+- NFT, for the uninitiated, stands for “non-fungible token”, a unit of data stored on a blockchain that can be sold and traded. Or to put it plainly, these “digital assets” aren’t the purchase of an actual image but rather the receipt of a unique purchase encoded onto a blockchain that serves as proof of a transaction.
+- Imagine trading cards of a sports player: while the card itself might be valued within a collectables market, ownership of a trading card isn’t a stake in team ownership or owning a portion of that sport star’s contract. Think of NFTs as notarized certificates of authenticity for digital collectables.
+- One of the NFTs in the collection was the image I’d spotted on Twitter, on sale for the equivalent of $573.49. I was floored — I’d only become aware of what an NFT was a few short months prior, and had admittedly been avoiding the online discourse around them.
+- Truth be told, they struck me as a bit of a scam.
+- The news since then — of hackers exploiting vulnerabilities on OpenSea, insider trading schemes, reports of money laundering, and other security incidents — coupled with articulate and wide-ranging critique of the entire “Web3” concept has made me even more skeptical. Deep reading and a trip to South by Southwest in March, where the get-rich-quick mentality was on full display in NFT-funded pavilions, solidified my distrust.
+- And now, the NFT space along with the larger cryptomarket appears to be collapsing — taking some vulnerable investors along with it.
+- But back in December, NFTs were hot commodities, with some tokens selling for millions of dollars at auction (to date, the highest-priced NFT purchased by a single owner was called The First 5000 Days and sold for $69.3 million). While an NFT does not, by definition, need to represent a piece of artwork, most NFTs selling at high prices were being considered as such.
+- And my face had just been turned into a non-consensual non-fungible token.
+- 
+- “Really didn’t think I’d be a f***** NFT this soon”
+- The collection in which I found my own face was entitled “Cipherpunks” and contained images of more than a dozen individuals, most of whom I was familiar with from their work on cybersecurity — including my Electronic Frontier Foundation colleagues, Eva Galperin and Jon Callas; security researcher and former New York Times security director Runa Sandvik; and Georgetown University professor Matt Blaze.
+- But it also featured some more troubling names, including Free Software Foundation founder and former MIT “visiting scientist” Richard Stallman, who left both positions after being accused of harassing behavior and making troubling comments about Jeffrey Epstein; and hacker Jacob Appelbaum, accused in 2016 by nearly a dozen people of sexual assault.
+- The inclusion of these men was enough to make me want myself removed from the collection, but the fact that I’d been categorized as a cypherpunk — a label I don’t identify with, despite my advocacy of encryption technology — as well as the strange misspelling of my name made me curious about where it came from and how to get out.
+- Linking to the collection, I fired off a tweet: “I don’t approve of this whatsoever and would like it removed,” followed by: “Really didn’t think I’d be a f***** NFT this soon.”
+- I’m no stranger to having my face used without my consent. In 2019, I was on vacation in Colombia when I got a text message from a friend, the artist and researcher Adam Harvey, letting me know that he’d discovered my image in a U.S. government database used to train facial-recognition algorithms.
+- The database, dubbed Iarpa Janus Benchmark-C (IJB-C), contained 21,294 images of 3,500 subjects — from different fields and of varying levels of fame — and had been compiled by a government subcontractor. By their own admission, the dataset’s creators picked “subjects with diverse occupations, avoiding one pitfall of ‘celebrity-only’ media [which] may be less representative of the global population.”
+- While true, the images of me had been plucked from various sites across the public web and included stills from videos hosted on YouTube of me giving public talks as well as personal images of me that friends had uploaded to sites like Flickr and even images taken during private meetings.
+- 
+- Few safeguards
+- My inclusion in the database was deeply violating. Though the work that I do is public, I am by no means famous, nor am I a traditional public figure. Of course, those lines have been blurred in recent years with the advent of influencer culture and “blue check” Twitter fame with tech companies acting as the new kingmakers. But nevertheless, a government using online collections of images of fairly ordinary people to train AI is a huge violation of privacy.
+- Although the database was undoubtedly creepy, being part of a collection of NFTs that included known predators and which used my face for profit without my consent felt more like identity theft.
+- The collection’s creator would later claim that their intent was to “educate the young community in crypto about Cypher Punks and how significant they were to this date to the evolution of blockchain technology,” leaving me even more puzzled about my inclusion.
+- But then it struck me: the faces in the collection were a near-perfect match for the list of individuals in the Wikipedia entry for “cypherpunk.” It quickly became clear to me that whomever was behind the collection had simply mined the entry for names.
+- My co-collaborator and associate, the tech ethicist and philosopher Mathana wrote recently about the incident in Wired: “The idea that someone created a collection of marketable NFTs without having apparently done much research on the featured individuals or bothering to contact them is cringeworthy, but — even more concerning — these incidents also show how few safeguards there are in NFT marketplaces like OpenSea.”
+- Those of us represented in the Cipherpunks collection aren’t the only ones to be taken by surprise by the unregulated world of NFTs.
+- Just a few days before I discovered my face as an NFT, open source developer Kris Nóva described having her photograph sold in NFT form by the photographer himself. Nóva expressed some sympathy for the photographer, writing: “My fantasy is that [he] was just ignorant to the unspoken ethics of open source, and that his behavior was not malicious.”
+- While the photographer may have had good intentions, it’s impossible to see anything but malintent in other recent incidents. For example, the artist Qing Han who passed away in early 2020 after a battle with cancer; but her artwork began turning up in NFT marketplaces soon after.
+- And, in a particularly macabre turn of events, a French surgeon tried to sell the X-ray of a victim of the Bataclan theater siege as an NFT.
+- 
+- Seeking remedy
+- After firing off those angry tweets, I began to seek remedy.
+- I reported the collection to OpenSea through their help center and received the following autoresponse: “We take the security of our users very seriously, and we are actively investigating your issue. Please note that due to our support ticket volume, our responses can take up to a week depending on the complexity of the issue.”
+- Not satisfied by the possibility of waiting a week for any sort of resolution, I tweeted at the collection’s owner — as did several other of the aggrieved individuals who had been included in the collection.
+- Around 11pm, I received a DM from them apologizing for not asking for my consent and letting me know that they’d deleted the NFTs that they owned; however, some of the NFTs were no longer in their possession, leaving them with one option: to buy back the NFTs and “burn” them.
+- Burning an NFT is as close as you can get to destroying it. Though any transactions leading up to the burning of an NFT will remain on the blockchain, the NFT itself can no longer be bought or sold.
+- The creator of the NFTs, later identified as Hitesh Malviya, made good on his promise, removing the collection and writing a public apology on Medium. Not even a few hours later, a copy of the entire collection had been reposted by another actor, but was fortunately removed by OpenSea before any of the NFTs were sold.
+- In his Medium post, Malviya wrote: “We were not aware of the likeness laws in NFTs as the market is not regulated. It’s our mistake. We have to own up to it.”
+- 
+- Few options for recourse
+- Indeed, the lack of regulation means that there are few options for remedy for those who object to the use of their likeness. As Mathana put it in Wired, “The question of who ‘owns’ the representation, reproduction, and rights of our physical likeness is complicated and depends on where you are, and even who you are.”
+- All in all, I got lucky.
+- My anger and public profile, coupled with that of the others who protested their inclusion in the NFT collection, put enough pressure on Malviya to give up.
+- But what if he’d resisted? Would I have had any real path of recourse?
+- To find out, I turned to Corynne McSherry, the legal director of the Electronic Frontier Foundation (and also a close colleague). Because the image used for my NFT was closely based on a photograph of me, my first — and best — option would be to have the photographer file an infringement complaint under the Digital Millennium Copyright Act’s notice-and-takedown regime.
+- OpenSea provides detailed information on how to file a DMCA request on its site, making it easy for a copyright holder to alert the site.
+- The fact that I reside in Germany doesn’t limit me — or my photographer, Nadine Barišić (a.k.a. VampKitty) — from filing a complaint under the DMCA, but when it comes to other types of remedy such as publicity rights, McSherry said, it “complicates things.”
+- The right of publicity is the right to control the commercial use of one’s identity — but as a remedy, it has limitations.
+- In California, according to McSherry, “you have the right to control the use of your image for commercial purposes,” subject to limitations like fair use, but statutes differ from state to state across the U.S. Regardless, she said, referring to my situation, “as a matter of international law, you may not be able to invoke publicity rights.”
+- Furthermore, McSherry noted, “publicity rights can be troublesome to enforce. Are you really going to go to court?” As can often be the case with online disputes, “your legal options might not be your best bet, nor are they the place to start.”
+- The best option in cases like mine, she said, was to do basically what I did: start by reaching out to the offender as they might not realize the harm they've caused.
+- Then, she paused before adding, “And they should start by not appropriating people’s images in the first place.”
+- 
+- Do the right thing
+- Malviya fortunately chose to do the right thing, albeit following pressure from half a dozen angry “cypherpunks.”
+- Not everyone is so lucky. In the case of Qing Han’s stolen artwork, it took emails from Han’s grieving brother and members of her fanbase to NFT marketplace Twinci to get the pieces removed.
+- I must confess that part of my aversion to being made into an NFT stemmed from the hype — statements such as “[a]n NFT is the strongest possible form of ownership” (spotted in a tweet from April) were not uncommon.
+- But more troubling, in my view, was the apparent lack of ethics amongst some of the NFT and blockchain community. In addition to the aforementioned alleged insider trading and hacking, plagiarism has become rampant, so much so that OpenSea had to limit the amount of times that creators could mint NFTs on the platform.
+- While Malviya, the creator of “my” NFT, appeared to lack an understanding of consent issues, it’s harder to understand how a sneaker reseller could think that stealing a deceased artist’s work was okay — or that creating NFTs from photographs of Nikes wouldn’t invite legal trouble.
+- Nike filed a trademark lawsuit in February against the reseller, StockX, claiming that their collection of digital items that look like official Nike goods. Similarly, French luxury brand Hermès has begun legal proceedings against an artist who created NFTs called “MetaBirkins” — after the company’s famous handbag — which the artist intends to challenge.
+- Self-dealing amongst NFT elites was also baked into the market; as Vice writer Edward Ongweso, Jr. aptly argued in February: “None of this sounds like a functional market so much as a mad grab for profit.”
+- But in the months since my likeness was effectively stolen, that mad grab turned into a collapse.
+- By June, the crypto crash had gotten so bad that some crypto lending platforms were pausing all trades, and the subreddit dedicated to one such platform, Celsius, was promoting the Suicide Hotline and hosting debates about who was to blame for the market instability.
+- But, as Twitter user Bennett Gordon put it, “If crypto trading is a multilevel marketing scheme, NFTs are the sh*%ty stretch pants” — that is, a scam bereft of any material benefit for the masses, existing only to serve those at the top of the pyramid.
+- It’s not clear what will emerge from the current collapse, but it’s clear that many NFT marketplaces appear to operate with minimal governance — and most seem reluctant to develop systems that would prevent more abuse from occurring.
+- As I documented in my recent book, Silicon Values: The Future of Free Speech Under Surveillance Capitalism, social media companies were also resistant to creating robust trust and safety teams in an earlier era, which ultimately wreaked havoc on our democracies.
+- The stakes may seem lower in the world of NFTs, but do we really want to wait and see? As Mathana wrote in Wired: “For someone to take away agency over our likenesses in a system that lacks recourse or reporting mechanisms seems reckless in the most charitable reading.”
+- Over the years, social media companies — facing pressure from their users, the media, politicians, and others — were forced to act, and created large-scale trust and safety teams, moderation processes, and stronger community standards. Though undoubtedly imperfect, those systems offer paths of recourse to users and in the absence of regulation, are often the only means of remedy.
+- While calls for regulation (of social media, NFTs, and the crypto market at-large) abound, it is crucial to point out the near-impossibility of creating regulatory solutions that serve the whole world — and particularly some of its most vulnerable populations.
+- But that shouldn’t stop government bodies with the capability to do so, such as the European Union, from consumer protection regulation; rather, we (experts, the media, the collective public) should continue questioning the value of NFTs altogether.
+- While regulation is no doubt an inevitability, regulation in some places won’t serve users everywhere.
+- That’s why NFT marketplaces owe it to their users to provide more than just ad-hoc ways of reporting harm, fraud, and identity theft — and we, the public, should demand nothing less.
+- Jillian C. York Jillian C. York is the Director for International Freedom of Expression at the Electronic Frontier Foundation, a visiting professor at the College of Europe Natolin, and the author of Silicon Values: The Future of Free Speech Under Surveillance Capitalism. Her views do not necessarily reflect those of her employers.
+- © Copyright 2023 | The Record from Recorded Future News
+
+- Unconstrained College Students dataset
+- Labeled Faces in the Wild dataset
+- Page info Type: DataPublished: January 2023

@@ -1,0 +1,69 @@
+{
+    "incident": {
+        "source_url": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots",
+        "StakeholderOutcomes": [
+        {
+            "forStakeholder": "Public safety",
+            "forOutcome": "Safety",
+            "fromPerspectiveOf": "Public safety",
+            "hasImportance": "high importance",
+            "isUnderserved": false,
+            "intendedImpact": "positive",
+            "hasIndicator": "The number of crimes that are prevented by the Xavier patrol robots",
+            "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+            "org:hasName": "Impact of Singapore Xavier patrol robots on public safety",
+            "org:hasDescription": "The impact of the Singapore Xavier patrol robots on public safety"
+        },
+        {
+            "forStakeholder": "Civil liberties",
+            "forOutcome": "Privacy",
+            "fromPerspectiveOf": "Civil liberties",
+            "hasImportance": "high importance",
+            "isUnderserved": false,
+            "intendedImpact": "negative",
+            "hasIndicator": "The number of people who feel that their privacy has been violated by the Xavier patrol robots",
+            "hasImpactReport": "The Straits Times' report on the Singapore Xavier patrol robots",
+            "org:hasName": "Impact of Singapore Xavier patrol robots on civil liberties",
+            "org:hasDescription": "The impact of the Singapore Xavier patrol robots on civil liberties"
+        }
+        ],
+        "Stakeholders": [
+        {
+            "hasName (title)": "Public safety",
+            "hasDescription": "Government agencies responsible for public safety",
+            "hasCatchmentArea": "Singapore",
+            "hasStakeholderCharacteristic": "Public safety agencies are concerned about the effectiveness of the Xavier patrol robots in preventing crime",
+            "performs": "Enforcing the law",
+            "i72:located_in": "Singapore",
+            "oep:partOf": "The Singapore Xavier patrol robots incident"
+        },
+        {
+            "hasName (title)": "Civil liberties",
+            "hasDescription": "Organizations that are concerned about the protection of civil liberties",
+            "hasCatchmentArea": "Global",
+            "hasStakeholderCharacteristic": "Civil liberties organizations are concerned about the potential for the Xavier patrol robots to violate privacy",
+            "performs": "Advocating for civil liberties",
+            "i72:located_in": "Global",
+            "oep:partOf": "The Singapore Xavier patrol robots incident"
+        }
+        ],
+        "ImpactRisks": [
+        {
+            "forOutcome": "Safety of public",
+            "hasLikelihood": "medium",
+            "hasConsequence": "high",
+            "hasMitigation": "The Xavier patrol robots could be hacked and used to harm people",
+            "hasIdentifier": "1",
+            "hasDescription": "The risk that the Xavier patrol robots will be used to harm people"
+        },
+        {
+            "forOutcome": "Privacy of citizens",
+            "hasLikelihood": "high",
+            "hasConsequence": "high",
+            "hasMitigation": "The Xavier patrol robots could be used to collect data on citizens without their consent",
+            "hasIdentifier": "2",
+            "hasDescription": "The risk that the Xavier patrol robots will be used to collect data on citizens without their consent"
+        }
+        ]
+    }
+}

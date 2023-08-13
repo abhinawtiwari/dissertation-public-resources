@@ -1,0 +1,395 @@
+- Released: 2016
+- Can you improve this page?Share your insights with us
+- MS-Celeb-1M (or Microsoft Celeb) is a dataset developed by Microsoft Research to accelerate research into facial recognition technologies.
+- Created and published in 2016, MS-Celeb-10 consisted of approximately 10 million facial images of 100,000 celebrities, journalists, artists, musicians, activists, policy makers, writers, and academics. Micosoft also provided a 'target list' of an additional 900,000 names whose images were to be collected.
+- According to Microsoft, the dataset was created for 'non-commercial research purpose only' and would be applicable to image captioning and news video analysis.
+- Reckoned to be the largest public dataset of its kind, Microsoft terminated the project mid-2019 shortly after the publication of researcher Adam Harvey's Exposing.ai project and a Financial Times investigation into facial recognition data sharing.
+- Microsoft collected photographs for MS-Celeb-1M by automatically scraping them from search engines. This was done without informing or gaining the consent of those affected, and was oblivious to their copyright license.
+- The company also played fast and loose with the definition of public interest. 'Celebrities' whose data was collected include US blogger Cory Doctorow, journalist Glenn Greenwald, author and academic Soshana Zuboff, and former US FTC commissioner Julie Brill - who arguably should not be classified as public people.
+- Despite being restricted to academic use, research paper citations reveal MS-Celeb-1M has been used hundreds of times across the world by companies such as IBM, Panasonic, Hitachi, and Nvidia for a wide variety of commercial purposes.
+- Furthermore, it transpired that Microsoft used MS-Celeb-1M to train its own facial recognition systems, as had Chinese technology firms Huawei, Sensetime, and Megvii, whose products are allegedly used to detect and surveil Uyghurs, and to track foreign journalists.
+- Microsoft quietly took down the dataset in June 2019, telling the FT that 'the site was intended for academic purposes. It was run by an employee that is no longer with Microsoft and has since been removed.'
+- But the dataset remains widely available online, with several versions on Github and Academic Torrents.
+- Operator: Alibaba; École Polytechnique Fédérale de Lausanne; Hitachi; Huawei; IBM; IDIAP Research Institute; Megvii; Microsoft; National University of Defense Technology (NUDT); Nvidia; Panasonic; SenseTime; Universidad Autónoma de Madrid; University of Leicester; MultipleDeveloper: MicrosoftCountry: USA Sector: Technology; Research/academia Purpose: Train facial recognition systemsTechnology: Dataset; Facial recognition; Computer vision Issue: Privacy; Copyright; Dual/multi-use Transparency: Privacy
+- Dataset
+- Dataset & benchmark
+- Research paper
+- Website (Waybackmachine)
+- MS Celeb Challenge website
+- Guo Y., Zhang L. (2017). One-shot Face Recognition by Promoting Underrepresented Classes (pdf)
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+- Peng K., Mathur A., Narayanan A. (2021). Mitigating Dataset Harms Requires Stewardship: Lessons from 1000 Papers
+- Murgia M., Financial Times (2019). Who’s using your face? The ugly truth about facial recognition
+URL: https://www.nature.com/articles/d41586-020-03187-3
+- Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+- Advertisement
+- You can also search for this author in PubMed
+ Google Scholar
+- A collage of images from the MegaFace data set, which scraped online photos. Images are obscured to protect people’s privacy. Credit: Adam Harvey/megapixels.cc based on the MegaFace data set by Ira Kemelmacher-Shlizerman et al. based on the Yahoo Flickr Creative Commons 100 Million data set and licensed under Creative Commons Attribution (CC BY) licences
+- In September 2019, four researchers wrote to the publisher Wiley to “respectfully ask” that it immediately retract a scientific paper. The study, published in 2018, had trained algorithms to distinguish faces of Uyghur people, a predominantly Muslim minority ethnic group in China, from those of Korean and Tibetan ethnicity1.
+- 
+- Access Nature and 54 other Nature Portfolio journals
+- Get Nature+, our best-value online-access subscription
+- $29.99 / 30 days
+- cancel any time
+- 
+- Subscribe to this journal
+- Receive 51 print issues and online access
+- $199.00 per year
+- only $3.90 per issue
+- 
+- Rent or buy this article
+- Get just this article for as long as you need it
+- $39.95
+- 
+- Prices may be subject to local taxes which are calculated during checkout
+- Nature 587, 354-358 (2020)
+- doi: https://doi.org/10.1038/d41586-020-03187-3
+- 
+- Wang, C., Zhang, Q., Liu, W., Liu, Y. & Miao, L. Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9, e1278 (2019).
+- Article 
+    
+                    Google Scholar
+- Stewart, R., Andriluka, M. & Ng, A. Y. in Proc. 2016 IEEE Conf. on Computer Vision and Pattern Recognition 2325–2333 (IEEE, 2016).
+- Article 
+    
+                    Google Scholar
+- Ristani, E., Solera, F., Zou, R. S., Cucchiara, R. & Tomasi, C. Preprint at https://arxiv.org/abs/1609.01775 (2016).
+- Nech, A. & Kemelmacher-Shlizerman, I. in Proc. 2017 IEEE Conf. on Computer Vision and Pattern Recognition 3406–3415 (IEEE, 2017).
+- Article 
+    
+                    Google Scholar
+- Guo, Y., Zhang, L., Hu., Y., He., X. & Gao, J. in Computer Vision — ECCV 2016 (eds Leibe, B., Matas, J., Sebe, N. & Welling, M.) https://doi.org/10.1007/978-3-319-46487-9_6 (Springer, 2016).
+- Google Scholar
+- Jasserand, C. in Data Protection and Privacy: The Internet of Bodies (eds Leenes, R., van Brakel, R., Gutwirth, S. & de Hert, P.) Ch. 7 (Hart, 2018).
+- Google Scholar
+- Moreau, Y. Nature 576, 36–38 (2019).
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Zhang, D. et al. Int. J. Legal Med. https://doi.org/10.1007/s00414-019-02049-6 (2019).
+- Article 
+    
+                    Google Scholar
+- Pan, X. et al. Int. J. Legal Med. 134, 2079 (2020).
+- Article 
+    PubMed 
+    
+                    Google Scholar
+- Wu, X. & Xhang, X. Preprint at https://arxiv.org/abs/1611.04135 (2016).
+- Hashemi, M. & Hall, M. J. Big Data 7, 2 (2020).
+- Article 
+    
+                    Google Scholar
+- Download references
+- What scientists really think about the ethics of facial recognition research
+- Is facial recognition too biased to be let loose?
+- Resisting the rise of facial recognition
+- Science publishers review ethics of research on Chinese minority groups
+- The battle for ethical AI at the world’s biggest machine-learning conference
+- Crack down on genomic surveillance
+- Social media: generative AI could harm mental health
+- Correspondence 23 MAY 23
+- Why AI’s diversity crisis matters, and how to tackle it
+- Career Feature 19 MAY 23
+- Create an IPCC-like body to harness benefits and combat harms of digital tech
+- Comment 17 MAY 23
+- Researchers who agree to manipulate citations are more likely to get their papers published
+- Nature Index 03 MAY 23
+- COVID-19 amplified racial disparities in the US criminal legal system
+- Article 19 APR 23
+- Why open-source generative AI models are an ethical way forward for science
+- World View 18 APR 23
+- Japanese government draws ire over plans to reform influential science council
+- News 24 MAY 23
+- Users choose to engage with more partisan news than they are exposed to on Google Search
+- Article 24 MAY 23
+- How the US debt-ceiling crisis could cost science for years to come
+- News 22 MAY 23
+- Founded by prominent scientists and scholars, Westlake is committed to building a truly international, world-leading, research-focused university.
+- Hangzhou, Zhejiang, China
+- Westlake University
+- Westlake University is a new type of non-profit research-oriented university in Hangzhou, Zhejiang, the People's Republic of China, supported by pu...
+- Hangzhou
+- Westlake University
+- The labs of Sandeep Robert Datta and Michael E. Greenberg are seeking a postdoctoral fellow as part of a joint project to probe the molecular basis...
+- Boston, Massachusetts (US)
+- Harvard Medical School Department of Neurobiology
+- The Faculty of Social and Behavioural Sciences of Friedrich Schiller University Jena invites application for the CZS Endowed Professorship for art...
+- Jena, Thüringen (DE)
+- Friedrich-Schiller-Universität Jena
+- The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship at NTU supports research on applying AI techniques to STEM areas
+- Singapore (SG)
+- Nanyang Technological University (NTU)
+- 
+- What scientists really think about the ethics of facial recognition research
+- Is facial recognition too biased to be let loose?
+- Resisting the rise of facial recognition
+- Science publishers review ethics of research on Chinese minority groups
+- The battle for ethical AI at the world’s biggest machine-learning conference
+- Crack down on genomic surveillance
+- An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+- Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+- Nature (Nature)
+                
+
+ISSN 1476-4687 (online)
+    
+
+ISSN 0028-0836 (print)
+- © 2023 Springer Nature Limited
+
+URL: https://www.ft.com/content/7d3e0d6a-87a0-11e9-a028-86cea8523dc2
+- We use
+								cookies
+								and other data for a number of reasons, such as keeping FT Sites reliable and secure,
+								personalising content and ads, providing social media features and to
+								analyse how our Sites are used.
+- Madhumita Murgia in London
+- We’ll send you a myFT Daily Digest email rounding up the latest Microsoft Corp news every morning.
+- Microsoft has quietly pulled from the internet its database of 10m faces, which has been used to train facial recognition systems around the world, including by military researchers and Chinese firms such as SenseTime and Megvii.
+- The database, known as MS Celeb, was published in 2016 and described by the company as the largest publicly available facial recognition data set in the world, containing more than 10m images of nearly 100,000 individuals.
+- The people whose photos were used were not asked for their consent, their images were scraped off the web from search engines and videos under the terms of the Creative Commons license that allows academic reuse of photos.
+- Microsoft, which took down the database days after the FT reported on its use by companies, said: “The site was intended for academic purposes. It was run by an employee that is no longer with Microsoft and has since been removed.”
+- Two other data sets have also been taken down since the FT report was published in April, including the Duke MTMC surveillance data set built by Duke University researchers, and a Stanford University data set called Brainwash.
+- Brainwash used footage of customers in a café called Brainwash in San Francisco’s Lower Haight district, taken through a livestreaming camera. Duke did not respond to requests for comment. Stanford said it had removed the data set after a request by one of the authors of a study it was used for. A spokesperson said the university is “committed to protecting the privacy of individuals at Stanford and in the larger community”.
+- All three data sets were uncovered by Berlin-based researcher Adam Harvey, whose project Megapixels documented the details of dozens of data sets and how they are being used.
+- Microsoft’s MS Celeb data set has been used by several commercial organisations, according to citations in AI papers, including IBM, Panasonic, Alibaba, Nvidia, Hitachi, Sensetime and Megvii. Both Sensetime and Megvii are Chinese suppliers of equipment to officials in Xinjiang, where minorities of mostly Uighurs and other Muslims are being tracked and held in internment camps.
+- Microsoft itself has used the data set to train facial recognition algorithms, Mr Harvey’s investigation found.
+- The company named the data set “Celeb” to indicate that the faces it had scraped were photos of public figures. But Mr Harvey found that the data set included several arguably private individuals, including security journalists such as Kim Zetter, Adrian Chen and Shoshana Zuboff, the author of Surveillance Capitalism, and Julie Brill, the former FTC commissioner responsible for protecting consumer privacy.
+- “Microsoft has exploited the term ‘celebrity’ to include people who merely work online and have a digital identity,” said Mr Harvey. “Many people in the target list are even vocal critics of the very technology Microsoft is using their name and biometric information to build.”
+- When the Financial Times previously contacted people in the database, they were unaware of their inclusion. “I am in no sense a public person, there is no way in which I’ve ceded my right to privacy,” said Adam Greenfield, a technology writer and urbanist who was included in the data set.
+- “It’s indicative of Microsoft’s inability to hold their own researchers to integrity and probity that this was not torpedoed before it left the building,” he said. “To me, it is indicative of a profound misunderstanding of what privacy is.”
+- Tech experts said Microsoft may have been in violation of the EU’s General Data Protection Law by continuing to distribute the MS Celeb data set after the regulations came into effect last year.
+- Recommended
+- “They are likely to have taken it down because their lawyers expressed concern that they do not have a basis to process special category data such as faces under Article 9 of GDPR,” said Michael Veale, a technology policy researcher at the Alan Turing Institute. “They may not have a get-out clause for processing biometric data for the purposes of “uniquely identifying a natural person”.
+- “Particularly as the use of the data set has moved from a purely research use to something that products are being built with,” he added. “There is reason to believe that the people in data set cannot be considered to expressly and clearly have made their faces public.”
+- Microsoft said it was not aware of any GDPR implications and that the site had been retired “because the research challenge is over”.
+- Although the database has been deleted by Microsoft, it is still available to researchers and companies that had previously downloaded it. Mr Harvey said it is still being shared on open source websites.
+- “You can’t make a data set disappear. Once you post it, and people download it, it exists on hard drives all over the world,” he said. “Now it is completely disassociated from any licensing, rules or controls that Microsoft previously had over it. People are posting it on GitHub, hosting the files on Dropbox and Baidu Cloud, so there is no way from stopping them from continuing to post it and use it for their own purposes.”
+- Hold Big Tech to account on data protection / From Jane Frost CBE, London, UK
+- Comments have not been enabled for this article.
+- International Edition
+
+URL: https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.spiegel.de/netzwelt/web/microsoft-gesichtserkennung-datenbank-mit-zehn-millionen-fotos-geloescht-a-1271221.html
+- Demonstration einer Gesichtserkennungstechnik in Peking
+- Microsoft hat eine Datenbank mit zehn Millionen Gesichtsfotos von rund 100.000 unterschiedlichen Menschen ohne Vorankündigung aus dem Netz genommen. Das Unternehmen hatte die MS Celeb genannte Datensammlung im Jahr 2016 veröffentlicht, um Forschern in aller Welt Trainingsmaterial zum Beispiel für Gesichtserkennungstechnik zur Verfügung zu stellen.
+- Die abgebildeten Personen waren nicht um Erlaubnis gefragt worden. Ihre Fotos stammten aus öffentlich zugänglichen Quellen, die unter einer Creative-Commons-Lizenz standen, die eine wissenschaftliche Nutzung erlaubte. Die Datenbank wurde nach Angaben der "Financial Times" 
+
+
+ allerdings auch von Forschern mit Verbindungen zum Militär sowie mehreren kommerziellen Unternehmen genutzt - darunter auch mindestens zwei aus China, die Behörden in der Provinz Xinjiang beliefern, wo Muslime in Internierungslagern festgehalten werden.
+- Das hatte der in Berlin lebende Künstler Adam Harvey herausgefunden und im April in seinem Projekt MegaPixels  dokumentiert. Harvey hatte auch die Verbreitung von zwei weiteren Datenbanken untersucht, die daraufhin aus dem Netz genommen wurden: eine von der Duke University und eine Brainwash genannte Gesichtsdatenbank der Stanford University.
+- Ein Beispiel für die potenziell fragwürdige Verwendung von MS Celeb ist Harvey zufolge eine Studie mit dem Titel "Exploring Disentangled Feature Representation Beyond Face Identification", durchgeführt von Forschern des chinesischen Unternehmens SenseTime. Die Firma hat die Überwachungstechnik für die Provinzregierung in Xinjiang hergestellt. In der Studie geht es um Ansätze, Gesichter automatisch anhand von Merkmalen wie Augenabständen, Hautfarben und Ethnie zu analysieren. Inwieweit die ganz überwiegend weißen Gesichter in MS Celeb dabei hilfreich waren, ist unklar.
+- Microsoft teilte der "Financial Times" mit, die Datenbank sei von einem Mitarbeiter gepflegt worden, der nicht mehr für Microsoft arbeite - daher sei sie entfernt worden.
+- Teile der Datenbank stehen noch auf GitHub
+- Experten zufolge könnte die Verarbeitung der Daten aber auch einen Verstoß gegen die EU-Datenschutz-Grundverordnung darstellen, was ebenfalls ein Grund gewesen sein könnte, die Datenbank nicht mehr zu nutzen.
+- Unter den Personen, deren Bilder in der Datenbank gespeichert sind, sind neben vielen amerikanischen und britischen Schauspielern auch Netzaktivisten wie Jillian York von der Bürgerechtsorganisation Electronic Frontier Foundation (EFF), der Künstler Trevor Paglen sowie Journalisten wie Laura Poitras - allesamt bekannte Kritiker von Überwachungstechnik. Microsoft sagte der Zeitung, es sei sich keiner datenschutzrechtlichen Probleme bewusst.
+- Die Datenbank ist mit der Aktion von Microsoft natürlich nicht aus der Welt. Wer sie zuvor heruntergeladen hatte, kann sie weiterhin verwenden. Selbst auf der Codesharing-Plattform GitHub, die Microsoft vor einem Jahr für 7,5 Milliarden Dollar gekauft hatte, sind zumindest noch große Teile davon zu finden.
+- Microsoft hatte sich in den vergangenen Monaten mehrfach für eine staatliche Regulierung von Gesichtserkennungstechnik ausgesprochen, damit ein Missbrauch der Technik ausgeschlossen wird.
+- Demonstration einer Gesichtserkennungstechnik in Peking
+- Melden Sie sich an und diskutieren Sie mit
+
+URL: https://www.lesechos.fr/tech-medias/intelligence-artificielle/le-mariage-explosif-de-nos-donnees-et-de-lia-1031813
+- Plusieurs scandales sur l'utilisation de bases de données ont ponctué l'actualité ces derniers temps. Se servir de données personnelles pour entraîner une intelligence artificielle sans le consentement de leurs propriétaires constitue un risque pour les sociétés.
+- Par Remy Demichelis
+- Comment savoir à quoi nos données, quand elles sont utilisées pour entraîner des intelligences artificielles (IA), peuvent réellement servir ? A repérer des chats dans des vidéos YouTube ? A nourrir les algorithmes de l'armée américaine ? A faciliter l'oppression de la minorité ouïgoure en Chine ? Impossible de répondre, mais le sujet devient de plus en plus sensible.
+- Si l'IA fait autant parler d'elle ces dernières années, c'est principalement grâce à l'apprentissage automatique. C'est-à-dire la capacité pour l'ordinateur à apprendre tout seul ou presque : on lui fournit une grande masse de données, des portraits avec un nom par exemple, et à force d'entraînement, il va être capable d'identifier des personnes. Pendant longtemps, ces fichiers ont été rassemblés par les chercheurs dans des jeux de données (datasets) pour le monde académique et la R&D.
+- Jadis utilisées pour un traitement inoffensif ( l'exemple des chats dans les vidéos est véridique ), les données peuvent aujourd'hui servir à des usages bien plus problématiques, et parfois nous figurons dans ces datasets sans même le savoir.
+- La question n'est pas que mon image soit utilisée, c'est comment elle l'est.
+- C'est ainsi que Jillian York, activiste au sein de l'ONG Electronic Frontier Foundation, a découvert des photos d'elle, prises dans des lieux privés, au sein d'une base de données. « Le problème n'est pas que mon image soit utilisée, c'est la façon dont elle elle l'est », confiait-elle dans une enquête du « Financial Times » .
+- Le jeu de données en question a été mis au point par l'Iarpa (Intelligence Advanced Research Projects Activity), une agence gouvernementale américaine développant des projets pour le monde du renseignement. Pour constituer cette base, les scientifiques de l'Iarpa ont fait au plus simple : ils sont allés chercher sur le Web des images sous licence Creative Commons, ce qui les rend quasiment libres de droits. Sauf que les personnes prises en photo n'ont jamais été informées.
+- Le règlement européen sur la protection des données (RGPD), entré en vigueur l'année dernière , est censé nous préserver de ces usages. L'article 9 dit clairement qu'il faut que « la personne concernée [ait] donné son consentement explicite au traitement ». Il est aussi nécessaire de définir la « finalité » et la « durée » d'utilisation.
+- Au début du mois, Microsoft a supprimé une base de 10 millions de photos dédiée à l'entraînement de systèmes de reconnaissance faciale, MS-Celeb. Celle-ci avait notamment été utilisée par Safran pour des recherches sur l'identification de personnes, ou par l'Université nationale des technologies de défense en Chine.
+- Ce dataset contenait les portraits de plus de 100.000 individus. « [Microsoft l'a] probablement enlevé parce que [ses] avocats ont exprimé des inquiétudes de ne pas avoir de base juridique pour traiter ce type de données au regard de l'article 9 du RGPD », a indiqué au « Financial Times » Michael Veale, chercheur au Alan Turing Institute.
+- Intelligence artificielle : la crise de confiance
+- « Une entreprise de l'Union qui fait usage de données sans avoir prévenu les individus, même non européens, risque de se mettre en délicatesse avec le RGPD, ajoute l'avocate Jeanne Bossi-Malafosse, du cabinet Delsol. Il en va de même de toute société, même extracommunautaire, qui utiliserait des données de résidents européens sans les avoir informés de la finalité. »
+- La loi devrait donc fournir une base suffisante pour nous prévenir de l'utilisation présente ou future de nos informations personnelles ; à nous de faire le tri… encore une fois en théorie. Force est de constater que c'est loin d'être évident. Et c'est sûrement le problème sur lequel devrait se pencher une saison 2 du RGPD : le traitement algorithmique.
+- L'opinion internationale exprime de plus en plus ses inquiétudes : en janvier dernier, la consultante Kate O'Neill postait un tweet devenu viral à propos du « 10 Year Challenge », un défi entre amis consistant à publier sur Facebook ou Instagram deux photos de soi à dix ans d'intervalle. « Je me demande comment toutes ces données pourraient être analysées pour entraîner des algorithmes de reconnaissance faciale et d'estimation de l'âge », lançait-elle « en plaisantant à moitié ».
+- Me 10 years ago: probably would have played along with the profile picture aging meme going around on Facebook and InstagramMe now: ponders how all this data could be mined to train facial recognition algorithms on age progression and age recognition
+- Un autre challenge a d'ores et déjà permis d'améliorer des systèmes d'IA : le « Mannequin Challenge » , qui consistait à filmer un groupe de personnes immobiles en se déplaçant autour d'elles. Le 23 mai, Google AI a publié sur son blog les résultats d'un nouvel algorithme de prédiction de la profondeur sur des images en deux dimensions (ce qui permettrait de les passer en 3D). Pour entraîner le modèle, les chercheurs ont utilisé environ 2.000 vidéos du Mannequin Challenge sur YouTube.
+- Les 10 recommandations de l'OCDE pour l'intelligence artificielle
+- Ce qui pose la question d'une pratique répandue en informatique : le fait de « crawler » le Web, c'est-à-dire de récupérer automatiquement des données, comme ce fut le cas pour constituer MS-Celeb ou le dataset du Mannequin Challenge. Le RGPD prévoit toutefois que le consentement n'est paradoxalement pas requis quand « le traitement porte sur des données à caractère personnel qui sont manifestement rendues publiques par la personne concernée ».
+- Un tiers peut-il donc réutiliser nos photos Facebook publiques ? « Je pense que non, indique Jeanne Bossi-Malafosse. Car c'est dans ce cas une réutilisation, et si la question du consentement peut se poser, la personne doit être informée. » Un texte, deux interprétations.
+- Avec le site Megapixel , de l'activiste américain Adam Harvey, on peut découvrir en un coup d'oeil les usages de quelques bases de données (celles qui sont citées dans des articles scientifiques). Bientôt, il envisage de permettre aux internautes de taper leur nom dans une barre de recherche, pour voir dans quel dataset ils apparaissent, quelles données ont été récupérées, et à quoi elles ont servi. On risque d'avoir quelques surprises.
+- Rémy Demichelis
+- Pratique
+- Services
+- Le Groupe
+- Tous droits réservés - Les Echos 2023
+
+URL: https://www.lastampa.it/2019/06/22/tecnologia/microsoft-ha-cancellato-il-suo-database-per-il-riconoscimento-facciale-PWwLGmpO1fKQdykMZVBd9H/pagina.html
+- In Evidenza
+- Sezioni
+- Edizioni Locali
+- La voce de La Stampa
+- Servizi
+- Sembrava che quello che stai cercando sia stato spostato o non è mai esistito.
+- Controlla l'indirizzo inserito o in alternativa vai alla Homepage
+- Looks like the content you're looking for has moved or never existed.
+- Check the address you typed or go to the Homepage
+- GEDI News Network S.p.A. 
+        Via Ernesto Lugaro n. 15 - 10126 Torino - P.I. 01578251009 Società soggetta all'attività di direzione e coordinamento di GEDI Gruppo Editoriale S.p.A.
+- I diritti delle immagini e dei testi sono riservati. È espressamente vietata la loro riproduzione con qualsiasi mezzo e l'adattamento totale o parziale.
+
+URL: https://www.bbc.co.uk/news/technology-48555149
+- Microsoft has deleted a massive database of 10 million images which was being used to train facial recognition systems, the Financial Times reports.
+- The database was released in 2016 and was built of online images of 100,000 well-known people.
+- The database is believed to have been used to train a system operated by police forces and the military.
+- The deletion comes after Microsoft called on US politicians to do a better job of regulating recognition systems.
+- Microsoft told the FT the database was no longer available, because the person who curated it had now left the company.
+- Last year Microsoft President Brad Smith asked the US Congress to take on the task of regulating the use of facial recognition systems because they had "broad societal ramifications and potential for abuse".
+- More recently, Microsoft rejected a request from police in California to use its face-spotting systems in body cameras and cars.
+- The massive set of images, called the MSCeleb database, was compiled from images of celebrities found online.
+- The Megapixels project, which tracks face databases, said the "majority" of images were of American and British actors, but it added that it also included a lot of people who "must maintain an online presence for their professional lives".
+- This meant that it included journalists, artists, musicians, activists, policy makers, writers and researchers.
+- Even though the data is no longer available from Microsoft, it is probably still being used by people who downloaded a copy.
+- "You can't make a data set disappear," Adam Harvey from the Megapixels site told Engadget. "Once you post it, and people download it, it exists on hard drives all over the world."
+- In the UK, police forces have been criticised for trialling home-grown facial recognition systems that have proved to be bad at recognising people. One trial was wrong in 92% of the cases it flagged.
+- Big Brother Watch said the way facial recognition had "crept" on to the UK's streets was "dangerously irresponsible".
+- Amazon easily defeated facial ID revolt
+- Chinese driver gets ticket for scratching his face
+- Facial images 'deleted in milliseconds'
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.engadget.com/2019/06/06/microsoft-discreetly-wiped-its-massive-facial-recognition-databa/
+- Microsoft has been vocal about its desire to properly regulate facial recognition technology. The company's president, Brad Smith, appealed directly to Congress last year to take steps to manage the tech, which he says has "broad societal ramifications and potential for abuse." Such are the company's concerns that it even blocked the sales of the tech to California police forces. Now, Microsoft is continuing its crusade by quietly deleting its MS Celeb database, which contains more than 10 million images of some 100,000 people.
+- The database was originally published in 2016, described by Microsoft as the largest publicly available facial recognition data set in the world, and used to train facial recognition systems by global tech firms and military researchers. The people whose photos appear in the set were not asked for consent, but as the individuals were considered celebrities (hence the set's name), the images were pulled from the internet under a Creative Commons license.
+- However, MS Celeb -- which was uncovered by Berlin-based researcher Adam Harvey -- also contained images of what FT.com calls "arguably private individuals" such as security journalists and authors. Speaking to the FT.com, Harvey -- who runs a project called Megapixels which reveals details on such data sets -- also says that even though MS Celeb has been deleted, its contents are still being shared around the web. "You can't make a data set disappear. Once you post it, and people download it, it exists on hard drives all over the world," he said.
+- The deletion comes not long after FT.com ran an in-depth investigation on facial recognition technology, and Microsoft's role in it. However, Microsoft explained the data set's deletion to FT.com as a simple matter of protocol. "The site was intended for academic purposes," it said. "It was run by an employee that is no longer with Microsoft." This might explain why the company hasn't been particularly vocal about the move -- internal procedure can't really be considered the same as a bold gesture of public goodwill. Nonetheless, it demonstrates that Microsoft is as committed to legislative adherence as it wants everyone else to be.
+
+URL: https://www.biometricupdate.com/201906/ms-celeb-and-other-facial-biometrics-datasets-taken-down
+- Several public facial recognition data sets have been deleted, including a Microsoft database of 10 million faces which is reported to have been the largest dataset in the world for biometric research and training in the world, the Financial Times reports.
+- The MS Celeb database was published in 2016, and has been used by a wide range of facial recognition researchers, including from militaries and high-profile biometrics companies like SenseTime and Megvii. Images of nearly 100,000 individuals scraped from the internet using search engines and videos under Creative Commons license terms, but consent was not sought from the individuals pictured.
+- “The site was intended for academic purposes,” Microsoft said in a statement. “It was run by an employee that is no longer with Microsoft and has since been removed.”
+- Data sets hosted by Stanford and Duke Universities have also been taken down, according to FT, which reported on them and the Microsoft dataset in April. The Duke MTMC surveillance data set, and Stanford’s Brainwash dataset, taken from a livestreaming camera in a San Francisco café, have both been taken offline. Duke did not respond to FT’s request for comment, while Stanford said one of the authors of a study Brainwash was used for requested the dataset’s removal.
+- The Megapixels project by researcher Adam Harvey documented all three datasets, along with the UnConstrained College Students (UCCS) dataset taken at the University of Colorado, and Oxford Town Centre Dataset. The UCCS dataset has been temporarily taken down because metadata was exposed in the FT article, while the Town Centre dataset remains active, according to the site. Harvey says Microsoft exploited the notion of celebrity, and included people who were vocal opponents of the technology’s development in its dataset.
+- The professor who made the UCCS dataset available says that he waited five years from when the images were collected to protect the privacy of those pictured, but has faced criticism from a University of Denver law professor, the Denver Post reports.
+- Use of the MS Celeb dataset has been cited in research papers by numerous facial recognition companies, including Microsoft itself.
+- “It’s indicative of Microsoft’s inability to hold their own researchers to integrity and probity that this was not torpedoed before it left the building,” technology writer Adam Greenfield, who was included in the MS Celeb dataset, told FT. “To me, it is indicative of a profound misunderstanding of what privacy is.”
+- Microsoft may also have violated GDPR by leaving the dataset up after the privacy regulation went into effect, FT reports.
+- biometrics  |  dataset  |  facial recognition  |  Microsoft
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://futurism.com/microsoft-deletes-facial-recognition-database
+- Microsoft just quietly deleted a facial recognition database of more than 10 million images of around 100,000 people — most of them known celebrities — Engadget reports.
+- The news comes after Microsoft has actively tried to distance itself from the technology.
+- "The world is on the threshold of technology that would give a government the ability to follow anyone anywhere," Brad Smith, the President of Microsoft, warned in November 2018, calling for facial recognition software to be regulated.
+- The company's MS Celeb training dataset was lauded as the "largest publicly available one in the world" when it was created in 2016. It was designed to train tools for image captioning and news video analysis, according to Microsoft Research's paper on the matter.
+- The images were pulled from Creative Commons databases, but the subjects in the 10 million images were not asked for consent, as the Financial Times reports.
+- "The site was intended for academic purposes," read an official statement received by the Financial Times. "It was run by an employee that is no longer with Microsoft and has since been removed."
+- The dataset, along with two other massive and very similar databases hosted by Duke and Stanford University researchers, was discovered by Adam Harvey, a Berlin-based artist and researcher.
+- "Microsoft has exploited the term 'celebrity' to include people who merely work online and have a digital identity," said Harvey in a statement. "Many people in the target list are even vocal critics of the very technology Microsoft is using their name and biometric information to build."
+- READ MORE: Microsoft quietly deletes largest public face recognition data set [Financial Times]
+- More on facial recognition tech: The US Army’s Next Rifle May Use Facial Recognition
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://www.fastcompany.com/90360490/ms-celeb-microsoft-deletes-10m-faces-from-face-database
+- Please enable JS and disable any ad blocker
+
+URL: https://www.forbes.com/sites/korihale/2019/06/25/microsoft-scraps-10-million-facial-recognition-photos-on-the-low/
+- Green face recognition markings on the face of a short-haired young woman in an airport building.... [+] Cape Town, South Africa. May 2019.
+- As an outspoken proponent to properly regulate facial recognition technology, Microsoft has quietly deleted its MS Celeb database, which contains more than 10 million images. The photos compiled included journalists, artists, musicians, activists, policy makers, writers and researchers. Microsoft is finally putting an end to its role in the potential for abuse that facial recognition technology has, which could lead to incidents of racial profiling.
+- The Breakdown You Need to Know
+- Released in 2016, the database was built of online images with 100,000 well-known people. Microsoft explained the data set's deletion to the Financial Times as a simple matter of internal company protocol, "the site was intended for academic purposes," the company said. "It was run by an employee that is no longer with Microsoft."
+- The deletion comes after Microsoft called on U.S. politicians to do a better job of regulating recognition systems last year. Additionally, they have asked governments around the world to regulate the use of facial recognition technology. CultureBanx  noted the software giant wants to ensure the technology which has higher error rates for African Americans, does not invade personal privacy or become a tool for discrimination or surveillance.
+- Microsoft has even blocked sales of its facial recognition tech to California police departments who wanted to use it in body cameras and cars. Not to mention, research shows commercial artificial intelligence systems tend to have higher error rates for women and black people. Some facial recognition systems would only confuse light-skin men 0.8% of the time and would have an error rate of 34.7% for dark-skin women.
+- Sounding The Alarm
+- Last December, Microsoft president Brad Smith wrote on the company’s website about the importance of avoiding using facial recognition technology for unlawful discrimination. He noted it’s important for the groups using the services to understand that “they are not absolved of their obligation to comply with laws prohibiting discrimination against individual consumers or groups of consumers.”
+- Tech companies like Microsoft and Google have sounded the alarm on just how harmful artificial intelligence can be for investors and brands alike. Specifically, last December Microsoft wrote that “A.I. algorithms may be flawed. Datasets may be insufficient or contain biased information. If we enable or offer AI solutions that are controversial because of their impact on human rights, privacy, employment, or other social issues, we may experience brand or reputational harm.”
+- Remember artificial intelligence systems inherently learn what they are being “taught”. The use of facial recognition technology has a disparate impact on people of color, disenfranchising a group who already face inequality. Considering both Microsoft and Google have been operating in the A.I. space for years, we must wonder why they’ve truly started calling out it’s potentially harmful impact and when the rest of the industry will as well.
+- Also, Microsoft and Google aren’t alone in voicing concerns about the misuse of facial recognition services. The ACLU has called out companies like Amazon with its “Rekognition” tool that’s been rolled out to police departments across the U.S., as a threat to civil liberties. Meanwhile, democratic lawmakers have asked for safeguards so police departments with Rekognition do not abuse their power.
+- Some researchers argue that even though MS Celeb has been deleted, you can still find its contents being shared online. Essentially, meaning once it appears on the internet and people download the information, it never goes away.
+- 
+
+URL: https://www.forbes.com/sites/forbestechcouncil/2019/07/23/how-being-aware-of-our-biases-protects-the-future-of-ai/
+- 
+- 
+- While the growth of artificial intelligence (AI) represents a multitude of opportunities for tech and beyond, there’s one startling truth that many people overlook: humans create AI, and humans harbor a lot of unconscious bias. We need to protect advancing AI technologies by doubling down on diversity and finding ways to program against that human bias.
+- AI And Trained Data
+- One of the main challenges of AI is its reliance on datasets and “trained” data. When AI analyzes these large datasets, it uses rules established by humans. Therein lies the problem.
+- Regardless of how well-intentioned human developers are, we embed our biases into the data AI relies on. When we use public or private information to train, test and perfect algorithms, we must adjust for that bias.
+- Here’s an example: Most tech companies use royalty-free photographs to build technologies like facial recognition. However, these photos usually include more Caucasian people than people of color. Not to mention, the vast majority of tech company engineers are Caucasian men. This means that engineers may accidentally design facial recognition machine learning algorithms that work better for certain races than others.
+- Even worse, humans tasked with categorizing images often confuse ethnicities because they cannot make sensitive distinctions. The algorithm, then, relies on a flawed data set. Examples like this demonstrate why it is more important than ever to double-down on diversity. We have a responsibility to ensure our future systems, AI included, will be better than our present systems. We must create a future where facial recognition software can distinguish people of color with an equal measure of reliability.
+- How We Have Programmed Bias Into AI So Far
+- Last year, CNET reported that the American Civil Liberties Union ran a test using Amazon’s facial recognition tool, known as “Rekognition.” The analysis revealed that the tool incorrectly identified 28 members of Congress, matching them with the profiles of people previously arrested for a crime. The false matches disproportionately involved people of color, including six members of the Congressional Black Caucus.
+- This study reveals a frightening issue. We must be able to rely on the accuracy of AI and facial recognition and trust that each is free of bias that may skew results. This technology is becoming mainstream. It’s selling to law enforcement offices, airports and security centers across the country. While our current programming attempts mean well, they fall short where diversity is concerned. If we use the available data about arrests on misdemeanors without adding other layers to the data, the resulting programs will be racially skewed and will harm minorities. Good luck if you are a woman or a darker-skinned person.
+- The Future Of AI Is Diverse
+- Implementing checks and balances for AI will allow all people to enjoy a more equitable technological future. In the future, our speech recognition software must be able to adjust to accents, home assistants can’t have all female names and prediction algorithms must not perpetuate stigmas. Ensuring this is our responsibility as tech leaders.
+- Former President Barack Obama, famously referred to the dangers of social media and how it can reinforce our current bias. "One of the dangers of the internet is that people can have entirely different realities. They can be cocooned in information that reinforces their current biases," Obama said. "The question has to do with how do we harness this technology in a way that allows a multiplicity of voices, allows a diversity of views, but doesn't lead to a Balkanisation of society and allows ways of finding common ground."
+- And he's right. Instead, it must provide an avenue for common ground. This translates directly to our responsibility for curating and training datasets for AI.
+- According to an article by Dave Gershgorn, many public datasets are affected by sexism and racism. Last week, Microsoft took down its MS Celeb facial recognition datasets following reports of data misuse. There are multiple examples of datasets running into trouble because of reported racism or sexism.
+- The good news is that the same strategies I use and recommend at the workplace can be applied to the data set. In other articles, I've discussed actions we can all take to improve diversity, including the following:
+- 1. Be aware of the language of your job descriptions, so they do not predetermine gender. This applies to your company, as well as to the dataset. Review the language in the dataset to ensure it is gender-neutral.
+- 2. Provide an inclusive environment. Diversity is a numbers game, but the real determining factor is inclusion. This also applies to the datasets. Be inclusive with your sources; ensure you’re using multilayered data sets that include different cultures, geographies, religious backgrounds, ethnicities, demographics, etc. Make your dataset as inclusive as possible.
+- 3. Support and promote diversity within your datasets. Apply weights when needed to even the playing field in the dataset to ensure that diversity is fairly represented. Help the data promote diversity.
+- AI is here to stay. We can’t deny that it is trending toward growing at a pace close to exponential. As good tech citizens, it is our duty and responsibility to ensure we are building our future technologies in a more inclusive way than we have.
+- 
+
+URL: https://freedom-to-tinker.com/2020/10/21/facial-recognition-datasets-are-being-widely-used-despite-being-taken-down-due-to-ethical-concerns-heres-how/
+- May 29, 2023
+- Posts
+Comments
+- Freedom to Tinker
+- Research and commentary on digital technologies in public life
+- This post describes ongoing research by Kenny Peng, Arunesh Mathur, and Arvind Narayanan. We are grateful to Marshini Chetty for useful feedback.
+- Computer vision research datasets have been criticized for violating subjects’ privacy, reinforcing cultural biases, and enabling questionable applications. But regulating their use is hard.
+- For example, although the DukeMTMC dataset of videos recorded on Duke’s campus was taken down in June 2019 due to a backlash, the data continues to be used by other researchers. We found at least 135 papers that use this data and were published after this date, many of which were in the field’s most prestigious conferences. Worse, we found that at least 116 of these papers used “derived” datasets, those datasets that reuse data from the original source. In particular, the DukeMTMC-ReID dataset remains a popular dataset in the field of person reidentification and continues to be free for anyone to download.
+- The case of DukeMTMC illustrates the challenges of regulating a dataset’s usage in light of ethical concerns, especially when the data is separately available in derived datasets. In this post, we reveal how these problems are endemic and not isolated to this dataset.
+- Background: Why was DukeMTMC criticized?
+- DukeMTMC received criticism on two fronts following investigations by MegaPixels and The Financial Times. Firstly, the data collection deviated from IRB guidelines in two respects — the recordings were done outdoors and the data was made available without protections. Secondly, the dataset was being used in research with applications to surveillance, an area which has drawn increased scrutiny in recent years.
+- The backlash toward DukeMTMC was part of growing concerns that the faces of ordinary people were being used without permission to serve questionable ends.
+- Following its takedown, data from DukeMTMC continues to be used
+- In response to the backlash, the author of DukeMTMC issued an apology and took down the dataset. It is one of several datasets that has been removed or modified due to ethical concerns. But the story doesn’t end here. In the case of DukeMTMC, the data had already been copied over into other derived datasets, which use data from the original with some modifications. These include DukeMTMC-SI-Tracklet, DukeMTMC-VideoReID, and DukeMTMC-ReID. Although some of these derived datasets were also taken down, others, like DukeMTMC-ReID, remain freely available.
+- Yet the data isn’t just available — it continues to be used prominently in academic research. We found 135 papers that use DukeMTMC or its derived datasets. These papers were published in such venues as CVPR, AAAI, and BMVC — some of the most prestigious conferences in the field. Furthermore, at least 116 of these used data from derived datasets, showing that regulating a given dataset also requires regulating its derived counterparts.
+- Together, the availability of the data, and the willingness of researchers and reviewers to allow its use, has made the removal of DukeMTMC only a cosmetic response to ethical concerns.
+- This set of circumstances is not unique to DukeMTMC. We found the same result for the MS-Celeb-1M dataset, which was removed by Microsoft in 2019 after receiving criticism. The dataset lives on through several derived datasets, including MS1M-IBUG, MS1M-ArcFace, and MS1M-RetinaFace — each, publicly available for download. The original dataset is also available via Academic Torrents. We also found that, like DukeMTMC, this data remains widely used in academic research.
+- Derived datasets can enable unintended and unethical research
+- In the case of DukeMTMC, the most obvious ethical concern may have been that the data was collected unethically. However, a second concern — that DukeMTMC was being used for ethically questionable research, namely surveillance — is also relevant to datasets that are collected responsibly.
+- Even if a dataset was created for benign purposes, it may have uses in more questionable areas. Oftentimes, these uses are enabled by a derived dataset. This was the case for DukeMTMC. The authors of the Duke MTMC dataset note that they have  never conducted research in facial recognition, and that the dataset was not intended for this purpose. However, the dataset turned out to be particularly popular for the person re-identification problem, which has drawn criticism for its applications to surveillance. This usage was enabled by datasets like DukeMTMC-ReID dataset, which tailored the original dataset specifically for this problem.
+- Also consider the SMFRD dataset, which was released soon after the COVID-19 pandemic took hold. The dataset contains masked faces, including those in the popular Labeled Faces in the Wild (LFW) dataset with facemasks superimposed. The ethics of masked face recognition is a question for another day, but we point to SMFRD as evidence of the difficulty of anticipating future uses of a dataset. Released more than 12 years after LFW, SMFRD was created in a very different societal context.
+- It is difficult for a dataset’s author to anticipate harmful uses of their dataset — especially those that may arise in the future. However, we do suggest that a dataset’s author can reasonably anticipate that their dataset has potential to contribute to unethical research, and accordingly, think about how they might restrict their dataset upon release.
+- Derived datasets are widespread and unregulated
+- In the few years that DukeMTMC was available, it spawned several derived datasets. MS-Celeb-1M has also been used in several derived datasets.
+- More popular datasets can spawn even more derived counterparts. For instance, we found that LFW has been used in at least 14 derived datasets, 7 of which make their data freely available for download. These datasets were found through a semi-manual analysis of papers citings LFW. We suspect that many more derived datasets of LFW exist.
+- Before thinking about how one could regulate derived datasets, in the present circumstances, it is even challenging to know what derived datasets exist.
+- For both DukeMTMC and LFW, the authors lack control over these derived datasets. Neither requires giving any information to the authors prior to using the data, as is the case with some other datasets. The authors also lack control via licensing. DukeMTMC was released under the CC BY-NC-SA 4.0 license, which allows for sharing and adapting the dataset, as long as the use is non-commercial and attribution is given. The LFW dataset was released without a license entirely.
+- Implications
+- Though regulating data is notoriously difficult, we suggest steps that the academic community can take in response to the concerns outlined above.
+- In light of ethical concerns, taking down a dataset is often an inadequate method of preventing further use of a dataset. Derived datasets should also be identified and also taken down. Even more importantly, researchers should subsequently not use these datasets, and journals should assert that they will not accept papers using these datasets. Similarly to how NeurIPS is requiring a broader impact statement, we suggest requiring a statement listing and justifying any datasets used in a paper.
+- At the same time, more efforts should be made to regulate dataset usage from the outset, particularly with respect to the creation of derived datasets. There is a need to keep track of where a dataset’s data is available, as well as to regulate the creation of derived datasets that enable unethical research. We suggest that authors consider more restrictive licenses and distribution practices when releasing their dataset.
+- Return to top of page
+- Copyright © 2023 ·Education Theme on Genesis Framework · WordPress · Log in
+
+- DukeMTMC facial recognition dataset
+- MegaFace facial recognition dataset
+- Stanford University Brainwash cafe facial recognition dataset
+- Page infoType: Data Published: April 2022

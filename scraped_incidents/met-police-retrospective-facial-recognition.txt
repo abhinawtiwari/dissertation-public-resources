@@ -1,0 +1,257 @@
+- Released: September 2021
+- Can you improve this page?Share your insights with us
+- WIRED has discovered that London's Metropolitan Police Service is buying a new, retrospective facial recognition system that will enable them to process historic CCTV, social media, and other images when identifying and tracking down suspects.
+- Critics are concerned the system, which extends the Met's existing facial recognition capabiilities, could easily be used for other purposes, and may entrench racially and otherwise discriminatory policing.
+- The Met's contract was discovered when the Mayor of London's office published an approved proposal for the system, which forms part of a £3 million, four-year deal with NEC Corporation's UK subsidiary Northgate Public Services.
+- In an interview with The Register, the UK government’s Surveillance Camera Commissioner Professor Fraser Sampson argued 'We need as a minimum a single set of clear principles by which those using the biometric and surveillance camera systems will be held to account, transparently and auditably.'
+- Operator: Metropolitan Police Service Developer: Northgate Public Services (NEC)Country: UK Sector: Govt - policePurpose: Identify and track criminal suspectsTechnology: Facial recognition Issue: Privacy; Surveillance; Dual/multi-use; Bias/discrimination - race, ethnicityTransparency: Governance; Black box
+- Metropolitan Police website
+- Metropolitan Police Wikipedia profile
+- Mayor of London (2021). Retrospective Facial Recognition System
+URL: https://www.wired.co.uk/article/met-police-facial-recognition-new
+- Samuel Woodhams
+- The UK’s biggest police force is set to significantly expand its facial recognition capabilities before the end of this year. New technology will enable London’s Metropolitan Police to process historic images from CCTV feeds, social media and other sources in a bid to track down suspects. But critics warn the technology has “eye-watering possibilities for abuse” and may entrench discriminatory policing.
+- In a little-publicised decision made at the end of August, the Mayor of London’s office approved a proposal allowing the Met to boost its surveillance technology. The proposal says that in the coming months the Met will start using Retrospective Facial Recognition (RFR), as part of a £3 million, four-year deal with Japanese tech firm NEC Corporation. The system examines images of people obtained by the police before comparing them against the force’s internal image database to try and find a match.
+- “Those deploying it can in effect turn back the clock to see who you are, where you've been, what you have done and with whom, over many months or even years,” says Ella Jakubowska, policy advisor at  European Digital Rights, an advocacy group. Jakubowska says the technology can “suppress people's free expression, assembly and ability to live without fear”.
+- The purchase of the system is one of the first times the Met’s use of RFR has been publicly acknowledged. Previous versions of its facial recognition web page on the Wayback Machine shows references to RFR were added at some stage between November 27, 2020, and February 22, 2021. The technology is currently used by six police forces in England and Wales, according to a report published in March. “The purchase of a modern, high-performing facial recognition search capability reflects an upgrade to capabilities long used by the Met as well as a number of other police forces,” a spokesperson for the Met says.
+- Critics argue that the use of RFR encroaches on people’s privacy, is unreliable and could exacerbate racial discrimination. “In the US, we have seen people being wrongly jailed thanks to RFR,” says Silkie Carlo, director of civil liberties group Big Brother Watch. “A wider public conversation and strict safeguards are vital before even contemplating an extreme technology like this, but the Mayor of London has continued to support expensive, pointless and rights-abusive police technologies.”
+- A spokesperson for the Mayor of London defended the use of the technology, saying it will shorten the time it takes to identify suspects and help reduce crime in the capital. “Whilst this is clearly an important policing tool, it’s equally important that the Met Police are proportionate and transparent in the way it is used to retain the trust of all Londoners,” the spokesperson says. The London Policing Ethics Panel, an independent scrutiny group set up by the Mayor’s office, has been tasked with reviewing and advising the Met on its use of the RFR, although this process has not happened before the purchase of the technology was approved. The Ethics Panel did not respond to a request for comment.
+- By Matt Kamen
+- By Angela Watercutter
+- By WIRED
+- By Chris Stokel-Walker
+- Political support for the use of facial recognition remains contested in the UK, with MPs from Labour, the Liberal Democrats and the Green Party all calling for regulations on the use of the technology. “I’m disappointed to see this latest development in the Met’s use of Retrospective Facial Recognition software,” says Sarah Olney, Liberal Democratic MP for Richmond Park. “It comes despite the widespread concerns as to its accuracy, along with its clear implications on human rights. Better policing ought to start from a foundation of community trust. It’s difficult to see how RFR achieves this.”
+- The expansion of the Met’s facial recognition technology, which also includes Live Facial Recognition (LFR) systems that are used in public places, comes at a time when the legality of such systems remain in question with serious concerns being raised about its deployment. Lawmakers around the world are considering how to regulate facial recognition systems and multiple cities have banned the use of the technology.
+- The UK’s data regulator, the Information Commissioner’s Office, has not published official guidance on the use of RFR. “Police forces wishing to use RFR technology must comply with data protection law before, during and after its use,” an ICO spokesperson says, adding that organisations must put in place robust policies and complete a Data Protection Impact Assessment (DPIA) prior to processing people’s data. “These are crucial steps to take so public trust is not lost,” the spokesperson says.
+- The Met’s approved proposal says the technology will “ensure a privacy by design approach”. However, when it was approved by the Deputy Mayor for Policing and Crime last month, a DPIA had not yet been completed. A spokesperson for the Met says it was first necessary to appoint a supplier and that the document will be completed and published before any data processing begins. The spokesperson also says “the use of any image will be subject [to] a carefully implemented framework which reflects and responds to the expectations of privacy that attach to any image used”. Details of the framework were not provided.
+- Publicly available information on the way police forces deploy RFR is sparse. A briefing note published by South Wales Police last year shows that it used its RFR system to process 8,501 images between 2017 and 2019 and identified 1,921 potential offenders in the process. The technology can also be used to identify missing or deceased people. Despite being used by various police forces in the UK, the technology has largely evaded the intense public and legal scrutiny that has accompanied the use of LFR technology. LFR scans the faces of people walking past a camera and compares them against a watchlist in real-time.
+- By Matt Kamen
+- By Angela Watercutter
+- By WIRED
+- By Chris Stokel-Walker
+- In July 2019, the House of Commons Science and Technology Committee recommended that LFR should not be used until concerns regarding the technology’s bias and efficacy are resolved. In August 2020, the UK’s Court of Appeal found that South Wales Police’s use of LFR was unlawful and this month, the United Nations High Commissioner for Human Rights called for a moratorium on the use of LFR. But the Met says it will continue to use its LFR technology, alongside the new RFR system, when it deems it appropriate. “Each police force is responsible for their own use of Live Facial Recognition (LFR) technologies,” a Met spokesperson says. “The Met is committed to give prior notification for its overt use of LFR to locate people on a watchlist. We will continue to do this where a policing purpose to deploy [it] justifies the use of LFR.”
+- The Met’s proposal states that “the RFR use case is very different to LFR and seeks to help officers identify persons from media of events that have already happened”. But experts warn that differentiating the two types of technology is not straightforward. “Both have the potential to be massively invasive tools, capable of creating a record of individuals’ movements across our cities,” says Daragh Murray, a senior lecturer at the University of Essex Human Rights Centre and School of Law who previously reviewed the Met’s facial recognition systems. “Depending on how it’s deployed, RFR can, in fact, be strikingly similar to LFR.” The RFR product set to be bought by the Met is also made by NEC, the same company that makes its LFR system. A spokesperson for the company said they were unable to comment on specific customer projects.
+- As well as LFR and RFR, the Met also has access to the Police National Database (PND) facial search facility. The PND is a centralised database of custody images uploaded by police forces around the country and managed by the Home Office. Since 2014, the database has had a facial search function. A spokesperson from the Met confirms it often relies on images that are not on the PND, saying that it may have, for example, other images provided by the public as a result of an appeal. “Understanding who is in that imagery is important to solving crime,” the spokesperson adds. “Equally important can be establishing where a person has appeared across a number of images. This can help the Met link events together, develop investigative leads and use other image holdings to solve crime.”
+- Murray says debates about the use of facial recognition “should go beyond privacy” and also consider the legality and necessity of these tools. “We really need to think what the impact might be on democratic rights, like freedom of expression, association, assembly and religion,” he says. “There is no one size fits all approach to LFR or RFR. The circumstances of deployment will significantly affect the human rights impact. This should be set out in legislation, with appropriate safeguards.”
+- By Morgan Meaker
+- By Matt Burgess
+- By Morgan Meaker
+- By Matt Burgess
+- By Lily Hay Newman
+- By Marah Eakin
+- By Matt Burgess
+- By Matt Kamen
+- © Condé Nast Britain 2023.
+
+URL: https://www.biometricupdate.com/202109/ice-drops-3-9m-for-trust-stamps-facial-recognition-london-met-taps-nec-for-4-2m
+- The U.S. Immigration and Customs Enforcement (ICE) has recently signed a $3.9 million contract with Trust Stamp for the development of a facial recognition system to be deployed in migrant detention centers.
+- The deal was first spotted by Business Insider, and refers to a contract focusing on the development of ‘rapid alternatives to detention enrollments through facial confirmation.’
+- According to the document, which was filed via ICE’s Detention Compliance and Removals Office, Trust Stamp will provide ICE with services for facial and biometric capture and recognition from September until March next year, or until it reaches 10,000 participants.
+- The contract does not specify if Trust Stamp’s biometric technology will be used in some or all ICE detention centers, or in what capacity exactly, according to the report. A press release however specifies that the services being provided are for mobile biometrics, and based on Trust Stamp’s data tokenization technology for privacy protection.
+- Trust Stamp specializes in artificial intelligence (AI)-powered solutions featuring advanced biometric features including anti-spoofing and proof-of-liveness.
+- The collaboration represents the first federal government contract awarded to Trust Stamp as the main contractor and it comes months after the company raised $4 million in a new investment round.
+- ICE has relationships with other biometrics providers. Just weeks ago, the institution renewed its contract with facial recognition company Clearview AI, which has in the past year been under scrutiny for its privacy policies.
+- While the scope of the collaboration between ICE and Trust Stamp is not yet fully clear, the move hints at a renewed interest of the agency in the deployment of biometric solutions for border law enforcement.
+- The news was reported by the Wired team, who spotted a Mayor of London’s office proposal that was approved at the end of August.
+- The document describes a forensic biometrics contract worth more than £3 million (roughly $4.21 million) between the Mayor of London’s office and Northgate Public Services, a recently acquired subsidiary of NEC.
+- According to the document, the MPS will benefit from an updated Retrospective Facial Recognition (RFR) search capability to process historic images from CCTV feeds, as well as social media and other sources in order to track down suspects.
+- “Technical advancements made over recent years would if seized now allow the MPS opportunities that were not previously available to support the detection and matching of faces,” the proposal reads.
+- In other words, the new system will scan images of people obtained by the police before comparing them against the force’s internal image database to try and find a match.
+- “The opportunity also represents a chance to realize significant savings in terms of officer time it takes to reconcile an image of a person to that person’s identity,” the document reads. “This helps prevent and detect crime and keeps Londoners safe.”
+- The decision comes after a year of uncertainty regarding the deployment of facial recognition solutions in the UK capital.
+- In January 2020, the Biometrics Commissioner criticized, together with MPs and human rights organizations, the Metropolitan Police’s deployment of cameras equipped with NEC’s live facial recognition across London.
+- The call for scrutiny had then caused the London Metropolitan Police to consider pausing live facial recognition expansion in the city.
+- The recent Mayor of London’s office proposal, however, seems to hint at a contrast in the government’s approach to forensic facial recognition solutions’ deployment in the city.
+- Will the Biometrics Commissioner voice his concern once again, or will he let the hushed contract move forward without opposition? Follow Biometric Update for more about this story.
+- biometric identification  |  biometrics  |  border security  |  facial recognition  |  government purchasing  |  ICE  |  London  |  London Metropolitan Police  |  NEC  |  police  |  Trust Stamp
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.computing.co.uk/news/4037761/met-police-retrospective-facial-recognition-technology
+- You are currently accessing Computing via your
+Enterprise account.
+- If you already have an account please use the link below to
+sign in.
+- If you have any problems with your access or would like to request an individual access account please
+contact our customer service team.
+- Phone: +44 (0) 1858 438800
+- Email: [email protected]
+- Search Computing
+- 
+- 
+- Search Computing
+- You are currently accessing Computing via your Enterprise account.
+- If you already have an account please use the link below to sign in.
+- If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+- Phone: +44 (0) 1858 438800
+- Email: [email protected]
+- Mayor Office allows London Police to buy retrospective facial recognition technology
+- The Mayor of London's office has approved a proposal allowing the Metropolitan Police to buy and use retrospective facial recognition (RFR) technology to boost its surveillance capabilities.
+The...
+- To continue reading this article...
+- Join now
+- Login
+- Zoom versus Google versus Slack: Who has the edge in UCC?
+- Unbiased advice: An interview with Amido, Digital Technology Leaders Awards finalist
+- 
+- Sam Altman: OpenAI could quit EU over AI regulations
+- Russia-linked CosmicEnergy malware could disrupt energy grids
+- TikTok argues that Montana's ban infringes upon the constitutional right to free speech protected by the First Amendment
+- By safely bridging silos, PETs could open up whole new areas of business and research, so why aren't we hearing more about them?
+- Proposal could bring together bodycams and facial recognition
+- © The Channel Company EMEA New London House, 172 Drury Lane, London WC2B 5QR.Registered in England and Wales with company registration number 14078896
+
+URL: https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/
+- Police in hi-visibility jackets policing crowd control
+- The UK's Metropolitan Police Service (MPS) has been authorised to buy and use retrospective facial recognition technology.
+- The Mayor of London's Office for Policing and Crime (MOPAC) has approved a contract with Northgate Public Services, a recently-acquired subsidiary of Japan's NEC Corporation.
+- The four-year deal is worth £3,084,000, with the technology expected to go into use late this year or early next.
+- "Technical advancements made over recent years would if seized now allow the MPS opportunities that were not previously available to support the detection and matching of faces," the decision reads.
+- "The opportunity also represents a chance to realise significant savings in terms of officer time it takes to reconcile an image of a person to that person’s identity. This helps prevent and detect crime and keeps Londoners safe."
+- While live facial recognition - itself extremely controversial - compares live images with those on a specific watchlist, retrospective facial recognition allows police to check against a far broader list.
+- "These may be images that have been captured by cameras at burglaries, assaults, shootings and other crime scenes. They could also be images shared by or submitted by members of the public," the decision explains.
+- The Met says it is consulting with a new body, the London Policing Ethics Panel (LPEP) about governance, and will next month meet the panel to discuss the project.
+- South Wales Police, which has been trialling the technology, has defended its use. It says a match with a 14-year-old custody photo allowed the force to catch sexual predator Craig Walters, and to identify an unconscious man pulled out of a river.
+- However, the use of equally-intrusive live facial recognition technology in the UK has already been widely criticised for its infringement of privacy - not least by the Information Commissioner's Office (ICO).
+- "When sensitive personal data is collected on a mass scale without people’s knowledge, choice or control, the impacts could be significant," information commissioner Elizabeth Denham said in a decision earler this year.
+- "We should be able to take our children to a leisure complex, visit a shopping centre or tour a city to see the sights without having our biometric data collected and analysed with every step we take."
+- 
+
+URL: https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-germanys-new-ai-era-londons-ai-vision-fighting-covid-19/
+- In-depth reporting, data and actionable intelligence for policy professionals – all in one place.
+- 
+- 
+- 
+- 
+- 
+- How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.
+- Press play to listen to this article
+- Voiced by artificial intelligence.
+- How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond.
+- By MELISSA HEIKKILÄ
+- Send tips, feedback and anecdotes | @Melissahei | Subscribe for free
+- Welcome to AI: Decoded, brought to you every week by Melissa Heikkilä, POLITICO’s AI Correspondent in London.
+- This week:
+- — Germany has voted — for a new era for AI policy.
+- — London lays out rules for the ethical use of AI.
+- — Greece ran a successful experiment on using AI to spot COVID-19 cases.
+- GERMANY’S POST-MERKEL AI POLICY: In a close race, the German Social Democrats won the country’s 2021 election. Now comes the real fight — a long, protracted struggle over who gets to form the country’s next government and take over Angela Merkel’s mantel.
+- New coalition, new rules: Under CDU rule, AI was seen as an important economic booster along with quantum technologies, cloud and data. A new government run by the SPD is likely to call for stronger protections against AI, focusing more on the harms it can do than the benefits it can provide. The party currently holds court at Germany’s justice ministry, and Christian Kastrop, Germany’s state secretary at the federal ministry of justice and consumer protection, said he wanted stronger restrictions on remote biometric identification in the Commission’s proposal for the AI Act, Kastrop wants to expand prohibitions in the bill to private companies as well. The party’s manifesto also calls for “strict regulation and supervision” to ensure algorithmic decisions are transparent, nondiscriminatory and clearly and verifiably defined.
+- Kingmakers: The Greens and the liberal FDP will be the kingmakers in the upcoming negotiations. When it comes to AI policy, they are largely aligned, even as they have their own AI priorities — sustainability and innovation, respectively. German MEP Svenja Hahn, who is one of the negotiators for the AI Act, belongs to the FDP. She has been a vocal advocate for a ban on facial recognition in public places. “Both the FDP and Greens have a stronger focus on citizens rights and are not in favour of, for example, facial recognition for surveillance purposes. Especially us liberals have been pushing for digital and tech policy to play a more important role in the next government,” Hahn said.
+- Why you should pay attention: Because the European institutions are. The AI Act’s different levels of regulation for different levels of risk was based on the German data ethics commission’s “risk pyramid.” What happens in Berlin will also heavily influence what will happen in negotiations over the AI Act at the Council of the European Union. That’s true within the law, as decisions at Council have to be taken by 55 percent of EU countries who represent at least 65 percent of the bloc’s population. But as Europe’s most influential and powerful country, everyone’s looking at Germany anyway, regardless of its legal influence in Brussels.
+- LONDON’S AI VISION: The U.K may have published its first-ever national AI strategy, the nation’s capital unveiled some rules of its own. London’s Emerging Tech Charter, the first of its kind in the country, lays the ground rules for how to use and procure AI ethically in the city.
+- AI: Decoded rang London’s Chief Digital Officer Theo Blackwell to hear more.
+- Don’t call it a ban: The charter rules out the use of live facial recognition in public places by anyone other than law enforcement. The charter backs the Information Commissioner’s Office, the U.K.’s data protection authority, who, without dismissing live facial recognition directly, said it’s probably not a good idea. While not advocating an explicit ban, Blackwell said the U.K.’s current rules make it “extremely hard to justify.”
+- This is awkward: Meanwhile, London’s Metropolitan Police is buying heaps of facial recognition tech, including “retrospective facial recognition” technology, which scans historic pictures of people from social media, CCTV and elsewhere before it checks a police database for a match, reports Wired.
+- No obsolete junk please: Sustainability became an important element of the charter following public feedback. “There is a common misconception that AI is virtual, rather than having a physical impact,” Blackwell said. “When you’re trialing first- and second-generation technologies, there’s always the challenge of obsolescence.” The charter encourages users to think about the energy use of the physical technology and what to do with it when it’s outdated.
+- Asking the right questions: Even though the charter is voluntary, Blackwell says it will hold companies accountable through reputation. It will also give local councils language to hold companies accountable. “One of the great missing bits or missing areas that we have around technology is that we haven’t given politicians a framework to ask critical questions,” Blackwell said. “Alongside reputation, this charter will bring this into the democratic sphere, rather than residing in a just a purely technology or data rights conversation.”
+- UK CHARTS POST-BREXIT PATH: The national strategy is slightly different from The City’s. While London is conscious of letting AI tech go wild, Number 10 wants to do exactly that. While the EU frets about risky AI and product safety, the U.K.’s AI strategy promised to create a “pro-innovation” environment that will make the country an attractive place to develop and deploy artificial intelligence technologies, all the while keeping regulation “to a minimum,” according to digital minister Chris Philp. The U.K.’s strategy, which markedly contrasts the EU’s own AI proposed rules, indicates that it’s embracing the freedom that comes from not being tied to Brussels, and that it’s keen to ensure that freedom delivers an economic boost. Read more from me here.
+- Strengths: It’s got a head start. One of the U.K.’s strengths is that it really gets AI. The country has excellent universities and research institutions, and lots of money sloshing around in AI startups, and has some concrete suggestions on how to attract talent to create more unicorns. The strategy also really emphasized diversity in the AI sector as a way to achieve more inclusive AI systems. The U.K. also signalled it takes long-term, existential AI risks seriously.
+- But there was one big omission: The strategy has nothing on how the country intends to set rules. A policy paper by the Office of AI is due early next year. The U.K. has thus far taken a sector-specific approach to AI regulation. But the strategy recognizes that this could lead to overlapping or contradictory policies, and that framing AI regulation around existing frameworks, such as data protection, might leave out broader AI risks and harms. There are also plenty of international initiatives that are working on horizontal rules, such as the Council of Europe and the OECD — both of which the U.K. is a member — and the country recognizes that these could “overtake a national effort to build a consistent approach.” As Carly Kind, the director of the Ada Lovelace Institute told me, ​​“depending on the timeline for AI regulation pursued by Brussels, the U.K. runs the risk of having to harmonize with EU AI rules if it doesn’t articulate its own approach soon.”
+- The military angle: The strategy states that “defense should be a natural partner for the UK AI sector,” and the U.K.’s ministry of defense will publish its own AI strategy in the next three months, in addition to setting up a new Defense AI Center. Given the U.K.’s military acumen — especially compared to other European countries — AI and defense might be an area where the U.K. could really lead in setting global standards. The EU’s AI Act doesn’t apply to military and defense uses, and NATO’s AI strategy has been delayed to the end of October.
+- GREECE USES AI TO FIGHT THE PANDEMIC: Anyone who had to travel during the coronavirus pandemic is familiar with the complicated border control measures countries put in place to control the outbreak. A new paper published in Nature offers a promising way AI proved to be actually useful.
+- What happened: Last summer, Greece deployed a reinforcement learning system called Eva at its borders to control the number of asymptomatic travelers with COVID-19. The system suggested border agents only used the limited number of tests on travelers its algorithms deemed likely to test positive. This recommendation was based on where travelers flew in from, their gender and age, and testing result patterns. The researchers caught almost two times as many infected travelers as random testing, and up to 2-4 times as many during peak times.
+- Less is more: At the beginning of the coronavirus pandemic, AI was touted as a great tool to fight the pandemic. It didn’t really pan out to be the savior it was made out to be, and in fact it normalized surveillance on a massive scale. To comply with Europe’s strict data protection framework, the GDPR, the researchers had to limit some of the sensitive data they used, which meant sacrificing some accuracy.
+- Digital rights group EDRi has published a study arguing that AI discrimination cannot be solved by technical fixes, such as the AI Act’s chosen method of debiasing. To really make a difference, policymakers need to think about how AI contributes to structural discrimination, inequality and power, the group argues.
+- The U.K.’s court of appeal rules that artificial intelligence systems cannot be named as inventors. Courts in South Africa and Australia found otherwise. Financial Times.
+- Facebook is building AI that can generate images of things it has never seen before.
+- OpenAI, creator of large language model GPT-3, trained a model that can summarize entire books.
+- An AI says that famous painting of Samson and Delilah by Rubens is a fake. The Guardian.
+- This edition of AI: Decoded would not have happened without Saim Saeed and Nicholas Vinocur.
+- SUBSCRIBE to the POLITICO newsletter family: Brussels Playbook | London Playbook | Playbook Paris | EU Confidential | Sunday Crunch | EU Influence | London Influence | AI: Decoded | Digital Bridge | China Direct | D.C. Playbook | All our POLITICO Pro policy morning newsletters
+- Log in to access content and manage your profile. If you do not have an account you can register here.
+- 
+- Forgot your password?
+- By logging in, you confirm acceptance of our POLITICO Privacy Policy.
+
+URL: https://findbiometrics.com/london-police-implement-retrospective-facial-recognition-system-092801/
+
+URL: https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system
+- andreusK - stock.adobe.com
+- The Metropolitan Police Service (MPS) is deploying a new retrospective facial-recognition (RFR) technology in the next three months, allowing the force to process biometric information contained in historic images from CCTV, social media and other sources.
+- Unlike live facial-recognition (LFR) technology, which the MPS began deploying operationally in January 2020, RFR is applied to already-captured images retroactively.
+- Both versions of facial-recognition work by scanning faces and matching them against a set of selected images, otherwise known as “watch lists”, but the difference with LFR is that it does it in real-time by scanning people as they pass the camera.
+- A procurement proposal approved by the Mayor’s Office for Policing and Crime (MOPAC) at the end of August 2021 shows a £3m, four-year-long contract was awarded to Northgate Public Services for the provision of updated RFR software, which the MPS said will help support “all types of investigations”.
+- The main purpose of RFR is to assist in identifying suspects from still or specific images extracted from video, which will need to be lawfully held by the force, said the MPS in its MOPAC submission.
+- “These may be images that have been captured by cameras at burglaries, assaults, shootings and other crime scenes. They could also be images shared by or submitted by members of the public,” it said.
+- “As well as assisting in preventing and detecting crime, RFR searching could also be used to help in the identification of missing or deceased persons. RFR reduces the time taken to identify offenders and supports the delivery of improved criminal justice outcomes.”
+- A spokesperson for the Mayor of London said the technology stands to play a vital role in keeping Londoners safe, and that RFR will “reduce the time taken by officers to identify those involved, and help police take criminals off our streets and help secure justice for victims of crime”.
+- The use of facial recognition and other biometric technologies, especially by law enforcement bodies, has long been a controversial issue.
+- In June 2021, two pan-European data protection bodies – the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) – jointly called for a general ban on the use of automated biometric identification technologies in public spaces, arguing that they present an unacceptable interference with fundamental rights and freedoms.
+- “Deploying remote biometric identification in publicly accessible spaces means the end of anonymity in those places,” said Andrea Jelinek, EDPB chair, and Wojciech Wiewiórowski, the EDPS, in a joint statement.
+- “Applications such as live facial recognition interfere with fundamental rights and freedoms to such an extent that they may call into question the essence of these rights and freedoms.”
+- A number of digital rights campaign groups, including Big Brother Watch, Liberty, Access Now, and European Digital Rights, have also previously called for bans on the use of biometric technologies, including both LFR and RFR, on similar grounds.
+- Speaking to Computer Weekly, Daniel Leufer, a Europe policy analyst at Access Now, said a major issue with facial-recognition technology generally is who is it used against: “It’s not going to be rich, white, middle- or upper-class people from posh areas of London who will have a high representation in those databases [the watch lists are drawn from].
+- “We know that black people are picked up more often in stop and search, [and] have a much higher chance of ending up on the police radar because of extremely petty crimes…whereas white people get off much more easily. All of these things will lead to the overrepresentation of marginalised groups in the watch lists, leading to more matches and further entrenching that pattern.”
+- In July 2021, the UK’s former biometrics commissioner Paul Wiles told the House of Commons Science and Technology Committee that an explicit legislative framework was needed to govern the use of biometric technologies, and highlighted that the retention of custody images in the Police National Database (PND) as a major problem.
+- According to Wiles, the PND currently holds 23 million images taken while people were in custody, regardless of whether they were subsequently convicted. These custody images are then used as the basis for the police’s facial-recognition watch lists, despite a 2012 High Court ruling finding the PND’s six-year retention period to be disproportionate and therefore unlawful.
+- Computer Weekly asked the MPS whether the PND’s custody images will be used as the basis for the RFR watch lists, as well as how it is dealing with the retention and deletion of custody images, but received no response by time of publication.
+- The introduction of RFR at scale is also worrisome from a human rights perspective, Leufer added, because it smooths out the various points of friction associated with conducting mass surveillance.
+- “One of the thing that’s stopped us being in a surveillance nightmare is the friction and the difficulty of surveilling people. You look at the classic example of East Germany back in the day, where you needed this individual agent following you around, intercepting your letters – it was expensive and required an awful lot of manpower,” he said.
+- “With CCTV, it involved people going through images, doing manual matches against databases…that friction, the time that it actually took to do that, meant that CCTV wasn’t as dangerous as it is now. The fact that it can now be used for this purpose requires a re-evaluation of whether we can have those cameras in our public spaces.”
+- Leufer added that the proliferation of video-capturing devices, from phones and social media to smart doorbell cameras and CCTV, is creating an “abundance of footage” that can be fed through the system. And that, unlike LFR, where specially equipped cameras are deployed with at least some warning by police, RFR can be applied to footage or images captured from ordinary cameras without any public knowledge.
+- “CCTV, when it was initially rolled out, was cheap, easy and quick, and retroactive facial-recognition wasn’t a thing, so that wasn’t taken in as a concern in those initial assessments of the necessity proportionality, legality and ethical standing of CCTV systems,” he said. “But when they’re coupled with retroactive facial recognition, they become a different beast entirely.”
+- In its submission to MOPAC, the MPS said that the force would need to conduct a data protection impact assessment (DPIA) of the system, which is legally required for any data processing that is likely to result in a high risk to the rights of data subjects. It must also be completed before any processing activities begin.
+- While the DPIA is yet to be completed, the MPS added that it has already begun drafting an equality impact assessment (EIA) under its Public Sector Equality Duty (PSED) to consider how its policies and practices could be discriminatory.
+- It further noted that “the MPS is familiar with the underlying algorithm, having undertaken considerable diligence to date”, and that the EIA “will be fully updated once a vendor has been selected and the product has been integrated”.
+- In August 2020, South Wales Police’s (SWP’s) use of LFR technology was deemed unlawful by the Court of Appeal, in part because of the fact that the force did not comply with its PSED.
+- It was noted in the judgement that the manufacturer in that case – Japanese biometrics firm NEC, which acquired Northgate Public Services in January 2018 – did not divulge details of its system to SWP, meaning the force could not fully assess the tech and its impacts.
+- “For reasons of commercial confidentiality, the manufacturer is not prepared to divulge the details so that it could be tested. That may be understandable, but in our view it does not enable a public authority to discharge its own, non-delegable, duty under section 149,” said the ruling.
+- In response to questions from Computer Weekly about what due diligence it has already undertaken, as well as whether it had been granted full access to Northgate’s RFR systems, the MPS said potential vendors were asked to provide information which demonstrated how their respective RFR products would enable compliance with legal requirements, including the relevant data protection and equalities duties.
+- “The selected vendor was able to point to a very strong performance in the large-scale face-recognition vendor tests undertaken by the National Institute of Standards and Technology [NIST],” it said.
+- “In line with the ongoing nature of the legal duties, the Met will continue to undertake diligence on the algorithm as the new system is integrated into the Met to ensure high levels of real-world performance will be achieved.”
+- It added that “in line [with the SWP court ruling] Bridges, the Met has an obligation to be satisfied ‘directly, or by way of independent verification that the software programme does not have an unacceptable bias on the grounds of race or sex’. Prior to using the NEC RFR technology operationally, as part of its commitment to using technology transparently, the Met has committed to publish the DPIA and how it is satisfied that the algorithm meets the Bridges requirements.”
+- To mitigate any potentially discriminatory impacts of the system, the MPS also committed to embedding “human-in-the-loop” decision-making into the RFR process, whereby human operators intervene to interrogate the algorithm’s decision before action is taken.
+- However, a July 2019 report from the Human Rights, Big Data & Technology Project based at the University of Essex Human Rights Centre – which marked the first independent review into trials of LFR technology by the MPS – highlighted a discernible “presumption to intervene” among police officers using the tech, meaning they tended to trust the outcomes of the system and engage individuals that it said matched the watchlist in use, even when they did not.
+- In terms of how it is dealing with the “presumption to intervene” in the context of RFR, the MPS said the use case was “quite different” because “it does not result in immediate engagement” and is instead “part of a careful investigative process with any match being an intelligence lead for the investigation to progress”.
+- It added: “In any event, the NEC system offers a number of ‘designed in’ processes (relating to how a match is viewed, assessed and confirmed), which help protect the value of the human-in-the-loop process. Now NEC has been selected, these can be considered as the RFR system is brought into the Met and will be a key part of the DPIA.”
+- While the MPS’ submission said that the force will be consulting with the London Police Ethics Panel about its use of the technology, the decision to purchase the software was made without this process taking place.
+- Asked why the procurement proposal was approved before the London Police Ethics Panel had been consulted, a spokesperson for the Mayor of London said: “While this is clearly an important policing tool, it’s equally important that the Met Police are proportionate and transparent in the way it is used to retain the trust of all Londoners.
+- “The London Policing Ethics Panel will review and advise on policies supporting the use of RFR technology, and City Hall will continue to monitor its use to ensure it is implemented in a way that is lawful, ethical and effective.”
+- The MPS said that, as noted in its submission, the panel will still be engaged: “As this is not a new technology to the Met, it will be important for LPEP to consider the safeguards in the context of the NEC product. This is because different vendors take quite different ‘privacy-by-design’ approaches and therefore require different controls and safeguards for use. These could only be put in place and considered by LPEP following the selection of a vendor.”
+- According to a report in Wired, previous versions of the MPS’ facial-recognition web page on the Wayback Machine show references to RFR were added at some stage between 27 November 2020 and 22 February 2021.
+- However, while the MPS said on this page it was “considering updating the technology used” for RFR, there is very little publicly available about its existing capabilities. Computer Weekly asked how long the MPS has been using RFR technology, and whether it has been deployed operationally, but received no response by time of publication.
+- A March 2021 report by Her Majesty’s Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS), which looked at how effectively UK police deal with protests, noted that six police forces in England and Wales are currently deploying RFR technology, although it did not specify which forces these were.
+- “Opinions among our interviewees were divided on the question of whether facial-recognition technology has a place in policing protests. Some believed that the system would be useful in identifying protesters who persistently commit crimes or cause significant disruption. Others believed that it breached protesters’ human rights, had no place in a democratic society and should be banned,” it said.
+- “On balance, we believe that this technology has a role to play in many facets of policing, including tackling those protesters who persistently behave unlawfully. We expect to see more forces begin to use facial recognition as the technology develops.”
+- According to Access Now’s Leufer, facial-recognition technology can have a “chilling effect” on completely legitimate protests if there is even a perception that it will be used to surveil those participating.
+- “If you as a citizen start to feel like you’re being captured everywhere you go by these cameras and the police, who do not always behave as they should, have the potential to go through all of this footage to track you wherever you go, it just places a really disproportionate amount of power in their hands for limited efficacy,” he said.
+- On whether it will place limits on when RFR can be deployed, including whether it will be used to identify people attending demonstrations or protests, the MPS said “the submission does provide some examples as to when RFR may be used – for example, in relation to images showing burglaries, assaults, shootings and other crime scenes.
+- “However, to ensure that the public can foresee how the Met may use RFR, the Met will publish, prior to operational use details of when RFR may be used. This publication will follow engagement with LPEP – this is because when RFR may be used is an important ethical and legal question.”
+- Public, private, hybrid or consortium, each blockchain network has distinct pluses and minuses that largely drive its ideal uses ...
+- The White House wants to know about AI risks and benefits, as well as specific measures such as regulation that might help ...
+- Until the new EU-U.S. Data Privacy Framework is established, Meta's $1.2 billion euro fine should serve as a warning to U.S. ...
+- Microsoft uncovered a Chinese nation-state threat group that is compromising Fortinet FortiGuard devices to gain access to ...
+- While smart contracts promise enormous benefits in the enterprise, they also present opportunities for cybercriminals. Explore ...
+- Smart contracts execute tasks automatically when specific events occur, and often handle large data and resource flows. This ...
+- Research shows that, while AI helps increase business success, network pros struggle to use it more than their peers. Find out ...
+- An enterprise 5G deployment requires extensive planning. Prepare for advances in wireless technology using this 5G guide that ...
+- More cloud computing, container networking and network capacity are some of the ways businesses could modernize their networks. ...
+- Consider Green Globes and LEED certifications when building green data centers. Learn the differences in how the assessments are ...
+- Data center migrations can be a complex process. Use best practices when migrating a data center to ensure maximum uptime, avoid ...
+- Organizations can use the Energy Star data center standard and certified assets to be more energy efficient. Consider Energy Star...
+- The data integration vendor added $125 million in financing to not only fuel R&D but also ensure that operations remain smooth if...
+- The pending purchase will let the data cloud vendor infuse generative AI throughout its data management suite and potentially ...
+- Modernizing data operations changes the way organizations use data stacks. Industry experts share definitions for the new form of...
+- All Rights Reserved, 
+Copyright 2000 - 2023, TechTarget
+
+
+Privacy Policy
+
+
+
+Cookie Preferences 
+
+
+
+Do Not Sell or Share My Personal Information
+
+URL: https://www.theregister.com/2021/09/21/uk_surveillance_commissioner_facial_recog_warning/
+
+- UK Met Police Gangs Violence Matrix
+- RCMP facial recognition covert surveillance
+- Page infoType: SystemPublished: September 2021

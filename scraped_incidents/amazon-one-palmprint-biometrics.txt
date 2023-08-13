@@ -1,0 +1,203 @@
+- Occurred: August 2021
+- Can you improve this page?Share your insights with us
+- TechCrunch has discovered that Amazon is offering customers USD 10 for their palmprints when they sign up for its contactless ID and transaction service Amazon One.
+- Customers can use One in a number of Amazon checkout-free stores to pay for goods by holding their palm over a scanner.
+- Despite promising to secure biometric data using encryption, data isolation and secure zones, TechCrunch reports that some palm data is used anonymously to improve the system, raising concerns about unstated potential commercial and other uses.
+- Operator: Amazon Developer: Amazon  Country: USA Sector: Technology Purpose: Verify identity; Authorise transactions Technology: Palm print scanningIssue: Privacy; Dual/multi-use Transparency: Governance
+URL: https://one.amazon.com/
+
+URL: https://techcrunch.com/2021/08/02/amazon-credit-palm-biometrics/
+- How much is your palm print worth? If you ask Amazon, it’s about $10 in promotional credit if you enroll your palm prints in its checkout-free stores and link it to your Amazon account.
+- Last year, Amazon introduced its new biometric palm print scanners, Amazon One, so customers can pay for goods in some stores by waving their palm prints over one of these scanners. By February, the company expanded its palm scanners to other Amazon grocery, book and 4-star stores across Seattle.
+- Amazon has since expanded its biometric scanning technology to its stores across the U.S., including New York, New Jersey, Maryland and Texas.
+- The retail and cloud giant says its palm scanning hardware “captures the minute characteristics of your palm — both surface-area details like lines and ridges as well as subcutaneous features such as vein patterns — to create your palm signature,” which is then stored in the cloud and used to confirm your identity when you’re in one of its stores.
+- Amazon’s latest promotion: $10 promotional credit in exchange for your palm print. (Image: Amazon)
+- Amazon’s latest promotion: $10 promotional credit in exchange for your palm print. (Image: Amazon)
+- What’s Amazon doing with this data exactly? Your palm print on its own might not do much — though Amazon says it uses an unspecified “subset” of anonymous palm data to improve the technology. But by linking it to your Amazon account, Amazon can use the data it collects, like shopping history, to target ads, offers and recommendations to you over time.
+- Amazon also says it stores palm data indefinitely, unless you choose to delete the data once there are no outstanding transactions left, or if you don’t use the feature for two years.
+- While the idea of contactlessly scanning your palm print to pay for goods during a pandemic might seem like a novel idea, it’s one to be met with caution and skepticism given Amazon’s past efforts in developing biometric technology. Amazon’s controversial facial recognition technology, which it historically sold to police and law enforcement, was the subject of lawsuits that allege the company violated state laws that bar the use of personal biometric data without permission.
+- “The dystopian future of science fiction is now. It’s horrifying that Amazon is asking people to sell their bodies, but it’s even worse that people are doing it for such a low price,” said Albert Fox Cahn, the executive director of the New York-based Surveillance Technology Oversight Project, in an email to TechCrunch.
+- “Biometric data is one of the only ways that companies and governments can track us permanently. You can change your name, you can change your Social Security number, but you can’t change your palm print. The more we normalize these tactics, the harder they will be to escape. If we don’t [draw a] line in the sand here, I am very fearful what our future will look like,” said Cahn.
+- When reached, an Amazon spokesperson declined to comment.
+- New York City’s new biometrics privacy law takes effect
+- 
+- 3 analysts weigh in: What are Andy Jassy’s top priorities as Amazon’s new CEO?
+- 
+- 
+
+URL: https://www.biometricupdate.com/202108/amazon-sees-profit-in-your-palmprint-opponents-see-harmful-surveillance-capitalism
+- 
+- Days after privacy advocates asked the U.S. Federal Trade Commission to ban surveillance capitalism, particularly as practiced by Amazon, comes news that the ecommerce company will pay customers for their palmprint biometrics.
+- TechCrunch, which is owned by diversified telco Verizon, found Amazon promotional material offering $10 in credit to anyone signing up for One, the company’s contactless ID service.
+- Using One, customers in some of Amazon’s checkout-free stores can pay for goods by holding their palm over a scanner.
+- According to TechCrunch, a portion of the data gathered from palms is used anonymously to improve the technology, a move that has raised concerns for other biometric-using firms because it can be argued that doing so is a commercial use, not merely authenticating function.
+- Signing up for One undoubtedly would require consumers to consent to use of their biometric data, and, possibly, offering consumers cash in return for that use could insulate it from court challenges.
+- The origins and ethics of biometric training datasets has been an ongoing issue for companies developing the technology.
+- Forty-eight advocacy groups this week signed an open letter to the trade commission saying businesses are aggressively developing products, services and corporate strategies that collect, store and profit from biometric data from consumers.
+- People generally do not know or understand how these practices potentially put them in jeopardy, according to the letter.
+- While accusing most companies involved in this harvest — which no one denies is happening — the groups keelhaul Amazon in particular. It is abusing its market dominance to not only profit from private data but to leave large numbers of people open to hacking and theft of their unchangeable authentication and identification data.
+- For example, they allegedly make a game of reporting “suspicious people” using Neighbors, an Amazon app that works the company’s Ring doorbell surveillance system. It encourages racial profiling, the groups write.
+- Amazon  |  Amazon One  |  biometric data  |  biometrics  |  data collection  |  dataset  |  privacy  |  research and development  |  surveillance  |  training
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.msn.com/en-us/money/companies/want-a-2410-credit-from-amazon-just-let-it-scan-your-palm/ar-AAMTK8D
+- This page is gone.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-29T14:03:38.8239764+00:00
+- e85d97a8-3597-4a9a-8936-ad07a36f9d2c
+
+URL: https://www.yahoo.com/now/amazon-is-offering-10-in-credit-for-your-palm-print-data-114014151.html
+- Amazon is offering $10 in promotional credit to get people to sign up to its palm print payments system. Our sister site TechCrunch spotted the promotional offer and shared a screenshot of it, which you can peep below. The retailer launched Amazon One last fall as a contactless way of authenticating purchases and allowing entry into stores using a biometric device. In this case, a palm scanner. With surface hygiene a major concern during the pandemic, the move made sense.
+- Since then, Amazon has expanded the system to 53 of its physical retail spots in places including New York, New Jersey, Maryland and Texas. You can find the tech at Amazon Go convenience stores, Whole Foods Market, Amazon Go Grocery, Amazon Books, Amazon 4-star stores and Amazon Pop Ups.
+- Shoppers can enroll on Amazon One at those sites by pairing their credit card and mobile number with one or both of their palm signatures. The sign-up process is the only part that requires you to touch the device. After that, you just hover your palm over the scanner to enter a store and complete purchases. The promotion also requires you to link your Amazon account with your One ID.
+- The limited number of Amazon One locations means that the promo will be restricted to a small circle of users. But, if Amazon gets its way, the system may be hard to avoid in a contactless, check-out free future. It's already begun discussions to offer the tech to third-party retailers.
+- Of course, the idea of handing over more data (especially biometric information) to Amazon may not sit right with some people. Chances are, a $10 voucher won't sway the naysayers put off by the horror stories around Amazon's facial recognition tech and Alexa voice recordings.
+- But, Amazon is aware of the privacy concerns the device raises. To assuage those fears, the company has promised to secure palm data using encryption, data isolation and dedicated secure zones with restricted access controls. For those worried their data could be monetized, it also committed to keeping palm data separate from other Amazon customer data.
+- The company says that a subset of "anonymous" palm data is used to improve its system and this data is "protected using multiple layers of security controls." Amazon has also pledged to delete the data if you cancel your Amazon One ID and if you haven't interacted with one of its palm scanners for two years.
+- From bestselling slides to water bottles that keep drinks chilled for 24 hours, each of these items is a winner.
+- European stock indexes edged lower on Monday and euro zone bond yields dropped, but news that the U.S. had reached a debt ceiling deal over the weekend kept Wall Street futures positive.  U.S. President Joe Biden and top congressional Republican Kevin McCarthy reached a tentative deal on Saturday to raise the federal government's $31.4 trillion debt ceiling, aiming to stop the U.S. from defaulting on its debt.
+- Playmaking is the biggest need for the Brooklyn Nets in the 2023 NBA Draft, according to Bleacher Report.
+- It’s a story made for a Hollywood film, and in some ways, it already is.
+- David Pakman can’t remember the last time he lost his cool.
+- Your 60s are an important decade from a financial perspective.  At that point, you may be looking to wind down your career and boost your IRA or 401(k) balance in time for retirement.  The good news, though, is that if you make the right investment choices in your 60s, you can set yourself up for a strong retirement.
+- The good news, says Scott Galloway, is that AI’s economic impact won’t be the catastrophe that so many are predicting
+- It was a "non-victory, non-defeat," Jesse Armstrong says after the HBO drama's last episode
+- The "Summer House" star walks us through some of her favorite pieces in her wardrobe, most memorable set she wore on the Bravo reality series & her BIGGEST splurge item. Plus, she shows us where her boyfriend, Craig Conover, stashes his clothes and reveals the most scandalous thing she does in the closet.
+- Fundraising by managers of private-equity, real-estate and private-credit funds has slowed, and some look cheap.
+- Sometimes it really does take a village.
+- The problem this time around is another instance of one of the company's bugbears over the last few years: legal settlements pertaining to its filling of opioid drug prescriptions.  The latest piece of bad news is that Walgreens agreed on May 17 to a $230 million settlement with the city of San Francisco, which was suing it for lack of sufficient due diligence when it filled prescriptions for opioid medications.
+- President Recep Tayyip Erdogan was seen handing out cash to voters at a polling station in an apparent breach of the law.
+- Yeovil's art director says she wants the venue to be "a home from home" for a series of events.
+- George Pickens finished 2022 with 52 receptions.
+- What jersey numbers will Penn State's latest additions be wearing this season? Here are the updated football jersey numbers.
+- Our energy roundtable predicts higher crude prices as global demand grows. What’s ahead for shale, energy transition.
+- This bestselling oil is also known for giving skin a healthy glow.
+- Japanese Prime Minister Fumio Kishida said Monday his son is resigning as his executive policy secretary to take responsibility for using the prime minister’s residence for a private party at which the merrymaking was exposed in magazine photos that triggered public outrage.  Shotaro Kishida, his father’s executive secretary for political affairs and eldest son, invited a group of people including relatives to a year-end party on Dec. 30 at the Prime Minister’s Official Residence.
+- Bud Light is the latest casualty in a battle over whether companies are embracing too many progressive goals, from gender identity to climate change. What’s at stake.
+
+URL: https://hypebeast.com/2021/8/amazon-register-palm-print-data-biometric-data-payment
+- Amazon is offering $10 USD in promotional credit to shoppers who register their palm prints in its checkout-free stores and link it to their Amazon account.
+- Amazon says it first introduced its biometric palm scanners, called Amazon One, in September as an easy method of paying for products in-store. As of February, the scanners had been implemented in some of its Whole Foods and Amazon Go stores in Seattle and are now available in 50 locations across the United States. In addition, the company says that thousands of customers have already signed up for the service.
+- On its website, Amazon explained that the palm scanning hardware utilizes “proprietary imaging and computer vision algorithms” to capture the palm’s “distinct features on and below the surface, many that are indiscernible to the human eye or a standard camera.” The data is stored in the cloud indefinitely, unless a shopper doesn’t use an Amazon One for two years or deletes it once there are no outstanding transactions.
+Some experts have expressed concerns about the privacy and security of widespread biometric data use, particularly from big tech companies like Amazon.
+The executive director of the Surveillance Technology Oversight Project, Albert Fox Cahn, told TechCrunch, who first spotted the Amazon One promotion, that biometric data is “one of the only ways that companies and governments can track us permanently” since a person can change their name, for example, but not their palm print.
+In 2018, the company reportedly licensed its facial recognition technology to the U.S. government and other law enforcement bodies.
+On August 2, Amazon was hit with a record-breaking fine of $888 million USD by data privacy regulators in the European Union for allegedly violating its data privacy network.
+In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- Some experts have expressed concerns about the privacy and security of widespread biometric data use, particularly from big tech companies like Amazon.
+The executive director of the Surveillance Technology Oversight Project, Albert Fox Cahn, told TechCrunch, who first spotted the Amazon One promotion, that biometric data is “one of the only ways that companies and governments can track us permanently” since a person can change their name, for example, but not their palm print.
+In 2018, the company reportedly licensed its facial recognition technology to the U.S. government and other law enforcement bodies.
+On August 2, Amazon was hit with a record-breaking fine of $888 million USD by data privacy regulators in the European Union for allegedly violating its data privacy network.
+In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- The executive director of the Surveillance Technology Oversight Project, Albert Fox Cahn, told TechCrunch, who first spotted the Amazon One promotion, that biometric data is “one of the only ways that companies and governments can track us permanently” since a person can change their name, for example, but not their palm print.
+In 2018, the company reportedly licensed its facial recognition technology to the U.S. government and other law enforcement bodies.
+On August 2, Amazon was hit with a record-breaking fine of $888 million USD by data privacy regulators in the European Union for allegedly violating its data privacy network.
+In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- In 2018, the company reportedly licensed its facial recognition technology to the U.S. government and other law enforcement bodies.
+On August 2, Amazon was hit with a record-breaking fine of $888 million USD by data privacy regulators in the European Union for allegedly violating its data privacy network.
+In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- On August 2, Amazon was hit with a record-breaking fine of $888 million USD by data privacy regulators in the European Union for allegedly violating its data privacy network.
+In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- In other tech news, Twitter partnered with the Associated Press and Reuters in its continuous efforts to fight against misinformation.
+
+
+                                                            Read Full Article
+- 
+- 
+- 
+- 
+- Gain access to exclusive interviews with industry creatives, think pieces, trend forecasts, guides and more.
+- We charge advertisers instead of our readers. Support us by whitelisting our site.
+- Whitelist Us
+- Already whitelisted us?
+                        
+                            Refresh page
+
+URL: https://www.wsbtv.com/news/trending/amazon-wants-read-your-palm-will-pay-10-some-are-wary-about-technology/OVIRJVWKEJEKDBVSHR54DRWQCY/
+- WSB Now
+- 
+- Amazon to roll out palm scanning technology across the U.S. (NCD)
+- Amazon brick-and-mortar stores may have a hand in changing the way we check out after shopping by using biometrics.
+- >> Read more trending news
+- The online retailer rolled out biometric palm scanners at some stores last year and expanded the Amazon One program to grocery, book and 4-star stores in Seattle in February.
+- Now the company is expanding the program once again to stores across the country.
+- To get more people to scan their hands to pay, Amazon is offering a $10 promotional credit.
+- Amazon One says the hardware can read the “distinct features on and below the surface, many that are indiscernible to the human eye or a standard camera.”
+- The company said no two palms are alike and change little over time.
+- The image is stored on the cloud and will be used to confirm your identity when you decide to use it.
+- Not only will it allow you to pay, but it will also be used to collect data through your Amazon account.
+- The palm data will be stored indefinitely unless you delete the account or if the payment feature has not been used for two years, Insider reported.
+- Not all agree with providing more biometric data to Amazon.
+- “The dystopian future of science fiction is now. It’s horrifying that Amazon is asking people to sell their bodies, but it’s even worse that people are doing it for such a low price,” Albert Fox Cahn told TechCrunch via email.
+- Cahn is the executive director of the Surveillance Technology Oversite Project, which is based in New York.
+- “Biometric data is one of the only ways that companies and government can track us permanently. You can change your name, you can change your Social Security number, but you can’t change your palm print. The more we normalize these tactics, the harder they will be to escape. If we don’t [draw a] line in the sand here, I am very fearful what our future will look like,” Cahn told TechCrunch.
+- So far, Amazon said “thousands” of people have signed up, The Verge reported.
+- To see where the Amazon One palm scans are available, click here.
+- 
+- 
+- ©2021 Cox Media Group
+- © 2023 Cox Media Group. This station is part of Cox Media Group Television. Learn about careers at Cox Media Group. By using this website, you accept the terms of our Visitor Agreement and Privacy Policy, and understand your options regarding Ad Choices.
+
+URL: https://www.techtimes.com/articles/263659/20210802/amazon-one-palm-print-biometrics-guarantees-10-promotional-credit-self-checkout-store.htm
+- 
+- Amazon One has a Palm Print Biometric reader, and registering under the program will guarantee a user $10 of promotional credit to be used on the company's self-checkout stores. The e-commerce company has evolved to bring the latest technology to the market, and its palm print checkout is only one of the many services they now offer.
+- Earlier this year in April, Amazon has introduced its palm print biometric checkout at a Whole Foods store in Seattle, Washington. The beginnings of the program is a sophisticated and ingenious use of technology that no longer requires one to bring physical plastic cards to pay for their purchases.
+- It was said that Amazon is already expanding for this venture alone.
+- Amazon said that registering under Amazon One now will guarantee users a $10 promotional credit, provided that they give their "Palm Print Biometric" for this venture. The company has not yet launched its palm print checkouts in a full blast, and only a certain number of stores and branches already have this feature.
+- It would promote a hands-free transaction in Amazon One stores, unlike before where they need to queue to a cashier's line, and hand over their bought goods. Amazon's self-checkout stores have been extremely popular amidst the COVID-19 pandemic, where the transmission of the virus occurs due to touching surfaces and being close to carriers.
+- The company's ventures to hands-free, cash, and card-free transactions do not end here, especially as some stores already offer the "Just Walk Out" technology known as Amazon Go.
+- Here, users can get whatever they want from a store, and simply walking out of the store already calculates everything in their possession, and deducts it from their Amazon account.
+- Read Also: Amazon Kindle: 3G Devices To Lose Internet by December as 4G & 5G are Favored-Can it Connect to WiFi?
+- Amazon One is a new accounts management system within the company, and it is mostly embedded into physical stores that the company owns. Here, users only need to register their palm print biometrics, and the cards connected or linked to that account will be the ones charged for all purchases made.
+- Currently, it is only available on Amazon's retail stores in Seattle, but the company aims to launch this feature soon. It may be waiting on several users to register on the service so that it may properly launch a country-wide service. Or, It may be that the company is still working on its features for this.
+- Nevertheless, Amazon One is offering $10 off promotional credits for your biometrics, and it can be redeemed in-store.
+- Amazon has been faced with an Illegal Data Collection lawsuit in the EU region, where it allegedly gathered sensitive information from users without their consent. The company has been faced with a lot of data collection issues in the past, and some are still active, while some were resolved via a settlement.
+- For Amazon One, users would give their consent for Amazon to store their data and biometrics, giving the company absolute power over their palm prints and card information.
+- And while this is something to be wary of, Amazon promises to keep these data safe and secure, remaining only with them to be used for the said stores.
+- Related Article: Amazon Officially Denies Plans to Use Crypto as Payment Method and Alleged Plans of Launching New Crypto Token in 2022
+- This article is owned by Tech Times
+- Written by Isaiah Richard
+- Sign up for our free newsletter for the Latest coverage!
+- 
+- 
+
+URL: https://nypost.com/2021/08/03/amazon-will-pay-you-10-to-scan-your-palm-report/
+- Submit
+- Δ
+- Thanks for contacting us. We've received your submission.
+- Your one-of-a-kind palm print is worth $10 in store credit, according to Amazon.
+- The Seattle-based e-tailing giant is offering customers the incentive to enroll in a program called Amazon One, through which users can pay for goods at its stores by scanning their palm prints instead of using physical credit cards.
+- The Post first broke news of Amazon’s palm payment initiative in 2019, and the company started rolling out the feature in Seattle stores last September.
+- Now, the creepily convenient service is available at six Amazon stores in New York City and 47 other Amazon stores throughout the country, according to Amazon One’s website.
+- Users who sign up and link their palms to their credit cards will receive $10 in store credit.
+- Amazon spokesperson Jessica Martin declined to comment on the promotion.
+- According to Amazon’s site, the feature “uses the information embedded in your palm to create a unique palm signature that it can read each and every time you use it.”
+- Since customers’ palms are linked to their Amazon accounts, the company may use the data it collects to target ads and shopping recommendations. Amazon will only delete customers’ “palm signatures” if users explicitly close their accounts or do not use the feature for two years, according to the company.
+- “Your palm is a personal part of you and you alone decide when to hover it, and when to keep it private,” reads the Amazon One website.
+- The company — which reported weaker-than-expected earnings in the second quarter — has previously caught flak from civil liberties activists for selling controversial facial recognition software to police. Amazon suspended police use of its facial recognition software during the George Floyd protests last year.
+- Some activists have raised similar privacy and civil liberties concerns about the company’s palm signature push.
+- “Biometric data is one of the only ways that companies and governments can track us permanently,” Albert Fox Cahn, the executive director of the Surveillance Technology Oversight Project told TechCrunch, which first reported the story. “You can change your name, you can change your Social Security number, but you can’t change your palm print.”
+- “It’s horrifying that Amazon is asking people to sell their bodies, but it’s even worse that people are doing it for such a low price,” Cahn added.
+
+- NHGSFP school meal fingerprint biometrics
+- Moscow Metro Face Pay
+- Page infoType: Incident Published: January 2022

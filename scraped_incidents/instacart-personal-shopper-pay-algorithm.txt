@@ -1,0 +1,854 @@
+- Instacart personal shopper pay algorithm
+- Occurred: October 2018-
+- Can you improve this page?Share your insights with us
+- The Markup reports US grocery and pick-up company Instacart is facing a nationwide customer boycott on account of the poor pay doled out to its personal shoppers.
+- In an open letter to former Facebook executive and new CEO Fidji Simo, the Gig Workers Collective encourages Instacart customers to support delivery workers by boycotting the company until it 'rectifies the genuinely inequitable manner in which it treats its shoppers.'
+- The boycott is the latest in a series of boycotts, walk-offs and strikes driven by low pay, failure to reimburse workers for business expenses, 'stolen' tips subsidising worker pay and other issues that have dogged Instacart in recent years.
+- Many of these issues are seen to have been aggravated by management greed and an increasing reliance on automation and algorithms.
+- The company revised its personal shopper pay system early 2019 after shoppers walked out over an October 2018 update to the system that resulted in 'substantially' lower pay, and customers complained on social media that their orders were being delayed.
+- And in November 2019 it controversially withdrew a USD 3 'quality bonus' personal shoppers received for every five-star rating they garnered from customers after a three-day worker pay strike.
+- In June 2021, Bloomberg reported that Instacart is planning to replace its personal shoppers with robots. The robots are envisaged to fetch items such as cereal boxes, while humans collect fresh produce and deli products.
+- Operator: Instacart Developer: InstacartCountry: USASector: Transport/logistics Purpose: Calculate pay Technology: Pay algorithm Issue: Employment - pay; Fairness Transparency: Governance; Compaints/appeals; Black box
+URL: https://en.wikipedia.org/wiki/Instacart
+- Instacart is an American delivery company that operates a grocery delivery and pick-up service in the United States and Canada.[5] The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.[6]
+- Instacart was founded in 2012 by entrepreneur Apoorva Mehta, a former Amazon.com employee.[7][8][9] Apoorva was born in India and moved with his family to Canada in 2000.[10][11] He studied engineering at the University of Waterloo and graduated in 2008.[12] He was a participant in Y Combinator's Summer 2012 batch, which eventually led to the creation of Instacart.[13] In 2013, Mehta was included on the Forbes 30 Under 30 list.[14] Apoorva previously worked at BlackBerry, Qualcomm, and then Amazon as a supply chain engineer, where he developed fulfillment systems to move packages from Amazon's warehouses to customers' homes.[15] He left Amazon in 2010 to attempt to start his own business.[16] Before founding Instacart, Apoorva had tried to start at least 20 other services.[14][7] He tried building an ad network for social gaming companies, and developing a social network specifically for lawyers, among other start-ups.[17]
+- Instacart originally launched in San Francisco.[18][19][20][21] Within a year, Instacart began offering an annual membership service called Instacart Express[22] along with allowing alcohol to be deliver with groceries in areas where alcohol delivery was legal.[23] By April 2015, the firm had about 200 employees. It introduced a new policy around June allowing some shoppers to choose to be part-time employees, starting with Chicago and Boston[24][25] and extending its offer to shoppers in Atlanta, Miami, and Washington, D.C. the following month.[26]
+- In September 2016, the company announced an expansion to its zone on the north side of Chicago.[27] In October 2016, it announced the expansion of coverage areas in Orange County, California,[28] and Minneapolis.[29] In November 2016, the company changed its policy and removed the option to leave a gratuity in exchange for a service fee that would be used to pay workers instead. Backlash against the policy from customers and some shoppers forced the company to reinstate the option only weeks later with modifications that placed the tip under the service fee section on a separate page.[30][31]
+- In March 2017, Instacart agreed to pay $4.6 million to settle a class action settlement stemming from the alleged misclassification of its personal shoppers as independent contractors. The suit, filed in March 2015, alleged 18 violations, including improper tip pooling and failure to reimburse workers for business expenses.[32][33] The same year, Instacart raised $400 million in funding at a valuation of $3.4 billion.[34][35] In November 2017, the company expanded to Canada by announcing a partnership with Loblaw Companies to begin delivery from select locations in Toronto and Vancouver.[36][37] That same month, some Instacart workers participated in a strike action, alleging wages as low as $1 an hour. Instacart claimed that the strike had no impact on its operations.[38]
+- In January 2018, the company acquired Toronto-based Unata, a white-label platform for grocers, for $65 million.[39][40][41] In February 2018, Instacart withheld tips given by customers to shoppers, blaming a software bug. In addition, customers were often charged for service fees that were supposed to be waived.[42] In April 2018, Instacart made a few additional changes to its pay service by instituting a mandatory 5% service fee on all orders. It originally offered an optional 10% service fee that went directly to Instacart that could be turned off. It also returned the gratuity option back to the checkout screen and raised the default value from 0% to 5%.[43] By mid-2018, Instacart was available for use in 11 Canadian markets and was planning expansions for five more markets.[44] Later in 2018, the company raised $200 million at a $4.2 billion valuation in a funding round led by Coatue Management, as well as Glade Brook Capital Partners and existing investors.[45] In October 2018, Instacart raised another $600 million at a $7.6 billion valuation in a funding round led by hedge fund D1 Capital Partners.[46] In the fall of 2018, Instacart announced national expansions with retailers, including Walmart Canada stores, Staples Canada, M&M Food Market,[47] Kroger, Aldi, Sam's Club, Publix, and Costco.[48][49] In November 2018, Instacart announced the national expansion of Instacart Pickup, a grocery click-and-collect service, whereby users pick up their pre-packaged orders at the grocery store.[50] In November and December 2018, Instacart again changed its pay system for its personal shoppers; shoppers claimed this pay system resulted in substantially lower pay and boycotted. Instacart customers complained on social media that their orders were being delayed.[51][52][53] At the end of the year, Instacart raised an additional $271 million from investors, including Andreessen Horowitz, Sequoia Capital, Kleiner Perkins, Comcast Ventures, Thrive Capital, Coatue Management, and Valiant Capital, bringing its latest round of fundraising to $871 million at a $7.87 billion valuation.[54]
+- In February 2019, an online organizing campaign, including shoppers, provided examples of payments as low as $0.80 per delivery. The company announced that it would revise its pay system and give back pay to some workers.[55][56] Under the revised pay system, tips were no longer factored into the minimum base wages, which were newly set at $7–$10 for a full-service shopping order (based on delivery market) and $5 for delivery only.[57][58] In March 2019, Instacart expanded its same-day alcohol delivery service in the U.S.[59] On April 11, 2019, the company expanded its services to offering an on-demand option for its workers, in order to allow workers to work more flexible schedules.[60] Effective May 2019, Whole Foods Market ended its partnership with Instacart.[61][62] By the end of December 2019, Instacart's alcohol delivery service included over 30 new partners in more than 20 states and Washington, D.C., such as Albertsons, Aldi, Sam's Club, BJ's Wholesale Club, Sprouts Farmers Market, The Fresh Market, and Total Wine & More.[63][64]
+- In February 2020, Instacart employees in Skokie, Illinois voted to unionize. Instacart said it "will honor" the vote, pending certification of the results. In the lead-up to the election, high-level Instacart managers distributed anti-union literature at a Skokie grocery store where some of the unionizing workers pick up groceries for delivery.[65] At the time, about 12,000 of Instacart's 142,000 workers were employees with the option of unionizing.[66]
+- From mid-March to mid-April 2020, Instacart hired an additional 300,000 workers to meet the surge in demand for grocery deliveries during the COVID-19 pandemic.[67][68] Data from Apptopia demonstrated a 218% increase in daily downloads as social distancing measures increased.[69] Instacart also introduced new services in response to the pandemic, including a contactless delivery option, safety kits and guidelines for shoppers, and new sick leave policies and pay for those affected by COVID-19.[70][71]
+- Instacart workers threatened to strike on March 27, 2020 due to a lack of COVID-19 safety measures. A group called the Gig Workers Collective called for a nationwide walk-out to be held on March 30. They had been asking Instacart to provide workers with hazard pay and protective gear, amongst other demands.[72] In early April, Instacart began providing safety kits to workers, with complaints describing a complicated process to order and wait for the kits to arrive.[73] In May, workers reported being denied sick leave despite quarantining under the advice of a doctor. Instacart required that workers either get a positive Covid-19 test or be under a mandatory quarantine by a public health agency or other government agency.[74][75] By June, Instacart changed its sick leave rules in an agreement reached by it and D.C. Attorney General, Karl Racine. Under the agreement, Instacart would provide paid leave to workers who were clinically diagnosed with Covid-19 by a doctor or other medical profession along with those who had a household member contract Covid-19. The agreement also provided access for workers to telemedicine services.[76][77]
+- In May 2020, Instacart began a partnership with Rite Aid, offering its service across 2,400 locations in 18 states.[78] In August 2020, Instacart entered its first partnership with Walmart in the U.S. to offer same-day delivery services. The partnership is a pilot program beginning in Los Angeles, San Francisco, San Diego, and Tulsa.[79][80] Additional partnerships in June included C&S Wholesale Grocers and Staples.[81][82]
+- In October 2020, Instacart raised $200 million at a valuation of $17.7 billion in a financing round led by Valiant Capital and D1 Capital Partners.[83]
+- On January 14, 2021, Instacart announced a vaccine support stipend to provide financial assistance to company shoppers who choose to get the COVID-19 vaccine.[84][85]
+- On January 21, 2021, the company planned to lay off nearly 2,000 employees, including all of its employees who had voted to unionize. Instacart said that the layoffs were due to stores increasingly using Instacart to have consumers place orders, but have their own employees fulfill the order instead of Instacart's workforce, reducing reliance on Instacart's in-store shoppers.[86][87][88]
+- As of its most recent funding round, in March 2021, Instacart raised $265 million at a valuation of $39 billion from existing venture capital investors including Andreessen Horowitz, Sequoia and D1 Capital Partners, as well as existing institutional investors like Fidelity and T. Rowe Price.[89] In March 2022, Instacart slashed its valuation by almost 40% to $24 billion.[90]
+- On July 8, 2021, Instacart announced that it had appointed Board Member Fidji Simo as CEO, while Apoorva Mehta transitioned to Executive Chairman of the Board.[91]
+- On February 22, 2022, Instacart started to team up with Delta to give clients more ways to earn miles when they link their SkyMiles and Instacart accounts, with special earning bonuses for Instacart+ members.[92][93]
+- On March 3, 2022, the platform celebrates women's history month by expanding advertising initiative with new $1 million to support Women-Owned Brands.[94]
+- On March 16, 2022, in partnership with TikTok, Hearst Magazine and Tasty, Instacart launched Shoppable Recipes with new product integrations that allow food creators to make their recipes shoppable on Instacart.[95]
+- On March 23, Instacart introduced the Instacart Platform, a program with services for retailers. The platform launched with features for advertising, home delivery, and inventory counting.[96][97]
+- In May 2022, Instacart announced that it had confidentially submitted a draft registration statement on Form S-1 with the U.S. Securities and Exchange Commission, signaling its intent to go public.[98] Instacart unveiled new partnerships with Canada's top 5 grocers: Metro, Giant Tiger, Galleria Supermarket and more, expanding same-day delivery countrywide.[99]
+- In June 2022, Instacart+ (formerly Instacart Express) was introduced with new family shopping features, including sharing membership with another family member for free. The membership also allows for shopping-cart collaboration among family members.[100]
+- In July 2022, Instacart appointed CEO Fidji Simo to succeed Apoorva Mehta as the Board Chair once the company completed its initial public offering.[101] EBT SNAP is now accepted online via the Instacart Platform in 10 additional states- Colorado, Hawaii, Idaho, Louisiana, Montana, New Mexico, Oregon, Utah, Washington, and Wyoming - with launch partners Albertsons Companies and Sprouts Farmers Market.[102]
+- In August 2022, Instacart added Carts to the app to allow users to buy items listed by celebrities, influencers, retailers, and other public figures.[103][104]
+- In September 2022, Instacart announced it would be acquiring Eversight, an AI pricing platform for brands and retailers.[105][106] Also in September, the company acquired Rosie, an e-commerce platform for local and independent retailers and wholesalers.[107]
+- Orders are fulfilled and delivered by a personal shopper, who picks, packs, and delivers the order within the customer's designated time frame—within one hour or up to five days in advance.[108][109] Customers pay with personal debit or credit cards, Google Pay, Apple Pay and EBT cards.[110] The delivery fee is $3.99 for orders of $35 or more and $7.99 under that amount. Regardless of the cost of the order, there is a 5% service fee with a minimum of $2 owed. Instacart offers a membership service called Instacart+, formerly Instacart Express until June 2022, for a monthly fee of about $9.99 or an annual fee of $99. The membership service waives delivery fees on orders over $35, but customers must still pay the service fee for the shopper. Customers are also requested to leave a gratuity.[111] Retailers participating in Instacart's partnership program set the price of individual items on the Instacart marketplace, which are mostly the same prices as in-store.[112] In addition, customers can pick up their pre-made orders from the store through a separate service.[113] For stores that do not participate in Instacart's partnership program, customers can be charged a markup of about 15%-40% per order with individual items ranging from a negative markup to over 50%.[114][115]
+- Instacart does alcohol delivery and pickup in 27 states[116] 2 provinces in Canada, and Washington, D.C.[117] Instacart has alcohol delivery partnerships with more than 500 retail banners that span more than 25,000 stores.[118][119]
+
+URL: https://medium.com/shopper-news/introducing-instacarts-new-earnings-structure-for-shoppers-26a11df53581
+
+URL: https://medium.com/shopper-news/state-of-pay-doing-right-by-our-shoppers-81de4b66580
+
+URL: https://www.instacart.com/company/shopper-community/excited-to-join-the-instacart-family/
+- Shopper Community
+- Instacart
+- To our shopper community,
+- This is my first official week as the newly-appointed CEO of Instacart. I’m incredibly excited to get started, and I’ve been spending the past couple of weeks introducing myself to the people who make this company and this community so special — including all of you.
+- In many ways, my decision to join Instacart was a personal one. I come from a family of fishermen, and food has been at the center of just about every important moment in my life. To me, there’s nothing more inspiring or noble than feeding the world. I was an Instacart customer for years before I joined the company, and I quickly fell in love with how Instacart solves a truly essential need for millions of families: access to food.
+- All of you help bring that mission to life every day in your neighborhoods and communities — and it’s truly made a big impact, especially over the last year and a half. I have a health condition that made it risky for me to go to stores during the pandemic, and I can’t tell you how grateful I was every time one of you showed up to my door to help me feed my family while keeping us safe.
+- Now, as CEO, I get to return the favor. I want to be a thoughtful and open partner to all of you as we work to make the shopper experience even better. You’re an incredibly important part of Instacart, and it’s my job to listen, learn, and work with you to overcome any challenges you’re facing. We’ve made a lot of progress over the last few years, but we know there’s more work to do.
+- As part of this, I want to make sure you can get in touch with me directly. If you have thoughts or suggestions about how we can improve the shopper experience, please email me at [email protected]. My team and I will read every note, and I’ll respond to as many as I can over the coming months. I’ll also make sure your feedback gets passed on to the teams that can help.
+- So thanks again for the work you’re doing to help connect our customers to the food and essential goods they need  and giving everyone more time to enjoy food together. I’m looking forward to working with all of you to make Instacart — and the shopper experience — everything we know it can be.
+- Fidji
+- Instacart
+- Shopper Community
+- Last year, we made a commitment to foster a community built on best intent. This means that we act with consideration and compassion for the Instacart community and ask that shoppers and customers assume the…...
+- Shopper Community
+- The Instacart community is as diverse as the items in the grocery store — every day, tens of thousands of individuals shop, deliver, and become an extension of people’s households. We want to share this…...
+- Shopper Community
+- The Instacart community is as diverse as the items in the grocery store — every day, tens of thousands of individuals shop, deliver, and become an extension of people’s households. We want to share this…...
+- Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC.
+
+URL: https://medium.com/@workersboycottic/despite-increased-public-awareness-of-worker-pay-issues-and-the-minimum-wage-instacart-continues-ab4526d50b58
+- Instacart Worker
+- Follow
+- --
+- 4
+- Listen
+- Share
+- Despite increased public awareness of worker pay issues and the minimum wage, Instacart continues to slash wages and as of today, is paying its workers rates as low as $3/hour. This is made possible by introducing a purposefully confusing and unpredictable pay structure, which is the company’s latest tactic in exploiting its workers. This comes on the heels of years of incrementally decreasing pay — and even stealing workers’ tips. But you might never know it reading the news, because the company has kicked off a PR campaign to celebrate a new, massive valuation.
+- For those who haven’t heard of it, Instacart is a company and an app that allows customers to place an order at nearby supermarkets, where it will be assigned to a worker to either shop and deliver or just deliver an order to the customer. Tens of thousands of workers around the country rely on this as a primary source of income.
+- Instacart exists in an unusually beneficial spot within the market; one where upfront business costs have been paid for by venture capital, and where lagging regulations allow them to pay its primary workers — classified as contractors — almost nothing. Indeed, this wealth of cash on one side and lack of expense on the other means their bread is being buttered from both sides. While Uber and some others are finally getting their deserved scrutiny, very few tech publications have thought to read between the lines and discover why this company has such a massive valuation at all.
+- Until recently, Instacart workers would receive a known base payment amount for each order, and small increases for the number of items in the order, bumps for orders of especially large dollar amounts, as well as the occasional long-distance delivery bonus. Customers also have the option of leaving their worker a tip. Instacart was never the best gig in the so-called “app economy,” but for many shoppers and drivers the work was steady and rewarding enough to keep going, and in turn become a primary source of income. But repeated cuts in pay have strained the relationship.
+- In September 2018, Apoorva Mehta, admitted to Recode that his company needed to treat their workers “much, much better” and added that shoppers are a core focus for his company. The good feelings from this mea culpa lasted less than two weeks before company again announced that a new, drastically lower pay schedule would be launching nationally.
+- The new pay structure is particularly damaging to those who have been loyal to Instacart and rely on it to make a living. There is no longer a base payment per order — simply, the worker is presented with the general details of an order (a summary of items, distance to the customer, and estimated pay) and given the option to confirm or decline. An order that will take an hour and might have paid a worker a minimum of $10 before tip could now offer as low as $3 — or even less — after tip. And that’s before even mentioning the fact that workers bring their own cars and pay for their own gas and insurance. In many cases, workers will be losing money to accept orders.
+- It is likely that the shopper’s confirmation page is a tactic to shield the company from criticism — there is almost certainly a PR statement already waiting in the wings saying something to the effect of, “If they don’t want the order, they don’t have to take it,” which is technically true. However, when this happens over and over, and as time ticks away and shoppers at some point have to pay their bills, they’ll effectively be forced to take some of them. They’re banking on the idea that readers, customers, and investors won’t think that far ahead.
+- Over the next several months, Instacart is likely to bleed away its most reliable shoppers. Many of the private Facebook communities of shoppers are trading information about their new pay amounts and sharing tips on how to find better gigs. But not everyone will be so fortunate as to land something else, because for many workers and their families, Apoorva Metha’s pay cuts represent a significant blow to their livelihoods.
+- Even if you’re not an Instacart customer, if you live in a supported city you’ve probably seen shoppers whizzing around grocery stores. Feel free to say hi and ask us how we like it. Ask if our pay is enough to live off of. Even in wealthy areas, and even in the high-end grocery stores, we’ll tell you no, we won’t be able to survive doing this forever. And as soon as the PR dies down and the media goes home, it will become obvious that Instacart, eventually, won’t be able to survive it either.
+- --
+- --
+- 4
+- Unbecoming
+- --
+- 777
+- Aleid ter Weel
+- in
+- Better Advice
+- --
+- 308
+- Alex Mathers
+- --
+- 257
+- The PyCoach
+- in
+- Artificial Corner
+- --
+- 380
+- Bryan Ye
+- in
+- Better Humans
+- --
+- 646
+- Alexander Nguyen
+- in
+- Level Up Coding
+- --
+- 126
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://medium.com/@workingwa/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms-8ff1d7c6b66
+
+URL: https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms
+- A version of this action that uses less javascript and may be usable for those who don't use javascript is available at https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms?nowrapper=true&referrer=&source=&oneclick=
+
+URL: http://www.workingwa.org/blog/2019/1/14/instacarts-transparent-new-pay-structure-underpayment-tip-theft-and-black-box-algorithms
+- Blog
+- Since November, grocery shopping app Instacart has implemented a new pay structure — and it's meant dramatic cuts in pay, up to 40%, for Instacart workers. The company claims their new model is more "transparent," but in reality, they're just cutting down the pay per job to the lowest amount they can while also stealing customers' tips to subsidize wages.
+- Click here to stand with them and sign the petition. Then read on to hear from Ashley, an Instacart worker in Tacoma, on how the new pay structure has affected her.
+- "When I first started working for Instacart as a "shopper" almost a year ago, I loved my job. It meant supplementary income when my husband's work as a mortgage lender was slow and the ability to leave weekends and evenings free for my 7- and 10-year-old daughters.
+- The company claims their new pay structure is more "transparent" and "consistent." But in reality, the new pay structure isn't transparent at all — the pay per job seems to be completely arbitrary, and it looks like Instacart is just offering jobs for as little as they can get away with.
+- The old pay structure was a fixed model with a base rate for each job ($9.75 in Tacoma, where I work) and an additional incentive of 40 cents per item. Now, the pay structure is a black box that makes it totally unclear why we're being offered what we're offered. As shoppers, we often reject jobs only to see the same jobs re-appear on our app minutes later with another dollar or two added, indicating that Instacart is simply trying to sell the jobs to the lowest bidder with no other obvious standard for how pay should be calculated.
+- I've seen an overall reduction of 30% in my pay. I went from making about $1000/week pre-expenses to making $600-700 a week. On top of that, as an independent contractor I have to pay for my own gas, oil changes, other car maintenance, and additional payroll taxes.
+- Not only am I making less money and pulling out of our savings to pay bills, I've had to work 7 days a week since the new pay structure rolled out. Not being able to spend time with my kids is really hard for me. I went from being there for everything to missing my daughter's first basketball practice so I could take more batches.
+- Instead of paying us a base wage and then passing tips on to us, they're actually using customers' pre-paid tips to cover the company's share of paying workers. In other words, for a job paying $10, if you tip $2, Instacart will pay us $8; if you tip $8, Instacart will only pay us $2. If a customer leaves a high tip, instead of meaning more money for us, it means Instacart gets to pay less for the job.
+- If customers knew Instacart was using their tips to lower the amount the company has to spend on labor, they would be furious. That's the customers' hard-earned money — they're trying to use it to tip workers in addition to Instacart's pay. They're not tipping so Instacart can pay workers less, they're tipping so workers can make more money. But Instacart is using those tips to pay wages, and it's not OK.
+- I loved my job, but I'm so frustrated at this point I'm looking for something else to do. I would have loved to keep working for Instacart. Some of the things we do are cumbersome, and we have to be on our feet all day lifting heavy items, but I still envisioned doing this into the foreseeable future. Now, I just can't make it work for me or for my family. I can't continue to work as hard as I'm working, and make the sacrifices I'm making, and come home with the money I'm earning.
+- It's time for them to put workers and customers first — not the company's bottom line. Click here to tell Instacart to quit stealing our tips, undercutting our pay, and leaving us in the dark about their pay algorithms.
+- Thank you for your support,Ashley, Tacoma Instacart shopper"
+- About Working Washington: Our mission is to build a powerful workers’ movement that can not only dramatically improve wages and working conditions, but can also change the local and national conversation about wealth, inequality, and the value of work. More info…
+- Our mission is to build a powerful workers’ movement that can dramatically improve wages and working conditions, and change the local and national conversation about wealth, inequality, and the value of work.
+- More about us.
+- Thank you!
+- Working Washington fast food strikers sparked the fight that won Seattle's landmark $15 minimum wage. We drove Amazon to sever ties with right-wing lobby group ALEC and improve conditions in their sweatshop warehouses. And we helped lead the winning campaign in SeaTac for a $15  living wage.
+- Our work continues — with your help. Give today.
+- Working Washington | 719 3rd Ave, Seattle, WA, 98104, United States
+
+URL: https://gigworkerscollective.medium.com/open-letter-to-fidgi-simo-instacarts-ceo-e72c0de55e22
+
+URL: https://arstechnica.com/tech-policy/2018/11/instacart-changes-how-it-pays-shoppers-but-many-say-theyre-now-making-less/
+- Front page layout
+- Site theme
+- Cyrus Farivar
+    -  Nov 18, 2018 3:00 pm UTC
+- 
+- The San Francisco-based startup, which has more than doubled its total venture capital funding amount in a year to $1.6 billion, allows customers to buy  groceries online, which according to the company are marked up for 30 percent of partner retailers. "Shoppers," in company parlance, are the ones doing the bulk of the labor—they constitute 70,000 workers across North America. The ratio of shoppers to bona fide employees is over 116 to 1.
+- Shoppers drive to the store, select the items, bag them, and deliver them. Sometimes they even correspond via app with the customer while shopping.
+- This new pay setup for shoppers (known internally as the "Boulder model," after the Colorado city where it was pioneered) has already been rolled out in some cities. It will reach all parts of the country by year's end.
+- But numerous Instacart workers that spoke with Ars are not happy. They say that their take-home pay has fallen again, this time by an estimated 25-50 percent in some cases. An anonymously-written Medium post calls the new structure "purposefully confusing and unpredictable."
+- Many see it as a continued devaluation of the labor that provides the backbone of Instacart. The guaranteed $15 hourly wage that some veteran shoppers were paid when they were hired just a few years ago has all-but disappeared.
+- "It's kind of disheartening, as Instacart grows as a company that can compete with Amazon, it's disheartening that they're getting bigger and bigger and there's no trickle down," William Freeland, a shopper in Sacramento, California, told Ars. He said his pay has been cut in half under the new system, from around $25 per hour to about $12 per hour, before expenses.
+- "We've been getting our pay cut and cut and cut," he added. "As the company grows, we should be profiting as well."
+- Meanwhile, benefits for the company's nearly 600 employees include "daily meals and snacks," "take what you need vacation (and we really mean it)," "16 weeks maternity leave and eight weeks paternity leave so you can truly bond with your child," and more.
+- Enlarge / A Chicago shopper writes: "That's showing $10 (including a $2-3 tip, so $7-ish dollars on Instacart's part) to deliver a lot of milk, etc. to an office downtown. They released the new payment system under the guise of transparency & accounting for heavy items, mileage, etc. There has been no extra money accounting item weight in my few weeks of having this with many heavy items, Costco runs, etc."AnonymousInstacart now says that the new system provides far better clarity for shoppers, showing them ahead of time a preview of what they're agreeing to do and precisely how they're being paid for it.
+- "Exact dollar per batch—that's transparency," David Hahn, the company's chief product officer, told Ars in a lengthy phone interview last week.
+- Hahn joined the company in April 2018 and said that he himself regularly works as a shopper to get a better understanding of what they go through.
+- "It's designed to keep average earnings the same, and this is all communicated before the shopper clicks the accept button," he added.
+- But does it? Without a systematic study it's hard to say for certain. Dozens of unhappy shoppers on a closed Facebook group to which Ars was invited say that the change hasn't been positive.
+- The startup has been sued multiple times in recent years over what some workers say are notably inadequate wages. Instacart has agreed to pay at least several million dollars to settle the lawsuits, which will result in a typical settlement payout of a few hundred dollars per worker. The attorneys who brought the lawsuits, by contrast, stand to make millions. No new federal lawsuits have been brought this year.
+- Prior to the Boulder model, it would be complicated for shoppers to figure out how much they were going to take home.
+- There's the "commission," or amount paid out per delivery, which can vary both by time and place, ranging from $1 to $14. On top of that, there are per-item fees (usually around $0.40 per item). Finally, there's the service fee, which initially did not go to shoppers, and optional tip. A year ago, some workers that Ars spoke with complained that many customers were not tipping in favor of leaving the default "service fee," which turned out to be optional anyway. Instacart later clarified the in-app wording around the service fee.
+- But veterans understood how the system worked and always tried to maximize their earnings. Some even would tell customers in-person to remove the service fee and suggest they adjust their tip accordingly.
+- As the Medium post argued:
+- The new pay structure is particularly damaging to those who have been loyal to Instacart and rely on it to make a living. There is no longer a base payment per order—simply, the worker is presented with the general details of an order (a summary of items, distance to the customer, and estimated pay) and given the option to confirm or decline. An order that will take an hour and might have paid a worker a minimum of $10 before tip could now offer as low as $3—or even less—after tip. And that's before even mentioning the fact that workers bring their own cars and pay for their own gas and insurance. In many cases, workers will be losing money to accept orders.
+- On top of it all, there are hazards that many shoppers face when being given exceptionally bulky or heavy items—cases of water, for instance—and don't have adequate vehicle space, physical strength, or other equipment (a dolly) that would otherwise be needed to handle such items.
+- 
+- So how do shoppers now get paid under the Boulder model?
+- They are shown a holistic "earnings estimate" with a preview of the specific items requested, a travel distance, and any relevant "Peak Boost." Shoppers can accept the job or decline it.
+- But after declining just four jobs, according to Instacart spokeswoman Kelly Pakula, shoppers won't be able to accept new batches as the app assumes that they are idle. Shoppers are immediately logged out, and there is a 30 minute window during which they can sign back on, but if not, then they are done for the day. (A "batch," in Instacart argot, means entering a store on behalf of one or as many as three customers and their corresponding orders.)
+- But numerous shoppers though, told Ars that in actuality, shoppers are largely unaware of this half-hour timeframe.
+- In any case, shoppers are then paid out in a "Batch Payment," a "Batch Incentive," mileage reimbursement at $0.60 per mile (above the current federal standard at $0.545 per mile), and a tip.
+- "It's not just equipment and physical strength; it's also time expended on those bulky items which costs us the time that could be expended on other orders," Vanessa Bain, a shopper in Menlo Park, California, who sometimes also works in Sacramento, which has the new pay structure already. "We used to have incentives to fulfill those orders, and they've taken them out. They've claimed that this new structure takes into account, but they've provided no evidence to that. They're not being transparent. Every time they say that this is going to benefit you, it completely and totally screws us."
+- Or put another way: "There's no reason your labor should cost more on a Monday to deliver a case of water than on a Tuesday. There's no other jobs that I know of that work that way."
+- Last Wednesday, a shopper in Atlanta who wished to remain anonymous for fear of retribution sent Ars an example of an order he received earlier that day.
+- "I got stuck with this one today!" he wrote. "It popped up 30 seconds before the 9:00am rush for hours so I had no choice but to accept it or I wouldn't have been able to work next week."
+- The estimate listed a "full-service order" for "five items (14 units)" at a distance of over three miles away. The previewed items include an assortment of groceries, including 10 cases total of three different types of bottled water.
+- In the end, the shopper did the job, received a payment of $3.57, an incentive of $1.35, a mileage reimbursement of $2.22, and a $6.43 tip, totaling exactly $10.
+- Why $10? Since November 5, Instacart has rolled out an earnings minimum of $10 as a way to mitigate people making small amounts of money for large amounts of effort. (Ars spoke with numerous Instacart shoppers who said that they were unaware of this new payout floor.)
+- When Ars presented this batch screenshot to Instacart, a spokeswoman said that this might be an "edge case."
+- "Our new heavy-batch feature rolled out just last week," Kelly Pakula, a spokeswoman, emailed. "Our engineering team is actively working to ensure our new weight database—which includes tens of millions of items—is as accurate and up to date as possible. We're continuing to adjust for edge cases, such as this, that may not be taken into account under the current algorithm."
+- We spoke with another shopper in Denver who was also granted anonymity. He was offered $15.83 to deliver 45 cases of water from a Sam's Club that was seven miles away.
+- "Definitely not worth the backache or wear and tear on vehicle," he wrote. "Hard no!"
+- When asked what this same order would have paid out under the old system, he responded:
+- Minimum would've been maybe around $25 with distance, not including tip. These orders usually don't tip. Also we were able to call about these bigger orders and get "shopper bumps" for the size. In my experience, I would usually get a minimum of $15 extra for these type of orders on top of the $25.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.businessinsider.com/instacart-shoppers-blame-delays-on-lower-pay-2018-12
+- Jump to
+- 
+- 
+- 
+- Instacart rolled out a new payment system last month, and many of its shoppers weren't too happy about it.
+- Instacart is a grocery delivery company that relies on contract workers — whom it calls "shoppers" — to pick out and transport items to customers.
+- Hundreds of shoppers took to social media and Reddit forums to complain about the changes, saying that they had caused substantial cuts to their earnings. Some are now rejecting jobs while others are threatening to boycott the company.
+- Read more: Instacart workers are threatening to boycott the company over a payment policy change that they say has cut their wages
+- And it seems that this could be having a domino effect on the customer experience.
+- Several Instacart customers have recently taken to Twitter to complain about delays in the service.
+- "Order was supposed to be delivered between 9 & 10pm. It's 11:11 & still no order... oh don’t worry it's not like I have to be up at 6 and or anything," one customer wrote on Twitter on November 27.
+- "My order is 40 minutes late, no one has started shopping, and I'm sitting here on hold. Fuming. WTF?" another said a few days later.
+- Several Instacart shoppers responded to these tweets by saying that the delays were likely due to some shoppers declining orders because they thought they weren't worth their while financially.
+- A spokesperson for Instacart denied that any recent delays were related to the payment changes.
+- "We value our 70,000 dedicated shoppers and appreciate all of their feedback. As our business has grown over the last year to 15,000 stores in 4,000 cities, we've also been investing in our shopper experience with new tools and features to make our shopper's jobs easier. As we've scaled our new earnings features to more shoppers over the last month, we've seen no meaningful impact on delayed customer orders as a result of those changes," a spokesperson for Instacart told Business Insider on Tuesday.
+- In a call with Business Insider on Monday, Instacart's chief product officer, David Hahn, said that average earnings for shoppers had stayed the same under the new payment structure. He added that the response from shoppers so far has been "overwhelmingly positive."
+- The new payment structure, which is currently running in certain parts of the United States and will be rolled out nationwide by the end of the year, has been causing problems for some shoppers, who say they have seen their wages cut as a result.
+- In the new system, shoppers are no longer paid a set fee for delivery but rather a variable fee determined by the order's number of units, the type of items, the overall weight of the order, the trip length, and the location.
+- 
+- Instacart said it made the changes to ensure that shoppers are adequately reimbursed for more complex or heavier orders, but shoppers say that under the new system, Instacart's payment is typically low and seemingly random.
+- "While a bonus for heavy deliveries is meant to be factored into the new incentive fee, it is not always consistent," Mark Johnson, who has been an Instacart shopper in the Seattle area for 14 months, told Business Insider. "I've seen crazy jobs of 30 to 50 items for $10 or $15. Before, we were making twice as much."
+- Before these changes, Johnson said he would be averaging around $25 to $30 an hour for his work. In the new system, he barely makes $20 an hour. "It's a significant cut," he said.
+- Hahn said the fee may seem more random because more factors are being taken into consideration to determine it.
+- "Now that we are taking all these inputs into the batch, there are more variants in the batch price than there was in the old system," he said, adding that the changes are going to be a "continuous process."
+- But as a result of these changes, many shoppers say they are now declining more orders that they believe to be too low-paying to be worth their while.
+- Andrew P., who has been a shopper since February, said that up until these changes were put in place, he hadn't rejected a single job. He said that since the changes were made in his market on November 19, he has turned down six jobs in two weeks.
+- This trend may now be causing delays on the customer's side as the app works to find replacement shoppers:
+- 
+- Read next
+
+URL: https://www.businessinsider.com/instacart-shoppers-threaten-boycott-claim-lower-pay-2018-12
+- Jump to
+- 
+- 
+- 
+- In November, Instacart quietly slashed its delivery and membership rates in a bid to woo customers and compete with Amazon, Business Insider reported last week.
+- While the news was welcomed by its customers, many in the company's army of shoppers — the employees who pick out and deliver groceries to customers — say that these price cuts have come at their expense.
+- Hundreds of the 70,000 shoppers whom Instacart employs on a contract basis have taken to social media and Reddit forums to say that they plan to boycott the company as it has rolled out a new payment structure in some areas of the United States over the last month.
+- This structure will be rolled out to the rest of the country by the end of the year, Instacart said in a blog post announcing the changes on November 8.
+- Business Insider spoke to six Instacart shoppers and found numerous Reddit and Facebook commenters who said that under the new payment structure — dubbed "the Boulder model" because it was first trialed in Boulder, Colorado — their earnings have been cut significantly.
+- "Their main directive is to pay us as little as possible," Matthew Telles, who has worked as an Instacart shopper since 2015, told Business Insider. "They really do not care about us at all."
+- Telles published a fiery blog post directed at Instacart's CEO Apoorva Mehta on November 24, calling for the company to adjust the way it pays shoppers.
+- Instacart said it launched the new payment structure in order to make the process more transparent for its shoppers. Unlike before, shoppers can now see a preview of the items requested, how far they would need to travel to deliver the order, and exactly how much they would be paid for the job. This gives them the chance to see exactly what they would be receiving before they accept or reject the work.
+- "We are very upfront about the precise details of the batch to give the best possible view to a shopper before they are committing to doing anything," David Hahn, chief product officer at Instacart, told Business Insider on Monday.
+- However, the fees have also changed. Under the previous system, shoppers were paid a flat delivery fee — which varied by region — in addition to $0.40 per item shopped and the customer's tip.
+- Under the new system, the flat delivery fee has been removed and replaced with a "Batch Incentive" fee, which varies by order and is determined by the order's number of units, the type of items, the overall weight of the order, the trip length, and the location. Shoppers also receive a $0.60 per mile commission. The total amount that Instacart pays shoppers is now called the "Batch Payment."
+- "Before, we were treating all batches the same way, and shoppers were saying, 'That doesn't seem right, that's not always aligning the pay with the effort,'" Hahn said. "We have now tried to incorporate all these different inputs into that overall batch pricing."
+- 
+- But shoppers say the Batch Payment fee is typically low — sometimes as low as $1 or $2 — and that it seems very random to them.
+- Read more: It's now cheaper to order Whole Foods delivery on Instacart than on Amazon
+- Hahn said the fee may seem more random because more factors are being taken into consideration to determine it.
+- "Now that we are taking all these inputs into the batch, there are more variants in the batch price than there was in the old system," he said.
+- Mark Johnson, who has been an Instacart shopper in the Seattle area for 14 months, said that the new system has had the biggest impact on shoppers delivering large orders, especially from warehouse stores such as Costco. Previously, shoppers would be given set bonuses that could be anywhere between $2 and $8 for these bigger deliveries, depending on the area.
+- "While a bonus for heavy deliveries is meant to be factored into the new incentive fee, it is not always consistent," Johnson said. "I've seen crazy jobs of 30 to 50 items for $10 or $15. Before, we were making twice as much."
+- Hahn said that tracking the weight of the items has created some issues. Instacart is in the process of adding the weights of all the products that they deliver to the system, which is why shoppers might see some discrepancies.
+- This is something that the company is working to improve, he said, adding, "This is going to be a continuous process. We are not perfect."
+- But the biggest complaint among unhappy shoppers is in how they say the customer's tip is being presented in shoppers' overall payment.
+- Instacart has set a $10 earnings minimum on every job. This number is made up by what Instacart pays the shopper — the Batch Payment — and what the customer tips. Several shoppers said it seems that what Instacart actually pays out is dependent on the size of the customer's tip, which, they said, can result in them earning less than they might have before.
+- "They are subsidizing what they are paying me with the customer's tip," Instacart shopper Andrew P. told Business Insider. Several of these shoppers requested to keep their full names private in order to avoid publicity for speaking with Business Insider.
+- "It's unfair. The company is basically taking advantage of the customer's tip," Sheila V., who has been a shopper in the Fresno area since May, said.
+- These shoppers claimed that for example, if a customer tips $4, Instacart will pay out the remaining $6 in order to reach the $10 minimum. If the customer tips $6, Instacart pays $4.
+- Hahn denied that this is how Instacart determines how much it pays shoppers and said that that amount is not related to the amount that the customer decides to tip. However, if the customer does not tip — or tips a low amount — Instacart will add extra to ensure the shopper makes a minimum of $10.
+- "We wanted to make sure, especially if those numbers were going to add up to be less than $10, that we went further and we added more to that Batch Incentive," he said.
+- "It is something that we did to benefit shoppers. Instacart is then stepping in to make up that difference when a customer has chosen to zero off the tip."
+- Some shoppers are urging customers to add the tip on the app once delivery is complete, so that they can receive it as an added bonus after they are paid by Instacart.
+- This isn't the first time that Instacart has come under scrutiny for its payment and tipping structure. In 2016, it removed tips and replaced them with a service fee, which went directly to the company. The tips were later reinstated, but shoppers said they were too hard for customers to find in the app. Then, it 2017, Instacart admitted to accidentally withholding tips from shoppers.
+- The increased number of jobs with relatively low fees has meant that many shoppers are rejecting work that comes up on the app.
+- Andrew P., who has been a shopper since February, said that up until these changes were put in place, he hadn't rejected a single job. He said that since the changes were made in his market on November 19, he has turned down six in two weeks.
+- Aside from working less, shoppers run the risk of losing their job altogether by turning down work, they say.
+- If shoppers reject four jobs in a row, they are tagged as "idle" on the app. If they don't log in for 30 minutes after that, they are unable to work for the rest of the day and are marked down for a "reliability incident." If shoppers accumulate five reliability incidents, they are moved to "day before access" for pick-up hours. This means that instead of signing up for hours on a weekly basis, they are only able to pick up hours a day ahead of time, a spokesperson for the company confirmed to Business Insider.
+- "They only have so many hours. Lose early access, and you may never get it back, or it could take months," Telles said.
+- The payment changes may be having a domino effect for customers, many of whom are reporting delays online.
+- Shoppers say this is because some of them are now rejecting more jobs that don't make financial sense. Other shoppers say they are even looking to work elsewhere.
+- And it doesn't look like these shoppers are going to stand down anytime soon.
+- "I love doing this and helping these customers, but the morale has been so terrible that everyone is jumping ship," Debi L., who has been an Instacart shopper since July 2017, said.
+- Read next
+
+URL: https://www.chicagotribune.com/business/ct-biz-instacart-shopper-complaints-20181206-story.html
+- 
+- Thank you for supporting our journalism. This article is available exclusively for our subscribers, who help fund our work at the Chicago Tribune.
+- Alid Alvarado picks up orders for three different Instacart customers on Dec. 4, 2018, at Whole Foods. (Brian Cassella/Chicago Tribune)
+- After pulling 12-hour shifts as a restaurant hostess, Alid Alvarado was eager for a job that would allow her to spend more time with her three young kids. She found it as a shopper with Instacart, the on-demand grocery delivery service, which allowed her to set her own schedule and earn some $300 a week for 20 hours of work.
+- But two weeks after she became a shopper — a job that entails  getting customers’ groceries  from store shelves to their homes — Instacart changed its payment structure and, Alvarado said, her earnings plunged.
+- Those 20 hours yielded less than $160 as she waited for  higher-paying orders to come through, embittering her to the gig economy job that at first seemed like a lifeline.
+- “We’re being mistreated,” said Alvarado, 28, a single mom who lives in south suburban Oak Lawn.
+- Instacart, which boasts a community of 70,000 shoppers across the U.S. and Canada, has attracted $1.6 billion in funding since its founding in 2012 as investors anticipate a surge in consumers ordering their groceries online. Its CEO recently said an initial public offering is “on the horizon.”
+- But the San Francisco-based company for years has angered some shoppers who say numerous tweaks to the payment model have resulted in pay cuts, prompting them to boycott and attempt to organize the loose network of independent contractors.
+- Instacart has acknowledged the frustrations and over the last six months has “deepened our commitment to improving the experience” of shoppers by “carefully and deliberately testing every new feature with shopper focus groups in cities of all sizes to gather their feedback along the way,” the company said in a statement.
+- But the company’s shoppers are pushing back against a recent change to the payment model.
+- Instacart announced in October that by the end of the year all shoppers will be paid according to a new formula  meant to better match shoppers’ earnings to the time and difficulty of each order, by factoring in details like the weight of items purchased. But aggrieved workers say the result has been inconsistent earnings  and an increase in orders that pay too little to be worth their time.
+- Since the new system rolled out in the Chicago market Nov. 5, some local shoppers have been boycotting low-paying orders, in hopes that if enough workers decline to take them the company will be forced to pay more. Leaders of the resistance are preparing form letters for shoppers to send to their state attorneys general and  members of Congress asking them to take a deeper look at the potential exploitation of independent contractors, who lack labor protections like minimum wage thresholds and unionization rights.
+- “The gig companies need to be held accountable to the people who built their businesses,” said Matthew Telles, a shopper in Des Plaines and a chief agitator in the fight for better pay from Instacart. Telles, one of 10 organizers leading the boycotts and letter campaigns nationally, estimates that anywhere from 1,000 to 15,000 shoppers are actively participating in the boycott — he has no way of measuring for sure — and is confident the numbers are growing as more are engaged through social media and word of mouth.
+- Instacart says its operations have not been affected by the boycott, which is taking place in markets across the U.S., including “no meaningful impact on delayed customer orders.”
+- Alid Alvarado accepts three orders for Instacart customers at Whole Foods. (Brian Cassella/Chicago Tribune)
+- The new features, intended to make shoppers’ jobs easier, were formulated in consultation with shoppers, the company said. Shoppers’ average hourly earnings have remained consistent as the changes roll out in more markets.
+- “We want to be clear that every shopper and every order matters to us, and we take all feedback seriously,” the company said in a statement. “We’re committed to looking into every issue that our shoppers raise to better understand how we can improve our features and create the best possible shopper experience,” the statement continued.
+- Telles doesn’t buy that and accuses the fast-growing company of investing less in its workers than in algorithms that he thinks calculate the lowest payment shoppers might be willing to take.
+- “We fund the growth and get nothing for it,” Telles said. “We don’t get equity; we don’t get stock. We get a sore (butt) and broken suspension in our cars.”
+- The pushback at Instacart comes as drivers for ride-hailing platforms celebrate a milestone win in New York, where city officials last week approved a $17.22 minimum wage for Uber, Lyft, Juno and Via drivers, who are also independent contractors. Driver battles to be reclassified as employees have failed.
+- The labor strife that has accompanied the rise of online gig platforms has prompted some scholars to advocate for a new category of “independent worker” that  would get some protections currently reserved for traditional employees, such as the right to unionize and collectively bargain, though such proposals have not moved forward formally.
+- The Bureau of Labor Statistics surprised many economists earlier this year when it issued a report finding independent contracting has declined in the U.S. over the past 13 years, upending predictions that precarious work arrangements are on the rise. But it found a 50 percent jump in independent contractors in the transportation sector, likely because of online platforms.
+- "I think we need to be concerned about this category of worker because it’s going to be more widespread,” said Stephanie Fortado, a lecturer in the School of Labor and Employment Relations at the at the University of Illinois at Urbana-Champaign. If sluggish wage growth can’t keep up with the cost of living, more people may turn to gig work to supplement their income, she said.
+- The workforces of online gig platforms are growing rapidly even as they remain a tiny fraction of the overall labor market. The share of U.S. families who in a given month received income from online transportation platforms, which include ride-share and delivery services, rose to 1 percent this year, doubling from two years ago, according to a September report from the JPMorgan Chase Institute on the online gig economy.
+- Yet average monthly earnings for transportation gig workers fell by 53 percent between 2013 and 2017, according to the report. It isn’t clear if that’s due to a decline in pay or in hours, but given that the drop occurred as the labor market strengthened, “it wouldn’t be surprising to me if engagement on these platforms is more tenuous than it was,” said Fiona Greig, director of consumer research at the JPMorgan Chase Institute.
+- Telles, 35, became an Instacart shopper in 2015 after he took a golf ball to the head and suffered a brain injury, making it difficult to return to his job in sales. He said he earned $30 an hour in those early days of Instacart, when customers would regularly tip 18 percent and the company paid by a predictable formula: A base fee per order plus 40 cents per item and bonuses for long trips or large orders.
+- Telles said he saw his pay decline as the years went by and Instacart reduced the base fee, added service charges that confused customers and changed the tipping function on the app. He was a named plaintiff in a class-action lawsuit, settled by Instacart last year for $4.6 million, alleging misclassification of shoppers as independent contractors as well as other labor violations. The company did not admit wrongdoing.
+- The recent payment model change does away with the per-item fee and fixed base pay and instead tells shoppers how much they will earn based on a formula that takes into account the time, mileage and effort it takes to shop for and deliver a particular order.
+- Some of the changes are positive, shoppers say, including the ability to see the items before accepting the order, so they’re not stuck carrying cases of water if they don’t want to. Shoppers also now get a $3 bonus per order if the customer gives them the highest rating.
+- But in a  private Facebook group for Chicago-area shoppers, which has nearly 1,200 members, some shoppers have been sharing screenshots of orders they say would have paid much more under the previous model. Some pay so little, they say, that profits are negated given the cost of gas,  car maintenance and taxes.
+- Jerome Leahy, 38, who has been shopping for Instacart for five years, has a screenshot of a Costco order that entailed delivering 501 cans of soup for a payment of $20.88. The same order under the previous system would have paid close to $75 if the customer gave a 5 percent tip, he said.
+- “I used to work 40 hours a week, and now I have to work 60 hours or more to make the same amount of money,” said Leahy, who lives in Chicago’s East Garfield Park neighborhood. He pulled up his payment history on the app, which showed earnings of $778.98 for one week last fall, and $348.09 for the same week this year during which he said he worked the same number of hours.
+- Alid Alvarado transports orders for three different Instacart customers to her car at Whole Foods. (Brian Cassella/Chicago Tribune)
+- Some days are worse than others.
+- Alvarado, the single mom of three who lives in Oak Lawn, said the worst was when she accepted three Costco orders that together paid less than $20 and included multiple cases of soda and boxes of copy paper that she had to deliver to a downtown building that had no dolly. She hurt her shoulder and couldn’t work the following day. Also, the business she delivered to didn’t tip, which she has found is common among corporate customers.
+- But she still has lucrative days.
+- Alvarado likes to start her shift in the parking lot of the massive Whole Foods Market  on Chicago’s Near North Side, where Instacart orders are plentiful, watching her app as she sits in her Kia Sorrento. The job is ideal for her, she said, as she likes to shop — driving for a ride-share platform like Uber would make her too anxious — and it can hold her over while she waits for her GED program to start in January. She hopes to study criminal justice and become a youth parole officer.
+- Alvarado rejected one low-paying order that fit the boycott parameters, but then accepted a series of small orders of just over $10 a piece, which she said were worthwhile because she could do them quickly.
+- As she delivered six bags of groceries to a customer’s home in Roscoe Village, under a dusting of snow flurries, she glanced around the tony neighborhood.
+- “It motivates me to see the houses where I could possibly live in the future,” she said.
+- Her next order came immediately, and soon Alvarado was pushing a cart through the aisles at Fresh Thyme Farmers Market on North Elston Avenue in the Logan Square community area. She examined Honeycrisp apples for bruises, took a photo of a bag of baby carrots to prove she got the right one, waited at the seafood counter for  4 pounds of black pepper salmon, and sent a message to her customer asking if it would be OK for her to substitute a different brand unsweetened almond milk.
+- The timer on her Instacart app showed she was done  shopping in just over 15 minutes, beating the 16-minute estimate it had given her (there is no consequence for taking longer). After driving the two bags to her customer, she observed that it has been interesting to glimpse what Instacart customers eat.
+- “There are lots of vegan people and organic people, who pay a lot for their groceries but don’t leave good tips,” she said.
+- Tipping is a sore spot for some shoppers, who say the 5 percent default on the Instacart app has conditioned customers to give only that. (They can change it to what they want.) And under the new payment system it seems tips are being rolled into base compensation. One screenshot shows a $12.54 total payment for two orders from Costco — $10.67 of it made up of tip.
+- The mystery behind the algorithm’s calculations has been one of the most frustrating parts of the recent changes because it makes them hard to dispute, shoppers say.
+- “It’s a black box; no one can figure it out,” said Shelley, 68, a Chicago shopper who asked that her last name not be used for fear of being deactivated by the platform.
+- Shelley, a life coach who started shopping for Instacart two years ago to help make ends meet, drives to the North Shore to make deliveries. She used to accept 100 percent of orders, but since the recent change, she takes just 45 percent of them, as the pay for some is “insulting,” she said. Her weekly earnings have dropped from between $350 and $400 for 35 hours of work to $200 to $300 – and on her worst weeks she’s averaging $5 an hour.
+- “I wake up with panic attacks every day; I start getting scared and adding up my bills for the week,” said Shelley, who said she lost her savings in a prior failed business venture.
+- Shelley hopes Instacart improves the pay because she likes the work. She gets to see different parts of town, and lifting bags has kept her in shape.
+- “Most women my age, their arms wobble like wings,” she said. “I have good triceps. It’s definitely a perk.”
+- aelejalderuiz@chicagotribune.com
+- Twitter @alexiaer
+- Copyright © 2023, Chicago Tribune
+
+URL: https://www.fastcompany.com/90300962/reeling-from-algorithm-glitch-instacart-institutes-3-minimum-fee-for-drivers
+- Please enable JS and disable any ad blocker
+
+URL: https://www.vox.com/2019/2/6/18213872/gig-economy-instacart-tip-theft-contract-workers
+- Workers are demanding a fair wage, not just fair tips.
+- Last week, Instacart — the most popular app for delivering groceries to people’s houses in the US — received widespread criticism for allegedly denying their shoppers their hard-earned tip money.
+- It started when one Instacart shopper shared a receipt that seemed to show that the company was eating into his $10 tip and using that money to help subsidize the worker’s pay, netting him only 80 cents in base pay on a delivery. First, Instacart denied any accusations of tip theft, calling that shopper’s situation an “edge case” and a “glitch” in the company’s new pay model, which it says is designed to reward shoppers more fairly.
+- But that didn’t help explain the dozens of other similar cases workers shared online with screenshots of their pay stubs — or Instacart’s history of issues with worker pay. Today, the company agreed to change its policy to increase the minimum pay to workers for deliveries, separate that pay from designated tip money, and compensate workers who saw their tip funds redirected.
+- In a blog post released today, Instacart CEO Apoorva Mehta apologized for the ordeal over workers’ tips, “While our intention was to increase the guaranteed payment for small orders, we understand that the inclusion of tips as a part of this guarantee was misguided.”
+- Instacart isn’t alone in accusations of mishandling its workers’ tips. Other tech-enabled gig economy companies, including DoorDash, have been accused of similar practices.
+- Whether or not these companies are or have been intentionally misusing their workers’ tip funds, the public outrage brings to light a deeper issue: Many workers in the new on-demand app economy are not being paid a consistent living wage. Tip theft might be one of the ugliest and most blatant potential cases of gig worker exploitation, but the reality is that even when gig economy workers get their tips in full, many of them are being paid far below what we would consider a decent minimum wage — by some estimates less than $10 an hour after expenses — for jobs that sell workers on a promise of making much more.
+- For too long, companies like Instacart, Uber, and Lyft have fallen back on the same explanation for these cases: Most of their workers enjoy the flexibility of their jobs, and most of them do it only part-time for supplemental income and are doing it well. It’s the complainers who aren’t doing it right.
+- If drivers pick up enough riders or if shoppers buy the groceries faster, they would make more, or so the argument goes. But for many workers it isn’t that straightforward. As the Instacart example shows, a series of algorithms that go into complex pay-rate models often dictate worker pay. While some companies, including Uber, are trying to do a better job of making their pay rates clear, they’re still not as simple as an hourly pay rate. And unlike a traditional job, if you think you’re not getting paid enough, there’s no manager to talk to. You can’t ask a formula for a raise.
+- A growing number of ride-sharing drivers and grocery delivery workers are increasingly frustrated and are asking for a more concrete response than most tech companies are willing to give their gig workers: They want a guarantee of higher wages.
+- “I’ve worked for several apps off and on — dog-walking, house-cleaning, grocery shopping,” said Ashley Johnson, 30, a former veterinary assistant and single mother who turned to gig economy work because it offered her the flexible hours she needed to raise her child. “This is the first time I’ve been trying to do apps full-time, and it is crazy — because I’m still not making bills, even though I’m working three shifts in a day.”
+- Johnson is one of the thousands of people who are petitioning Instacart to pay their shoppers more, among other demands. She says that while she is turning to other delivery apps like Shipt, which she says pays its workers a better rate, the reality is that where she’s from — a small town in Washington state — there are not enough customer requests for deliveries to make it a full-time job. Johnson said that’s because Instacart’s groceries are more affordable and more popular with customers.
+- In response to the criticism around Instacart’s pay practices, some consumers are cancelling their subscriptions, or tipping the delivery workers in cash and putting only 22 cents on the bill as a form of protest. And many Instacart users have backed up workers in their complaints by voicing their support online. But, according to many labor experts, customers can’t be relied upon to enforce wage standards.
+- “Generally, consumers want to pay less and employers want to pay less, that’s why we have a baseline. That’s why we have regulation,” said Rebecca Givan, a professor of labor studies and employment relations at Rutgers University.
+- New York City recently implemented a first-of-its-kind wage floor of $17.22 an hour, plus expenses, for ride-sharing drivers — a kind of minimum wage per trip — which is expected to bring an increase of nearly $10,000 per year to full-time drivers. Lyft and Juno decided to sue the city over these new pay rules, saying that the way it was designed would benefit Uber, their larger competitor. Lyft says it will pay drivers the same amount on a weekly basis instead of per trip. Regardless of disputes over the mechanics of the New York City wage-floor rollout, it’s a historic move that will force companies to give their drivers a predictable living wage.
+- Lyft and Uber have said this will result in higher fares, but they haven’t said by how much. According to Lyft, there could be other consequences, such as Uber taking more market share; ultimately, a monopoly would not be good for drivers and riders alike.
+- Setting those concerns aside, if the New York wage floor turns out to be successful, it could serve as a model for other cities.
+- “A lot of local governments are likely to be watching how the New York minimum wage experiment plays out,” said Arun Sundararajan, a professor of business at NYU who studies the gig economy. Sundararajan also cautioned that the “devil is in the details” with rolling out these kinds of regulations.
+- In California, lawmakers are trying to pass legislation that would codify a court ruling forcing gig economy companies to reclassify their workers as employees — which would mean they have to pay the baseline local minimum. In some major cities, including San Francisco, that minimum wage can be as high as $15 an hour. Tech companies including Uber, Lyft, Instacart, DoorDash, Postmates, and others have actively lobbied against such a decision, writing in a joint letter that it would “decimate businesses.”
+- Aside from legislative threats, there’s also ongoing pressure from the workers, who are increasingly partnering with worker advocacy groups like Working Washington that helped propel the 80 cent Instacart pay stub into the public discussion.
+- The outrage over alleged tip theft at Instacart will likely pass, as the company’s previous issues with workers have. As Instacart is on its way to an expected multibilllion-dollar IPO this year, in the eyes of investors, this may end up being nothing more than another minor blip on the record of an otherwise successful business.
+- But as long as there’s a deepening income divide in the US and an increasingly two-tiered labor system, the long-term fight over worker pay at tech companies that rely on low-paid contract labor will continue. While tech company contract jobs make up a relatively small percentage of all contract jobs across other industries, the tech company gigs are some of the most visible because they are the newest and fastest-growing, and because of the relative obscurity around how they calculate their workers’ pay.
+- There’s also an expectation that the technology sector bears more responsibility than its peers because it helped create the automation that has contributed to a wider gap between high- and low-paying jobs.
+- Companies like Instacart would be wise to start figuring out a better response than calling serious questions about worker pay a “glitch.” It needs to come up with a plan for handling one of the key economic issues of our time around contract worker pay before more places like New York and California end up figuring it out for them.
+- This article originally appeared on Recode.net.
+- Explanatory journalism is a public good
+- At Vox, we believe that everyone deserves access to information that helps them understand and shape the world they live in. That's why we keep our work free.   Support our mission and help keep Vox free for all by making a financial contribution to Vox today.
+- $95/year
+- $120/year
+- $250/year
+- $350/year
+- We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+- Each week, we explore unique solutions to some of the world's biggest problems.
+- Check your inbox for a welcome email.
+- Oops. Something went wrong. Please enter a valid email and try again.
+- Filed under:
+
+URL: https://www.nytimes.com/2019/02/06/technology/instacart-doordash-tipping-deliveries.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.theverge.com/2019/2/6/18214335/instacart-reverse-controversial-pay-policy-tip-stealing
+- By  Andrew J. Hawkins, transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work has appeared in The New York Daily News and City & State.
+- Instacart is reversing its controversial pay policy after an angry response from delivery workers and customers said that the Silicon Valley company was stealing tips.
+- In recent days, both Instacart and DoorDash have come under fire after admitting to using customer tips to subsidize minimum payment guarantees to delivery workers. The drama started last November when Instacart put a new payment policy into effect that gave delivery workers a single, itemized “earning estimate,” and guaranteed them a $10 minimum payment for each batch they accepted.
+- But delivery workers soon noticed that some of their tips that customers added during checkout were being counted toward the $10 minimum. Delivery workers, also known as “shoppers,” began complaining about huge drops in weekly earnings.
+- tips were being counted toward the $10 minimum
+- In a blog post on Wednesday, Instacart’s founder and CEO Apoorva Mehta admits to having “fallen short” with the new policy. “These changes were designed to increase transparency while also keeping pace with a rapidly-evolving industry,” Mehta wrote. “In doing so, we’ve tried, in good faith, to balance those needs, but clearly we haven’t always gotten it right.”
+- Going forward, Mehta says that tips will always be kept separate from Instacart’s minimum payment guarantees, and that the company would retroactively compensate delivery workers when tips were included in minimums.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.buzzfeednews.com/article/carolineodonovan/after-scrutiny-instacart-will-end-its-controversial-tipping
+- The company’s decision to stop using customer tips to cover a guaranteed pay minimum for delivery workers follows an organized labor campaign and pressure from elected officials.
+- BuzzFeed News Reporter
+- Instacart will change a controversial tipping policy, the company told BuzzFeed News on Wednesday.
+- The policy, which attracted the ire of both its delivery workers and customers, meant Instacart used customer tips to subsidize the $10 per delivery minimum payment the company guarantees its workers, BuzzFeed News and other outlets reported earlier this week.
+- In an email to its delivery workforce that BuzzFeed News reviewed, Instacart CEO Apoorva Mehta apologized for its tipping policy, which it introduced as part of a larger rehaul of its payment algorithm at the end of 2018.
+- “Based on your feedback, today we’re launching new measures to more fairly and competitively compensate all our shoppers,” Mehta wrote. “Tips should always be separate from Instacart’s contribution to shopper compensation.”
+- Instacart also said it will compensate workers affected by the previous policy. “For example, if a shopper was paid $6 by Instacart, to compensate for our mistake, he or she will receive an additional $4 from Instacart,” Mehta wrote.
+- “Customer tips will no longer have any impact on Instacart’s contribution to shopper earnings,” the email continues. “With an average tip of $5, our customers regularly recognize shoppers with tips for the services they provide. We believe that with these changes customers will continue to be able to recognize great service and have full confidence that their tips are going to the shopper who delivered their order, with no impact whatsoever on what the shopper receives from Instacart.”
+- In addition, Instacart also said it would adjust the minimum pay per delivery to between $7 and $10 for deliveries for which the driver buys and delivers the groceries, and $5 for delivery-only jobs. Previously, Instacart guaranteed $10 per delivery, but sometimes included customer tips in that amount.
+- DoorDash, a startup that delivers food from local restaurants, has a similar tipping policy to the one that Instacart is canceling; a spokesperson for DoorDash did not immediately respond to a request for comment.
+- Instacart’s decision follows an labor campaign against the policy organized by the Working Washington nonprofit. On Tuesday, California Rep. Ro Khanna told BuzzFeed News that he, as an Instacart customer, found the policy deceptive.
+- "Instacart finally admitted they’ve been taking tips. They finally admitted that 80¢ isn’t enough. And workers even won backpay for the tips that were taken," a spokesperson for Working Washington said in a statement. The organization said it would continue to pressure Instacart to be more transparent about how it determines workers' pay.
+- To Our Shopper Community:
+- Every day, millions of people entrust Instacart to help get the food they need to feed their families and get back valuable time to spend with their loved ones. By delivering to and for our customers, you’ve become household heroes for millions of families across North America. This past week however, it’s become clear, that we’ve fallen short in delivering on our promise to you.
+- 
+- As you know, we’ve made changes to our shopper earnings model over the last year. These changes were designed to increase transparency while also keeping pace with a rapidly-evolving industry. In doing so, we’ve tried, in good faith, to balance those needs, but clearly we haven’t always gotten it right.
+- 
+- As a company, we remain committed to listening and putting our shoppers more at the forefront of our decision making. Based on your feedback, today we’re launching new measures to more fairly and competitively compensate all our shoppers. As part of this, our earnings approach moving forward will adhere to the following:
+- 
+- Tips should always be separate from Instacart’s contribution to shopper compensation
+- All batches will have a higher guaranteed compensation floor for shoppers, paid for by Instacart
+- Instacart will retroactively compensate shoppers when tips were included in minimums
+- Below are details on each new element of shopper earnings, which we will be rolling out in the coming days.
+- 
+- Tips Should Always Be Separate From Instacart’s Contribution to Shopper Compensation - After launching our new earnings structure this past October, we noticed that there were small batches where shoppers weren’t earning enough for their time. To help with this, we instituted a $10 floor on earnings, inclusive of tips, for all batches. This meant that when Instacart’s payment and the customer tip at checkout was below $10, Instacart supplemented the difference. While our intention was to increase the guaranteed payment for small orders, we understand that the inclusion of tips as a part of this guarantee was misguided. We apologize for taking this approach.
+- 
+- All Batches Will Have a Higher Guaranteed Floor for Shoppers, Paid by Instacart - We’re instituting a higher minimum floor payment from Instacart on all batches. Today our minimum batch payment is $3. Depending on the region, our minimum batch payment will increase to between $7 and $10 for full service batches (where a shopper picks, packs and delivers the order) and $5 for delivery only batches (where a shopper delivers the order after a separate person picks the groceries). These increased batch floors will be consistent for all shoppers within a particular geographic area. In addition to the higher guaranteed floors, Instacart will also pay a quality bonus and peak boosts for orders that qualify. Any tips earned by shoppers will be separate and in addition to Instacart’s contribution.
+- 
+- Instacart Will Retroactively Compensate Shoppers When Tips Were Included in Minimums - Over the coming days, as we transition to the new higher minimum floor payments, we will make you whole on the transactions that have occurred since the launch of this feature. Specifically, we will proactively reach out to all shoppers who were adversely affected by instances in which Instacart’s payment was below the $10 threshold. For example, if a shopper was paid $6 by Instacart, to compensate for our mistake, he or she will receive an additional $4 from Instacart.
+- 
+- In creating these changes to improve, enhance and create clarity for shopper compensation, these new measures will do the following:
+- 
+- 1. Better protect shoppers from smaller, outlying batches. We heard loud and clear the frustration when your compensation didn’t match the effort you put forth. As we looked at some of the extreme examples that have been surfaced by you over the last few days, it’s become clear to us that we can and should do better. Instacart shouldn’t be paying a shopper $0.80 for a batch. It doesn’t matter that this only happens 1 out of 100,000 times - it happened to one shopper and that’s one time too many. We believe that these new guaranteed floor minimums will better protect our shoppers going forward.
+- 
+- 2. Customer tips will no longer have any impact on Instacart’s contribution to shopper earnings. With an average tip of $5, our customers regularly recognize shoppers with tips for the services they provide. We believe that with these changes customers will continue to be able to recognize great service and have full confidence that their tips are going to the shopper who delivered their order, with no impact whatsoever on what the shopper receives from Instacart. As always, shoppers will receive 100% of their tips, regardless of the batch compensation.
+- 
+- 3. These changes will increase Instacart’s overall contribution to our shopper’s earnings and we believe that the change in tip structure will separate Instacart from an industry standard that’s no longer working for our shoppers and our customers.
+- 
+- Finally, I want to thank you for your feedback. It’s our responsibility to change course quickly when we realize we’re on the wrong path and we believe today’s changes are a step in the right direction.
+- 
+- Apoorva Mehta
+- 
+- Founder & CEO of Instacart
+- BuzzFeed News Reporter
+- Contact Caroline O'Donovan at caroline.odonovan@buzzfeed.com.
+- Got a confidential tip? 👉 Submit it here
+
+URL: https://www.vox.com/the-goods/2019/5/14/18566237/instacart-shopper-tip-grocery-delivery-payment
+- An interview with an Instacart shopper who says the company’s “frustrating” practices have left her with 30 percent less income.
+- For busy parents, working professionals, and homebound populations like the elderly, Instacart can feel like a godsend. Customers place orders through the company and can have items from stores like Costco, Whole Foods, Kroger, Petco, and CVS delivered straight to their doorsteps.
+- Instacart has made schedules much more manageable, turning into a multibillion-dollar venture along the way. Founded only seven years ago, Instacart now makes about $2 billion a year in revenue, according to a recent Forbes estimate; it’s credited with changing the grocery industry forever, and CEO Apoorva Mehta is celebrated as a top tech executive after founding 20 failed startups.
+- Instacart’s success is dependent on some 70,000 independent contractors the company calls “shoppers” who purchase and deliver groceries. Like their peers in the gig economy, they aren’t guaranteed minimum wage or overtime. One recent study even found that most of them aren’t making minimum wage before tips, though Instacart disputes these kinds of calculations.
+- Back in February, the company was the subject of widespread outrage after it was reportedly found guilty of tip theft; the company was applying tips to worker baseline pay, as opposed to letting them keep tips as extra pocket cash. The company publicly apologized and announced that Instacart would be paying its shoppers more “fairly,” with a new pay structure that included increasing its minimum baseline payment on orders from $3 to between $7 and $10 (though the company did not clarify what would put a shopper on one end of the range versus the other).
+- But some claim the company’s pay structure has only gotten worse. Recently, I spent some time talking to Kris, a 53-year-old former paralegal who works as an Instacart shopper in Seattle. Kris explained the routine of an Instacart shopper, how she believes the startup is making it harder to earn money, and why she believes it rarely has the best interest of its workforce in mind. Our interviews have been edited and condensed for clarity.
+- In response to this conversation, a spokesperson from Instacart said that the company “values our community of over 70,000 dedicated shoppers and are committed to improving the Instacart shopper experience. While there’s more work to do, we’ve begun turning feedback into actionable changes for shoppers. The voice of the Instacart shopper community plays an integral role in shaping our product and we look forward to continuing to have an open dialogue with shoppers to deliver the best possible experience.”
+- When did you start working as an Instacart shopper?
+- A few years ago, I was diagnosed with an autoimmune disease, which prevented me from working a regular job. I needed flexibility, and saw an ad for Instacart. I know the company has been around for a while, but it feels like it’s only been really big in Seattle over the last year. I started in January of 2018.
+- My goal is to be able to make $100 a day, in order to support myself. I used to be able to pull that off by working about four hours, four days a week, but Instacart changed its pay structure a few months ago and these changes have affected us poorly. Now it takes about six days to make that.
+- What’s it like to grocery shop for other people?
+- I shop for them the way I would shop for myself. I think of it as a personal luxury shopping service, so I am checking the dates on the bread and milk, looking for the best produce, and making sure I find all of the special requests. I think there’s a lot of work that goes into this job that people don’t think about. All produce, for example, has to be bagged and weighed, so you are constantly working with a scale to make sure everything is accurate. We also spend a lot of time waiting on lines at the deli, or at the fish counter.
+- Are there any rules of grocery shopping that are unique to Instacart?
+- One big one is to not give the customer the receipt. You can actually get deactivated if you do. They are marking up products so that Instacart can make a profit as a third-party vendor, and customers get Instacart receipts emailed to them. The company doesn’t want us giving customers the grocery receipt because then everyone would see the real costs. We also have to take off all stickers that reveal any sales or prices, like a buy-one-get-one.
+- [Instacart told Vox the price discrepancies are easy to find in its app.]
+- How does your current payment structure with Instacart work? Are you getting paid per item?
+- No, we used to get paid like that. We’d make a 40-cent commission on each item. But in November, Instacart changed the system so we now get paid via a batch payment.
+- It’s become really confusing. We don’t know how our payments are calculated, other than the fact that Instacart gives us a $7 to $10 baseline, and then some payment that’s supposed to cover the costs of mileage from a store to a customer. Instacart says our payments are based on some sort of algorithm, but they aren’t transparent with us and none of us know how the payments work.
+- Can you walk me through a breakdown of an order?
+- Sure. The other day, I picked up an order that paid me $25.02. Instacart covered $20.99 and then the customer tipped me $4.03. The order included cases of water and soda. I know the baseline pay was $7 to $10, but I have no idea how they calculated the rest of the pay.
+- Instacart’s payment system, in general, is pretty frustrating because sometimes the payments can be really high, and sometimes it can be really low. It’s become pretty unreliable, and a lot of us feel like Instacart is playing games with our income so that the company can keep the profits.
+- [Instacart said its payment system was redesigned “to improve, enhance and create clarity around shopper compensation. The new minimums better protect shoppers from smaller, outlying batches and the changes increased Instacart’s overall contribution to shopper earnings.”]
+- How do you feel like the company is playing games with your income?
+- A good example is how Instacart moved from commission-based payments to batch payments with multiple orders in each batch. Recently, for example, I went to Kroeger’s for an order, and I got a batch payment with somewhere between $7 to $10 as a baseline. There were two different customer orders on the batch, though. So I had to run around for customer A’s order, and then do customer B’s shopping list. Really, my baseline pay should be $14 to $20 because it’s two orders, but Instacart has lumped them together when you are going to one store. I’ve done triple batches too. Instacart just never has our best interest in mind.
+- [Instacart told Vox that while the $7 to $10 baseline pay applies to multi-order batches, “shoppers have an opportunity to get additional pay through boosts earned for each order in the batch, as well as customer tips from each individual order in the batch.”]
+- Do they offer any incentives for you to make extra money?
+- They do, but those have also been harder to come by. I’m in a lot of [social media] groups for Instacart shoppers, and we all agree that since the chaos happened in February, things have actually gotten worse. Personally, my income has fallen 30 percent.
+- Instacart used to give you $3 extra if you got a five-star bonus from a customer, but the place to leave reviews has recently become harder to find. I’ve confirmed this with my customers. Unlike the Uber app, which has an automatic pop-up window for the customer to review the driver, shoppers have to go through multiple steps now to leave a star-rating. I believe that this is on purpose. Anything that costs Instacart money, they make sure the app works in their favor.
+- We also noticed that the tip was magically moved to 5 percent as a default setting which, quite honestly, does not cut it for this job. Not that it matters: Our tips are still disappearing. I have seen with my own eyes, and I believe Instacart is keeping them.
+- [Instacart said it offers “several additional opportunities to earn money” like “peak boosts” that give shoppers bonuses for working during busy times, as well as “heavy order payments.”]
+- I’ve asked Instacart about keeping tips, and the company denies this is happening.
+- Instacart is not being transparent with us. As shoppers, we have no idea if we are getting the full tips or not. We don’t get notifications if the tip has been increased after the delivery. We just have to believe Instacart, and this is a company that has caught underpaying tips before and had to pay out [a settlement in a class action lawsuit].
+- Us Instacart shoppers have seen our tips go down significantly, and we just assume the company is taking it. I absolutely believe they are still pocketing our tips, and I’m not the only one. I’m in groups on Reddit, and Facebook, and a few local ones in Seattle, and this has happened to many of us. I’ve spoken with Instacart shoppers who have watched their customer’s phones when they’ve sent a $15 tip. It will be confirmed on the customer’s phone, but the Instacart shoppers will still only get a portion of it.
+- What was the reaction when the company said they were going to start treating shoppers better?
+- We all rolled our eyes. It looked like one giant publicity show to us because Instacart has actually gotten rid of ways that we can earn more.
+- There used to be a club bump, where you could get $5 for shopping at Costco or Sam’s Club, and that’s gone. There used to be a bump for spending more than $200, but now that’s gone. We also used to have a long distance bump for driving more than 14 miles, but that’s gone too.
+- Honestly, that whole episode felt like a punishment to us Instacart shoppers because we had asked for a little bit of transparency, and that makes sense for Instacart, since the company builds punishment into the system.
+- How are workers punished?
+- If you decline an Instacart order, they’ll have you sit for 20-30 minutes until they’ll find you a new job. We joke that it’s a “time out” for turning down a job. The algorithm penalizes shoppers who turn down orders.
+- Instacart also has this demerit system called reliability incidents. You have to give the company six hours’ notice if you are going to back out on the number of hours you sign up for, and if you don’t, you get a reliability incident. After you get four reliability incidents, you are only able to select certain hours. On Sunday, Instacart hours unlock for the week, so I can make my schedule ahead of time. With enough reliability incidents, though, they only unlock one day ahead, so it’s essentially a punishment. This doesn’t really seem fair, given that we are independent contractors.
+- [Instacart told Vox that “reliability incidents are put in place to ensure we can offer a consistently beneficial experience to both our customers and our shoppers.”]
+- What would a better Instacart payment system look like for you?
+- Most of us want Instacart to be paying us on a commission system again, but where we are paid per unit — not item, unit. A unit, for Instacart, is how many of an item a customer wants. If they order four 2-liter bottles of Coke, that’s one item, four units, but the commission was only paid on the item, which is the Coke. If a customer ordered 15 apples, we wanted 40 cents per apple because there’s labor into picking all that, but they paid us 40 cents when someone ordered apples, not paid per apple.
+- I also think they should be creating more ways for us to make money, not taking away our bonuses. There should be more incentives for us to work and make more, just like the way they punish us when we don’t.
+- Lastly, we want tips to be totally separate from Instacart payments. We don’t like that we’re sent jobs where the company gets their hands on our tips.
+- What parts do you enjoy about the job?
+- I really love getting to know the staff at grocery stores. In Seattle, a lot of stores are hiring refugees and people with disabilities, and it’s a great opportunity to get to know them because when you’re a shopper, you see them every day and develop connections.
+- I also love seeing the populations who need this type of service. I love delivering to parents that have small babies, and I deliver to a lot of sick people, and people with disabilities who live in group homes. I also love my elderly customers, because for a lot of them you are the only social interaction they are getting, so I try to make it meaningful. There’s one elderly woman who I’ve shopped for a few times who lives in an assisted living facility, and I delivered her groceries last year right before Thanksgiving. I picked up a slice of pumpkin pie for her because I know she lives alone and you can’t have Thanksgiving without pumpkin pie! Interactions like that make the job feel really fulfilling.
+- What do you dislike?
+- I hate that we don’t get compensated for our wait time. Uber, for example, pays drivers who wait on riders, but I can be leaning on a buzzer for 20 minutes before someone will let me in. Seattle has a lot of buildings where you can’t get up to floors without key access, and so I can sometimes spend almost two hours a day waiting on people to come get their order.
+- I also don’t like that the company doesn’t take into account difficult parts of the job, like if there are a lot of stairs. I’m dragging huge orders from Costco to houses on hills with a lot of stairs and it’s a hazard that I’m just expected to deal with. Instacart also doesn’t take into account weather issues, which is a big deal in Seattle. Even when it snows here, they are expecting us to deliver to customers as usual. I’ve been to houses where nobody has cleaned the driveway or sidewalks, and have had to carry watermelons through the snow. To Instacart, that just isn’t a big deal.
+- Who are the worst tippers?
+- Rich tech people. This city is basically consumed with people who work for Amazon, Microsoft, and Google, and they tend to congregate in certain neighborhoods that I deliver in. A lot of them work from home, and so I see them. They are always on conference calls, and telling me to just leave their stuff at the door. The human interaction is limited to basically nothing, and so they don’t feel like they have to tip me much. They will order 60 bottles of expensive kombucha and organic green onions with comments like how I have to make sure I’m buying them ones that are two inches thick, but then they tip me $2.
+- I don’t think people understand the terms of this job, and it bothers us that Instacart’s automatic options for a tip is 5 percent, or no tip at all, considering that [as independent contractors] we supply our own vehicles and bear all the expenses. A tip could be the difference in a gig worker making rent, paying for school or medical or something really important in their life.
+- What do you want people to know about your job at Instacart?
+- People think we are just packing up bags, which can be done by a machine. It can’t be. We are looking for parking, moving around the store, weighing and bagging stuff, waiting on line, paying, driving to customers, and unloading. Our grocery shopping is being tailored very specifically to you and your family, and it requires not only a lot of personal handling, but is saving you the time and difficulty of driving, parking, loading, and unloading. I think the human factor of this job is totally discounted.
+- Explanatory journalism is a public good
+- At Vox, we believe that everyone deserves access to information that helps them understand and shape the world they live in. That's why we keep our work free.   Support our mission and help keep Vox free for all by making a financial contribution to Vox today.
+- $95/year
+- $120/year
+- $250/year
+- $350/year
+- We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+- Each week, we explore unique solutions to some of the world's biggest problems.
+- Check your inbox for a welcome email.
+- Oops. Something went wrong. Please enter a valid email and try again.
+- Filed under:
+
+URL: https://www.thedailybeast.com/instacart-workers-sick-of-being-screwed-by-the-algorithm-gear-up-for-strike
+- SEARCH
+- Tip cuts and a mysterious new pay system have pushed Instacart “shoppers” to organize a strike through Facebook groups.
+- Reporter
+- When she started working for Instacart two years ago, Heidi Carrico typically made between $600 and $900 each week from the grocery-delivery app. That was several app updates ago.
+- “My income has fallen by at least 50 percent, likely more,” Carrico, a Portland, Oregon-based Instacart shopper, told The Daily Beast. “I’d have to really sit down and crunch the numbers. It’s a good week if I make $300.”
+- Tip cuts, a mystifying new algorithmic pay system, and longer driving distances mean Carrico is working fewer hours for Instacart and making less money per hour, she said. And she’s not alone. From Nov.  3 to 5, Instacart workers nationwide are going on strike to protest what they say are worsening working conditions. It comes on the heels of strikes by rideshare app drivers and unionization efforts by workers for food delivery apps across the world.
+- These gig workers don’t have centralized factory floors where they can organize. Many can’t even unionize in the U.S. because their companies classify them as contractors, not employees. But through a rolling series of strikes, these workers are determined to make the gig economy work for them.
+- It’s an ad hoc labor movement, led by workers without formal unions. Sometimes that means trial-and-error protests as workers test their collective bargaining power. The upcoming Instacart strike will be at least the fourth time its workers have protested changes to the platform.
+- “Sometimes we get what we want and sometimes we don’t,” Sarah Clarke, an Instacart shopper based in Silicon Valley, California said. “The first strike we ever did, for example, is when they completely removed tips. We did a strike and they were like, ‘Fine, we’ll add the tips back.’”
+- Instacart works by letting customers order their groceries online or through an app. The company then matches the order with a nearby Instacart worker (called “shoppers”) who goes to the store, picks out groceries, and delivers them to the customer. But the company has continuously tinkered with its payment model since its 2012 founding. Where it used to pay workers 40 cents for each item on the grocery list, plus a delivery fee, now it computes payment by an algorithm, which some workers claim is deliberately opaque.
+- “We have no idea. There’s no rhyme or reason for it,” Sandra Wiggins, another Portland-based Instacart worker said. “Instacart claims there’s an algorithm that’s used and it’s a learning algorithm that takes into account all kinds of different factors including things like distance, time of day, the market, the items being shopped and whether they’re difficult in some way—because some items are more difficult than others, for example, picking out produce. There’s a huge list of things that goes into how they compute a batch payment offer. Again, it doesn’t really add up to something logical. It looks very arbitrary.”
+- Wiggins, who typically shops with Instacart for about eight hours a week, said she’d seen the upper range of her pay drop from about $250 a week to $160 since Instacart rolled out the algorithmic pay model. But strikes aren’t always successful. When workers organized against the new pay structure, they won few victories.
+- “The last one we had was when they totally fucked up our pay and switched everything around and got rid of the item commission and the batch incentive,” Clarke said, referring to the per-item payment structure and a base delivery fee. “We gave them a list of I think seven reasons we were striking, and we pretty much didn’t get any of them. This time we’re going back to the basics of only asking for one thing.”
+- When Instacart workers go on strike in November, they’ll be demanding the return of a 10-percent tip recommendation on the app. Previously, the app automatically suggested a 10-percent tip. Now it automatically recommends a 5-percent tip, with a $2 minimum—and some Instacart workers say they’re not even receiving that.
+- “I’ve seen defaults come in at like $1.98 and I know darn well nobody is going in and typing $1.98 for a tip,” Carrico said. “People can be jerks but people aren’t that cruel. So I don’t think the default of 5 percent or $2 is consistent.”
+- Vanessa Bain, a Silicon Valley-based Instacart worker who has seen her pay drop over nearly four years, said the new tipping recommendations have “started conditioning their customers to tip less and less… From a material standpoint, we’re scraping by on a fraction of what we used to make.”
+- Asked about the upcoming strike, Instacart said the company “take[s] the feedback of the shopper community very seriously and remain committed to listening to and using that feedback to improve their experience.”
+- Instacart’s strike won’t look quite like the ongoing strike of teachers in Chicago, or the recent strike by General Motors employees across the country.
+- Since Instacart shoppers lack a centralized workplace, they plan to jam the Instacart app, Vice first reported. Depending on the risk workers are willing to take on, participating workers will either turn off their apps, cancel orders, or accept orders and then let them time out. Between the lack of shoppers on the platform, and the mass cancellations, Instacart workers hope to throw the app into disarray and pressure Instacart into restoring their old tipping policy.
+- Erik Loomis an associate professor of history at the University of Rhode Island, said the strategy might work, precisely because Instacart doesn’t employee any full-time workers to replace the strikers.
+- “Because these workers personally control so much of this Instacart system, by cancelling orders they can actually raise a lot of havoc, if they have a decent number of people,” said Loomis, who studies American labor movements. “Giving a company that kind of bad publicity very well may lead to a solution to this problem.”
+- The General Motors and Chicago teachers strikes were backed by unions, which many gig workers can’t join because their companies do not classify them as full employees.
+- “When you’re organizing contractors, there’s a fine line you’re walking between what could be considered a violation of antitrust law and organizing,” Bain said. “I think it highlights our need for enhanced and greater workplace protection because these jobs really need to be organized. These platforms have engaged in what feels like perpetual warfare against their workers.”
+- The lack of employee status can make protesting difficult, but not impossible, Loomis said.
+- “That’s not the only method of collective power,” he said of traditional union-backed strikes. “There are, one might argue, some advantages to being outside that system of power because it frees you up. The things that restrict you under a traditional union election don’t apply here.”
+- Certain demonstrations like sympathy strikes, for example, can land union workers in legal trouble, while non-unionized workers have more flexibility to protest.
+- The lack of a centralized workplace, like a school or a factory, has also forced app-based workers to innovate. Much of Instacart’s upcoming strike has been organized through a Facebook group for Instacart workers across the country. Those strike plans then spread outward to smaller groups for Instacart workers in a specific region.
+- But not all Instacart workers are in the groups, which limits the organizing efforts. “I think the count is 70,000 shoppers in the country (that’s an old count) but there’s only about 14,000 of us in the national group, so there are a lot that don’t even know about this,” Carrico said.
+- To spread information, strike participants are encouraged to follow the “five-person rule”: tell five other Instacart shoppers about the upcoming protest. Carrico said she’s taken to carrying flyers about the demonstration for other workers when she goes to the store.
+- Drivers for Lyft and Uber have also relied on Facebook while coordinating strikes this year said Brian Dolber, an organizer with Rideshare Drivers United. The group helped organize a strike in April, and a particularly high-profile strike of Uber drivers the day before Uber’s entry on the stock market this May.
+- “What we’ve done is pioneered a hybrid digital and IRL approach to organizing,” Dolber said “Because there is no real central location where drivers interact, we’re working with an app developer.” The group uses Facebook to reach out to drivers and direct them to its app where, in an inversion of how Uber and Lyft typically operate, drivers can strategize ways to stop work.
+- “That’s been an enormously helpful approach in bringing together an organization and having people interact in real life through meetings and ultimately organizing the strikes we built in the spring,” Dolber said.
+- A successful campaign will be a numbers game.
+- “If everyone actually tells five people, then we know we’re gold,” Clarke said. “We know it’ll work.”
+- Carrico estimated that approximately 75 percent of Instacart shoppers in her local Facebook group support the strike, “but there’s enough people blowing back. And some of their concerns are valid. I understand the ‘We want Instacart to pay more. This shouldn’t be shoved off on customers,’” she said
+- “That’s a valid argument, but the reality of our service industry culture is that employers—or whoever it is that contracts us—pays low and tipping is expected,” she continued “Until we change that, fighting for it is kind of like swimming against the tide.”
+- But Instacart workers won’t know just how far their movement has spread until Nov. 3, when their colleagues across the country either put down the app or keep shopping.
+- “I’m gonna say 30,000 shoppers, if we’re getting the word out properly,” Wiggins said. “And most shoppers are not on the platform full-time, so it’s a very hard number to pin down.”
+- She paused.
+- “I’ll bet you Instacart has it figured out.”
+- Reporter
+- Got a tip? Send it to The Daily Beast here.
+
+URL: https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta
+- Instacart shoppers are, once again, fed up.
+- In a scathing open letter directed at the company's founder and CEO, Apoorva Mehta, a coalition of independent contractors voiced their frustration both with Instacart's pay policies and its tipping structure. And they're doing more than just typing: The gig-economy workers are staging a three-day work stoppage to drive home their concerns.
+- According to the letter, at the time of this writing signed by 212 shoppers, starting Sunday, Nov. 3, and running through Nov. 5, the shoppers — Instacart's term for the independent contractors who fill and deliver grocery orders — will fill no orders. This will be the fourth such work stoppage in four years, and follows on Instacart's much-derided (and later backtracked) changes to its tipping structure.
+- "You have consistently demonstrated your deep-seated disdain for your workers," reads the letter, "you won't even open the door to face those of us delivering your personal orders to your luxe SoMa apartment."
+- At the heart of the disagreement is pay.
+- Namely, the shoppers claim a recent pay cut has dropped their guaranteed pay per "batch" — which one Instacart shopper explained(opens in a new tab) "can include shopping and delivery of up to three separate orders grouped together from a given store" — from $10 down to $7 in almost all markets.
+- "You have demonstrated a pattern of behavior as CEO of eviscerating our pay and pirating our tips," reads the letter — referencing Instacart's past shady policy of using tips in place of pay to meet a guaranteed base pay to shoppers. "It would cost you, Apoorva, absolutely nothing to restore our previous tip defaults to at least 10%."
+- Instacart previously prompted customers to leave a 10 percent default tip. According to the open letter, it no longer does so.
+- We reached out to Instacart for comment on both the threatened work stoppage and the request to restore the default suggested tip to 10 percent. We received no immediate response.
+- Notably, following its February decision to back off the aforementioned controversial policy, competitors like Amazon and DoorDash made no move to change their similar pay structures. DoorDash did, however, eventually back down in August.
+- If its past moves are any indication, it will take significant public outcry for Instacart to make the changes its shoppers are demanding.
+- But hey, if Mehta does end up listening and makes a real change in response, perhaps he'll feel comfortable enough to look his shoppers in the eye the next time he gets a home delivery.
+- Professionally paranoid. Covering privacy, security, and all things cryptocurrency and blockchain from San Francisco.
+
+URL: https://inthesetimes.com/article/instacart-gig-economy-strike-mathwashing-algorithm
+- Instacart is messing with workers’ tips, again. The company’s workers are so fed up hundreds of them are out on strike this week.
+- Instacart—a gig economy company for same-day grocery delivery — has had problems with tipping date back to 2016. At that time, Instacart removed tipping from the app, before being shamed into reinstating a tipping policy the next month. Then, in 2018, the company altered its policy again by counting customer tips toward workers’ guaranteed $10 base pay — leading to situations where customers were paying almost the full base, with little contribution from Instacart. Now, Instacart is taking aim at the default tip amount. When customers finish their Instacart orders, the app had previously suggested a tip of 10%. This was unilaterally discontinued and replaced by a 5% default.
+- In response to the default tip change, Instacart worker and organizer Vanessa Bain penned an impassioned Medium post last month which inspired a walkout of more than a thousand workers demanding reinstatement of the 10% default. Instead of improving conditions in the workplace, their collective action was met with discouraging news. Two days after the walk-out, Instacart slashed workers’ ​“quality” bonus pay — one of the only remaining pay incentives on the app, and an incentive that has been alleged to make up to 40% of the average Instacart workers’ already low income (some estimates put this between 30 and 35%). The company also did not respond to the concerns workers aired in the Medium post.
+- Starting December 16 and extending to December 21, over 300 Instacart workers are expected to strike again to challenge Instacart’s incentive cut, tip default changes, and declining work conditions generally, with events scheduled each day.
+- Amid mounting outrage, Instacart has attempted to deflect criticism by vaguely citing data. ​“During the last year, we offered a new version of the quality bonus and found that it did not meaningfully improve quality,” the company told shoppers over email in November, after the first walkout. ​“As a result, we will no longer be offering the quality bonus beginning next week.”
+- Through this statement, the company blamed unverified, unexplained metrics for the cuts, not its own exploitative model. The metric is presumably based on data, but workers and consumers are never given insight into that data. While the jargon is new, the underlying reality is not: A closer examination reveals this is just a justification for good, old-fashioned exploitation.
+- By what metric does Instacart measure whether an incentive can ​“meaningfully improve” quality? For an improvement to be ​“meaningful,” what quantitative or qualitative factors must be present? Is there a specific ​“quality” that is being measured, and how does it take into account worker quality of life? Furthermore, how does the company justify the gap between its lowest- and highest-paid employees? The average Instacart executive compensation is $279,596 a year — with the most compensated executive making $790,000. In contrast, the average Instacart worker is making between $9.81 and $12.96 an hour.
+- By brushing off worker complaints through references to unexplained data that is available to neither workers nor consumers, Instacart is attempting to utilize an insidious rhetorical tactic: ​“mathwashing.”
+- Coined by tech-entrepreneur Fred Benenson, the term ​“mathwashing” can be used to describe attempts to use math terms like ​“algorithm” to gloss over a more subjective reality. In the case of Instacart, algorithms are being used to justify poor work conditions, since a faceless algorithm is more convenient to blame than the greedy bosses behind the decisions. Benenson is clear in describing why this is a problem.
+- “This habit goes way back to the early days of computers when they were first entering businesses in the 1960s and 1970s,” he stated, in an interview with Tech​ni​cal​.ly Brooklyn. ​“Everyone hoped the answers they supplied were more true than what humans could come up with, but they eventually realized computers were only as good as their programmers.”
+- Though Benenson originally used the term to describe how Facebook’s trending topics were not neutral, but instead manipulated by Facebook’s data engineers, it arguably applies to Instacart and a lot of the ​“don’t blame the bosses, blame the algorithm” language that is common across the gig economy. While other companies like Uber and AirBnb have relied on this rhetoric, however, Instacart is a particularly egregious abuser.
+- Talking with TechCrunch in 2016, CEO Apoorva Mehta relied on jargon and abstract language to defend workers’ low wages. He praised his workers’ ​“NPS score” and noted that wages were ​“not a zero-sum game” because ​“the problem that we’re trying to solve is very hard.”
+- Instacart’s process for deciding how to delegate orders is described by its website as a ​“Stochastic Capacitated Vehicle Routing Problem with Time Windows for Multiple Trips.” In describing delivery scenarios, Instacart’s website discusses using ​“time-based simulations” to replay ​“the history of customer and shopper behaviors with the existing algorithm and the new one.” The section shows colorful graphs and charts that fail to describe most of their variables, including one that simply lists ​“metric” instead of even pretending to have a quantity for measuring efficiency. The language is so loaded with jargon and italics that it is likely inaccessible to the average consumer or worker.
+- While this jargon conveys little, Instacart uses it to market the company’s ​“genius” design. To help readers understand that they are dealing with a company that is much smarter than themselves, Instacart includes a grocery-inspired illustration of Albert Einstein to accompany explanations of its black-box algorithim. Instead of leaving with a sense of awe, however, readers leave with a sense of having participated in a game of smoke and mirrors. The explanation reads less like a helpful primer and more like a desperate attempt to get consumers to believe anything other than the truth. Namely, that the company is the ​“despot” in control of its own algorithm.
+- This is not a marvel of technological innovation. It is a marvel of exploitation. You don’t need an advanced mathematics degree to know the score.
+- Audrey Winn is a trial attorney at the US Department of Labor’s New York Regional Office, enforcing and expanding workplace protections for vulnerable workers. Before joining the DOL, Audrey clerked on the 9th Circuit Court of Appeals and served as a Skadden fellowship attorney working on a coalition between AALDEF, NDWA, and the Model Alliance. Audrey graduated from the New York University School of Law, where she was a Root-Tilden-Kern scholar, executive editor of the NYU Law Review, and a two-time recipient of Peggy Browning Fellowships.
+- Get the whole story: Subscribe to In These Times magazine.
+- Who We Are
+- Investigative Institute
+- Past Issues
+- Privacy Policy
+- Donate
+- Become a Sustainer
+- Bequests
+- Advertise
+- Magazine Subscriptions
+- Gift Subscriptions
+- Customer Service
+- Podcasts
+- Submissions
+- Jobs
+- Internships
+- Reprint Requests
+- Press Inquiries
+- Contact Us
+
+URL: https://www.vice.com/en/article/v7e9gb/instacart-shoppers-will-stage-nationwide-strike
+- A group of Instacart shoppers is calling for a nationwide work stoppage on the grocery delivery app starting on October 16 until the company agrees to a series of demands that would result in higher pay for shoppers.The strike is an escalation of a call made by the same group for customers to boycott Instacart, which workers say has repeatedly ignored their demands.
+- "We know that in order for us to see change, we need to hit Instacart where it hurts," said Willy Solis, a member of the Gig Workers Collective, a grassroots gig worker's organization that is organizing the strike. "We're organizing the walk-off because the company continues to ignore us. Our goal is to get Instacart to engage with us."
+- The customer boycott and the worker-led strike center around the same set of five demands:
+- base pay for each order instead of the current system, which pays workers as low as $7 for batches of up to three ordersa return to a commission-based pay model. Instacart previously paid shoppers 40 cents per item shoppedreinstatement of the 10 percent default tip (it's currently 5 percent)occupational death benefits for workers who die on the joba rating system that doesn't punish workers for low customer ratings that are beyond their control, such as inventory issues at the grocery store
+- The group is asking gig workers who cannot afford to log off the app to decline $7 batches in protest of the low pay. (Batches can include up to three separate grocery delivery orders for as low as $7 in compensation.)
+- A spokesperson for Instacart told Motherboard, “We take shopper feedback very seriously and remain dedicated to listening and learning from our community to improve the Instacart shopper experience. While historically the actions by this group have not resulted in any disruption or impact to our service, our relationship with all shoppers is incredibly important and we’re deeply committed to doing right by them. Based on the ongoing investments we've made to support shoppers, these claims do not reflect the current shopper experience, and in some cases, the demands are for offerings that already exist on the platform. Instacart’s dedicated teams consistently engage with active shoppers through a variety of channels and forums to gather feedback and incorporate it into the Instacart shopper experience.”
+- The spokesperson noted that Instacart has offered shopper injury protection which applies to all of its gig workers in the United States, including for accidental death benefits.
+- In the past the company has stated that worker-led strikes on its platform have had no impact on business.
+- Instacart has stated that its new CEO Fidji Simo has kept an open line for Instacart gig workers to email her about their concerns.
+- But striking workers say they’ve been ignored or received generic emails from Simo, and that she has not responded to a letter the group wrote to her in August voicing their concerns.
+- This spring, Instacart's value doubled to $39 billion, after a round of fundraising, but as demand for grocery delivery services has tanked, as Instacart has also seen a drop-off in sales as the pandemic-demand for grocery delivery has receded. In recent months, Instacart has held talks with Uber and DoorDash about a potential merger, and has been busy fundraising for its IPO, although it could opt for a direct listing and forgo raising money through a stock sale.
+- Meanwhile, Instacart shoppers say they've continued to see their pay drop, arbitrary deactivations rise, and had their ratings (which impact their ability to get good-paying orders) lowered due to supply chain shortages.
+- "Some places are fine, but where I'm at I've seen my pay drop by 70 percent since 2017," Kelly Harris, an Instacart shopper in Steubenville, Ohio who will participate in the strike, told Motherboard. "[I'm in a] very rural and red part of the state. Instacart has people tipping five percent and they think that's fine but it's really not. We're the frontline of their company. They should appreciate us a little more."
+- After each delivery, customers have the opportunity to rate gig workers on a scale from one to five stars. A couple of four star ratings from a customer can tank a gig worker's likelihood of being offered lucrative orders on the app for weeks, multiple workers told Motherboard. (Instacart drops the lowest rating out of every 100 deliveries from shoppers’ ratings.)
+- "Shoppers are being unfairly rated by customers for things that are out of their control such as distribution problems," said Jen, an Instacart shopper and the host of a popular YouTube channel, called Jen-On-The-Go. The channel started off as a guide to earning money on Instacart, and has more recently become focused on Instacart shoppers' grievances. (Jen asked to be identified by her first name only because she feared retaliation from Instacart.)
+- "Through my channel, I realized that shoppers were getting wrongly deactivated, tip baited, and punished for ratings that aren't their fault," she said.
+- As independent contractors, Instacart shoppers do not receive life insurance, healthcare, worker’s compensation, paid time off, or have the right to join unions. Amid a rise in attacks targeting gig workers during the pandemic, including the murder of Instacart shopper Lynn Murray in Colorado in March, Instacart gig workers launched a campaign for occupational death benefits.
+- Jen told Motherboard she will be participating in the strike on October 16, and promoting it on her channel. "I’m sick and tired of seeing honest and hardworking shoppers being penalized, accused, and punished by Instacart," Jen continued. "We’re just trying to get Instacart to pay attention."
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.vice.com/en/article/j5y3q7/instacart-cuts-quality-bonus-after-workers-go-on-3-day-strike
+- Earlier this week, several thousand workers who shuttle groceries on the app Instacart went on a 3-day national strike, demanding the app change it’s default tip from 5 to 10 percent. Yesterday afternoon, in what workers say is a rebuke to their organizing, Instacart declared that it will eliminate a $3 “quality” bonus given to shoppers who receive 5 star ratings from customers.
+- Instacart’s reason for cutting the bonus suggested workers weren’t performing highly enough to deserve it.
+- “[We] found that the [quality bonus] did not meaningfully improve quality. As a result we will no longer be offering the quality bonus beginning next week,” an email Instacart sent to its workers on Thursday and reviewed by Motherboard said.
+- Many veteran Instacart workers rely on the “quality bonus” perk as a significant part of their earnings, which can account for up to 40 percent of earnings, Vanessa Bain, an Instacart shopper from Menlo Park told Motherboard. The minimum wage for each batch is currently set at $7.
+- “The quality bonus was a way to incentivize customer service. The shoppers who’ve done this for a long time know what customers want. They know how to make alterations to an order. These things come with experience, so this really harms the best, longest time shoppers,” Vanessa Bain, a lead organizer of the strike, and an Instacart shopper from Menlo Park, California, told Motherboard. “There’s no doubt in my mind that this is retaliatory.”
+- This isn’t the first time Instacart has cut its shopper’s earnings. In 2016, the company announced it was turning a 10 percent default tipping fee into an intentionally misleading 10 percent service fee that went directly into the pockets of the company, not its shoppers. Instacart’s CEO Apoorva Mehta also came under heat earlier this year for including tips into shopper’s base pay, a practice which Instacart discontinued in February following widespread outrage, The New York Times reported.
+- Instacart workers across the country say they have seen their wages plummet over the past year, as the app has tweaked its pay algorithms. Bain said she used to make $1,500 a week for her work on the app, but now takes home hundreds.
+- Do you work in the gig economy and have a story to tell us about your working conditions or organizing on your platform? We'd love to hear from you. You can reach Lauren at lauren.gurley@vice.com, or securely on signal at 201-897-2109.
+- “This latest cut is really discouraging,” Bain said. “Their response to our attempts to meaningfully organize is to stamp out the fire. It’s a disgusting attempt to warn people about the consequences of acting out. But what I’ve seen is that it makes more shoppers agitated and concerned.”
+- Instacart did not respond to a request for comment.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.vice.com/en_us/article/zmj938/instacart-customers-and-workers-are-revolting-against-the-app
+- Following a brazen move by Instacart to cut workers’ pay less than 48 hours after a 3-day strike last week—customers, who use the app to outsource their grocery shopping to gig workers, are deleting their accounts and apps in solidarity with workers—and shaming the company and its CEO Apoorva Mehta online.
+- Last Monday, thousands of Instacart shoppers cancelled orders and turned off the app for 72 hours, demanding the company reinstate its 10 percent default tip. (The default rate is currently 5 percent.) Days later, in what many workers described as an act of intimidation and retaliation, Instacart sent a mass email to all of its workers, announcing it would eliminate the $3 “quality bonus,” which can account for up to 40 percent of workers’ earnings. The company said the bonus “did not meaningfully improve quality,” and that the pay cut would go into effect this week. Instacart denied that this was an act of retaliation.
+- But over the weekend—customers, activists, and even a California legislator rebuked the app on Twitter using the hashtags #DeleteInstacart and #BoycottInstacart.
+- Motherboard alone received nearly 50 messages from Instacart workers across the country voicing outrage about recent pay cuts. Many of them have the overall sense that what was a good paying gig just two years ago has devolved into a subsistence wage job as the company has tinkered with the algorithm that determines pay and flooded markets with new workers, driving down wages. Today many shoppers say they are barely scraping by, and often earn less than minimum wage.
+- One Instacart worker named Jenny told Motherboard that when Instacart came to her town in 2018, she was a promoter of its services and was able to buy a new car, clothes, phone, and finally pay her bills. She and her husband relied on the app as a primary source of income. “Now with this latest cut of the quality bonus, plus declining tips… I face losing everything I’ve been working for.”
+- Another Instacart worker wrote, “I've been a Instacart shopper for over 3 years and it's honestly criminal what this job have [sic] become.”
+- Longtime Instacart delivery workers, in particular—who have built relationships with clients and know their preferences—rely on the “quality bonus,” which comes with a five star rating. “I used to like working for them and I really enjoyed helping customers who were disabled or unable to get out to the store,” another worker wrote to Motherboard. “I have over 39 five star ratings and prided myself on my customer service. But no more! This is just so wrong on many levels.”
+- Regular customers posted screenshots of themselves deleting the app off their phones, or cancelling their subscriptions.
+- “I love this service. I use it quite a bit, and I always tip the drivers well, but your company is behaving thuggishly by retaliating against employees who are organizing themselves which is their right to do,” the TV writer, Andrea Ciannavei tweeted. “You’re not getting one more red cent from me until you do right by the people who work for you.”
+- “Join me in boycotting Instacart until they pay their workers a living wage,” wrote Meredith Whittaker, a core organizer of the 2018 Google walkouts.
+- Do you work in the gig economy and have a story to tell us about your working conditions or organizing on your platform? We'd love to hear from you. You can reach Lauren at lauren.gurley@vice.com, or securely on signal at 201-897-2109.
+- Last Friday, Instacart workers wrote a post on Medium in protest of the pay cut that included hundreds of names of corporate Instacart employees gathered from Linkedin. That post was flagged and removed, but an updated version of the post that doesn't include the list of names is still on the site.
+- “Make no mistake, we will not be silenced. If you profit off of our exploitation, whether you’re Apoorva Mehta [Instacart’s CEO], an investor, employee or partner, you will be held responsible for your misdeeds,” Instacart workers wrote in the updated post.
+- Instacart did not respond to Motherboard’s request for comment.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://onezero.medium.com/instacart-removes-worker-bonus-just-days-after-shoppers-strike-625aa71cf6b4
+
+URL: https://www.hrw.org/news/2020/10/15/grocery-app-workers-rights-are-under-siege
+- Help us continue to fight human rights abuses. Please give now to support our work
+- Get updates on human rights issues from around the globe. Join our movement today.
+- Californians will soon be voting on Prop 22—an initiative that would remove protections for gig workers and could drive them into financial hardship.
+- @AmosToh
+- @LenaSimet
+- Share this via Facebook
+
+
+
+Share this via Twitter
+
+
+
+Share this via WhatsApp
+
+
+
+Share this via Email
+
+
+
+Other ways to share
+
+
+
+Share this via LinkedIn
+
+
+
+Share this via Reddit
+
+
+
+Share this via Telegram
+
+
+
+Share this via Printer
+- The Covid-19 pandemic has accelerated the tech-driven transformation of the grocery industry. Many Californians shunning brick-and-mortar stores for fear of catching the virus continue to rely on workers hired by online ordering apps to pick, pack, and deliver their groceries. Exposure to Covid-19 is far from the only risk these workers face.
+- California will be voting on Proposition 22, a ballot initiative that would roll back minimum wage and other labor protections for app-based and other gig workers. Their rights to a decent living and safe and healthy working conditions hang in the balance.
+- Late last year, California passed Assembly Bill 5, which requires many gig companies to reclassify their workers as employees instead of independent contractors. Under AB5, workers are entitled to the state or local hourly minimum wage and other protections that come with employee status, such as paid sick leave and unemployment insurance.
+- AB5 sets an important precedent for how to protect workers’ rights as work changes. But a handful of gig companies have launched a multimillion-dollar campaign urging Californians to vote for Prop 22, which would gut many of the law’s protections.
+- If this effort succeeds, our research shows workers in the online grocery industry could face financial hardship, hunger, and even destitution.
+- The lack of minimum wage protections for independent contractors has made it possible for the popular grocery shopping apps Instacart and Shipt to introduce opaque algorithms that trigger unpredictable reductions and fluctuations in shoppers’ earnings. These algorithms replaced transparent formulas that were also linked to higher pay.
+- In October 2018, Instacart launched a new pay algorithm to account for factors such as the number and type of items ordered, store location, and distance traveled. But the company has not disclosed the full list of factors that influence workers’ pay, or how each factor is weighted in the final calculation.
+- Some workers have raised suspicion that the algorithm may be identifying the lowest pay people are generally willing to accept in the region where they work. While an algorithmically generated “reservation wage” could pave the way for pay discrimination, Instacart’s secrecy makes this impossible to verify.
+- Instacart shoppers we spoke to described baffling reductions in their earnings after the new algorithm was introduced. A 35-year-old shopper from Los Angeles who asked that we not use his name told us that, in November 2018, his weekly earnings fell from $1,000 to $800, even though he was consistently working at least 60 hours a week. This meant that his earnings dropped to about $13 an hour, before accounting for his expenses.
+- Like all shoppers, he pays for work-related expenses out of pocket. Monthly expenses include gas (about $400), car insurance ($100), a phone plan that can cope with data-intensive apps ($150), and other essentials such as cooler bags and cleaning equipment to wipe down groceries.
+- After accounting for these costs, he made less than the minimum wage in Los Angeles, which was $13.25 per hour in 2018.
+- To cope with the loss of income, he tried cutting back on essential items on his own grocery list. “I guess I won't buy eggs this month. I'll just get half a gallon of milk." He also struggled to make rent, and worried he would become homeless.
+- His experience is far from unique. In 2019, the labor rights organization Working Washington analyzed 1,400 weekly earnings reports from Instacart workers across the country, to work out how much they were earning before tips. After accounting for gas, business expenses, and additional payroll taxes borne by independent contractors, the group found that the average pay was only $7.66 an hour. Approximately half of the weekly earnings reports were below $7.25 per hour, the federal minimum wage.
+- Shipt, a subsidiary of Target and one of Instacart’s main competitors, also uses an algorithmic pay model in California, which has just been rolled out nationwide. Shipt’s algorithm is also largely a mystery, but the company claims that it generates an estimated pay range that reflects the “effort needed to shop and deliver an order,” considering factors such as estimated shop and travel time.
+- Shipt guarantees the lower end of this pay range, but workers say it is not enough to make a living. Workers have told us that the algorithm’s assessment of “effort” frequently underestimates the time and energy that shoppers put into fulfilling orders, and doesn’t consider unforeseen circumstances such as order changes or unusually heavy traffic. A 20-year-old Shipt shopper based in Long Beach, California, who declined to be named recalled that she was paid the minimum estimate even though the customer added 30 more items after she had accepted the order, doubling the time she spent in the store.
+- Workers told us that they often make less than the minimum wage, after expenses, unless people tip. “I’m working really really hard, only to end up with $100 in my pocket to last me the week,” the shopper in Long Beach said. The constant worry about making ends meet has “made my depression a lot worse.” Neither Instacart nor Shipt responded to requests for comment.
+- Those backing Prop 22 claim that it offers protections to mitigate these problems. Grocery delivery apps would pay workers at least 120 percent of the applicable minimum wage while they are fulfilling orders, plus thirty cents for each mile traveled to complete delivery.
+- But this formula is out of step with the realities and needs of gig workers. It fails to account for the hours they spend waiting for shopping requests. The mileage reimbursement is also only about half the 2020 rate set by the IRS; all other expenses remain the responsibility of workers.
+- In contrast, AB5 does not cut corners. In addition to securing workers the minimum wage for all hours that they are on the clock, including wait time, the current law mandates compensation for all work-related expenses.
+- AB5 provides other labor rights protections that free workers from making no-win choices between their health and their paycheck. Paid sick leave could have prevented Karyn Johnson-Dorsey, a 56-year-old Shipt shopper in Riverside from delivering groceries to people’s homes March and parts of April, when she was still experiencing symptoms of a flu-like illness she came down with in February. (She told us she tested positive for Covid-19 antibodies in June.) And when she twisted her ankle going down a staircase while delivering a heavy grocery box in June, she would have been entitled to workers’ compensation during the weeks she was unable to walk.
+- Critics contend that these protections are expensive and will push companies to exert more control over their workers, such as by restricting access to their apps during low demand. They warn that this could cost workers their flexibility to mold their work schedules to their lives.
+- But flexibility is not all-or-nothing. Labor rights experts have pointed out that other companies have preserved some flexibility in their workers’ schedules while granting them employee status.
+- More important, the price of flexibility should not be exploitation. By rejecting Prop 22, Californians will help to ensure a future of work where people can put food on the table, a roof over their heads, and make a decent living.
+- Updated 10/8/2020 12:15 pm ET: A previous version of this article incorrectly stated that Karyn Johnson-Dorsey started experiencing flu-like symptoms in April. She experienced them from February to April.
+- Updated 10/8/2020 12:15 pm ET: A previous version of this article incorrectly stated that Karyn Johnson-Dorsey started experiencing flu-like symptoms in April. She experienced them from February to April.
+- The Family Separation Crisis in the US Child Welfare System
+- How US Underfunding Public Housing Harms Rights in New York, New Mexico, and Beyond
+- Share this via Facebook
+
+
+
+Share this via Twitter
+
+
+
+Share this via WhatsApp
+
+
+
+Share this via Email
+
+
+
+Other ways to share
+
+
+
+Share this via LinkedIn
+
+
+
+Share this via Reddit
+
+
+
+Share this via Telegram
+
+
+
+Share this via Printer
+- Human Rights Watch defends the rights of people in close to 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice
+- Every weekday, get the world’s top human rights news, explored and explained by Andrew Stroehlein.
+- Human Rights Watch  is a 501(C)(3) nonprofit registered in the US under EIN: 13-2875808
+
+URL: https://www.latimes.com/business/technology/story/2020-12-21/instacart-shoppers-ratings-returns-missing-orders
+
+URL: https://themarkup.org/2021/10/12/why-are-some-instacart-workers-calling-for-an-app-boycott
+- Big Tech Is Watching You. We’re Watching Big Tech.
+- The grocery delivery company’s new CEO said she wants to make working conditions better; worker groups say nothing has changed
+        
+        
+          
+
+By 
+Dara Kerr
+- On her first day as Instacart’s new CEO in early August, Fidji Simo, a former Facebook executive, acknowledged the tumultuous relationship the grocery delivery company has at times experienced with its workers. Publishing an open letter, she offered change to delivery workers, whom the company treats as independent contractors, not employees.
+- “I want to be a thoughtful and open partner,” she wrote.  She added that workers could email her suggestions on improving working conditions, saying, “My team and I will read every note, and I’ll respond to as many as I can.”
+- But members of Gig Workers Collective, a group of more than 13,000 gig workers that formed to advocate on behalf of app-based food and grocery delivery workers for companies like Uber Eats, DoorDash, and Shipt, say little has changed at Instacart.
+- “We were optimistic that there was positive change on the horizon,” said Willy Solis, an Instacart worker and lead organizer with Gig Workers Collective. “But our initial optimism was dashed.”
+- Instacart, founded in 2012, has amassed $2.7 billion in venture capital funding. During the coronavirus pandemic, the company said business boomed, with the number of orders going up by as much as 500 percent, prompting it to hire more than 500,000 new delivery workers. While it’s unclear how profitable Instacart is, and grocery delivery businesses overall have begun to slump, the company has indicated it plans to go public before the end of the year.
+- Yet, advocates say, Instacart workers are not seeing their pay improve—the fundamental issue at play in a new #DeleteInstacart campaign launched by Gig Workers Collective. The group is asking  customers to support delivery workers by boycotting the company until it “rectifies the genuinely inequitable manner in which it treats its shoppers.” (“Shopper” is Instacart’s term for delivery worker). The collective is also planning a walk-off on Oct. 16, asking workers to avoid delivering for the company.
+- “We take shopper feedback very seriously and remain dedicated to listening and learning from our community to improve the Instacart shopper experience,” said Natalia Montalvo, Instacart’s director of shopper engagement and communications. “While historically the actions by this group have not resulted in any disruption or impact to our service, our relationship with all shoppers is incredibly important and we’re deeply committed to doing right by them.”
+- Rebecca Givan, an associate professor at Rutgers University School of Management and Labor Relations, said the labor clash is not unique to Instacart workers—she’s seen an overall uptick in gig-worker-led boycotts, strikes, and walk-offs.
+- As the workers are squeezed more, they start to learn successful organizing strategies
+- “As the workers are squeezed more, they start to learn successful organizing strategies,” Givan said. “The workers are explicitly asking for customers to use another option. This is something that is a little bit different when we’re talking about gig workers, because it’s frictionless for both the workers and the customers to switch to another app.”
+- Instacart workers have taken various forms of collective action against the company in the past. In the beginning of the pandemic, workers demanded hazard pay and access to paid sick leave; and before that, they protested over low pay and how the company allocates workers’ tips.
+- In this latest round of unrest, Gig Workers Collective has five specific demands, which focus on working conditions and Instacart’s pay structure. The group published this list in an open letter to Simo in mid-August.
+- Simo has been “consistently reading and responding to emails” and has conducted “a number of one-on-one conversations” with workers, Instacart’s Montalvo said. But Solis, from Gig Workers Collective, said individual workers he’s spoken to have gotten “canned responses” from the CEO, and the collective has yet to hear back.
+- “At the end of the day, it was nothing more than lip service,” Solis said. “We need more than placating banter.”
+- Workers say that as pay has declined over time, their earnings have become harder to predict and understand.
+- When Kelly Harris started working for Instacart in Columbus, Ohio, in 2017, her pay would fluctuate based on what Instacart said was customer demand. She said that back then it was easier to predict what her pay would be: $0.40 per item in each order, plus a set price per order. That price would go up or down depending on what Instacart deemed busy times.
+- In 2018, Instacart changed its pay structure by getting rid of “busy”-time pricing and the $0.40 per item payments. The company started relying more heavily on its algorithm to calculate pay. Workers would get at least $10 per order, and the price could go up from there, but workers say how much and when seemed to be arbitrary. Harris said she began earning less.
+- Then, in 2019, Instacart changed again—lowering the minimum pay from $10 to $7 per order and bundling up to three orders together for that $7 baseline (or whatever price the algorithm had set).
+- “The kind of money that I was making in 20 to 30 hours then, I would probably need to work 100 hours now,” said Harris, who’s relocated to Steubenville, Ohio. “I’ve seen a 70 percent pay cut over the years. It’s really not worth it; it’s not reliable anymore.”
+- I’ve seen a 70 percent pay cut over the years. It’s really not worth it
+- Montalvo didn’t respond to questions about how the company’s algorithm calculates worker earnings but said, “There are many considerations for every order that needs to be taken into account when determining batch pay—including the volume of customer demand, geographic profiles, retailer mix, items, weight, and projected delivery times.”
+- When workers open the app, they see available “batches” (Instacart’s nickname for grocery orders), which show a set commission price plus the customer’s tip. If the batch is higher paying, workers have around 30 seconds to decide whether to take it before it disappears. Workers say the $7 and other lower paying batches tend to sit there. Harris said batch prices can be all over the map.
+- “I’ve seen batches with 90 unique items for $7, and I’ve seen batches for 12 or 13 items for $7,” Harris said. “There’s no sense to it.”
+- Harris provided The Markup with several screenshots of batches in late September. One, for example, was for 107 grocery items and offered $14.92 total pay with no tip. Another was for four items for $22.94 and a $3.33 tip but included a 28-mile drive to the customer’s home. Several other screenshots also showed long drives, two batches bundled together for the same price, or orders with more than 100 items (which can take up to two hours to fulfill). All payments were within a $7 to $22 range.
+- In its demands, Gig Workers Collective is asking Instacart to reinstate three of its previous payment methods. It wants workers to be paid per order and the company to stop bundling batches together. It wants the per item payment reestablished, since orders with a lot of items take more time. And it wants Instacart to restore the default in-app tip to 10 percent, rather than 5 percent, where it’s set now. (Customers can choose their own tip amount; the default is a suggested prompt.)
+- We “removed the ‘none’ option in the customer tip settings, requiring customers to manually change their tip to $0 if desired and making it less likely that a customer will remove the shopper tip altogether,” Montalvo said. She added that, “We have a customer tip default setting which allows customers to save their default tip based on their last order.” Montalvo didn’t comment on Gig Workers Collective’s other demands around pay.
+- In the past, Instacart has said it wouldn’t raise the app’s default tip because it “serves as a baseline for a shopper’s potential tip and can be increased to any amount.” When the company changed its pay structure and stopped the $0.40 per item payments, it said that was to “provide clearer and more consistent earnings” for workers.
+- “Over time, it just started to deteriorate,” Solis said. “We feel those [demands] are reasonable…. They’re stuff that we had before, and we just want them back.”
+- Along with changing how Instacart pays workers, Gig Workers Collective is asking the company to adjust the rating system by which customers evaluate delivery workers. Currently, customers rate workers on a five-star basis, and Instacart can reward high scores by giving those workers first dibs on orders. Workers with lower ratings can get offered less lucrative batches.
+- “Shoppers’ access to batches is determined by a number of factors, including customer demand and shopper location,” Montalvo said. “If there are more shoppers than there are available batches, we’ll use additional criteria like timeliness, accuracy, and customer rating to determine access to batches.”
+- Workers say customers often ding them for things like sold-out grocery store items and slower delivery because of long lines or traffic. According to a Los Angeles Times article, some customers report missing or damaged items to get free or discounted groceries, and Instacart tends to blame the delivery workers in those situations.
+- “Even when we provide photos of deliveries, Instacart can either lower our rating (which prevents us from seeing good offers for weeks), or deactivate us from the platform entirely,” Gig Workers Collective wrote in its open letter. “Instacart’s inability to properly investigate customer complaints should not result in blame unfairly placed on shoppers.”
+- Montalvo said in cases when the company determines a customer has been fraudulent, the worker’s low rating in that instance may be “forgiven.”
+- Workers in Facebook groups, Reddit threads, and on Twitter often complain of being unfairly deactivated. Some say it’s possibly because their ratings dipped. Others say maybe it’s because they requested extra pay on heavy orders too many times. A couple of workers say they thought they were deactivated after their phone accidently took a photo in their pocket, which they believed Instacart thought was a fraudulent selfie check (something the company occasionally requires).
+- Gig Workers Collective’s final demand is for Instacart to provide workers with occupational death benefits—to help their families if something goes wrong. They say working for the company can be dangerous. Not only have workers tested positive for COVID-19, but they’ve also been robbed, assaulted, and had guns pulled on them. Lynn Murray, one of the people killed at a supermarket during a mass shooting in Boulder, Colo., was working for Instacart at the time.
+- Montalvo said the company offers “Shopper Injury Protection,” which “includes coverage for certain medical expenses, disability payments, and accidental death benefits.” She said workers can file claims directly with Instacart’s insurance provider.  Montalvo didn’t respond to questions about how many workers have received the benefit. Instacart workers who spoke with The Markup said they’d never heard of the program.
+- Because Instacart classifies its workers as independent contractors, they don’t have employee benefits, like life insurance, health care, workers’ compensation, and sick days.
+- “This work is becoming increasingly dangerous,” Solis said. “We feel like we need basic protections.”
+- Such collective actions have happened before, to mixed results.
+- When thousands of Instacart workers announced an emergency walk-off in March 2020 over inadequate personal protective equipment and sick leave, the company told reporters, “We’ve seen absolutely no impact to Instacart’s operations.” Yet, days before the strike, it changed its policy—pledging to send workers PPE kits and confirming 14 days of sick leave pay for those diagnosed with COVID-19.
+- Similarly, a year before, when Instacart workers filed a class-action lawsuit against the company for subsidizing their wages with customer tips, founder and former CEO Apoorva Mehta issued a rare apology and ended the practice. The case was resolved as part of a class action settlement. Workers have seen other changes because of their protests. At one point, Instacart had paid some workers as little as $1.50 per order, and the company raised those types of prices after workers spoke out.
+- “The companies never want to admit that if they change a policy, it’s because workers are demanding it,” said Rutgers’ Givan. But “Instacart workers’ organizing skills get sharper and sharper as they build a movement.”
+- While Instacart has made concessions in the past, however, workers say they still haven’t seen the structural changes they’ve long demanded.
+- “With our protests, they don’t have the immediate effect that we want them to—but they do have an effect,” Solis said. “That’s why we continue to do it.”
+- How did we do that? It was thanks to you.
+- Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.
+- Why Are Some Instacart Workers Calling for an App Boycott?
+- Dara Kerr
+Enterprise Reporter
+- We’re happy to make this story available to republish for free under the conditions of an Attribution–NonCommercial–No Derivatives Creative Commons license. Please adhere to the following:
+- Hello World
+- We searched far and wide for a map that respects your privacy
+- Inside The Markup
+- The global contest recognizes excellence in visual storytelling, design, and journalism
+- Hello World
+- Issues with liver allocation point to a larger issue within the U.S. transplant system
+- Your contributions help us investigate how technology influences our society.
+- Sign up to get the Hello World newsletter in your inbox every Saturday.
+
+URL: https://www.reddit.com/r/InstacartShoppers/
+- I want you to know if you ever place an order for plan b or a pregnancy test I will accept that order right away and get it to you ASAP! Especially here in a southern state! I’ll be you designated ninja shopper! 🏃🏻‍♀️
+- If they were required to pay us for our actual time, they would finally stop the endless overhiring.
+- I understand this isn’t going to happen. Just annoyed and ranting.
+- 202,723 members
+- 230,351 members
+- 98,446 members
+- 70,356 members
+- 70,506 members
+- 211,211 members
+- 43,915 members
+- 35,501 members
+- 6,653 members
+- 39,886 members
+
+- Instacart gig shopper robotisation
+- Doordash tip withholding
+- Page infoType: SystemPublished: October 2021Last updated: March 2022

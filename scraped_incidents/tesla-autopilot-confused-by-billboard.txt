@@ -1,0 +1,127 @@
+- Tesla Autopilot confused by billboard
+- Occurred: April 2021
+- Can you improve this page?Share your insights with us
+- Tesla owner Andy Weedman has discovered that his Tesla was registering a giant stop sign printed on a billboard as a real traffic sign, and so halting in the middle of the road.
+- Weedman tweeted and recorded a video of the Tesla stopping for the billboard, referring to it as an 'edge case'. The discovery prompted commentators to observe that autonomous cars have a long way to go before they are truly fit for purpose.
+- Others went further, arguing that 'the world is absolutely crammed with out-of-the-ordinary situations we call edge cases,' and that it will 'likely take more than patchwork updates and fixes to actually reach full autonomy'.
+- Operator: Andy Weedman Developer: Tesla Country: USA Sector: Automotive Purpose: Automate steering, acceleration, braking Technology: Driver assistance system Issue: Accuracy/reliability; Safety Transparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Wikipedia profile
+URL: https://twitter.com/andyweedman/status/1382459653863378944
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://www.youtube.com/watch?v=-OdOmU58zOw&t=2s
+
+URL: https://futurism.com/the-byte/tesla-slamming-brakes-sees-stop-sign-billboard
+- A Tesla owner named Andy Weedman recently found himself confused by a strange glitch in his Model 3's Autopilot system: The car kept slamming the brakes in the middle of the same stretch of road.
+- Eventually, he figured it out: His car was registering a giant stop sign printed on a nearby billboard as a real traffic sign, and therefore deciding that the right course of action was the come to a halt in the middle of the road. It's a comical glitch, to be sure, but the edge case also illustrates the myriad ways that self-driving car software continues to make mistakes — sometimes with deadly results.
+- ⁦@karpathy⁩ ⁦@elonmusk⁩ ⁦@DirtyTesla⁩ here is a fun edge case.  My car kept slamming on the brakes in this area with no stop sign.  After a few drives I noticed the billboard. pic.twitter.com/DbANt4yVHG
+- — Andy Weedman (@andyweedman) April 14, 2021
+- 
+- Weedman posted a follow-up video in which his Tesla, with Autopilot enabled, spots the sign and drops from 35 miles per hour to a full stop in the middle of the road. Weedman remains optimistic that Tesla will figure it out and says that it will just take more training to figure out edge cases like this before self-driving technology is truly ready.
+- But while each individual edge case may be a unique, small-scale glitch, the totality of unusual scenarios a car might encounter represents a whole world of chaos that's too complex for even the most sophisticated algorithms to currently detangle, Jalopnik argues.
+- Maybe there's a way to train Teslas to ignore signs on billboards, but then that introduces the risk that the system will detect a false negative and ignore real traffic signs, according to Jalopnik's analysis, putting people in danger.
+- The fact of the matter is that there are tons of individual oddities out there capable of tripping up the self-driving vehicles we have today, and it will likely take more than patchwork updates and fixes to actually reach full autonomy.
+- READ MORE: This Billboard That Confuses Tesla Autopilot Is A Good Reminder Of Why Self-Driving Is Still A Long Way Off [Jalopnik]
+- More on Tesla: Two Die in Fiery Tesla Wreck, Seemingly in Self-Driving Mode
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://jalopnik.com/this-billboard-that-confuses-tesla-autopilot-is-a-good-1846698527
+- Last summer, Elon Musk, the shy, reclusive CEO of the Tesla electric-car making concern, stated that the company was “very close to Level 5 autonomy” — that is, autonomous vehicles capable of complete self-driving — and all that remained were “many small problems.” I argued that those many small problems are, in fact, a huge deal and represent the inherent chaos of the world that must be dealt with. A fun example of this is currently blowing up online, as a Tesla owner shows how his car gets confused by a billboard.
+- The Tesla owner, Andy Weedman, tweeted out this image of the spot where his Model 3, using the Tesla Autopilot driver-assistance system, “kept slamming on the brakes” in the middle of a road, with no clear reason why:
+- A bit of looking around reveals what was confusing the car. It’s this billboard alongside the road:
+- It’s one of those stop-for-school-bus reminder billboards, and like many of its kind carries an image of a stop sign. Weedman also recorded a video of the Tesla stopping for the billboard, so you can see it in action:
+- I should mention that not everything going on here is bad, of course. Autonomous driving is an incredibly difficult problem, and the Tesla is doing some things very well.
+- The recognition of the stop sign image on that unlighted billboard is impressive, for one thing. What’s less impressive is mistaking it for an actual stop sign, a mistake that, significantly, almost no human would make.
+- While this is described as an “edge case” by Weedman in the video, the truth is that the world is absolutely crammed with out-of-the-ordinary situations we call edge cases. These edge cases are extremely important to developing full autonomy, partially because they remind us that, fundamentally, computers are absolute morons.
+- I remember first hearing this back when I was learning to program in BASIC as a kid in the 1980s; computers, no matter how fast they may be or how good at math they are, are colossal idiots and lack any semblance of what we humans think of as common sense.
+- While computers are many, many orders of magnitude better and faster and more powerful today than the old 1 MHz Apple II that I was coding on, deep down they’re still idiots.
+- The term “artificial intelligence” is sort of a misnomer, too. It’s not “intelligence” as we understand it, that a computer can possess, even in artificial form. It’s a simulacra of intelligence, a lot of brute-force if-then-else conditionals (that’s oversimplified, but not entirely untrue) that give an effective illusion of intelligence.
+- That’s why the Tesla had no idea the stop sign was on a billboard, next to what would have been a 20-foot-tall cop. We’ve actually seen this happen before with Teslas, in one case notable enough that his Highness the Burger King even took an interest.
+- I once fooled Mazda’s street sign recognition system with some markers and a misspelled sign, as you can see above there.
+- Training Teslas to recognize a stop sign on a billboard is likely possible, but then we open the possibility of ignoring a stop sign positioned so that it appears to the car’s cameras to be part of a billboard behind it, a not-unlikely scenario. It also doesn’t preclude malicious fake stop signs from being made and put up places that wouldn’t fool a human but could easily fool a car.
+- These situations may also be a good reminder that maybe it’s ridiculous for us to expect AVs to do everything independently. If we’re serious about wanting AVs as a culture, maybe it’s time to integrate some kind of QR visual authorization code onto traffic signs to eliminate counterfeit or confusing ones?
+- Current AV tech is impressive, no question, but it’s a huge mistake to prematurely believe these machines are better than humans, because at the moment, they’re not. They’re idiots.
+- That said, it is at least one trait the machines share with many of us, so that’s encouraging.
+
+URL: https://knowtechie.com/teslas-autopilot-is-apparently-getting-confused-by-a-billboard/
+- The billboard features a stop sign and Autopilot doesn’t know what to do with this information.
+- by
+- Last year, Tesla CEO Elon Musk made some bold statements about how far along their Full Self-Driving system was towards fully autonomous driving. He might want to slam the brakes on his next predictions, as it seems the current system in Tesla vehicles is confused by a picture of a stop sign.
+- Yes, the path towards Level 5 autonomy (that’s when you set your destination and the car does everything else for you) is long and winding, and apparently still out of reach. Tesla might have a head start on the rest of the market, but it seems that the camera-based system has trouble with a stop sign on a billboard, tens of feet above the roadway.
+- Check out the tweet below that shows the issue. Tesla owner, Andy Weedman, had his Tesla slam on the brakes in this stretch of road, without any road markings that it should be picking up on. The culprit? A “remember to stop for school buses” billboard, with a large stop sign image.
+- ⁦@karpathy⁩ ⁦@elonmusk⁩ ⁦@DirtyTesla⁩ here is a fun edge case.  My car kept slamming on the brakes in this area with no stop sign.  After a few drives I noticed the billboard. pic.twitter.com/DbANt4yVHG
+- I know, we’re ragging on Tesla here but it’s not all bad news. Sure, slamming on the brakes like that on a clear stretch of road would have failed your driving test, but in the grand scheme, this is a smaller glitch in the system. Admittedly, Tesla’s autopilot system is making leaps in the self-driving space, and hiccups are bound to happen.
+- The thing is, for truly autonomous driving, this, and many other edge cases will need to be solved. Maybe that’s why Waymo still thinks that LiDAR is needed, which would be able to tell that the billboard wasn’t a metal stop sign. Until that day, perhaps we should go back to calling these systems “driving aids” as that’s all they really are in their current state.
+- Have any thoughts on this? Let us know down below in the comments or carry the discussion over to our Twitter or Facebook.
+- 
+- Maker, meme-r, and unabashed geek with nearly half a decade of blogging experience. If it runs on electricity (or even if it doesn't), Joe probably has one around his office somewhere. His hobbies include photography, animation, and hoarding Reddit gold.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- Save my name, email, and website in this browser for the next time I comment.
+- 
+- 
+- AI is here, and we cannot simply put the genie back in the bottle....
+- This Android recorder app has been secretly recording its users for over a year.
+- Sign up for a DirecTV Stream plan will get priority access to Telly's waiting...
+- This gives us almost everything we need to know about the two new devices
+- The Opera AI browser is available for both desktop and mobile platforms.
+- The TicWatch Pro 5 stands out with great features and smooth connection to Wear...
+- In this article, we'll discuss effect ways to help teens resist social pressure and...
+- OpenAI has confirmed the outage and is currently working on a fix.
+- Copyright © 2023 KnowTechie LLC / Powered by Kinsta
+
+URL: https://www.republicworld.com/entertainment-news/whats-viral/man-says-tesla-kept-slamming-brakes-in-area-with-no-red-lights-elon-musk-has-epic-reply.html
+- SEARCH
+- Quick links:
+- India News
+- World News
+- Sports News
+- Entertainment News
+- Technology News
+- Shows
+- Business News
+- Elections
+- Image Credits: Twitter/AndyWeedman/AP
+- A Tesla owner took to Twitter and shared an incident where the car experienced a glitch in its AI. Tesla CEO Elon Musk, in 2020, revealed that the EV maker will be functioning on a neural network training computer, termed as Dojo. This helps in processing large amounts of video data. By creating an artificial neural network, one can allow the computer to learn by incorporating new data. Andy Weedman shared that his car kept slamming on the brakes in a certain area with no stop sign.
+- Weedman shared an image where there are no red lights and the stretch does not have any stop signs. However, there was a billboard which had the word ‘stop’. Weedman then realised that the billboard was triggering the car’s AI to stop. “My car kept slamming on the brakes in this area with no stop sign. After a few drives I noticed the billboard”, he wrote in the caption. He also tagged Musk in the tweet. Giving a quirky reply to the tweet, Musk shared a link to a music video, to “Stop… in the name of love”.
+- ⁦@karpathy⁩ ⁦@elonmusk⁩ ⁦@DirtyTesla⁩ here is a fun edge case. My car kept slamming on the brakes in this area with no stop sign. After a few drives I noticed the billboard. pic.twitter.com/DbANt4yVHG
+- Stop … In the Name of Love! https://t.co/kBsTi5jz16
+- "I know a guy who used to purposely drive with a stop sign sticker on the car to fool waymo cars .@elonmusk fix this one :). Ai is missing context. Imagine stop sign is covered in snow and you on FSD mode! All bets are off at that time", wrote a Twitter user in the comment section. Another person wrote, "So you can just run at a Tesla with a handwritten stop sign on some cardboard? Seems like pure vision might be easy to trick". The image has managed to gather over 2.8K likes. Tweeples are also Retweeting the image with their own caption.
+- Such an interesting false positive. Does the car stop at the same distance away from this sign every time?
+- I don’t know if a human brain will ever be replicated, a learner driver would immediately recognise it’s a billboard not a stop sign,first try.
+- Gives me a great idea to mess with the Teslas in my neighborhood lol
+- If anything that’s impressive it read it tbh
+
+URL: https://wonderfulengineering.com/watch-tesla-autopilot-keeps-slamming-the-brakes-whenever-it-sees-a-billboard-with-a-stop-sign/
+- The more Tesla vehicles people buy the more glitches are being found in its autopilot system. Though glitches are fairly common when it comes to Artificial Intelligence and machine learning. But in a sensitive system like autopilot, it may have deadly consequences. Just like this Tesla kept slamming the brakes even though there was no stop sign.
+- This Tesla owner, Andy Weedman, recently tweeted that he found that his Tesla Model 3 was glitching out on the same road again and again. The car kept using the brakes even though there was no stop sign. This happened for a while but Andy persevered and eventually found that the car was reading a billboard with ‘stop’ written on it as a stop sign. A very weird but believable false negative.
+- To make sure Tesla becomes aware of this problem, Weedman took it upon himself to make a video of the bizarre glitch as well. In the video, upon seeing the stop sign, his Tesla just stopped in the middle of the road. Going from a 35 mph cruise to a full stop. Cases like these are often called edge cases meaning situations that the artificial intelligence is not really trained for.
+- You can view the video below.
+- Now cases like these are one in a million but it does happen. In Weedman’s case, the road was fairly empty so there were no chances of accidents but accidents can happen. It is up to Tesla to iron out all these glitches but it is next to impossible to predict every situation and variable when it comes to the real world. This is exactly why Tesla warns its drivers to never leave the steering wheel unattended.
+- Fixing this glitch will take a lot more than just a simple software update and patches but it is doable. Still don’t rely too much on autopilot folks.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- 
+- Notify me of follow-up comments by email.
+- Notify me of new posts by email.
+- 
+- Copyright © 2023 Wonderful Engineering. All Rights Reserved.
+
+- Tesla phantom braking
+- Tesla Model 3 hits parked police car
+- Page infoType: IncidentPublished: February 2023

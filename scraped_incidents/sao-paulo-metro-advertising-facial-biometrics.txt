@@ -1,0 +1,427 @@
+- Occurred: May 2018
+- Can you improve this page?Share your insights with us
+- Via Quatro, the operator of São Paulo Metro’s Yellow Line, has installed platform doors that display ads and information and use sensors with screens and facial and emotion recognition to monitor the reaction of viewers.
+- The move resulted in human and privacy rights advocates to voice concerns about the inaccuracy of facial biometric systems, the potential for racial and ethnic bias, and of pseudoscience.
+- The lack of information provided about the system, and lack of user consent, prompted Brazilian consumer rights organisation  Instituto Brasileiro de Defesa do Consumidor (Idec) to file (pdf - in Portuguese) a legal challenge against Via Quatro.
+- In May 2021, the Court of Justice of São Paulo ordered Via Quatro to terminate (pdf, in Portuguese) its 'abusive' use of facial recognition technology and data collection.
+- In March 2022, São Paulo court judge Cynthia Thome ordered the company responsible for running Sao Paulo's metro system Companhia do Metropolitano de São Paulo (METRO), to suspend its use of facial recognition as part of the broader  implementation of the SecurOS electronic surveillance system.
+- Operator: ViaQuatro; Companhia do Metropolitano de São Paulo (METRO) Developer: AdMobilize Country: Brazil Sector: Govt - transport Purpose: Identify consumer identity Technology: Facial recognition; Emotion recognition Issue: Privacy; Accuracy/reliability; PseudoscienceTransparency: Governance; Privacy; Marketing; Legal
+URL: https://en.wikipedia.org/wiki/ViaQuatro
+- ViaQuatro is a company belonging to Companhia de Concessões Rodoviárias, responsible for the operation, maintenance and investiments of more than US$2 billion in the Line 4 of São Paulo Metro for 30 years. Part of the first public-private concession contract of the country, in partnership with the Government of the State of São Paulo.[1]
+- In the public-private concession contract signed, it is up to São Paulo Metro to install the civil infrastructure of the Line (stations construction, substations, rail yard and maintenance, tunnels, etc.), being the dealership responsible for the operation and maintenance of the line and acquisition of the rolling material, signaling systems, telecommunications and CCO (Operational Control Center).
+- Line 4-Yellow has a fleet of 174 vehicles:
+
+URL: https://en.wikipedia.org/wiki/Companhia_do_Metropolitano_de_S%C3%A3o_Paulo
+- Companhia do Metropolitano de São Paulo (CMSP)[2][3][4] is a Brazilian mixed economy company, based in São Paulo, which most of its investments belong to the Government of the State of São Paulo.[5] Founded by the Prefecture of São Paulo on 24 April 1968,[6] the company is responsible for the development, project, construction and operation of the metropolitan transport system in the Greater São Paulo, specially the capital metro. Having most of its share control associated to the state government, it's subordinated to the Secretariat of Metropolitan Transports of the State of São Paulo.
+- The company is member of the National Association of Passenger Carriers on Rails (ANPTrilhos).[7]
+- This article about transport in Brazil is a stub. You can help Wikipedia by expanding it.
+
+URL: https://www.admobilize.com/
+
+URL: https://idec.org.br/sites/default/files/acp_viaquatro.pdf
+
+URL: https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2021/12/Subway-Facial-Recognition-Judgment.pdf
+
+URL: https://globalfreedomofexpression.columbia.edu/cases/the-case-of-sao-paulo-subway-facial-recognition-cameras/
+
+URL: https://www.bloomberg.com/news/articles/2018-05-08/s-o-paulo-metro-s-newest-platform-doors-can-read-your-face
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://www.zdnet.com/article/sao-paulo-subway-operator-gets-sued-for-collecting-passenger-data/
+- Most Popular
+- The Brazilian Institute of Consumer Protection (IDEC) has launched a civil lawsuit against São Paulo subway operator ViaQuatro around the collection of passenger data.
+- The marketing technology launched in April consists of four sets of doors with screens where customer information is displayed as well as advertisements, with sensors collecting data on passengers standing in front of the doors such as emotions, approximate age and gender.
+- The massive cyberattacks which took down some of the most popular websites on the internet show that device manufacturers are not learning from the mistakes of the past.
+- In the civil lawsuit, it is argued that the initiative is illegal, given that public transport users did not authorize the collection of data - and had no choice in the matter, given the sensors are placed on the train doors.
+- "The case is of overwhelming magnitude. Users have no right to choose: either they accept the collection of their data, or they have to look for another way of getting around in the city," says IDEC lawyer and digital rights expert, Rafael Zanatta.
+- Zanatta adds the initiative is abusive, since public transport is an essential service and also violates the Constitution in addition to various federal laws.
+- IDEC is calling for the immediate removal of the equipment and a halt in the data collection activities, as well as 100 million reais ($24 million) in damages to the public. If ViaQuatro is proven guilty, the money will go towards a fund run by the Ministry of Justice that concentrates resources from public lawsuits linked to purposes including defense of consumer rights.
+- The Institute plans on using the cash in educational projects related to consumer rights under the new Data Protection Law, which will be enforced in Brazil in 2020.
+
+URL: https://sociable.co/technology/emotion-gender-prediction-tech-should-be-banned-brazils-metro-ngo-testifies/
+- SHARE
+- Access Now, a non-profit that defends the digital rights of citizens around the world, presents an expert opinion in a lawsuit against São Paulo metro operator ViaQuatro and its use of facial categorization software to predict the age, gender and emotional state of passengers for advertisement purposes.
+- 
+- ViaQuatro is a public-private concessionary responsible for the operation, maintenance and investments into Line 4 of São Paulo’s metro, which runs through some of the city’s busiest stations.
+- In 2018, the company installed “smart billboards” into some metro stations, complete with AdMobilize’s Digital Interactive Doors system facial analysis technology, which monitors viewers’ reactions to adverts, in order to carry out targeted advertising campaigns.
+- AdMobilize is a private advertising platform that uses facial categorization software to scan users’ faces on public transport.
+- Besides being able to predict a person’s age range and gender, the technology also claims to be able to detect whether a person is feeling happy, unsatisfied, surprised or neutral.
+- The first organization to object to the technology was the Brazilian Institute of Consumer Defence (IDEC), which sued ViaQuatro in 2018 (the same year it released the technology) for violating consumer and personal data protection rights. The civil case is still ongoing.
+- Access Now is the first international third-party organization to join the case, over concerns that the technology could set an unnecessary precedent for the use of biometric technology not just in Brazil, but across Latin America.
+- Access Now makes the following three arguments:
+- Speaking to The Sociable, Access Now’s Latin America Policy Associate Veronica Arroyo expanded upon ViaQuatro’s allegedly flawed claims.
+- The company claims to save data in an anonymous way, Arroyo said. But “how can you have raw data and anonymized data at the same time?” she asked. “Those terms are contradictory.”
+- ViaQuatro also claims not to store the data obtained by the technology, but, as Arroyo points out, “they must have to store it at some point to add it to the database.”
+- When it comes to predicting emotions, there’s no scientific evidence to prove that technology can actually do this accurately, Arroyo pointed out.
+- “They claim that they can predict people’s emotions…but during the case, they have confessed that they are aware the technology is not 100% accurate,” she claimed, highlighting a “lack of diligence” on ViaQuatro’s behalf.
+- Veronica Arroyo, Access Now
+- “They claim that they can predict people’s emotions…but during the case, they have confessed that they are aware the technology is not 100% accurate” — Veronica Arroyo, Access Now.
+- Finally, for Arroyo, the technology’s perception of gender is problematic.
+- “Tech thinks gender is a binary concept,” she said. “If you keep with this idea that gender is just binary then you continue the narrative… that transgender people do not belong to society.”
+- Brazil is the most dangerous country in the world for the trans and transvestite population, according to a 2020 report by the National Association of Transexuals and Transvestites (ANTRA).
+- The Brazilian Constitution does not recognize the right to data protection, as a data protection law — which was passed in mid-2018 — remains suspended by government decree.
+- Although there are hopes for the law to be reinstated this August, this situation leaves Brazilians with no authority to complain to about facial categorization technology.
+- “It’s a very invasive technology” — Veronica Arroyo, Access Now
+- This also means that, legally, there are no specific rules for ViaQuatro to follow when it comes to using the technology, Arroyo pointed out.
+- “No one can see what they are doing and inspect them,” she said.
+- There is no safeguard for the user, who is not whether they would like to opt out of being analyzed, she added, which explains why this case against ViaQuatro is being heard in a civil rights court as opposed to a human rights one.
+- And although Line 4 of São Paulo’s metro is run privately, the mode of transport itself is public, Arroyo highlighted.
+- “It’s a very invasive technology,” she added.
+- According to Arroyo, biometric technology in its many forms is generally well received in Latin America.
+- This mindset is due to the issue of public security, which is chronic across the region.
+- “We have experienced so many years of dictatorships and terrorist organizations that any surveillance system is welcome because it is going to protect you,” she said, explaining that the inherent desire for human safety overrides concerns over data protection.
+- Although countries in Latin America tend to use local companies to develop their biometric technology, Arroyo believes that if US-based big tech companies continue to advocate for more public debate around the regulation of these technologies, then this could affect Latin America.
+- Before this can happen, however, she stresses the need for data protection laws to be enforced in countries such as Brazil, in order to create a legal framework to hold companies like ViaQuatro accountable for the way in which they use this technology.
+- Emotion analytics used in AI recruitment tools are not only unethical but incorrect
+- 
+- Will this be the last time Brazil uses facial recognition technology at Carnival?
+- 
+- SHARE
+- Sophie Foggin
+- Sophie is a British journalist based in Medellín, Colombia, looking to explore the relationship between technology and society in the region of Latin America. Beforehand, she worked in newsrooms in both Bogotá and Rio de Janeiro. Her work has also been published by Latin America Reports, Al Jazeera English, World Politics Review, El Tiempo and O Globo.
+- Securing and simplifying digital identity: Brains Byte Back podcast
+- ‘Facebook’s business model is poison & its algorithms amplify misinformation’: digital forensics expert testifies
+- This article originally appeared on Latin America Reports, an Espacio publication.
+Last...
+- The modern age of online communication has demonstrated some advantages and disadvantages, with the...
+- This article was originally published by Jorge Antonio Rocha on Aztec Reports, an Espacio...
+- Brains Byte Back interviews startups, entrepreneurs, and industry leaders that tap into how our brains work. We explore how knowledge & technology intersect to build a better, more sustainable future for humanity. If you’re interested in ideas that push the needle, and future-proofing yourself for the new information age, join us every Friday. Brains Byte Back guests include founders, CEOs, and other influential individuals making a big difference in society, with past guest speakers such as New York Times journalists, MIT Professors, and C-suite executives of Fortune 500 companies.
+- In today’s episode of the Brains Byte Back podcast, we speak with Venkatesh Sundar, Founder & CMO at Indusface, a company offering web app security, WAF and SSL Certificates to keep businesses safe.
+- In the conversation, Sundar shares tips to help listeners defend their businesses from hackers. He starts off by stressing the importance of ensuring that all software and systems are kept up to date with the latest security patches and updates. Doing this can help to shut down any known vulnerabilities that hackers may look to exploit.
+- Additionally, he underlines that it's important to make use of strong access controls and authentication measures to ensure that only authorized users are able to access sensitive data or systems. This consists of measures such as two-factor authentication, strong password policies, and limiting access to only those who require it.
+- Sundar adds that regular security assessments and penetration testing can be effective when it comes to identifying vulnerabilities before hackers can take advantage of them. This can entail simulating real-world attacks and attempting to exploit weaknesses in the system,to find potential areas where improvement is necessary.
+- Alongside the above, Sundar highlights specific tactics that listeners can use to defend against ransomware attacks, such as ensuring that data backups are regularly performed and stored securely. This can help to reduce the impact of a ransomware attack by allowing businesses to restore their systems and data from a previous backup.
+- And finally, Sundar covers why it is important to educate employees about the risks of phishing attacks and other social engineering tactics that hackers frequently use to gain access to sensitive data or systems.
+- He encourages business owners to provide regular security awareness training to make sure that employees are more knowledgeable and fully aware of the latest threats and how to avoid falling victim to them.
+- 
+- Links 🔗
+- Our Guest🙋:
+- Find out more about Venkatesh Sundar here (LinkedIn) –
+- https://in.linkedin.com/in/venkateshsundar
+- Find out more about Indusface (website) –
+- https://www.indusface.com/
+- 
+- Brains Byte Back 🧠👨‍💻🎙️:
+- Leave an iTunes review here – https://apple.co/3i60XWu
+- Subscribe on Youtube here – https://bit.ly/3o1M4Z3
+- Follow us on your favorite podcast platform here – https://bit.ly/3kTfNkY
+- 
+- Our Sponsor 💻☎️:
+- Find out more about our sponsor Publicize here – https://bit.ly/3X6p7SB
+- 2023 Copyright © All rights reserved
+
+URL: https://ohrh.law.ox.ac.uk/mind-the-gap-the-privacy-void-in-brazilians-public-transport/
+- https://unsplash.com/@voiqu
+- by Mariana Canto | Oct 26, 2018
+- Mariana Canto, “Mind the Gap: The Privacy Void in Brazilian’s Public Transport” (OxHRH Blog, 26 October 2018), <https://ohrh.law.ox.ac.uk/MIND-THE GAP:-the-privacy-void-in-Brazilian’s-public-transport> [date of access].
+- In April 2018, the agreement entered into between ADMobilize and ViaQuatro, the administrator of the yellow line of the São Paulo subway, enabled the use of a technology to collect data related to the facial expressions of public transport users. Almost four months later, on August 30, 2018, an action was filed by the Brazilian Institute of Consumer Protection against this practice. After great public commotion in relation to the case, on September 14, 2018, Judge Adriana Cardoso ruled that the cameras had to be removed within 48 hours. According to the decision, “it is not clear the exact nature of the collection of the images and the way in which the data is processed by the defendant, which in fact should be disclosed to the passengers even more due to the public nature of the provided service.” The judge also used the arguments provided by the Public Prosecutor’s Office as a legal substantiation for the decision: stating that the usage of data collection of all users of the public transportation violates the right to information and the freedom of choice of approximately 600,000 consumers who use the service on a daily basis.
+- Facial recognition technology has also been used in public transport in other Brazilian capitals. In order to prevent fraud, cities are increasingly investing in mechanisms for verifying the identity of holders of special tickets that allow the service to be free of charge or to have reduced fares. However, in several cities there is still a lack of disclosure regarding the privacy policy related to the collection of users’ data. A few months ago, the Observatory of Privacy and Surveillance criticized SPTrans of São Paulo for not being clear and public about its privacy policy for the bilhete único ticket. Likewise, Coding Rights produced a report on the RioCard ticket implemented by the city of Rio de Janeiro.
+- The recently approved Brazilian General Data Protection Law (LGPD), which was inspired by the European General Data Protection Regulation, makes clear the need for explicit and unambiguous consent from passers-by as well as restrictions to the collection and sharing of sensitive data, in this case, biometric data. Even though the LGPD does bring fairly beneficial tools for user protection, encouraging, for example, the use of privacy by design and privacy by default by developers, the presidential veto over the creation of a National Data Protection Authority poses a major threat to the effectiveness of the law, since an independent Authority is extremely necessary, otherwise the monitoring of public administration, for example, will be harmed. As the LGPD will  take legal effect only in 2020, other legislation seeks to regulate and ensure citizens’ privacy and data protection. These are the Federal Constitution, the Consumer Defence Code, the Civil Code, the Internet Civil Framework, the Public Transportation User Defence Code, the Law on Access to Information, and the Positive Registration Law, among others.
+- Across the Atlantic, one of the most well-known projects being used to bring the focus back to the user and their consent in smart cities around the world is the Decentralised Citizen Owned Data Ecosystem (DECODE). DECODE seeks to develop practical alternatives for building a digital economy centered on data generated and collected in a secure and transparent way. It combines blockchain technology with attribute-based encryption for appropriate privacy protections and gives the data owner control of how their data is accessed and used. Currently, pilot projects take place in Amsterdam and Barcelona. They apply technology to specific cases in three different themes: the Internet of Things, open democracy and shared economy.
+- Finding solutions for encouraging user’s power of choice or achieving the Internet of People, as defined by Julia Powles, is not a goal that can be accomplished in a short amount of time. It depends on software engineering and on legislation but more than that, on the elaboration of public policies aimed to reconcile innovation with the protection of fundamental and human rights. Perhaps, the million-dollar question is: how can we shape the infosphere environment to society’s advantage without undermining technological advancement?
+- You must be logged in to post a comment.
+- Δ
+- oxfordhumanrightshub@law.ox.ac.uk
+- Oxford Human Rights HubThe Faculty of Law, University of Oxford,St Cross Building,St Cross Road,Oxford OX1 3UL
+- Designed and created by Sidebar International.
+- Δ
+- Δ
+
+URL: https://www.biometricupdate.com/202007/metro-facial-biometrics-emotion-gender-detection-system-legitimacy-disputed-in-brazil-court
+- Digital rights advocate Access Now is calling for a ban on biometric data processing used for mass surveillance in public spaces, as it says AI technology deployments without user consent have increased.
+- The Brazilian Institute of Consumer Protection (IDEC) is suing São Paulo Metro operator ViaQuatro for rolling out an AI system for crowd analytics developed by U.S.-based AdMobilize. The technology allegedly detects passenger emotion, age and gender, without tapping into personal information.
+- Access Now does not agree with the claims and insists this is a critical step in how human rights in Brazil will be affected in the future. The watchdog warns that unless prevented, facial recognition surveillance would lead to human rights violations, especially for trans and non-binary people.
+- AdMobilize’s Digital Interactive Doors System was introduced in April 2018. It is a system of interactive doors which display ads. Cameras embedded in the doors let the system identify human faces and attempt to recognize people’s emotion, gender and age while looking at the ads.
+- IDEC sued the metro system in August 2018, accusing the institution of breaching consumer and privacy legislation. ViaQuatro was ordered to stop collecting data, but the case moved forward.
+- According to Access Now’s submitted expert opinion, ViaQuatro makes a number of inaccurate claims.
+- “We also point out that the ‘crowd analytics’ performed by the DID system are based on flawed scientific theories, in the case of emotion detection, and violate the rights of trans and non-binary people, in the case of gender detection,” Access Now writes.
+- The watchdog further states ViaQuatro’s claim of conducting facial detection and not facial recognition, without resorting to biometric information, is inaccurate. The organization claims ViaQuatro leverages two types of facial recognition to detect human faces and then classify them, a process which is impossible to carry out without biometric data processing. Not only is the data not anonymous, but metro passengers are unaware of this entire process taking place, never having had the option to give their consent or not.
+- According to a recent meta-analysis, “the science of emotion is ill-equipped to support any of these initiatives,” referring to the ability to accurately predict emotions from facial analysis.
+- A major mistake in the process is not considering content and culture. As per the same analysis, the system is “best thought of as Western gestures, symbols, or stereotypes that fail to capture the rich variety with which people spontaneously move their faces to express emotions in everyday life.”
+- As a result, the claims made are unscientific, Access Now concludes.
+- Gender detection is another issue affecting trans and non-binary people, as it is strictly associated with biological sex and only assigns the binaries of male or female.
+- The case IDEC vs ViaQautro is expected to come to an end soon and the ruling to have international impact.
+- Access Now  |  accuracy  |  biometric data  |  biometrics  |  Brazil  |  data collection  |  emotion recognition  |  face detection  |  facial recognition  |  gender recognition  |  privacy  |  video analytics  |  video surveillance
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.biometricupdate.com/202105/face-biometrics-systems-shut-down-in-washington-dc-and-sao-paulo-brazil
+- 
+- The National Capital Region Facial Recognition System (NCRFRILS) operated in the U.S. Capitol will be discontinued due to a new Virginia law which bars the use of face biometrics by police unless the legislature approves a specific application.
+- Metropolitan Washington Coalition of Governments (MWCOG) informed the Electronic Privacy Information Center (EPIC) of the policy change in a letter which referred to a previous letter sent by EPIC seeking the publication of documentation for NCRFRILS, and arguing that face biometrics are detrimental to multiple different human rights. An MWCOG spokesperson said at the time that the program was being re-evaluated.
+- The facial recognition system had been used by police departments and government agencies in DC, as well as Maryland and Virginia, and will be shut down no later than July 1, 2021.
+- The São Paulo Court of Justice has blocked the deployment of face biometrics to a camera network within its public transport system, according to an announcement by Access Now.
+- The system reportedly performed facial classification according to demographics and emotion.
+- The court found that Metro operator ViaQuatro failed to submit information that proved it was only aggregating data as statistics, and that it did not inform people that their biometric data was being captured. The company argued that it was performing “facial detection” but not “facial recognition,” according to Access Now, which considers face detection and classification to both be forms of facial recognition.
+- The judge ruled ViaQuatro’s lack of transparency and consistency constitute “abusive business practices,” ordered the company to cease biometric data collection without subject consent, and pay damages of R$100,000 (roughly US$19,000).
+- The Instituto Brasileiro de Defesa do Consumidor (Idec) brought a legal challenge against the system in 2018, and Access Now submitted an expert opinion in 2020 arguing that emotion recognition is unscientific and that gender recognition discriminates against trans and non-binary individuals.
+- “This cornerstone ruling banning facial recognition technology in the São Paulo metro is a victory not only for Brazil, but the rest of the world. It sets a precedent that facial recognition technology, especially automated gender and emotion recognition, implies processing biometric data,” Access Now Policy Associate for Latin America Verónica Arroyo states. “As a next step, governments must inform themselves on how implementing this technology creates extreme harm, and ban automated gender recognition in public spaces.”
+- Access Now  |  biometric identification  |  biometrics  |  facial recognition  |  police  |  privacy  |  transportation  |  video surveillance
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing
+- RIO DE JANEIRO — The 8 million daily passengers riding the São Paulo metro and train system in Brazil could soon get a dose of invasive surveillance.
+- A bill passed in the São Paulo state assembly would authorize the installation of facial recognition cameras in train cars and stations. If approved by Governor João Doria, the measure would pave the way for a massive expansion in the use of facial recognition surveillance in Brazil, where civil society groups have only begun to grapple with the new technology. They warn that, given the topic’s near non-existent public debate in Brazil, the mass installation of the young tech could lead to a new wave of racist policing.
+- At least 20 of Brazil's 26 states have begun piloting or implementing facial recognition cameras since 2019, but none on the scale now proposed in São Paulo, the most populous city in the Western Hemisphere.
+- "This is not a silver bullet," said Bruno Bioni, a lawyer and founder of Data Privacy Brasil, a think tank in São Paulo.
+- The legislation carries the risk of triggering a "waterfall effect," said Bioni. "And today, we do not have clear and robust evidence that facial recognition technology will not create or reinforce discriminatory practices, that they won’t create abusive uses.”
+- The issue, aside from the risks inherent in the massive data collection involved, said Bioni, begins with false positives. Facial recognition cameras scan and analyze crowds, searching for faces that correspond to images in an existing database. For security purposes, that usually means a mugshot bank maintained by local police. When a match is found, the system alerts the police, who then make an arrest.
+- But when a camera mismatches a face in public with an existing database image, police apprehend the wrong people.
+- Such was the case in July 2019. Just two days into Rio de Janeiro's own rollout, a camera installed in the neighborhood of Copacabana mistakenly matched a woman’s face with that of Maria Lêda Félix da Silva, a fugitive convicted of homicide. The apprehended woman was released hours later when family members provided proof of ID.
+- Other mistaken apprehensions, like when police swooped into a bakery and put their guns to the head of 25-year-old-man with special needs in Salvador, Bahia, weren't as peaceful.
+- "Even before the cameras, we knew that the police already have this racist approach," said Bruno Sousa, a researcher at O Panoptico, a monitoring project at the Candido Mendes University Center for Security and Citizenship Studies (CESeC) in Rio de Janeiro.
+- Cases like the ones above only become public when they make the news, said Sousa. Otherwise, Brazilian police do not readily provide information on the circumstances in which arrests are made. Groups like O Panoptico have taken to directly questioning police departments and filing freedom of information requests to analyze the data.
+- Initial research on the tech’s implementation isn’t promising.
+- “We are already seeing an absurdly high error rate,” said Sousa. Cameras installed around Rio’s Maracanã stadium ahead of the 2019 Copa America soccer tournament led to 11 apprehensions, according to a preliminary report by O Panoptico. Only four were true matches. “That’s a 63 percent rate of false alarms, in which people could have been arrested," said Sousa. "And this is a system that shouldn’t even err one percent of the time.”
+- Part of the issue is that the technology is young. “This is something new, something that’s undergoing so many transformations,” said Nina da Hora, a computer scientist at Rio de Janeiro’s Pontifical Catholic University. Chief among the new tech’s issues, da Hora pointed out, is its inaccuracy in identifying Black faces — algorithmic racism.
+- While facial recognition cameras commit minimal errors in recognizing the faces of white men, they misidentified black women up to nearly 35 percent of the time, according to a 2018 study by Joy Buolamwini at the Massachusetts Institute of Technology (MIT). In Brazil, where more than half the population is black or brown, mass installation could lead to a surge in mistaken apprehensions and unnecessary run-ins with the nation’s infamously deadly police.
+- Second, facial recognition tech is also only as good as its underlying database. In Brazil, where some two thirds of the prison population is Black, police image banks used for facial recognition matching are likely to be disproportionately Black. “You’re depending on a non-diverse data set,” said da Hora. “And no one knows its precedents or if it has been properly cared for.”
+- The mere act of leaving database management in the hands of state police can be problematic. After police released the woman mistakenly apprehended in Copacabana, for example, they found that the convict they mistook her for, Silva, wasn’t on the run at all. She was in jail —  after having been arrested in 2015. Their database was out of date.
+- So far, São Paulo legislators have provided no information on which company will supply the cameras, who will manage the data, or even what database metro cameras will use, said Estela Waksberg Guerrini, a lawyer at the state’s Public Defender's Office. “But if it is constructed with data from the police — and historically we know that the police arrest more black people than white people, and not because they commit more crimes but because they are more actively pursued by police because of our racist history — then this database with more images of black people will be used to feed the camera system and, naturally, more black people than white people will be identified.”
+- Outside of São Paulo, that may already be the case. A CESeC analysis found that out of 151 arrests made using facial recognition technology throughout Brazil in the year 2019, 90.5 percent were of black Brazilians.
+- Despite overwhelming evidence of the technology’s issues, Bioni said the overall conversation in Brazil was still immature. Raising the point that a number of cities in the US and Europe have already opted to place moratoriums on the installation of facial recognition cameras, he added, “this debate is yet to take place in Brazil. We need to have that conversation. This is a question of the technology’s maturity, whether it is sufficiently mature to be adopted or not. Today, all signs point to no.”
+
+URL: https://www.accessnow.org/facial-recognition-on-trial-emotion-and-gender-detection-under-scrutiny-in-a-court-case-in-brazil/
+- "*" indicates required fields
+- Your info is secure with us.
+- Get the latest analysis, issue explainers, and community updates
+- Our announcements, open letters, and statements
+- Find us engaging media outlets around the world
+- Read our expert reports and recommendations
+- Join us in our community events on and offline
+- Tell the Egyptian authority to free Alaa Abd El-Fattah
+- Fighting internet shutdowns around the world
+- Putting people first in digital ID systems
+- Ban Biometric Surveillance
+- Reclaim Your Face
+- #KeepItOn for Tigray, Ethiopia
+- Fighting the spread and abuse of dangerous spying tools
+- Rights-based approaches to online content
+- Protecting people’s personal information online
+- Fighting to #KeepItOn around the world
+- We provide 24/7 technical support for activists, journalists, and human rights defenders around the world.
+- Digital security resources for human rights defenders in Ukraine
+- Internet shutdowns and elections handbook
+- Digital safety tips if you are disconnected
+- Defending and extending digital rights of people and communities at risk around the world
+- We act as connective tissue bringing together key stakeholders
+- Meet the experts leading our work around the world
+- We value the diverse perspectives and guidance from our distinguished board
+- Funding & financials
+- Careers
+- Home / Posts / Facial recognition on trial: emotion and gender “detection” under scrutiny in a court case in Brazil
+- We are seeing AI-powered facial recognition systems deployed in increasingly sensitive environments around the world, and often without people’s knowledge or consent. It is critical to ensure these systems do not facilitate human rights violations, in particular of people and communities who are already at risk. When they are put in place on the basis of pseudoscientific claims that enable discriminatory inferences, it hurts human rights and destroys public trust.
+- The Brazilian Institute of Consumer Protection (IDEC) has filed a public civil action against São Paulo Metro operator, ViaQuatro, regarding the installation and use of an AI crowd analytics system from AdMobilize that claims to predict the emotion, age, and gender of metro passengers without processing personal data. Access Now filed an expert opinion criticizing those claims.
+- The IDEC vs. ViaQuatro case is important for the future of human rights in Brazil, and a positive outcome would help set a legal precedent to prevent facial recognition surveillance based on spurious claims that would enable human rights violations. Below, we explore the details of our expert opinion, identify some of the harms of systems like the one in Brazil for trans and non-binary people, and explain why this case has global import.
+- In April, 2018, ViaQuatro, the concessionary of the São Paulo public metro system, announced the installation of the Digital Interactive Doors System (the DID system), developed by AdMobilize, in the yellow metro line. The DID system consisted of interactive doors on the metro platform that displayed ads. The doors were equipped with cameras that, according to ViaQuatro, allowed the DID system to recognize human faces and detect the emotion, gender, and age of passersby who look at the advertising panels in order to tailor the ads displayed to the audience. ViaQuatro justified its implementation by claiming that it would serve as a platform to share information.
+- In August, 2018 The Brazilian Institute of Consumer Protection (IDEC) filed a public civil action against ViaQuatro because it violated the consumer and personal data legislation. Two weeks later, the judge ruled on a precautionary measure and asked ViaQuatro to stop collecting data and to remove the cameras. ViaQuatro complied with the order, while the case continued.
+- Access Now submitted an expert opinion to this case in which we counter a number of misleading claims made by ViaQuatro and their experts about the DID system. We also point out that the “crowd analytics” performed by the DID system are based on flawed scientific theories, in the case of emotion detection, and violate the rights of trans and non-binary people, in the case of gender detection. Here we’ll take a look at some of the main points from our expert opinion.
+- One misleading claim that ViaQuatro and their experts made about the DID system is that it performs facial detection, rather than facial recognition, and that it does this without processing unique biometric information. To see why this makes no sense, let’s start by getting some concepts clear.
+- Facial recognition technology is normally used as an umbrella term which encompasses a range of technological processes, including facial detection, verification (1-1 matching), identification (1-many matching), and classification/analysis (making inferences about what type of face we see).
+- Despite what ViaQuatro claimed, their system does not “just use facial detection,” but in fact uses two types of facial recognition: first, facial detection to figure out whether there are human faces in the images captured by the camera, and second, facial classification/analysis to make inferences about the age, gender, and emotion of those faces.
+- Is it possible to do these two types of facial recognition without using personal data and using only anonymous data? No.
+- Both of these facial recognition processes require the collection and processing of biometric data, which the Article 29 Working Party define as: “biological properties, behavioural aspects, physiological characteristics, living traits or repeatable actions where those features and/or actions are both unique to that individual and measurable.”
+- Biometric systems typically have three stages of processing: enrollment, storage, and matching. In the enrollment stage, biometric data are collected. In the case of the DID system, it captures and processes images of the faces of passersby and detects whether there is a face in that image.
+- To claim that such a system only deals with anonymous data is entirely misleading. At the initial stage of processing, the DID system collects and processes raw images of metro users’ faces, i.e. their unique biometric information. Although anonymization or aggregation may occur after the initial process of facial detection, the fact remains that the system has already collected and processed metro users’ biometric data in the enrollment stage.
+- To make matters worse, metro users were not given an opportunity to opt out, had not consented to the collection of these data, and could not consent in the first place since using public transport is essential in everyday life and the passengers would not have a viable alternative.
+- We also looked at the claim that the DID system can “detect” the emotions of metro users. We point to a recent meta-analysis by Lisa Feldman Barrett et al. of the evidence for such claims, which investigated whether emotions can be reliably predicted from facial analysis. Barrett et al. discuss systems, such as the DID system, from “[t]echnology companies [who] are investing tremendous resources to figure out how to objectively “read” emotions in people by detecting their presumed facial expressions.” However, the conclusion of this study was that “the science of emotion is ill-equipped to support any of these initiatives.”
+- There is no scientific basis to claim that systems like the DID can “perceive” or “detect” the emotions of a person from images of their face. On a basic level, there is no simple one-to-one correlation between facial configurations (such as smiles or frowns) and emotions; people often smile for other reasons than because they are happy, or express happiness by other facial configurations than a smile.
+- Another problem with the approach underlying the DID system, which is based on the controversial “basic emotions” view, is that it doesn’t and can’t take into account context and culture. Proponents of this basic emotions view claim that these basic facial configurations/movements are prototypes for emotional expression with universal validity. By contrast, Barrett et al. demonstrate that these configurations are “best thought of as Western gestures, symbols, or stereotypes that fail to capture the rich variety with which people spontaneously move their faces to express emotions in everyday life.”
+- What all this means is that the inferences made about the emotions of metro users are not scientifically valid. Their biometric data is being collected, stored, and processed in order to make unscientific inferences about their private emotional life.
+- We also outline some serious concerns with the gender detection technology used by the DID system, which is a form of Automatic Gender Recognition (AGR). We look at two major problems with AGR: first, it conflates gender with biological sex and assumes that gender can be determined from the physiological characteristics of a person’s face; second, it assigns gender based on a binary conception of gender (either male or female). Both of these things harm trans and non-binary people.
+- On the first point, we argue that determining gender based on physiological (and in this case physiognomic) characteristics results in the systematic misgendering of trans people who have a gender identity which differs from their biological sex at birth. As Os Keyes says in their article, The Misgendering Machines, “the assumption that sex dictates gender—in other words, that it mandates social roles, combinations of behaviours and traits and aspects of presentation and identity—fails to capture the existence of transgender (trans) people, whose genders do not match their assigned sex.”
+- On the second point, the fact the DID system only assigns gender based on a male-female binary denies the existence of non-binary individuals who do not conform to this binary. AGR systems, such as the one used by AdMobilize, either fail to classify trans and non-binary people as either male or female (they are thus excluded), or they misgender them, by assigning them a gender which does not match what they themselves have chosen as their gender.
+- Rather than “detecting” gender, this technology forcibly assigns gender and in doing so it undermines the ability of trans and non-binary people to self-determination and violates their human dignity. These harms are perpetuated solely for the purpose of serving advertisements to people, which cannot be considered a proportionate aim for such a risk of harm.
+- The case IDEC vs. Via Quatro is its final days and the ruling will have an impact not just on metro users in São Paulo, but globally, too. To date, just one case in 2018 in the Netherlands has stated this kind of facial analysis/categorization should be considered personal data processing and demanded the data processor comply with the General Data Protection Regulation.
+- As AI systems are being deployed in increasingly sensitive environments, we need assurance that these systems do not violate the rights of users and non-users who are impacted by them. Systems which misrepresent their functionality and which make pseudoscientific and discriminatory inferences cannot be deployed without undermining public trust.
+- In IDEC vs. ViaQuatro, we need a decision that protects and advances human rights to help set a precedent that can serve us in future during ongoing surveillance and invasive situations.
+- Access Now’s expert opinion follows our call for a ban on biometric data processing that enables or amounts to mass surveillance in public spaces, and our commitment to holding the private sector accountable for violating human rights.
+- For more updates on this case, do follow IDEC, and/or subscribe to our Access Now Express newsletter.
+- Crafted by Cornershop Creative
+- "*" indicates required fields
+- Your info is secure with us
+- 
+
+URL: https://www.eff.org/deeplinks/2018/12/where-government-hack-their-own-people-and-people-fight-back-latin-american
+- Throughout 2018, new surveillance practices continued to erode the privacy of people in Latin America. Yet local and regional digital rights organizations continue to push back with strategic litigation, journalists and security researchers investigate to shed light on government use of malware, and local activists work tirelessly to fight overarching surveillance laws and practices across the region.
+- In a win for privacy, the São Paulo Court of Justice  ordered a halt to the collection of subway passengers’ data, using advertisements on subway trains that tracked user's facial expressions and traits. The Brazilian Institute of Consumer Protection (IDEC) and the  Latin American Network of Surveillance, Technology and Society Studies (LATVIS), sued Via Quatro, a concessionaire in São Paulo’s subways, defending the privacy rights of around 600,000 Brazilians who use the public transport system everyday.
+- Mexico has remained in the headlines this year for privacy violations. In 2018, Citizen Lab, with the ARTICLE 19 Office for Mexico and Central America, Mexican NGO R3D, and SocialTIC, revealed that two journalists from  Rio Doce—an independent news outlet covering drug cartels—were targeted with malware. The journalists received text messages laced with Pegasus malware made by the Israeli spyware firm NSO Group. They links were sent to them after their colleague, award-winning Mexican journalist and Rio Doce co-founder  Javier Valdez died  of 12 bullet wounds.
+- The Mexican government has been denounced before for illegally spying on twenty of its most outspoken critics. Despite abundant evidence pointing to the illegal use of Pegasus in Mexico, NSO Group has apparently maintained its relationship with the Mexican government. In response, R3D last August filed civil lawsuits in Israel and Cyprus against NSO Group alleging negligence and complicity to human rights violations. R3D is demanding that NSO Group cease its services and be held accountable for its role in the Mexican government's human rights violations. R3D also seeks to hold Mexican officials responsible for these abuses.
+- Governments have used the same malicious software that petty internet criminals use to take over innocent users' computers, for the purpose of social control. This year, El Nuevo Diario published a groundbreaking report revealing a years-old, vast, and illegal spying operation against Guatemalan activists, entrepreneurs, politicians, journalists, diplomats, and social leaders. The report found the government of the Patriot Party (Partido Patriota) spent more than 90 million quetzales (US $12 million) on IMSI-catchers and software to monitor and collect social media information for investigations and surveillance. They also purchased malicious software from the world's most notorious malware providers: Hacking Team’s Galileo and NSO Group’s Pegasus. The news revealed that the government used those tools to target protesters fighting government corruption in 2015. Digital rights organizations such as Fundacion Acceso and IPANDETEC used this opportunity to raise awareness about privacy rights, despite the country's deeply rooted culture of secrecy surrounding surveillance.
+- 2018 saw dangerous legislative efforts to authorize the unregulated use of government hacking by both the city of Buenos Aires and at the federal level. The  Centro de Estudios Legales y Sociales,  Asociación por los Derechos Civiles, la  Asociación Civil por la Igualdad y la Justicia, Fundación Vía Libre, and others fought back against a reform to the Buenos Aires’ Criminal Procedure Code and the Federal Criminal Procedure Code to enable "special investigative measures," such as the government use of malware in criminal investigations. In a win for privacy, those provisions were dropped. These technologies are invasive and surreptitious, and raise far different privacy and security concerns than traditional wiretapping. Each of these new powers is a ticking time-bomb for potential abuse. The dangerous bill failed to provide even basic controls necessary to constrain its use, an independent judiciary who will enforce those limits, or any public oversight mechanism that would allow the general public to know what its country's most secretive government agents are doing in their name.
+- "Operation Hurricane," run by police in Chile's La Araucanía region, prompted the 2017 arrest of eight Mapuche community members, an indigenous group in South Central Chile, accused of forming an illicit terrorist association, using electronic chats as evidence. This year, Operation Hurricane thrust state surveillance into the digital age to the forefront of Chilean public opinion. In a shocking turn, the Chief Prosecutor (Fiscal) of the High Complexity Unit of La Araucanía confirmed the prosecution of officials from the Police Intelligence Directorate of Carabineros for obstruction of justice by producing false evidence to incriminate the Mapuche community members.
+- The Latin American digital rights group Derechos Digitales has been demanding the truth about Operation Hurricane, calling for reforms of Chilean intelligence services, and stressing the need to adopt laws that comply with Chile’s human rights obligations.
+- This year, privacy rights have faced unprecedented attacks from Latin American governments and companies—attacks that the Latin American digital rights community has been instrumental in repelling.  In addition those we've already mentioned, these groups include: the Karisma Foundation in Colombia, which is fighting against facial recognition and CCTV cameras in Colombian subway stations; TEDIC from Paraguay, which raises awareness of surveillance practices such as the use of biometric systems; and international organizations such as ARTICLE 19, with regional offices in Mexico and Brazil, supported by an international office in London.
+- While concerns and actions in Europe and the United States often get the international headlines, local groups in Latin America are doing the vital groundwork of investigating transgressions, lobbying for change, and litigating for justice. We hope that, as the public begins to recognize the growing threats, they will also do more to support organizations doing important work in Latin America.
+- This article is part of our Year in Review series. Read other articles about the fight for digital rights in 2018.
+- 
+- DONATE TO EFF
+- Like what you're reading? Support digital freedom defense today!
+- After three years of virtual gatherings, RightsCon is back! The 12th edition of the world’s leading summit on human rights in the digital age will be a hybrid convening taking place online through the RightsCon platform and in San José, Costa Rica between June 5-8.RightsCon provides an opportunity...
+- SAN FRANCISCO—Seventy-one California police agencies in 22 counties must immediately stop sharing automated license plate reader (ALPR) data with law enforcement agencies in other states because it violates California law and could enable prosecution of abortion seekers and providers elsewhere, three civil liberties groups demanded Thursday in letters to those...
+- Our personal data and the ways private companies harvest and monetize it plays an increasingly powerful role in modern life. Corporate databases are vast, interconnected, and opaque. The movement and use of our data is difficult to understand, let alone trace. Yet companies use it to reach inferences about us,...
+- Location trackers like Tiles and AirTags aren’t just a helpful way to find missing luggage or a misplaced wallet—they can also be easily slipped into a bag or car, allowing stalkers and abusers unprecedented access to a person’s location without their knowledge. That’s why we are enthusiastic about ...
+- Apple has long used end-to-end encryption for some of the information on your iPhone, like passwords or health data, but the company neglected to offer a way to better protect other crucial data, including iCloud backups, until recently. This came after years of a hard fought battle pushing Apple...
+- Latin American and Spanish telecommunications companies have made important advances in their privacy policies and practices, but persistent gaps and worrying trends pose potential risks for internet and mobile phone users, according to a new consolidated report published today by EFF. The report is based on the analyses and...
+- Numerous state laws passed this year, and bills proposed in Congress, would set onerous new restrictions on what young people can do online, depriving teenagers of their First Amendment rights to express themselves, access protected speech, engage in anonymous speech, and participate in online communities. They also enforce a presumption...
+- As the UK’s Online Safety Bill moves through negotiations in the House of Lords, EFF, Open Rights Group, Wikimedia UK, and Index on Censorship have submitted a briefing urging the Lords to uphold the right to private messaging, and protect against prior restraint of lawful speech.Clause 110 of...
+- Last month, we expressed concerns about how the STOP CSAM Act threatens encrypted communications and free speech online. New amendments to the bill have some improvements, but our concerns remain. The STOP CSAM Act Should Not Use the EARN IT Act as a Template for How to Protect Encryption...
+- Back to top
+- Check out our 4-star rating on Charity Navigator.
+
+URL: https://iapp.org/news/a/brazilian-court-halts-metros-facial-recognition/
+- The day’s top stories from around the world
+- Where the real conversations in privacy happen
+- Original reporting and feature articles on the latest privacy developments
+- Alerts and legal analysis of legislative trends
+- Exploring the technology of privacy
+- A roundup of the top Canadian privacy news
+- A roundup of the top European data protection news
+- A roundup of the top privacy news from the Asia-Pacific region
+- A roundup of the top privacy news from Latin America
+- A roundup of US privacy news
+- Talk privacy and network with local members at IAPP KnowledgeNet Chapter meetings, taking place worldwide.
+- Have ideas? Need advice? Subscribe to the Privacy List. It’s crowdsourcing, with an exceptional crowd.
+- Looking for a new challenge, or need to hire your next privacy pro? The IAPP Job Board is the answer.
+- Locate and network with fellow privacy professionals using this peer-to-peer directory.
+- Review a filterable list of conferences, KnowledgeNets, LinkedIn Live broadcasts, networking events, web conferences and more.
+- Understand Europe’s framework of laws, regulations and policies, most significantly the GDPR.
+- Steer a course through the interconnected web of federal and state laws governing U.S. data privacy.
+- Learn the intricacies of Canada’s distinctive federal/provincial/territorial data privacy governance systems.
+- Develop the skills to design, build and operate a comprehensive data protection program.
+- Add to your tech knowledge with deep training in privacy-enhancing technologies and how to deploy them.
+- Introductory training that builds organizations of professionals with working privacy knowledge.
+- Learn the legal, operational and compliance requirements of the EU regulation and its global influence.
+- Meet the stringent requirements to earn this American Bar Association-certified designation.
+- The global standard for the go-to person for privacy laws, regulations and frameworks
+- The first and only privacy certification for professionals who manage day-to-day operations
+- As technology professionals take on greater privacy responsibilities, our updated certification is keeping pace with 50% new content covering the latest developments.
+- Recognizing the advanced knowledge and issue-spotting skills a privacy pro must attain in today’s complex world of data privacy.
+- The first title to verify you meet stringent requirements for knowledge, skill, proficiency and ethics in privacy law, and one of the ABA’s newest accredited specialties.
+- The IAPP’S CIPP/E and CIPM are the ANSI/ISO-accredited, industry-recognized combination for GDPR readiness. Learn more today.
+- Mostre seus conhecimentos na gestão do programa de privacidade e na legislação brasileira sobre privacidade.
+- Certification des compétences du DPO fondée sur la législation et règlementation française et européenne, agréée par la CNIL.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources covering AI connections to the privacy space.
+- This report explores the state of AI governance in organizations and its overlap with privacy management.
+- This report explores the compensation, both financial and nonfinancial, offered to privacy professionals.
+- This report shines a light on what consumers around the globe think about privacy and the companies that collect, hold and use their data.
+- This year’s governance report goes back to the foundations of governance, exploring “the way that organizations are managed, and the systems for doing this."
+- The IAPP’s US State Privacy Legislation Tracker consists of proposed and enacted comprehensive state privacy bills from across the U.S.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources related to international data transfers.
+- IAPP members can get up-to-date information here on the California Consumer Privacy Act and the California Privacy Rights Act.
+- Access all reports and surveys published by the IAPP.
+- Use the Vendor Demo Center, Privacy Vendor List and Privacy Tech Vendor Report to easily identify privacy products and services to support your work.
+- Leaders from across the country’s privacy field deliver insights, discuss trends, offer predictions and share best practices.
+- Hear expert speakers address the latest developments in data protection globally and in the Netherlands.
+- Hear top experts discuss global privacy issues and regulations affecting business across Asia.
+- Join top experts for practical discussions of issues and solutions for data protection in the DACH region.
+- P.S.R. 2023 is the place for speakers, workshops and networking focused on the intersection of privacy and technology.
+- Europe’s top experts predict the evolving landscape and give insights into best practices for your privacy operation.
+- Explore the full range of U.K. data protection issues, from global policy to daily operational details.
+- Expand your network and expertise at the world’s top privacy event featuring A-list keynotes and high-profile experts.
+- View our open calls and submission instructions.
+- Increase visibility for your organization — check out sponsorship opportunities today.
+- Start taking advantage of the many IAPP member benefits today
+- See our list of high-profile corporate members—and find out why you should become one, too
+- Don’t miss out for a minute—continue accessing your benefits
+- 
+- 
+- According to Access Now, the Court of Justice of São Paulo, Brazil, ordered the city's public transport, ViaQuatro, to end its use of facial recognition technology and subsequent data collection. The order put a halt to the collection of images, sound or any other personal data without prior consent. Brazilian Institute for Consumer Protection Digital Rights Program Lawyer Michel Roberto de Souza said the decision is justified because "it should not be permissible" for such a comprehensive system to operate "without adequately informing passersby, without transparency, and without asking for consent."Full Story
+- If you want to comment on this post, you need to login.
+- The IAPP is the largest and most comprehensive global information privacy community and resource. Founded in 2000, the IAPP is a not-for-profit organization that helps define, promote and improve the privacy profession globally.
+- The IAPP is the only place you’ll find a comprehensive body of resources, knowledge and experts to help you navigate the complex landscape of today’s data-driven world. We offer individual, corporate and group memberships, and all members have access to an extensive array of benefits.
+- © 2023 International Association of Privacy Professionals.All rights reserved.
+- Pease International Tradeport, 75 Rochester Ave.Portsmouth, NH 03801 USA • +1 603.427.9200
+
+URL: https://intervozes.org.br/acao-quer-vedar-o-uso-de-tecnologias-de-reconhecimento-facial-pelo-metro-de-sao-paulo/
+- Por comunicainter em 
+			4 de março de 2022
+- Com o objetivo de impedir que os 4 milhões de usuários e usuárias diários do Metrô de São Paulo continuem a ter informações sobre seus rostos coletadas, mapeadas e monitoradas por meio de reconhecimento facial, organizações da sociedade civil e defensorias protocolaram uma Ação Civil Pública nesta quinta-feira (3). Assinam a ação a Defensoria Pública do Estado de São Paulo, Defensoria Pública da União, Instituto Brasileiro de Defesa do Consumidor (Idec), Intervozes – Coletivo Brasil de Comunicação Social, ARTIGO 19 Brasil e América do Sul e Coletivo de Advocacia em Direitos Humanos – CADHu .
+- As entidades alertam que o sistema de reconhecimento facial implementado pelo Metrô de SP não atende aos requisitos legais previstos na Lei Geral de Proteção de Dados (LGPD), no Código de Defesa do Consumidor, no Código de Usuários de Serviços Públicos, no Estatuto da Criança e do Adolescente, na Constituição Federal e nos tratados internacionais.
+- “O reconhecimento facial implementado pelo metrô obtém um dado pessoal biométrico e insubstituível, que é a informação sobre nosso rosto. O metrô tem feito isso violando praticamente todas as leis sobre a matéria, da LGPD ao ECA, passando pela Constituição e pelos tratados internacionais”, diz Eloísa Machado, professora da FGV e uma das advogadas da ação.
+- A Ação Civil Pública é resultado da análise dos documentos apresentados pelo Metrô de São Paulo no âmbito de uma ação judicial anterior que cobrava informações sobre a implementação do projeto que custou mais de R$ 50 milhões aos cofres públicos e que, entre outras medidas, envolveu a previsão de realização de reconhecimento facial em quem utilizasse o meio de transporte.
+- “A ineficácia da tecnologia, agressiva e invasiva por natureza, além de produzir ações discriminatórias contra os passageiros, pode piorar a já precarizada experiência do usuário de transporte público, que pode ter seu longo e cansativo trajeto diário interrompido em virtude de ‘falsos positivos’, gerando inclusive mais insegurança ao usuário”, afirma Diogo Moyses, coordenador do programa de Direitos Digitais do Idec. “Sem informações precisas, também é questionável a prioridade de se gastar milhões em um monitoramento falho em vez de investir na necessária melhoria e expansão do sistema de transportes sobre trilhos”, complementa Estela Guerrini, defensora pública e coordenadora do Núcleo Especializado de Defesa do Consumidor da Defensoria Pública do Estado.
+- Parte central da ação aponta que as tecnologias de reconhecimento facial elevam exponencialmente o risco de discriminação de pessoas negras, não binárias e trans, já que esse tipo de tecnologia é reconhecidamente falho em sua acurácia e imerso em ambiente de racismo estrutural. Mesmo os melhores algoritmos possuem pouca precisão ao realizar o reconhecimento de pessoas negras e transgênero, que são mais afetadas por falsos positivos e falsos negativos e ficam mais expostas a constrangimentos e violações de direitos. “O resultado discriminatório da tecnologia de reconhecimento facial é insolúvel e reflete o enviesamento presente na própria base de dados que alimenta essa tecnologia, já que é elaborada e desenvolvida por alguns poucos homens cis e brancos de multinacionais que controlam a sua venda para o restante do mundo”, afirma Isadora Brandão, defensora pública e coordenadora do Núcleo Especializado de Defesa da Diversidade e da Igualdade Racial da Defensoria Pública do Estado.
+- “A realização de reconhecimento facial dos usuários do metrô coleta de forma massiva dados biométricos sem consentimento, uma medida desproporcional que instala um sistema de vigilância em massa. Ela inaugura um caminho sem volta para a normalização e de uma sociedade vigiada, cada vez mais vulnerável a inclinações autoritárias de governos que passam a ter um controle sem precedentes da vida dos cidadãos”, afirma Pedro Ekman, coordenador executivo do Intervozes.
+- A ação também questiona o uso de imagem e a coleta e tratamento de dados pessoais sensíveis de crianças e adolescentes, sem que haja o consentimento dos pais ou responsáveis, em frontal violação ao que determina a LGPD, o ECA e a proteção constitucional. “Além disso, como as crianças crescem e seus rostos mudam rapidamente, sabe-se que a chance de acerto do sistema de reconhecimento facial em crianças é pequena, caindo por terra o argumento de que esse sistema possibilitaria a localização de crianças desaparecidas”, complementa Daniel Secco, defensor público e coordenador do Núcleo Especializado da Infância e Juventude, da Defensoria Pública do Estado.
+- As organizações apontam que a iniciativa está na contramão de medidas de outros países, em especial na Europa e nos EUA, que apontam para uma restrição no uso massivo desse tipo de tecnologia, pelo seu caráter invasivo e seu potencial de estabelecer um cenário de vigilância e monitoramento das pessoas que transitam em espaços públicos. Nos últimos anos, empresas como Microsoft, IBM e Amazon também informaram que vão suspender a venda de soluções de reconhecimento facial para o uso policial, por potencial violação aos direitos humanos.
+- “Ainda que houvesse um compromisso em ‘melhorar’ o desempenho dessas ferramentas, isso não seria suficiente para tornar o seu uso massivo seguro e compatível com os Direitos Humanos – nesse sentido, para que ocorresse o reconhecimento facial com maior exatidão, a população que transita nos espaços monitorados estaria mais vulnerável ainda a ser rastreada, por exemplo. Em determinados casos, isso pode atingir até mesmo o exercício do direito de protesto. Dessa forma, é necessário que esses usos sejam interrompidos e banidos”, pontua Sheila de Carvalho, coordenadora do Centro de Referência Legal da Artigo 19 Brasil e América do Sul. “Trata-se de uma ação judicial que se torna pioneira ao questionar o Poder Judiciário sobre o uso de reconhecimento facial em lugares públicos e acessíveis ao público, tecnologia que vem sendo implementada de forma massiva e indiscriminada por todo o Brasil”, conclui.
+- A ação ainda demanda que a Justiça determine que o Metrô interrompa imediatamente a realização de reconhecimento facial em suas dependências e, além disso, pleiteia o pagamento de indenização de pelo menos R$ 42 milhões (valor previsto no contrato para implementação dessa tecnologia) em decorrência dos danos morais coletivos pelo prejuízo causado aos direitos de seus passageiros e passageiras.
+- O Intervozes luta pelo direito à comunicação, a liberdade de expressão, por uma mídia democrática e uma Internet livre e plural. Para que todas as pessoas, sotaques, raças, religiões e ideias possam ser ouvidas e respeitadas. Participe desta luta!
+- Assessoria de Comunicação: [email protected]
+- Email: [email protected]
+
+URL: https://www.biometricupdate.com/202203/brazilian-subway-operator-pushing-facial-recognition-despite-sustained-protests
+- Use of facial recognition systems in the subways of São Paulo, Brazil, are being challenged by civil rights organizations and the state’s public defender’s office.
+- Opponents of Companhia do Metropolitano de São Paulo’s biometric network want it shut down immediately and compensation of R$42 million (approximately US$8.1 million). It is not spelled out in an announcement who would be compensated.
+- The groups say that São Paulo Metro’s indiscriminate surveillance network violates Brazil’s constitution and international treaties. A private firm, ViaQuatro, operates the Metro in partnership with the state of São Paulo.
+- ViaQuatro has said its system, in fact, performs facial detection, not recognition, a point that not everyone accepts.
+- It also is illegal under the nation’s General Law of Data Protection, the Consumer Defense Code, the Code of Users of Public Services and, perhaps crucially, the Child and Adolescent Statute, according reporting by Intervozes, a civil activist organization.
+- Intervozes and several fellow civil and human rights outfits filed suit March 3 after viewing a previous court-ordered release of system information.
+- Intervozes claims the face biometrics network cost more than R$50 million ($10 million).
+- For that money, opponents claim, the Metro got a system that is biased against people other than cis and white males.
+- It operates without consent and out of proportion to public needs and presents unique potential harm to minors, they say.
+- Two years ago, local government watchdog Access Now urged a ban on face biometrics in public transportation. At the time, in 2020, ViaQuatro was building an AI system for crowd analytics from U.S.-based AdMobilize.
+- Two years before that, ViaQuatro was involved in a lawsuit, after ViaQuatro put AI-enabled AdMobilize cameras over station doors. It used data short of facial recognition, according to the firm, to create targeted ad in stations.
+- A judge agreed with the plaintiffs in a class action that there was not enough practical difference between what ViaQuatro called facial detection and what Brazilian law defined as recognition.
+- One of the points spotlighted by the judge was that children and adolescents were distinctly protected against anyone processing data on them without the consent of guardians.
+- ViaQuatro was restricted to using its station-door marketing system only on people who had first given their consent.
+- biometric identification  |  biometrics  |  Brazil  |  data protection  |  face detection  |  facial recognition  |  transportation  |  video analytics  |  video surveillance
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/
+- Most Popular
+- The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology.
+- According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court, Companhia do Metropolitano de São Paulo (METRO) must immediately suspend the process to capture and processing of biometric data for facial recognition in the context of the implementation of an electronic surveillance system.
+- Moreover, the company has been ordered to immediately suspend the roll-out of new equipment that promotes data capture and biometrics processing for facial recognition. The decision also sets a daily fine in the event of non-compliance.
+- The decision follows a civil lawsuit initiated by several civil rights organizations calling for a ban on the use of facial recognition technology amid discrimination concerns. According to the latest sentence, the entities argued that despite the fact this was not explicit in the public notice for the system, one of its objectives is implementing a facial recognition system of all subway users, with capacity for data storage and sharing.
+- The claimants argued that the electronic monitoring system would involve facial recognition, with images of all 4 million daily metro users captured by a system called SecurOS. The goal is to store data, and there is a possibility that SecurOS will be integrated with other electronic monitoring systems based on facial recognition.
+- Citing the civil lawsuit, the sentence noted the organizations deem the capture of biometric data from all Metro users as "illegal and disproportionate, since all faces, from all users, will be read, copied, measured and recorded." In addition, the organizations argued that despite the data processing activities, there are no measures in place for obtaining consent and non-consent to data processing biometric data of subway users.
+- In addition, the sentence noted the entities have argued that there is a lack of transparency around the characteristics and risks related to the treatment of personal data by the company running the São Paulo metro system. The organizations noted that METRO failed to explain which database will be used to train facial recognition models, which prevents evaluating the project efficiency. Furthermore, there is no information about the evaluation and impact measures and risk mitigation in implementing the electronic monitoring system with facial recognition.
+- According to the latest decision, judge Thome noted that METRO has not yet provided precise information about how facial recognition would be used in the subway system and how the information would be processed.
+- The sentence argued that the case presents several technical issues that require additional evidence, but the system's implementation could impact citizens' fundamental rights.
+- "On the other hand, it must be considered that the administrative contract is in force and that there was a large investment by METRO. In addition, no doubt suspending the execution of the contract regarding the installation of the system may generate irreversible damages", the sentence noted.
+- Contacted by ZDNet, METRO said that it had not been notified of the decision. However, the company said it "will appeal and provide all clarifications, since the new monitoring system strictly complies with the General Data Protection Regulations provisions." Since February, personal data protection is a fundamental right in Brazil.
+
+URL: https://www.biometricupdate.com/202203/brazilian-subway-operator-pushing-facial-recognition-despite-sustained-protests
+- Use of facial recognition systems in the subways of São Paulo, Brazil, are being challenged by civil rights organizations and the state’s public defender’s office.
+- Opponents of Companhia do Metropolitano de São Paulo’s biometric network want it shut down immediately and compensation of R$42 million (approximately US$8.1 million). It is not spelled out in an announcement who would be compensated.
+- The groups say that São Paulo Metro’s indiscriminate surveillance network violates Brazil’s constitution and international treaties. A private firm, ViaQuatro, operates the Metro in partnership with the state of São Paulo.
+- ViaQuatro has said its system, in fact, performs facial detection, not recognition, a point that not everyone accepts.
+- It also is illegal under the nation’s General Law of Data Protection, the Consumer Defense Code, the Code of Users of Public Services and, perhaps crucially, the Child and Adolescent Statute, according reporting by Intervozes, a civil activist organization.
+- Intervozes and several fellow civil and human rights outfits filed suit March 3 after viewing a previous court-ordered release of system information.
+- Intervozes claims the face biometrics network cost more than R$50 million ($10 million).
+- For that money, opponents claim, the Metro got a system that is biased against people other than cis and white males.
+- It operates without consent and out of proportion to public needs and presents unique potential harm to minors, they say.
+- Two years ago, local government watchdog Access Now urged a ban on face biometrics in public transportation. At the time, in 2020, ViaQuatro was building an AI system for crowd analytics from U.S.-based AdMobilize.
+- Two years before that, ViaQuatro was involved in a lawsuit, after ViaQuatro put AI-enabled AdMobilize cameras over station doors. It used data short of facial recognition, according to the firm, to create targeted ad in stations.
+- A judge agreed with the plaintiffs in a class action that there was not enough practical difference between what ViaQuatro called facial detection and what Brazilian law defined as recognition.
+- One of the points spotlighted by the judge was that children and adolescents were distinctly protected against anyone processing data on them without the consent of guardians.
+- ViaQuatro was restricted to using its station-door marketing system only on people who had first given their consent.
+- biometric identification  |  biometrics  |  Brazil  |  data protection  |  face detection  |  facial recognition  |  transportation  |  video analytics  |  video surveillance
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+- Moscow Metro Face Pay
+- Spotify emotion recognition
+- Page infoType: IncidentPublished: March 2022

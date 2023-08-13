@@ -1,0 +1,390 @@
+- GoGuardian Beacon student suicide detection, prevention
+- Occurred: October 2021
+- Can you improve this page?Share your insights with us
+- The Baltimore Sun reports that Baltimore City Scools are monitoring the laptops of local school students for indications of self-harm and suicide. Should an alert be sent, local rather than school police are sometimes being sent to respond.
+- Baltimore, like many other school systems, loaned out laptops to students during the COVID-19 pandemic, many of which are loaded with GoGuardian's Beacon suicide prevention software.
+- However, reports suggest the software is also being used for disciplinary purposes and can result in LGBTQ students being unintentionally outed, or student expression hampered.
+- In addition, it appears less wealthy students may be tracked more regularly since school-owned laptops may be their only devices.
+- Other reports state school police monitor GoGuardian software after school hours, including on weekends and holidays, raising concerns about students enduring more or less constant surveillance.
+- Operator: Baltimore City Public Schools; Pekin Community High School  Developer: Liminex Inc/GoGuardian Country: USA Sector: Education Purpose: Detect & categorise at-risk behaviour Technology: Suicide prevention algorithmIssue: Privacy; Surveillance; Bias/discrimination - economic; Dual/multi-useTransparency: Black box
+URL: https://www.baltimoresun.com/education/bs-md-laptops-monitoring-20211012-a2j3vsytijhhjj36n57ri5zdhi-story.html
+- 
+- Thank you for supporting our journalism. This article is available exclusively for our subscribers, who help fund our work at The Baltimore Sun.
+- The Baltimore City school system is monitoring its laptops with software that alerts officials when a student might be considering suicide, a controversial innovation that came about during the pandemic after the system loaned families tens of thousands of the computers for use at home.
+- Since March, nine students have been identified through GoGuardian’s Beacon software as having a severe mental health crisis and were taken to an emergency room, according to Stacey Davis, the city schools coordinator of media and instructional technology. In at least two of those cases, the students had never had any mental health care.
+- The Baltimore City Public Schools system headquarters on North Avenue is shown in 2012.  (Amy Davis/Baltimore Sun)
+- Two reports released in the past month question the use of such technology across the country to track students, warning that it might be used for disciplinary purposes, unintentionally out LGBTQ students or squash student expression. The studies also point out that the behavior of economically disadvantaged students may be tracked more frequently than wealthier students because the school-owned laptop is their only device.
+- “Privacy and equity was not being considered as much as it needs to be,” said Elizabeth Laird, director of equity in civic technology at the Center for Democracy and Technology in Washington and co-author of one of the reports. “Student activity monitoring is quite widespread.”
+- Baltimore County uses GoGuardian software for other purposes but does not monitor for self-harm. School officials said their approach to suicide prevention focuses on building relationships between students and school staff.
+- Harford, Howard and Carroll counties said they do not monitor student devices for warning signs of self injury. Anne Arundel County did not respond to questions about any monitoring.
+- In Baltimore City, on weekends and at night when school psychologists or social workers aren’t available, school police officers have been sent to students’ homes to check on them after alerts from the software, as first reported by The Real News Network.
+- GoGuardian did not respond to questions about what keywords its software uses to identify students who might be planning suicide.
+- Davis said when a message comes in to school police, the agency’s dispatcher first tries to call a family. If they don’t get an answer, a school police officer is sent to the home to talk to the family — what’s known as a “wellness check.”
+- [ Baltimore schools have extensive COVID testing. Delays have meant students spend extra days in quarantine. ]
+- School police Chief Akil Hamm said his officers go to the door of a home, show the parents a copy of the alert and what their child typed. Then, he said, “we ask the parents if we can lay eyes on the student.”
+- School police are trained in trauma-informed care and behavioral crisis response, and to recognize signs of mental health crisis and how to respond.
+- Hamm said parents usually are grateful to have been alerted.
+- “As they talk, they work with the guardian to determine if the alert is serious enough to require the student be taken for a mental health evaluation at Hopkins” Davis said. “If not, they will leave information about MD 211′s crisis line or recommend a visit with the family doctor or a walk-in clinic.”
+- Police only took a student to the emergency room once, and it was at the request of the parents, Hamm said. Students are not handcuffed, Hamm said, and officers don’t demand to enter the homes.
+- The information is passed on to the principal of the student’s school, but school police don’t keep a record of it and it’s not entered into a student’s file.
+- Having school police involved concerns Larry Simmons, president of the city school system’s Parent Community Advisory Board. Having a school police officer arrive at the door may look punitive and not supportive. The officers carry firearms when they are off school grounds.
+- “School police are not social workers,” he said.
+- In general, Simmons said, “I would say that this is really disturbing. You have not only monitored the kid, but the family, as well.”
+- The monitoring comes out of a need for systems to protect students from inappropriate material on the internet, such as pornography. Inside schools, districts also have firewalls that prevent students from using sites such as Twitter, Facebook and YouTube.
+- When the coronavirus pandemic hit, many school systems supplied laptops so students could study at home. To make sure they focused on their work, districts purchased web filtering and monitoring software. In some cases, like Baltimore City, the systems didn’t set policies on how much of a student’s work could be seen and monitored.
+- Davis said the city purchased GoGuardian software that allows teachers to watch what students are doing on their laptops while they were teaching remotely.
+- [ [From the archive] Baltimore school system will not make students struggling during the pandemic repeat a grade in the fall ]
+- GoGuardian, as well as Gaggle, another software company, sells an additional service that uses artificial intelligence to monitor student searches and, in some cases, their writing for evidence that they may harm themselves. Gaggle also provides teletherapy for students by counselors.
+- Since March, the city schools have gotten 786 alerts from Beacon. Of those, clinicians responded 401 times, while school police went to homes 12 times. In addition to the nine students referred to an emergency room, 12 students were referred to a crisis response center. The races and ages of the affected children were unavailable.
+- “Through the expansion of virtual learning, a lot of things have to be rolled out very quickly, some have unintended consequences,” said Zach Taylor, a representative of the Baltimore Teachers Union. “Good intentions and policies can have adverse effects.”
+- He said the school system should have an open discussion about the use of the technology.
+- Holly Wilcox, a professor at the Johns Hopkins Bloomberg School of Public Health, whose research focuses on suicide, said Hopkins emergency room doctors became interested in the tool when three students arrived in a short period of time in the emergency room needing mental health care.
+- Wilcox said the doctors contacted her and she began checking whether the use of Beacon is finding children who might not have been treated otherwise. She said she is in the early stages of looking into it and has contacted other hospitals in the region.
+- “I see the risks and the potential privacy concerns people have,” she said. But, “if it is going to save someone’s life and get them the help they need,” it is important to have in place.
+- Wilcox said she wants to determine whether students get the help they need, if their problems could have been spotted before they reached a crisis and who the professionals are that will follow up with their care.
+- Deborah Demery, president of the Baltimore City Council of PTAs, said she is not concerned by the monitoring.
+- “As far as being concerned personally,” Demery said, “I feel much better they are monitoring and they are able to get those kids the help. It is a safeguard and it is working.”
+- Sharon A. Hoover, co-director of the National Center for School Mental Health at the University of Maryland National School Mental Health Center would agree, but she believes there should be guardrails on the technology’s use.
+- “There is some good intentions behind the technology and, at the same time, they are raising questions and concerns around privacy,” said Hoover, who is also a professor of child and adolescent psychiatry.
+- Society must balance the risks of invading privacy and the loss of that for the common good, she said.
+- “Do I think there is some positive potential in protecting students from suicide? Yes, I do.”
+- Copyright © 2023, Baltimore Sun
+
+URL: https://apnews.com/article/technology-baltimore-health-education-ead9cecb355600b3bf8ff9aad98b5eb6
+- 
+- BALTIMORE (AP) — Baltimore public schools are using software that alerts officials when a student using one of the system’s laptops might be considering suicide.
+- Since March, GoGuardian’s Beacon software has identified nine students as having a severe mental health crisis. All were taken to an emergency room, Stacey Davis, the city schools coordinator of media and instructional technology, told  The Baltimore Sun.
+- But the practice, which came about as the system loaned out laptops for students’ home use during the pandemic, is raising questions about privacy and equity. Two recent reports warn that such technology could be used for disciplinary purposes, unintentionally out LGBTQ students or squash student expression. They also note that economically disadvantaged students may be tracked more frequently since school-owned laptops may be their only devices.
+- “Privacy and equity was not being considered as much as it needs to be,” said Elizabeth Laird, director of equity in civic technology at the Center for Democracy and Technology in Washington and co-author of one of the reports. “Student activity monitoring is quite widespread.”
+- When there’s an alert on weekends and at night, when school psychologists or social workers aren’t available, a school police dispatcher tries to call the family. If there’s no answer, an officer goes to the home to talk to the family, Davis said.
+- Officers show parents a copy of the alert and what their child typed, then ask to see the student, school police Chief Akil Hamm said. Only once have officers taken a student to the emergency room, and it was at the parents’ request, Hamm said.
+- Baltimore schools have gotten 786 alerts from Beacon since March. Of those, clinicians responded 401 times and school police went to homes 12 times. In addition to the nine students referred to an emergency room, 12 students were referred to a crisis response center.
+- Having school police arrive at a family’s home could look unsupportive and punitive, said Larry Simmons, president of the system’s Parent Community Advisory Board.
+- “School police are not social workers,” he said.
+- The monitoring doesn’t concern Baltimore City Council of PTAs President Deborah Demery.
+- “As far as being concerned personally, I feel much better they are monitoring and they are able to get those kids the help. It is a safeguard and it is working,” Demery said.
+- Society has to balance the risks of invading privacy and the loss of privacy for the common good, said Sharon A. Hoover, co-director of the National Center for School Mental Health at the University of Maryland.
+- Hoover, who is also a professor of child and adolescent psychiatry, said she believes there are good intentions behind the technology “and at the same time, they are raising questions and concerns around privacy.”
+- “Do I think there is some positive potential in protecting students from suicide? Yes, I do,” she said.
+
+URL: https://news.yahoo.com/baltimore-city-student-laptops-monitored-080000798.html
+- BALTIMORE — The Baltimore City school system is monitoring its laptops with software that alerts officials when a student might be considering suicide, a controversial innovation that came about during the pandemic after the system loaned families tens of thousands of laptops for use at home.
+- Since March, nine students have been identified through GoGuardian’s Beacon software as having a severe mental health crisis and were taken to an emergency room, according to Stacey Davis, the city schools coordinator of media and instructional technology. In at least two of those cases, the students had never had any mental health care.
+- Two reports released in the past month question the use around the country of such technology to track students, warning that it might be used for disciplinary purposes, unintentionally out LGBTQ students or squash student expression. The studies also point out that, unlike for wealthier students who may own laptops, the behavior of economically disadvantaged students may be tracked more frequently because the school-owned laptop is their only device.
+- “Privacy and equity was not being considered as much as it needs to be,” said Elizabeth Laird, director of equity in civic technology at the Center for Democracy and Technology in Washington and co-author of one of the reports. “Student activity monitoring is quite widespread.”
+- Baltimore County uses GoGuardian software, although not the company’s Beacon product, to monitor for possible self-harm. School officials said their approach to suicide prevention focuses on building relationships between students and school staff.
+- Harford, Howard and Carroll counties said they do not monitor student devices for warning signs of self injury. Anne Arundel County did not respond to questions about any monitoring.
+- In Baltimore City, on weekends and at night when school psychologists or social workers aren’t available, school police officers have been sent to students’ homes to check on them after alerts from the software, as first reported by The Real News Network.
+- GoGuardian did not respond to questions about what keywords its software uses to identify students who might be planning suicide.
+- Davis said when a message comes in to school police, the agency’s dispatcher first tries to call a family. If they don’t get an answer, a school police officer is sent to the home to talk to the family — known as a “wellness check.”
+- School police Chief Akil Hamm said his officers go to the door of a home, show the parents a copy of the alert and what their child typed. Then, he said, “We ask the parents if we can lay eyes on the student.”
+- School police are trained in trauma-informed care, behavioral crisis response, and to recognize signs of mental health crisis and how to respond.
+- Hamm said parents are usually grateful to have been alerted.
+- “As they talk, they work with the guardian to determine if the alert is serious enough to require the student be taken for a mental health evaluation at Hopkins. If not, they will leave information about MD 211′s crisis line or recommend a visit with the family doctor or a walk-in clinic,” Davis said.
+- Police have only once taken a student to the emergency room, and it was at the request of the parents, Hamm said. Students are not handcuffed, Hamm said, and officers don’t demand to enter the homes.
+- The information is passed on to the principal of the student’s school, but school police don’t keep a record of it and it’s not entered into a student’s file.
+- Having school police involved concerns Larry Simmons, president of the system’s Parent Community Advisory Board. Having a school police officer arrive at the door may look punitive and not supportive. Officers carry firearms when they are off school grounds.
+- “School police are not social workers,” he said.
+- In general, Simmons said, “I would say that this is really disturbing. You have not only monitored the kid, but the family, as well.”
+- The monitoring comes out of a need for systems to protect students from inappropriate material on the internet, such as pornography. Inside schools, districts have firewalls that prevent students from using sites such as Twitter, Facebook and YouTube.
+- When the coronavirus pandemic hit, many school systems supplied laptops so students could study at home. To make sure they focused on their work, districts purchased monitoring software. In some cases, like Baltimore City, the systems didn’t set policies on how much of a student’s work could be seen and monitored.
+- Davis said the city purchased GoGuardian, which has allowed teachers to watch what students are doing on their laptops while they were teaching remotely.
+- GoGuardian, as well as Gaggle, another software company, sells an additional service that uses artificial intelligence to monitor student searches and, in some cases, their writing for evidence that they may harm themselves. Gaggle also provides teletherapy for students by counselors.
+- Since March, the city schools have gotten 786 alerts from Beacon. Of those, clinicians responded 401 times, while school police went to homes 12 times. In addition to the nine students referred to an emergency room, 12 students were referred to a crisis response center. The races and ages of the affected children were unavailable.
+- “Through the expansion of virtual learning, a lot of things have to be rolled out very quickly, some have unintended consequences,” said Zach Taylor, a representative of the Baltimore Teachers Union. “Good intentions and policies can have adverse effects.”
+- He said the school system should have an open discussion about the use of the technology.
+- Holly Wilcox, a professor at the Johns Hopkins Bloomberg School of Public Health, whose research focuses on suicide, said Hopkins emergency room doctors became interested in the tool when three students arrived in a short period of time in the emergency room needing mental health care.
+- Wilcox said the doctors contacted her and she began checking whether the use of Beacon is finding children who might not have been treated otherwise. She said she is in the early stages of looking into it and has contacted other hospitals in the region.
+- “I see the risks and the potential privacy concerns people have,” she said. But, “if it is going to save someone’s life and get them the help they need,” it is important to have in place.
+- Wilcox said she wants to determine if students get the help they need, whether their problems could have been spotted before they reached a crisis and who are the professionals that will follow up with their care.
+- Deborah Demery, president of the Baltimore City Council of PTAs, said she is not concerned by the monitoring.
+- “As far as being concerned personally, I feel much better they are monitoring and they are able to get those kids the help. It is a safeguard and it is working,” Demery said.
+- Sharon A. Hoover, co-director of the National Center for School Mental Health at the University of Maryland National School Mental Health Center would agree, but she believes there should be guardrails on the use of the technology.
+- “There is some good intentions behind the technology and, at the same time, they are raising questions and concerns around privacy,” said Hoover, who is also a professor of child and adolescent psychiatry. She said society must balance the risks of invading privacy and the loss of that for the common good.
+- “Do I think there is some positive potential in protecting students from suicide? Yes, I do.”
+- ____
+
+URL: https://theconversation.com/school-surveillance-of-students-via-laptops-may-do-more-harm-than-good-170983
+
+URL: https://www.forbes.com/sites/lisakim/2021/10/12/school-issued-laptops-in-baltimore-are-monitoring-students-for-risk-of-self-harm-as-concern-mounts-nationwide-over-surveillance/
+- Nine students in Baltimore public schools have been referred for medical help since March after surveillance software installed on laptops handed out by the city’s school system flagged them as considering suicide, the Baltimore Sun reported Tuesday, amid controversy nationwide involving tracking of students’ activity on school-provided computers has raised concerns about privacy and equity.
+- Futuristic graphical user interface concept.
+- Laptops loaned out to students for online classes when the pandemic hit come with software made by GoGuardian that monitors for signs that students are at risk of self-harm, the Baltimore Sun reported.
+- The surveillance software has sent out nearly 780 alerts to schools in Baltimore since March, the Baltimore Sun reported, adding that in nine of those cases, students were referred to an emergency room, and in 12 others to a crisis response center.
+- School police check in on students after receiving alerts from the software when school psychologists or social workers are out of reach, the Baltimore Sun reported.
+- GoGuardian’s software allows teachers to virtually monitor every click and search students are making, and one of its products, Beacon, which the Associated Press reported Baltimore public schools are using, “quietly analyzes” what students are doing on their laptops in real-time, according to GoGuardian’s website.
+- Research by a tech policy nonprofit Center for Democracy and Technology found earlier this month that online activities of students from lower-income households were more likely to be surveilled because they were more likely to use devices from schools. Around seven in 10 teachers said students using school-owned devices that come with software installed were being monitored. In contrast, nearly two in 10 said students who use their personal devices were being watched, according to research by the Center for Democracy and Technology.
+- When the pandemic began, schools across the country handed out laptops and other electronic devices to ensure that students could participate in virtual classes. The Center for Democracy and Technology found that nearly nine in 10 teachers said their schools provided school-issued devices during the pandemic, which is twice the rate before the pandemic.
+- Baltimore City student laptops are monitored for mentions of suicide. Sometimes, the police are called. (The Baltimore Sun)
+- Baltimore schools monitor student laptops for suicide signs (Associated Press)
+- US schools gave kids laptops during the pandemic. Then they spied on them (Guardian)
+- 
+
+URL: https://baltimore.cbslocal.com/2021/10/12/baltimore-schools-monitor-student-laptops-for-suicide-signs/
+- Watch CBS News
+- October 12, 2021 / 9:53 PM
+          / CBS Baltimore
+- BALTIMORE (AP) — Baltimore public schools are using software that alerts officials when a student using one of the system's laptops might be considering suicide.
+- Since March, GoGuardian's Beacon software has identified nine students as having a severe mental health crisis. All were taken to an emergency room, Stacey Davis, the city schools coordinator of media and instructional technology, told The Baltimore Sun.
+- But the practice, which came about as the system loaned out laptops for students' home use during the pandemic, is raising questions about privacy and equity. Two recent reports warn that such technology could be used for disciplinary purposes, unintentionally out LGBTQ students or squash student expression. They also note that economically disadvantaged students may be tracked more frequently since school-owned laptops may be their only devices.
+- "Privacy and equity was not being considered as much as it needs to be," said Elizabeth Laird, director of equity in civic technology at the Center for Democracy and Technology in Washington and co-author of one of the reports. "Student activity monitoring is quite widespread."
+- When there's an alert on weekends and at night, when school psychologists or social workers aren't available, a school police dispatcher tries to call the family. If there's no answer, an officer goes to the home to talk to the family, Davis said.
+- Officers show parents a copy of the alert and what their child typed, then ask to see the student, school police Chief Akil Hamm said. Only once have officers taken a student to the emergency room, and it was at the parents' request, Hamm said.
+- Baltimore schools have gotten 786 alerts from Beacon since March. Of those, clinicians responded 401 times and school police went to homes 12 times. In addition to the nine students referred to an emergency room, 12 students were referred to a crisis response center.
+- Having school police arrive at a family's home could look unsupportive and punitive, said Larry Simmons, president of the system's Parent Community Advisory Board.
+- "School police are not social workers," he said.
+- The monitoring doesn't concern Baltimore City Council of PTAs President Deborah Demery.
+- "As far as being concerned personally, I feel much better they are monitoring and they are able to get those kids the help. It is a safeguard and it is working," Demery said.
+- Society has to balance the risks of invading privacy and the loss of privacy for the common good, said Sharon A. Hoover, co-director of the National Center for School Mental Health at the University of Maryland.
+- Hoover, who is also a professor of child and adolescent psychiatry, said she believes there are good intentions behind the technology "and at the same time, they are raising questions and concerns around privacy."
+- "Do I think there is some positive potential in protecting students from suicide? Yes, I do," she said.
+- (© Copyright 2021 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten or redistributed.)
+- First published on October 12, 2021 / 9:53 PM
+- © 2021 CBS Broadcasting Inc. All Rights Reserved.
+- ©2023 CBS Broadcasting Inc. All Rights Reserved.
+
+URL: https://wtop.com/baltimore/2021/10/baltimore-schools-monitor-student-laptops-for-suicide-signs/
+- The Associated Press
+- October 12, 2021, 1:38 PM
+- BALTIMORE — Baltimore public schools are using software that alerts officials when a student using one of the system’s laptops might be considering suicide. Stacey Davis is the city schools coordinator of media and instructional technology. The Baltimore Sun quotes her as saying that GoGuardian’s Beacon software identified nine students as having a severe mental health crisis, and those students were later treated. But now the software is raising privacy and equity concerns. Two recent reports warn that such technology could be used for disciplinary purposes, unintentionally out LGBTQ students or monitor economically disadvantaged students more often since school laptops may be their only devices.
+- Copyright
+                        © 2023 The Associated Press. All rights reserved. This material may not be published, broadcast, written or redistributed.
+- 5425 Wisconsin Ave
+                Chevy Chase, MD 20815
+- hello@wtop.com
+- 202.895.5000
+- 
+- Copyright © 2022 by WTOP. All rights reserved. This website is not intended for users located within the European Economic Area.
+
+URL: https://therealnews.com/cops-in-baltimore-schools-are-monitoring-students-laptops
+- Follow us on Mastodon
+- Follow us on Mastodon
+- The Real News Network
+- This story originally appeared as a segment in Battleground Baltimore on Oct. 1, 2021.
+- Amid a push to divert mental health crisis response to trained mental health professionals and away from police, Baltimore City Councilperson Ryan Dorsey called attention to the fact that Baltimore City Schools sometimes send police to respond when students use keywords on their district-issued laptops that could indicate self-harm.
+- “Clinical supervisors, school police, principals and designated school staff receive all GoGuardian alerts. During the school day, alerts are forwarded to respective school-based clinicians to respond … In cases where the student is not in school and contact cannot be made, wellness checks are conducted by school police and follow up with school-based clinicians.”
+- “[Baltimore City Schools] monitors students’ chrome books for keyword searches indicating interest in self-harm, and then sends police—not qualified professionals—to intervene,” Dorsey tweeted on Sept. 29. “This is crazy.”
+- Khalilah Harris, acting vice president for K-12 education policy at the Center for American Progress, was disturbed by the fact that students are being surveilled and said that surveillance could potentially lead to an encounter with the police.
+- “It is unconscionable for any school district to be surveilling their students through technology meant for schoolwork. Likewise, no school district should be inviting police to show up at the homes of their students, and particularly students experiencing mental health crises,” Harris told Battleground Baltimore. “Thrusting children into the school-to-prison pipeline who need medical care is a disgrace.”
+- André Riley, director of communications for Baltimore City Public Schools, explained the process to Battleground Baltimore. City schools, like many school systems around the country, use GoGuardian, a monitoring service that allows others to see how students are using their laptops.
+- “Clinical supervisors, school police, principals and designated school staff receive all GoGuardian alerts. During the school day, alerts are forwarded to respective school-based clinicians to respond. Students are assessed for lethality, parents are contacted, referrals are made, and resources are provided,” Riley said. “In cases where the student is not in school and contact cannot be made, wellness checks are conducted by school police and follow up with school-based clinicians.”
+- School police also monitor GoGuardian after school hours, including on weekends and holidays, and they can choose to do wellness checks, which, Riley explained, “include school police advising parents of the alert, speaking to students and making referrals as needed.” Riley also explained what happens after the initial response to the GoGuardian alert.
+- “School police also are able to conduct emergency petitions for those students who demonstrate at-risk behaviors,” Riley said. “During the following day, school-based clinicians follow up with students and families to further assess student support needs.”
+- City Schools did not disclose how many times School Police have been deployed since March 2020, when students switched to remote learning and were given take-home laptops.
+- The number of times the Baltimore Police Department or Baltimore School Police have transported youth under emergency petition was not known until school advocate and public school parent Melissa Schober obtained the information via public information request. Between 2016-2019, Baltimore police detained students 280 times. School Police assisted with 1,273 emergency petitions from August 2016 to March 2020.
+- For Schober, what Dorsey called attention to raised more questions than it answered: What happens when school police conduct wellness checks? Do they use screening tools? Do they follow up with the district?
+- “To me, this is a huge nightmare of accountability when you have unlicensed individuals responding to computer alerts unannounced,” she said.
+- When questioned, City Schools did not disclose how many times School Police have been deployed since March 2020, when students switched to remote learning and were given take-home laptops.
+- School psychologist and Baltimore Teachers Union Special Services Vice President Brittany Johnstone explained that City Schools are using School Police instead of paying trained staff to work outside regular hours or relying on third party mental health services such as Baltimore Child and Adolescent Response System (BCARS).
+- “School psychologists, counselors, and social workers respond during school hours but after hours District Leadership has designated School Police to respond. They could work with outside agencies to have BCARS or other qualified mental health services to respond but nope,” Johnstone tweeted.
+- As Battleground Baltimore previously reported, Baltimore Police responded to what the department themselves labelled a “mental health crisis” back in August by fatally shooting 40-year-old Marcus Martin, who was armed but alone in his home, leaving his family searching for answers. Police responded because the incident happened in the evening and BPD’s crisis response team only operates between the hours of  11:00AM and 7:00PM.
+- Dorsey learned of the School Police interventions after questioning City Schools about a citizen’s report that a School Police vehicle was parked outside of Power Plant Live, a hub for downtown bars and nightclubs, on a Friday night. In an email obtained by Battleground Baltimore, City Schools said School Police were investigating the Power Plant incident, and explained the unit was part of the Night Response Unit that monitors school facilities after hours. The email also explained that, since the pandemic, the Night Response Unit had begun conducting wellness checks on students: “When a student conducts a search related to self-harm, it activates ‘GoGuardian’ alerts, which are then funneled to School Police.”
+- This information raised even more questions for Dorsey and he emailed City Schools officials.
+- “I’m actually floored that in 2021 we’re directly linking the mental health of students to a police response. That seems about as misguided as can be.”
+- “Is there any evidence that 3-5 people … monitoring 150 buildings (~37.5 to 1?) is actually producing any result? I’d like to see data on that. Is there any monitoring of these activities?” Dorsey questioned in an email. “I’m actually floored that in 2021 we’re directly linking the mental health of students to a police response. That seems about as misguided as can be.”
+- For Dorsey, School Police monitoring students’ computers—and possibly arriving at a student’s home based on what that student has searched or typed—runs counter to the numerous conversations about implementing non-carceral solutions to social issues and providing trauma-informed care.
+- In January, Baltimore became the first city to require officials to train on trauma-informed care through the Healing City Act. But as Baltimore Teachers Union Vice President Zach Taylor tweeted, City Schools are exempt from the Healing City Act: “Unfortunately, as an independent state agency @BaltCitySchools is not required to follow the Healing City Act, but it could still sign-on, engage in the trainings, agree to follow the protocols, etc… but they’ve been silent on the matter and appear uninterested.”
+- “Everybody in public service should undertake trauma-informed training, but school police should simply not exist,” Dorsey said.
+- Editor’s Note:  Khalilah Harris, acting vice president for K-12 education policy at the Center for American Progress, is a former TRNN host and executive producer.
+- Principled journalism that gets to the roots of the crises we face is more important today than ever. Journalism that doesn't dwell in despair, but empowers you to take action. Journalism that movements and organizers need to fight worker exploitation, the climate catastrophe, white supremacy, and more.
+- We never accept corporate cash and we never hide our content behind restrictive pay walls. But that means we need you to rush a tax-deductible donation or join our growing community of sustaining members who give a little each month to make a big difference to our journalists and contributors.
+- Even more ways to give...
+- Republish This Story
+- 
+- Republish our articles for free, online or in print, under a Creative Commons license.
+- This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+- by Jaisal Noor, The Real News Network October 4, 2021
+- This <a target="_blank" href="https://therealnews.com/cops-in-baltimore-schools-are-monitoring-students-laptops">article</a> first appeared on <a target="_blank" href="https://therealnews.com">The Real News Network</a> and is republished here under a Creative Commons license.<img src="https://i0.wp.com/therealnews.com/wp-content/uploads/2021/11/cropped-TRNN-2021-logomark-square.png?fit=150%2C150&amp;ssl=1" style="width:1em;height:1em;margin-left:10px;"><img id="republication-tracker-tool-source" src="https://therealnews.com/?republication-pixel=true&post=276955&amp;ga4=G-7LYS8R7V51" style="width:1px;height:1px;">
+- Jaisal is currently the Democracy Initiative Manager at the Solutions Journalism Network and is a former TRNN host, producer, and reporter. He mainly grew up in the Baltimore area and studied modern history at the University of Maryland, College Park. Before joining TRNN, he contributed print, radio, and TV reports to Free Speech Radio News, Democracy Now! and The Indypendent. Jaisal's mother has taught in the Baltimore City Public School system for the past 25 years. Follow him on Twitter @jaisalnoor.
+- Email address:
+- 
+- If you’d like, you can support our reporting by kicking in a little each month.
+- Use Signal,  a free messaging application with end-to-end encryption.
+Signal (signal.org) is a free, open-source messaging application that encrypts all communications end-to-end. Signal’s servers will store only your phone number and the time you were last active, and messages can be set to automatically erase themselves from your phone and ours after a certain period of time.
+	
+The TRNN newsroom can be reached via Signal at 1-443-216-9712.
+	
+
+Use SecureDrop, an anonymity tool for journalists and whistleblowers.
+
+		SecureDrop is an anonymity tool for journalists and whistleblowers. You can use our SecureDrop installation to anonymously submit documents to The Real News, and our journalists can use SecureDrop to securely communicate with anonymous contacts.
+
+			
+
+To protect your anonymity when using SecureDrop, it is essential that you do not use a network or device that can easily be traced back to your real identity. Instead, use public wifi networks and devices you control.
+
+			
+
+Do NOT access SecureDrop on your employer’s network.
+Do NOT access SecureDrop using your employer’s hardware.
+Do NOT access SecureDrop on your home network.
+DO access SecureDrop on a network not associated with you, like the wifi at a library or cafe.
+
+
+			
+
+Once you are connected to a public network at a cafe or library, download and install the desktop version of Tor Browser.
+
+			
+
+Launch Tor Browser. Visit our organization’s unique SecureDrop URL at http://isomzhlu2hqz2ll6t3c7mt67j3mvad2omzptk6cnc2ce2fzdabjjmnid.onion/. Follow the instructions you find on our source page to send us materials and messages.
+
+			
+
+When you make your first submission, you will receive a unique codename. Memorize it. If you write it down, be sure to destroy the copy as soon as you’ve committed it to memory. Use your codename to sign back in to our source page, check for responses from our journalists, and upload additional materials.
+
+			
+
+No tool can absolutely guarantee your security or anonymity. The best way to protect your privacy and anonymity as a source is to adhere to best practices.
+
+			
+
+You can use a separate computer you’ve designated specifically to handle the submission process. Or, you can use an alternate operating system like Tails, which boots from a USB stick and erases your activity at the end of every session.
+
+			
+
+A file contains valuable metadata about its source — when it was created and downloaded, what machine was involved, the machine’s owner, etc. You can scrub metadata from some files prior to submission using the Metadata Anonymization Toolkit featured in Tails.
+
+			
+
+Your online behavior can be extremely revealing. Regularly monitoring our publication’s social media or website can potentially flag you as a source. Take great care to think about what your online behavior might reveal, and consider using Tor Browser to mitigate such monitoring.
+
+			
+
+Our organization retains strict access control over our SecureDrop project. A select few journalists within our organization will have access to SecureDrop submissions. We control the servers that store your submissions, so no third party has direct access to the metadata or content of what you send us.
+			
+
+Do not discuss leaking or whistleblowing, even with trusted contacts.
+			
+
+Send us physical mail.
+Sending us physical mail is also an option that can preserve your anonymity, especially if you use a public mailbox:
+			
+Maximilian Alvarez, Editor in Chief
+The Real News Network
+231 Holliday St.
+Baltimore, MD 21202
+- Signal (signal.org) is a free, open-source messaging application that encrypts all communications end-to-end. Signal’s servers will store only your phone number and the time you were last active, and messages can be set to automatically erase themselves from your phone and ours after a certain period of time.
+- The TRNN newsroom can be reached via Signal at 1-443-216-9712.
+- SecureDrop is an anonymity tool for journalists and whistleblowers. You can use our SecureDrop installation to anonymously submit documents to The Real News, and our journalists can use SecureDrop to securely communicate with anonymous contacts.
+- To protect your anonymity when using SecureDrop, it is essential that you do not use a network or device that can easily be traced back to your real identity. Instead, use public wifi networks and devices you control.
+- Do NOT access SecureDrop on your employer’s network.
+Do NOT access SecureDrop using your employer’s hardware.
+Do NOT access SecureDrop on your home network.
+DO access SecureDrop on a network not associated with you, like the wifi at a library or cafe.
+- Once you are connected to a public network at a cafe or library, download and install the desktop version of Tor Browser.
+- Launch Tor Browser. Visit our organization’s unique SecureDrop URL at http://isomzhlu2hqz2ll6t3c7mt67j3mvad2omzptk6cnc2ce2fzdabjjmnid.onion/. Follow the instructions you find on our source page to send us materials and messages.
+- When you make your first submission, you will receive a unique codename. Memorize it. If you write it down, be sure to destroy the copy as soon as you’ve committed it to memory. Use your codename to sign back in to our source page, check for responses from our journalists, and upload additional materials.
+- No tool can absolutely guarantee your security or anonymity. The best way to protect your privacy and anonymity as a source is to adhere to best practices.
+- You can use a separate computer you’ve designated specifically to handle the submission process. Or, you can use an alternate operating system like Tails, which boots from a USB stick and erases your activity at the end of every session.
+- A file contains valuable metadata about its source — when it was created and downloaded, what machine was involved, the machine’s owner, etc. You can scrub metadata from some files prior to submission using the Metadata Anonymization Toolkit featured in Tails.
+- Your online behavior can be extremely revealing. Regularly monitoring our publication’s social media or website can potentially flag you as a source. Take great care to think about what your online behavior might reveal, and consider using Tor Browser to mitigate such monitoring.
+- Our organization retains strict access control over our SecureDrop project. A select few journalists within our organization will have access to SecureDrop submissions. We control the servers that store your submissions, so no third party has direct access to the metadata or content of what you send us.
+- Do not discuss leaking or whistleblowing, even with trusted contacts.
+- Sending us physical mail is also an option that can preserve your anonymity, especially if you use a public mailbox:
+- Maximilian Alvarez, Editor in Chief
+The Real News Network
+231 Holliday St.
+Baltimore, MD 21202
+
+URL: https://www.washingtonpost.com/local/education/baltimore-school-laptops-monitored/2021/10/24/be2c6b6e-2d2a-11ec-8ef6-3ca8fe943a92_story.html
+- This article was published more than 1 year ago
+- The Baltimore City school system is monitoring its laptops with software that alerts officials when a student might be considering suicide, a controversial innovation that came about during the coronavirus pandemic after the system loaned families tens of thousands of the computers for use at home.
+- Since March, nine students have been identified through GoGuardian’s Beacon software as having severe mental health crises and were taken to an emergency room, according to Stacey Davis, the city schools coordinator of media and instructional technology. In at least two of those cases, the students had never had any mental health care.
+- Two reports released in the past month question the use of such technology across the country to track students, warning that it might be used for disciplinary purposes, unintentionally out LGBTQ students or squash student expression. The studies also point out that the behavior of economically disadvantaged students may be tracked more frequently than wealthier students because the school-owned laptop is their only device.
+- “Privacy and equity was not being considered as much as it needs to be,” said Elizabeth Laird, director of equity in civic technology at the Center for Democracy and Technology in Washington and co-author of one of the reports. “Student activity monitoring is quite widespread.”
+- Baltimore County uses GoGuardian software for other purposes but does not monitor for self-harm. School officials said their approach to suicide prevention focuses on building relationships between students and school staff members.
+- Harford, Howard and Carroll counties said they do not monitor student devices for warning signs of self-injury. Anne Arundel County did not respond to questions about any monitoring.
+- In Baltimore City, on weekends and at night when school psychologists or social workers aren’t available, school police officers have been sent to students’ homes to check on them after alerts from the software, as first reported by The Real News Network.
+- GoGuardian did not respond to questions about what keywords its software uses to identify students who might be planning suicide.
+- Davis said when a message comes in to school police, the agency’s dispatcher first tries to call a family. If they don’t get an answer, a school police officer is sent to the home to talk to the family in what’s known as a “wellness check.”
+- School Police Chief Akil Hamm said his officers go to the door of a home, show the parents a copy of the alert and what their child typed. Then, he said, “we ask the parents if we can lay eyes on the student.”
+- School police are trained in trauma-informed care and behavioral crisis response and to recognize signs of mental health crisis and how to respond.
+- Hamm said parents usually are grateful to have been alerted.
+- “As they talk, they work with the guardian to determine if the alert is serious enough to require the student be taken for a mental health evaluation at Hopkins” Davis said. “If not, they will leave information about MD 211’s crisis line or recommend a visit with the family doctor or a walk-in clinic.”
+- Many of the nation’s schoolchildren struggle with mental health
+- Police only took a student to the emergency room once, and it was at the request of the parents, Hamm said. Students are not handcuffed, Hamm said, and officers don’t demand to enter the homes.
+- The information is passed on to the principal of the student’s school, but school police don’t keep a record of it and it’s not entered into a student’s file.
+- Having school police involved concerns Larry Simmons, head of the city school system’s Parent Community Advisory Board. Having a school police officer arrive at the door may look punitive, not supportive. The officers carry firearms when they are off school grounds.
+- “School police are not social workers,” he said.
+- In general, Simmons said, “I would say that this is really disturbing. You have not only monitored the kid, but the family as well.”
+- The monitoring comes out of a need for systems to protect students from inappropriate material on the Internet, such as pornography.
+- Inside schools, districts also have firewalls that prevent students from using sites such as Twitter, Facebook and YouTube.
+- When the coronavirus pandemic hit the United States, many school systems supplied laptops so students could study at home.
+- To make sure they focused on their work, districts purchased Web-filtering and -monitoring software.
+- In some cases, such as tc Baltimore City, the systems didn’t set policies on how much of a student’s work could be seen and monitored.
+- Davis said the city purchased GoGuardian software, which allows teachers to watch what students are doing on their laptops while they are teaching remotely.
+- GoGuardian, as well as Gaggle, another software company, sells an additional service that uses artificial intelligence to monitor student searches — and, in some cases, their writing — for evidence that they may harm themselves. Gaggle also provides teletherapy for students by counselors.
+- Since March, the city schools have gotten 786 alerts from Beacon. Of those, clinicians responded 401 times, while school police went to homes 12 times. In addition to the nine students referred to an emergency room, 12 students were referred to a crisis response center. The races and ages of the affected children were unavailable.
+- “Through the expansion of virtual learning, a lot of things have to be rolled out very quickly, some have unintended consequences,” said Zach Taylor, a representative of the Baltimore Teachers Union. “Good intentions and policies can have adverse effects.”
+- He said the school system should have an open discussion about the use of the technology.
+- Holly Wilcox, a professor at the Johns Hopkins Bloomberg School of Public Health whose research focuses on suicide, said Hopkins emergency room doctors became interested in the tool when, in a short period of time, three students arrived in the emergency room needing mental health care.
+- Wilcox said the doctors contacted her, and she began checking whether the use of Beacon is finding children who might not have been treated otherwise.
+- She said she is in the early stages of looking into the matter and has contacted other hospitals in the region.
+- “I see the risks and the potential privacy concerns people have,” she said. But, “if it is going to save someone’s life and get them the help they need,” it is important to have in place.
+- Wilcox said she wants to determine whether students get the help they need, if their problems can be spotted before they reach a crisis and which professionals will follow up with their care.
+- Deborah Demery, president of the Baltimore City Council of PTAs, said she is not concerned by the monitoring.
+- “As far as being concerned personally,” Demery said, “I feel much better they are monitoring and they are able to get those kids the help. It is a safeguard and it is working.”
+- Sharon A. Hoover, co-director of the National Center for School Mental Health, would agree, but she believes there should be guardrails on the technology’s use.
+- “There is some good intentions behind the technology and, at the same time, they are raising questions and concerns around privacy,” said Hoover, who is also a professor of child and adolescent psychiatry at the University of Maryland School of Medicine.
+- Society must balance the risks of invading privacy and the loss of that for the common good, she said.
+- “Do I think there is some positive potential in protecting students from suicide? Yes, I do.”
+- — Baltimore Sun
+- Local newsletters: Local headlines (8 a.m.) | Afternoon Buzz (4 p.m.)
+- Like PostLocal on Facebook | Follow @postlocal on Twitter | Latest local news
+
+URL: https://www.bloomberg.com/news/features/2021-10-28/how-goguardian-ai-spyware-took-over-schools-student-devices-during-covid
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://slate.com/technology/2021/11/goguardian-school-pandemic-surveillance.html
+- GoGuardian is a software company that makes, essentially, spyware: software that helps teachers and schools block and monitor what kids are doing online. When a student is using a school-issued Chromebook that has GoGuardian on it, the teacher can see just about everything they’re doing. These technologies have been embraced by teachers and state Departments of Education alike, but students are less enthralled with having their online lives constantly surveilled.
+- On Friday’s episode of What Next: TBD, I spoke with Priya Anand, a tech reporter for Bloomberg who wrote a story on GoGuardian, about the rise of the school surveillance state and the implications of this technology for student’s mental health and privacy.
+- Lizzie O’Leary: You wrote for Bloomberg about Pekin Community High School in Illinois, which has been using GoGuardian for three years. Tell me about how the technology is being used there.
+- Priya Anand: Teachers can, at the start of class, start what’s called a session. They can set the rules for what everyone who’s in their class is allowed to do on the computer in a class. Then at the end of class, they also get a report on what everyone was actually doing online while they were in class. That way, they don’t have to go around and actually peek behind every single screen.
+- It’s steps further than just saying, “OK, YouTube is not allowed.” For example, if a student is typing something into a Google doc, it can flag for an administrator that a student typed whatever it might be into their Google doc, and then quickly deleted it, for example.
+- GoGuardian has been around since 2014, but the pandemic seems to have really supercharged use by schools and school districts. How is the pandemic fit into this story?
+- Schools were already giving kids laptops, and the Obama administration had made a push for schools to get into the digital era. But during the pandemic, so many schools that were holdouts or maybe didn’t give every single kid a laptop were then thrusting devices into their kids’ hands and saying, “Just keep them and do your stuff all through your computer.”
+- What was the pitch that GoGuardian made to schools and to districts about why this software should be something that they should invest in?
+- Administrators told us that for them, it was like sending a teacher home with a kid. With GoGuardian—since teachers can see what’s going on on a kid’s screen, and so can administrators—they felt like it was akin to having a teacher walk behind a student. They could then see, “Johnny is just playing video games all day on a school computer. These three assignments for these classes have not been done. What’s going on? Now we know that this kid is maybe having a hard time because of the pandemic.” That was the argument.
+- A lot of schools have returned to in-person learning. How are they using these tools now?
+- What I found really interesting when I visited that school in Pekin, Illinois, was teachers told me that they find GoGuardian more useful when they are in the classroom. For example, they had A days and B days, where every kid came in every other day last year. When kids were at home, they didn’t tell them, “Sit at your computer eight hours straight. You have math class at 8 a.m., English at 9 a.m.” They gave kids assignments. They had to log in for attendance by a certain time, but the assignments were very much complete them as you wish. They also knew that some of their students had taken on jobs to be able to help support their families.
+- Since kids weren’t necessarily in math class at 8 a.m., math teachers didn’t want to block things like YouTube, for example, because a kid in a language class might need to watch a Spanish video to do that assignment. But in the classroom, teachers feel like it’s a great tool for them to be able to say, “Nobody is going to open Netflix during my class. Nobody is going to open Minecraft during my class.”
+- What type of reach does this company have? How many kids, how many schools, what kind of numbers are we talking about?
+- GoGuardian told us that their potential reach is more than 23 million students, which is a pretty sizable portion of the K to 12 population in the U.S. In Delaware and West Virginia, for example, the state Departments of Education signed contracts to offer GoGuardian to all their schools.
+- When you talked to parents in Pekin, a lot of them were more than fine with this kind of technology being used on their kids. They compared it with the parental controls that they have at home.
+- By and large, it seems like across the country there’s not a huge groundswell of parents saying, “Stop this now. We don’t like this. Don’t track our kids online.” But there are parents in some pockets of the country, like Montclair, New Jersey, for example, who did protest GoGuardian’s implementation. The school district sent out a note earlier this year saying, “OK, we’re testing this out.” And parents there felt like, “Where does the tracking end?” Because GoGuardian does have a feature you can turn on that’ll track kids on personal devices or family computers at home, if they’re logged into their school account. One of the parents I spoke with was concerned that, do kids have the right anymore to have space to themselves? He said, “When I was a teenager, I just wanted to shut the door sometimes and have some time to myself.”
+- The response from GoGuardian is that they serve a more important purpose than just keeping students on task. The company says its algorithms can detect troubling searches, like content about suicide. The software can then alert administrators about kids whose online behavior might mean they’re experiencing a mental health crisis.
+- GoGuardian really pitches itself as a tool that can help schools understand kids’ mental health, possibly slipping to the point of self-harm or harm to others. Being able to track if they search for something that might indicate that they need help.
+- Is there any evidence that that’s true? That these digital red flags have helped schools step in and help kids who are in crisis?
+- You’d be hard-pressed to find empirical hard evidence by a third-party researcher. But Pekin Community High School, for example, shared anecdotes about how they feel. Even if they catch one kid who might be slipping, they feel it’s worth it.
+- The algorithms that GoGuardian uses are proprietary. If you are using a proprietary software tool in a public school to trigger alerts about some child to parents, administrators, and teachers, it seems tough if the algorithm itself is a black box.
+- Critics do say that these companies, their algorithms, operate in a black box. And, if they’re heavily influencing how public schools are handling decisions about children in those schools, there should be more oversight. It’s an open question. We don’t know how these algorithms actually make these decisions. Sen. Elizabeth Warren, along with two other senators, sent a letter to GoGuardian and a couple of its competitors, asking for more of an explanation on how the algorithms work, and have the companies considered whether their algorithms account for potential bias? Have they considered whether their algorithms could help compound racial disparities in school discipline?
+- The letter from Sen. Warren made me wonder a couple of different things. Let’s say you’re an LGBTQ kid, and you’re looking for help online. Or you are Googling some stuff to kind of work through your sexuality, but you haven’t discussed that with your parents or anyone at school. Then, that gets flagged by the school. That seems like you could put children in a very difficult and uncomfortable position.
+- I’ve talked to privacy experts who’ve said, “What if a kid is Googling something about their identity that they’re not ready to share yet, and administrators and teachers see that? It could either influence their perception of the kid, or their behavior toward the kid, or put the kid in the position of having to explain themselves in a way they might not be ready for.”
+- You have this line in your story that really stuck with me after I read it. It’s, “But no one actually knows how well, or even if, these technologies work.” What does it mean for this stuff to work? What’s the yardstick?
+- More than 80 percent of teachers say that their school uses some kind of monitoring to track what kids are doing online. Among students, that research found that at least 26 percent are not comfortable with it, but the interesting thing is more than 80 percent said they reported being “more careful about what I search online when I know what I do online is being monitored.” Six in 10 students said that they agree with the statement, “I do not share my true thoughts or ideas, because I know what I do online is being monitored.” If they know they’re being monitored, but six out of 10 say they’re not sharing how they actually feel—then if the true point is to catch what they’re actually feeling, are you getting there? Is it actually working?
+- Are there other equity implications with this technology?
+- Well, are there schools that don’t turn on the extended monitoring that allows them to see what students are doing even on their personal computers? Are there kids out there who are just using their personal computers instead of their school computers? And therefore aren’t being monitored, because their families are well off enough to get around the fact that their school device is being tracked? Kids whose families can’t afford another device for them to do their schoolwork on, are using a school laptop and thus being tracked in a way that the richer kids aren’t. Do rich kids get more privacy?
+- When the pandemic began, a big question that lots of people asked was, “What happens to learning if we close the schools?” We know some answers to that now, but I wonder about the technological legacies of this pandemic. Could you ever see schools going back to a world where this kind of software isn’t used?
+- It’s hard to see a world in which schools would abandon this kind of technology. By all indications, schools seem to find this useful, even in non-remote times when kids are in school in real life, butts in chairs in the classroom, to make sure they’re on track. So it’s hard to imagine a world where the school surveillance state is put back in a box.
+- Future Tense
+    is a partnership of
+    Slate,
+    New America, and
+    Arizona State University
+    that examines emerging technologies, public policy, and society.
+- Slate is published by The Slate
+          Group, a Graham Holdings Company.
+- All contents ©
+        2023
+        The Slate Group LLC. All rights reserved.
+
+- Gaggle student behavioural monitoring
+- Seoul bridge suicide detection, prevention
+- Page infoType: Incident Published: October 2021

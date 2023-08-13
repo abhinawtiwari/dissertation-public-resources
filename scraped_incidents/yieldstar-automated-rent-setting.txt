@@ -1,0 +1,47 @@
+- Released: 2017
+- Can you improve this page?Share your insights with us
+- YieldStar is a revenue management algorithm created by property management IT company RealPage that is used to assess and set real estate rental prices across the USA.
+- In October 2022, ProPublica published the results of an investigation it had conducted into the impact of YieldStar on real estate rental prices throughout the USA, concluding that it is responsible for artificially driving up prices and stifling competition.
+- The investigation found that approximately 90% of the 31,000+ property managers/landlords who use YieldStar obey its price increase suggestions. Many landlords do not negotiate with their tenants - something discouraged by RealPage - and thereby sacrifice their relationships and trust with them.
+- ProPublica also alleges that RealPage's software may be facilitating collusion amongst its clients, particularly in locations where many of them use YieldStar to set rent prices.
+- Shortly after ProPublica's article, nine renters filed (pdf) a lawsuit in San Diego accusing RealPage of forming 'a cartel to artificially inflate the price of and artificially decrease the supply and output of multifamily residential real estate leases from competitive levels.'
+- The article also prompted three senators and seventeen members of congress (pdf) to request the US Department of Justice to investigate RealPage, a move repeated (pdf) in March 2023.
+- Media reports indicate the DoJ opened an investigation late November 2022.
+- RealPage acknowledges that YieldStar recommends a price for every available unit every day, determining the rate by drawing on private competitor data on the actual rent tenants paid, as opposed to the publicly advertised rent.
+- However, the company will not reveal its inner workings, or open its algorithm to third-party inspection or assessment.
+- Operator: Greystar; FPI Management; Equity Residential, Lincoln Property Company; Mid-America Apartment Communities Developer: RealPage Country: USA Sector: Real estate sales/management Purpose: Calculate rent prices Technology: Pricing algorithm Issue: Business model; Competition/price fixing  Transparency: Governance; Black box
+- RealPage website
+- RealPage Wikipedia profile
+- RealPage AI revenue management
+- RealPage statement
+- Elizabeth Warren DoJ letter (2023) (pdf)
+- Hausfeld legal complaint (2022) (pdf)
+- ProPublica (2022). Rent Going Up? One Company’s Algorithm Could Be Why
+- ProPublica (2022). Why Rent is So High
+- ProPublica (2022). Department of Justice Opens Investigation Into Real Estate Tech Company Accused of Collusion with Landlords
+- ProPublica (2022). Company That Makes Rent-Setting Software for Apartments Accused of Collusion, Lawsuit Says
+URL: https://futurism.com/rental-prices-algorithm-yieldstar
+- Rents across the country have skyrocketed thanks in part to a rental algorithm called YieldStar that takes the human element out of housing and hikes prices on behalf of landlords — a handy tool for real estate owners and a dystopian and never-ending nightmare for tenants.
+- As ProPublica reveals in a shocking investigation, the software touts the fact that rents have shot up over the last year as both a feather in its cap and one of its main selling points.
+- Created by Texas-based property management software company RealPage, YieldStar is an analytics algorithm that uses rental rate data to help landlords set rental prices.
+- According to its executives' messaging and information reviewed by ProPublica, it's played an outsize role in increasing rents nationwide, too.
+- Which, as RealPage's leadership argues, is actually a desirable thing — despite the fact that millions of Americans are feeling the squeeze right now, in large part due to soaring rent prices.
+- "As a property manager, very few of us would be willing to actually raise rents double digits within a single month by doing it manually," RealPage executive Andrew Bowen said during a real estate tech conference during the summer of 2021, as quoted by ProPublica.
+- "I think it’s driving it, quite honestly," Bowen continued, referencing the record-setting rental prices increases that occurred after the precipitous "pandemic pricing" drop of 2020 and early 2021.
+- According to recent data, single bedroom apartment rents have continued to rise in 46 out of 47 examined US states between September 2021 to September 2022. Half of those states experienced increases of at least eight percent.
+- Though the company's been around since 1998 and is far from the only rent-setting software out there, a controversial 2017 merger between RealPage and one of its competitors led to its clients controlling 19.7 million of the United States' 45 million total rental units by 2020.
+- In other words, an algorithm influenced the prices for almost half the rental units in the whole country.
+- Even more worryingly, not much is known about the specific workings of the YieldStar algorithm. The little we do know about it is troubling to say the least.
+- In fact, some see the algorithm as potentially illegal and anti-competitive, enabling the sharing of anonymous rental price data with other landlords.
+- In response to ProPublica's questions, RentPage acknowledged that the price-sharing practice could seem anti-competitive, but countered that landlords otherwise figure that information out themselves by conducting phone surveys of competitors.
+- YieldStar CEO and founder Jeffrey Roper, a former Alaska Airlines executive, said that removing the human element of pricing decisions was a net good for revenues — and that if they can get landlords to raise rents across the board, it benefits the whole group all the more.
+- “If you have idiots undervaluing, it costs the whole system,” Roper told ProPublica, adding that the company's internal belief is that landlords have "way too much empathy" when it comes to pricing rents, especially when the people they're renting to come from similar income brackets as them.
+- It's pretty clear from RealPage's happy customers that they're thrilled with the results, and in company testimonials, property managers intimated that they consider YieldStar to be something of a secret weapon.
+- "The beauty of YieldStar is that it pushes you to go places that you wouldn’t have gone if you weren’t using it," Kortney Balas, the director of revenue management at Illinois' JVM Realty, said in a RealPage testimonial.
+- But there's a far darker side to the story most, if not all, of these testimonials fail to acknowledge: a nationwide housing crisis marked by soaring rents, stretching tenants to their absolute limits.
+- More housing: WeWork Guy's Apartment Rental Company Plans to Launch Crypto That Can't Be Used to Pay Rent
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+

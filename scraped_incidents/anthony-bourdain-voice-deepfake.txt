@@ -1,0 +1,361 @@
+- Occurred: July 2021
+- Can you improve this page?Share your insights with us
+- Roadrunner, a new documentary about the life and death of chef and TV personality Anthony Bourdain, uses deepfake technology to re-create Bourdain's voice without disclosure, and without the permission of Bourdain's widow Ottavia.
+- In an interview with the New Yorker, filmmaker Neville Morgan describes how he had supplied an AI company with a dozen hours of Bourdain speaking in order to manufacture three quotes he had wanted the TV host to say.
+- The interview led to a backlash by film critics, film makers and others, who accused Morgan of underhand, manipulative and unethical behaviour. 'We can have a documentary-ethics panel about it later', Morgan quipped.
+- Operator: Focus Features Developer: Morgan Neville Country: USA Sector: Media/entertainment/sports/arts Purpose: Entertain Technology: Deepfake - audio; Generative adversarial network (GAN); Neural network; Deep learning; Machine learning  Issue: Ethics; Privacy Transparency: Governance; Privacy; Marketing
+URL: https://youtu.be/ihEEjwRlghQ
+
+URL: https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain
+- To revisit this article, select My Account, then View saved stories
+- To revisit this article, visit My Profile, then View saved stories
+- By Helen Rosner
+- It’s been three years since Anthony Bourdain died, by suicide, in June of 2018, and the void he left is still a void. “I wish Anthony Bourdain was here to see this,” countless people have tweeted over the past thirty-seven-ish months, on occasions as varied as a New York gubernatorial candidate ordering a cinnamon-raisin bagel, the White House serving a McDonald’s banquet, the collapse of the American restaurant industry, and the sputtering attempts to revive the same. Bourdain was a television megastar, a fluid and conversational writer, a social-media gadfly, a pointed cultural commentator, and seemingly everyone’s best friend. The singularity of his celebrity and the suddenness of his death have fuelled an uncommonly intense, uncommonly enduring grief—a personal sense of public loss, of a sort usually reserved for popes and Presidents.
+- In 2019, about a year after Bourdain’s death, the documentary filmmaker Morgan Neville began talking to people who had been close to Bourdain: his family, his friends, the producers and crew of his television series. “These were the hardest interviews I’ve ever done, hands down,” he told me. “I was the grief counsellor, who showed up to talk to everybody.” Neville specializes in unknotting the real story from the public narrative (in 2014, he won an Academy Award for the documentary “20 Feet from Stardom,” about the lives of rock-and-roll backup singers), and his filmography reveals a particular penchant for examining the lives of men who transcend the normal parameters of fame: Johnny Cash, Orson Welles, Mr. Rogers. In “Roadrunner: A Film About Anthony Bourdain,” which is in theatres on July 16th, Neville uses interviews, archival footage, and a few unlikely tricks to build a devastating argument for Bourdain as both the hero and villain of his own story—your standard-issue broken genius, at once childlike and world-weary, but saved from cliché by the sheer extraordinariness of his character. “You’re probably going to find out about this anyway, so here’s a little preëmptive truth-telling,” Bourdain says, in disembodied voice-over, in the movie’s first few minutes. “There’s no happy ending.”
+- The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?
+- I recently spoke with Neville about “Roadrunner,” in a conversation that began, via Zoom, when he was at home in Pasadena, California, and concluded in person, a few days later, at the restaurant of a Manhattan hotel, while the film played to an audience of journalists and Academy members in a screening room downstairs. Neville is fifty-three, with close-cropped silver hair and stylishly owlish glasses. He grew up in Southern California, the son of a rare-book dealer, and as a young man worked as a journalist in New York and San Francisco before turning to documentary. “When I’m making a film, I often feel like the instructions are in the box,” he told me. “How I should tell a story is often expressed by the subject: Mr. Rogers should be simple and deep and loving storytelling; Orson Welles should be chaotic and smart storytelling. And this film—Tony—is all about gray.”
+- “Roadrunner” begins where Bourdain’s life as a public figure begins: it’s 1999, he’s a forty-three-year-old undecorated cook and aspiring writer, and his big break—the bombastic New Yorker essay “Don’t Eat Before Reading This”—has become the basis for a book, “Kitchen Confidential,” that’s about to go off like a star in supernova. We see him head off on his first book tour, encounter early fans, and learn in real time that the book is a best-seller; despite being solidly in middle age, Bourdain fidgets on the cusp of fame with the gawky, awestruck charisma of a teen-ager. When Neville uncovered the footage, which was shot by the photographer Dmitri Kasterine, for a documentary that was never released, it felt like kicking off the lock on a treasure chest. “It’s like the last vestiges of his old life,” Neville said. Bourdain was “given everything he always wanted: money, and a chance to travel, and freedom,” he continued. “Does that find him happiness? Of course, it doesn’t, because happiness doesn’t come from external things.”
+- According to the film, the possibility of happiness was the question that propelled and consumed Bourdain. “Kitchen Confidential” became a springboard to a television career, which, in turn, led to more book deals, more television shows, more opportunities to keep taking in the world. The cocky, confident, culturally voracious Tony of “No Reservations” and “Parts Unknown” was, in part, an on-camera construct (“The TV Tony and the real Tony were not exactly the same person. They never could be,” Neville told me. “He played himself on television”), but it was also a veneer covering a fundamental insecurity. “He had impostor syndrome; he always felt like it could all go away. But I think, even more than that, the reason he kept moving was just the hope that the next thing was going to make him happy, or it was going to solve something in his life,” Neville said. “People told me that Tony made best friends one week at a time: he travels, he meets them somewhere and they think they have a new best friend, and then he would never see them again, because he was on to the next place. That sense of momentum, it’s both part of what made him great, and part of what must have been so tough to live with.”
+- Neville never met Bourdain, which he told me he regrets on a personal level but considers advantageous as a filmmaker. He described his initial talks with Bourdain’s inner circle—his literary agent, his ex-wife, his producers—about the possibility of a film, in 2019. “At the beginning of the conversation, I was saying that what I thought was so important about Tony’s work was that he was dimensionalizing people, that he brings us together and shows the commonalities of the world, blah, blah, blah,” he said. “And they stopped me, at a certain point, to say ‘Yeah, but you have to remember, he could be such an asshole.’ A thing I really came to understand while creating this film is that all the things that were his flaws were also his superpowers. He could be such a fifteen-year-old boy in so many ways. Most people figure out ways to put boundaries in their life, to say, ‘O.K., well, creatively, I can be out there on the edge. But, in my home life, I can’t do this.’ There were no boundaries with him whatsoever.”
+- One of the most striking moments in the film is a cut. A shot from the “Borneo” episode of “Parts Unknown” shows Bourdain standing in a river that’s been stained red by the blood of a pig he’s just slaughtered with a spear, the water washing around his ankles. In the next shot, we see the stiletto-clad feet of people standing on the red carpet of a Hollywood awards show, and the camera moves to a tuxedo-clad Bourdain squinting against paparazzi flashbulbs. Which is the real work: telling the story, or selling the storytelling? The more famous Bourdain became, the easier it was for him to make the sort of show he wanted to make. But he also struggled with his status as the show’s protagonist and main draw. “He was always his own subject and his own character in everything he did,” Neville said. “It’s hard to know when you’re living the story, or when you’re writing the story.”
+- Neville told me about a scene that didn’t make the final cut of “Roadrunner,” drawn from behind-the-scenes footage from the Amsterdam episode of “The Layover,” which aired in 2012. “They went to a coffee shop and ate hashish brownies, or whatever. They were filming, they were talking, and then Tony stopped. He didn’t say anything for thirty seconds. Tom [Vitale, Bourdain’s longtime director and producer] went up to him and said, ‘Tony, what’s wrong?’ And he said, ‘Everybody’s looking at me.’ And it’s, like, yeah, because they’re filming you, but it was his paranoia coming out: Everybody’s always staring at me.”
+- It may be trite to say, of a famous person, that people felt like they knew him; that sense of one-to-one intimacy is arguably inherent to the modern version of celebrity. But Bourdain stood out for his directness, his everyman-ness, the candor with which he acknowledged his own flaws. Neville sees his approachability as something that eventually wore him down: “Everybody would go up to him, and everybody would want to talk to him or buy him a beer. He was always gracious about it, always appreciative. And that’s a burden. I think that was part of his agoraphobia, his feeling of, like, how can you be an observer if everybody’s looking at you?” Still, Neville told me that he doesn’t see his film as a cautionary tale about the costs of Bourdain’s immense fame. “The things he was wrestling with went back long before he was famous, and those things never really changed,” he said.
+- “Roadrunner” proceeds in a relatively chronological fashion, but the inevitable fact of Bourdain’s death casts a pall from the beginning. The interviews with his friends, family, and colleagues are intimate and often angry. “Some people said they had never talked to anybody about their feelings about Tony, because it’s hard to be given permission to really talk about everything you feel about somebody,” Neville said. “I saw all the stages of grief.” On camera, Bourdain’s loved ones discuss his obsessiveness, his perfectionism, the feverish drive that made him a great writer and a great television star but also a difficult husband and a difficult friend. They gently probe the idea that Bourdain may have been asking for help, or maybe trying to figure out how to begin to ask. His ex-wife Ottavia Busia mentions that Bourdain had started therapy just a short time before he died.
+- There is a moment at the end of the film’s second act when the artist David Choe, a friend of Bourdain’s, is reading aloud an e-mail Bourdain had sent him: “Dude, this is a crazy thing to ask, but I’m curious” Choe begins reading, and then the voice fades into Bourdain’s own: “. . . and my life is sort of shit now. You are successful, and I am successful, and I’m wondering: Are you happy?” I asked Neville how on earth he’d found an audio recording of Bourdain reading his own e-mail. Throughout the film, Neville and his team used stitched-together clips of Bourdain’s narration pulled from TV, radio, podcasts, and audiobooks. “But there were three quotes there I wanted his voice for that there were no recordings of,” Neville explained. So he got in touch with a software company, gave it about a dozen hours of recordings, and, he said, “I created an A.I. model of his voice.” In a world of computer simulations and deepfakes, a dead man’s voice speaking his own words of despair is hardly the most dystopian application of the technology. But the seamlessness of the effect is eerie. “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the A.I., and you’re not going to know,” Neville said. “We can have a documentary-ethics panel about it later.”
+- Crafting the story—or, at least, a story—of Bourdain’s death raises other ethically murky questions. The final years of his life were defined by his tumultuous relationship with Asia Argento, the Italian actor and filmmaker. In “Roadrunner,” Argento is portrayed as a human intoxicant, with whom Bourdain developed an all-consuming infatuation. His former colleagues and friends recall the disastrous filming of an episode, in Hong Kong, on which Bourdain had installed Argento as director. They describe how she influenced his decision to abruptly sack a longtime colleague, and his devastation when she began to tire of his attentions and romantically pull away. The last thing Bourdain posted to Instagram before his death, his friend and colleague Helen Cho points out, was music from the film “Violent City,” a 1970 poliziottesco about a man seeking revenge on the woman who betrays him. I was surprised to learn that Neville hadn’t attempted to interview Argento for the film. The lead-up to Bourdain’s suicide, he explained, is “like narrative quicksand. People think they want to know more, but you tell them one thing more, and they want to know ten more. And none of those things actually bring you closer to understanding Tony. I realized that it would be a bunch of she said, they said: ‘This happened,’ ‘No, that happened.’ That’s not the film I wanted to make. Somebody else can make a film about his last relationship, the last year of his life.”
+- Somebody probably will. “Roadrunner” is one of many projects about Bourdain that have been made in the years since his death. “World Travel: An Irreverent Guide,” a hardcover handbook to global restaurants and bars gleaned from Bourdain’s various shows and writings, and co-authored by his longtime collaborator Laurie Woolever, came out in April, and has spent months on the Times best-seller list. This fall, “Bourdain: The Definitive Oral Biography,” also compiled by Woolever, will be published, just a few weeks ahead of a memoir by Bourdain’s friend and director-producer Tom Vitale. “Roadrunner” doesn’t challenge Bourdain’s hero status (Neville admitted to me that he’s been accused before of hagiography), but his film feels different from much of what’s emerged so far. It attempts to tell the story of who Bourdain was and ends up being a movie about what he left behind. “I wanted the film to be cathartic, in a way—not to have good answers, but to at least help people process their feelings,” Neville said. “Because what I saw, sitting down and talking to so many people in his life, is it’s fucking hard to process the loss of somebody like that. It was happening while I was doing the interviews, it’s been happening while I’ve been making the film, and it will keep happening for years.”
+- By signing up, you agree to our User Agreement and Privacy Policy & Cookie Statement.
+- By David Remnick
+- By Sarah Larson
+- By Richard Brody
+- By James Lasdun
+- Sections
+- More
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. The New Yorker may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.gq.com/story/anthony-bourdain-morgan-neville-roadrunner-documentary
+- To revisit this article, select My Account, then View saved stories
+- To revisit this article, visit My Profile, then View saved stories
+- To revisit this article, visit My Profile, then View saved stories
+- 
+- By Brett Martin
+- The most important scene in Morgan Neville’s multilayered new documentary, Roadrunner: A Film About Anthony Bourdain, may be an early outtake from A Cook’s Tour, the TV travelogue that birthed No Reservations, that birthed an icon. In it, Bourdain, still getting his sea legs (one of the film’s revelations is how inexperienced a traveler its subject was, almost up to the moment he was the most famous traveler in the world), walks along an empty road in what appears to be Vietnam. First, he directs the cameraman on exactly how to frame the shot. Then he begins to walk and address the viewer: “I mean, to be honest, I’m not totally alone. Because clearly somebody is shooting this. I always love those, like, desert scenes, ‘I’m alone in the desert.’ Yeah, but who else’s footprints are those?”
+- The moment serves as a kind of key to a film that brings home the fact that, while Bourdain may have famously spent 250 days a year on the road, he spent the same, and more, in front of a camera. It is telling and poignant that in Neville’s film the most intimate and insightful accounts of Bourdain’s life, which ended in suicide three years ago, come from the producers and crews of his various shows, with whom he spent the majority of his time. And once those other footprints are pointed out, you can’t help but be aware of them. Cameras (and, of course, by extension, viewers) dog Bourdain down streets from Houston to Lagos. They press in his rugged, vampiric face so relentlessly that when you close your eyes a few hours later you might still see its negative image. They hover nearby in ostensibly private moments of contemplation, of family life, even into a therapy session—all of which scenes you now can’t help but notice are beautifully lit and shot from multiple angles.
+- A fact well-covered while Bourdain was alive—and only amplified since his death—was that he was a pioneer of the zeitgeist. Kitchen Confidential, the book that catapulted him to fame in his forties, helped kick off the American restaurant revolution and the era of the celebrity chef; his TV shows introduced a style of humanist world exploration that influenced a generation of travelers, on-screen and off. Roadrunner may leave you with the impression that, in addition to all that, the man’s inextricable melding of private and constructed selves made him just as much an avatar and trailblazer of Selfie Culture.
+- “It's not like he was a private person after shooting, either” says Neville, whose previous films include the Oscar-winning Twenty Feet from Stardom and portraits of Fred Rogers, Keith Richards, Orson Welles, and Iggy Pop. “He would shoot all day and then he’d go to his room and tweet all night. He actually had fake characters that he made up to troll himself on Twitter. He would tell the crew, ‘I’m going back to the room to Google myself to sleep.’”
+- One outcome for Neville, who never met Bourdain in life, was the ability to get to know his subject through a mind-boggling 100,000 hours of footage. (Even that didn’t prove quite enough: the director had an AI voice created that allows Bourdain to “say” several things in the film that he had, in life, only committed to the page.) As we enter a period of Bourdain saturation—an oral history will be published in the fall and at least two podcasts about the man are reportedly in the works—Neville talked, from his office in Los Angeles, about the process of assembling a narrative from that embarrassment of riches, and about the challenges of telling a complicated story about a man who has become something of a secular saint in the years since his death.
+- GQ: You have said that a documentary is like a Trojan horse. What are you hiding in Roadrunner’s belly?
+- Morgan Neville: I said that about a lot of my music films, which were Trojan Horses to talk about things like race, or celebrity. All kinds of different issues. But I feel in a way that this time I just filmed a Trojan Horse about a Trojan Horse. That’s how Tony used his shows. People would think, ‘Oh, you have a food show,” but, my God, the depths he talked about! He stretched the idea of what you could do with a food show as far as it could possibly go. And so, on the one hand, this was a film about a smart, funny, successful guy, but really it was about trying to amplify his message, which was, How can we keep our curiosity going? I feel like there’s a curiosity divide in our world and Tony was like the ambassador for curiosity.
+- Anyway, when I started I gave a version of that speech to Chris Collins and Lydia Tenaglia, who were Tony’s production partners for 20 years [and consulting producers on Roadrunner]. And they said, “Yeah, yeah, yeah. But he could also be such an asshole.”
+- They wanted to make sure you were willing to go there?
+- Yeah. Somebody else said he was the “nicest asshole you’ve ever met.” His crew, who he used to be very tough on, adored him, because he was being even tougher on himself. But I think what they also meant is that Tony, for all his insight and trenchant thinking, could be incredibly immature about things. They said he was like a 14-year-old boy—which is both kind of endearing and also kind of exhausting. Like, you can’t live your life as a 14-year-old boy when you’re 60. What I came to understand was that his flaws were also his super powers. I mean, one word is immaturity; another is a kind of hyper-romantic way of looking at the world. So, to go back to your earlier question: I think in the beginning I got excited about making a film about a cultural hero. And at the end of the day, it’s much more about how we manage our emotions and how we look for happiness in things.
+- It must be interesting to do this when the urge to sanctify Bourdain’s memory is at an absolute peak.
+- I mean there are actually Mexican prayer candles you can buy with “St. Tony” on them. I often say that when you’re making a film about a subject the instructions are on the box. Listen to the subject and they’ll tell you how to make the film. So, when Tony says that “most of the world’s biggest problems are because of somebody trying to find a simple answer,” it means he was all about the gray areas. And that’s like the best permission you can have from a subject.
+- At the same time, there are certain parts of what he did and stood for that have become deeply unfashionable in recent years. He himself spent a lot of time grappling with his contributions to a kind of toxic male kitchen culture.
+- Kitchen Confidential became a kind of bible for that but, you know, I went back and re-read it and didn’t see a whole lot of it. I think it was more the book’s impact, the way people watched Wall Street or Scarface thinking they were how-to guides instead of cautionary tales. I’d say Kitchen Confidential was one of those. And he beat himself up about it.
+- There’s also the essential structure of this white man going into these countries to introduce them to the world.
+- I think he was definitely aware of a kind of sell-by date for the white “colonial” voice telling people what’s interesting. I really think, as somebody says in the film, that Tony would have been thrilled if he could not be in his show. He didn’t want it to be about him, but that became kind of the price the public demanded of him in order to do it. He definitely worried about who was benefitting from what he was doing. In the very last voiceover he ever did, for an episode in Kenya, he says, “Who gets to tell the stories? This is a question asked often. The answer, in this case, for better or for worse, is I do. At least this time out. I do my best. I look. I listen. But in the end, I know it’s my story.”
+- In that context, I was little surprised by how much you decided to lean into drawing a parallel between his trip to the Congo and Apocalypse Now.
+- That story, to me, was about, Is he Willard or is he Kurtz? Is he the rational journalist? Or is he the one who has become the protagonist and gone insane? I feel like that’s the dialectic he wrestled with whether the story took place in the Congo or anywhere. I actually think that episode is one of the best depictions of life in central Africa that’s ever been on American television, but that’s the part I was leaning into and, yeah, it’s dancing up against some pretty racist tropes.
+- How did you manage to have him essentially narrate his own story?
+- In the beginning, I went and gathered everything he ever said about his life. I went through every book and podcast and voiceover session, and put together a binder of, like, 500 pages of him talking about his life. There was a moment when I was even like, ‘Gee, I could make the whole film in his voice,’ though I stopped myself instantly. But then I came across a few things he wrote but that he never said. And so, I had this idea to create an AI model of his voice, which we did.
+- How does that work?
+- We fed more than ten hours of Tony’s voice into an AI model. The bigger the quantity, the better the result. We worked with four companies before settling on the best. We also had to figure out the best tone of Tony’s voice: His speaking voice versus his “narrator” voice, which itself changed dramatically of over the years. The narrator voice got very performative and sing-songy in the No Reservation years. I checked, you know, with his widow and his literary executor, just to make sure people were cool with that. And they were like, Tony would have been cool with that. I wasn’t putting words into his mouth. I was just trying to make them come alive.
+- Back in the Kitchen Confidential days it became sort of a cliche to say that ‘chefs are the new rock stars.’ You don’t hear that much any more, but given all the musicians you’ve made documentaries about, I wonder if you have any thoughts about it.
+- One thing I thought about as we were making this film, thinking about Tony’s love of people like Iggy Pop and Keith Richards, is that he wasn’t like that. There was this sort of insightful-slash-pretentious line somebody wrote in The New Yorker once, to the effect that he was “Apollo in drag as Dionysius,” and I actually think that’s very true. The thing about Keith Richards and Iggy Pop is that they don’t give a shit about anything. They don’t care what people say about them, how they look, how much anything costs. They float on top of life. And Tony gave a shit about everything. Every tweet, every review, every episode. He was in no way constitutionally a rock star.
+- At some point, watching all this footage, some of which feels so private, I began to wonder if this was actually another parable—like, say, Elvis, or Michael Jackson—about how American fame kills.
+- Fame is certainly a toxin, and it certainly did not help Tony. I think for somebody who is fundamentally shy and curious…. I’m sure it contributed to him becoming somewhat agoraphobic later in life. He had crazy imposter syndrome all through his career. The feeling that he didn’t deserve it, or it wasn’t going to last. But I don’t think fame was the real culprit, because his depression and addiction and OCD and manic behavior all existed before he became famous.
+- A large part of the last act of this story was Bourdain’s relationship with Asia Argento, who he had been dating just before his suicide. Did you try to interview Argento for this movie?
+- I didn’t. Just because I feel like the complication and weight of her part of the story could capsize the film in a heartbeat. It’s so complicated. And I felt like it wasn’t actually going to teach me any more about Tony. Whenever I started to bring in more of the story, it just made people ask ten more questions, which weren't interesting questions. They were just, like, What about this? How did that happen? Somebody else can make that movie.
+- This may sound strange, but do you feel you know Anthony Bourdain better or less well after making this movie?
+- He was one of those figures, and many people said this to me, that would be slightly different with everybody. If a hundred people had a camera pointed at him, they would all get a slightly different picture of who he was. My mental image, that I kept coming to again and again, was the hall of mirrors from Lady From Shanghai. Tony was a seeker, who was always looking for the next thing that was going to be interesting but also maybe going to fix something in his life. You know, there was this sense of momentum everybody talks about. And seeking is such a good thing in general. But if you’re really seeking, you’re lost. I feel like Tony was somebody who took something that was worthy, like seeking, and took it to such an extent that… I don’t know. I just have this image of Tony and this hall of mirrors: Not knowing where he’s going or where he’s coming from.
+- Brett Martin is a GQ correspondent.
+- By William Goodman
+- By Mike Christensen
+- By Grant Rindner
+- By Ariel LeBeau
+- Way Day Special Deal - $40 off qualifying orders over $100
+- Target Circle: up to 50% Off with Target promo code
+- Grab 30% off with Michaels coupon code
+- Shop the new Polo Ralph Lauren x ASOS Exclusive Collection from $99
+- This TEMU promo code can get you 30% discount
+- Save $130 with Factor Discount Code
+- More From GQ
+- Connect
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. GQ may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.businessinsider.com/anthony-bourdain-documentary-uses-deepfake-of-his-voice-2021-7
+- Jump to
+- 
+- 
+- 
+- In the new documentary "Roadrunner: A Film About Anthony Bourdain," the iconic voice of beloved travel and food celebrity Anthony Bourdain can be heard throughout.
+- Many of the instances of that voiceover were re-created from years of clips of existing voiceover he recorded before his death in June 2018. But in at least one major instance in the film, his voiceover was created fresh using artificial intelligence software — so-called "deepfake" technology.
+- "There were three quotes there I wanted his voice for that there were no recordings of," the film's director, Morgan Neville, told The New Yorker in a new interview. For those quotes, Neville said, "I created an A.I. model of his voice."
+- Specifically, an email sent from Bourdain to his longtime friend, the artist David Choe, is read in the film in a voice that sounds like Bourdain. "My life is sort of shit now," the voiceover of Bourdain's email says. "You are successful, and I am successful, and I'm wondering: Are you happy?"
+- That quote, it turns out, was the deepfake version of Bourdain — not Bourdain himself.
+- When pressed on the ethics of re-creating a dead person's voice, especially as a means of reading a deeply personal email, Neville pushes back.
+- "If you watch the film," he says, "other than that line you mentioned, you probably don't know what the other lines are that were spoken by the A.I., and you're not going to know. We can have a documentary-ethics panel about it later."
+- It's unclear if this is the first such use of deepfake technology in documentary filmmaking, but it's certainly the most notable. Bourdain's image and voice are directly tied to the years of television he starred in and narrated, and "Roadrunner" is the first major documentary on Bourdain since his death.
+- The documentary is set to premiere in the US on Friday, July 16, and will come to HBO Max and CNN at an unknown time.
+- Got a tip? Contact Insider senior correspondent Ben Gilbert via email (bgilbert@insider.com), or Twitter DM (@realbengilbert). We can keep sources anonymous. Use a non-work device to reach out. PR pitches by email only, please.
+- Read next
+
+URL: https://hypebeast.com/2021/7/roadrunner-a-film-about-anthony-bourdain-documentary-deepfake-audio
+- UPDATE (July 16, 2019 11:24 EST):
+- Anthony Bourdain’s former partner Ottavia Bourdain has responded to the interview given by Morgan Neville to deny giving any permission for the filmmakers to use deepfakes of the late chef’s voice. In a tweet, she wrote “I certainly was NOT the one who said Tony would have been cool with that.”
+- It remains unconfirmed whether other members of Anthony Bourdain’s family gave their consent for the project.
+
+ORIGINAL STORY (July 16, 2019 04:29 EST)::
+The latest Anthony Bourdain documentary, Roadrunner is set to open in theaters across the nation this weekend. The documentary is set to feature archival footage from the late chef’s travels, show outtakes and interviews to tell the story of Bourdain himself.
+The film’s director, Morgan Neville, recently revealed in an interview with The New Yorker that while making the film, he wanted Bourdain to narrate three quotes. However, since there was no official recording, he curated the phrases said by Bourdain’s voice using software instead, “I created an AI model of his voice.”
+In another interview with GQ, Neville claimed that it was not easy to include words Bourdain never spoke to a camera prior to his death in 2018. The director had to go through four different companies before they could choose the best one to produce the outcome they wanted. Dozens of audios were fed into an AI model to create the exact tone of Bourdain’s voice.
+Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- ORIGINAL STORY (July 16, 2019 04:29 EST)::
+The latest Anthony Bourdain documentary, Roadrunner is set to open in theaters across the nation this weekend. The documentary is set to feature archival footage from the late chef’s travels, show outtakes and interviews to tell the story of Bourdain himself.
+The film’s director, Morgan Neville, recently revealed in an interview with The New Yorker that while making the film, he wanted Bourdain to narrate three quotes. However, since there was no official recording, he curated the phrases said by Bourdain’s voice using software instead, “I created an AI model of his voice.”
+In another interview with GQ, Neville claimed that it was not easy to include words Bourdain never spoke to a camera prior to his death in 2018. The director had to go through four different companies before they could choose the best one to produce the outcome they wanted. Dozens of audios were fed into an AI model to create the exact tone of Bourdain’s voice.
+Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- The latest Anthony Bourdain documentary, Roadrunner is set to open in theaters across the nation this weekend. The documentary is set to feature archival footage from the late chef’s travels, show outtakes and interviews to tell the story of Bourdain himself.
+The film’s director, Morgan Neville, recently revealed in an interview with The New Yorker that while making the film, he wanted Bourdain to narrate three quotes. However, since there was no official recording, he curated the phrases said by Bourdain’s voice using software instead, “I created an AI model of his voice.”
+In another interview with GQ, Neville claimed that it was not easy to include words Bourdain never spoke to a camera prior to his death in 2018. The director had to go through four different companies before they could choose the best one to produce the outcome they wanted. Dozens of audios were fed into an AI model to create the exact tone of Bourdain’s voice.
+Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- The film’s director, Morgan Neville, recently revealed in an interview with The New Yorker that while making the film, he wanted Bourdain to narrate three quotes. However, since there was no official recording, he curated the phrases said by Bourdain’s voice using software instead, “I created an AI model of his voice.”
+In another interview with GQ, Neville claimed that it was not easy to include words Bourdain never spoke to a camera prior to his death in 2018. The director had to go through four different companies before they could choose the best one to produce the outcome they wanted. Dozens of audios were fed into an AI model to create the exact tone of Bourdain’s voice.
+Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- In another interview with GQ, Neville claimed that it was not easy to include words Bourdain never spoke to a camera prior to his death in 2018. The director had to go through four different companies before they could choose the best one to produce the outcome they wanted. Dozens of audios were fed into an AI model to create the exact tone of Bourdain’s voice.
+Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- Neville comments on the AI voice stating, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.” He also said that Bourdain’s family was happy with it and said, “Tony would have been cool with that,” since he was only “just trying to make [the quotes] come alive.”
+Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- Roadrunner: A Film About Anthony Bourdain opens in theaters across the United States on July 16.
+In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- In other entertainment news, A24 recently reportedly explored a possible sale with a $3 billion USD asking price.
+
+
+                                                                                                    
+
+                                                            Read Full Article
+- 
+- 
+- 
+- 
+- Gain access to exclusive interviews with industry creatives, think pieces, trend forecasts, guides and more.
+- We charge advertisers instead of our readers. Support us by whitelisting our site.
+- Whitelist Us
+- Already whitelisted us?
+                        
+                            Refresh page
+
+URL: https://www.theverge.com/2021/7/15/22578707/anthony-bourdain-documentary-deepfake-voice
+- By  Dave Gershgorn
+- In a new documentary, Roadrunner, about the life and tragic death of Anthony Bourdain, there are a few lines of dialogue in Bourdain’s voice that he might not have ever said out loud.
+- Filmmaker Morgan Neville used AI technology to digitally re-create Anthony Bourdain’s voice and have the software synthesize the audio of three quotes from the late chef and television host, Neville told the New Yorker.
+- The deepfaked voice was discovered when the New Yorker’s Helen Rosner asked how the filmmaker got a clip of Bourdain’s voice reading an email he had sent to a friend. Neville said he had contacted an AI company and supplied it with a dozen hours of Bourdain speaking.
+- “ ... and my life is sort of shit now. You are successful, and I am successful, and I’m wondering: Are you happy?” Bourdain wrote in an email, and an AI algorithm later narrated an approximation of his voice.
+- You can hear the line in the documentary’s trailer linked below, right around the 1:30 mark. The algorithm’s generation of Bourdain’s voice is especially audible when it says, “and I am successful.”
+- Neville told Rosner that there were three lines of dialogue that he wanted Bourdain’s voice to orate, but he couldn’t find previous audio to string together or make it work otherwise.
+- There’s no shortage of companies that can achieve this kind of AI voice replication, and there’s actually a burgeoning industry of companies that can specifically generate voices for video game characters or allow you to clone your own voice.
+- But whether it’s ethical to clone a dead person’s voice and have them say things they hadn’t gotten on tape when they were alive is another question, and one Neville doesn’t seem too concerned with.
+- “We can have a documentary-ethics panel about it later,” he told the New Yorker.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.vulture.com/2021/07/posthumous-anthony-bourdain-doc-used-a-i-voice-model.html
+- 
+- Things you buy through our links may earn Vox Media a commission.
+- Morgan Neville’s new documentary, Roadrunner: A Film About Anthony Bourdain, uses behind-the-scenes video footage and archival audio recordings to paint an intimate portrait of the iconic chef-author-travel host, who died by suicide in 2018. But while Neville and his team stitched together audio clips from podcasts, radio appearances, audiobooks, and voice-over sessions so that Bourdain would narrate his own posthumous documentary, a few lines had to be created digitally. “I created an A.I. model of his voice,” Neville told The New Yorker. As in, a deepfake. “If you watch the film … you probably don’t know what the other lines are that were spoken by the A.I., and you’re not going to know,” he continued. “We can have a documentary-ethics panel about it later.”
+- That documentary-ethics panel seems to be playing out on Twitter, where film critics and fans expressed discomfort at the idea of Bourdain’s voice being used to express things he never actually said, especially considering he once accused the Travel Channel of editing his voice-over on No Reservations to make it sound like he was endorsing Cadillacs. Neville provided more details in an interview with GQ, clarifying that he wanted to include some thoughts that Bourdain had written, but never actually said aloud.
+- “I wasn’t putting words into his mouth,” he explained. “I was just trying to make them come alive.” Neville also indicated that he got the blessing of Bourdain’s widow and literary agent, who told him, “Tony would have been cool with that.” Tony may or may not have been cool with that, but the Twitterati certainly isn’t.
+- Update July 15, 8:40 a.m.: Bourdain’s estranged wife, Ottavia Busia, has made it clear that she didn’t give Neville her blessing to use the Tony deepfake, despite his claim to GQ. “I certainly was NOT the one who said Tony would have been cool with that.,” she tweeted in the early hours of Friday morning.
+- Things you buy through our links may earn Vox Media a commission.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+URL: https://www.vice.com/en/article/m7e54b/roadrunner-director-deepfaked-anthony-bourdains-voice
+- Director Morgan Neville recently revealed in an interview with The New Yorker that the filmmakers used deepfake technology in the production of Roadrunner: A Film About Anthony Bourdain to create a voiceover that sounds like it was done by the deceased chef, author, and documentarian.
+- In Roadrunner, the viewer watches as Bourdain struggles with his meteoric rise from a normal restaurant chef to a world renowned author and television personality. In one scene, he appears to read part of an email that he sent to a friend aloud. “You are successful, and I am successful, and I’m wondering: Are you happy?” his voice says in the film.
+- The New Yorker reporter Helen Rosner asked Neville how the filmmakers got that recording of Bourdain reading the email aloud. Neville explains that this was just one of three written quotes that he wanted Bourdain's voice for but had no recordings of. They sent hours of recordings of Bourdain's voice to four software companies to create an AI model, or deepfake, of Bourdain’s voice before settling on one. Neville did not disclose which companies they used to create the deepfake, or what other portions of the movie used this AI-generated voice.
+- Motherboard previously did a podcast episode of CYBER in which we went through the process of deepfaking our podcast host (with consent) to show how far the technology has come along in the last few years and the potential issues associated with this tech.
+- The recent popularity of technology that can accurately simulate someone's likeness or voice has raised numerous ethical quandaries since their inception as a way to own women's bodies by creating porn, which Neville seems to be aware of. “We can have a documentary-ethics panel about it later," he told The New Yorker. Deepfake audio has also been used by hackers to socially engineer employees at corporations.
+- The Academy Award-winning director told GQ magazine that he asked Bourdain's widow Ottavia Busia and literary executor. “They were like, Tony would have been cool with that. I wasn’t putting words into his mouth. I was just trying to make them come alive.” He even reveals that he contemplated narrating the whole film with his voice using this deep fake technology, but "I stopped myself instantly."
+- The reaction to the news online has been largely negative, with some arguing that deepfakes go beyond line reads from other actors. Film critic Sean Burns tweeted that he was not aware of the use of the technology when he wrote his review, adding, "I feel like this tells you all you need to know about the ethics of the people behind this project."
+- Deepfakes have reached new levels of realism in recent years as people have used them to impersonate government officials and famous celebrities. Using machine learning like this in a documentary, even if it is for a deceased subject to orate their own words, sets a new precedent for films and will undoubtedly add fuel to the fiery debate over the technology.
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://variety.com/2021/artisans/news/anthony-bourdain-fake-voice-roadrunner-documentary-backlash-1235020878/
+- Variety Print Plus Subscriber
+- Variety Print Plus Subscriber
+- Variety Print Plus Subscriber
+- Variety Print Plus Subscriber
+- Variety Print Plus Subscriber
+- 
+- By 
+
+	Jazz Tangcay
+- Artisans Editor
+- UPDATED: Documentary filmmaker Morgan Neville paints a raw and personal image of Anthony Bourdain in his new documentary, “Roadrunner: A Film About Anthony Bourdain” which opens in theaters on Friday.
+- In the documentary, editors Eileen Meyer and Aaron Wickenden weave in narration by Bourdain pulled from audio clips, show outtakes, video interviews and audiobooks. However, when asked how he obtained some quotes from Bourdain in a new article in the New Yorker, Neville tells writer Helen Rosner that he used artificial intelligence to create three quotes with Bourdain’s voice. “I created an AI model of his voice,” Neville says. He goes on to say, “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know.”
+- 
+- Representatives for the documentary note that the AI voice technology was used for less than 60 seconds.
+- Film critics and documentary filmmakers took to Twitter in response to the article, expressing their discomfort with the artificially generated voice, which Neville characterized as a “modern storytelling technique.”
+- After the backlash broke out on Twitter, Neville responded to Variety, saying, “There were a few sentences that Tony wrote that he never spoke aloud. With the blessing of his estate and literary agent we used AI technology. It was a modern storytelling technique that I used in a few places where I thought it was important to make Tony’s words come alive.”
+- Speaking to GQ magazine, Neville explained the process to Brett Martin. He said, “We fed more than ten hours of Tony’s voice into an AI model. The bigger the quantity, the better the result. We worked with four companies before settling on the best. We also had to figure out the best tone of Tony’s voice: His speaking voice versus his “narrator” voice, which itself changed dramatically of over the years. The narrator voice got very performative and sing-songy in the “No Reservation” years. I checked, you know, with his widow and his literary executor, just to make sure people were cool with that. And they were like, Tony would have been cool with that. I wasn’t putting words into his mouth. I was just trying to make them come alive.”
+- Bourdain’s widow Ottavia Busia responded to the comment on Twitter saying, “I certainly was NOT the one who said Tony would have been cool with that.”
+- Critic Sean Burns wrote, “When I wrote my review I was not aware that the filmmakers had used an A.I. to deepfake Bourdain’s voice for portions of the narration. I feel like this tells you all you need to know about the ethics of the people behind this project.”
+- 
+- Washington Post reporter Dave Weigel tweeted the interview excerpt and simply commented, “Thanks I hate it.”
+- Documentary filmmaker Lindsay Beyerstein questioned whether the use of AI was disclosed to viewers, tweeting, “There’s no real problem with using AI in the place of a soundalike actor in a non-fiction film, as long as the creators are upfront about what they’re doing.” Another user replied to her saying, “Regardless, I’m pretty sure that would make Anthony Bourdain puke.”
+- Author Issac Butler wrote, “This feels unethical to me maybe?”
+- Other twitter commenters called his use of AI fraudulent and manipulative.
+- Neville adds in the New Yorker article, “We can have a documentary-ethics panel about it later.”
+- Rosner published a follow-up article on the situation in the New Yorker on Saturday, saying that Neville had wrote to her that using A.I. “was part of my initial pitch of having Tony narrative the film posthumously à la ‘Sunset Boulevard’ – one of Tony’s favorite films and one he had even reenacted himself on Cook’s Tour.”
+- In response to Busia’s tweet, Neville said to the New Yorker: “I didn’t mean to imply that Ottavia thought Tony would’ve liked it. All I know is that nobody ever expressed any reservations to me.” In an email to Rosner, Busia wrote: “I do believe Morgan thought he had everyone’s blessing to go ahead. I took the decision to remove myself from the process early on because it was just too painful for me.”
+- what do you call the audio version of the uncanny valley but for dead people https://t.co/ucKBL8Buxm
+- — scott (@orlyck) July 15, 2021
+- 
+- I fully acknowledge that my heebie-jeebies do not constitute a stance, but what if Bourdain himself *wouldn't* have approved? What if he intended the lines to stay in the medium of writing?
+- — Katie Kvell (@KatieKvell) July 15, 2021
+- 
+- This feels…strange? Questionable? https://t.co/SJCu8qk2tZ
+- — Heidi N. Moore (@moorehn) July 15, 2021
+- 
+- If they had to create an Anthony Bourdain AI (they didn’t, gross idea) why didn’t they get it to say this in his voice too pic.twitter.com/nTIEzpvGVU
+- — Alistair Ryder (@YesitsAlistair) July 15, 2021
+- 
+- the Anthony Bourdain voice AI thing is so upsetting
+- — calm jawn (@small_jawn) July 15, 2021
+- 
+- I feel like using AI to make Anthony Bourdain's voice appear to say something that he never actually said is not ONLY wildly unethical but also something that Anthony Bourdain would absofuckinglutely hate on account of it being ghoulish and awful. https://t.co/2VdFwss4NI
+- — Howard Ashman stan account (@MichaelChu7) July 15, 2021
+- 
+- 
+- A Variety and iHeartRadio Podcast
+- The Business of Entertainment
+
+URL: https://www.bbc.co.uk/news/technology-57842514
+- A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice.
+- Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain, who died in 2018.
+- Director Morgan Neville called it a modern storytelling technique.
+- But some critics questioned whether it was ethical.
+- Mr Neville said that the synthetic voice was created by feeding more than 10 hours of Mr Bourdain's voice into a machine-learning system.
+- "There were a few sentences that [Bourdain] wrote that he never spoke aloud," he told Variety.
+- So the computerised voice was used to bring his writing to life.
+- He said the technique was used in the film with the support of Mr Bourdain's estate and literary agent.
+- Mr Bourdain, who took his own life in 2018, was one of America's best-known celebrity chefs, presenting food and travel programmes and writing a number of best-selling books.
+- In 2016, he shared a $6 (£4.30) meal with Barack Obama in a small Hanoi restaurant when the then-US president visited Vietnam.
+- Writing about the artificial voice in the film, the New Yorker's Helen Rosner noted that the "seamlessness of the effect is eerie".
+- Reviewer Sean Burns criticised the unannounced use of what he called a "deepfake" voice.
+- Allow Twitter content?
+- This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+- David Leslie, ethics lead at the Alan Turing Institute, said the issue showed the importance of informing audiences that AI was being used, to prevent people possibly feeling deceived or manipulated.
+- But he said that although it was a complex issue, the use of AI technology in documentaries should not be ruled out.
+- "In a world where the living could consent to using AI to reproduce their voices posthumously, and where people were made aware that such a technology was being used, up front and in advance, one could envision that this kind of application might serve useful documentary purposes," he said.
+- The BBC has approached the film-makers for comment.
+- Voice cloning of growing interest to actors and cyber-criminals
+- 'Deepfake is the future of content creation'
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.npr.org/2021/07/16/1016838440/ai-brought-anthony-bourdains-voice-back-to-life-should-it-have
+- Andrew Limbong
+- The chef-turned-media personality died by suicide in 2018. His voice was recreated in the new documentary Roadrunner by AI technology.
+                
+                    
+                    Courtesy of CNN/Focus Features
+                    
+                
+hide caption
+- The chef-turned-media personality died by suicide in 2018. His voice was recreated in the new documentary Roadrunner by AI technology.
+- "We can have a documentary-ethics panel about it later," joked Morgan Neville, director of the new Anthony Bourdain documentary Roadrunner, as he revealed to The New Yorker that three lines in his movie — which sounded like they were being delivered by the late chef-turned-media personality — were actually generated by AI.
+- Well, later has arrived.
+- The film uses a variety of clips from Bourdain's wide back catalog of TV shows, radio and podcast appearances, and audiobook recordings. By design, Neville wanted the AI generated voice overs to blend in with those recordings, so audience members would never know the difference. Critics, like Sean M. Burns, found the technique duplicitous, tweeting "I feel like this tells you all you need to know about the ethics of the people behind this project."
+- The writer of the original New Yorker piece, Helen Rosner, had a more gracious read of the situation, calling the use of expansive storytelling techniques "entirely consistent with how Bourdain worked."
+- Is it creepy, knowing about it now? Absolutely. Was it wrong? I don't think so.
+- Jason Sheehan
+- Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public, says he isn't entirely sure how to feel. "I mean, is it all that different than Ken Burns having Sam Waterston read Abraham Lincoln's letters in his Civil War documentary? Neville claims that he used Bourdain's own words — things that he'd written or said that just didn't exist on tape — and that matters," Sheehan says. "If Burns had asked Waterston to make Lincoln say how much he loved the new Subaru Outback, then sure. That's a problem. But this isn't that. This is the (admittedly queasy) choice to bring back to life the voice of a dead guy, and make that voice speak words that already existed in another form. Is it creepy, knowing about it now? Absolutely. Was it wrong? I don't think so. But these things are decided in public. It'll get hashed out on social media and in spaces like this. And then we'll move on, all of us having been forced to briefly consider the possibility of an endless zombie future where nothing we've ever said or written ever really goes away."
+- In response to some of the criticism he was getting, Neville responded, saying to Variety that "There were a few sentences that Tony wrote that he never spoke aloud. With the blessing of his estate and literary agent we used AI technology. It was a modern storytelling technique that I used in a few places where I thought it was important to make Tony's words come alive."
+- I certainly was NOT the one who said Tony would have been cool with that. https://t.co/CypDvc1sBP
+- Though Bourdain's ex-wife Ottavia Bourdain later tweeted "I certainly was NOT the one who said Tony would have been cool with that."
+- Is this all ethically squirrelly or is it an interesting use of voice and technology? Does this information feel unsettling because someone did something bad, or have we just not yet acquiesced ourselves to the new reality of deepfakes? Is it even Neville's duty to adhere to the strict truth of things? Are people particularly invested in this instance because of their parasocial relationship with Bourdain as a media identity, instead of the flawed, idiosyncratic figure the movie paints him as? All are worthwhile questions — bring them to the panel.
+- Sponsor Message
+- Become an NPR sponsor
+
+- Kim Kwang-Seok voice recreation
+- Tom Cruise deepfakes
+- Page infoPublished: December 2021

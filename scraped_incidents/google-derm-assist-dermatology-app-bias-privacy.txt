@@ -1,0 +1,551 @@
+- Occurred: April 2021
+- Can you improve this page?Share your insights with us
+- Google has launched Derm Assist, an AI-powered app that automatically analyses skin conditions, asks questions, and suggests causes. The app is being tested in the US and has been approved for use as a medical tool in Europe.
+- Google says the app can recognise 288 skin conditions; however, some doctors have expressed their concerns about the accuracy of the system, in part due poor image quality, and the potential for over-diagnosis of skin cancers.
+- It also appears the system was trained and tested on a dataset that underrepresents people with dark skin tones, resulting in accusations of racial bias. It also drew attention to perceived real-life Google workforce discrimination and inequality.
+- Despite Google saying it would only save images to help train the Derm Assist algorithm if users gave them explicit permission to do so, concerns have also been raised about the potential for Google using personal sensitive data for other purposes.
+- Operator: Alphabet/Google Developer: Alphabet/Google Country: USA Sector: HealthPurpose: Identify dermatological issues Technology: Computer vision Issue: Accuracy/reliability; Bias/discrimination - race; Privacy Transparency: Governance; Privacy
+URL: https://www.nature.com/articles/s41591-020-0842-3
+- Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+- Advertisement
+- Nature Medicine
+volume 26, pages 900–908 (2020)Cite this article
+- 18k Accesses
+- 221 Citations
+- 511 Altmetric
+- Metrics details
+- Skin conditions affect 1.9 billion people. Because of a shortage of dermatologists, most cases are seen instead by general practitioners with lower diagnostic accuracy. We present a deep learning system (DLS) to provide a differential diagnosis of skin conditions using 16,114 de-identified cases (photographs and clinical data) from a teledermatology practice serving 17 sites. The DLS distinguishes between 26 common skin conditions, representing 80% of cases seen in primary care, while also providing a secondary prediction covering 419 skin conditions. On 963 validation cases, where a rotating panel of three board-certified dermatologists defined the reference standard, the DLS was non-inferior to six other dermatologists and superior to six primary care physicians (PCPs) and six nurse practitioners (NPs) (top-1 accuracy: 0.66 DLS, 0.63 dermatologists, 0.44 PCPs and 0.40 NPs). These results highlight the potential of the DLS to assist general practitioners in diagnosing skin conditions.
+- This is a preview of subscription content, access via your institution
+- Open Access articles citing this article.
+- Scientific Reports
+Open Access
+15 March 2023
+- Scientific Reports
+Open Access
+13 March 2023
+- 
+- Access Nature and 54 other Nature Portfolio journals
+- Get Nature+, our best-value online-access subscription
+- $29.99 / 30 days
+- cancel any time
+- 
+- Subscribe to this journal
+- Receive 12 print issues and online access
+- $189.00 per year
+- only $15.75 per issue
+- 
+- Rent or buy this article
+- Get just this article for as long as you need it
+- $39.95
+- 
+- Prices may be subject to local taxes which are calculated during checkout
+- The de-identified teledermatology data used in this study are not publicly available due to restrictions in the data-sharing agreement.
+- The deep learning framework (TensorFlow) used in this study is available at https://www.tensorflow.org/. The training framework (Estimator) is available at https://www.tensorflow.org/guide/estimators. The deep learning architecture (Inception-v4) is available at https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_v4.py.
+- Hay, R. J. et al. The global burden of skin disease in 2010: an analysis of the prevalence and impact of skin conditions. J. Invest. Dermatol. 134, 1527–1534 (2014).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Lowell, B. A., Froelich, C. W., Federman, D. G. & Kirsner, R. S. Dermatology in primary care: prevalence and patient disposition. J. Am. Acad. Dermatol. 45, 250–255 (2001).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Awadalla, F., Rosenbaum, D. A., Camacho, F., Fleischer, A. B. Jr & Feldman, S. R. Dermatologic disease in family medicine. Fam. Med. 40, 507–511 (2008).
+- PubMed 
+    
+                    Google Scholar
+- Feng, H., Berk-Krauss, J., Feng, P. W. & Stein, J. A. Comparison of dermatologist density between urban and rural counties in the United States. JAMA Dermatol. 154, 1265–1271 (2018).
+- Article 
+    
+                    Google Scholar
+- Resneck, J. & Kimball, A. B. The dermatology workforce shortage. J. Am. Acad. Dermatol. 50, 50–54 (2004).
+- Article 
+    
+                    Google Scholar
+- Johnson, M. L. On teaching dermatology to nondermatologists. Arch. Dermatol. 130, 850–852 (1994).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Ramsay, D. L. & Weary, P. E. Primary care in dermatology: whose role should it be? J. Am. Acad. Dermatol. 35, 1005–1008 (1996).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- The Distribution of the US Primary Care Workforce (Agency for Healthcare Research & Quality, 2012); https://www.ahrq.gov/research/findings/factsheets/primary/pcwork3/index.html
+- Seth, D., Cheldize, K., Brown, D. & Freeman, E. F. Global burden of skin disease: inequities and innovations. Curr. Dermatol. Rep. 6, 204–210 (2017).
+- Article 
+    
+                    Google Scholar
+- Federman, D. G., Concato, J. & Kirsner, R. S. Comparison of dermatologic diagnoses by primary care practitioners and dermatologists. A review of the literature. Arch. Fam. Med. 8, 170–172 (1999).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Moreno, G., Tran, H., Chia, A. L. K., Lim, A. & Shumack, S. Prospective study to assess general practitioners’ dermatological diagnostic skills in a referral setting. Australas. J. Dermatol. 48, 77–82 (2007).
+- Article 
+    
+                    Google Scholar
+- Tran, H., Chen, K., Lim, A. C., Jabbour, J. & Shumack, S. Assessing diagnostic skill in dermatology: a comparison between general practitioners and dermatologists. Australas. J. Dermatol. 46, 230–234 (2005).
+- Article 
+    
+                    Google Scholar
+- Federman, D. G. & Kirsner, R. S. The abilities of primary care physicians in dermatology: implications for quality of care. Am. J. Manag. Care 3, 1487–1492 (1997).
+- CAS 
+    PubMed 
+    
+                    Google Scholar
+- UpToDate
+https://www.uptodate.com/home
+- Cutrone, M. & Grimalt, R. Dermatological image search engines on the Internet: do they work? J. Eur. Acad. Dermatol. Venereol. 21, 175–177 (2007).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Yim, K. M., Florek, A. G., Oh, D. H., McKoy, K. & Armstrong, A. W. Teledermatology in the United States: an update in a dynamic era. Telemed. e-Health 24, 691–697 (2018).
+- Article 
+    
+                    Google Scholar
+- Whited, J. D. et al. Clinical course outcomes for store and forward teledermatology versus conventional consultation: a randomized trial. J. Telemed. Telecare 19, 197–204 (2013).
+- Article 
+    
+                    Google Scholar
+- Mounessa, J. S. et al. A systematic review of satisfaction with teledermatology. J. Telemed. Telecare 24, 263–270 (2018).
+- Article 
+    
+                    Google Scholar
+- Cruz-Roa, A. A., Arevalo Ovalle, J. E., Madabhushi, A. & González Osorio, F. A. A deep learning architecture for image representation, visual interpretability and automated basal-cell carcinoma cancer detection. Med. Image Comput. Comput. Assist. Inter. 16, 403–410 (2013).
+- Google Scholar
+- Codella, N. C. F. et al. Skin lesion analysis toward melanoma detection: a challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), hosted by the International Skin Imaging Collaboration (ISIC). In 2018 IEEE 15th International Symposium on Biomedical Imaging (IEEE, 2018); https://doi.org/10.1109/isbi.2018.8363547
+- Yuan, Y., Chao, M. & Lo, Y.-C. Automatic skin lesion segmentation using deep fully convolutional networks with jaccard distance. IEEE Trans. Med. Imaging 36, 1876–1886 (2017).
+- Article 
+    
+                    Google Scholar
+- Haenssle, H. A. et al. Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists. Ann. Oncol. 29, 1836–1842 (2018).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Brinker, T. J. et al. Deep learning outperformed 136 of 157 dermatologists in a head-to-head dermoscopic melanoma image classification task. Eur. J. Cancer 113, 47–54 (2019).
+- Article 
+    
+                    Google Scholar
+- Maron, R. C. et al. Systematic outperformance of 112 dermatologists in multiclass skin cancer image classification by convolutional neural networks. Eur. J. Cancer 119, 57–65 (2019).
+- Article 
+    
+                    Google Scholar
+- Okuboyejo, D. A., Olugbara, O. O. & Odunaike, S. A. Automating skin disease diagnosis using image classification. In Proceedings of the World Congress on Engineering and Computer Science Vol. 2, 850–854 (International Association of Engineers, 2013).
+- Tschandl, P. et al. Comparison of the accuracy of human readers versus machine-learning algorithms for pigmented skin lesion classification: an open, web-based, international, diagnostic study. Lancet Oncol. 20, 938–947 (2019).
+- Article 
+    
+                    Google Scholar
+- Esteva, A. et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature 542, 115–118 (2017).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Han, S. S. et al. Deep neural networks show an equivalent and often superior performance to dermatologists in onychomycosis diagnosis: automatic construction of onychomycosis datasets by region-based convolutional deep neural network. PLoS ONE 13, e0191493 (2018).
+- Article 
+    
+                    Google Scholar
+- Sun, X., Yang, J., Sun, M. & Wang, K. A benchmark for automatic visual classification of clinical skin disease images. Proceedings of the European Conference on Computer Vision (ECCV) 2016 206–222 (Springer, 2016); https://doi.org/10.1007/978-3-319-46466-4_13
+- Boer, A. & Nischal, K.C. www.derm101.com: a growing online resource for learning dermatology and dermatopathology. Indian J. Dermatol. Venereol. Leprol. 73, 138–140 (2007).
+- Article 
+    
+                    Google Scholar
+- Wilmer, E. N. et al. Most common dermatologic conditions encountered by dermatologists and nondermatologists. Cutis 94, 285–292 (2014).
+- PubMed 
+    
+                    Google Scholar
+- Yang, J., Sun, X., Liang, J. & Rosin, P. L. Clinical skin lesion diagnosis using representations inspired by dermatologist criteria. In 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE, 2018); https://doi.org/10.1109/cvpr.2018.00137
+- Okuboyejo, D. A. Towards automation of skin disease diagnosis using image classification. In Proceedings of the World Congress on Engineering and Computer Science Vol. 2, 850–854 (International Association of Engineers, 2013).
+- Mishra, S., Imaizumi, H. & Yamasaki, T. Interpreting fine-grained dermatological classification by deep learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (IEEE, 2019).
+- Guyatt, G. Users’ Guides to the Medical Literature: Essentials of Evidence-Based Clinical Practice 3rd edn (McGraw-Hill Education/Medical, 2015).
+- Collins, G. S., Reitsma, J. B., Altman, D. G. & Moons, K. G. M. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): the TRIPOD statement. Br. J. Surg. 102, 148–158 (2015).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Webber, W., Moffat, A. & Zobel, J. A similarity measure for indefinite rankings. ACM Trans. Inf. Syst. 28, 1–38 (2010).
+- Article 
+    
+                    Google Scholar
+- Krauss, J. C., Boonstra, P. S., Vantsevich, A. V. & Friedman, C. P. Is the problem list in the eye of the beholder? An exploration of consistency across physicians. J. Am. Med. Inform. Assoc. 23, 859–865 (2016).
+- Article 
+    
+                    Google Scholar
+- Eng, C., Liu, Y. & Bhatnagar, R. Measuring clinician–machine agreement in differential diagnoses for dermatology. Br. J. Dermatol. https://doi.org/10.1111/bjd.18609 (2019).
+- Sundararajan, M., Taly, A., & Yan, Q. Axiomatic attribution for deep networks. In Proceedings of the 34th International Conference on Machine Learning vol. 70, 3319–3328 (2017).
+- Karimkhani, C. et al. Global skin disease morbidity and mortality: an update from the global burden of disease study 2013. JAMA Dermatol. 153, 406–412 (2017).
+- Article 
+    
+                    Google Scholar
+- Stern, R. S. & Nelson, C. The diminishing role of the dermatologist in the office-based care of cutaneous diseases. J. Am. Acad. Dermatol. 29, 773–777 (1993).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results (Institute for Health Metrics and Evaluation (IHME), 2018); http://ghdx.healthdata.org/gbd-results-tool
+- Romano, C., Maritati, E. & Gianni, C. Tinea incognito in Italy: a 15-year survey. Mycoses 49, 383–387 (2006).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Prabhu, V. et al. Prototypical clustering networks for dermatological disease diagnosis. In Proceedings of the 4th Conference on Machine Learning for Health Care (MLHC, 2019).
+- He, S. Y. et al. Self-reported pigmentary phenotypes and race are significant but incomplete predictors of Fitzpatrick skin phototype in an ethnically diverse population. J. Am. Acad. Dermatol. 71, 731–737 (2014).
+- Article 
+    
+                    Google Scholar
+- Barnett, M. L., Boddupalli, D., Nundy, S. & Bates, D. W. Comparative accuracy of diagnosis by collective intelligence of multiple physicians vs individual physicians. JAMA Netw. Open 2, e190096 (2019).
+- Article 
+    
+                    Google Scholar
+- SNOMED home page. SNOMED http://www.snomed.org/
+- Simpson, C. R., Anandan, C., Fischbacher, C., Lefevre, K. & Sheikh, A. Will systematized nomenclature of medicine-clinical terms improve our understanding of the disease burden posed by allergic disorders? Clin. Exp. Allergy 37, 1586–1593 (2007).
+- Article 
+    CAS 
+    
+                    Google Scholar
+- Szegedy, C., Ioffe, S., Vanhoucke, V. & Alemi, A. A. Inception-v4, inception-ResNet and the impact of residual connections on learning. In Thirty-First AAAI Conference on Artificial Intelligence 4278–4284 (AAAI, 2017).
+- Snoek, C. G. M., Worring, M. & Smeulders, A. W. M. Early versus late fusion in semantic video analysis. In Proceedings of the 13th Annual ACM International Conference on Multimedia 399–402 (ACM, 2005); https://doi.org/10.1145/1101149.1101236
+- Dean, J. et al. Large scale distributed deep networks. In Advances in Neural Information Processing Systems 1223–1231 (NIPS, 2012).
+- Ioffe, S. & Szegedy, C. Batch normalization: accelerating deep network training by reducing internal covariate shift. Preprint at https://arxiv.org/pdf/1502.03167.pdf (2015).
+- Russakovsky, O. et al. ImageNet large scale visual recognition challenge. Int. J. Comput. Vis. 115, 211–252 (2015).
+- Article 
+    
+                    Google Scholar
+- Opitz, D. & Maclin, R. Popular ensemble methods: an empirical study. J. Artif. Intell. Res. 11, 169–198 (1999).
+- Article 
+    
+                    Google Scholar
+- Permutation feature importance. Azure Machine Learning Studio https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/permutation-feature-importance.
+- Chihara, L. M. & Hesterberg, T. C. Mathematical Statistics with Resampling and R (Wiley, 2018).
+- Hahn, S. Understanding noninferiority trials. Korean J. Pediatr. 55, 403–407 (2012).
+- Article 
+    
+                    Google Scholar
+- Download references
+- We thank W. Chen, J. Yoshimi, X. Ji and Q. Duong for software infrastructure support for data collection. Thanks also go to G. Foti, K. Su, T. Saensuksopa, D. Wang, Y. Gao and L. Tran. We also appreciate the input of C. Chen, M. Howell and A. Paller for their feedback on the manuscript. Last, but not least, this work would not have been possible without the participation of the dermatologists, primary care physicians and nurse practitioners who reviewed cases for this study, and S. Bis who helped to establish the skin condition mapping.
+- These authors contributed equally: R. Carter Dunn, David Coz.
+- Google Health, Palo Alto, CA, USA
+- Yuan Liu, Ayush Jain, Clara Eng, David H. Way, Kang Lee, Peggy Bui, Jessica Gallegos, Sara Gabriele, Vishakha Gupta, Nalini Singh, Vivek Natarajan, Greg S. Corrado, Lily H. Peng, Dale R. Webster, Dennis Ai, Yun Liu, R. Carter Dunn & David Coz
+- University of California, San Francisco, San Francisco, CA, USA
+- Peggy Bui
+- Advanced Clinical, Deerfield, IL, USA
+- Kimberly Kanada & Susan J. Huang
+- Adecco Staffing, Santa Clara, CA, USA
+- Guilherme de Oliveira Marinho
+- Massachusetts Institute of Technology, Cambridge, MA, USA
+- Nalini Singh
+- Medical University of Graz, Graz, Austria
+- Rainer Hofmann-Wellenhof
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- You can also search for this author in
+                        PubMed Google Scholar
+- Yuan Liu, A.J., C.E., D.H.W., K.L. and D.C. prepared the dataset for usage. S.J.H., K.K. and R.H.-W. provided clinical expertise and guidance for the study. Yuan Liu, A.J., C.E., K.L., P.B., G.d.O.M., J.G., D.A., S.J.H. and K.K. worked on the technical, logistical and quality control aspects of label collection. S.J.H. and K.K. established the skin condition mapping. Yuan Liu, K.L., V.G. and D.C. developed the model. Yuan Liu, A.J., N.S. and V.N. performed statistical analysis and additional analysis. Yun Liu guided study design, analysis of the results and statistical analysis. S.G. studied the potential utility of the model. R.C.D. and D.C. initiated the project and led the overall development, with strategic guidance and executive support from G.S.C., L.H.P. and D.R.W. Yuan Liu, Yun Liu and S.J.H. prepared the manuscript with the assistance and feedback from all other co-authors. K.K. and S.J.H. performed the work at Google Health via Advanced Clinical. G.d.O.M. performed the work at Google Health via Adecco Staffing. N.S. performed the work at Google Health.
+- Correspondence to
+                Yun Liu.
+- K.K. and S.J.H. were consultants of Google LLC. R.H.-W. is an employee of the Medical University of Graz. G.d.O.M. is an employee of Adecco Staffing supporting Google LLC. This study was funded by Google LLC. The remaining authors are employees of Google LLC and own Alphabet stock as part of the standard compensation package. Yuan Liu, A.J., C.E., D.H.W., K.L., P.B., J.G., V.G., D.A., Yun Liu, R.C.D. and D.C. are inventors on a filed patent related to this work. The authors declare no other competing interests.
+- Peer review information Javier Carmona was the primary editor on this article and managed its editorial process and peer review in collaboration with the rest of the editorial team.
+- Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+- a, Top-1 and top-3 sensitivity of the DLS on validation set A (n=3,756). b, Top-1 and top-3 sensitivity of the DLS and three types of clinicians: dermatologists (Derm), primary care physicians (PCP), and nurse practitioners (NP) on validation set B (n=963). Numbers in parentheses in the x-axes indicate the number of cases. Detailed breakdown of each clinician and the DLS performance on the subset of cases graded by each clinician are in Supplementary Table 8. Error bars indicate 95% CI (see Statistical Analysis).
+- a, Top-1 and top-3 accuracy for the DLS and clinicians across all cases and 419 categories of skin conditions. b, Average overlap (to assess the full differential diagnosis) of the DLS and clinicians. Error bars indicate 95% confidence intervals (see Statistical Analysis).
+- Supplementary Methods, Figs. 1–10 and Tables 1–13.
+- Reprints and Permissions
+- Liu, Y., Jain, A., Eng, C. et al. A deep learning system for differential diagnosis of skin diseases.
+                    Nat Med 26, 900–908 (2020). https://doi.org/10.1038/s41591-020-0842-3
+- Download citation
+- Received: 11 September 2019
+- Accepted: 19 March 2020
+- Published: 18 May 2020
+- Issue Date: June 2020
+- DOI: https://doi.org/10.1038/s41591-020-0842-3
+- Anyone you share the following link with will be able to read this content:
+- Sorry, a shareable link is not currently available for this article.
+- 
+- Provided by the Springer Nature SharedIt content-sharing initiative
+- Scientific Reports (2023)
+- Scientific Reports (2023)
+- Applied Intelligence (2023)
+- best practice onkologie (2023)
+- Knee Surgery, Sports Traumatology, Arthroscopy (2023)
+- 
+- Advertisement
+- Nature Medicine (Nat Med)
+                
+
+ISSN 1546-170X (online)
+    
+
+ISSN 1078-8956 (print)
+- © 2023 Springer Nature Limited
+- Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+URL: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2779250
+
+URL: https://blog.google/technology/health/ai-assists-doctors-interpreting-skin-conditions/
+- Health
+- Apr 28, 2021
+- min read
+- Globally, skin conditions affect about 2 billion people. Diagnosing and treating these skin conditions is a complex process that involves specialized training. Due to a shortage of dermatologists and long wait times to see one, most patients first seek care from non-specialists.
+- Typically, a clinician examines the affected areas and the patient's medical history before arriving at a list of potential diagnoses, sometimes known as a “differential diagnosis”. They then use this information to decide on the next step such as a test, observation or treatment.
+- To see if artificial intelligence (AI) could improve the process, we conducted a randomized retrospective study that was published today in JAMA Network Open. The study examined if a research tool we developed could help non-specialists clinicians — such as primary care physicians and nurse practitioners — more accurately interpret skin conditions. The tool uses Google’s deep learning system (that you can learn more about in Nature Medicine) to interpret de-identified images and medical history and provide a list of matching skin conditions.
+- In the study, 40 non-specialist clinicians interpreted de-identified images of patients’ skin conditions from a telemedicine dermatology service, identified the condition, and made recommendations such as biopsy or referral to a dermatologist. Each clinician examined over 1,000 cases — clinicians used the AI-powered tool for half of the cases and didn’t have access to the assistive AI tool in the other half.
+- 
+- Main takeaways of study: AI-assisted clinicians were better able to interpret skin conditions and more often arrive at the same diagnosis as dermatologists.
+- Clinicians with AI assistance were significantly more likely to arrive at the same diagnosis as dermatologists, compared to clinicians reviewing cases without AI assistance. The chances of identifying the correct top condition improved by more than 20% on a relative basis, though the degree of improvement varied by the individual.
+- We believe AI must be designed to improve care for everyone. In the study, clinicians' performance was consistently higher with AI assistance across a broad range of skin types — from pale skin that does not tan to brown skin that rarely burns. In addition to improving diagnostic ability, the AI assistance helped clinicians in the study feel more confident about their assessment and reassuringly did not increase their likelihood to recommend biopsies or referrals to dermatologists as the next appropriate step.
+- These research study results are promising and show that AI-based assistive tools could help non-specialist clinicians assess skin conditions. AI has shown great potential to improve health care outcomes; the next challenge is to demonstrate how AI can be applied in the real world. At Google Health, we’re committed to working with clinicians, patients and others to harness advances in research and ultimately bring about better and more accessible care.
+- Let’s stay in touch. Get the latest news from Google in your inbox.
+- Follow Us
+
+URL: https://www.statnews.com/2021/05/18/google-dermatology-assist-skin-app/
+- Exclusive analysis of biotech, pharma, and the life sciences
+- Topics
+- Columns
+- Tools
+- Events
+- Team
+- Account
+- More
+- Follow Us
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- In-depth analysis of biotech, pharma, and the life sciences
+- from some of the nation's most trusted and well-connected reporters in the industry
+- with STAT+ reporters and leading industry experts in our STAT+ Conversations series
+- hosted by STAT+, plus early-bird access and discounts to industry events around the country
+- get delivered to your inbox to brief you on the most important industry news of the day
+- like our CRISPR Trackr and Drug Pricing Policy Tracker
+- 
+- from some of the nation’s most trusted and well-connected journalists
+- hosted by STAT+, plus early access and discounts to can’t-miss industry gatherings
+- delivered to your inbox with the latest market-moving news and insights
+- that help you stay up to date with the latest research and developments
+- 
+- 
+- on the technologies, personalities, power brokers, and political forces driving changes in life science
+- plus early access and discounts to industry gatherings
+- delivered straight to your inbox with the latest industry news
+- that help you stay up to date with industry research and developments
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- 
+- for the latest news and insights in the world of life sciences, medicine, biotech, and pharma
+- at exclusive live and virtual events hosted by STAT
+- with subscriber-only newsletters delivered to your inbox daily
+- with our premium data tools
+- 
+- By Erin Brodwin May 18, 2021
+- Google on Tuesday debuted an artificial intelligence-powered dermatology tool that analyzes a user’s photos, asks a series of questions, and produces a list of possible causes. Although the tool, an app called “dermatology assist,” remains in the pilot stages in the U.S., Google has received approval from European regulators to market it as a low-risk medical device, enabling the tech giant to release it to some consumers as part of Google search later this year.
+- While Google executives and researchers expressed high hopes for the web-based tool at Google I/O, the company’s annual developer conference, several external researchers and clinicians shared a mix of cautious optimism and concern, including about how users will interpret the results and whether it will work equally well on a range of patients, given that the vast majority of dermatology training is performed using images and data from people with white skin. To date, U.S. regulators have yet to approve a single AI-powered dermatology device.
+- advertisement
+- Karen DeSalvo, chief health officer at Google, told STAT in an interview that she hoped the tool — which does not deliver a diagnosis — would help patients feel more engaged with their own health when they visit a doctor. She said the tool was able to draw from its knowledge of 288 hair, nail, and skin conditions and covers 90% of commonly searched dermatology questions.
+- Unlock this article by subscribing to STAT+ and enjoy your first 30 days free!
+- Health Tech Correspondent, San Francisco
+- Erin was a California-based health tech reporter and the co-author of the STAT Health Tech newsletter.
+- Artificial Intelligence
+- health tech
+- Stat
+- advertisement
+- Reporting from the frontiers of health and medicine
+- You've been selected! Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to the health care news and insights you need
+- Subscribe to STAT+ for less than $2 per day
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+- Become a STAT+ subscriber today!
+- Unlimited access to essential biotech, medicine, and life sciences journalism
+
+URL: https://www.vice.com/en/article/m7evmy/googles-new-dermatology-app-wasnt-designed-for-people-with-darker-skin
+- Google on Tuesday unveiled a dermatology app that it says can recognize 288 different skin conditions from pictures, and there’s something very Google about it. The deep learning system the app is based on was originally trained and tested on a dataset that—like the company itself—vastly underrepresents people with dark skin tones.
+- The app, according to the company’s announcement, grew out of a May 2020 study Google researchers published in the journal Nature Medicine in which they demonstrated the efficacy of using deep learning to recognize skin conditions.
+- To accomplish the task, the researchers used a training dataset of 64,837 images of 12,399 patients located in two states. But of the thousands of skin conditions pictured, only 3.5 percent came from patients with Fitzpatrick skin types V and VI—those representing brown skin and dark brown or black skin, respectively. 90 percent of the database was composed of people with fair skin, darker white skin, or light brown skin, according to the study.
+- As a result of the biased sampling, dermatologists say the app could end up over- or under-diagnosing people who aren’t white.
+- “This kind of cavalier attitude that some in tech have had when it comes to health is not surprising. They’re rolling out things without necessarily thinking about the public health implications,” Dr. Ade Adamson, a dermatologist at the University of Texas’s Dell Medical School, told Motherboard. “There should have been some caution here. There should have been a prospective [bias and accuracy] study that they put out for us to look at.”
+- In its announcement, Google wrote that it had accounted “for factors like age, sex, race and skin types—from pale skin that does not tan to brown skin that rarely burns.” The dataset for the Nature paper was composed of 43.7 percent people who self-identified as Hispanic or Latinx, 34 percent White, 11 percent Asian, and 6.8 percent Black, according to the study.
+- Google then published another study in JAMA Network Open in April 2021 in which it measured the accuracy of its system’s diagnoses when used alone, compared to general physicians and specialists making diagnoses and the accuracy of diagnoses when general physicians and specialists used its system as an aid.
+- According to slides Google shared with Motherboard—from a presentation given after the publication of that paper—its deep learning system was 87.9 percent accurate at identifying skin conditions for Black patients, the highest of any ethnicity. Accuracy for Black patients also showed among the best improvement between specialists diagnosing on their own and specialists working with Google’s tool, according to the slides.
+- But those analyses were done using ethnicity, not Fitzpatrick skin types that correspond to how dark a person’s skin is. And the JAMA study authors noted that their work contained important limitations, namely that Fitzpatrick skin type V (brown) was underrepresented in the data and type VI (dark brown or black) was completely absent from the dataset. As a result, the accuracy rates Google included in its slides would have excluded those for darker-skinned patients, regardless of their ethnicity.
+- A Google spokesperson told Motherboard that that the entire field of dermatology suffers from a lack of data and images of non-white patients and that accounting for that problem was at the forefront of researchers minds as they designed the app, which they plan to further refine before its public release.
+- “Our AI-powered dermatology assist tool is the culmination of more than three years of research,” Johnny Luu, the spokesperson for Google Health, wrote in an email to Motherboard  “Since our work was featured in Nature Medicine, we’ve continued to develop and refine our technology with the incorporation of additional datasets that includes data donated by thousands of people, and millions of more curated skin concern images.”
+- In his email, Luu also provided a statement attributed to Dr. Steven Waldren, chief medical informatics officer of the American Academy of Family Physicians, saying in part: “By augmenting primary care with a robust AI solution, we can potentially improve the quality of care that is provided [for skin conditions].”
+- The medical tech field has a history of racially biased products, from optical heart rate sensors to algorithms hospitals use to decide which patients need further care. And Google has a representation problem of its own—the company is only 3.7 percent Black, according to its 2020 diversity report, and many of those employees are in non-technical roles.
+- The problem has come to a head over the last year following the company’s firing of respected AI ethicist Timnit Gebru and the revelations that followed about its treatment of other Black employees.
+- The news prompted a major recruiting organization for historically black colleges and university (HBCU) graduates to end its partnership with Google. And recently, three organizations working to boost the careers of Black and queer tech workers announced they would stop accepting funding from the company.
+- Without a diverse body of researchers and executives, critics have warned, the company will end up making technology that hurts the communities who are left out.
+- “The low representation of Black people within this [dermatology app] dataset suggests it is optimized for white consumers,” Mutale Nkonde, a Stanford Digital Society Lab fellow and founder of AI for the People, told Motherboard. “This preferencing of white people seems to be inline with their treatment of Black people within the company.”
+- Google said that while building the dermatology app it took measures to “make sure we’re building for everyone.” It also clarified that while the app has received certification in Europe as a Class I medical device, users should not be using it to diagnose themselves.
+- Dr. Adamson said it’s naive to think that people won’t consider the suggested conditions as diagnoses or evidence that nothing is wrong, particularly when it comes to serious conditions like cancer. So if the app is widely used, and especially if its accuracy is poor on darker skin tones, it could lead to dangerous strains on public health systems.
+- “Google claims to turn up the sensitivity on things that are possibly skin cancers,” he said. “From a clinical perspective, all that’s going to do is crank up the false positives—the people who are told they have skin cancer when that’s not true—and they’re going to flood dermatologists’ offices.”
+- By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from Vice Media Group, which may include marketing promotions, advertisements and sponsored content.
+
+URL: https://www.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811
+- Gain a global perspective on the US and go beyond with curated news and analysis from 600
+				journalists in 50+ countries covering politics, business, innovation, trends and more.
+- Then $69 per month  New customers only  Cancel anytime during your trial
+- During your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.
+- Standard Digital includes access to a wealth of global news, analysis and expert opinion.  Premium Digital includes access to our premier business column, Lex, as well as 15 curated newsletters covering key business themes with original, in-depth reporting.  For a full comparison of Standard and Premium Digital, click here.
+- Change the plan you will roll onto at any time during your trial by visiting the “Settings & Account” section.
+- If you do nothing, you will be auto-enrolled in our premium digital monthly subscription plan and retain complete access for $69 per month.
+- For cost savings, you can change your plan at any time online in the “Settings & Account” section. If you’d like to retain your premium access and save 20%, you can opt to pay annually at the end of the trial.
+- You may also opt to downgrade to Standard Digital, a robust journalistic offering that fulfils many user’s needs. Compare Standard and Premium Digital here.
+- Any changes made can be done at any time and will become effective at the end of the trial period, allowing you to retain full access for 4 weeks, even if you downgrade or cancel.
+- You may change or cancel your subscription or trial at any time online. Simply log into Settings & Account and select "Cancel" on the right-hand side.
+- You can still enjoy your subscription until the end of your current billing period.
+- We support credit card, debit card and PayPal payments.
+- Find the plan that suits you best.
+- Premium access for businesses and educational institutions.
+- Check if your
+							
+university
+ or
+							
+organisation
+ offers FT membership to read for free.
+- We use
+								cookies
+								and other data for a number of reasons, such as keeping FT Sites reliable and secure,
+								personalising content and ads, providing social media features and to
+								analyse how our Sites are used.
+- International Edition
+
+URL: https://healthitanalytics.com/news/google-unveils-artificial-intelligence-tool-for-dermatology
+
+URL: https://www.theguardian.com/society/2021/may/21/doctors-fear-google-skin-check-app-will-lead-to-tsunami-of-overdiagnosis
+- There are nearly 10bn Google searches for skin, nail and hair issues each year, prompting the tech giant to create a ‘dermatology assist tool’
+- Google’s entry into health diagnostics has alarmed health experts who fear a new artificial intelligence tool to identify skin conditions could lead to overdiagnosis, or rare and complex skin conditions being missed.
+- At a technology conference in the US on Tuesday, Google revealed there are almost 10bn Google searches related to skin, nail and hair issues every year. In response, Google has developed an artificial intelligence “dermatology assist tool” for people with concerns about their skin. Users of the app can use their phone to take three images of their skin, hair or nails from different angles.
+- The app will then ask users questions about their skin type, how long they have had the issue, and for other symptoms that help narrow down the possibilities.
+- “The artificial intelligence model analyses this information and draws from its knowledge of 288 conditions to give you a list of possible matching conditions that you can then research further,” Google said in a statement.
+- “The tool is not intended to provide a diagnosis nor be a substitute for medical advice, as many conditions require clinician review, in-person examination or additional testing like a biopsy. Rather we hope it gives you access to authoritative information so you can make a more informed decision about your next step.”
+- The immediate past president of the Australasian College of Dermatologists, Dr Andrew Miller, said it was true that there is a global shortage of dermatologists worldwide, making it difficult for people with concerns to see a specialist.
+- “Around the world there are about 100,000 dermatologists, and considering there are almost eight billion people in the world that’s an amazing shortage,” he said. “We also have maldistribution of more in city and well-off areas and less in rural and disadvantaged areas. So I definitely understand that issues of access are front of mind.”
+- But Miller said government-subsidised appointments allowing GPs to collaborate with dermatologists were the answer, not artificial intelligence [AI]. He said while telehealth appointments might be subsidised, they were not an ideal way to examine skin or to take photographs, because images taken during video streaming were poor quality.
+- “What we want is subsidies to be able to work with GPs who will contact us with the patient’s history, and who can take good quality photographs for us and send those through. We can then take our time to analyse those and, with the patient’s consent, work with their GP to come up with a treatment plan. We already do this kind of work where we can, but there is complex back-of-house analytical work that requires more than just a telehealth appointment.
+- “But there is no Medicare schedule for dermatology to be performed via telehealth in the way we would like to do it, which is involving the GP and having time to analyse properly taken images.”
+- In this situation Miller said the GP could explain the next steps and treatments, but this level of communication would not be available for people using Google.
+- “The standard textbook for dermatology is four volumes thick and weighs a couple of kilos,” Miller said. “People do get rare things. One of the things doctors and specialists have is an antennae that there is something wrong even if it may not look obvious, and when talking to a patient you also read body language and get a sense of whether they understand what you are telling them and if they are taking it all in.
+- “I’d worry that with a computer, people might ignore advice to see a doctor, or the algorithm might miss anything complex. I’d also worry that they might misunderstand questions asked by the app.”
+- Sign up to receive the top stories from Guardian Australia every morning
+- There is some evidence that AI has diagnostic potential. A 2017 study published in the journal Nature found an artificial intelligence network was capable of classifying skin cancer with a level of competence comparable to dermatologists. “It is projected that 6.3bn smartphone subscriptions will exist by the year 2021, and can therefore potentially provide low-cost universal access to vital diagnostic care,” the paper says.
+- But assistant professor and NHMRC early career fellow with Bond University’s Institute for Evidence-Based Healthcare Dr Ray Moynihan said; “There is great concern that the entry of Big Tech into healthcare will bring a tsunami of overdiagnosis – because there is a lot of money to be made telling healthy people they are sick.”
+- While early detection of deadly skin cancers such as melanoma is essential to improving the success of treatment, there is growing concern that harmless lesions are being diagnosed as melanoma, with the consequences being unnecessary treatment, psychological distress and medical costs. A study published in 2020 in the Medical Journal of Australia found 58% of melanomas were overdiagnosed, or 24% of all cancer diagnoses.
+- “There is already compelling evidence of much overdiagnosis of skin cancer – and over-enthusiastic acceptance of new screening tools could make the problem far worse,” Moynihan said.
+- “There is of course the chance that careful judicious use of some of this new technology could reduce the problem of overdiagnosis, by better distinguishing between malignant and benign problems – but that would require rigorous evaluation of risks and benefits by independent researchers and regulators.
+- “What we have at the moment are puffed up press releases and promotional media stories that make no mention of the potential downsides of these experimental AI tools – and one of the biggest downsides is unnecessary diagnosis, and the harm, anxiety and waste that can cause.”
+
+URL: https://www.bbc.co.uk/news/technology-57157566
+- Google has unveiled a tool that uses artificial intelligence to help spot skin, hair and nail conditions, based on images uploaded by patients.
+- A trial of the "dermatology assist tool", unveiled at the tech giant's annual developer conference, Google IO, should launch later this year, it said.
+- The app has been awarded a CE mark for use as a medical tool in Europe.
+- A cancer expert said AI advances could enable doctors to provide more tailored treatment to patients.
+- The AI can recognise 288 skin conditions but is not designed to be a substitute for medical diagnosis and treatment, the firm said.
+- It has taken three years to develop, and has been trained on a dataset of 65,000 images of diagnosed conditions, as well as millions of images showing marks people were concerned about, and thousands of pictures of healthy skin, in all shades and tones.
+- As well as using images, the app also requires patients to answer a series of questions online.
+- It is based on previous tools developed by Google for learning to spot the symptoms of certain cancers and tuberculosis.
+- Currently none of these tools is approved as an alternative to human diagnosis.
+- Google says there are some 10 billion searches for skin, hair and nail issues on its search engine every year.
+- Dermatology Assist has not yet been given clearance by the Food and Drug Administration (FDA) for use in the US, but a similar machine-learning model built by British firm Optellum was recently approved by the FDA for use as an assistant in the diagnosis of lung cancer.
+- Professor Tim Underwood, head of cancer sciences at the University of Southampton, said such tools had the potential to provide more tailored treatments to patients.
+- "The application of AI, both in cancer and in other areas of medicine, informs the conversation around what the diagnosis might be and what treatment to offer to an individual," he said.
+- This is not the first AI in healthcare, but it is significant for putting the tool in the hands of the public rather than doctors.
+- Google views this AI as better than searching for the information yourself, rather than a substitute for medical advice.
+- Whether people use it like that is another matter - we already know the internet is a source of both medical panic and false reassurance. How people might use the AI has fed into a design that aims to prioritise safety.
+- Medical tools like this, yes even those with an AI at the helm, have to strike a balance. Do you focus on catching everyone who has a disease or on ruling out those who are healthy to avoid unnecessary worry or treatments?
+- One always comes at the cost of the other.
+- The doctors and developers involved told me the AI has been optimised to avoid missing "alarming or scary" conditions such as skin cancer. The flip side is some people will be advised to check out something that will turn out to be benign.
+- AI 'outperforms' doctors diagnosing breast cancer
+- AI 'doctor's assistant' among projects given £20m
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.cnet.com/health/personal-care/google-will-now-help-you-identify-that-suspicious-mole-or-rash/
+- Your guide to a better future
+- Derm Assist, a new tool from Google, helps you figure out what's going on with your skin.
+- Googling your symptoms isn't always the best idea, but Google wants to change that and it's starting with your skin.
+- The search giant has developed Derm Assist, a new web-based app that can identify skin conditions from a photo. Derm Assist was unveiled at Google I/O 2021, Google's annual developer conference, but you can't use it yet. Google is targeting for it to launch in the European Union by the end of this year.
+- Here's how it works. You spot a rash, lesion or strange-looking mole on your skin, snap a few photos of it, upload those pictures to Derm Assist. Google's artificial intelligence and machine-learning capabilities analyze the photos and look for a match in a database of 288 skin conditions. It then presents a handful of possible skin conditions you might have with an accuracy rate of up to 97%, the company says.
+- Derm Assist only needs three photos to match you with a few possible skin conditions, but to get more precise results, you can fill out an optional questionnaire that goes into more detail about your skin condition.
+- Google makes it clear that this is not a diagnostic tool, but rather a way to help narrow down possible conditions so you can determine if you should see a doctor or just grab some cream from the drugstore.
+- Why focus on skin? Each year Google gets 10 billion searches about skin conditions, so the demand is there. Skin conditions can also be tricky to identify on your own, which is where the AI and machine learning comes in. Google already knows that people use its search engine to look up medical conditions, so the company is leaning into that.
+- The step-by-step process of using Derm Assist.
+- Google is far from the first to do this, as apps like Aysa, Miiskin and SkinVision have been around for a few years. To set itself apart, Google intentionally made this as a web app, so that anyone with a phone that has a browser can use it. It's also betting that its large library of skin conditions will give it an edge.
+- While building this app, the company made it a point to pull in diverse data to teach the AI and machine learning how to identify skin conditions on people of color, not just white skin. The hope is that people all over the world can use Derm Assist, regardless of skin color, and get information where medical care might be limited.
+- Derm Assist could be instrumental in helping people get the medical care they need for potentially serious skin conditions, but it does raise privacy concerns. After all, Google already knows so much about you, do you really want to hand over your medical data too?
+- To quell any privacy fears, Google says it will not use the information and photos you provide for advertising purposes and that your data is private and encrypted.
+- Before you use the tool, you have to sign a consent form allowing Google to collect your personal data, but if you want to remove it from Derm Assist at any time, you can. You can also opt to donate your photos and data to Google, so it can use it to improve the tool and contribute to research studies.
+- Google also announced at I/O that it's using AI technology to screen mammograms for potential issues in a research study. This is not something the average person can use, but it could help speed up the process to review a mammogram in the future.
+
+- Appen recruitment skin colour assessment
+- Google Health diabetic retinopathy diagnosis
+- Page infoType: IncidentPublished: December 2021

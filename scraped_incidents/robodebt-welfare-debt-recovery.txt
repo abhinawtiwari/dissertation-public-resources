@@ -1,0 +1,230 @@
+- Released: July 2016
+- Can you improve this page?Share your insights with us
+- The Australian government's Robodebt (or Online Compliance Intervention (OCI)) scheme was a highly controversial automated debt recovery system that replaced a manual system of calculating overpayments and issuing debt notices to welfare recipients.
+- Launched in July 2016, the OCI data-matching system automated much of the investigation and debt raising process where Australia's Department of Human Services detected a discrepancy between the amount of income a citizen declared in a year with averaged fortnightly income data from the Australian Taxation Office (ATO).
+- The new system, according to then Prime Minister Scott Morrison, would increase the 'number of fraud investigations and compliance interventions by over 900,000 over four years', saving AUD 1.8 billion.
+- After years of complaints, legal actions, and official inquiries, the Australian government announced it would terminate the OCI scheme in May 2020 and repay 470,000 wrongly-issued debts in full.
+- Complaints quickly started to be made about the OCI scheme after its launch to organisations such as legal advisory service Victoria Legal Aid, with citizens saying they were being hit with year-old debts and given three weeks to provide documents to prove they had not been overpaid.
+- Government officials denied widespread problems with the scheme, and started a public campaign to rebut stories in the media which accused the OCI of producing unfair and possibly illegal outcomes.
+- In January 2017, former senior assistant commonwealth ombudsman Louise Macleod led an inquiry into the OCI. Per The Guardian, the April 2017 report listed some process issues with the scheme but was muted on the issue of income averaging and completely silent on legality.
+- But internal emails later shared with the Royal Commission questioning the legality of the scheme were shown to have been withheld from her investigation.
+- Operator: Department of Human Services/Centrelink Developer: Services Australia Country: AustraliaSector: Govt - welfarePurpose: Recover overpaid welfare payments Technology: Robotic Process Automation (RPA) Issue: Accuracy/reliability; Fairness; Privacy Transparency: Governance; Black box; Complaints/appeals; Marketing; Legal
+- Services Australia. Centrelink self-service
+- Services Australia. Income compliance program refunds
+- Robodebt scheme Wikipedia profile
+- Gordon Legal. Robodebt class-action
+- Gordon Legal. Robodebt FAQs
+- NotmyDebt campaign website
+- Terry Carney (2018). The New Digital Future for Welfare: Debts without Legal Proofs or Moral Authority? (pdf)
+- Royal Commission into the Robodebt scheme
+- Senate Standing Committees on Community Affairs (2020). Centrelink's compliance program
+- Office of the Australian Information Commissioner (2019). Handling personal information Department of Human Services, PAYG data matching program (pdf)
+- Commonwealth Ombudsman (2017). Centrelink’s automated debt raising and recovery system (pdf)
+- Commonwealth Ombudsman (2017). Lessons learnt about digital transformation and public administration: Centrelink’s online compliance intervention (pdf)
+URL: https://in.news.yahoo.com/human-cost-australias-illegal-robo-164831011.html
+- As of August 26th, 2021 Yahoo India will no longer be publishing content. Your Yahoo Account, Mail and Search experiences will not be affected in any way and will operate as usual. We thank you for your support and readership.
+
+URL: https://www.abc.net.au/news/2017-04-10/centrelink-debt-recovery-system-lacks-transparency-ombudsman/8430184
+- 
+- Centrelink's debt recovery system lacks transparency and treated some customers unfairly, ombudsman finds
+- Centrelink's controversial debt recovery system lacks transparency and has treated some customers unfairly, the Commonwealth Ombudsman has found.
+- The Department of Human Services was swamped with complaints after it began sending automatically generated debt notices to welfare recipients after checking their tax records.
+- Acting Commonwealth Ombudsman Richard Glenn said he was satisfied the debts raised by the Department of Human Services department were largely accurate.
+- One in five people sent debt notices did not owe any money, but Mr Glenn said he agreed with the Department that these were not "errors" and the number of mistakes did not increase under the new system.
+- However, he listed a large number of problems plaguing the system and said improvements were needed to meet "minimum administrative law requirements".
+- "There were deficiencies in (the department's) service delivery and communication to customers and staff when implementing the system," he said.
+- "These issues affected the quality of decisions made by the [automated system].
+- "Many of these problems could have been reduced through better project planning, system testing and risk management."
+- The Government has used data matching to identify welfare fraud for decades but automated the process in mid-2016 in a bid to save money, greatly reducing human oversight.
+- It made headlines last year when thousands of Australians suddenly found out they owed money to Centrelink. Critics call it "robo-debt", but how does the controversial system actually work?
+- In a statement, Human Services Minister Alan Tudge welcomed the report and said the Government would improve its communication with the public.
+- "The unfortunate reality is that while most welfare recipients do the right thing, some deliberately defraud the system while others inadvertently fail to accurately declare their income and consequently receive an overpayment," he said.
+- "We want to be fair and reasonable to welfare recipients but also fair to the taxpayer who pays for the welfare payments."
+- The Opposition's spokeswoman for human services Linda Burney said the Government's approach was failing.
+- "All of this could have been avoided if there'd been better planning and better testing of the system before minister Tudge and the Government launched into sending tens of thousands of letters out to people," she said.
+- The Ombudsman said the department had improved many aspects of the program in January, when it allowed welfare recipients to instigate an internal review before debt proceedings are launched.
+- Mr Glenn said some clients may have received debt notices for money they did not owe because they did not provide complete information to the department, but there were several barriers to them doing that.
+- Many Centrelink clients reacted angrily when they received debt letters asking them to repay money.
+- The Ombudsman said the letters were unclear and did not include crucial information, such as the right contact phone number for Centrelink.
+- The report also said many people did not realise that they had to enter their income more regularly under the new system, and that "in some cases this was a more favourable outcome for the customer, and in others, the debt was overstated".
+- Under the new system welfare recipients are expected to provide more information about their employment record.
+- In the wake of the debt recovery debacle, Helen Hodgson asks if it is time for Centrelink to change tack.
+- But the Ombudsman said many clients struggled to collect proof of their earnings from several years ago, and the department needed to do more to help them get the information they needed.
+- "When the (new) system was first rolled out, customers had 21 days to respond to the initial letter … given the complexity of collecting historical employment information or the possibility that the customer may not have received the initial letter, we consider the 21-day timeframe was not reasonable or fair in all circumstances", the report said.
+- The ombudsman was scathing about the way the department dealt with the complaints, saying people struggled to understand why they had been issued debts and what had changed.
+- "Poor service delivery was a recurring theme in many complaints received by our office," the report said.
+- "Customers had problems getting a clear explanation about the debt decision and the reasoning behind it."
+- The report found many welfare clients didn't know they had to call the compliance helpline and so flooded Centrelink's general customer service line instead.
+- But Centrelink staff did not fully understand how the new system worked because they had not been trained properly.
+- The ombudsman said the department had agreed "vulnerable" customers would not have to deal with the automated system for now, and they would be given extra help in the future.
+- "Many of the OCI's implementation problems could have been mitigated through better project planning and risk management at the outset," the report said.
+- "This includes more rigorous user testing with customers and service delivery staff, a more incremental rollout, and better communication to staff and stakeholders."
+- The ombudsman said the department had accepted its recommendations and made several steps to improve the way the new system was implemented.
+- But it said the department needed to give the program a "comprehensive evaluation" before implementing it further, and said any future rollout should only be done "incrementally".
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.theguardian.com/australia-news/2017/apr/10/centrelink-debt-scandal-report-reveals-multiple-failures-in-welfare-system
+- Ombudman’s report says introduction of ‘robo-debt system’ put unreasonable burdens on welfare recipients and staff
+- An ombudsman’s report on the roll out of Centrelink’s automated debt recovery service has identified multiple failures that placed unreasonable burdens on welfare recipients and staff.
+- The self-initiated investigation was announced in January after months of complaints that the problem-riddled system was sending incorrect debt notices to people.
+- “The [Online Compliance Intervention] project effectively shifted complex fact finding and data entry functions from the department to the individual and its success relied on its usability,” said the report by acting commonwealth ombudsman, Richard Glenn.
+- In July 2016 the Department of Human Services switched to an automated system of data-matching to identify welfare fraud.
+- Glenn found the switch did not see an increase in the 20% rate of people who were sent debt notices but then found not to owe a debt, and it was “entirely reasonable and appropriate” for the department to ask customers to explain discrepancies.
+- However, this was only as long as the system had complete and accurate information, it said, and the department’s processes placed a greater emphasis on the customer’s responsibility, which was “not reasonable or fair” in many situations.
+- The department’s requirement for people to keep records for six or seven years was not reasonable, the report found, “particularly when they have not been forewarned about this requirement”.
+- “Customers do not have the same information gathering powers as DHS.”
+- The report also highlighted a litany of other issues related to planning, implementation, consultation, expectations of welfare recipients and staff, and a lack of understanding and communication about the new system’s complicated nature.
+- While it was inevitable there would be issues when rolling out “a large scale, complex automated system in a short timeframe”, the department failed to properly mitigate risks during transition or consult adequately in the planning processes.
+- “DHS did not clearly communicate aspects of the system to its customers and staff, which led to confusion and misunderstanding.”
+- The ombudsman acknowledged improvements already made by the department but said there was more needed.
+- The report identified key issues including:
+- Among its findings, the report said the department’s initial letters to welfare recipients were “unclear and deficient in many respects” and left out crucial information, including that their income would be averaged out if they didn’t enter it each fortnight.
+- The letters were also missing contact numbers for the compliance team, which led people to call the general line and face long wait times and unprepared staff who often did not know how the system worked.
+- The 21-day timeframe to respond to the initial letter was also not reasonable or fair in all circumstances.
+- The ombudsman’s reports concluded the implementation problems could have been mitigated with better planning and risk management, including user testing, a more incremental roll out and better communication with staff and stakeholders.
+- The federal government has stridently defended the debt recovery system, including going so far as to release personal details about a welfare recipient to media in order to publicly rebut complaints.
+- The human services minister, Alan Tudge, said the government welcomed the report and accepted all recommendations.
+- In a statement, Tudge repeatedly noted the parts of the report that defended the automated system and said the government was already making improvements that, in some cases, went further than what was suggested by the ombudsman.
+- “The unfortunate reality is that while most welfare recipients do the right thing, some deliberately defraud the system while others inadvertently fail to accurately declare their income and consequently receive an overpayment,” he said.
+- “We want to be fair and reasonable to welfare recipient but also fair to the taxpayer who pays for the welfare payments.”
+- The shadow human services minister, Linda Burney, said the report raised “serious questions about Alan Tudge’s oversight of his department”.
+- “While some changes have been made to Tudge’s robo-debt system, the ombudsman is clear they don’t go far enough,” she said. “The minister has no one to blame but himself. According to the ombudsman, all of these issues could have been avoided with proper planning and consultation.”
+- The shadow treasurer, Chris Bowen, said Labor maintained the system should be suspended for a review.
+
+URL: https://finance.nine.com.au/business-news/centrelink-debt-letter-scandal-worsens/74bddbd1-e2fb-4e37-8b3e-d2f7eb7bf4e5
+- © 2023 Nine Entertainment Co.
+
+URL: https://www.abc.net.au/news/2020-05-30/robodebt-stuart-robert-scott-morrison/12303322
+- Politics
+- Robodebt removed humans from Human Services, and the Government is facing the consequences
+- The problem with artificial intelligence is that it's artificial.
+- The problem with the intelligence of humans is that it's limited, variable and compromised by judgement and values.
+- Put both together and you get a good understanding of how and why the Federal Government muddled its way into, and out of, the expensive, stressful "Robodebt" debacle.
+- A computer algorithm couldn't tell the difference between real and artificially calculated money "owed" in 470,000 cases.
+- Humans, too driven by the desire for "integrity efficiency" and "budget repair", didn't stop to question strongly enough whether the automated means for gathering an estimated $2.1 billion could ever justify the agonising ends for welfare recipients.
+- Scott Morrison was one of those who enthusiastically promoted "faster and more targeted interventions" through "streamlining existing compliance activities".
+- As treasurer in 2016 and social services minister before then, Mr Morrison joined a long line of ministers, including Christian Porter, Alan Tudge and Stuart Robert, who believed in the promise of automated welfare debt recovery.
+- They believed because they wanted the money it saved, not because they had satisfied themselves of the system's reliability.
+- "A more targeted approach to managing people" is how the now Prime Minister had described it in mid-2016.
+- The story of how the data-matching scheme was invented with vim by a coterie of high-powered bureaucrats and sold to starry-eyed ministers is fabled in Canberra.
+- "Give our Department some extra money, and we'll get you an extra $2 billion" was the pitch.
+- Never mind that in their zeal, the Human Services Department would actually remove humans entirely from the process of identifying alleged debts and mailing what amounted to letters of demand to more than 370,000 people.
+- Nor had anyone evidently stopped to take rigorous legal advice on whether the brave new world of data-matched welfare recovery actually stood up to the laws of the land, which stand as the barrier between Government excess and the protection of the people.
+- Although it's almost never released, we now know that subsequent legal advice to the Government warned its chances of defending numerous court actions would be close to zero.
+- Viewed against such advice, the only surprise in Stuart Roberts' abject capitulation in a Gold Coast park late on a Friday afternoon is not that it came, but that it didn't come sooner.
+- No apology either.
+- And the small matter of the outstanding $721m in refunds? People will have to wait for months throughout the new financial year until it's fully paid out.
+- Lawyers mounting a massive class action against the Government on behalf of those who felt wronged by the system — we may never know exactly how many were — are still mobilising, undeterred by the impending refunds.
+- Publicly, they're in it for the compensation now.
+- But every retreat the Government's made since late last year suggests this case is destined for negotiation in the settlement room, not in any courtroom, because the risks to the Commonwealth — and taxpayers — are immense if a judge ever gets to pick through the manifest failings of the income-averaging and data-matching scheme.
+- The Guardian Australia has reported on "leaked advice prepared for ministers Robert, Anne Ruston and Christian Porter" calling for Robodebts to be abandoned because the scheme was "no longer viable" or "cost effective" and would not rake in the money anticipated.
+- Mr Robert's subsequent surrender suggests he has heeded that advice, as well as the legal advice that data methods used by the department would not stand up in court.
+- Not that it took Mr Robert to discover these flaws since he moved into the Government Services role — they'd been obvious from the outset.
+- As early as 2017, the Senate had flushed out tell-tale statistics of a scheme that simultaneously failed to deliver the Government the money it had banked on, while inflicting grief on 200,000 people.
+- It's been making headlines for a while now, but how does Centrelink's controversial debt-recovery system actually work?
+- Sticking to the clawback system's proper name — the Online Compliance Intervention program — the inquiry found that despite Human Services pumping out "please explain" letters to people at an awesome rate of 20,000 a week, the robotic computers were already falling short of their human creators' expectations.
+- Led by its then-secretary Kathryn Campbell, the department was aiming for $300 million in the first six months of 2016-17, but had only landed $24 million in repayments.
+- An unknown portion of the cash handed back had come from people who may not have owed it, but paid anyway to avoid further harassment.
+- Leap forward to 2020, under cover of the COVID-19 crisis, the back-pedalling on Robodebt has been fast, furious and well-hidden from public scrutiny, as Australians might sadly come to expect these days with full-blown financial and administrative disasters (there've been a few of them).
+- The general idea of data matching to identify welfare overpayments, known as the Income Compliance Program, remains a cornerstone of government policy.
+- But with legal action afoot, 470,000 refunds coming and not so much as a "sorry" to those affected, the final reckoning on Robodebt's legacy is still outstanding.
+- No computer will do it.
+- A responsible human might have to.
+- We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+- This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+- AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)
+
+URL: https://www.theguardian.com/australia-news/2018/apr/04/centrelink-robo-debt-program-accused-of-enforcing-illegal-debts
+- Former Administrative Appeals Tribunal member says calculating income by averaging it ‘arguably breaches’ commonwealth policy
+- The Turnbull government’s robo-debt program involves enforcement of “illegal” debts that in some cases are inflated or nonexistent, a former member of the Administrative Appeals Tribunal has said.
+- The scathing indictment of the program is contained in an academic paper by Prof Terry Carney that also accuses Centrelink of failing to defend the legality of debts in the AAT and suggests the tribunal should set aside debts until the agency has proved the amounts are correct.
+- The criticism has been echoed by the National Social Security Rights Network and the Welfare Rights Centre, which warned cases of false debts were being routinely challenged and reduced or completely wiped in the tribunal.
+- Carney explained the robo-debt program calculates welfare recipients’ income and averages it over fortnightly periods rather than discovering their actual income for each and every fortnightly period which, he writes, is the proper basis for calculating the debt.
+- Carney said when Centrelink asks for payment of alleged debts or evidence to disprove them, “most vulnerable alleged debtors will simply throw up their hands, assume Centrelink knows that there really is a debt, and seek to pay it off as quickly as possible”.
+- He said the welfare agency did this even though a report by the commonwealth ombudsman in April 2017 “demonstrated that most debts calculated this way were greatly inflated, and that some were false (zero debts)”.
+- Carney was a member of the social services division of the AAT – its longest-serving member until his term concluded in September 2017 – and oversaw the writing of the Social Security Act.
+- Carney praises the parliamentary community affairs committee for recommending that “Centrelink resume responsibility for obtaining all information necessary for calculating working age payment debts”.
+- But, he argues, this worthy recommendation still “[fails] to correct the fundamental legal error” in alleging that a debt exists in the first place.
+- When welfare recipients challenge alleged debts in the AAT, based on his experience as a member of the first tier of the AAT, Carney said “in practice Centrelink fails to refer at all to the legal foundation for debts routinely defended” in hearings.
+- He accused Centrelink of being “elliptical at best” when asked for written submissions proving a debt and said the agency “appears to have elected not to challenge” adverse robodebt rulings by appealing to the second tier of the AAT.
+- The Welfare Rights Centre principal solicitor, Katherine Boyle, told Guardian Australia the issues raised in Carney’s article were seen on a daily basis by her organisation.
+- “We see many examples of the issues raised … in our daily work to assist people, many of whom cannot understand why they have Centrelink debts when they have been doing the right thing,” she said.
+- In one recent case, a young casual worker, Sarah, successfully challenged a $6,900 debt. Centrelink calculated the unlawful debt using the income-averaging method based on ATO data which overstated her earnings from casual employment over the financial year.
+- The Department of Human Services general manager, Hank Jongen, said the department “strongly refutes any claims that it has conducted its compliance activities in a manner which is inconsistent with the legislation”.
+- “The independent review by the commonwealth ombudsman found the online compliance system meets all legislative requirements, accurately calculates debts when the required information is entered, and debts raised are consistent with the previous investigation processes,” he said.
+- Carney said the “illegality” of the robodebt program has “continued unchecked for 18 months as at the date of writing, despite [first tier] decisions invalidating it” and that the normative effect of AAT decisions does not appear to be working.
+- Carney argued that Centrelink’s conduct using averages in internal reviews and AAT challenges “arguably breaches” the commonwealth’s model litigant policy, which requires fair play and for litigation not to oppress citizens.
+- He cited the recent full federal court case Shord v Commissioner of Taxation for the proposition that a breach – if established – may result in professional misconduct proceedings, contempt or criminal sanctions.
+- Carney suggested that “because there may or may not be a recoverable overpayment (usually in a different and lower amount)” the AAT should set aside debt assessments based on averaging, and send them back to be recalculated based on “precise information of earnings in relevant fortnights”.
+- He also suggested the AAT should use pre-hearing powers to demand Centrelink give more documents and set out the legal basis of the debt.
+
+URL: https://www.crikey.com.au/2020/06/03/what-is-robodebt-what-happens-if-you-are-overpaid-by-centrelink/
+- 12 weeks of Crikey for $12
+- To connect a sign in method the email must match the one on your Crikey account.
+- Email Address
+- Password
+- Remember Me
+- 
+- Contact us on: support@crikey.com.au
+- There are many questions about the government's controversial robodebt scheme. Let's start with what it actually is.
+- Hannah Kingston
+- Jun 03, 2020
+- What is robodebt?
+- Robodebt is the common name given to the Online Compliance Intervention, an automated debt recovery program that was introduced by the federal government in mid-2016.
+- The robodebt system was originally introduced in an attempt to ensure recipients of Centrelink benefits were not under-reporting their income and, as a result, over-receiving welfare payments.
+- Become a subscriber to get full access to the website, as well as our premium newsletters.
+- Hannah Kingston
+- 
+- Hannah is Crikey's reach editor. Before that, she worked at national newspapers, radio stations and on TV sets. Today she covers health, wellness and most recently coronavirus.
+- The Crikey comment section is members-only content. Please login to engage in the commentary.
+- Crikey is an independent Australian source for news, investigations, analysis and opinion focusing on politics, media, economics, health, international affairs, the climate, business, society and culture. We are guided by a deceptively simple, old idea: tell the truth and shame the devil.
+- Crikey acknowledges the Traditional Owners of the many nations across Australia, and pay our respect to Elders past and present. We recognise that their sovereignty has never been ceded.
+- Copyright © 2023 Private Media Pty Ltd. Publishers of Crikey. All Rights Reserved.
+- Contact us on: support@crikey.com.au
+
+URL: https://www.theguardian.com/australia-news/royal-commission-into-robodebt
+- 'I want to acknowledge that the Twitter coverage of these hearings has performed a remarkably useful and important public service in giving people access to the evidence,' says the commissioner
+- Minister for government services recounts stories of people 'on the brink of suicide' over robodebt
+
+URL: https://7news.com.au/lifestyle/personal-finance/robodebt-class-action-update-victims-to-receive-major-payout-after-landmark-settlement-c-1590660
+- Hundreds of thousands of Robodebt victims will receive a share in millions of dollars after a landmark court settlement.
+- Gordon Legal on Monday announced it had reached a settlement with the Commonwealth over the Robodebt Class Action, pending approval from the Federal Court of Australia.
+- According to the legal group, about 400,000 members will receive a share in a financial benefit to the tune of $1.2 billion.
+- For more Personal Finance related news and videos check out Personal Finance >>
+- It says the Commonwealth has agreed to pay $112 million in compensation, including legal fees.
+- It will repay more than $720 million in debts previously collected and drop claims for $398 million in debt.
+- The payout is subject to Court Approval.
+- Once that is provided, Gordon Legal said a Settlement Distribution Scheme would be established to assess all amounts due and pay them out in 2021.
+- A spokesperson told 7NEWS.com.au members would be contacted individually.
+- Gordon Legal Partner, Andrew Grech said: “We want to acknowledge the courage of the lead applicants; Katherine, Elyane, Steven, Felicity, Shannon and Devon, who led these proceedings on behalf of all Robodebt victims in pursuit of this class action, which has allowed this outcome to be achieved today.”
+- Shadow Minister for Government Services Bill Shorten congratulated Gordon Legal and the advocates for the class action for their legal victory.
+- “Now it is time for the Morrison government to ‘fess up who knew what when,” he said.
+- “Call me a bit sceptical, but the only reason why the Morrison government surrendered is they had the hot breath of the court on their throat.”
+- Robodebt was a computer system used by Centrelink that checked how much people who are receiving welfare benefits should get.
+- It asked benefit recipients what they were earning and compared it to Australian Taxation Office data from their employer.
+- Looking at the two numbers, it matched them up. If they didn’t match, it told that person they owed a certain amount of money.
+- The problem was there have been several errors in the system in recent years causing people to be issued repayment notices when they did not actually owe anything.
+- In some instances, duplicate notices were even issued.
+- For a full breakdown of Gordon Legal’s Class Action on the Robodebt scheme, click here.
+- Dominique Tassell / Queensland News
+- By Scott Collie / Motoring
+- By William Stopford / Motoring
+- By Jade Credentino / Motoring
+- By Paul Maric / Motoring
+- By William Stopford / Motoring
+- Amy Sinclair / Lifestyle
+- By Jack Quick / Motoring
+- Dominique Tassell / Queensland News
+- By Scott Collie / Motoring
+- By William Stopford / Motoring
+- By Jade Credentino / Motoring
+- By Paul Maric / Motoring
+- By William Stopford / Motoring
+- Amy Sinclair / Lifestyle
+- By Jack Quick / Motoring
+
+- Netherlands childcare benefits fraud automation
+- Netherlands SyRI welfare fraud detection automation
+- Page infoType: SystemPublished: March 2023

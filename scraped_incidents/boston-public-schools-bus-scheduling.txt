@@ -1,0 +1,531 @@
+- Occurred: December 2017
+- Can you improve this page?Share your insights with us
+- Boston Public Schools received criticism for implementing a schools scheduling algorithm intended to benefit students whilst keeping costs at bay, but which was seen to ignore the needs and requirements of its students and their families, and unfairly discriminate against lower-income stakeholders.
+- Developed by a Massachusets Institute of Technology (MIT) team in response to a public competition, the algorothm recommended times at which students would be picked up in the morning and dropped off later in the day on the basis of a variety of factors such as student equity, economic, health, and academic performance issues.
+- But some mostly-white, middle-class parents and students reacted strongly against the proposed changes, that saw an earlier pick-up of 7.15am selected, despite the majority of parents choosing a later time of 8-8.30am. Under presssure, Boston Public Schools withdrew the algorithm for a year.
+- Updated and reintroduced, the algorithm is said to have saved Boston Public Schools USD 5 million.
+- Operator: Boston Public Schools  Developer: Boston Public Schools; Sébastien Martin; Arthur Delarue
+- Country: USA
+- Sector: Education
+- Purpose: Improve student academic performance; Reduce costs
+- Technology: Scheduling algorithm Issue: Bias/discrimination - income, race; Scope creep/normalisation
+- Transparency: Governance; Black box
+- INFORMS (2019). Optimized School Bus Routing Helps School Districts Design Better Policies
+- Ito J. (2018) What the Boston schools schedule can teach us about AI
+- Ito J., Crockford K. (2017). Don't blame the algorithm for doing what Boston school officials want
+- Boston Public Schools (2017). 2018-2019 School Bell Times Equity Impact (pdf)
+- Boston Public Schools (2017). Important letter from Inspector Chang on start and end times
+- Boston Public Schools (2017). MIT's Quantum team wins first-ever BPS transportation challenge with revolutionary new computer model
+- Bertsimas D., Delarue A., Eger W., Hanlon J., Martin S. (2020). Bus routing optimization helps boston public schools design better policies
+- Boston Teachers Union (2018). What the Boston School Bus Schedule Can Teach Us About AI
+- Petition (2017). Stop immediate changes on school start times in Boston
+URL: https://www.wbur.org/news/2017/12/09/bps-reschedules-start-times-parents-push-back#
+- Add WBUR to your morning routine
+- Advertisement
+- For some Boston parents, the list of next school year’s "bell times" dropped like a bomb Thursday night.
+- This year, the opening bell at the Henderson School in Dorchester rings at 8:30 a.m. Next year, it will ring at 7:15. And that will make mornings tough on the family of 3-year-old Lucy Karp, who's enrolled in pre-kindergarten at the Henderson.
+- As they have redrawn bus routes and now school schedules, Boston Public Schools officials have called attention to the fact that every child’s trip to school involves a lot of variables. But Lucy’s case is even more complex than most.
+- “It takes us almost two hours to get out of the house,” says Lucy’s father, Roy. “We have all the typical things that a 3-year-old needs to get out the door in the morning: potty time, getting dressed, waking up, having breakfast -- all those things.”
+- Except that Lucy gets her breakfast through a feeding tube slowly overnight. She was born three months early, and has a history of chronic lung disease and acute respiratory distress. She travels to school with a walker and a pediatric nurse, the tube and other medical supplies in tow.
+- The Henderson is Boston’s only K-through-12 “full-inclusion” school, meaning that students with special medical and behavioral needs are educated alongside "typical" students. Some parents choose it for that model, even those living miles away in West Roxbury, Roslindale -- where the Karps live -- and beyond.
+- As it moved quickly to reconfigure start times this fall, Boston Public Schools officials insisted they were forced to balance priorities. They wanted high schools to start later, so teenagers could get extra sleep, and for elementary schools to dismiss earlier, so young children could get home before sunset.
+- But the Henderson is a high school. And the district had also promised to make exceptions for schools like it — with “higher concentrations of medically fragile students or students with autism.”
+- So parents are asking: Why will it open so much earlier?
+- “I really don’t get the logic,” Roy Karp says. His family won’t feel it as much, he concedes, since he’s a stay-at-home dad. But the Karps still have to facilitate Lucy's afternoon feeding and to schedule Lucy's nurse.
+- "It's kind of unconscionable," says Leslie Candy, another Henderson parent, "given our delicate population. We're all confused as to why our times changed at all."
+- BPS Superintendent Tommy Chang said in a statement that the district changed start times "due to an abundance of research that shows student outcomes improve when secondary school students start later and elementary school students start earlier."
+- Before announcing the changes, district operations chief John Hanlon noted that they are dealing with a system of many moving parts and "1.8 octodecillion" different possible arrangements.
+- The district also pointed out outreach opportunities they have offered since last fall, including a survey that got more than 10,000 responses, community meetings and a website. (It's worth noting, though, that on the survey, members of the Henderson community, like the district at large, overwhelmingly preferred a start time between 8 and 8:30 a.m.)
+- In the background, the district is using an algorithm to trim its spending on transportation -- a persistent driver of its budget deficit. Finding those efficiencies, and staggering start times, may have led that algorithm to flip certain schools into a much earlier time bracket.
+- But to Candy, including Henderson makes this look like a decision made on autopilot. "I question the human aspect of the algorithm. Did anybody stop to think, 'Holy cow, this is a fully-inclusive school. Maybe we need to pull them out of the mix?' "
+- The Henderson community isn't the only one greeting a much earlier start with frustration. Under the new schedule, 17 schools — mostly elementary and K-8 — will experience an even bigger swing, opening earlier by two hours or more. (Five more will open at least two hours later.)
+- A petition protesting the changes was posted Thursday night, and had more than 4,500 signatures by Sunday morning. Many aggrieved parents say they support the changes made for high school students, but don't see why their own schools have to experience such a swing.
+- This year, the Mendell Elementary School in Roxbury dismisses its students at 4:10 p.m. Next year, that will move back 135 minutes, to 1:55 p.m.
+- That poses a problem for Mendell parent Patrick Banfield in picking up his son; both he and his wife work. Banfield says that given the long days he sometimes works as an attorney, "the thought of my 5-year-old son having to be at school for 11 hours [every day] is insanity."
+- Banfield says the new schedule may save the district money, but it could cost parents a lot: thousands of dollars more to cover all the additional after-school care. Those added costs, he says, could end up driving middle-class families like his out of the district.
+- Other parents worried about coaches and trainers for student-athletes. They won't be able to move practice earlier, since "they're working people, too," said Steve Sullivan, who has two kids at the Lyndon K-8 School.
+- Still others foresaw worsening changes in the rhythm of their children's days. Like Langdon White, another Henderson parent: "My kids already eat lunch — in heavy quotes — before 11 a.m. Does this mean they're going to be eating lunch by 10?"
+- The changes do have their defenders. Many high schoolers and their parents, in particular, celebrated online as their start times got later. (94 percent of the district's high schools will start after 8 a.m. next fall, as opposed to 27 percent this year.)
+- Even Henderson parents like Maggie Mancuso, who has three children there, said in an email she was "psyched they will be home earlier and I will have more time with them." Mancuso says she thinks parents are "freaking" out at the disruption but will find that things fall into place next year.
+- That's small solace to Roy Karp. His daughter is new to Boston Public Schools, but he already feels wary of the the district's "backwards" approach to thorny questions like this one.
+- "BPS does this a lot: announce major policy changes and then reacts" to family unhappiness, Karp said. "But it's a fait accompli! You've already announced the policy, and now you're just doing damage control!"
+- On its website, the district lists potential ways of coping with the new clock, including after-school programs, letters of explanation sent to employers and, finally, transfers to a new school.
+- But going back to the computer to readjust a single school's schedule isn't one of them.
+- This article was originally published on December 09, 2017.
+- Max Larkin Reporter, EducationMax Larkin is an education reporter.
+- More…
+- Advertisement
+- Add WBUR to your morning routine
+
+URL: https://apps.bostonglobe.com/ideas/graphics/2018/09/equity-machine/
+- What happened when Boston Public Schools tried for equity with an algorithm
+- By David Scharfenberg
+- Graphics and development by Irfan Uraizee and Saurabh Datar
+- September 21, 2018
+- YEARS OF RESEARCH have shown that teenagers need their sleep. Yet high schools often start very early in the morning. Starting them later in Boston would require tinkering with elementary and middle school schedules, too — a Gordian knot of logistics, pulled tight by the weight of inertia, that proved impossible to untangle.
+- Until the computers came along.
+- Last year, the Boston Public Schools asked MIT graduate students Sébastien Martin and Arthur Delarue to build an algorithm that could do the enormously complicated work of changing start times at dozens of schools — and rerouting the hundreds of buses that serve them.
+- Martin, a bright-eyed Frenchman, and Delarue, a thin, bespectacled American, had already done some impressive bus route optimization for the district, allowing officials to take 50 vehicles off the road at a savings of some $5 million. And they took to the new project with gusto, working 14- and 15-hour days to meet a tight deadline — and occasionally waking up in the middle of the night to feed new information to a sprawling MIT data center.
+- The machine they constructed was a marvel. Sorting through 1 novemtrigintillion options — that’s 1 followed by 120 zeroes — the algorithm landed on a plan that would trim the district’s $100 million-plus transportation budget while shifting the overwhelming majority of high school students into later start times.
+- The potential benefits were striking: Sleep-deprived teens are at increased risk for poor academic performance, binge drinking, and suicide. And district officials were thrilled about the prospect of more shut-eye for their oldest students.
+- “This is a very exciting evening,” Tommy Chang, then superintendent, told the Globe in December, just before a key school committee vote. “This is a problem that nobody thought we could solve, and we are going to solve it tonight.”
+- The algorithm was poised to put Boston on the leading edge of a digital transformation of government. In New York, officials were using a regression analysis tool to focus fire inspections on the most vulnerable buildings. And in Allegheny County, Pa., computers were churning through thousands of health, welfare, and criminal justice records to help identify children at risk of abuse.
+- The potential, says Stephen Goldsmith, a former mayor of Indianapolis who now runs the Data-Smart City Solutions project at Harvard University, is enormous: “more effective utilization of public resources, more individuals helped, more problems preempted.”
+- While elected officials tend to legislate by anecdote and oversimplify the choices that voters face, algorithms can chew through huge amounts of complicated information. The hope is that they’ll offer solutions we’ve never imagined ­— much as Google Maps, when you’re stuck in traffic, puts you on an alternate route, down streets you’ve never traveled.
+- Dataphiles say algorithms may even allow us to filter out the human biases that run through our criminal justice, social service, and education systems. And the MIT algorithm offered a small window into that possibility. The data showed that schools in whiter, better-off sections of Boston were more likely to have the school start times that parents prize most — between 8 and 9 a.m. The mere act of redistributing start times, if aimed at solving the sleep deprivation problem and saving money, could bring some racial equity to the system, too.
+- Or, the whole thing could turn into a political disaster.
+- Last year, the Boston Public Schools set out to reconfigure start times. The district wanted high school students to start later in the morning so they could get more sleep, improving their health and academic performance. It also wanted to trim transportation costs. Officials asked a pair of MIT graduate students to build an algorithm that could do the job.
+- As the graduate students and district dug into the work, they confronted these baseline realities: Only a quarter of high school students started school after 8 a.m…
+- …Less than half of BPS parents were happy with their children’s start times. And the district was using 600 buses to transport kids to school at a cost of tens of millions of dollars.
+- Officials faced a number of difficult trade-offs. They could calibrate start times to minimize the number of buses required and save as much money as possible. But fewer parents would be happy with the results.
+- The district could start every high schooler after 8 a.m., and give more elementary and middle school parents start times they’d be happy with. But that would require more buses and higher costs.
+- Ultimately, officials picked a solution, from one of thousands generated by the algorithm, that attempted to balance several goals — student health, cost savings, and parental happiness. But opponents said the formula had some big blind spots.
+- District officials expected some pushback when they released the new school schedule on a Thursday night in December, with plans to implement in the fall of 2018. After all, they’d be messing with the schedules of families all over the city.
+- But no one anticipated the crush of opposition that followed. Angry parents signed an online petition and filled the school committee chamber, turning the plan into one of the biggest crises of Mayor Marty Walsh’s tenure. The city summarily dropped it. The failure would eventually play a role in the superintendent’s resignation.
+- It was a sobering moment for a public sector increasingly turning to computer scientists for help in solving nagging policy problems. What had gone wrong? Was it a problem with the machine? Or was it a problem with the people — both the bureaucrats charged with introducing the algorithm to the public, and the public itself?
+- AS ALGORITHMS HAVE taken on a larger role in state and local governance, they’ve attracted mounting criticism.
+- Books with titles such as “Weapons of Math Destruction” and “Automating Inequality” have warned that formulas, though capable of stamping out human biases, can also replicate and supersize them.
+- Take the crime prediction software police departments use to deploy officers and equipment. It relies, in part, on past interactions with law enforcement. But people of color are picked up for “nuisance crimes” at disproportionate rates.
+- The data, in other words, are biased. And if the software uses them to recommend a heavier police presence in black and Latino neighborhoods, that can lead to more arrests for the sort of low-level crimes that go unpunished in other places. Those arrests are then fed into the algorithm, and the cycle continues.
+- What’s particularly insidious about this kind of bias, critics say, is that it’s cloaked in the “neutrality” of machines. The computer, the average user figures, must be right.
+- That leads to the second major complaint: Too often, the algorithms are black boxes. Bureaucrats don’t have the time or know-how to construct them, so they turn to private vendors who have a proprietary interest in keeping their formulas secret. Mayors and superintendents can insist on transparency, of course, but they may have trouble getting anyone to bid on their projects.
+- This tool allows you to experiment with start times on a school-by-school basis. Hoping to save the district money by reducing the number of buses on the road? See how that affects the start time at your child’s school. Willing to pay millions more for additional buses to guarantee prime start times for all? See what that looks like. Want to balance several goals, like cost, parental satisfaction, and student health? That’s an option, too.
+- 
+- By some measures, the MIT algorithm stacks up pretty well against the standard established by critics. Martin and Delarue aren’t private vendors. They’re graduate students who are willing to share their work. Even now, they’re working to publish their algorithm in an academic journal.
+- Of course, publication at the time of the controversy would have been ideal. But as Rutgers law professor Ellen P. Goodman argues, an “open source” algorithm isn’t the end-all, be-all of transparency.
+- “It’s both too much, and too little,” she explains. Too much, because most people can’t make sense of an algorithm, and too little, because the formula doesn’t tell you enough about the data it’s crunching.
+- Meaningful transparency, she says, requires a clear explanation of what an algorithm aims to do, which factors it considers, and how much weight it gives them.
+- The Boston Public Schools took some notable steps in that direction. Just before the release of the new bell times, the school committee laid out the algorithm’s four guiding principles: increase the number of high school students starting school after 8 a.m.; decrease the number of elementary school students dismissed after 4 p.m., so they wouldn’t have to travel home in the dark; accommodate the needs of special education students wherever possible; and generate transportation savings that could be reinvested in the schools.
+- But in retrospect, it’s clear that the school officials who communicated with the public about the algorithm fell short in at least one crucial respect.
+- Big districts stagger their start times so a single fleet of buses can serve every school: dropping off high school students early in the morning, then circling back to get the elementary and middle school kids.
+- If you’re going to push high school start times back, then you’ve probably got to move a lot of elementary and middle schools into earlier time slots. The district knew that going in, and officials dutifully quizzed thousands of parents and teachers at every grade level about their preferred start times.
+- But they never directly confronted constituents with the sort of dramatic change the algorithm would eventually propose — shifting school start times at some elementary schools by as much as two hours. Even more.
+- Hundreds of families were facing a 9:30 to 7:15 a.m. shift. And for many, that was intolerable. They’d have to make major changes to work schedules or even quit their jobs. And because their kids would have to go to bed so early, they’d miss out on valuable family time in the evening.
+- These were the concerns at the heart of an uprising that had parents buttonholing the mayor at a Christmas tree lighting in West Roxbury and waving “Families over Algorithms” signs at a packed school committee meeting. “We are infuriated,” one father declared, as the crowd erupted in applause.
+- Martin and Delarue, the MIT students, were at that meeting. They were sympathetic. Maybe the process had gone wrong somewhere. Maybe the district hadn’t adequately engaged the parents.
+- They couldn’t help but notice, though, that most of the critics hailed from wealthier sections of the city. The MIT team had built a formula that promised racial equity — distributing the best school start times more evenly across white, black, and brown neighborhoods. And here were the most active, politically connected families in the city trying to spike it.
+- Sure, the district officials who pushed the algorithm into the public sphere had made some mistakes. But what about the people who were receiving it? Were they really doing the right thing? Were they being fair-minded?
+- “I recognize if you have two or three children who need to be picked up at a particular time, and you organize your life around that, and it’s drastically changing — I recognize how hard that is,” says Dimitris Bertsimas, the MIT students’ adviser. “But you put zero weight on the rest of society?”
+- The moral equation wasn’t quite that simple, though. It’s not clear the white parents who packed the school committee knew much, if anything, about the racial disparities the algorithm attempted to remedy. And a couple of days after the school committee meeting, the NAACP and the Lawyers’ Committee for Civil Rights and Economic Justice actually came out against the plan.
+- Even if the algorithm promised to reduce inequities, the upheaval involved — with nearly 85 percent of the district getting new start times — would hit black and brown families especially hard, the groups argued.
+- “We know our parents of color are disproportionately likely to have lower-wage jobs that will make it harder for them to change schedules to meet the new demands of BPS, let alone pay more money for additional child care after school,” said Matt Cregor, education project director at the Lawyers’ Committee, in an interview with the Globe.
+- The opposition had crested. Soon, the algorithm would crash.
+- IN THE END, the school start time quandary was more political than technical.
+- The MIT algorithm had done all the city could reasonably ask. It had sorted through more possibilities than any human being could possibly contemplate. And it had come up with a solution no bureaucrat had ever mustered.
+- But it was people who made the final call. People with competing interests and a mish-mash of motivations. This was a fundamentally human conflict, and all the computing power in the world couldn’t solve it.
+- If anything, the algorithm fueled the conflict and made the choices stark. Before the district commissioned the formula, few parents had thought about the interplay between high school start times and teenage sleep deprivation. And even fewer understood that starting high school later would mean sending younger kids to school earlier.
+- But even if the algorithm flopped, says Goldsmith, the former Indianapolis mayor who now runs Data-Smart City Solutions at Harvard, it was worth pursuing. “We live in an inherently political world,” he says, “and sometimes, politics are going to trump science. But if the science can illuminate the disparities, that’s better than continuing in ignorance.”
+- Once a problem has been identified, it’s hard to forget about it. And even if it’s pushed aside now, it can be picked up again later. That’s certainly what the MIT students are hoping for. Maybe, they say, if school officials took up the algorithm again — and if they better engaged parents — they could come up with a better system than the one they have now. Imperfect, perhaps. But substantially better. “With the algorithm,” says Martin, “it’s so easy to improve, a lot, on the things that matter.”
+- The district, stung by last year’s blow-up, seems unlikely to change bell times in the near future. But perhaps Martin and Delarue can take the idea elsewhere. Last year, even after everything went sideways in Boston, some 80 school districts from around the country reached out to the whiz kids from MIT, eager for the algorithm to solve their problems.
+- Data analysis by Sébastien Martin and Arthur Delarue, PhD students at the MIT Operations Research Center.
+- Tell us what you think about this story, and comment here.
+
+URL: https://mitsloan.mit.edu/ideas-made-to-matter/creating-better-bus-routes-algorithms
+- Smart. Open. Grounded. Inventive.
+Read our Ideas Made to Matter.
+- Through intellectual rigor and experiential learning, this full-time, two-year MBA program develops leaders who make a difference in the world.
+- A rigorous, hands-on program that prepares adaptive problem solvers for premier finance careers.
+- A 12-month program focused on applying the tools of modern data science, optimization and machine learning to solve real-world business problems.
+- Earn your MBA and SM in engineering with this transformative two-year program.
+- Combine an international MBA with a deep dive into management science. A special opportunity for partner and affiliate schools only.
+- A doctoral program that produces outstanding scholars who are leading in their fields of research.
+- Bring a business perspective to your technical and quantitative expertise with a bachelor’s degree in management, business analytics, or finance.
+- A joint program for mid-career professionals that integrates engineering and systems thinking. Earn your master’s degree in engineering and management.
+- An interdisciplinary program that combines engineering, management, and design, leading to a master’s degree in engineering and management.
+- A full-time MBA program for mid-career leaders eager to dedicate one year of discovery for a lifetime of impact.
+- This 20-month MBA program equips experienced executives to enhance their impact on their organizations and the world.
+- Non-degree programs for senior executives and high-potential managers.
+- A non-degree, customizable program for mid-career professionals.
+- Neural net pioneer Geoffrey Hinton sounds the AI alarm
+- How this former CEO traded anxiety for mindfulness
+- What bananas can tell us about supply chains
+- Ideas Made to Matter
+- Analytics
+- By
+- Kara Baskin
+- Jul 31, 2017
+- Come September, hundreds of Boston Public School students will ride new bus routes thanks to experts at MIT.
+- The “Quantum Team” from the MIT Operations Research Center won the inaugural Boston Public Schools’ Transportation Challenge, a competition intended to generate ideas to help the school system streamline routes, reduce emissions, and save money through a hackathon-style competition.
+- Professor Dimitris Bertsimas, co-director of the Operations Research Center, led the winning team, along with PhD students Arthur Delarue and Sébastien Martin. Bertsimas says that this is a prime example of optimization being deployed to streamline costs.
+- “The Boston Public Schools use 650 buses of various sizes, costing $120 million — 12 percent of their funds — per year,” says Bertsimas, whose team won $15,000 in the competition. Private funders contributed the prize money.
+- Approximately 50 superfluous routes could be eliminated using the new method, saving the school district between $3 million and $5 million annually. According to a release, BPS transportation staff currently build school bus routes manually, using pupil transportation software — a multi-week process. MIT’s solution devises routes in approximately 30 minutes.
+- Bertsimas and his team gleaned data from Google Maps to analyze traffic patterns during morning and afternoon rush hours. Combining that with data provided by the Boston Public Schools on students and their assigned schools, they used mapping software and optimization techniques to devised an algorithm that would reduce the number of bus routes, reconfigure bus stops, maximize the number of students riding each bus, and cut the amount of time that empty buses are on the road. They also had to take into account that some students require wheelchair-friendly buses and others need home pickup.
+- “This speaks to the power of optimization and large data sets,”  he says.
+- Since the win, at least four school districts have contacted Bertsimas with similar transportation woes, he says.
+- “This solution can be applied anywhere,” he says.
+- The mission of the MIT Sloan School of Management is to develop principled, innovative leaders who improve the world and to generate ideas that advance management practice.
+
+URL: https://www.bostonmagazine.com/education/2017/12/22/boston-public-schools-reverse-start-time-change/
+- If you're a human and see this, please ignore it. If you're a scraper, please click the link below :-)
+  Note that clicking the link below will block access to this site for 24 hours.
+- The decision comes after parents said the new schedule would be a disruption.
+- Photograph by Ken Richardson for “Power Lunch: Tommy Chang“
+- After backlash from parents who said the move would be too disruptive, Boston Public Schools will undo a controversial start time change that would have had high schoolers begin classes later, and younger students arrive at school earlier in the morning.
+- In a letter to parents on Friday, Superintendent Tommy Chang wrote that he had decided not to implement the schedule change, which had been intended to improve older students’ performance by better conforming to their natural sleep schedules. It would also have required younger students to start class as early as 7:15 a.m. and leave as early as 1:15 p.m.
+- The Boston School Committee voted unanimously to adopt the altered schedule, effective at the start of the next school year, on December 6. After parents protested, BPS held hearings in Boston neighborhoods, and got an earful.
+- Chang said he heard the complaints, which also came from city councilors and groups like the NAACP and Lawyers’ Committee for Civil Rights and Economic Justice, who said the change would disrupt jobs, require families to pay more in childcare, and be too much of a strain on younger students.
+- “It’s clear that while the new schedules achieve our goal of improving academic outcomes for students of all ages, the dramatic shifts to some school start times caused a more significant disruption to family schedules than we intended,” Chang wrote. “As Superintendent of Boston Public Schools, I am deeply committed to joining together with the broader community to get this right. That is why I have decided not to implement the new start and end times for the next school year.”
+- He said BPS would continue studying the issue and come up with another plan to reform school start times in the future, in collaboration with parents.
+- “We must share a collaborative spirit, and work together to find solutions to repair the institutional inequities that persist,” he wrote.
+- The Best Public High Schools in Greater Boston
+- The Best Public High Schools in Mass., Ranked
+- 2023  © Metro Corp. All Rights Reserved.
+
+URL: https://www.muckrock.com/news/archives/2019/sep/24/algorithm-bus-routing-mit-lowell/
+- Subscribe to the Algorithmic Control newsletter
+- Get regular updates about how machine learning, AI, and big data are reshaping our world.
+- Can an MIT algorithm solve the complicated puzzle of getting kids to school the second time around?
+- Two years ago, Boston Public Schools bet on an innovative new approach to rerouting school buses, a task that had previously required a team months of planning. The city issued the Boston Public Schools Transportation Challenge with the aim of using modern algorithmic approaches to tackle school transportation routing and start times.
+- However, with winners chosen, an algorithm created, and new routes selected, the district faced immediate backlash from parents unprepared to make such sudden changes to their schedules. The district halted implementation of proposed changes to the school start times, though it proceeded with some changes to the bus routes.
+- Despite Boston’s initial road bumps, Lowell Public Schools and other school districts are now looking to the same or similar software, hoping to learn from the challenges Boston faced as they look for new approaches to dealing with bus routing amid changing traffic patterns, student populations, and limited resources.
+- Lowell Public School transportation director John Descoteaux is already considering how next year’s crop of students will be able to get to and from their designated buildings. Descoteaux is hoping that soon he will be able to use the power of optimization models to help them solve some of these puzzles in Lowell. For years he’s been using a program called VersaTrans to help juggle the different needs and start times, but Lowell is currently in conversation with researchers at the Massachusetts Institute of Technology to employ the algorithm designed for Boston to help address some of these issues.
+- One challenge is the Lowell Collegiate Charter School’s planned addition of nearly 100 students next year and that school’s division into middle and high school groups. In Massachusetts, charter school students and parochial school students who live in disparate parts of the town are entitled to citywide transportatio; traditional public schools assign  schools to students close to their homes.
+- Accommodating the need to travel routes that can vary widely based on which students attend charter schools is a problem that Descoteaux is happy to tackle, but there are other variables to consider: five other citywide schools, variables like the school start times, and the number of buses available to the district. Also complicating things: the construction of a major judicial center in the city’s center, one of the largest projects in the city’s recent history and one reshaping morning traffic patterns.
+- “It puts a strain on the system. In some instances, we may have six students in the school bus; in other cases we have 70,” said Descoteaux, who has led orchestration of how the district’s now roughly 9,500 schoolchildren actually make it to class in the morning. “Transportation is timing. We make it work with 66 buses with three tiers in the morning, three in the afternoon, sometimes four.”
+- The problems can become something like an ever-evolving algebra problem. It’s a familiar challenge to others in Descoteaux’s role. With nearly 60 million public school students in the country, most of whom are entitled to school bus transportation to help them get to class, the issues and costs of bus routes are a constant puzzle.
+- “I look at it like we’re a kind of a mini-Boston. I think we’ll try to educate the parents if [these MIT researchers] do come through and they do this study. But you can’t make everyone happy … We’re three weeks into school and parents are still coming in saying, ‘I can’t get to work; I need to have my school changed.’ A lot is planned ahead of time,” said Descoteaux. His department’s budget is currently $11 million. “The variables involved are so numerous to mention. You’re going to upset some families. It’s not going to be a particularly positive experience for a lot of people. But if [the MIT researchers say] you’re going to save $2 million in transportation which could go toward some of our schools  that need the help, then you’ve got to weigh the pros and cons.”
+- The drive behind the busing algorithm
+- “We were already working on transportation problems, like the ones that Uber uses to assign drivers to riders,” said Sebastien Martin, who, along with Arthur Delarue, is part of the MIT graduate student pair who won the BPS challenge. “We got to talk to different actors: parents, those working at the BPS. We focused on optimizing the transportation system and how that is related to the choice of start times for the schools. After this event, we were quite motivated. It was impactful. It’s even better for us when it helps some people.”
+- Soon after, plans were announced to implement the changes, which would also affect the times that various schools began. And while the changes were meant to make everyone’s lives easier and less expensive, the response was not what anyone involved had anticipated.
+- “Our work was trying to understand what the cost would be for any particular set of bell times. So districts can really understand the cost implications of any policy they choose,” Delarue said. But the proposed changed didn’t take into account parents’ ability to get to work on time or to juggle the schedules of multiple children. Community members packed school board meetings. Some carried signs reading “Families not algorithms”.
+- The backlash was enough to turn BPS off from talking much about the attempt at innovation - but not off the project altogether. While the district scrapped the proposal to change the school start times, it did use the calculated suggestions for reducing the number of buses and changing the routes during the 2017-18 school year. BPS estimated that it saved between $3 and $5 million in the effort, a number that is  difficult to pin down, since costs for transportation simultaneously rise as students are added to the system and needs change.
+- Overall success is also difficult to gauge. Earlier this month, new BPS Superintendent Brenda Cassellius expressed concern around the persistent tardiness of many buses and has said she intends to do a full reevaluation of BPS transportation.
+- Despite the experiences of BPS, Lowell got in touch with the researchers soon after the Transportation Challenge, beginning negotiations that are still in the works. The City Solicitor is currently reviewing a nondisclosure agreement, provided by the company set up by the algorithm’s creators. Altogether, Delarue and Martin estimated almost six dozen other schools got in touch about adopting the algorithm.
+- Other efforts
+- Other major school systems are also turning to the efficiencies that have made ridesharing such a successful enterprise. The New York City school system, the largest in the nation, recently announced that it would be teaming up with the ridesharing app Via to help improve its routing and busing goals.
+- “We are delighted to be partnering with the New York City Department of Education to set a new standard of excellence in school transportation,” said Daniel Ramot, co-founder and chief executive of Via in a press release. “We’re thrilled to have an opportunity to further serve the New York community by applying our technology to operate a world-class school bus system.”
+- Via directed questions to the NYC Public School system. Neither NYC Public Schools nor Via responded to questions or request for comment.
+- The privately-operated busing company First Student, which operates in 1,100 U.S school districts, also recently announced that it would begin data-gathering efforts in its fleet to help optimize its own routes and transportation efforts.
+- From the perspective of school transportation managers, the trouble faced in Boston is not a problem with algorithms but in the way that the policy was explained and rolled out.
+- “What happened in Boston was a problem of communication,” Descoteaux said. A lifelong resident of Lowell, he’s sensitive to the varying needs of the population, the nuances of the city’s transportation routes, and believes that the use of the algorithm will be another tool that will help him get his job done as quickly and efficiently as possible. Getting the various families with their various needs to adjust to new start times or bus routes will require a human touch, and that’s what the algorithm’s creators believe as well.
+- “What an algorithm can do for you - it cannot choose your policy - it will restrict your options to the good options,” Martin said. “We know how sensitive this whole thing is. Education is tremendously important. You really want to give your best.”
+- Image by Dean Hochman and licensed under CC BY 2.0.
+- Algorithmic Control by MuckRock Foundation is licensed under a Creative Commons Attribution 4.0 International License.
+- Share
+- Newsletter
+- Want the latest investigative and FOIA news?
+- MuckRock is a non-profit collaborative news site that gives you the tools to keep our government transparent and accountable.
+- Make a Donation
+- © 2010–2023 Muckrock
+
+URL: https://insight.kellogg.northwestern.edu/article/podcast-what-one-school-districts-fiasco-says-about-the-strengths-and-limits-of-ai
+- Kellogg School of Management at Northwestern University
+- Sébastien  Martin
+- 
+- Sébastien  Martin
+- In 2017, Sebastien Martin had spun up an algorithm that could help Boston Public Schools sift through a seemingly endless number of bus routes in search of the most efficient, less expensive option.
+- But what started as a monumental feat for artificial intelligence turned out to be a lesson in what happens when humans aren’t ready for its computer-generated solutions.
+- “I just see it as one of these extremely complex problems,” said Martin, an assistant professor of operations at Kellogg.
+- In this episode of The Insightful Leader, we look at what happened in Boston to better understand how leaders should think about using artificial intelligence to solve some of our thorniest social problems.
+- Podcast Transcript
+- NARR: The traveling salesman problem. It’s a known computer science puzzle. And goes like this…ready? Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city? Essentially, what is the most efficient round trip you can take?
+- I know, it kind of sounds like something you’d do for extra credit in eighth grade math class. But actually….this is something that computer scientists have thought about for more than a century...because...trying to find the shortest round trip for just 15 cities...even...would mean sifting through 87 BILLION possible round-trip scenarios. And here’s the kicker: Every city you add...shoots the number of possible routes up exponentially higher.
+- Sebastien MARTIN: As the number of cities grow, the time it takes for a computer to find the very best path sort of explodes.
+- NARR: That’s Sebastien Martin — he’s an assistant professor of operations at Kellogg…and he specializes in using math and AI to make transportation systems as efficient as possible.
+- It turns out, Martin ended up building a machine that could quickly plow through a pretty incredible number of possible routes.MARTIN: So yeah, the number of possibilities would be of the order of…ummm…NARR: That’s the sound of Martin doing the calculations in his head. You see..this machine… could sort through 1 novemtrigintillion different route scenarios. That’s a one followed by 120 zeros.
+- This piece of technology….which he drew up with a fellow grad student at MIT…attracted attention. It won awards. It certainly caught the eye of Boston Public Schools…a district that had…a really hairy problem on its hands.
+- Tommy CHANG: We have the second highest transportation cost per student in the country.
+- NARR: That’s Tommy Chang. He was the superintendent at Boston Public Schools in 2017. And he’s speaking at a kickoff for a competition that BPS held that year. A kickoff competition for computer scientists to help put hundreds of buses on more efficient routes and save the district millions of dollars.
+- CHANG: Boston, as you all know, is a very difficult city to navigate, and it has a very high cost of living…and so, because of that, Boston Public Schools spends five times more per student than a typical school our size.
+- NARR: In 2017, when Chang was speaking, the district had more than 600 buses on the road, and having buses on the road cost money. The district was spending more than $116 million — more than 10 percent of its budget — on transportation.
+- And so…Martin, his MIT colleague Arthur Delarue and their advisor, Dimitris Bertsimas, put their computer to the task…to find more cost-effective routes….and they came up with an option that the district was happy with!
+- The whole thing was poised to put Boston Public Schools — and honestly, artificial intelligence — at the helm of an entirely new approach to designing transportation systems: one that could transform the way school districts across the country organized their very complex bus routes…
+- And Martin’s algorithm had another huge benefit: it could help them reveal and correct for racial and economic disparities that had long been baked into the existing bus routes…
+- Until…
+- PARENT MONTAGE: If I had known it was a possibility for my daughter to be forced out of the house from six 30 in the morning to six at night, I would have never enrolled her in the Boston public school system…Are you serious? My niece has autism. She has she’s autistic. She cannot function early in the morning…..Rest…rest assured…we are upset…and we are not going away [applause]
+- NARR: It came crashing down.
+- [beat]
+- You’re listening to The Insightful Leader. I’m Laura Pavin. And in this episode, we’re going to do something a little different. We’ll take a closer look at what happened at BPS...and why parents, students and the surrounding community got so upset about a solution that, on paper, would have solved a LOT of pain points for the district . So why are we talking about school bus routes in a podcast about strong leadership? Well, this particular story hits on a really big question…and that’s…whether AI alone is capable of solving our most complex human problems. Because—beyond school districts—companies…leaders…governments…police departments…are becoming more and more interested in using algorithms to help them find answers to really complex problems….like…workflow inefficiencies, economic inequality, and public safety. And that’s because, its proponents say, computers are unbiased and work faster to sift through tons of possible solutions that humans alone could not find in the same amount of time…or even in their own lifetimes.
+- The problem, though, is that a lot of the leaders looking to AI for answers don’t always do enough due diligence to consider those people they’re supposed to serve.
+- Today, we’ll look at what happened in Boston….we’ll look at how Martin’s algorithm was used to attempt to solve the district’s pain points…what leaders did right…and where they might have fallen short. Within this story…are lessons for leaders on HOW to think about using artificial intelligence to solve some of our thorniest social problems.
+- That’s next.
+- [beat]
+- MARTIN: Okay. Can you see? Okay. So what you have here on the right is the map of the school district.
+- NARR: That’s Sebastien Martin again. We’re on a Zoom call, and he’s showing me something that looks like a Google Map with more than a hundred little colored dots that represent schools. The map is situated on a busy excel sheet that displays various start times, the number of buses available to take kids to and from school, and how much money the school would be saving for each efficiency found for its routes.
+- Martin shows me how….if you change one thing, the whole thing recalculates how it would affect the transportation to other schools and the money either saved or…not saved…as a RESULT of that change.
+- MARTIN: …this solution…needs this number of buses…which would mean the district would save $4 million a year…and this is an average course change of 33 minutes…[fades out]
+- NARR: It does all of this REALLY quickly…in just seconds. This is a computing system that Martin and his colleague—Arthur Delarue—built to help schools quickly come up with a solution for …any number of issues a school district might face.
+- And it was an earlier version of this system that the researchers used to tackle the many issues that the Boston Public School District wanted Martin and Delarue to address. Because, like I said, they wanted to cut transportation costs, but there was more to it than that. A LOT more.
+- MARTIN: The elephant in the room is start times and school schedules.
+- NARR: One of the key changes BPS wanted to make was to start more high schoolers later in the day….after 8 a.m. Nearby schools were trying out later start times…too…and the reception was positive. It was gaining traction because some research had come out showing just how much teens needed their sleep to lead happier, healthier, more academically successful lives. And studies were showing that…biologically….adequate sleep for high school students tended to be 9 to 10 hours.
+- Unfortunately, at BPS…
+- MARTIN: Most high schoolers were starting as early as 7:15 in the morning. If you add one hour of transportation, you can imagine…
+- NARR: It was really hard for BPS students to make that work.
+- On top of moving high schools later…BPS also wanted to distribute start times more equitably across all of its schools. Because, as it stood, there was a clear trend in who did and didn’t get to start at the most desirable time slot — which according to parent surveys…was between 8 and 9 a.m. The ones with the so-called “good” times tended to include those where the population was whiter and more resourced. The ones who wound up with less-ideal times — which tended to be too early or too late for many people’s tastes…tended to be schools in poorer neighborhoods with higher concentrations of black and brown students.
+- BPS said it had lots of conversations with the community and leaders about what they wanted and didn’t want…out of this start time plan. And everyone seemed to agree with what the school committee was trying to do.
+- So Martin, Delarue and Bertsimas took all those priorities…and landed on a plan that balanced…all of this….the cost-cutting, the better routes…later high school start times…and a more equitable distribution of the good start times. It cut 120 buses from the district’s fleet and gave 85 percent of the district new start times. It was an epic, groundbreaking feat.
+- Then-superintendent Tommy Chang mused to the Boston Globe, before a big school committee vote, that quote “this is a problem that nobody thought we could solve, and we are going to solve it tonight.”
+- [beat]
+- NARR: Jane Miller remembers when she found out BPS was about to change its school times.
+- Jane MILLER: I couldn’t sleep that night.
+- NARR: Miller is a parent at Boston Public Schools. And at the time that all of this was supposed to take effect, she had three kids going to JP Manning elementary school in Boston’s Jamaica Plain neighborhood…which is about 3 miles southwest of Fenway Park.
+- MILLER: Our family is a late family…as I just said…my kids are rolling out of bed…um..hahah…We chose a late start school because of our schedules. So my husband doesn’t get home until midnight…so he didn’t want to be dropping off the kids at 7am. I work days, he works nights…that way there’s always a drop off and a pickup … and we wanted to have some quality of life with him sleeping.
+- NARR: At BPS, you have a say in which school you get to go to…through a ranking system. Miller’s kids got Manning Elementary…and it worked perfectly for them because kids started school at 9:30 a.m. and ended at 4:10 p.m…so her husband could easily do the drop off…and she could easily do the pick-up.
+- But then BPS released its list of changed school times…and, under the change, Manning elementary would be starting at 7:15 in the morning and ending at 1:55 in the afternoon.
+- MILLER: Which is the middle of the day.
+- NARR: This was a FAR cry from the 9:30 am start time and 4:10 p.m. end time they were accustomed to. Hundreds of families were facing the same nearly-two-hour time shift. And while, yes, the school did offer before and after school care, Miller said it was expensive and filled up really quickly.
+- MILLER: I had just started a new career and the cost of three of my kids to go to after school was going to be more than I earned. And I felt like once again, it’s like a woman who’s going to have to figure out like, okay, you know, I either don’t eat my pay or I give up a career that had waited a really long time to get into. Um, and that was my first year.
+- NARR: She knew many other families in other elementary and middle schools who were afraid they couldn’t swing their new start times either. They were all dealing with all kinds of different realities. Like…having kids at multiple schools with drastically different start times they hadn’t planned for. And there were families where the teens, if they got off of school too late, couldn’t work jobs that they needed to help support their families.
+- So Miller did something.
+- Laura PAVIN: When did you decide to get a petition going?
+- MILLER: Oh, I didn’t really decide. I felt really like…do I have to quit my job? And, um, maybe at like 3:00 AM, I wrote the petition and posted it and then finally fell asleep. And when I woke up in the morning, a whole bunch of people had signed it.
+- NARR: Thousands of people ended up signing the petition…which asked the district to stop the school start time changes immediately. Many of those same parents packed the school board meeting the following week and spoke for hours during public comment...about it.
+- It was deeply unpopular. The committee dropped the whole thing…months later, former Mayor Marty Walsh asked Superintendent Tommy Chang to resign from his role. The district’s spending on transportation still remains among the highest in the nation…compared to other districts.
+- [beat]
+- NARR: Martin told me that…the outcome for BPS and its start times…stayed with him.
+- MARTIN: It was really hard on me. And what you heard, like all of these testimonies in, in, um, in the committee meetings are all true, very hard stories.
+- NARR: Sure, Martin IS the computers and math guy…but he doesn’t operate in a vacuum. He knows that using algorithms to change policies of any kind…will affect real people.
+- So…Martin wondered…at what point in this process did things go wrong? Was there anything the leaders of this project could have done different…to make this more palatable for parents?
+- I asked him if there was a communication breakdown between the parents and the school district. And he didn’t think so.
+- MARTIN: I’ve been through dozens of community engagement meetings with the school district before the change. It would be hard for me to say that there has not been committee engagement.
+- NARR: BPS WAS, indeed, clear on its intent: to cut costs, improve its routes, distribute start times more equitably, and start high school students later in the day. And it told parents about the start time changes that were on the table. They asked them to rank start times between 7 AM and 9:30 AM on a scale of one to seven — one being the least preferable and seven being the most preferable.
+- BPS operations chief…John Hanlon…presented the results of this district-wide survey at a school committee meeting leading up to the change. And he was blunt: the 8:00 - 8:30 time frame WAS the most popular with parents….but not by a huge margin. Because NONE of the start times were universally popular across the whole district.
+- John HANLON: If you notice here, not a single start time on this graph has an average score of even five out of seven…and what that amounts to, is there’s, quite frankly, indifference, across the district.
+- NARR: During his presentation, Hanlon even showed the committee a graph of parental preferences at just one school. And the preferences were scattered all over the place.
+- HANLON: And ultimately, what this shows us, is that within schools, it is impossible to make everyone happy…and as part of our engagement efforts after the last several months, we made it very clear to everybody, this is a classic example of we will not be able to make everyone happy.
+- NARR: So it’s not like BPS kept the high likelihood of parental dissatisfaction a secret. Their engagement went beyond surveys, too…they’d held committee conversations…sessions with the community and phone conversations in multiple languages …which they set up a call center to do.
+- But Miller still felt like they fell short.
+- MILLER: There was never an idea of what the impact would be to individual schools. We knew, they said it was okay to change the start times, but nobody knew what it would mean to your individual school, um, until a list rolled out.
+- NARR: The WAY that the new schedules were announced…wasn’t ideal.
+- The committee voted on the framework for the new bell times just one day before they were released to the public. This was in December of 2017…and the new start times were set to take effect the following school year. So yeah…that was pretty quick.
+- I should say that Miller is white…and so were a lot of the parents that spoke out over the start times. And that wasn’t lost on some spectators…who concluded that the plan was being dropped to satisfy this vocal, well-connected few…at the expense of more under-resourced communities.
+- It’s a narrative that would make sense, given Boston’s history with race and busing.
+- Back in the 1970s, a U.S. District Court had required BPS to desegregate the city’s schools by busing students between white and black areas of the city. The opposition was violent. And eventually, much of the white population fled the city and its schools.
+- And so, a lot of people with this historical context were quick to blame the crumbling of BPS’s start time plan …on the fewer but vocal white families that remained in the school district.
+- But…the thing about that is that…later, after that raucous meeting about start times with the mostly-white parents…the NAACP and the Lawyers’ Committee for Civil Rights and Economic Justice ALSO spoke out against the plan. This didn’t surprise Miren Uriarte. She was a school committee member when the conversations about school start times were happening. I talked to her over the phone about it.
+- URIARTE: Black and brown enrollment are working class and, and below, you know, that have jobs that are, they do not give them a lot of flexibility. And, you know, people have choices and parents make choices on the basis of their needs.
+- NARR: In other words, many parents with fewer resources had already opted into a school with start time that they favored–and were likely to find it even HARDER to deal with a sudden schedule change than parents with more resources.
+- So…maybe the district should have rolled out the change more slowly…done some beta testing…given families more time to understand, truly, what the schedule change would mean for their lives. And whether it would just be too onerous for people.
+- That could have been part of it. But Martin wondered if there was something deeper to the pushback over start time changes.
+- MARTIN: I think there is something that is a little bit impossible in there…which is…when it’s your children, it’s extremely hard to think about the group.
+- NARR: Which is to say…EVEN if these new start times would be best for many of the district’s sleep-deprived teens…people tend to think about what’s best for their own kids…and not someone else’s.
+- MARTIN: There is nothing more humane than this. This is why I really want to insist that. I mean, on my side, at least there is no hard feeling. I just see it as one of these extremely complex problems.
+- NARR: At least in Boston, this complexity still seems to be preventing any solutions. Here’s former school committee member Miren Uriarte again.
+- URIARTE: To this day, we have not been able to change the start times because of that incident.
+- [beat]
+- NARR: Are we ready…truly ready…to let artificial intelligence help us solve problems that affect so many lives…in so many ways?
+- Martin still thinks so.
+- Dozens upon dozens of school districts reached out to him and his MIT colleagues to help them solve transportation problems of their own…even after everything that happened with BPS. They even created a startup called AlphaRoute to tackle the demand.
+- Recently, Martin actually did get to see the fruits of his algorithm’s labor go to work at San Francisco Unified School District. The district DID actually start its high schools later and alter other start times for the 21-22 school year. And it’s set to save the district $5.5 million each year.
+- MARTIN: I think it’s maybe the first time a school district—a major school district—managed to change their start time in a major way…especially using an algorithm. Of course it was hard. Changing start times is never a happy thing for many parents. Like, it’s very hard for a lot of parents.
+- NARR: What went differently this time? Well, a state law.
+- In 2019, California Governor Gavin Newson signed a bill that required high schools to push start times back to 8:30 a.m. So, the school district and the community it served…didn’t really have a choice.
+- Now, thanks to these legally mandated changes…we finally can see what an AI-optimized schedule can really do …when it’s left to play out over the years.
+- MARTIN: I’m convinced that it will be so much better for the district, for the teachers, for the students’ health.
+- NARR: So…are laws and mandates the answer here? Is short-term resistance all that’s really holding AI back from making our organizations and societies better?
+- Not necessarily…Martin says there is still validity to the criticism that leaders can be a little too quick to wield algorithms as a cure-all–particularly when it treats people as statistics and not as individuals, with their own uniquely idiosyncratic lives and preferences.
+- It’s hard to know for sure what Boston could have done differently. What Martin DOES feel more certain about is that…there aren’t enough leaders out there who really know how to use public policy and algorithms in tandem with each other.
+- MARTIN: You need translators, you need people who know both worlds.
+- NARR: In other words, he thinks we need more technically-informed leaders, leaders who can help us to build a world that’s optimized by computers…FOR humans.
+- [credits]
+- NARR: This episode of The Insightful Leader was written by me—Laura Pavin. It was produced by Jessica Love, Fred Schmalz, Emily Stone, Maja Kos, Andrew Meriwether and Laura Pavin. Special thanks to Sebastien Martin. As a reminder, you can find us on iTunes, Google Play, or our website. If you like this show, please leave us a review or rating—that helps new listeners find us. We’ll be back in a couple weeks with another episode of The Insightful Leader.
+- Assistant Professor of Operations
+- We’ll send you one email a week with content you actually want to read, curated by the Insight team.
+
+URL: https://www.popularmechanics.com/technology/infrastructure/a28689713/algorithm-boston-buses/
+- It even cut 20,000 pounds of carbon dioxide emissions per day.
+- Algorithms are invading transportation in a variety of ways beyond the flashy chase for self-driving cars. A new report shows that in Boston, an algorithm that was first implemented in 2017 to increase the efficiency of school bus driving routes has worked with tremendous success.
+- Algorithms are already in many driving decisions thanks to services like Google Maps. But busing routes are considerably more complex than many others. As documented in a report by Emma Coleman of Route Fifty, a publication focused on technology at the state and local level, Boston Public School (BPS) had exorbitantly high transportation costs of "$2,000 per student per year, representing 10 [percent] of the district’s budget." And for all that, BPS' buses were still inconsistent in when they actually showed up to many students' homes.
+- So BPS decided to field a competition to find the best possible algorithm that could tackle the problems. The eventual winners were nearby: Arthur Delarue and Sebastien Martin, doctoral students at MIT, who called their algorithm "Quantum."
+- Busing represented a challenge to the two, and the car-focused Google Maps wouldn't be much help. The BPS system delivered students who live in over 20 various zip codes to 220 schools. And then, the schools all had varying start times ranging from 7:15 to 9:30 a.m, so buses might have to touch base at multiple schools for student drop off. Around 5,000 students had special needs, demanding house drop-off and pick-ups. And being late wasn't an option.
+- "First we take into account all the average traffic, and then we add some slack to make sure that even if things go wrong, we still have some time," Martin told Boston area radio station WBUR at the time of the announcement.  On that of that, he said, "we have a second problem. How to choose the solution for each school so that we have the best routes overall."
+- Trying to calculate all the options, Delarue tells Route Fifty, made a “number of solutions so large that you can’t even enumerate it."
+- But John Hanlon, director of operations for BPS, had faith in the project. "It takes a team of six to eight individuals about four weeks to complete the routing [each year]," he told WBUR. "The Quantum team solution can do all that in 30 minutes."
+- There was some local resistance. "Machines don't make routes—humans make routes," said Andre Francois, president of the local bus drivers' union, according to WBUR. "Machines send you to one-ways, dead-ends. These things never work!"
+- But it wasn't Quantum alone making the decisions. Delarue said at the time that "every single route will have been checked by people with years or even decades of experience."
+- Three years later, it appears that Hanlon's trust was well-placed. Route Fifty reports that for the 2017-18 school year, within a half hour, "the algorithm created a system-level route map that was 20 [percent] more efficient than the ones done by hand." Testing during the summer of 2017 allowed the system "to eliminate 50 buses, an 8 [percent] drop. Buses drove 1 million fewer miles that year and cut 20,000 pounds of carbon dioxide emissions per day."
+- As a result of the savings, the district was able to reinvest $5 million saved back into classroom initiatives.
+- The Quantum team says the collaboration between city and algorithm was crucial to the success of the project.
+- “The work of route managers in communicating with stakeholders such as drivers, principals, parents, and students is invaluable and cannot be replaced,” Delarue tells Route Fifty now. “But in what order stops should be visited, and how that route gets designed can’t be solved efficiently by humans. That’s where we add value.”
+- Boston schools haven't gone completely algorithmic just yet. Last year, an algorithm-based study failed to offer a plan for better school racial integration, and parents are still resistant to an algorithms that could alter high school start times. But still, when one is able to work, it would appear that everyone wins.
+- Source: Route Fifty
+- David Grossman is a staff writer for PopularMechanics.com. He's previously written for The Verge, Rolling Stone, The New Republic and several other publications. He's based out of Brooklyn.
+- DARPA's New X-Plane Maneuvers Using Blasts of Air
+- Could These New Batteries Power Airplanes?
+- Linear Generator Switches Between Various Fuels
+- 6G Is Just Years From Launching, Whatever it is
+- The Wild Conspiracy That the Titanic Never Sank
+- Autonomous Vehicles Could Worsen Future Emissions
+- Pentagon Places Another Bet on Hypersonic Rockets
+- Why Train Derailments Are Happening All Around Us
+- What We Know About Putin's Bulletproof Train
+- Conspiracy Theorists Bashing 15-Minute Cities
+- Even New Buildings Crumbled Amid Turkey Quakes
+- Will AVs Necessitate a Fourth Traffic Light?
+- A Part of Hearst Digital Media
+- We may earn commission from links on this page, but we only recommend products we back.
+- ©2023 Hearst Magazine Media, Inc. All Rights Reserved.
+
+URL: https://www.weforum.org/agenda/2019/08/this-us-city-put-an-algorithm-in-charge-of-its-school-bus-routes-and-saved-5-million/
+- 
+- 25 million US children travel on the iconic buses every day. Image: REUTERS/Brian Snyder
+- Create a free account and access your personalized content collection with our latest publications and analyses.
+- License and Republishing
+- World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+- The views expressed in this article are those of the author alone and not the World Economic Forum.
+- A weekly update of the most important issues driving the global agenda
+- You can unsubscribe at any time using the link in our emails. For more details, review our privacy policy.
+- Bridging the regulatory gap plus other AI stories to read this month
+- Cathy Li
+- May 26, 2023
+- Quantum machine learning: a new tool in the cybersecurity locker
+- Christian Knopf, Michael Daniel and Jerome Desbonnet
+- May 26, 2023
+- We need to talk about AI - find out why on the new Radio Davos podcast series
+- Robin Pomeroy and Charlotte  Edmond
+- May 24, 2023
+- How to keep AI development moving without compromising safety and security
+- Christina  Montgomery and Francesca Rossi
+- May 24, 2023
+- What The Letter Demanding To 'Pause AI Experiments' Is Really About
+- 3 Leading Thinkers on How to Make AI Work for Humanity
+- About Us
+- Events
+- Media
+- More from the Forum
+- Partners & Members
+- Language Editions
+- Privacy Policy & Terms of Service
+- © 2023 World Economic Forum
+
+URL: https://www.route-fifty.com/tech-data/2019/08/boston-school-bus-routes/159113/
+- School buses line up in Boston, a city with one of the most challenging systems to route.
+                  
+                    Shutterstock
+- Your daily read on state and local government
+- Connecting state and local government leaders
+- By
+
+
+Emma Coleman
+- The yellow school bus has remained largely unchanged since it first debuted in 1939. But while the buses look the same, their routes have grown infinitely more complex in the past 80 years, as the number of students, schools, and road systems grow and change.
+- Drawing bus routes for Boston Public Schools involves challenges unique to the city. BPS allows parents to select their child’s school from a list of about ten options, in an effort to reduce inequalities that might result from isolating students to their neighborhoods. While this represents a greater level of choice than most cities, the resulting bus routes can be meandering and complicated.
+- Compounding that challenge is the fact that BPS provides more bus services than most other districts. All elementary school students who attend schools more than a mile from their home are offered yellow bus service to one of over 220 schools, and many live much farther than that. Some schools draw students from more than 20 different zip codes. Each of those schools also had different start times, between 7:15 and 9:30 a.m., so buses might have to visit multiple schools for pick up and drop off.
+- In 2017, the district was facing serious challenges. On a per-pupil basis, BPS had the highest transportation costs in the country, around $2,000 per student per year, representing 10% of the district’s budget. The schools dealt with rising costs each year, despite declining ridership. The on-time performance rate of their buses was also well below that of other large districts.
+- With no clear vendor to turn to with this problem, BPS instead sought out experts, hosting a competition where researchers could experiment with anonymized BPS data sets to create efficient routes and optimal start times for each school.
+- “To put it simply, we wanted a solution that worked,” said Will Eger, the BPS senior strategic projects manager. “There are lots of quirks in this transportation situation, and we wanted something that could address the vast majority of those issues while also being highly efficient, something that could run overnight at least.”
+- Those quirks represent millions of decision variables that affect any solution, including varying road widths, differing bus infrastructures (for example, the presence of wheelchair lifts or child safety restraint seats), students who require the same bus driver every year, students who have monitors, and students who have been in fights and, therefore, need to be on different buses. It also includes the roughly 5,000 students who have a special need that requires door-to-door pick up and drop off (sometimes to non-BPS schools, as the city provides yellow bus service to students who attend charter and private schools within Boston, and to special education facilities outside the city).
+- Considering all those possibilities creates a “number of solutions so large that you can’t even enumerate it,” said Arthur Delarue, a PhD candidate who worked with the team from the MIT Operations Research Center whose algorithm won the competition. The team spent hundreds of hours devising a solution to what Delarue called a “bold and unusual” challenge.
+- Their solution replaced what had before been an incredibly laborious process, one that took ten school system routers thousands of hours to create custom routes for each child and school. Those employees still work with BPS, tracking routes that struggle with on-time performance, and managing route guidance for drivers (Google Maps isn’t sufficient since it’s built for cars, and 70-passenger buses can’t, for example, easily make u-turns). But now, the MIT algorithm routes the entire system at once, providing a base for the human routers to tweak.
+- “The work of route managers in communicating with stakeholders such as drivers, principals, parents, and students is invaluable and cannot be replaced,” Delarue said. “But in what order stops should be visited, and how that route gets designed can’t be solved efficiently by humans. That’s where we add value.”
+- Sebastien Martin, another PhD candidate at MIT who worked on the solution, said the dilemmas with drawing school bus routes have been studied since the 1960s, and many solutions have been proposed. “Each school district has such different needs, though, so it’s hard to find a solution that works perfectly everywhere,” he said. “The problem is so hard to solve that even the most powerful computers can’t find a perfect solution for a district the size of Boston. There will always be tradeoffs.”
+- But even with tradeoffs, using an algorithm, which the city tested for the first time in the 2017-2018 school year, has created dramatic results. In 30 minutes, the algorithm created a system-level route map that was 20% more efficient than the ones done by hand. The longer the algorithm runs, the better solution it produces, until it cannot be improved. Running the algorithm in the summer of 2017 allowed for the system to eliminate 50 buses, an 8% drop in the fleet that was the largest Boston had seen in a single year. Buses drove 1 million fewer miles that year and cut 20,000 pounds of carbon dioxide emissions per day. The district reinvested the $5 million saved back into classroom initiatives.
+- “Incredibly, this was done without making bus rides or walk time to stops longer,” said Eger. “We now have shorter walk times for younger students and those in dangerous neighborhoods, and we still minimized the total number of stops.”
+- Much of the algorithm’s success is derived from the fact that it takes a system-level approach, instead independently routing individual schools and then connecting those routes together. Instead, the algorithm assigns students to stops, puts the stops in order to make no student’s ride longer than an hour, and then takes a multi-school routing approach. The best solution, then, is not the one that uses the fewest number of buses for each school, but the one that most effectively recycles buses on paths to multiple schools—and the solution uses flexible integer programming that allows the district to adapt to changing policies.
+- Now in its third year of operation, Eger said that BPS runs the algorithm in the summer to create a master schedule, and then makes modifications by hand throughout the year, though they’re trying to integrate the two systems so that changes can be done by the algorithm throughout the year. But the more powerful potential to come out of the challenge, in his opinion, was another algorithm, one that allows for “unprecedented insight” into the implications of policy changes, such as school start times.
+- “This was really eye opening for us,” said Eger. “We can understand now the cost and equity effects, and number of students who might be impacted by any given policy changes.”
+- But just because the district has been able to clearly enumerate the effects of policy changes doesn’t mean they’ve been popular. In December 2017, based on the recommendations of the algorithm, the Boston School Committee approved changes in school start times for the first time in 30 years. Those changes would have involved 85% of schools.
+- The move was based on several considerations, including research that showed starting high school before 8 a.m. has detrimental effects on the learning ability of teenagers. MIT research also showed that Boston was inequitable—while most parents prefer start times between 8:00 and 8:30 a.m., only 10% of white students in Boston start before 8:00 a.m., compared to 30% of black students. Higher income students generally start later, at the more desirable times.
+- So the team worked to swap the start times of high schools with elementary schools in the district, and optimize the start times based on route feasibility, teen health, parent preferences, and equity. Their school start time algorithm explored the tradeoffs to different start times, and found a balance point between all considerations. If it had been deployed, it would have changed the number of teenagers with early high school start times from 74% to just 6%.
+- But it wasn’t deployed. After it was unveiled, parents loudly objected to the proposal. Less than a month later, the district repealed the proposed new school start times. As Dimitris Bertsimas, a professor who led the MIT team, pointed out in a presentation about the solution, those who favored the status quo had the most to lose. “When your kids are affected negatively, it is hard to see the big picture,” he said.
+- MIT eventually partnered with the Boston Globe in 2018 to show how the time algorithm could alter the start times at individual schools, but sweeping changes have still not occurred. Even so, Eger said that the project has been inspiring for the district, and the city as a whole.
+- “This is a positive example to show how we can use some of the unbelievable research potential that Boston has the offer,” he said. “Many school districts have operational problems like this, and handling these complex challenges is not our line of expertise. We should rely on experts for that, and focus on the work we do best.”
+- Emma Coleman is the assistant editor for Route Fifty.
+- NEXT STORY:
+
+              How Libraries are Embracing Artificial Intelligence
+- Sign up for our daily newsletter:
+- Do Not Sell My Personal Information
+- When you visit our website, we store cookies on your browser to collect
+          information. The information collected might relate to you, your preferences or your device, and is mostly
+          used to make the site work as you expect it to and to provide a more personalized web experience. However, you
+          can choose not to allow certain types of cookies, which may impact your experience of the site and the
+          services we are able to offer. Click on the different category headings to find out more and change our
+          default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary
+          Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the
+          cookie banner and remembering your settings, to log into your account, to redirect you when you log out,
+          etc.). For more information about the First and Third Party Cookies used please follow this link.
+- Manage Consent Preferences
+- Strictly Necessary Cookies - Always Active
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy
+          choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of
+          your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts
+          of the site will not work as intended if you do so. You can usually find these settings in the Options or
+          Preferences menu of your browser. Visit www.allaboutcookies.org
+          to learn more.
+- Sale of Personal Data, Targeting & Social Media Cookies
+- Under the California Consumer Privacy Act, you have the right to opt-out of the
+          sale of your personal information to third parties. These cookies collect information for analytics and to
+          personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal
+          information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and
+          will not hand over your personal information to any third parties. Additionally, you may contact our legal
+          department for further clarification about your rights as a California consumer by using this Exercise My
+          Rights link
+- If you have enabled privacy controls on your browser (such as a plugin), we have
+          to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the
+          web. This may affect our ability to personalize ads according to your preferences.
+- Targeting cookies may be set through our site by our advertising partners. They
+          may be used by those companies to build a profile of your interests and show you relevant adverts on other
+          sites. They do not store directly personal information, but are based on uniquely identifying your browser and
+          internet device. If you do not allow these cookies, you will experience less targeted advertising.
+- Social media cookies are set by a range of social media services that we have
+          added to the site to enable you to share our content with your friends and networks. They are capable of
+          tracking your browser across other sites and building up a profile of your interests. This may impact the
+          content and messages you see on other websites you visit. If you do not allow these cookies you may not be
+          able to use or see these sharing tools.
+- If you want to opt out of all of our lead reports and lists, please submit a
+          privacy request at our Do Not Sell page.
+        Save Settings
+- Cookie List
+- A cookie is a small piece of data (text file) that a website – when visited by a
+          user – asks your browser to store on your device in order to remember information about you, such as your
+          language preference or login information. Those cookies are set by us and called first-party cookies. We also
+          use third-party cookies – which are cookies from a domain different than the domain of the website you are
+          visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking
+          technologies for the following purposes:
+- Strictly Necessary Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy
+          choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of
+          your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts
+          of the site will not work as intended if you do so. You can usually find these settings in the Options or
+          Preferences menu of your browser. Visit www.allaboutcookies.org
+          to learn more.
+- Functional Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our
+          website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site
+          performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You
+          can set your browser to block or alert you about these cookies, but some parts of the site will not work as
+          intended if you do so. You can usually find these settings in the Options or Preferences menu of your
+          browser. Visit www.allaboutcookies.org
+          to learn more.
+- Performance Cookies
+- We do not allow you to opt-out of our certain cookies, as they are necessary to
+          ensure the proper functioning of our
+          website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site
+          performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You
+          can set your browser to block or alert you about these cookies, but some parts of the site will not work as
+          intended if you do so. You can usually find these settings in the Options or Preferences menu of your
+          browser. Visit www.allaboutcookies.org
+          to learn more.
+- Sale of Personal Data
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Social Media Cookies
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Targeting Cookies
+- We also use cookies to personalize your experience on our websites, including by
+          determining the most relevant content and advertisements to show you, and to monitor site traffic and
+          performance, so that we may improve our websites and your experience. You may opt out of our use of such
+          cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still
+          see some advertising, regardless of your selection. Because we do not track you across different devices,
+          browsers and GEMG properties, your selection will take effect only on this browser, this device and this
+          website.
+- Help us tailor content specifically for you:
+
+- Starbucks automated shift scheduling
+- Gorillas rider work scheduling automation
+- Page infoType: IncidentPublished: April 2023

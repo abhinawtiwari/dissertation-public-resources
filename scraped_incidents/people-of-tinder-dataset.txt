@@ -1,0 +1,220 @@
+- Published: April 2016 Occurred: April 2017
+- Can you improve this page?Share your insights with us
+- People of Tinder is a dataset created in 2016 by software engineer Stuart Colianni that was intended 'to build a better, larger facial dataset' capable of distinguishing between male and female images.
+- The dataset consisted of 40,000 images of people's faces - half women, half men - from the San Francisco area scraped from dating app Tinder without their knowledge or consent.
+- The dataset was uploaded to Google-owned AI online community Kaggle and the TinderFaceScraper model published on Github. Both were removed after Tinder accused Mr Colianni of violating its terms of service and people started complaining that their selfies were being used without their permission.
+- The dataset was downloaded hundreds of times before it was taken down.
+- Operator:  Developer: Stuart Colianni
+- Country: USA
+- Sector: Technology
+- Purpose: Train neural networks
+- Technology: Dataset; Facial recognition; Computer vision; Neural network Issue: Privacy
+- Transparency: Privacy
+URL: https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/
+- Tinder users have many motives for uploading their likeness to the dating app. But contributing a facial biometric to a downloadable data set for training convolutional neural networks probably wasn’t top of their list when they signed up to swipe.
+- A user of Kaggle, a platform for machine learning and data science competitions which was recently acquired by Google, has uploaded a facial data set he says was created by exploiting Tinder’s API to scrape 40,000 profile photos from Bay Area users of the dating app — 20,000 apiece from profiles of each gender.
+- The data set, called People of Tinder, consists of six downloadable zip files, with four containing around 10,000 profile photos each and two files with sample sets of around 500 images per gender.
+- Some users have had multiple photos scraped from their profiles, so there is likely a lot fewer than 40,000 Tinder users represented here.
+- The creator of the data set, Stuart Colianni, has released it under a CC0: Public Domain License and also uploaded his scraper script to GitHub.
+- He describes it as a “simple script to scrape Tinder profile photos for the purpose of creating a facial dataset,” saying his inspiration for creating the scraper was disappointment working with other facial data sets. He also describes Tinder as offering “near unlimited access to create a facial data set” and says scraping the app offers “an extremely efficient way to collect such data.”
+- “I have often been disappointed,” he writes of other facial data sets. “The datasets tend to be extremely strict in their structure, and are usually too small. Tinder gives you access to thousands of people within miles of you. Why not leverage Tinder to build a better, larger facial dataset?”
+- Why not — except, perhaps, the privacy of thousands of individuals whose facial biometrics you’re dumping online in a mass repository for public repurposing, entirely without their say-so.
+- Glancing through a few of the images from one of the downloadable files they certainly look like the sort of quasi-intimate photos people use for profiles on Tinder (or indeed, for other online social apps) — with a mix of selfies, friend group shots and random stuff like photos of cute animals or memes. It’s by no means a flawless data set if it’s just faces you’re looking for.
+- Reverse image searching several of the photos mostly drew blanks for exact matches online, so it appears that many of the photos have not been uploaded to the open web — though I was able to identify one profile image via this method: a student at San Jose State University, who had used the same image for another social profile.
+- She confirmed to TechCrunch she had joined Tinder “briefly a while back,” and said she doesn’t really use it anymore. Asked if she was happy at her data being repurposed to feed an AI model she told us: “I don’t like the idea of people using my pictures for some sad ‘researches.’ ” She preferred not to be identified for this article.
+- Colianni writes that he plans to use the data set with Google’s TensorFlow’s Inception (for training image classifiers) to try to create a convolutional neural network capable of distinguishing between men and women. (I just hope he strips out all the pet shots first or he’ll find this task an uphill struggle.)
+- The data set, which was uploaded to Kaggle three days ago (minus the sample files), has been downloaded more than 300 times at this point — and there’s obviously no way to know what additional uses it might be being put to.
+- Developers have done all sorts of weird, wacky and creepy things playing around with Tinder’s (ostensibly) private API over the years, including hacking it to automatically like every potential date to save on thumb-swipes; offering a paid look-up service for people to check up on whether a person they know is using Tinder; and even building a catfishing system to snare horny bros and make them unwittingly flirt with each other.
+- So you could argue that anyone creating a profile on Tinder should be prepared for their data to leech outside the community’s porous walls in various different ways — be it as a single screenshot, or via one of the aforementioned API hacks.
+- But the mass harvesting of thousands of Tinder profile photos to act as fodder for feeding AI models does feel like another line is being crossed. In the scramble for big data sets to fuel AI utility, clearly very little is sacred.
+- It’s also worth noting that in agreeing to the company’s T&Cs Tinder users grant it a “worldwide, transferable, sub-licensable, royalty-free, right and license to host, store, use, copy, display, reproduce, adapt, edit, publish, modify and distribute” their content — though it’s less clear whether that would apply in this case where a third-party developer is scraping Tinder data and releasing it under a public domain license.
+- At the time of writing Tinder had not responded to a request for comment on this use of its API. But since Tinder makes its rights to your content transferable, it’s entirely possible even this large-scale repurposing of the data falls within the scope of its T&Cs, assuming it sanctioned Colianni’s use of its API.
+- Update: A Tinder spokesperson has now provided the following statement:
+- We take the security and privacy of our users seriously and have tools and systems in place to uphold the integrity of our platform. It’s important to note that Tinder is free and used in more than 190 countries, and the images that we serve are profile images, which are available to anyone swiping on the app. We are always working to improve the Tinder experience and continue to implement measures against the automated use of our API, which includes steps to deter and prevent scraping.
+- This person has violated our terms of service (Sec. 11) and we are taking appropriate action and investigating further.
+
+URL: https://www.csoonline.com/article/3193837/dataset-of-scraped-tinder-pics-poof-from-kaggle-after-tinder-complains.html
+- By Ms. Smith, 
+								
+								
+
+CSO
+|
+- Ms. Smith (not her real name) is a freelance writer and programmer with a special and somewhat personal interest in IT privacy and security issues.
+- Tinder was ticked after 40,000 profile photos were scraped to create the People of Tinder dataset, accused the person behind the script of violating its terms of service, and asked Kaggle to remove the dataset from the platform. Nevertheless, it was downloaded hundreds of time before the take-down which now results in a 404 error.
+- The People of Tinder dataset was created by Stuart Colianni; it consisted of 40,000 images from Tinder users in the San Francisco Bay Area – half were of women and half were of men. He intends to use the dataset with Google’s TensorFlow’s Inception to create a neural network capable of distinguishing between male and female images.
+- Colianni shared TinderFaceScraper on GitHub. He expressed disappointment in other small facial datasets before claiming, “Tinder gives you access to thousands of people within miles of you. Why not leverage Tinder to build a better, larger facial dataset?”
+- He uploaded the scraped Tinder pictures to Kaggle, a platform for predictive modelling and analytic competitions. Before Tinder asked Kaggle to remove the dataset, TechCrunch checked it out, reporting that the “People of Tinder, consists of six downloadable zip files, with four containing around 10,000 profile photos each and two files with sample sets of around 500 images per gender.”
+- Some affected Tinder users reportedly were not particularly thrilled to have their sexy selfies, which were intended to induce a swipe right, scraped and shared in a dataset which was downloaded hundreds of times for who-knows-what projects which leverage AI. It’s a good reminder: there are no guarantees that photos intended to be semi-private – or only seen by a specific person or people in specific circumstances – will not become public after you posted them be it through a breach, revenge porn or a scraper.
+- Others were insulted after seeing that TinderFaceScraper code included the following snippet:
+- # Iterate through list of subjects
+- for hoe in hoes:
+- # Get the subject ID
+- sid = hoe['_id']
+- # Gets a list of pictures of the subject
+- pictures = hoe['photos']
+- As for his choice of using “hoe” and “hoes” as variable names in his script, Colianni said it was an “oversight. This syntax was borrowed from a Tinder auto-liker, which I used as a reference when learning to interact with the Tinder API programmatically. I regret this oversight, and the code has been corrected.”
+- Colianni’s scraped dataset, Tinder claims, violated the prohibited activities section in its terms of service. Colianni updated his GitHub post to include: “I have spoken with representatives at Kaggle, and they have received a request from Tinder to remove the dataset. As such, the facial data set previously hosted on Kaggle has been removed.”
+- Tinder asserted to TechCrunch that takes “the security and privacy of our users seriously and have tools and systems in place to uphold the integrity of our platform.” It may care about users' privacy now, but that was questionable in April of 2016 when Tinder outraged some users after they were automatically opted in to Tinder Social.
+- In the statement for this go-around, the company tossed in a plug for its free product, then added, “We are always working to improve the Tinder experience and continue to implement measures against the automated use of our API, which includes steps to deter and prevent scraping.”
+- Yet Colianni pointed out, “The Tinder API Documentation has been available to the public for years, and there are numerous open source projects on GitHub such as Pynder showing how to make Tinder bots and interact with the Tinder API.”
+- As other outlets have reported, developers have tinkered with the Tinder API over the years, such as creating a catfish machine that tricked guys into thinking they were flirting with women when in fact they were flirting with other guys.
+- Ms. Smith (not her real name) is a freelance writer and programmer with a special and somewhat personal interest in IT privacy and security issues.
+- Copyright © 2017 IDG Communications, Inc.
+- Copyright © 2023 IDG Communications, Inc.
+
+URL: https://thenextweb.com/news/tinder-photo-dataset-40000-scraped-pics
+- You have been blacklisted, KTHXBAI
+- XID: 11074059
+- Varnish cache server
+
+URL: https://www.bbc.com/news/technology-39778568
+- Tens of thousands of dating profile pictures were taken from Tinder by a programmer who then made them publicly available on the web.
+- The dataset contained 40,000 images - half of which were of men, half of women - but it is now offline.
+- Stuart Colianni wrote a program to compile the cache of photos, intending to use them for machine learning research.
+- Tinder accused Mr Colianni of violating its terms of service.
+- Tech news site TechCrunch reported that the dataset originally contained many thousands of pictures from Tinder users in the Bay Area, around San Francisco in California.
+- Some users had "multiple" photos scraped from their profiles, TechCrunch added.
+- "Tinder gives you access to thousands of people within miles of you," wrote Mr Colianni on a web page that previously linked to the data.
+- He explained that he was looking for a way of gathering more detailed data on human faces, adding, "Why not leverage Tinder to build a better, larger facial dataset?"
+- He had added folders containing the photos to Kaggle, a Google-run service that allows programmers to experiment with artificial intelligence (AI) progams.
+- AI algorithms can be trained on large sets of photographs in order to perform facial recognition tasks, but it is not clear what purpose Mr Colianni had in mind for the data.
+- However, over the weekend he posted an update saying that he had removed the pictures.
+- "I have spoken with representatives at Kaggle, and they have received a request from Tinder to remove the dataset," he explained.
+- Tinder said it continued to implement measures "against the automated use" of its API (application programming interface), including steps "to deter and prevent scraping".
+- "This person has violated our terms of service (Sec. 11) and we are taking appropriate action and investigating further," the statement added.
+- The firm also noted that all profile images are available to anyone using the app.
+- Programs that scrape data from the web - to compare prices on e-commerce websites, for example - are very common, noted Glenn Wilkinson, an independent security researcher.
+- "People would have an assumption that their profile is quite private," he explained, but added that getting access to such data is not usually very difficult, even if it is prohibited - as in Tinder's case - by the terms and conditions of the service.
+- There were potential privacy threats that could result from this, said Mr Wilkinson, pointing out that it might be possible to use profile pictures to connect people's identities on separate social media sites.
+- "People do like to keep their dating and work life separate - but if you use the same photo on Tinder and LinkedIn, those things could get linked together," he told the BBC.
+- The woman on a mission to get rid of bad dating photos
+- The science behind online dating profiles
+- TechCrunch
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.forbes.com/sites/janetwburns/2017/05/02/tinder-profiles-have-been-looted-again-this-time-for-teaching-ai-to-genderize-faces/
+- The 'Tinder' app logo is seen on a mobile phone screen on November 24, 2016 in London, England.... [+] (Credit: Leon Neal/Getty Images)
+- In the age of screen shots and data trails, the idea of putting yourself 'out there' has gained new meaning, especially as dating apps are increasingly mined for users' potentially quite personal info. In a new perceived privacy breach, one developer managed to scrape up thousands of daters' photos so as to teach artificial intelligence some new tricks, and even shared his method for doing it with the world.
+- Last week, developer Stuart Colianni uploaded a data set representing tens of thousands of 'scraped' Tinder profile photos to the machine learning and data science platform Kaggle, which Google recently snapped up. As TechCrunch reported, the facial data set was made available for download as six public domain zip files, comprising over 40,000 photos of the Bay Area's Tinder population and two sample sets with approximately 500 images of determinedly male and female users each.
+- Dubbed "People of Tinder," the data set has since been taken down, but not before it was downloaded hundreds of times, according to TechCrunch. Colianni also posted the code that other developers would need to perform the same photo-grabbing crawl all over again on GitHub, where it remains available as of Tuesday afternoon.
+- According to its description on GitHub, the scraping program is "a simple script that exploits the Tinder API to allow a person to build a facial data set,” created to give users access to images from "thousands of people within miles of you" for the sake of building "a better, larger facial data set" than the kind Colianni is used to seeing. In his case, the script was specifically used to round up stores of images on which AI might be trained to recognize gender based on a person's facial features.
+- He explained on GitHub, "I plan on using the [data set] with TensorFlow's Inception to try and create a [convolutional neural network] that is capable of distinguishing between men and women."
+- See also: Facebook Wants To Curb Revenge Porn With Face-Matching Tech
+- SANTA MONICA, CA - JUNE 17: Internet personality Chantel Jeffries attends the Tinder Plus Launch... [+] Party featuring Jason Derulo and ZEDD at Hangar 8 Santa Monica at Barker Hangar on June 17, 2015 in Santa Monica, California. (Photo by Tommaso Boddi/Getty Images for Tinder)
+- The project has already drawn criticism for its perceived violation of users' privacy, as well as for its execution. As The Next Web pointed out, Tinder reportedly contacted Kaggle to request that the data set be taken down, potentially as a violation of its own privacy terms. The script for the image-scraper has also seen push-back over Colianni's use of the terms "hoe" and "hoes" to refer to Tinder users it targets.
+- In response, an update on GitHub noted, "The use of the words hoe and hoes as data structures within the original script was an oversight ... [and part of syntax] borrowed from a Tinder auto-liker, which I used as a reference when learning to interact with the Tinder API programmatically. I regret this oversight, and the code has been corrected." Colianni also wrote that Tinder's API documentation has been widely available for years, allowing for numerous projects (on GitHub and otherwise) that make use of its accessible, massive base of user profiles.
+- For those concerned about privacy on Tinder and other social sites, however, the fundamental problems with the program remain. Os Keyes, a long-term data scientist, technology ethics commentator, and an incoming PhD at the University of Washington, was one of the first to call for the script's removal from GitHub, arguing that its destructive capabilities and implications far exceed the threat of merely having one's poolside photos show up on the wider web.
+- Keyes explained by email, "The theft of the photos--and that's what it was, because it happened in breach of both Tinder's terms of service and without the consent of the subjects--isn't as bad as it could have been. Were it paired with names, biographies and metadata it would have been far more damaging."
+- "That is not to say, however, that there isn't a very real potential for harm: many classes of individual, be they vulnerable people in societal environments where this kind of dating is verboten, trans or queer people who aren't out to their families, friends, and colleagues (but are [out] in the context of relationships), or simply people who would in other contexts be subject to shame or harassment for the behavior they choose to exhibit in photographs in a semi-closed space, are at various levels of risk."
+- Sean Rad, founder and chief executive officer of Tinder Inc., speaks during the TechCrunch Disrupt... [+] NYC conference on Tuesday, May 5, 2015. (Credit: Michael Nagle/Bloomberg)
+- Keyes noted that this kind of privacy breach "isn't a new problem," either. Rather, they said, "the combination of easier automated data access and greater enthusiasm for it is making more and more information that people assume to be semi-private, at risk of being publicized." At the same time, Keyes said, "There's a tendency in these situations to blame the subjects--to say, 'Well, it was on the internet, they should have expected this'--which is, frankly, a facile and offensive dodging of responsibility."
+- Rather, Keyes said, it's up to companies to take responsibility for how they protect and handle user data based on their work in two key areas. Firstly, companies need to take the time to "design for evil" when building their systems, Keyes said, by "deliberately gaming out ways that malicious or uncaring people could harm your users with what you have built." In the case of a semi-public API like Tinder's that is "obscure to customers" but easy for developers to tap into, a lack of care and consideration in planning the system is apparent, according to Keyes.
+- "And this isn't just a data breach thing," they added. "This lack of care and consideration is also responsible, for example, for online harassment in spaces like Twitter: a failure to consider what happens when users are there for unintended purposes. It's an industry-wide problem."
+- In addition, Keyes said, companies and the tech community alike have a responsibility to educate software developers and data scientists about "the ethical implications of their work," which the industry as a whole has been slow to do.
+- "Many data scientists and developers come to the field through unorthodox academic routes which simply have no use for human subjects training around digital data--say, from bioinformatics and physics," Keyes said. "Many others start off in software engineering, computer science, or data science, areas where universities or boot camps should care about ethical training but all-too-often don't."
+- Across the technology industry, however, Keyes has yet to "see many signs" that company leaders are taking those responsibilities and considerations seriously--meaning consumers shouldn't expect improvements anytime soon. "There are many brilliant people writing and thinking and advocating on it, but very few CEOs willing to listen," Keyes said. "I'm sorry to say that I think the Tinder breach is not merely a sequel to the OKCupid one, but a prequel to many, many more."
+- See also: Stalking App 'Facezam' Parodies Privacy Woes, But Not Everyone Is Laughing
+- Setting aside issues with privacy, Keyes also noted being "extremely concerned by the lack of thought and caution" behind the greater task for which the Tinder Face-Scraper was created.
+- "Building a 'genderizer'--particularly one designed to divide the world into male or female--is not an apolitical act, or an act without moral and ethical implications," Keyes said. "Notwithstanding the reinforcement of the (false) gender binary, such automated systems have pretty big implications for the well-being of transgender, non-binary and genderqueer people if they're actually implemented--or even just people who don't present in a stereotypically masculine or feminine way!"
+- "It's a tough enough experience being trans or non-conforming without someone building robots that call you out on it," they added.
+- According to Tinder, the app currently generates 1.6 billion swipes and 26 million matches per day, has matched users more than 20 billion times in over 190 countries to date, and leads to an impressive (if, apparently, quietly monitored) number of dates each week, or around 1.5 million on average.
+- Given their scope, it doesn't seem likely that Tinder's millions of users would want to be fitted into just two categories based on a breakdown of their facial structure, anyway--nor that they'd ultimately trust a robot, or a website, which does so.
+- 
+
+URL: https://www.huffpost.com/entry/40000-photo-tinder-sweep_n_59052818e4b0bb2d086f0335
+- Trends Reporter, HuffPost
+- Images of Tinder users posting their sexiest selfies were swept up in a massive grab of some 40,000 photos from the dating app.
+- The photos were sucked up days ago by a dataset collector who plans to use the selfies in artificial intelligence training, reports TechCrunch. They were taken from Tinder users from the San Francisco Bay Area and include 20,000 photos of men and 20,000 of women.
+- Tinder said in a statement that the photo sweeper “violated the terms of our service” and “we are taking appropriate action and investigating further.” Tinder did not detail what it’s doing.
+- Though the photo scrape was confined to Northern California this time, it serves as a reminder of the vulnerability of app posts, even those that may be embarrassingly intimate.
+- Dataset creator Stuart Colianni has uploaded his “Tinder Face Scraper” method on GitHub so others can do exactly what he did. He touts it as a “simple script that exploits the Tinder API [app programming interface] to allow a person to build a facial dataset.” Other Tinder scrapers on GitHub have collected other data, such as the name, birthday, bio, number of photos and last sign-in of users.
+- Colianni describes himself as a “data science enthusiast” on his page on Kaggle, a site for data science and machine learning. His collected photos were accessible for a time on Kaggle and had already been downloaded some 300 times as of Thursday, TechCrunch reports. Several of the photos highlighted body parts more than faces, and many were sexually suggestive.
+- Colianni noted on GitHub that he removed the photos from Kaggle, which was recently acquired by Google, following a request to do so from Tinder.
+- Colianni said he plans to use the photos to help train artificial neural networks to recognize male and female faces. He explained on GitHub that he turned to Tinder to create his dataset because it “gives you access to thousands of people within miles of you.”
+- “Why not leverage Tinder to build a better, larger facial dataset?” he asked.
+- It’s unclear whether Tinder users have strong legal protections from such a grab. The app’s terms of use grant Tinder the “worldwide, transferable, sub-licensable, royalty-free right and license to host, store, use, copy, display, reproduce, adapt, edit, publish, modify and distribute” their posted content. Colianni, however, is not part of Tinder.
+- Tinder’s statement seems a bit equivocal about privacy. It says the company takes the “security and privacy of our users seriously and have tools and systems in place to uphold the integrity of our platform,” including protections against photo scrapes. But it also adds: “The images that we serve are profile images, which are available to anyone swiping on the app.”
+- One final caveat for robotic neural networks out there: The dataset of Tinder faces could include an animal or two. The last male northern white rhino on earth joined Tinder earlier this month in his hunt for a mate.
+- Just swipe right.
+- Trends Reporter, HuffPost
+
+URL: https://www.dailymail.co.uk/sciencetech/article-4463808/Programmer-admits-scraping-40-000-photos-Tinder.html
+- By Stacy Liberatore For Dailymail.com
+- Updated:  16:34 EDT, 1 May 2017
+- 
+- 3
+- View  comments
+- 
+- While Tinder users have been analyzing profile pictures of potential dates, a programmer has been stealing them for artificial intelligence experiments focused on facial recognition.
+- Some 40,000 photos were scraped from the dating app, all of users in the San Francisco Bay area, by a member of Kaggle – a platform focused on machine learning that was recently acquired by Google.
+- The data set, named 'People of Tinder', consisted of six downloadable zip files and each housed about 10,000 profiles pictures in each.
+- Scroll down for video
+- Some 40,000 photos were scrapped from the dating app, all of users in the San Francisco Bay area, by a member of Kaggle – a platform focused on machine learning that was recently acquired by Google
+- Some 40,000 photos were scrapped from the dating app, all of users in the San Francisco Bay area, by a member of Kaggle.
+- The plan was to use photos in artificial intelligence research focusing on facial recognition.
+- The data set, named 'People of Tinder', consisted of six downloadable zip files and each housed about 10,000 profiles pictures in each.
+- The programmer took 20,000 images of men and 20,000 images of women, and organized them into different categories.
+- The categories include 'gayAndBiMale', 'straightAndBiFemale', 'female', 'male', 'tinderGet' and 'keepOffGithub'.
+- However, following the scrape, Kaggle had received a request from Tinder to remove the dataset and is no longer visible – users are now presented with a '404' when attempting to view the set.
+- TechCrunch has revealed that Stuart Colianni, the creator of the data set, released it under a CC0: Public Domain License and also uploaded his scraper script to GitHub.
+- He took 20,000 images of men and 20,000 images of women, and organized them into different categories.
+- The categories include 'gayAndBiMale', 'straightAndBiFemale', 'female', 'male', 'tinderGet' and 'keepOffGithub'.
+- Colianni explained that it is a 'simple script to scrape Tinder profile photos for the purpose of creating a facial dataset'.
+- 'Having worked with facial datasets in the past, I have often been disappointed,' he explained.
+- 'The datasets tend to be extremely strict in their structure, and are usually too small.'
+- 'Tinder gives you access to thousands of people within miles of you. Why not leverage Tinder to build a better, larger facial dataset?'
+- However, following the scrape, Kaggle had received a request from Tinder to remove the dataset and is no longer visible – users are now presented with a '404' when attempting to view the set.
+- Kaggle allows companies and researchers to post data and uses crowdsourcing competitions among experts to produce usable models.
+- 'We take the security and privacy of our users seriously and have tools and systems in place to uphold the integrity of our platform,' a Tinder spokesperson told DailyMail.com.
+- 'It's important to note that Tinder is free and used in more than 190 countries, and the images that we serve are profile images, which are available to anyone swiping on the app.'
+- The data set, named 'People of Tinder', consisted of six downloadable zip files and each housed about 10,000 profiles pictures in each. The programmer also used words such as 'hoes' and 'hoe' as points of reference in the code.
+- 'We are always working to improve the Tinder experience and continue to implement measures against the automated use of our API, which includes steps to deter and prevent scraping.'
+- 'This person has violated our terms of service (Sec. 11) and we are taking appropriate action and investigating further.'
+- The terms of service explains that 'You will not use any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, 'data mine', or in any way reproduce or circumvent the navigational structure or presentation of the Service or its contents'.
+- Although Colianni may have used the phrase 'People of Tinder' for the label of the dataset, he used words such as 'hoes' and 'hoe' as points of reference in the code.
+- 
+- Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.ibtimes.com/are-your-tinder-selfies-safe-someone-just-harvested-40000-research-2532415
+
+URL: https://www.wired.it/mobile/app/2017/05/03/ruba-40mila-foto-da-tinder-per-il-riconoscimento-facciale/
+- Diletta Parlangeli
+- "People of Tinder": sembra il titolo di un bel progetto fotografico, ma in realtà è il nome con il quale lo sviluppatore Stuart Colianni ha chiamato un dataset di decine di migliaia di foto di uomini e donne dell'app di dating. Foto rubate, per la precisione. Lo sviluppatore infatti, secondo quanto riportato, avrebbe sfruttato una backdoor dell'applicazione di incontri per portarsi a casa 40mila immagini prese dai profili per inserirli nella piattaforma di machine learning Kaggle (proprietà di Google) e divise in sei differenti archivi.
+- "Questo è un modo per sfruttare le API di Tinder per consentire a una persona di creare un archivio di immagini facciali", scrive Colianni: "Lavorando con data set da tempo, spesso in passato sono rimasto deluso per la rigidità della loro infrastruttura. Tinder invece fa accedere a migliaia di persone a miglia di distanza: perché non sfruttare questa risorsa per costruire un archivio facciale migliore e più grande?"
+- Al momento le foto sono già state rimosse dalla piattaforma — si dà il caso che rubare foto da una piattaforma e pubblicarle altrove comporti violazione della privacy — mentre le istruzioni sono ancora su Github. Lo script peraltro, come riporta The Next Web, non contiene lusinghiere (per usare un eufemismo) definizioni nei confronti delle vittime del furto su Tinder. Oltre il danno, la beffa.
+- di Matt Burgess
+- di Paolo Armelli
+- di Anna Lisa Bonfranceschi
+- di Kevin Carboni
+- di Luigi Mastrodonato
+- di Kevin Carboni
+- di Diletta Huyskes
+- SCOPRI LE ULTIME NOTIZIE
+- CONDÉ NAST ITALIA
+- © EDIZIONI CONDÉ NAST S.P.A. - PIAZZA CADORNA 5 - 20121 MILANO CAP.SOC. 2.700.000 EURO I.V. C.F E P.IVA REG.IMPRESE TRIB. MILANO N. 00834980153 SOCIETÀ CON SOCIO UNICO
+
+URL: https://www.reddit.com/r/datasets/comments/6z054s/people_of_tinder/
+- A place to share, find, and discuss Datasets.
+- The "people of tinder" dataset has been removed from kaggle and I can not find a download link somewhere else. Does anybody still have it and could upload it?
+
+- DukeMTMC facial recognition dataset
+- Stanford University Brainwash cafe facial recognition dataset
+- Page info Type: DataPublished: January 2023

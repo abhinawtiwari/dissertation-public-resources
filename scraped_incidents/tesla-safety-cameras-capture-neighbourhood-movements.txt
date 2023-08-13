@@ -1,0 +1,124 @@
+- Occurred: February 2023
+- Can you improve this page?Share your insights with us
+- Tesla has made changes to its vehicle security cameras after an Autoriteit Persoonsgegevens (Dutch Data Protection Authority) investigation into whether the car maker had violated the privacy of people coming close to its cars. Tesla's Sentry Mode uses four cameras continuously filming everything around a parked vehicle to protect it against theft and vandalism, with images saved for one hour in the car.
+- Since the investigation began, the Authority said Tesla had made changes to Sentry Mode, include making the cars' headlights flash to indicate to passers-by that filming has begun, and requiring approval from the car's owners in order to begin filming. Accordingly, the car's owners would be legally responsible for improper filming, the Authority said.
+- Operator: Tesla Developer: TeslaCountry: Netherlands Sector: Automotive Purpose: Strengthen security Technology: Camera; Sensor Issue: Privacy; SurveillanceTransparency: Governance
+- Tesla (2019). Sentry Mode: Guarding your Tesla
+- Tesla Vehicle Safety and Security Features - Sentry Mode
+- Dutch Data Protection Authority (2023). Tesla makes camera settings more privacy-friendly following DPA investigation
+URL: https://www.reuters.com/business/autos-transportation/dutch-watchdog-decides-against-fine-after-tesla-alters-security-cameras-2023-02-22/
+- AMSTERDAM, Feb 22 (Reuters) - The Dutch personal data watchdog said on Wednesday it would not fine Tesla Inc. (TSLA.O) over possible privacy violations after the U.S. carmaker made changes to vehicle security cameras.
+- Tesla uses such cameras in its cars to help owners protect them against theft or vandalism, but the Dutch Data Protection Authority (DPA) investigated them as a potential violation.
+- "Many Teslas parked on the street were often filming everyone who came near the vehicle, and these images were being saved for a very long time. If every car were to do that, we’d have a situation where no one could go anywhere in public without being watched," said DPA board member Katja Mur in a statement.
+- Tesla could not immediately be reached for comment.
+- The agency said Tesla had made changes to its "Sentry Mode" feature in which the cameras are activated since the DPA investigation began. These include the cars' headlights flashing to indicate to passers-by that filming has begun and requiring approval from the car's owners in order to begin filming.
+- Films are stored in the car, and not shared with Tesla, the DPA said.
+- The agency said as a result, the car's owners, rather than Tesla, would be legally responsible for improper filming.
+- "The DPA's investigation has not resulted in a fine or other sanction for Tesla," it said.
+- Our Standards: The Thomson Reuters Trust Principles.
+- Proxy adviser Institutional Shareholder Services (ISS) has recommended that shareholders of Toyota Motor Corp vote in favour of a resolution urging the automaker to improve disclosure of its lobbying related to climate change.
+- Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+- Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+- The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+- The industry leader for online information for tax, accounting and finance professionals.
+- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+- Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+- © 2023 Reuters. All rights reserved
+
+URL: https://gizmodo.com/tesla-security-cameras-privacy-evs-1850144793
+- The Dutch safety watchdog decided on Wednesday that it had concluded its investigation into Tesla and wouldn’t issue a fine against the company for its vehicle’s security cameras. The Dutch Data Protection Authority (DPA) carried out an investigation over concerns Tesla vehicles could be violating privacy laws with its security camera feature.
+- Tesla introduced cameras as a safety feature to protect owners’ cars against theft. When the vehicle is parked, the security camera will automatically turn on when it senses a threat or someone walking too close to the car.
+- While the feature may seem invaluable to the car owner, the Dutch watchdog said this could pose a threat to passersby who are unwillingly being recorded. The system could keep the footage for a lengthy period of time, which prompted the watchdog to issue an investigation.
+- “Many Teslas parked on the street were often filming everyone who came near the vehicle, and these images were being saved for a very long time. If every car were to do that, we’d have a situation where no one could go anywhere in public without being watched,” DPA board member Katja Mur said in a statement to Reuters.
+- Tesla backtracked on how the feature is used following the DPA’s investigation by requiring the owner to approve the camera to record and alert people that the camera turned on by flashing its headlights. The agency said because of the changes to its “Sentry Mode” feature, it “has not resulted in a fine or other sanction for Tesla,” Reuters reported.
+- Tesla did not immediately respond to Gizmodo’s request for comment.
+- The DPA said in light of Tesla’s security camera change requiring owners to take responsibility for filming, those who retain ownership of the vehicle could be charged for improper or excessive filming. Tesla also warns owners on its website that they are liable if they breach local privacy laws.
+- The site says, “It is your [the owner’s] sole responsibility to consult and comply with all local regulations and property restrictions regarding the use of cameras.” The security camera feature is only available on Model Y, Model S, Model X, and Model 3 vehicles and the site says it can be disabled through the settings on the in-car touchscreen.
+
+URL: https://gizmodo.com/tesla-cars-will-now-spy-on-you-to-make-sure-you-don-t-a-1846991543
+- In an effort to assuage fears about the dangers inherent in its autopilot system, Tesla has announced that the in-cabin cameras in its Model 3 and Y vehicles will now monitor drivers for “attentiveness” while the feature is turned on, TechCrunch reports.
+- The cameras in question are located above the rearview mirror and, when engaged, are already used in a limited capacity by the company to record and store data about “safety events,” i.e., fender-benders or worse. Now, however, they’ll automatically turn on whenever drivers initiate the car’s advanced driver assistance system. The changes, announced in a recent software update, will also get the car to yell at you if it thinks you’re not paying enough attention, says TechCrunch, citing online reports from multiple Tesla owners who’ve begun to receive the update.
+- This switch-up definitely makes sense, since Tesla’s autopilot feature has gotten it into some hot water over the last several years. While Tesla makes it clear that autopilot is “not a self-driving system” and is designed for a “fully attentive driver who has their hands on the wheel and is prepared to take over at any time,” the feature has nevertheless been abused and misused repeatedly—leading to a number of crashes, including  fatal ones.
+- Now, in what seems like an effort to avoid more episodes like the one involving this raving maniac, the company is clamping down by making sure that you’re still, like, sitting upright and looking at the road while autopilot is turned on. If you have somehow fallen asleep at the wheel, the car will send you an alert.
+- “The cabin camera above your rearview mirror can now detect and alert driver inattentiveness while Autopilot is engaged. Camera data does not leave the car itself, which means the system cannot save or transmit information unless data sharing is enabled,” the company told drivers in a statement, clearly trying to assuage privacy fears.
+- While improving safety, this is also probably liability limiting for Tesla so that, in the event of a crash, the cameras can verify that it was the driver’s fault, not some rogue AI insurrection a la HAL from 2001: A Space Odyssey.
+- Telsa shut down its press department recently, so there’s no one to ask for comment.
+
+URL: https://iapp.org/news/a/netherlands-dpa-investigation-prompts-changes-to-tesla-security-cameras/
+- The day’s top stories from around the world
+- Where the real conversations in privacy happen
+- Original reporting and feature articles on the latest privacy developments
+- Alerts and legal analysis of legislative trends
+- Exploring the technology of privacy
+- A roundup of the top Canadian privacy news
+- A roundup of the top European data protection news
+- A roundup of the top privacy news from the Asia-Pacific region
+- A roundup of the top privacy news from Latin America
+- A roundup of US privacy news
+- Talk privacy and network with local members at IAPP KnowledgeNet Chapter meetings, taking place worldwide.
+- Have ideas? Need advice? Subscribe to the Privacy List. It’s crowdsourcing, with an exceptional crowd.
+- Looking for a new challenge, or need to hire your next privacy pro? The IAPP Job Board is the answer.
+- Locate and network with fellow privacy professionals using this peer-to-peer directory.
+- Review a filterable list of conferences, KnowledgeNets, LinkedIn Live broadcasts, networking events, web conferences and more.
+- Understand Europe’s framework of laws, regulations and policies, most significantly the GDPR.
+- Steer a course through the interconnected web of federal and state laws governing U.S. data privacy.
+- Learn the intricacies of Canada’s distinctive federal/provincial/territorial data privacy governance systems.
+- Develop the skills to design, build and operate a comprehensive data protection program.
+- Add to your tech knowledge with deep training in privacy-enhancing technologies and how to deploy them.
+- Introductory training that builds organizations of professionals with working privacy knowledge.
+- Learn the legal, operational and compliance requirements of the EU regulation and its global influence.
+- Meet the stringent requirements to earn this American Bar Association-certified designation.
+- The global standard for the go-to person for privacy laws, regulations and frameworks
+- The first and only privacy certification for professionals who manage day-to-day operations
+- As technology professionals take on greater privacy responsibilities, our updated certification is keeping pace with 50% new content covering the latest developments.
+- Recognizing the advanced knowledge and issue-spotting skills a privacy pro must attain in today’s complex world of data privacy.
+- The first title to verify you meet stringent requirements for knowledge, skill, proficiency and ethics in privacy law, and one of the ABA’s newest accredited specialties.
+- The IAPP’S CIPP/E and CIPM are the ANSI/ISO-accredited, industry-recognized combination for GDPR readiness. Learn more today.
+- Mostre seus conhecimentos na gestão do programa de privacidade e na legislação brasileira sobre privacidade.
+- Certification des compétences du DPO fondée sur la législation et règlementation française et européenne, agréée par la CNIL.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources covering AI connections to the privacy space.
+- This report explores the state of AI governance in organizations and its overlap with privacy management.
+- This report explores the compensation, both financial and nonfinancial, offered to privacy professionals.
+- This report shines a light on what consumers around the globe think about privacy and the companies that collect, hold and use their data.
+- This year’s governance report goes back to the foundations of governance, exploring “the way that organizations are managed, and the systems for doing this."
+- The IAPP’s US State Privacy Legislation Tracker consists of proposed and enacted comprehensive state privacy bills from across the U.S.
+- On this topic page, you can find the IAPP’s collection of coverage, analysis and resources related to international data transfers.
+- IAPP members can get up-to-date information here on the California Consumer Privacy Act and the California Privacy Rights Act.
+- Access all reports and surveys published by the IAPP.
+- Use the Vendor Demo Center, Privacy Vendor List and Privacy Tech Vendor Report to easily identify privacy products and services to support your work.
+- Leaders from across the country’s privacy field deliver insights, discuss trends, offer predictions and share best practices.
+- Hear expert speakers address the latest developments in data protection globally and in the Netherlands.
+- Hear top experts discuss global privacy issues and regulations affecting business across Asia.
+- Join top experts for practical discussions of issues and solutions for data protection in the DACH region.
+- P.S.R. 2023 is the place for speakers, workshops and networking focused on the intersection of privacy and technology.
+- Europe’s top experts predict the evolving landscape and give insights into best practices for your privacy operation.
+- Explore the full range of U.K. data protection issues, from global policy to daily operational details.
+- Expand your network and expertise at the world’s top privacy event featuring A-list keynotes and high-profile experts.
+- View our open calls and submission instructions.
+- Increase visibility for your organization — check out sponsorship opportunities today.
+- Start taking advantage of the many IAPP member benefits today
+- See our list of high-profile corporate members—and find out why you should become one, too
+- Don’t miss out for a minute—continue accessing your benefits
+- 
+- If you want to comment on this post, you need to login.
+- The IAPP is the largest and most comprehensive global information privacy community and resource. Founded in 2000, the IAPP is a not-for-profit organization that helps define, promote and improve the privacy profession globally.
+- The IAPP is the only place you’ll find a comprehensive body of resources, knowledge and experts to help you navigate the complex landscape of today’s data-driven world. We offer individual, corporate and group memberships, and all members have access to an extensive array of benefits.
+- © 2023 International Association of Privacy Professionals.All rights reserved.
+- Pease International Tradeport, 75 Rochester Ave.Portsmouth, NH 03801 USA • +1 603.427.9200
+
+URL: https://nltimes.nl/2023/02/22/tesla-makes-sentry-mode-privacy-friendly-dutch-investigation
+- An investigation by authorities in the Netherlands prompted electric car manufacturer Tesla to reduce the period of time in which video footage captured by their parked vehicles’ external cameras is stored. Additionally, the cameras will no longer record footage by default, the Dutch Date Protection Authority (DPA) said on Wednesday.
+- “The DPA conducted an investigation into the Sentry Mode in Tesla vehicles. This is a feature intended to protect the vehicles against theft and vandalism, among other things. It does this by recording images using four external cameras on the vehicle,” the DPA said.
+- “When Sentry Mode was enabled, the cameras continuously filmed everything around the parked vehicle, and these images were saved for one hour,” the DPA continued. “And if a user does turn them on, no more than the last 10 minutes of footage is saved.” The cameras will be disabled by default once software updates are applied. If a Tesla is touched while in Sentry Mode, it can send a notification to the vehicle owner, who can then turn the cameras on and record footage.
+- The DPA said that it makes the vehicles more “privacy-friendly,” as Tesla models parked on the street often filmed anything and everyone who came in close proximity to a vehicle. Additionally, the images were stored for an extended period of time. “If every car were to do that, we’d have a situation where no one could go anywhere in public without being watched,” said DPA board member Katja Mur.
+- “If a person parked one of these vehicles in front of someone’s window, they could spy inside and see everything the other person was doing. That is a serious violation of privacy.”
+- When Tesla cameras are recording, a message stating this may be displayed on the vehicle’s touchscreen as a public warning. Additionally, the headlights can pulse as an alert. Video is stored at the vehicle, and not shared with Tesla.
+- From now on, the cameras are off by default. If someone touches the car, the owner will receive a notification on his or her phone. Then the cameras can be turned on. They then store a maximum of 10 minutes of images.
+- The car manufacturer will not be fined by the Dutch DPA as the vehicle owners are legally responsible for the recordings caught by their car’s cameras. “Tesla has also reduced the risk of the owners of its cars violating the law by illegally filming people,” Mur said.
+- © 2012-2023, NL Times, All rights reserved.
+
+- Tesla Smart Summon private jet crash
+- Tesla phantom braking
+- Page infoType: IncidentPublished: March 2023

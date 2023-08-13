@@ -1,0 +1,138 @@
+- Released: August 2021
+- Can you improve this page?Share your insights with us
+- DeepFaceLive is an open-source tool released in August 2021 that enables users to swap their faces with other people in real-time on Skype, Zoom, Twitch and other video-based streaming and messaging systems.
+- As noted by the DailyDot, DeepFaceLive is proving popular with TikTok users and content creators for a range of purposes, including transforming themselves into celebrities.
+- However, the ease with which DeepFaceLive can be made to spoof biometric systems, commit fraud, create revenge porn, concoct and disseminate misinformation and disinformation, and other forms of misuse and abuse, is also drawing flak.
+- DeepFaceLive was created by secretive Russian developer Ivan Petrov (aka 'Iperov'). Petrov has also been credited with helping develop DeepFaceLab, the most widely used open-source tool for creating deepfakes.
+- Operator: DeepFaceLive Developer: Ivan Petrov Country: RussiaSector: Technology Purpose: Transform identity Technology: Deepfake - video; Generative adversarial network (GAN); Neural network; Deep learning; Machine learning  Issue: Privacy; Ethics; Dual/multi-use; Mis/disinformation Transparency: Governance
+- DeepFaceLive GitHub repository
+- DeepFaceLive Discord server
+- DeepFaceLab GitHub repository
+URL: https://www.dailydot.com/debug/deepfacelive-deepfake-live-streaming/
+
+URL: https://www.unite.ai/real-time-deepfake-streaming-with-deepfacelive/
+- By
+- The world’s most-used deepfake software, and the one most strongly associated with deepfake porn, is getting a new implementation – the ability to superimpose deepfakes of a celebrity likeness into live webcam footage.
+- The open source repository DeepFaceLive is a Windows 10 application built on the foundations of DeepFaceLab, which quickly became the leading resource for porn-based face-swapping after the creator of the original deepfake software abandoned the project shortly after the advent of deepfaking created worldwide controversy in 2018. Both projects list the forum section of deepfake porn site mrdeepfakes as an official support resource.
+- In a video of the DeepFaceLive interface released by developer Ivan Petrov in April, we see downloaded footage of impersonator Miles Fisher being transformed into Tom Cruise in real time. Source: https://martinanderson.substack.com/p/real-time-deepfake-streaming-is-apparently
+- Yesterday the lead on both projects, Russian developer Ivan Petrov, announced a new version of DeepFaceLive on the project’s Discord group, noting that DeepFaceLive now incorporates a trained model of actress Margot Robbie, a frequent subject of pornographic videos at mrdeepfakes.
+- Four sample video clips have been uploaded to demonstrate the ability of DeepFaceLive to attach the Robbie identity to any speaker in a webcam feed.
+- One of the Margot Robbie demonstrations of live deepfaking. Source: https://github.com/iperov/DeepFaceLive/tree/master/doc/celebs/Margot_Robbie
+- The Robbie transformation videos were originally shared on Twitch, but subsequently deleted.
+- The three other examples of faceswapping provided by DeepFaceLive. The requirement for an approximate face match with the target subject is still in evidence. In the bottom left image we see that the software cannot effectively mask obstructions, as can be achieved in DeepFaceLab, since this requires training masks in the XSeg application of DeepFaceLab, a method that can’t be applied to real-time faking.
+- An additional default model, of British comedian and actor Rowan Atkinson, is promised to be made available for DeepFaceLive soon. Originally the DeepFaceLive repository featured a CELEB_MODEL category, where it was possible to download other celebrities, including Tom Cruise, as Open Neural Network Exchange (.onnx) files, though these directories have since been deleted.
+- Tom Cruise was an incorporated identity for a DeepFaceLive beta back in April of 2021, but has since apparently been removed as a default in the package. However, the model can be downloaded and installed, along with trained models from many other celebrities, and custom models trained by end users.
+- DeepFaceLive runs exclusively as a Windows 10 application, and is reported by one user to work well with NVIDIA’s live streaming Broadcast application.
+- Users do not need to go through the laborious process of gathering face material for a dataset, followed by the 3-10 days necessary to obtain a very good match, since the FAQ for DeepFaceLive states that it can use off the shelf ‘public face models’ that have already been compiled by other creators. In effect, the largest source of such models is the Forum-Trained Models (archive link) thread at the mrdeepfakes porn site, which can be seen in use by one Russian end-user in a recent YouTube video.
+- Vladislav Pedro using DeepFaceLive to transform himself into Tom Cruise in real time. The model he loads in the video is hosted at mrdeepfakes, and has been used until now for offline deepfake processing. Source: https://www.youtube.com/watch?v=0TcCKtObSnI
+- Though the best results will be obtained by training the end-user’s face against the target celebrity, the quality of the simulation seems to be in direct proportion to how closely the end user resembles the target. When the user is relatively well-fitted to the celebrity, a convincing result can be obtained.
+- As is evident in the last three Margot Robbie swaps in the images above, the software can’t perform miracles where the end-user’s face has radically different general characteristics. However, DeepFaceLab can also perform entire head swaps, a process which completely overwrites the source head, albeit with limitations in regard to hairstyles. Comments on the Discord server confirm that these can also be implemented in DeepFaceLive.
+- DeepFaceLive currently supports only NVIDIA GPUs, with the GTX 750 the lowest hardware that can obtain a reasonable result with the application. On a graphics card with 4GB of VRAM, it also requires 32GB of swap disk space.
+- Training the Margot Robbie model – an image posted at the DeepFaceLab/DeepFaceLive Discord by Ivan Petrov. Here we see that the source dataset is extremely diverse, apparently with the intent of creating a robust and well-generalized model that can transform a wide range of facial types into the image of the Australian actress. Most ‘A’ sets are usually of a single individual.
+- Users report that DeepFaceLive is extremely demanding in terms of hardware resources, but Petrov has responded to this by asserting that DeepFaceLive is intended for well-specced PCs in an indoor environment.
+- The DeepFaceLab GitHub has been forked over 6,000 times, while the new DeepFaceLive currently has 85 forks.
+- Commenters in a thread (Russian language) at Russian social site VK.com speculate on the possible uses of DeepFaceLive, and seem to have discerned all the likely applications for the software: as an ‘anonymization’ or recreational filter in Zoom and similar applications; as a means for committing fraud or deceiving the person watching the live stream; and – perhaps most likely, in light of the software’s provenance and user-base – as a means of implementing celebrity-focused webcam-based sex work (see image at end of article).
+- The possibility of ‘deepfake cam girls’ emerged in the media a couple of years ago. In 2020 the Avatarify app announced deepfake celebrity webcam functionality, but at a quality significantly lower than the standard set by DeepFaceLab, which is now the repository of choice for recent headline-grabbing Tom Cruise deepfaker Chris Ume, as well as high-level film and TV production companies around the world.
+- DeepFaceLab, the seed application for DeepFaceLive and the reported (Russian language) framework for 95% of all the deepfakes on YouTube, is also the software used by Shamook, the deepfaker whose extraordinary work on improving Luke Skywalker’s guest appearance in The Mandalorian recently inspired Lucasfilm to hire him as a VFX consultant.
+- The methodology of deepfake software such as DeepFaceLab and FaceSwap is well-served by a typical webcam environment, and removes many of the obstacles to authenticity that can still plague off-line deepfakes.
+- For instance, deepfakes perform less convincingly when the user turns to profile (or looks up), moves rapidly, or is subject to scene changes or sudden changes of lighting.
+- Therefore the ‘static’ nature of a typical Zoom call or webcam plays to the strengths of the software. Many of the most revered examples of deepfake trickery over the past three years have featured speakers facing the camera directly and moving very little in a constrained environment, such as the imposition of Steve Buscemi onto Jennifer Lawrence at an Oscar speech, and the transformation of various ‘to camera’ political broadcasts.
+- Arguably the most likely use of the default Margot Robbie model included in DeepFaceLive – a cam implementation test video published on the DeepFaceLab Discord by Russian user ‘NoFace’.
+- 
+- Amended 8:52pm 7th August – Corrected surname. Amended 8:30pm 8th August – added images from Discord.
+- Digital Avatars Could Cut Costs for Businesses, Paper Finds
+- LumenVox Launches Next-Generation Automatic Speech Recognition Engine
+- Writer on machine learning, artificial intelligence and big data.
+Personal site:  martinanderson.ai Contact:  [email protected] Twitter: @manders_ai
+- DevSecOps – Everything You Need to Know
+- NVIDIA’s eDiffi Diffusion Model Allows ‘Painting With Words’ and More
+- GOTCHA– A CAPTCHA System for Live Deepfakes
+- Deepfake Detectors Pursue New Ground: Latent Diffusion Models and GANs
+- Creating Full Body Deepfakes by Combining Multiple NeRFs
+- How Stable Diffusion Could Develop as a Mainstream Consumer Product
+- Advertiser Disclosure: Unite.AI is committed to rigorous editorial standards to provide our readers with accurate information and news. We may receive compensation when you click on links to products we reviewed.
+- Copyright © 2023 Unite.AI
+
+URL: https://wonderfulengineering.com/this-new-deepfake-tool-can-transforms-livestreamers-into-someone-else-in-real-time-and-the-results-are-eerie/
+- Have you seen Barack Obama call Donald Trump a “complete dipshit,” or Mark Zuckerberg boast about having “total control of billions of people’s stolen data,” or Jon Snow apologise for Game of Thrones’ disappointing ending? If yes, then you’ve witnessed a deepfake.
+- Deepfake technology, the twenty-first century’s answer to Photoshopping, can flawlessly stitch anyone into a video or photo in which they never actually participated using new automatic computer graphics or machine-learning algorithms.
+- DeepFaceLive now allows you to alter your face into someone else’s via video conferencing and streaming platforms. It was designed by an online developer known as Iperov. Streamers have already begun using the feature on sites such as Twitch, according to Russian YouTuber Vladislav Pedro.
+- “DeepFaceLive has a lot of potential,” Pedro said to The Daily Dot. “This software can be used by both streamers and creators of any other media content.”
+- DeepFaceLive is a new open-source deepfake software that allows you to transform your face in real time over video conference platforms like Zoom. Here a Russian TikToker uses the tool to turn himself into Arnold Schwarzenegger. pic.twitter.com/7uoMmQ4OOJ
+- As exciting as it may sound, it raises a slew of complicated ethical and potentially criminal consequences. After all, in the wrong hands, an instrument that lets you seem like anyone else might be quite harmful.
+- “Many will see DeepFaceLive as a fun tool for Twitch live streaming or absurd TikTok videos, but my research on deepfakes has consistently shown there are many others who will be looking to misuse it,” Henry Adjer, the head of communications and research analysis at AI technology company Deeptrace, said to the Daily Dot.
+- “This could range from adult streamers ‘wearing’ celebrities’ faces without consent to biometric spoofings such as fooling facial recognition and liveness detection systems,” he added.
+- While it’s entertaining to pretend to be Arnold Schwarzenegger or Tom Cruise for TikTok videos, deepfake technology carries a major risk. Without a doubt, as it becomes more sophisticated, we will see more and more bad actors emerge from the shadows.
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- 
+- Notify me of follow-up comments by email.
+- Notify me of new posts by email.
+- 
+- Copyright © 2023 Wonderful Engineering. All Rights Reserved.
+
+URL: https://futurism.com/the-byte/deepfake-livestreamers-real-time
+- Deepfake technology is shockingly sophisticated, allowing companies to create advertising clones, countries to imitate political rivals, and turn 50-year-old men into attractive young women. Now, livestreamers are using a new deepfake software to change their face in real time.
+- DeepFaceLive is an open-source AI software that can transform your face into someone else’s on video conferencing and streaming platforms, according to The Daily Dot. It was created by a developer known online as Iperov. Russian YouTuber Vladislav Pedro said that streamers have already started using the tool on sites like Twitch.
+- "DeepFaceLive has a lot of potential," Pedro said to The Daily Dot. "This software can be used by both streamers and creators of any other media content."
+- Here’s a solid example of DeepFaceLive in action from a TikToker impersonating the Terminator.
+- DeepFaceLive is a new open-source deepfake software that allows you to transform your face in real time over video conference platforms like Zoom. Here a Russian TikToker uses the tool to turn himself into Arnold Schwarzenegger. pic.twitter.com/7uoMmQ4OOJ
+- — Tony Ho Tran (@TonyHoWasHere) September 12, 2021
+- 
+- Of course, this dredges up a whole host of messy ethical — and potentially criminal — implications. After all, a tool that allows you to look like anyone else can be incredibly dangerous in the wrong hands.
+- "Many will see DeepFaceLive as a fun tool for Twitch livestreaming or absurd TikTok videos, but my research on deepfakes has consistently shown there are many others who will be looking to misuse it," Henry Adjer, the head of communications and research analysis at AI technology company Deeptrace, said to the Daily Dot.
+- He continued, "This could range from adult streamers 'wearing' celebrities’ faces without consent, to biometric spoofing such as fooling facial recognition and liveness detection systems."
+- So while it’s fun to pretend you’re Arnold Schwarzenegger or Tom Cruise for TikTok content, there’s a serious risk that comes with deepfake tech. No doubt as it gets more sophisticated, we’ll see more and more bad actors come out of the woodwork.
+- READ MORE: Real-time deepfakes could bring chaos to your next Zoom call [The Daily Dot]
+- More on deepfakes: Company Wants to Make Deepfake Advertising Clones of Your Face
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://mixed.de/deepfacelive-bringt-deepfakes-in-live-video-streams/
+- THE-DECODER.de
+- Künstliche Intelligenz: News, Business, Forschung
+- Mit DeepFaceLive können sich Nutzer und Nutzerinnen während eines Live-Streams oder in Video-Calls ein anderes Gesicht aufziehen. Das kann täuschend echt wirken.
+- DeepFaceLive für Windows 10 setzt auf der bislang erfolgreichsten Deepfake-Anwendung DeepFaceLab 2.0 auf. Mit dem KI-Modell von DeepFaceLab 2.0 können Nutzer:innen eigene Algorithmen trainieren für einen individuellen Gesichtertausch. Je länger das KI-Training läuft und umso mehr Gesichtsdaten der Algorithmus sieht, desto besser das Ergebnis.
+- Ein Hauptakteur hinter DeepFaceLab ist der russische Entwickler Ivan Petrov. Von ihm stammt auch die Live-Implementierung des KI-Modells in DeepFaceLive. Beide Programme sind als Open Source bei Github frei verfügbar und werden von der Community weiterentwickelt.
+- DeepFaceLive kommt mit einigen vortrainierten Algorithmen für den Gesichtertausch. Mitgeliefert wird das der US-Schauspielerin Margot Robbie, die seit dem Aufkommen der Technologie Opfer von Deepfakes ist.
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+- Die Entwickelnden stellen ein Update mit dem britischen Komiker Rowan Atkinson in Aussicht, die ohnehin äußerst beliebte Deepfake-Vorlage Tom Cruise wurde ebenfalls schon gesehen. Ein Arnold Schwarzenegger-Deepfake ist bereits bei TikTok aktiv.
+- Weitere mit Gesichtern berühmter Persönlichkeiten vortrainierte Algorithmen tauschen DeepFaceLive-Nutzer:innen in Foren oder bei Discord aus. Das Gesichtertraining läuft über DeepFaceLab 2.0 (Anleitung).
+- Ein junger Mann wird per Live-Deepfake zu einem Abbild von Margot Robbie. | Video: Github
+- Für einen besseren Gesichtertauscheffekt kann der DeepFaceLive-Algorithmus mit dem eigenen Gesicht trainiert werden. Generell gelingt die Täuschung jedoch am besten, wenn das Originalgesicht in Grundzügen schon eine Ähnlichkeit zum Tauschgesicht aufweist.
+- In jedem Fall benötigt DeepFaceLive für das Echtzeit-Rendering einen schnellen Rechner, schneller noch als DeepFaceLab, aber keinen Supercomputer. Ein gut ausgerüsteter, aktueller Gaming-PC sollte reichen.
+- Ein Anwendungsszenario für DeepFaceLive sind Live-Streams bei Twitch und Co. – Streamer könnten als fremde Person im eigenen Live-Stream auftreten, etwa um ihre wahre Identität zu verschleiern oder für die Unterhaltung.
+- Das folgende Bild veranschaulicht den Gesichtertausch erneut am Beispiel von Margot Robbie: Der Live-Deepfake ist qualitativ schlechter als herkömmliche Deepfakes, weil Effekte wie Maskierung noch nicht verfügbar sind. Auf dem letzten Bild ragt daher das Mikrofon in die Wange. Unter optimalen Bedingungen (Licht, Kamerawinkel, wenig Bewegung) kann aber auch der Live-Deepfake schon täuschend echt wirken.
+- Der Live-Gesichertausch könnte auch bei Streams mit pornografischen Inhalten eingesetzt werden, zum Beispiel für einschlägige Webcam-Angebote. Hier könnten Echtzeit-Deepfakes Schaden für die Personen anrichten, denen das Deepfake-Gesicht im echten Leben gehört: Sie würden in pornografischen Inhalten gesehen, an denen sie nie beteiligt waren.
+- Dieses Szenario ist bereits von herkömmlichen Deepfakes bekannt, bei DeepFaceLive kommt zusätzlich der Live-Faktor hinzu, der aber womöglich eher entlastend wirkt: Das Live-Video ist (derzeit noch) leichter als Fälschung erkennbar als ein vorgerendeter Deepfake.
+- Außerdem öffnet DeepFaceLive betrügerischen Video-Anrufen Tür und Tor, wenn sich Kriminelle etwa das Gesicht von Firmenchefs anziehen, in der Buchhaltung durchklingeln und eine schnelle Überweisung einfordern. Ähnliche Fälle gab es schon mit Audio-Deepfakes – das visuelle Element könnte die Überzeugungskraft solcher Betrugsversuche stärken.
+- Noch sind Live-Deepfakes dafür technisch nicht ausgereift genug, allerdings ist die Deepfake-Entwicklung der letzten Jahre derart rasant, dass das beschriebene Szenario keine Science-Fiction ist. Das folgende Video zeigt die Installation und Anwendung von DeepFaceLive.
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+- Prüfen Sie Ihren Posteingang oder Spam-Ordner, um Ihr Abonnement zu bestätigen.
+- 
+
+URL: https://trashbox.ru/link/2021-07-24-deepfacelive-real-time-face-swap-release-
+- Разработчик под ником iperov опубликовал на портале GitHub новую программу для создания дипфейков. Нейросеть DeepFaceLive подменяет лицо пользователя в видеозаписи на несуществующую модель и может работать в режиме реального времени. Проект создан на основе популярного искусственного интеллекта DeepFaceLab от того же автора, а для его использования не требуются знания определённых технологий или особая подкованность — инструкция по установке очень простая.
+- DeepFaceLive накладывает дипфейк на человека в кадре как в прямых трансляциях, так и в видеоконференциях (например, в Zoom). В качестве дипфейка может быть установлен знаменитый актёр или собственный уникальный образ, созданный с помощью DeepFaceLab. По заверению разработчика, 95% существующих дипфейков, опубликованных на YouTube, созданы именно через DeepFaceLab.
+- Минимальные системные требования для качественной работы DeepFaceLive включают 64-разрядную версию Windows 10, 4 ГБ оперативной памяти и не менее 32 ГБ свободной памяти на накопителе. Видеокарты AMD не поддерживаются, поэтому программа совместима только с NVIDIA GeForce GTX 750 или выше. Процессор должен поддерживать AVX-инструкции. Также рекомендованы последние версии графических драйверов.
+- Открытый исходный код DeepFaceLive, загрузка программы и инструкция по установке доступны на странице проекта.
+- Материалы по теме: Настоящий ИИ появится на 13 лет раньше — в 2029. По каким критериям его признаютGPT-3 — одна из продвинутейших нейросетей. Что она умеет и почему ей далеко до настоящего ИИ
+
+URL: https://www.webtekno.com/yayincilar-yuzunu-cekim-sirasinda-degistiren-deepfacelive-h114782.html
+- Birçok sağlık, güvenlik ve eğlence gibi birçok alanda her geçen yıl işimizi daha da kolaylaştıran yapay zeka teknolojisi illa yararlı şeyler için kullanılacak diye bir şey yok. Bu teknolojinin nimetlerinden faydalanan geliştiriciler, deepfake adı verilen olayın temellerini uzun zaman önce attı. Deepfake teknolojisini kullanarak üretilen bir program ise son zamanlarda özellikle internet yayıncılarının ilgisi altında.
+- DeepFaceLive adı verilen yeni bir program, Twitch ve benzeri mecralarda yayın yapanların son günlerde edindiği en büyük eğlence kaynaklarından biri olmuş durumda. Bu araç sayesinde yayıncılar suratlarına herhangi bir başka suratı mükemmel bir şekilde yerleştirebiliyor; başka insanlarmış gibi konuşabiliyorlar.
+- 
+- DeepFaceLive, yayın anında kamera karşısındaki kişinin yüzünü başka bir yüzle çekim anında değiştiren bir açık kaynaklı yapay zeka yazılımı. Bu yazılımı yaratan kişi ise internette Iperov adıyla bilinen bir yazılımcı. Yazılımın kullanımı henüz yaygın değil, ancak her geçen gün daha çok tanınıyor. Yayıncılar bu yeni ürünü kullanmayı öğrenmesi biraz sürebilir, ancak görünüşe bakılırsa DeepFaceLive yakında çığ gibi büyüyerek bir trend haline gelecek.
+- İLGİLİ HABER
+Beklenen Somut Hareket Geldi: Twitch, Yayıncılara Saçma Sapan Laflar Söylemek İçin Sohbete Bot Atan Kullanıcılara Dava Açtı
+- Deepfake ile uğraşan Rus YouTuber Vladislav Pedro’nun ifadelerine göre birçok yayıncı yazılımı kullanmaya başladı bile. Geçtiğimiz günlerde bir yayıncı, bir yabancıyla yaptığı video görüşme sırasında kendini Arnold Schwarzenegger’e çevirdi. “DeepFaceLive’de potansiyel var” diyen Pedro, “Bu yazılım hem yayıncılar, hem de herhangi bir mecrada içerik üretenler tarafından kullanılabilir.” dedi
+
+- ZAO face swapping
+- Deepsukebe nonconsensual nudification
+- Page infoType: System Published: September 2021Last updated: October 2022

@@ -1,0 +1,147 @@
+- Occurred: November 2015
+- Can you improve this page?Share your insights with us
+- Reddit has announced it is replacing the controversial practice of shadowbanning its users with the suspension of their accounts, with users being notified via email and on the website why they have been suspended and for how long. When shadowbanned, users could only see their own content, were not informed that they were banned, and had to go through an opaque and largely unstructured appeals process.
+- Operator: Reddit Developer: Reddit Country: USA Sector: Technology Purpose: Block/reduce user visibility Technology: Algorithmic content moderation Issue: Fairness; Freedom of expression - censorship; Harassment Transparency: Governance; Black box
+URL: https://www.reddit.com/r/announcements/comments/3sbrro/account_suspensions_a_transparent_alternative_to/
+- Reddit and its partners use cookies and similar technologies to provide you with a better experience.
+- By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising.
+- By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.
+- For more information, please see our
+              Cookie Notice
+              and our
+              Privacy Policy.
+- Official announcements from Reddit, Inc.
+- Today we’re rolling out a new type of account restriction called suspensions.  Suspensions will replace shadowbans for the vast majority of real humans and increase transparency when handling users who violate Reddit’s content policy.
+- Suspensions can only be applied to accounts by the Reddit admins (not moderators).
+- Suspended accounts will always receive a notification about the suspension including reason and the duration:
+- See example notification PM - Sent to user account from r/reddit.com
+- See example on-page notification - Shown on pages while an account is suspended
+- Suspended users can reply to the notification PM to appeal their suspension
+- Suspensions can be temporary or permanent, depending on the severity of infraction and the user’s previous infractions.
+- Suspended users effectively have their account put into read-only mode.  The primary actions they will not be able to perform are:
+- Voting
+- Submitting posts
+- Commenting
+- Sending private messages
+- Moderators who have been suspended will not be able to perform any mod actions or access modmail while the suspension is in effect.
+- You can see the full list of forbidden actions for suspended users here.
+- Users in both temporary and permanent suspensions will always be able to delete/edit their posts and comments as usual.
+- Users browsing on a desktop version of the site will see a pop-up notice or notification page anytime they try and perform an action they are forbidden from doing.  App users will receive an error depending on how each app developer chooses to indicate the status of suspended accounts.
+- Visiting the user page of an account that has been permanently suspended will indicate that the account has been suspended and will not display any other data.
+- Visiting the user page of an account that has been temporarily suspended will not give any indication that the account is currently suspended.
+- In addition to this, we have also updated user pages for deleted accounts to clearly display that the account in question was deleted by the user.
+- Our current form of account restriction, the shadowban, is great for dealing with bots/spam rings but woefully inadequate for real human beings.  We think suspensions are a vast improvement.
+- Suspensions inform people when they’ve broken the rules.  While this seems like a no-brainer, this helps so we can identify the specific behavior that caused the suspension.
+- Users are given a chance to correct their behavior.  We’re all human and we all make mistakes.  Reddit believes in the goodness of people.  We think most people won’t intentionally continue to violate a rule after being notified.
+- Suspensions can vary in length depending on the severity of the infraction and user’s history.  This allows flexibility when applying suspensions. Different types of infraction can have different responses.
+- Increased transparency.  We want to be upfront about suspending user accounts to both the user being suspended and other users (where appropriate).
+- I’ll be answering questions in the comments along with community team members u/krispykrackers, u/redtaboo, u/sporkicide and u/sodypop.
+
+URL: https://www.reddit.com/r/self/comments/3ey0fv/on_shadowbans/
+- Reddit and its partners use cookies and similar technologies to provide you with a better experience.
+- By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising.
+- By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.
+- For more information, please see our
+              Cookie Notice
+              and our
+              Privacy Policy.
+- A place to put self-posts for discussion, questions, or anything else you like.
+- Hello. I wanted to talk about shadowbanning, and try to answer a bunch of questions about it at once in light of recent circumstances on reddit about the topic, and try to clear up some FUD.
+- What is a shadowban?
+- A shadowban is the tool we currently use to ban people when they are caught breaking a rule. It causes their submitted content and user profile page to be visible only to themselves while logged in. Moderators can see their comments within their subreddit (since they can see "removed" comments in the subreddit they moderate), but no other users can see their content, and nobody else can see their userpage.
+- Why does shadowbanning even exist?
+- Shadowbans were the first type of ban created by reddit. It was used to ban spammers who were clogging up reddit with junk and making the user experience less enjoyable for everyone. The reason it a.) doesn't notify the user, b.) lets them continue to submit, and c.) makes it look like they're submitting normally when they're logged in and viewing their content, is because that way the spammer didn't realize he or she was banned and would simply continue to use the methods they were currently using to spam, and not try anything sneakier and therefore harder for us to detect and do anything about.
+- So why are regular users being shadowbanned?
+- Because it's still the only tool we have to punish people who break the rules. I can't say for sure because I wasn't here, but at some point very early on it was decided decided that we needed a code of conduct to follow to keep the reddit experience enjoyable for everyone, and the rules were born. However, no new tool to punish rule breakers separately from spammers was developed at the same time, so we had to continue to use the shadowban tool.
+- Why do you bother shadowbanning mods?
+- Because we treat moderators who break the rules the same as any other user. Being a moderator doesn't exempt you from reddit rules, nor does buying gold or being an advertiser.
+- We know that it's easy to tell when a moderator is banned because their modmail makes it quite obvious. In some ways that's actually a good thing, since their team can let them know and they can come to us to start the conversation about what they did to get banned and the process for getting unbanned (normally acknowledge that what you did was against the rules and agree to abide by them moving forward).
+- Why don't you tell people when you shadowban them?
+- Mostly because we never used to. If we were to begin to today, since it's not automated, it would require us to issue the ban, then individually send them a message. That means that the admin that sent the message would be required to respond to every single person who replied back via their user inbox. It's not really sustainable or scalable as it would exist now.
+- How does someone get un-shadowbanned?
+- They need to contact the admins and ask why they were banned. Currently they can either message the mods of /r/reddit.com or use contact@reddit.com. We have a conversation with them and once the situation is addressed and resolved, we lift the ban. Or we don't, depending on the severity and/or repetitiveness of the infringement(s).
+- That sucks. What are you going to do about it?
+- We know it sucks. It sucks hard. It is awful and sneaky and completely our fault that it is still being used to punish normal users.
+- Right now, the current situation is that we still have to use this shadowban tool that we're stuck with to punish all rule breakers the same, be them bot or be them human, spammer or active user, anything.
+- However, like u/spez has mentioned during his AMA, "Real users should never be shadowbanned. Ever." And he means that. Because of decisions he's made in the past couple weeks, we're developing tools right now, for the first time in nearly a decade, for admins to better be able to punish rule breakers differently than spammers, and educate them at the same time, rather than just quietly removing their ability to visibly participate. I won't go into specifics or give any sort of timeframe other than "absolutely as fast as we can", but it's happening.
+- Edit: Delivered
+
+URL: https://www.reddit.com/r/ShadowBan/comments/1vyaa2/a_guide_to_getting_unshadowbanned_sticky_maybe/
+- Reddit and its partners use cookies and similar technologies to provide you with a better experience.
+- By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising.
+- By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.
+- For more information, please see our
+              Cookie Notice
+              and our
+              Privacy Policy.
+- Find out if you are shadowbanned and what to do about it.
+
+shadow ban admin mod hell moderator removed invisible banned help check
+- It's difficult. It's really, really, really, really difficult. The admins have deemed you guilty. They did not give you a trial (or if they did they didn't invite you), they didn't provide you a writ of guilt, or even a message informing you of the ban. You just woke up one morning and you found none of your submissions were getting upvotes, downvotes, or comments. You asked around, and got no replies. Eventually you figured out that you've been shadowbanned.
+- So how do you get un-shadowbanned?
+- Check http://nullprogram.com/am-i-shadowbanned/ to make sure that you are actually shadowbanned. I don't want anyone going through the trouble of all this, only to find out they were never shadowbanned.
+- Once you have done that, send messages to the admins until you get a reply. No more than one a day, but often enough so that eventually they will respond. I recommend two or three a week at maximum. Don't expect a quick reply, the Admins are very busy and often single messages fall through the cracks.
+- This message should include a few very important things. First; your shadowbanned username. Second; a request for an explanation. Third; try to make it respectful. Its a really unfair process, and being respectful makes it more likely they will respond to you. It should pretty much read as:
+- "Hello! I believe my account [Shadowbanned username here] may have been shadowbanned in error, is it possible that one of the Admins could take a look at my ban and tell me why I was shadowbanned, and perhaps give me a chance to show you why I believe it was in error?
+- Thank you so much!
+- [Username Here]
+- Keep it up with slight variations of this until you receive a reply. Once they have told you why, think long and hard. Are they right? If so, stop now, and go forward with your alternate account. This isn't a guide to circumventing the rules, its an appeals process.
+- If they were in error, prove it. Find the post/messages/comments in question, and use them to, politely, prove your innocence. Take a screenshot and underline key words and phrases. Upload it to imgur and send it as a simple image, the kind that is very difficult to fake. Once you have done that, just keep messaging them. The only advice I can give you from hereon in is persistence. Don't give up.
+- TL;DR
+- 1) Message Admins asking why you were shadowbanned (politely)
+- 2) Use post/messages/comments in question to prove innocence
+- 3) Keep messaging the Admins, no more than once a day.
+
+URL: https://techcrunch.com/2015/11/11/reddit-account-suspensions/
+- Reddit has replaced shadowbans, which made posts from users who broke the site’s rules invisible, with account suspensions. The community, which had 202 million unique visitors last month, implemented shadowbans to hide spam quickly, but the system was frustrating for individuals since they often had no idea if they had been shadowbanned.
+- “Our current form of account restriction, the shadowban, is great for dealing with bots/spam rings, but woefully inadequate for real human beings. We think suspensions are a vast improvement,” said Reddit in an announcement.
+- Shadowbans, the first kind of ban created and used by Reddit, were an efficient way to stop spammers from flooding the site, but had outgrown their usefulness, as Reddit admitted in a post three months ago. Users often weren’t told if they had been shadowbanned, which meant they could end up posting on subreddits for a while before finally figuring out why everybody seemed to be ignoring them.
+- The system also made it difficult for shadowbanned users to appeal to moderators in order to save their accounts. A subreddit, r/shadowban, was even created to let users know if they have been shadowbanned.
+- Account suspensions can currently only be applied by admins (who are Reddit staffers), not subreddit moderators. The biggest change with account suspensions is that users will be notified instantly by private message and a site notification. They can appeal by replying to the PM, instead of having to figure out over days or even weeks if they have been shadowbanned.
+- 
+- Suspensions can be permanent or temporary, with users told how long they won’t be able to post to Reddit (most bans will last about three to five days). Suspended users can’t post, vote, comment, or send private messages. Their accounts are still visible in read-only mode, and they can continue to delete or edit past posts and comments. As user u/Viking83 notes, this is important because it prevents admins from erasing posts they disagree with.
+- Account suspensions are a huge improvement over shadowbans, but the current system still has several drawbacks. For example, suspended moderators can’t modmail or manage their subreddits. This may (ironically) lead to an influx of spam, though Reddit may add that feature.
+- 
+- Nixing shadowbans and implementing a more transparent system of dealing with people who violate the site’s content policy may help ameliorate complaints by longtime users that Reddit, which launched in 2005, is ignoring the needs of its core community as seeks mainstream growth through initiatives like Upvoted, a news site that draws on popular posts for content.
+- The company has been under fire over the past few months for moves like the firing of Ask Me Anything coordinator Victoria Taylor, which led to a revolt by some of Reddit’s most heavily-trafficked subreddits. Before resigning in June, former chief executive officer Ellen Pao admitted that the company had “screwed up” by not delivering on promises to users and promised that the site would improve.
+
+URL: https://thenextweb.com/news/reddit-replaces-shadowbans-with-suspensions-to-punish-spammers-and-trolls
+- You have been blacklisted, KTHXBAI
+- XID: 13245487
+- Varnish cache server
+
+URL: https://www.searchenginejournal.com/reddit-finally-ends-shadowbans-replaces-account-suspensions/144902/
+- Use this ebook + sortable master list download to help determine whether a new set of SEO tools could be key to your agency’s success.
+- In our upcoming webinar, you can find out how others are adapting to these recent changes and making the most of AI.
+- In this ebook, you’ll learn how to refine your ad campaigns into cost-effective revenue generators through testing and due diligence.
+- This ebook shows you how to meet customers at each stage of their journey and create compelling content that converts.
+- Want to know what makes a Facebook ad effective and how to set up your campaigns for success?
+- Join Monica Ho & Damian Rollinson of SOCi as they unveil a range of powerful performance metrics relevant to your industry, as well as in-depth insights to help guide your strategies.
+- About a month ago, Steve Huffman, the returning co-founder of Reddit who took up the role of CEO, detailed a number of really significant changes that would be coming to Reddit in an AMA he hosted.
+- One such change was to replace the controversial Shadowbans, with account suspensions:
+- 
+- 
+- Reddit defines it as “the tool we currently use to ban people when they are caught breaking a rule. It causes their submitted content and user profile page to be visible only to themselves while logged in. Moderators can see their comments within their subreddit (since they can see ‘removed’ comments in the subreddit they moderate), but no other users can see their content, and nobody else can see their userpage.”
+- Not sure if your account is Shadowbanned or not? You can find out by visiting your profile page while logged out of Reddit. If you see the ‘page not found’ similar to the above image, then your account is Shadowbanned. Another way is to use the /r/shadowban/ Subreddit to submit your profile URL and get a True or False marker.
+- Shadowbanned and want a reprieve, you can try messaging the mods of /r/reddit.com or use contact@reddit.com.
+- Last night, Reddit announced that it has retired the Shadowban, and detailed their new account suspension policy.
+- “Today we’re rolling out a new type of account restriction called suspensions. Suspensions will replace shadowbans for the vast majority of real humans and increase transparency when handling users who violate Reddit’s content policy.”
+- Note that they mention the “vast majority of real humans” but do not close the door completely on using Shadowbans in the future. It is also not clear whether already Shadowbanned accounts will get a reprieve, but currently, all existing Shadowbans appear to still be in place.
+- Details from Reddit:
+- Suspended users effectively have their account put into read-only mode. The primary actions they will not be able to perform are:
+- Moderators who have been suspended will not be able to perform any mod actions or access modmail while the suspension is in effect.
+- You can see the full list of forbidden actions for suspended users here.
+- Users in both temporary and permanent suspensions will always be able to delete/edit their posts and comments as usual.
+- Users browsing on a desktop version of the site will see a pop-up notice or notification page anytime they try and perform an action they are forbidden from doing. App users will receive an error depending on how each app developer chooses to indicate the status of suspended accounts.
+- 
+- All screenshots taken by author November 2015
+- Managing Partner / Owner at Search Engine Journal with over 17 years experience in Search Engine Optimization (SEO) and Social ...
+- Conquer your day with daily search marketing news.
+- Join Our Newsletter.
+- Get your daily dose of search know-how.
+- In a world ruled by algorithms, SEJ brings timely, relevant information for SEOs, marketers, and entrepreneurs to optimize and grow their businesses -- and careers.
+- Copyright © 2023 Search Engine Journal. All rights reserved. Published by Alpha Brand Media.
+
+- TikTok LGBTQ shadowbanning
+- TikTok/Instagram/Facebook LGBTQ discrimination
+- Page infoType: IncidentPublished: November 2021

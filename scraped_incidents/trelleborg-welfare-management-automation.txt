@@ -1,0 +1,510 @@
+- Trelleborg welfare management automation
+- Released: 2018
+- Can you improve this page?Share your insights with us
+- Trelleborg municipality in south Sweden was one of the first authorities in the country to automate the assessment and distribution of welfare payments.
+- Capitalising on a change in Swedish national law in 2018 that enabled the payment of welfare benefits without human intervention, Trelleborg municipality in south Sweden automated the assessment and distribution of welfare payments.
+- The system was a fully automated system using Robotic Process Automation (RPA) to assess and distribute payments. The local government claimed this would help them increase efficiency and reallocate resources elsewhere.
+- The approach taken, now known as the 'Trelleborg Model', illustrates how a seemingly well-meaning and apparently effective programme can go astray.
+- The impact was swift, with the municipality reporting that the number of people receiving social benefits had substantially decreased. And the number of case workers was reduced from 11 to 3 as individual assessments could now be made more or less instantaneously, having taken up to two days.
+- On the other hand, citizens complained of unfair assessments, little explanation of how the system worked, and limited ability to complain or appeal.
+- Researchers, journalists and other experts found themselves unable to access the system's data, code or model to assess its effectiveness or fairness, and freedom of information requests were summarily blocked on the grounds of trade secrecy.
+- Operator: Trelleborg Municipality Developer: Trelleborg MunicipalityCountry: Sweden Sector: Govt - welfare Purpose: Optimise welfare payments Technology: Robotic Process Automation (RPA) Issue: Fairness; Employment - jobs; Privacy Transparency: Governance; Black box; Complaints/appeals; Legal
+- Anne Kaun; September 2020: Suing the Algorithm
+- Anne Kaun, Lina Dencik; June 2020: Datafication and the Welfare State
+- Agneta Ranerup, Helle Zinner Henriksen; October 2019: Value positions viewed through the lens of automated decision-making: The case of social services
+URL: https://algorithmwatch.org/en/trelleborg-sweden-algorithm/
+- 
+- Part of this story is available in Swedish at Dagens Samhälle under the title Trelleborgs biståndsrobot spred känsliga uppgifter.
+- This story is part of AlgorithmWatch's upcoming report Automating Society 2020, to be published at the end of October. Subscribe to our newsletter to be alerted when the report is out.
+- Trelleborg is a city of 40,000 in Sweden’s far south. Three years ago, it became the first municipality to introduce fully automated decision-making in its social services. They named their robot Ernst and introduced it as a digital co-worker.
+- Sweden’s social services are governed by local authorities. The 1992 Local Government Act gave decisionary powers to municipal committees, but this right can be delegated to an employee. With the exception of Trelleborg and their lawyers, all other instances assess that delegating decision-making to an automated system is not allowed, and therefore automated decision-making is not compatible with the law.
+- The same does not apply to state agencies. In 2018, automated decisions were allowed after a change in the Administrative Procedure Act (Förvaltningslagen), the law that regulates governmental agencies. Welfare payments such as parental benefits and dental care subsidies are now allocated without any human intervention.
+- Trelleborg uses a process known as robotic automation, or RPA, to handle applications for financial aid. The software is based on different rules that lead to a yes or no decision.
+- The first time Trelleborg residents apply for financial aid, they meet a caseworker in person. After that, they must reapply every month, and if they apply online, the decision will be made by a machine. They fill in details on their income and expenses, which the RPA compares with the previous month. It also pulls information such as tax and income statements and student loans from a database that gathers personal data from seven agencies, for controlling purposes. A decision is then made based on these data points.
+- Should the applicant’s situation significantly change from one month to the next, the software stops and forwards the application to a human caseworker. Around one in three reapplications are currently handled by the software. The rest is treated by caseworkers because of circumstances the software cannot handle.
+- Because every beneficiary meets a caseworker the first time they apply and new circumstances are checked by a human being, there is always an individual assessment made, Ms Schlyter said.
+- The main reason for deploying RPA was to save time and relocate resources to meet people instead of handling documents, according to Ms Schlyter. It also shortens the time for beneficiaries to obtain a decision, as decisions that previously could have taken two days can now be reached in less than a minute.
+- The introduction of the RPA and the relocation of staff also led to lower payments for the municipality, she said.
+- During the last few years, many towns started using online applications for welfare distribution, a first step towards automating the process. A report by the Board of Health and Welfare (Socialstyrelsen), a national authority, showed that the number of municipalities that introduced online applications for welfare more than tripled over the last three years, from 9 percent in 2017 to 29 percent in 2019.
+- Another report, published in November 2019 by the Swedish Association of Local Authorities and Regions (SKR), showed that the trend continued upwards, with 36 percent of municipalities saying that they used online application systems.
+- However, few municipalities use automated processes. The SKR survey found that 8 percent of the municipalities used some form of automation and only one (Trelleborg) used it for decision-making. Things may change rapidly, as 40 percent of the municipalities said they were planning to introduce automation of administrative work over the next few years.
+- Most of the automated tasks, such as handling invoices, are uncontroversial. These programs are not especially “smart”: they are quite simple rule-based algorithms. But introducing automated decision-making in the welfare system sparked a discussion about the profession of social work and what social assistance should be.
+- “Financial aid is society’s safety net, and has to be assessed individually by a professional social worker. When you replace these professionals with software, many social workers feel it is a threat to their profession,” said Lupita Svensson, a researcher at Lund University’s School of Social Work.
+- Ms Svensson recently wrote a report about automating the welfare sector (Technology is the easy part, published in November 2019). She said that, over the last 20 years, decisions about financial aid moved away from individual assessments and towards more general, rule-based decisions.
+- “Initially, the legal text about financial aid gave social workers a great deal of room to manoeuvre, since the law was saying that you couldn’t generalise. When this law is converted to code, it becomes clear that social work has changed. By converting law to software, the nature of financial aid changes, as you can’t maintain the same individual assessments as before.”
+- Ms Svensson is also concerned by the idea that an algorithm could be impartial.
+- “The municipal sector has a naive view of technological advances. They think a “robot” will be impartial and objective. But how were these robots constructed? When I asked municipalities about this, they told me they followed the social workers’ processes. This means there’s a risk of copying in the norms, ideas and values that are already present in the system. There’s very little critical discussion of this.”
+- When Kungsbacka, a town of 20,000 inhabitants 300 kilometers north of Trelleborg, introduced the ”Trelleborg model”, as it became known, in 2018, 12 of 16 social workers left their work in protest. Some of them have returned to their jobs but the majority left for good.
+- Inger Grahn, a local representative for the Union for Professionals in Kungsbacka, said that the protest was about two things. Firstly, the ”Trelleborg model”, or at least its automated component, might not be legal. (Kungsbacka has not implemented full automation as of early 2020.)
+- Secondly, implementing the Trelleborg model requires a major reorganisation of municipal services. It shifts responsibility for financial aid from the department of social services to the department of work.
+- Kungsbacka’s case workers said that this model might prevent them from getting the whole picture of a beneficiary. By focusing on getting beneficiaries directly into work, social issues such as children's welfare could be missed.
+- Technology cannot solve everything, Ms Grahn said. “As far as we know, there aren’t yet any algorithms that take individual cases into account sufficiently to follow the law. Not when it comes to children with special needs, or any other kind of individual case,” she added.
+- One central concern with automated decision-making is transparency. How can automated decisions and the underlying algorithms be explained in a way everyone understands? And are algorithms official records that can be communicated to the public?
+- Simon Vinge, chief economist at the Union for Professionals (Akademikerförbundet SSR), has sought answers for over a year. In June 2018, he asked Trelleborg how the algorithm made decisions and how their system worked, but he did not receive satisfactory answers. After he sent a complaint to the Swedish Parliamentary Ombudsman (JO) in September 2019, he received some screenshots and a flow chart. Mr Vinge and the Union for Professionals argue that the information does not suffice to really understand how the program works, and asked for ‘meaningful information’, in the sense of Article 15 GDPR, about how a decision is made.
+- “When it comes to automated decision-making, no one knows what they have to share, or when you’ve received enough information to understand how an automated decision was made. I still don’t know which parameters lead to a declined application, or what is being fed into the formula,” Mr Vinge said.
+- Trelleborg replied that they had given all the information they have been asked for. The JO shall make a decision on the case in the coming months.
+- “If it’s difficult to explain how a simple rule-based algorithm works, how can we hope to explain more complex systems like machine learning?” Mr Vinge said.
+- Last fall, Freddi Ramel, a journalist, requested the source code of the software in Trelleborg under Sweden’s Freedom of Information Act. When Trelleborg said it was not an official document, Mr Ramel lodged an appeal to the administrative court of appeal. Trelleborg argued that the code was a trade secret, but the court decided otherwise. The source code is an official document, judges said, and it was communicated to Mr Ramel.
+- The code that Trelleborg finally shared is made of 136,000 lines of rules, spread out across 127 XML files. Some of the files seem to contain older, unused rulesets. Without access to the data used by the software, it is impossible to understand the rules with any certainty. The code interacts with other pieces of software, making the deciphering effort all the more difficult. But it is possible to (quite painstakingly) start outlining a general decision tree.
+- Without clear explanation from the municipality, the system remains a black box. Having the code does not change anything, Mr Vinge of the SSR union wrote in an email.
+- The analysis of the code yielded not just some of the rules guiding the RPA. It contained the names and social security numbers of approximately 250 people, seemingly citizens who previously had welfare-related contacts with the municipality. This data seems to have been in the code since 2017, and is now visible for anyone who filed a FOI request to see the code, as well as the subcontractors working on it.
+- Trelleborg municipality are currently investigating why the personal data ended up in the code, and why the code was not screened before it was made public.
+- Even though Trelleborg introduced their ”robot” three years ago, the government has just begun looking into this issue. In January, Stockholm ordered an investigation into the use of automated decision-making by municipalities and regions. It will be published in March 2021.
+- Did you like this story?
+- Every two weeks, our newsletter Automated Society delves into the unreported ways automated systems affect society and the world around you. Subscribe now to receive the next issue in your inbox!
+
+URL: https://algorithmwatch.org/en/udbetaling-danmark/
+- 
+- This story is part of AlgorithmWatch's upcoming report Automating Society 2020, to be published later this year. Subscribe to our newsletter to be alerted when the report is out.
+- In the mid-2000s, Denmark’s government embarked on an ambitious reorganization of local administration. The number of municipalities was cut from 271 to 98. The mergers were expected to create economies of scale and increase efficiency in public services.
+- Part of the economies of scale took the form of Udbetaling Danmark (Danish for “Payout Denmark”, abbreviated UDK). The organization, which is run by the agency for digitization of the ministry of finance, was set up to centralize the payment of welfare benefits overseen by municipalities: pensions and benefits related to housing, family, disability and maternity leave. At the time, the government claimed that the move would save 35% in administrative costs (officials from several municipalities disputed this figure).
+- UDK started operations in 2012, and service was cut to the bare minimum from the start. In-person meetings became impossible, as all communication with beneficiaries were to be done over the phone. (This did not go well with Danes. In a 2017 survey, one third of respondents claimed that public service deteriorated since the reforms, with only one in ten seeing an improvement.)
+- Although the caseworkers who used to work for municipalities were re-hired by UDK when it was created, the nature of their work shifted from a focus on beneficiaries to a focus on data. In 2013, the organization started to link data on its 2 million beneficiaries with external databases from other administrations such as the tax and employment authorities and the business registers (municipalities had the same powers since 2011 but it is unclear if they made use of them). This allowed UDK to automate the checks required before benefits are granted to a requester, such as whether their income level or their wealth were low enough.
+- This also allows UDK to perform controls after a benefit has been granted, in order to verify that a beneficiary’s situation has not changed. Since 2015, UDK can access data about the housemates or the family of a beneficiary in order to spot irregularities. The data comes from the civil register, the housing register or from the tax authorities.
+- A 2019 report by the Danish public service broadcaster gave an example of such checks. In it, a member of UDK’s “Joint Data Unit” explained that they looked for cases where women were employed by the company of a family member just long enough to be eligible to maternity leave. This could be a sign of fictitious employment, they said. (UDK did not disclose how many false-positives this method produced.)
+- In 2017 and 2018, controls by UDK and municipalities unveiled half a billion Danish crowns in erroneous payment (approximately 70 million euros). It is unclear what amount was recovered, what was not recovered due to the beneficiary’s incapacity to repay, and what was an accounting trick (the figure includes future payments that were averted because of the control).
+- UDK does not split the amount between honest errors and actual cheats. In 2017, UDK and municipalities reported a total of 91 individuals to the police for welfare fraud.
+- In 2018, ostensibly to improve UDK’s fraud-detection capabilities, the Danish government attempted to give UDK access to the electricity consumption of welfare beneficiaries and people close to them. The bill was eventually withdrawn after a public outcry.
+- It remains unclear if UDK’s automated checks focus exclusively on fraud from beneficiaries or if they also verify that beneficiaries receive the amounts they are entitled to. In 2013, for instance, it was found that 300,000 pensioners were cheated of several hundred Danish crowns a month, in a scheme that totaled 700 million crowns (94 million euros) a year. While the government argued the mistake was not deliberate, others called it “legalized social fraud”. In 2015, another irregularity, this time directly attributable to UDK, led to 325,000 households receiving lower housing benefits (the error was fixed in subsequent months). UDK had implemented a provision found in a bill before the Danish parliament turned it into a law (the bill never passed).
+- It is unclear if UDK verifies the quality of the data it processes, and whether its programs are audited. In November 2019, UDK provided the tax authorities with erroneous information about 111,000 households. Tax authorities subsequently sent a letter to each taxpayer to inform them of the mistake.
+- The agency for digitization of the ministry of finance, which runs UDK, did not answer our requests for comment.
+- In Denmark, the conversation about UDK’s powers was revived in July 2019, when Justitia, a think-tank, released a report that detailed its activities, which they called “systematic surveillance”. UDK does not provide the actual number of individuals receiving payments, but estimates range between 2.1 and 2.7 million, in a country of 5.8 million inhabitants. Because UDK also collects data on other household members and the immediate family, Justitia considers it likely that UDK processes data on the whole population of the country, sometimes pulling information at daily intervals.
+- Birgitte Arent Eiriksson, who wrote the Justitia report, is now part of the Danish Data Ethics Council, which advises the government since 2018. She chairs a working group on data linkage for public authorities. (While UDK is not named in the description of the working group, there is little doubt that the issue under scrutiny is related to UDK’s appetite for merging databases). They will provide the government with “a concrete tool that the authorities can use to incorporate data ethics when they want to link personal data and use new technology,” to be delivered in later this summer, Ms Arent Eiriksson told AlgorithmWatch.
+- In early 2019, in a case related to housing benefits, a Dane found out that UDK’s database held much information about him although he was not a beneficiary. He subsequently filed a complaint to the Danish Data Protection Authority (DPA). The DPA ruled that the blanket collection of data on relatives of beneficiaries infringed the General Data Protection Regulation, which prohibits the collection of unnecessary data. UDK refused to comply, explaining that their mission of fraud control made the data collection necessary and proportionate.
+- The DPA reopened the case in 2020 and made clear to UDK that they had to delete data on individuals who were not beneficiaries or suspected of fraud. In March 2020, UDK told the DPA that they had complied with the decision and removed the data they had collected illegally. Whether or not UDK applied the change to housing benefits or to their whole data management system is unclear. (The case referred to the DPA was about housing benefits only, so that the DPA could not give an opinion about UDK’s other activities).
+- Whether or not UDK limits the scope of its surveillance, and whether or not the Data Ethics Council succeeds in tooling up the government for its ethical challenges, the automation of welfare management still fundamentally changes the relationship between the state and its citizens.
+- Søren Skaarup, the former head of citizen services at Albertslund Municipality and now a post-doctoral researcher at the IT University of Copenhagen, published his PhD on the mediation of authority in 2013. In it, he warned that automation, while it can speed up many bureaucratic processes, is often implemented in a way that reduces the room for negotiation of meaning, power and identity, which can be very important to citizens when they interact with government. Allowing for this negotiation often requires access to interpersonal interaction face-to-face or by phone, Mr Skaarup wrote. Limiting the possibilities for this negotiation may limit the possibilities for recognizing the individuality of citizens, for the construction and affirmation of trust in the authority, and weakens the citizens' sense of justice and fairness.
+- Did you like this story?
+- Every two weeks, our newsletter Automated Society delves into the unreported ways automated systems affect society and the world around you. Subscribe now to receive the next issue in your inbox!
+
+URL: https://www.politico.eu/article/fck-the-algorithm-5-ways-algorithms-already-rule-our-lives/
+- In-depth reporting, data and actionable intelligence for policy professionals – all in one place.
+- 
+- 
+- 
+- 
+- 
+- School grades are not the only area where algorithms have a say.
+- Press play to listen to this article
+- Voiced by artificial intelligence.
+- British students sent a clear message to policymakers last week: "F*ck the algorithm."
+- The outcry worked. A week after algorithm-generated grades resulted in almost 40 percent of students getting lower grades than predicted, the government said students would get teacher-predicted grades after all.
+- The scandal underlined the creeping influence of algorithms in our lives — and the subsequent pushback.
+- "From benefits fraud assessments, to visa algorithms, to predictive policing systems, we’re increasingly moving towards government by algorithm. And the grading fiasco this week in Britain shows that when people realise it’s there, they don’t like it," said Cori Crider, whose tech justice group Foxglove backed a legal claim against the grading algorithm.
+- For governments, algorithms promise to make time-consuming and costly decision-making better, more efficient and cheaper. But critics say that automated systems are being rolled out with little transparency or public debate, and risk exacerbating existing inequalities.
+- Demand for greater transparency is further complicated by the owners of algorithms who argue they are trade secrets whose inner workings cannot be made public.
+- "The algorithm takes the biases and prejudices of the real world and ‘bakes them in’, and gives them a veneer that makes it seem like a policy choice is actually neutral and technical. But it isn’t," said Crider.
+- The EU's General Data Protection Regulation (GDPR) gives people the right to an explanation of a decision based on automated means, and people can object to the decision if it is based solely on an algorithm. But the grading scandal revealed the GDPR's shortcomings in dealing with algorithms.
+- Regulators said the grading algorithm had not relied solely on automated means — it said humans were involved in the process — implying that any objection to the decision on these grounds wouldn't stand.
+- Demand for greater transparency is further complicated by the owners of algorithms who argue they are trade secrets whose inner workings cannot be made public.
+- British computer scientist and privacy campaigner Michael Veale is also skeptical of the power of regulation like the GDPR to act as a bulwark against algorithms.
+- The right to an explanation of an algorithm-generated decision does little to fix "systemic injustices" built into algorithms like the one used to grade British students, he said.
+- "Getting an explanation but no democratic say in how systems work is like getting a privacy policy without a ‘do not consent’ button," he said.
+- Here are some of the ways in which algorithms are running our lives.
+- Deciding who gets access to welfare and how much is a costly business for governments, and so has become an area that has seen a boom in the use of algorithms. The Swedish city of Trelleborg has automated parts of its social benefits program so that new applications are combined with other database to come to a decision. Denmark's been getting on the welfare algorithm bandwagon too, building a "surveillance behemoth" in the process, activists say. In England, local authorities began using algorithms to determine how much money to spend on each person nearly 10 years ago. In one high profile example, a registered blind wheelchair user had his allowance cut by £10,000 after his local authority began using the system.
+- But activists started fighting back. In April, Dutch activists got a system used by government to detect welfare fraud banned after a court found it violated privacy.
+- Hungary, Greece and Latvia have trialled a system called iBorderCtrl that screens non-EU nationals at EU borders, using automated interviews with a virtual border guard, based on “deception detection technology." The system is in effect an automated lie-detector test taken before the person arrives at the border. In Slovenia, a border police system automatically matches travellers to “other police data” such as criminal files.
+- Here again, there is pushback. Watchdogs have filed complaints against the Slovenian system, while the U.K. government said earlier this year it would scrap an algorithm used to used to screen visa applicants following a complaint. The groups behind the complaint argued the algorithm was racist, and favored applications from countries with a predominantly white population.
+- Using algorithms to model when and where crime will happen — an area known as predictive policing — is on the rise. In 2019, British civil rights group Liberty warned that the growth in the use of computer programs to predict crime hotspots and people who are likely to reoffend risks embedding racial profiling into the justice system. In 2016, a Belgian police department started implementing a predictive policing system which they claimed can predict neighbourhoods where burglaries are more likely to take place. In the German city of Mannheim, authorities have installed a video surveillance system that monitor people's behaviour for "certain patterns ... that indicate criminal offences."
+- Employers in Finland used to be able to use the services of DigitalMinds, a company that analyzed candidates' online presence — on Twitter, Facebook and their email inbox — to come up with a personality assessment. Measures tracked included how active individuals are online and how they react to posts and emails. The company folded following an investigation by AlgorithmWatch.
+- Having your credit rating scored by a private company is a fact of life for many, and can have far-reaching consequences. A low score typically means banks may turn down a loan or credit card application, or that internet service providers or phone companies may deny service. The score you get may also be based on questionable data. Earlier this month, activists filed a complaint with the Austrian data protection watchdog after a credit scoring company gave a customer that did not owe debts and had a well-paying job a bad score, but denied holding any data on the person.
+- This article is part of POLITICO Pro’s premium coverage of Cybersecurity and Data Protection. From the emerging threats of a volatile digital world to the legislation being shaped to protect business and citizens, across sectors. For a complimentary trial email [email protected] and mention Cyber.
+- Log in to access content and manage your profile. If you do not have an account you can register here.
+- 
+- Forgot your password?
+- By logging in, you confirm acceptance of our POLITICO Privacy Policy.
+
+URL: https://ohrh.law.ox.ac.uk/administrative-automated-decision-making-what-about-the-right-to-an-effective-remedy/
+- By User:Verdy p, User:-xfi-, User:Paddu, User:Nightstallion, User:Funakoshi, User:Jeltz, User:Dbenbenn, User:Zscout370 - File created by various Wikimedia users (see "Author").File based on the specification given at [1]., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2615952
+- By User:Verdy p, User:-xfi-, User:Paddu, User:Nightstallion, User:Funakoshi, User:Jeltz, User:Dbenbenn, User:Zscout370 - File created by various Wikimedia users (see "Author").File based on the specification given at [1]., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2615952
+- by Sarah de Heer | Apr 8, 2021
+- ,Sarah de Heer, “Administrative Automated Decision-Making: What About the Right to an Effective Remedy?”, (OxHRH Blog, April 2021), <https://ohrh.law.ox.ac.uk/administrative-automated-decision-making-what-about-the-right-to-an-effective-remedy> [Date of access].,
+- Automated decision-making (‘ADM’) systems are algorithm decision-making tools, which issue either a partial or a full decision. While their use by national public administration is no new phenomenon, the European Union (‘EU’) has now also embraced this novel method of administrative decision-making. Indeed, by the end of 2022 ETIAS will decide whether applicants without a visa obligation are granted an authorisation to travel to the EU or further examination – by human intervention – is required. Additionally, various Horizon 2020 research projects involve ADM procedures. One example is the TRESSPASS project that identifies third country nationals at the frontiers of the EU, who are at risk of migration using irregular means. Another illustration is the iMARS project that supports border control by determining the authenticity of ID documents through recognising image morphing and data manipulation.
+- The use of ADM operations has certainly resulted in undisputed benefits, such as an increase in efficiency, through quicker decision-making. However, society has become more aware of the undeniable downsides, including its opaqueness. While it is evident – for at least administrators – which data the algorithm uses to reach a decision, why the algorithm adopts a certain decision remains obscure. As a result, various fundamental rights may be at risk, including the right to an effective remedy as stipulated by Article 47 Charter of Fundamental Rights of the European Union (‘EU Charter’).
+- Is the Right to an Effective Remedy Violated?
+- Article 47 EU Charter ensures the rights of defense during judicial proceedings, which includes a fair and public hearing before an impartial and independent tribunal within a reasonable period of time. Particularly, the requirement of a ‘fair trial’ may be impaired when governments use ADM processes. Under this condition, proceedings need to be adversarial, which demands judges to guarantee that parties can assess and comment on the documents and remarks submitted by the opposing party. Further, the judiciary needs to safeguard equality of arms, which requires courts to give parties a reasonable opportunity to comment on the evidence of the opposing party. Lastly, judges are to secure the right to a reasoned decision, which enables the parties to understand the court’s reasoning and lodge an appeal against the court’s ruling. However, the extent of this reasoning may vary depending on the nature and circumstances of the case. The question then arises how the judiciary, at the stage of an appeal, can secure effective judicial oversight when administrative decision-makers use ADM systems. Indeed, the obscurity surrounding algorithms may curtail the requirement of a fair trial, seeing that judges may struggle to ensure parties’ participation and to hand down a reasoned decision.
+- Firstly, the algorithm used in administrative ADM operations may plainly be inexplicable. The English Metropolitan Borough of North Tyneside could not explain why certain applications for housing benefits were assigned a higher risk rating by the Risk Based Verification systems. Secondly, in some cases public administration may be unwilling to disclose the algorithm employed. One reason being that they are concerned that citizens would use this information to mislead administrative ADM processes. The Dutch Government put forward this argument when asked to publish the code of SyRI, which gauged which citizens are more likely to commit social security fraud. Another reason submitted is the protection of intellectual property. The Spanish Government argued that due to copyright concerns, it did not want to disclose the algorithm of BOSCO which determines who is entitled to receive financial support for utilities costs. Thirdly, even if administrators would be willing to publish the algorithm, this does not necessarily enable the judiciary to provide effective judicial oversight as it may simply be impossible to comprehend the algorithm’s modus operandi. The Swedish municipality of Trelleborg has published the algorithm deciding which applicants are allocated social benefits. However, without any additional explanations, grasping the algorithm’s operation remains unfeasible.
+- In all these cases, judges – and even citizens – are left in the dark as to how administrative decision-makers have reached their decisions. In turn, the judiciary cannot safeguard a fair trial.
+- Conclusion
+- Undoubtedly, ADM systems are increasingly becoming a part of daily administration. Nevertheless, it remains to be seen how effective judicial oversight can be guaranteed seeing the obscureness of algorithms.
+- You must be logged in to post a comment.
+- Δ
+- oxfordhumanrightshub@law.ox.ac.uk
+- Oxford Human Rights HubThe Faculty of Law, University of Oxford,St Cross Building,St Cross Road,Oxford OX1 3UL
+- Designed and created by Sidebar International.
+- Δ
+- Δ
+
+URL: https://jplusplus.org/sv/blog/sa-granskade-vi-trelleborgs-robot/
+- Under våren 2020 gjorde vi en kartläggning av landets kommunrobotar för dels Dagens Samhälle och dels Algorithm Watch. I en av robotarna hittade vi känsliga personuppgifter i källkoden: Trellebergs socialtjänstrobot Ernst1 innehöll ett par hundra personnummer och namn på kommuninvånare. Det här är en genomgång av vad och hur vi gjorde, för den som själv vill gräva i källkoden till beslutsalgoritmer och automatiseringsrobotar.
+- Flera kommuner har automatiserat delar av biståndshandläggningen, men Trelleborgs kommun har fått mycket uppmärksamhet för att de dels var tidigt ute, och dels införde ett system som kunde fatta beslut själv. En medborgare kan få avslag på en ansökan om bistånd utan att någon människa tittat på den.
+- I februari 2020 slog kammarrätten fast att källkoden till Ernst ska betraktas som en allmän, offentlig handling, efter att journalisten Freddi Ramel (Tredje Statsmakten) begärt ut källkoden, fått avslag och drivit fallet vidare. Vi begärde ut koden strax därefter.
+- Ord som ”beslutsalgoritmer”, ”robotar” och ”AI” används i dag om så många olika saker, att en robot som Ernst hade kunnat vara nästan vad som helst mellan en enkel fomulär-validering (”har användaren fyllt i sin personnummer rätt?”), och ett helt maskinlärningssystem (mata en dator med tusentals tidigare ansökningar och lär den känna igen mönster i vilka ansökningar som släpps igenom. Och håll tummarna för att det inte funnits någon systematisk diskriminering i träningsdatan som nu förstärkts och skapat ett monster.) Ernst befinner sig någon däremellan. Det är en uppsättning regler, ett ”beslutsträd” som givet ett antal parametrar anting säger ”ja”, ”nej” eller (i två tredjedelar av fallen) skickar ärendet vidare till manuell handläggning.
+- Vidare är det en så kallad RPA, en robot som i princip försöker simulera det en människa annars skulle ha gjort på en vanlig dator, i sina vanliga program. Den öppnar Excelfiler, klipper och klistrar in personnummer, klickar på knappar i andra program, och så vidare.  Tänk på det som ett avancerat Excel-makro, typ. Sådana går att sätta upp utan att skriva en rad programkod. Det finns färdiga system som låter dig spela in ett arbetsflöde, och sedan upprepa det automatiskt. Därför visste vi inte alls vad ”källkoden” skulle bestå av (ett skräddarsytt program? En regelsamling till något befintligt RPA-system?). Trelleborgs kommun visste inte heller, utan lät en konsult som jobbat med systemet ta fram vad som skulle lämnas ut.
+- Ordet ”källkod” är alltså inte helt enkelt helt tydligt definierat i det här sammanhanget, men vad vi fick var 1272 xml-filer, med 136 728 rader dansk/engelska instruktioner (företaget som byggt Ernst är danskt) till ett RPA. Det är givetvis omöjligt att överblicka en sådan regelsamling med blotta ögat. Antalet ställen där programmet delar sig på olika sätt (if-satser och switch-rader) är över 1 000. Vilket inte är så konstigt; Det är väldigt många saker som ska fyllas i för att du ska kunna söka bidrag i Trelleborgs kommun (eller i någon annan kommun). Få människor skulle gå igenom den processen för att det är roligt.
+- En snabb blick på XML-filerna avslöjar att de skapats inom Microsofts programmeringsramverk .NET, så vi ringde en .NET-utvecklare, Amanuel Workneh i Malmö. Han kunde snabbt identifiera verktyget de skapats med: RPA-plattformen UIPath. Han hjälpte oss också Visualisera programmets alla beslutsvägar. Just detta var vårt intresse; Vi ville veta om det var möjligt för en journalist eller annan medborgare att granska programmets beslutsvägar. Ett antal saker försvårade den analysen: RPA:et baserade beslut på data som hämtade från andra program, till exempel Excel-ark, och det saknades dokumentation som hjälpte oss förstå exakt vilken data som hanterades på olika ställen. Några Excel-filer kunde vi begära ut, och de visade sig i sin tur innehålla viss beräkningslogik. I andra fall fick vi gissa vad variabelnamn som cSambo (i bästa fall) eller pCount (i mindre tursamma fall) kunde tänkas betyda. Inte heller visste vi säkert vilka ”startpunkter” som fanns i beslutskedjan. Vi kan gissa utifrån filnamn och tidsstämplar (senaste ändring) på filerna var vi ska starta någonstans, men det finns mängder ”död” kod, som aldrig nås av programmet. Beror det på att vi fått ut en en soppa av gamla versioner, tester och produktionskod (så ser det ut), eller missar vi sätt koden kan köras på? Återigen gissningar.
+- I den här processen hittade vi alltså hundratals personnummer och namn på kommuninvånare i Trelleborg. Att leta efter personnummer i en textmassa kräver inget programmeringskunnande. Det räcker med ett så kallat reguljärt uttryck, en sökning efter ett visst mönster, som kan göras i till exempel Microsoft Word (eller snart sagt vilket textredigeringsprogram som helst). I det här fallet söker vi efter mönstret ”sex siffror, följt av bindestreck, följt av fyra siffror”. Med ett reguljärt uttryck kan det se ut så här: \d{6}-\d{4} (syntaxen skiljer sig lite mellan olika dialekter). 130 000 rader är ungefär dubbelt så många som i Tolstojs Krig och fred, men med reguljära uttryck är det bara ett kontroll-f bort  att hitta allt som ser ut som personnummer (knappt 400 stycken), och ur dem sedan sålla ut de faktiska personnumren (knappt 350) och plocka bort dubletter, för en nettolista på 256 personnummer (ännu ett sammanträffande, så vitt vi kan bedöma), de flesta i en lång lista över kunder (med namn, personnummer och något slags ärendedatum) inom hemsjukvården.
+- När vi först kontaktade kommunen, förstod de själva inte varför det fanns personuppgifter i filerna de skickat, och senare svar var vaga. Men det ser ut som att det finns åtminstone två skäl:
+- Det ska nämnas att gränssnittet till mjukvaran kommunen valt att använda har ett peka-och-klicka-gränssnitt, som gör att en icke programmeringskunnig kan bygga en mini-ernst på en kafferast. Det är alltså relativt enkelt att som granskare verifiera en tes om hur programmet beter sig, och vilken information som sparas i regelfilerna.
+- Listan med testdatan, leder oss över på en annan frågeställning, som får bli ämnet för en kommande granskning: Hur versionshanteras den här typen av programkod, och hur separeras utvecklings- och produktionsmiljöer? Programvaruutvecklare arbetar regelmässigt i versionshanteringssystem (vi på J++, och många andra datajournalister, gör likadant med data). Det gör det möjligt att se hur koden såg ut vid en given tidpunkt, till exempel när ett visst ärende avgjordes av roboten. Här lyckades vi aldrig få besked från Trelleborgs kommun. XML-filerna vi fick ut gav intryck av en miljö där olika versioner av koden låg sida vid sida. För kommande algoritmgranskningar är versionshanteringen en bra standardfråga att alltid ha med sig.
+- 1 Kommunen kallar den inte så, åtminstone inte utåt, men den är så den heter i all mjukvarukod.
+2 Som datajournalist blir man alltid misstänksam när man får ut t.ex. 127, 128, 255 eller 256 av något, eftersom det emellanåt händer att databasutdrag, API-svar etc trunkeras vid 2ⁱ eller 2ⁱ-1. Vi har varit med om det mer än en gång. Men här verkar det vara ett sammanträffande.
+- 30 apr 2020
+- Leo Wallentin
+
+URL: https://www.dagenssamhalle.se/nyhet/kansliga-uppgifter-spreds-kod-till-bistandsrobot-31911/
+- måndag29 maj
+- Kontakt
+- Annonsera
+- E-tidning
+- Nyheter
+- Styrning & beslut
+- Samhälle & välfärd
+- Offentlig ekonomi
+- Chef & arbetsgivare
+- Opinion
+- Lediga jobb
+- Utbildning
+- Event
+- Sök
+- Mer
+- Stäng
+- Nyheter
+- Styrning & beslut
+- Samhälle & välfärd
+- Offentlig ekonomi
+- Chef & arbetsgivare
+- Opinion
+- Lediga jobb
+- Utbildning
+- Event
+- Nyhetsbrev
+- Kontakt
+- Annonsera
+- E-tidning
+- Sök
+- Logga in
+- Socialtjänst
+- Publicerad: 17 mars 2020, 12:58
+- I biståndsroboten Ernsts programkod gömmer sig något som inte hör hemma där: hundratals namn och personnummer på invånare i Trelleborgs kommun. Nu har koden lämnats ut, utan att sekretessprövas. Har kommunen koll på sin egen kod? Läckan belyser en kontroversiell fråga.
+- Ämnen i artikeln:
+- Händelsen sätter ljuset på något som gör beslutsrobotar kontroversiella: frågan om kommunerna förstår sin egen kod.
+- Möjlighet att säga upp under de första 3 månaderna.
+- Efter introduktionsperioden på 3 månader förnyas prenumerationen med 30% rabatt på ord.pris: 2 445 kr/år ex. moms och 12 månaders bindningstid och årlig förnyelse till ordinarie pris 3 495 kr.
+- Dela artikeln:
+- Vässa din omvärldsbevakning med hjälp av våra kostnadsfria nyhetsbrev. Du väljer själv vilka brev du behöver för att förenkla din vardag: senaste nytt, veckans löpsedel, dagens debattsvep, offentlig upphandling eller jobbevakningar.
+- Bli prenumerant
+- Kontakta oss
+- Tipsa oss
+- E-tidning
+- Alla ämnen
+- Lediga jobb
+- Annonsera
+- Om annonser
+- Gold Standard
+- Cookiepolicy
+- Cookielista
+- Personuppgiftspolicy
+- Anpassa cookies
+- RSS
+- Äldreomsorg
+- Arbetslöshet
+- Arbetsmarknad
+- Årets Superkommuner
+- Debatt
+- Gängkriminalitet
+- Gästkrönikor
+- Infrastruktur
+- Kommunala bolag
+- Kompetensförsörjning
+- Kompetensutveckling
+- Socialtjänsten
+- Svenskt näringsliv
+- Upphandling
+- Bostadspolitik
+- Ekonomisk politik
+- Energipolitik
+- EU
+- Integrationspolitik
+- Jämställdhetspolitik
+- Kommunalpolitik
+- Kommunpolitik
+- Kulturpolitik
+- Lokalpolitik
+- Migrationspolitik
+- Regionalpolitik
+- Regionernas ekonomi
+- Skolpolitik
+- Välfärdspolitik
+- kundservice@dagenssamhalle.se
+- 08-409 320 04
+- Chefredaktör och ansvarig utgivare: Christina Kennedy
+- Tillhandahållare av innehåll: Bonnier Business Media Sweden AB, 105 16 Stockholm, org. nr 556468-8892.
+- Allt innehåll på dagenssamhalle.se skyddas av upphovsrättslagen. Ange källa vid citering.
+- Dagens Samhälle är en del av Bonnier News.
+- Dagens Samhälle 105 16 Stockholm
+- Fler branschtitlar från Bonnier News:
+- Aktuell Hållbarhet
+- Byggindustrin
+- Dagens industri
+- Dagens Media
+- Dagens Medicin
+- Dagligvarunytt
+- Fastighetsnytt
+- Market
+- Resumé
+
+URL: https://www.dagenssamhalle.se/nyhet/trelleborg-anmaler-personuppgiftslacka-31956/
+- måndag29 maj
+- Kontakt
+- Annonsera
+- E-tidning
+- Nyheter
+- Styrning & beslut
+- Samhälle & välfärd
+- Offentlig ekonomi
+- Chef & arbetsgivare
+- Opinion
+- Lediga jobb
+- Utbildning
+- Event
+- Sök
+- Mer
+- Stäng
+- Nyheter
+- Styrning & beslut
+- Samhälle & välfärd
+- Offentlig ekonomi
+- Chef & arbetsgivare
+- Opinion
+- Lediga jobb
+- Utbildning
+- Event
+- Nyhetsbrev
+- Kontakt
+- Annonsera
+- E-tidning
+- Sök
+- Logga in
+- Socialtjänst
+- Publicerad: 19 mars 2020, 09:11
+- I koden till roboten finns namn och personuppgifter på personer som fått olika typer av stöd av kommunen. Foto: Skärmavbild
+- I tisdags kunde Dagens Samhälle avslöja att koden till Trelleborgs kommuns uppmärksammade biståndsrobot Ernst innehåller hundratals känsliga personuppgifter, som legat öppna att läsa för alla som haft tillgång till koden. Nu har kommunen anmält läckan till Datainspektionen och inlett en Lex Sarah-utredning.
+- Ämnen i artikeln:
+- Programkoden har kunnat begäras ut som en allmän handling, vilket bland annat DS gjort. Även konsulter som varit inblandade i arbetet med roboten har haft tillgång till koden, med dess
+- Möjlighet att säga upp under de första 3 månaderna.
+- Efter introduktionsperioden på 3 månader förnyas prenumerationen med 30% rabatt på ord.pris: 2 445 kr/år ex. moms och 12 månaders bindningstid och årlig förnyelse till ordinarie pris 3 495 kr.
+- Dela artikeln:
+- Vässa din omvärldsbevakning med hjälp av våra kostnadsfria nyhetsbrev. Du väljer själv vilka brev du behöver för att förenkla din vardag: senaste nytt, veckans löpsedel, dagens debattsvep, offentlig upphandling eller jobbevakningar.
+- Bli prenumerant
+- Kontakta oss
+- Tipsa oss
+- E-tidning
+- Alla ämnen
+- Lediga jobb
+- Annonsera
+- Om annonser
+- Gold Standard
+- Cookiepolicy
+- Cookielista
+- Personuppgiftspolicy
+- Anpassa cookies
+- RSS
+- Äldreomsorg
+- Arbetslöshet
+- Arbetsmarknad
+- Årets Superkommuner
+- Debatt
+- Gängkriminalitet
+- Gästkrönikor
+- Infrastruktur
+- Kommunala bolag
+- Kompetensförsörjning
+- Kompetensutveckling
+- Socialtjänsten
+- Svenskt näringsliv
+- Upphandling
+- Bostadspolitik
+- Ekonomisk politik
+- Energipolitik
+- EU
+- Integrationspolitik
+- Jämställdhetspolitik
+- Kommunalpolitik
+- Kommunpolitik
+- Kulturpolitik
+- Lokalpolitik
+- Migrationspolitik
+- Regionalpolitik
+- Regionernas ekonomi
+- Skolpolitik
+- Välfärdspolitik
+- kundservice@dagenssamhalle.se
+- 08-409 320 04
+- Chefredaktör och ansvarig utgivare: Christina Kennedy
+- Tillhandahållare av innehåll: Bonnier Business Media Sweden AB, 105 16 Stockholm, org. nr 556468-8892.
+- Allt innehåll på dagenssamhalle.se skyddas av upphovsrättslagen. Ange källa vid citering.
+- Dagens Samhälle är en del av Bonnier News.
+- Dagens Samhälle 105 16 Stockholm
+- Fler branschtitlar från Bonnier News:
+- Aktuell Hållbarhet
+- Byggindustrin
+- Dagens industri
+- Dagens Media
+- Dagens Medicin
+- Dagligvarunytt
+- Fastighetsnytt
+- Market
+- Resumé
+
+URL: https://www.journalisten.se/nyheter/hoppas-att-fler-kommer-granska-robotarna
+- Tipsa Journalisten »
+						Telefon: 08-613 75 00
+redaktionen@journalisten.se
+annons@journalisten.se
+- 24 februari, 2020
+- Samtal med
+		
+	Enligt en färsk dom i kammarrätten är källkoden till kommunala programvaror allmän handling. Journalisten Freddi Ramel som drivit fallet välkomnar domen: ”Robotar kommer i allt högre utsträckning att ta beslut om viktiga saker i människors liv. Då är det viktigt att kunna granska dem.”
+- I hĂ¶stas begĂ¤rde Freddi Ramel, producent pĂĄ P3 Dystopia, ut kĂ¤llkoden 
+till den algoritm som Trelleborgs kommun anvĂ¤nder fĂ¶r att ta beslut om 
+fĂ¶rsĂ¶rjningsstĂ¶d.
+
+Bakgrunden var att P3 Dystopia, som gĂ¶rs av Tredje Statsmakten, hĂ¶ll pĂĄ 
+med avsnittet â€ťAlgoritmerna och mĂ¤tandets tyranniâ
+- FOTO: Weyler
+
+
+9 maj, 2023 | 
+Det tog tolv år från fråga till färdig bok. Men en klassisk, faktaspäckad ”Kinabok” skulle Hanna Sahlberg aldrig vilja skriva. När hon nu berättar om landet hon levt två decennier i placerar hon sig själv och sina upplevelser i centrum.
+- FOTO: TV4
+
+
+8 maj, 2023 | 
+Efter mer än tjugo år som grävande journalist har Nicke Nordmark från Luleå börjat utbilda sig till och praktisera som relationscoach. ”Jag tycker det gör mig till en bättre journalist”, säger han.
+- 18 april, 2023 | 
+Det nya dagliga magasinet Konkret har skribenter som Lisa Bjurwald, Fredrik Virtanen, Masoud Kamali och Kent Wisti. ”Det finns ingen mediekritik längre, men det behövs”, säger chefredaktören Stefan Bergmark.
+- FOTO: Privat
+
+
+12 april, 2023 | 
+Efter sex år i vikariesvängen och flera utlasningar har Oskar Sandström, 39, nu fått fast tjänst som snabbhetsreporter* på NWT.
+- FOTO: Tor Johnsson
+
+
+11 april, 2023 | 
+”Språket betyder allt för mig”, säger poeten Elis Monteverde Burrau, och erkänner att han är svag för sensationalistiska budskap i medier. Och utropstecken!
+- FOTO: Gabriel Liljevall
+
+
+6 april, 2023 | 
+Musikjournalisten Emil Arvidson har bevakat hiphop och soul i decennier. I en ny bok om året efter mordet på rapparen Einár tar han ett helhetsgrepp på en ny hiphopgeneration som själv blivit en del av gängvåldet.
+- FOTO: Arenagruppen
+
+
+4 april, 2023 | 
+Efter fem år som ordförande i Svenska PEN slutar Jesper Bengtsson vid årsmötet den 9 maj, och han är orolig över yttrandefrihetens framtid här hemma.
+- 31 mars, 2023 | 
+Journalisten Helena Björk ville gå till botten med den svenska sexköpslagen. I stället hittade hon något annat: stora hål i det sociala stödet till personer som säljer sex – i hög grad ogranskade av medierna.
+- FOTO: Eva EdsjĂ¶/SVT
+
+
+30 mars, 2023 | 
+Som ny sportchef hoppas Max Bursell styra SVT in i en framtid där de blir än starkare digitalt, samtidigt som man behåller sin bredd. Men han är inte intresserad av att berätta vad de betalade för OS.
+- FOTO: Tor Johnsson
+
+
+20 mars, 2023 | 
+Författaren och journalisten Kurdo Baksis nya bok handlar till stor del om Turkiets president. ”Det kändes ibland som en parodi att skriva om ErdoÄźan”, säger Baksi.
+- Ja, vi Ă¤r alla redan dĂ¶dstrĂ¶tta pĂĄ rubriker med ordet AI, men oavsett vad vi tycker â€“ Â­artificiell intelligens Ă¤r nĂĄgot alla...
+- Ja, vi Ă¤r alla redan dĂ¶dstrĂ¶tta pĂĄ rubriker med ordet AI, men oavsett vad vi tycker â€“ Â­artificiell intelligens Ă¤r nĂĄgot alla...
+- LĂ¤s ledaren Se alla ledare
+- En junidag fĂ¶r nĂ¤stan fem ĂĄr sedan utkom frilansjournalisten och fĂ¶rfattaren Joakim Medin med boken OrbĂˇnistan, som handlar om...
+- En junidag fĂ¶r nĂ¤stan fem ĂĄr sedan utkom frilansjournalisten och fĂ¶rfattaren Joakim Medin med boken OrbĂˇnistan, som handlar om...
+- LĂ¤s krĂ¶nikan Se alla krĂ¶nikor
+- Jag har bytt jobb. Hur mycket jag Ă¤n tĂ¤nker att det ska bli annorlunda den hĂ¤r gĂĄngen blir det precis som alla gĂĄnger fĂ¶rut....
+- Jag har bytt jobb. Hur mycket jag Ă¤n tĂ¤nker att det ska bli annorlunda den hĂ¤r gĂĄngen blir det precis som alla gĂĄnger fĂ¶rut....
+- LĂ¤s krĂ¶nikan Se alla krĂ¶nikor
+- Efter tio ĂĄr Ă¤r Mora Tidning tillbaka i Ă„lvdalen. NĂ¤r...
+- Efter tio ĂĄr Ă¤r Mora Tidning tillbaka i Ă„lvdalen. NĂ¤r...
+- LĂ¤s ledaren Se alla ledare
+- 
+- 
+- Bakom Twitterkontot Förtalsombudsmannen finns 21-årige Christian Peterson som ägnar sig åt att stötta förtalsstämningar mot personer som pekas ut som vänsterextremister. Själv menar Christian Peterson att han bara vill stödja brottsoffer och ge dem upprättelse, men experter varnar för att det här är ytterhögerns senaste verktyg för att tysta journalister och opinionsbildare. I början av juni faller dom i Stockholms tingsrätt i ett av fallen, den kan påverka vad journalister kan berätta utåt om pågående gräv.
+- Bakom Twitterkontot Förtalsombudsmannen finns 21-årige Christian Peterson som ägnar sig åt att stötta förtalsstämningar mot personer som pekas ut som vänsterextremister. Själv menar Christian Peterson att han bara vill stödja brottsoffer och ge dem upprättelse, men experter varnar för att det här är ytterhögerns senaste verktyg för att tysta journalister och opinionsbildare. I början av juni faller dom i Stockholms tingsrätt i ett av fallen, den kan påverka vad journalister kan berätta utåt om pågående gräv.
+- Fler plusartiklar
+- 
+- 
+- Han flydde kulturjournalistiken under 2010-talets krypskyttekrig. Förgäves. När Johan Hilton nu tillträder som GPs kulturchef gör han det i ett vitaliserat debattklimat med växande publik. Drivkraften? ”Att det är så jävla roligt.”
+- Han flydde kulturjournalistiken under 2010-talets krypskyttekrig. Förgäves. När Johan Hilton nu tillträder som GPs kulturchef gör han det i ett vitaliserat debattklimat med växande publik. Drivkraften? ”Att det är så jävla roligt.”
+- Fler profiler
+- 
+- Ny Teknik, får IVAs pris för vetenskaplighet inom journalistiken.
+- blir ny Europakorrespondent för Sveriges Television.
+- har avlidit vid 71 års ålder.
+- Fler folk
+- 
+- 
+- Svenska mediearbetsgivare an­vänder redan AI för redaktionella arbetsuppgifter och för att hålla ­nere bemanningen. Med den snabba utvecklingen behöver nu alla journalister se om sitt bo. Det ­menar experterna, arbetsgivarna – och facket.
+- Svenska mediearbetsgivare an­vänder redan AI för redaktionella arbetsuppgifter och för att hålla ­nere bemanningen. Med den snabba utvecklingen behöver nu alla journalister se om sitt bo. Det ­menar experterna, arbetsgivarna – och facket.
+- Fler fĂ¶rdjupningar
+- 
+- 
+- Prenumerera på nyhetsbrevet
+- 
+- Journalisten, Nytorgsgatan 17a, 116 20 Stockholm
+Tel:08-613 75 00
+E-post: redaktionen@journalisten.se
+- Journalisten.se har 190 000 unika sidvisningar och 75 000 unika besĂ¶kare per mĂĄnad (genomsnitt Google analytics).
+Magasinet Journalisten har en rĂ¤ckvidd pĂĄ 42 000 lĂ¤sare (Orvesto 2:a kvartalet 2017). Annonsera
+- Journalisten Ă¤r Sveriges Ă¤ldsta och stĂ¶rsta medietidning. Prenumerera
+- Ansvarig utgivare: Julia Nilsson. Allt material Ă¤r skyddat enligt lagen om upphovsrĂ¤tt. Citera gĂ¤rna, men ange kĂ¤llan. Information om cookies
+
+URL: https://www.irpa.eu/quanta-automazione-il-welfare-state-puo-tollerare-per-non-smarrire-se-stesso/
+- Il rapporto Automating Society redatto dall’organizzazione Algorithm Watch presenta un ampio catalogo degli applicativi di welfare digitale recentemente adottati in Europa, stimolando la riflessione sulle relative potenzialità di sviluppo nonché sulle condizioni di perdurante compatibilità con i principi cardine dello Stato sociale.
+- 
+- Il Rapporto Automating Society Report (disponibile qui; in questo Osservatorio v. il post introduttivo di B. Carotti, L’Algorithm Watch: un rapporto)offre un’ampia rassegna dei sistemi di intelligenza artificiale attualmente sperimentati da quindici paesi dell’Unione europea.
+- 
+- Tra le numerosi tematiche oggetto d’indagine, alcune delle quali saranno approfondite in successivi post dell’Osservatorio, il rapporto contribuisce a mappare le iniziative di digital welfare che diversi Paesi europei stanno sperimentando (sul welfare digitale v. Luci ed ombre dei sistemi di digital welfare state) ed a stimolare la riflessione sulle relative potenzialità di sviluppo.
+- 
+- Un primo, rilevante, gruppo di applicativi documentato dal Rapporto è rappresentato dai software per la ricerca di frodi ed usi impropri di benefici e sussidi.
+- 
+- Questo è il caso di SyRI (acronimo per “System Risk Indication”), un sistema di intelligenza artificiale sviluppato nel 2014 dal governo olandese per la ricerca di frodi sulle erogazioni dei sussidi sociali (di SyRI si è già parlato qui e qui nell’Osservatorio). Incrociando i dati estratti da diversi database pubblici, il sistema segnala i “profili a rischio”, corrispondenti ai cittadini che presentino – secondo la valutazione algoritmica – un elevato rischio di frode o di uso improprio dei benefici assistenziali ricevuti.
+- 
+- Di recente, il sistema è stato però messo al bando dal Tribunale dell’Aia. Accogliendo il ricorso proposto da una coalizione di gruppi per i diritti umani, con sentenza del 5 febbraio 2020, i giudici olandesi hanno, infatti, ritenuto l’incisione sulla privacy dei cittadini coinvolti nel trattamento automatizzato non proporzionata rispetto agli interessi sociali sottesi all’utilizzo di SyRI.
+- 
+- Un secondo gruppo di applicativi per l’automazione del welfare pubblico riguarda le funzioni di assegnazione di benefici e sussidi.
+- 
+- Il Rapporto documenta l’iniziativa sperimentata – e poi seguita da diverse autorità locali svedesi – dalla città di Trelleborg per la gestione automatizzata delle richieste di rinnovo di talune prestazioni sociali, quali sussidi di disoccupazione, indennità di malattia, assistenza domiciliare e tasse. Come emerso dal rapporto AI Watch – Artificial intelligence in public services del Joint Research Centre per la Commissione europea, tale dispositivo ha consentito di ridurre drasticamente i tempi di evasione delle richieste, che in molti casi non superano le ventiquattro ore.
+- 
+- Ciononostante, il persistente difetto di accountability del software – unito ai numerosi casi di data leak verificatisi – ha recentemente indotto lo Stato svedese ad avviare un’indagine, tutt’ora in corso, sull’effettiva legittimità dell’impiego di tale dispositivo.
+- 
+- Un terzo gruppo di applicativi di digital welfare riguarda, infine, le attività di supporto alla comunicazione amministrativa.
+- 
+- Ad esempio, nel 2018 l’Istituto delle assicurazioni sociali del cantone svizzero di San Gallo ha sviluppato un chatbot con il compito, oltre che di fornire informazioni di carattere generale, anche di valutare le chances di accoglimento della richiesta di riduzione del premio assicurativo che il contribuente si accinga a presentare. Grazie al feedback positivo di questo primo test, l’Istituto svizzero ha in programma di espandere gradualmente il chatbot anche ad altri prodotti assicurativi.
+- 
+- Molteplici sono gli spunti di riflessione che è possibile trarre dal Rapporto.
+- 
+- Innanzitutto è chiaro che gli algoritmi non sono tutti uguali: mentre l’utilizzo dei chatbot in funzione di supporto informativo sembra avere dato, fino ad ora, buona prova di sé, molteplici esternalità negative sono invece emerse in relazione all’impiego di software nella fase decisionale vera e propria.
+- 
+- In secondo luogo, nonostante i vantaggi in termini di efficienza, coerenza e precisione che molti sistemi di ADM sono in grado di assicurare, il report documenta la perdurante opacità dei processi decisionali, i numerosi casi di discriminazione e le sproporzionate violazioni della privacy dei cittadini coinvolti nel trattamento nonché le conseguenti ripercussioni negative sul godimento delle libertà civili.
+- 
+- Un welfare state digitale progettato (o meglio, non regolamentato) in questo modo – è stato osservato – offre infinite possibilità per portare la sorveglianza e le intrusioni a livelli nuovi e profondamente problematici.
+- 
+- Oltre a queste tematiche, peraltro comuni a tutti i casi in cui gli algoritmi sono utilizzati nei processi decisionali pubblici (già trattate nell’Osservatorio, ad esempio, qui e qui), l’automazione del welfare pubblico ha specifici riflessi sull’effettività stessa della tutela assistenziale.
+- 
+- A causa delle persistenti forme di digital divide, la tendenziale automazione del welfare pubblico potrebbe sortire l’effetto di escludere proprio le fasce sociali più vulnerabili, ossia i principali destinatari delle misure di sostegno.
+- 
+- Inoltre, il welfare digitale potrebbe agevolare il transito verso un procedimento istruttorio algido e burocratico, lontano da quella matrice solidaristica che è alla base dello stesso Stato sociale.
+- Una legalità cieca, è stato detto, può essere anch’essa ingiusta laddove non tiene in considerazione alcuna le circostanze del caso particolare.
+- 
+- Espungere il “fattore umano” – proprio in un ambito in cui le condizioni di vita, individuali ed irripetibili, del richiedente possono assumere un rilievo decisivo ai fini del giudizio di spettanza della misura di sostegno – potrebbe condurre a risultati iniqui e sproporzionati, come molteplici esempi documentati nel Report hanno già contribuito a dimostrare.
+- 
+- Affinché lo Stato sociale non smarrisca se stesso, l’implementazione dei sistemi ADM dovrebbe allora avvenire in coerenza con i riferimenti valoriali – in primis il principi di solidarietà e di uguaglianza – che sono alla base del welfare state, mantenendo saldo il ragionevole (seppure imperfetto) baricentro umano.
+- 
+- Quest’opera è distribuita con Licenza Creative Commons Attribuzione – Non commerciale – Non opere derivate 4.0 Internazionale.
+
+- Netherlands childcare benefits automation scandal
+- UK disability benefits fraud identification algorithm
+- Allegheny County child neglect screening
+- Page info Type: SystemPublished: February 2020Last updated: December 2021

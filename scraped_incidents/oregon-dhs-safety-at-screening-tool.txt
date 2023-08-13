@@ -1,0 +1,427 @@
+- Released: December 2018 Occurred: June 2022
+- Can you improve this page?Share your insights with us
+- Safety at Screening is a predictive risk tool developed (pdf) and used by hotline workers at Oregon's Department of Human Services (DHS) from late 2018 to help decide which families flagged for instances of child abuse and neglect should be investigated by social workers.
+- Oregon stopped using the system in June 2022 after an AP review of Pennsylvania's Allegheny Family Screening Tool was found to have flagged a disproportionate number of Black children for 'mandatory' neglect investigations. Allegheny's tool had originally inspired Oregon officials to develop their system.
+- Oregon officials say its tool was stopped in order to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services, and that it would be replaced by a new programme - the Structured Decision Making model.
+- US Senator Ron Wyden said he had been concerned about the algorithms used by Oregon's child welfare system and had requested information about racial bias from the department following the AP story.
+- A black box, Oregon's Safety at Screening tool has not been audited internally or externally.
+- Operator: Oregon Department of Human Services (DHS)Developer: Oregon Department of Human Services (DHS)
+- Country: USA
+- Sector: Govt - welfare
+- Purpose: Predict child neglect/abuse
+- Technology: Prediction algorithm Issue: Accuracy/reliability; Bias/disrimination - race, ethnicity
+- Transparency: Black box
+URL: https://www.oregon.gov/dhs/ORRAI/Documents/safety-at-screening-research-brief.pdf
+
+URL: https://www.oregon.gov/dhs/ORRAI/Documents/safety-at-screening-report.pdf
+
+URL: https://apnews.com/article/politics-technology-pennsylvania-child-abuse-1ea160dc5c2c203fdab456e3c2d97930
+- 
+- Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.
+- The move comes weeks after an Associated Press review of a separate algorithmic tool in Pennsylvania that had originally inspired Oregon officials to develop their model, and was found to have flagged a disproportionate number of Black children for “mandatory” neglect investigations when it first was in place.
+- Oregon’s Department of Human Services announced to staff via email last month that after “extensive analysis” the agency’s hotline workers would stop using the algorithm at the end of June to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services.
+- “We are committed to continuous quality improvement and equity,” Lacey Andresen, the agency’s deputy director, said in the May 19 email.
+- Jake Sunderland, a department spokesman, said the existing algorithm would “no longer be necessary,” since it can’t be used with the state’s new screening process. He declined to provide further details about why Oregon decided to replace the algorithm and would not elaborate on any related disparities that influenced the policy change.
+- ——-
+- This story, supported by the Pulitzer Center for Crisis Reporting, is part of an ongoing Associated Press series, “Tracked,” that investigates the power and consequences of decisions driven by algorithms on people’s everyday lives.
+- ——-
+- Hotline workers’ decisions about reports of child abuse and neglect mark a critical moment in the investigations process, when social workers first decide if families should face state intervention. The stakes are high – not attending to an allegation could end with a child’s death, but scrutinizing a family’s life could set them up for separation.
+- From California to Colorado and Pennsylvania, as child welfare agencies use or consider implementing algorithms, an AP review identified concerns about transparency, reliability and racial disparities in the use of the technology, including their potential to harden bias in the child welfare system.
+- U.S. Sen. Ron Wyden, an Oregon Democrat, said he had long been concerned about the algorithms used by his state’s child welfare system and reached out to the department again following the AP story to ask questions about racial bias – a prevailing concern with the growing use of artificial intelligence tools in child protective services.
+- “Making decisions about what should happen to children and families is far too important a task to give untested algorithms,” Wyden said in a statement. “I’m glad the Oregon Department of Human Services is taking the concerns I raised about racial bias seriously and is pausing the use of its screening tool.”
+- Sunderland said Oregon child welfare officials had long been considering changing their investigations process before making the announcement last month.
+- He added that the state decided recently that the algorithm would be completely replaced by its new program, called the Structured Decision Making model, which aligns with many other child welfare jurisdictions across the country.
+- Oregon’s Safety at Screening Tool was inspired by the influential Allegheny Family Screening Tool, which is named for the county surrounding Pittsburgh, and is aimed at predicting the risk that children face of winding up in foster care or being investigated in the future. It was first implemented in 2018. Social workers view the numerical risk scores the algorithm generates – the higher the number, the greater the risk – as they decide if a different social worker should go out to investigate the family.
+- But Oregon officials tweaked their original algorithm to only draw from internal child welfare data in calculating a family’s risk, and tried to deliberately address racial bias in its design with a “fairness correction.”
+- In response to Carnegie Mellon University researchers’ findings that Allegheny County’s algorithm initially flagged a disproportionate number of Black families for “mandatory” child neglect investigations, county officials called the research “hypothetical,” and noted that social workers can always override the tool, which was never intended to be used on its own.
+- Wyden is a chief sponsor of a bill that seeks to establish transparency and national oversight of software, algorithms and other automated systems.
+- “With the livelihoods and safety of children and families at stake, technology used by the state must be equitable -- and I will continue to watchdog,” Wyden said.
+- The second tool that Oregon developed – an algorithm to help decide when foster care children can be reunified with their families – remains on hiatus as researchers rework the model. Sunderland said the pilot was paused months ago due to inadequate data but that there is “no expectation that it will be unpaused soon.”
+- In recent years while under scrutiny by a crisis oversight board ordered by the governor, the state agency – currently preparing to hire its eighth new child welfare director in six years – considered three additional algorithms, including predictive models that sought to assess a child’s risk for death and severe injury, whether children should be placed in foster care, and if so, where. Sunderland said the child welfare department never built those tools, however.
+- ___
+- Follow Sally Ho and Garance Burke on Twitter at @_sallyho and @garanceburke.
+- ___
+- Contact AP’s global investigative team at Investigative@ap.org or https://www.ap.org/tips/
+
+URL: https://www.aclu.org/sites/default/files/field_document/2021.09.28a_family_surveillance_by_algorithm.pdf
+
+URL: https://www.muckrock.com/foi/oregon-158/oregon-safety-at-screening-aggregate-data-115862/
+- Share
+- MuckRock users can file, duplicate, track, and share public records requests
+      like this one. Learn more.
+- From: Todd Feathers
+- Subject: Oregon Public Records Law Request: Oregon Safety at Screening aggregate data
+- To Whom It May Concern:
+- Pursuant to the Oregon Public Records Law, I hereby request the following records:
+- 1) Safety at Screening risk score data—annually, since the system was implemented—measuring the probability that the child named in a report will be removed from their home if the report is assigned for investigation. I request that this data be in aggregate (average risk score by category), broken down by the following child characteristics:
+- - Race- Gender- Disability- Race AND Gender- Race AND Disability
+- 2) Safety at Screening risk score data—annually, since the system was implemented—measuring the probability that the child  named in a report will be named in a new investigation if the report is screened out. I request that this data be in aggregate, broken down by the following child characteristics:
+- - Race- Gender- Disability- Race AND Gender- Race AND Disability
+- 3) Annual aggregate data since 2016 on the number of child abuse/neglect report cases that were assigned for investigation and which were screened out, broken down by the following child characteristics:
+- - Race- Gender- Disability- Race AND Gender- Race AND Disability
+- Please note that all the data I am requesting is in aggregate (i.e., average scores for a broad category of children across a year) and not personally identifiable data or data that could be used in conjunction with other sources to identify individual cases.
+- I ask that all fees be waived as I am a journalist and intend to use the requested records to publish articles in the public interest about the workings of government. In the event you choose to impose fees, I request a detailed breakdown of the fees, including the hourly wage of each employ involved and an explanation justifying the employee hours required to fulfill the request.
+- Should you choose to reject this request or redact portions of it, I ask that you provide a detailed breakdown of the statutory exemptions and associated case law underlying your decision to withhold each/any portions from public review.
+- In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.
+- Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days.
+- Sincerely,
+- Todd Feathers
+- From: Department of Human Services
+- Subject: RE: Oregon Public Records Law Request: Oregon Safety at Screening aggregate data
+- Hello,Can you please go to this webpage and formally send in a records request. That is really the best and most effective way to get this request started: https://www.oregon.gov/dhs/Pages/RecordRequests.aspxThank you,ODHS Communications
+- From: Department of Human Services
+- Subject: AUTO RESPONSE: ODHS Records Request Received: K2MZTVX
+- From: Department of Human Services
+- Subject: ODHS Records Request Acknowledgment
+- From: Department of Human Services
+- Subject: ODHS Records Request Due Date Extension -
+- From: Todd Feathers
+- Subject: RE: Oregon Public Records Law Request: Oregon Safety at Screening aggregate data
+- Hello,
+- Your last three messages have all come through blank. Could you please send the messages again in a different format?
+- Thank you!Todd
+- From: Muckrock Staff
+- Subject: RE: Oregon Public Records Law Request: Oregon Safety at Screening aggregate data
+- To Whom It May Concern:
+- I wanted to follow up on the following Oregon Public Records Law request, copied below, and originally submitted on July 14, 2021. Please let me know when I can expect to receive a response.
+- Thanks for your help, and let me know if further clarification is needed.
+- 
+- From: Department of Human Services
+- Subject: ODHS Records Request Due Date Extension
+- From: Department of Human Services
+- Subject: ODHS Records Request Due Date Extension
+- From: Department of Human Services
+- Subject: ODHS Records Request Due Date Extension
+- From: Department of Human Services
+- Subject: ODHS Records Request
+- This is a secure message. Click here https://secureemail.dhsoha.state.or.us/formpostdir/securereader?id=YvfS92j5IeuruEE9bMhnZj1JrJ3RSUHj&brand=d0c67197  by 2021-11-25 12:08 PST to read your message, or open the SecureMessageAtt.html attachment.   After 2021-11-25 12:08 PST, you must open the attachment to read the email.
+- SecureMessageAtt
+- lock
+- logo
+- From: Department of Human Services
+- Subject: Proofpoint Encryption Registration
+- Please use this validation code to complete your registration: 690472
+- Note: This code will expire in 30 minutes.
+- 10/26/2021
+- logo
+- 10/26/2021
+- lock
+- 10/26/2021
+- SecureMessageAtt
+- Newsletter
+- Want the latest investigative and FOIA news?
+- MuckRock is a non-profit collaborative news site that gives you the tools to keep our government transparent and accountable.
+- Make a Donation
+- © 2010–2023 Muckrock
+
+URL: https://www.npr.org/2022/06/02/1102661376/oregon-drops-artificial-intelligence-child-abuse-cases
+- By
+- The Associated Press
+- Sen. Ron Wyden, D-Ore., speaks during a Senate Finance Committee hearing on Oct. 19, 2021. Wyden says he has long been concerned about the algorithms used by his state's child welfare system.
+                
+                    
+                    Mandel Ngan/AP
+                    
+                
+hide caption
+- Sen. Ron Wyden, D-Ore., speaks during a Senate Finance Committee hearing on Oct. 19, 2021. Wyden says he has long been concerned about the algorithms used by his state's child welfare system.
+- Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.
+- The move comes weeks after an Associated Press review of a separate algorithmic tool in Pennsylvania that had originally inspired Oregon officials to develop their model, and was found to have flagged a disproportionate number of Black children for "mandatory" neglect investigations when it first was in place.
+- Oregon's Department of Human Services announced to staff via email last month that after "extensive analysis" the agency's hotline workers would stop using the algorithm at the end of June to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services.
+- "We are committed to continuous quality improvement and equity," Lacey Andresen, the agency's deputy director, said in the May 19 email.
+- Jake Sunderland, a department spokesman, said the existing algorithm would "no longer be necessary," since it can't be used with the state's new screening process. He declined to provide further details about why Oregon decided to replace the algorithm and would not elaborate on any related disparities that influenced the policy change.
+- Hotline workers' decisions about reports of child abuse and neglect mark a critical moment in the investigations process, when social workers first decide if families should face state intervention. The stakes are high – not attending to an allegation could end with a child's death, but scrutinizing a family's life could set them up for separation.
+- From California to Colorado and Pennsylvania, as child welfare agencies use or consider implementing algorithms, an AP review identified concerns about transparency, reliability and racial disparities in the use of the technology, including their potential to harden bias in the child welfare system.
+- U.S. Sen. Ron Wyden, an Oregon Democrat, said he had long been concerned about the algorithms used by his state's child welfare system and reached out to the department again following the AP story to ask questions about racial bias – a prevailing concern with the growing use of artificial intelligence tools in child protective services.
+- "Making decisions about what should happen to children and families is far too important a task to give untested algorithms," Wyden said in a statement. "I'm glad the Oregon Department of Human Services is taking the concerns I raised about racial bias seriously and is pausing the use of its screening tool."
+- Sunderland said Oregon child welfare officials had long been considering changing their investigations process before making the announcement last month.
+- He added that the state decided recently that the algorithm would be completely replaced by its new program, called the Structured Decision Making model, which aligns with many other child welfare jurisdictions across the country.
+- Oregon's Safety at Screening Tool was inspired by the influential Allegheny Family Screening Tool, which is named for the county surrounding Pittsburgh, and is aimed at predicting the risk that children face of winding up in foster care or being investigated in the future. It was first implemented in 2018. Social workers view the numerical risk scores the algorithm generates – the higher the number, the greater the risk – as they decide if a different social worker should go out to investigate the family.
+- But Oregon officials tweaked their original algorithm to only draw from internal child welfare data in calculating a family's risk, and tried to deliberately address racial bias in its design with a "fairness correction."
+- In response to Carnegie Mellon University researchers' findings that Allegheny County's algorithm initially flagged a disproportionate number of Black families for "mandatory" child neglect investigations, county officials called the research "hypothetical," and noted that social workers can always override the tool, which was never intended to be used on its own.
+- Wyden is a chief sponsor of a bill that seeks to establish transparency and national oversight of software, algorithms and other automated systems.
+- "With the livelihoods and safety of children and families at stake, technology used by the state must be equitable — and I will continue to watchdog," Wyden said.
+- The second tool that Oregon developed – an algorithm to help decide when foster care children can be reunified with their families – remains on hiatus as researchers rework the model. Sunderland said the pilot was paused months ago due to inadequate data but that there is "no expectation that it will be unpaused soon."
+- In recent years while under scrutiny by a crisis oversight board ordered by the governor, the state agency – currently preparing to hire its eighth new child welfare director in six years – considered three additional algorithms, including predictive models that sought to assess a child's risk for death and severe injury, whether children should be placed in foster care, and if so, where. Sunderland said the child welfare department never built those tools, however.
+- Sponsor Message
+- Become an NPR sponsor
+
+URL: https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases
+- Subscribe to Here’s the Deal, our politics
+                 newsletter for analysis you won’t find anywhere else.
+- Thank you. Please check your inbox to confirm.
+- Sally Ho, Associated Press
+
+
+                    Sally Ho, Associated Press
+- Garance Burke, Associated Press
+
+
+                    Garance Burke, Associated Press
+- Leave your feedback
+- Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.
+- The move comes weeks after an Associated Press review of a separate algorithmic tool in Pennsylvania that had originally inspired Oregon officials to develop their model, and was found to have flagged a disproportionate number of Black children for “mandatory” neglect investigations when it first was in place.
+- Oregon’s Department of Human Services announced to staff via email last month that after “extensive analysis” the agency’s hotline workers would stop using the algorithm at the end of June to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services.
+- “We are committed to continuous quality improvement and equity,” Lacey Andresen, the agency’s deputy director, said in the May 19 email.
+- Jake Sunderland, a department spokesman, said the existing algorithm would “no longer be necessary,” since it can’t be used with the state’s new screening process. He declined to provide further details about why Oregon decided to replace the algorithm and would not elaborate on any related disparities that influenced the policy change.
+- Hotline workers’ decisions about reports of child abuse and neglect mark a critical moment in the investigations process, when social workers first decide if families should face state intervention. The stakes are high – not attending to an allegation could end with a child’s death, but scrutinizing a family’s life could set them up for separation.
+- READ MORE: How an algorithm that screens for child neglect could harden racial disparities
+- From California to Colorado and Pennsylvania, as child welfare agencies use or consider implementing algorithms, an AP review identified concerns about transparency, reliability and racial disparities in the use of the technology, including their potential to harden bias in the child welfare system.
+- U.S. Sen. Ron Wyden, an Oregon Democrat, said he had long been concerned about the algorithms used by his state’s child welfare system and reached out to the department again following the AP story to ask questions about racial bias – a prevailing concern with the growing use of artificial intelligence tools in child protective services.
+- “Making decisions about what should happen to children and families is far too important a task to give untested algorithms,” Wyden said in a statement. “I’m glad the Oregon Department of Human Services is taking the concerns I raised about racial bias seriously and is pausing the use of its screening tool.”
+- Sunderland said Oregon child welfare officials had long been considering changing their investigations process before making the announcement last month.
+- He added that the state decided recently that the algorithm would be completely replaced by its new program, called the Structured Decision Making model, which aligns with many other child welfare jurisdictions across the country.
+- Oregon’s Safety at Screening Tool was inspired by the influential Allegheny Family Screening Tool, which is named for the county surrounding Pittsburgh, and is aimed at predicting the risk that children face of winding up in foster care or being investigated in the future. It was first implemented in 2018. Social workers view the numerical risk scores the algorithm generates – the higher the number, the greater the risk – as they decide if a different social worker should go out to investigate the family.
+- But Oregon officials tweaked their original algorithm to only draw from internal child welfare data in calculating a family’s risk, and tried to deliberately address racial bias in its design with a “fairness correction.”
+- In response to Carnegie Mellon University researchers’ findings that Allegheny County’s algorithm initially flagged a disproportionate number of Black families for “mandatory” child neglect investigations, county officials called the research “hypothetical,” and noted that social workers can always override the tool, which was never intended to be used on its own.
+- Wyden is a chief sponsor of a bill that seeks to establish transparency and national oversight of software, algorithms and other automated systems.
+- “With the livelihoods and safety of children and families at stake, technology used by the state must be equitable — and I will continue to watchdog,” Wyden said.
+- The second tool that Oregon developed – an algorithm to help decide when foster care children can be reunified with their families – remains on hiatus as researchers rework the model. Sunderland said the pilot was paused months ago due to inadequate data but that there is “no expectation that it will be unpaused soon.”
+- In recent years while under scrutiny by a crisis oversight board ordered by the governor, the state agency – currently preparing to hire its eighth new child welfare director in six years – considered three additional algorithms, including predictive models that sought to assess a child’s risk for death and severe injury, whether children should be placed in foster care, and if so, where. Sunderland said the child welfare department never built those tools, however.
+- This story, supported by the Pulitzer Center for Crisis Reporting, is part of an ongoing Associated Press series, “Tracked,” that investigates the power and consequences of decisions driven by algorithms on people’s everyday lives.
+- Left:
+                Backlit keyboard is reflected in screen of Apple Macbook Pro notebook computer in Warsaw February 6, 2012. Photo by Kacper Pempel/REUTERS
+- By Sally Ho, Garance Burke, Associated Press
+- By Joshua Barajas
+- By Michele Gilman, The Conversation
+- Sally Ho, Associated Press
+
+
+                    Sally Ho, Associated Press
+- Garance Burke, Associated Press
+
+
+                    Garance Burke, Associated Press
+- Support Provided By:
+Learn more
+- Subscribe to Here’s the Deal, our politics
+                 newsletter for analysis you won’t find anywhere else.
+- Thank you. Please check your inbox to confirm.
+- © 1996 - 2023 NewsHour Productions LLC. All Rights Reserved.
+- Sections
+- About
+- Stay Connected
+- Subscribe to ‘Here's the Deal,’ our politics newsletter
+- Thank you. Please check your inbox to confirm.
+- Learn more about Friends of the NewsHour.
+- Support for NewsHour Provided By
+
+URL: https://fortune.com/2022/04/30/algorithm-screens-for-child-neglect-raises-concerns/
+- Inside a cavernous stone fortress in downtown Pittsburgh, attorney Robin Frank defends parents at one of their lowest points—when they risk losing their children.
+- The job is never easy, but in the past she knew what she was up against when squaring off against child protective services in family court. Now, she worries she’s fighting something she can’t see: an opaque algorithm whose statistical calculations help social workers decide which families should be investigated in the first place.
+- “A lot of people don’t know that it’s even being used,” Frank said. “Families should have the right to have all of the information in their file.”
+- From Los Angeles to Colorado and throughout Oregon, as child welfare agencies use or consider tools similar to the one in Allegheny County, Penn., an Associated Press review has identified a number of concerns about the technology, including questions about its reliability and its potential to harden racial disparities in the child welfare system. Related issues have already torpedoed some jurisdictions’ plans to use predictive models, such as the tool notably dropped by the state of Illinois.
+- According to new research from a Carnegie Mellon University team obtained exclusively by AP, Allegheny’s algorithm in its first years of operation showed a pattern of flagging a disproportionate number of Black children for a “mandatory” neglect investigation, when compared with white children. The independent researchers, who received data from the county, also found that social workers disagreed with the risk scores the algorithm produced about one-third of the time.
+- County officials said that social workers can always override the tool, and called the research “hypothetical.”
+- Child welfare officials in Allegheny County, the cradle of Mister Rogers’ TV neighborhood and the icon’s child-centric innovations, say the cutting-edge tool—which is capturing attention around the country—uses data to support agency workers as they try to protect children from neglect. That nuanced term can include everything from inadequate housing to poor hygiene, but is a different category from physical or sexual abuse, which is investigated separately in Pennsylvania and is not subject to the algorithm.
+- “Workers, whoever they are, shouldn’t be asked to make, in a given year, 14, 15, 16,000 of these kinds of decisions with incredibly imperfect information,” said Erin Dalton, director of the county’s Department of Human Services and a pioneer in implementing the predictive child welfare algorithm.
+- ____
+- This story, supported by the Pulitzer Center for Crisis Reporting, is part of an ongoing Associated Press series, “Tracked,” that investigates the power and consequences of decisions driven by algorithms on people’s everyday lives.
+- ____
+- Critics say it gives a program powered by data mostly collected about poor people an outsized role in deciding families’ fates, and they warn against local officials’ growing reliance on artificial intelligence tools.
+- If the tool had acted on its own to screen in a comparable rate of calls, it would have recommended that two-thirds of Black children be investigated, compared with about half of all other children reported, according to another study published last month and co-authored by a researcher who audited the county’s algorithm.
+- Advocates worry that if similar tools are used in other child welfare systems with minimal or no human intervention–akin to how algorithms have been used to make decisions in the criminal justice system–they could reinforce existing racial disparities in the child welfare system.
+- “It’s not decreasing the impact among Black families,” said Logan Stapleton, a researcher at Carnegie Mellon University. “On the point of accuracy and disparity, (the county is) making strong statements that I think are misleading.”
+- Because family court hearings are closed to the public and the records are sealed, AP wasn’t able to identify first-hand any families who the algorithm recommended be mandatorily investigated for child neglect, nor any cases that resulted in a child being sent to foster care. Families and their attorneys can never be sure of the algorithm’s role in their lives either because they aren’t allowed to know the scores.
+- Incidents of potential neglect are reported to Allegheny County’s child protection hotline. The reports go through a screening process where the algorithm calculates the child’s potential risk and assigns a score. Social workers then use their discretion to decide whether to investigate.
+- The Allegheny Family Screening Tool is specifically designed to predict the risk that a child will be placed in foster care in the two years after they are investigated. Using a trove of detailed personal data collected from birth, Medicaid, substance abuse, mental health, jail and probation records, among other government data sets, the algorithm calculates a risk score of 1 to 20: The higher the number, the greater the risk.
+- Given the high stakes—skipping a report of neglect could end with a child’s death but scrutinizing a family’s life could set them up for separation—the county and developers have suggested their tool can help “course correct” and make the agency’s work more thorough and efficient by weeding out meritless reports so that social workers can focus on children who truly need protection.
+- The developers have described using such tools as a moral imperative, saying child welfare officials should use whatever they have at their disposal to make sure children aren’t neglected.
+- “There are children in our communities who need protection,” said Emily Putnam-Hornstein, a professor at the University of North Carolina at Chapel Hill’s School of Social Work who helped develop the Allegheny tool, speaking at a virtual panel held by New York University in November.
+- Dalton said algorithms and other predictive technologies also provide a scientific check on call center workers’ personal biases because they see the risk score when deciding if the case merits an investigation. If the case is escalated, Dalton said the full investigation is carried out by a different social worker who probes in person, decides if the allegations are true and helps determine if the children should be placed in foster care.
+- CMU researchers found that from August 2016 to May 2018, the tool calculated scores that suggested 32.5% of Black children reported as being neglected should be subject to a “mandatory” investigation, compared with 20.8% of white children.
+- In addition, the county confirmed to the AP that for more than two years, a technical glitch in the tool sometimes presented social workers with the wrong scores, either underestimating or overestimating a child’s risk. County officials said the problem has since been fixed.
+- The county didn’t challenge the CMU researchers’ figures, but Dalton said the research paper represented a “hypothetical scenario that is so removed from the manner in which this tool has been implemented to support our workforce.”
+- The CMU research found no difference in the percentage of Black families investigated after the algorithm was adopted. The study found the workers were able to reduce this disparity produced by the algorithm.
+- The county says that social workers are always in the loop and are ultimately responsible for deciding which families are investigated because they can override the algorithm, even if it flags a case for mandatory investigation. Dalton said the tool would never be used on its own in Allegheny, and doubted any county would allow for completely automated decision-making about families’ lives.
+- “Of course, they could do that,” she said. “I think that they are less likely to, because it doesn’t make any actual sense to do that.”
+- Despite what the county describes as safeguards, one child welfare expert who worked for an Allegheny county contractor says there is still cause for concern.
+- “When you have technology designed by humans, the bias is going to show up in the algorithms,” said Nico’Lee Biddle, who has worked for nearly a decade in child welfare, including as a family therapist and foster care placement specialist in Allegheny County. “If they designed a perfect tool, it really doesn’t matter, because it’s designed from very imperfect data systems.”
+- Biddle is a former foster care kid turned therapist, social worker and policy advocate. In 2020, she quit, largely due to her growing frustrations with the child welfare system. She also said officials dismissed her concerns when she asked why families were originally referred for investigation.
+- “We could see the report and that decision, but we were never able to see the actual tool,” she said. “I would be met with … ‘What does that have to do with now?’”
+- In recent years, movements to reshape—or dismantle—child protective services have grown, as generations of dire foster care outcomes have been shown to be rooted in racism.
+- In a memo last year, the U.S. Department of Health and Human Services cited racial disparities “at nearly every major decision-making point” of the child welfare system, an issue Aysha Schomburg, the associate commissioner of the U.S. Children’s Bureau said leads more than half of all Black children nationwide to be investigated by social workers. “Over surveillance leads to mass family separation,” Schomburg wrote in a recent blog post.
+- With discussions about race and equity looming large in child welfare circles, Putnam-Hornstein last fall took part in a roundtable of experts convened by the conservative American Enterprise Institute and co-authored a paper that slammed advocates who believe child welfare systems are inherently racist.
+- She said she collaborated with the group that suggested there are “racial disparities in the incidence of maltreatment” because she sees the need for reforms, and believes “that the adoption of algorithmic decision aids can help guard against subjectivity and bias.”
+- Some researchers worry that as other government agencies implement similar tools, the algorithms could be allowed to make some decisions on their own.
+- “We know there are many other child welfare agencies that are looking into using risk assessment tools and their decisions about how much fully to automate really vary,” said Stapleton. “Had Allegheny County used it as a fully automated tool, we would have seen a much higher racial disparity in the proportion of kids who are investigated.”
+- A decade ago, the developers of Allegheny’s tool—Putnam-Hornstein and Rhema Vaithianathan, a professor of health economics at New Zealand’s Auckland University of Technology—began collaborating on a project to design a predictive risk model for New Zealand’s child welfare system.
+- Vaithianathan and colleagues prototyped a new child abuse screening model that proposed using national data to predict the risk that the child protection system would confirm allegations that a child had been mistreated by age 5. The plan was scrapped after documents revealed the Ministry of Social Development’s head sharply opposed the project, declaring: “These are children, not lab rats.”
+- The minister wasn’t the only one concerned. Emily Keddell, a professor of social work at Otago University in New Zealand who analyzed the tool in the peer-reviewed Critical Social Policy journal, found that it would likely have resulted in more Māori families being tagged for investigation, reinforcing “existing structural inequalities by contributing to the ongoing stigmatisation of this population.”
+- In response, Vaithianathan said that she and her collaborators are open to community criticism and committed to showing their work, even if jurisdictions decide against it. She added that she has worked extensively with Indigenous Māori researchers.
+- “We encourage agencies to listen to those critical voices and to make leadership decisions themselves,” she said.
+- Vaithianathan and Putnam-Hornstein said they have since expanded their work to at least half a dozen cities and counties across the United States and have explored building tools in Chile and Australia.
+- Brian Chor, a clinical psychologist and child welfare researcher at the University of Chicago’s Chapin Hall, said the pair are respected for confronting ethical and racial concerns in creating the tool. He also said that Pittsburgh was the perfect place to create a model algorithm for other public welfare agencies.
+- “Allegheny County is probably an early adopter where the stars seem to be aligned, where they have the data,” Chor said. “They have a solid recipe that I think is replicable.”
+- In several public presentations and media interviews, Vaithianathan and Putnam-Hornstein said they want to use public data to help families in need.
+- “We’re researchers and we’re trying to model what good, good approaches look like in this field,” Vaithianathan said in an interview. The developers also noted in a document sent to Pennsylvania’s Department of Human Services last year that demand for their tools had increased due to the pandemic, as the state weighed a proposal for a statewide tool that would cost $520,000 to develop and implement.
+- Vaithianathan has said the tool ultimately can help address racial bias, and has pointed to a 2019 Stanford University evaluation commissioned by Allegheny County that suggests it may have had a modest impact on some disparities.
+- “I’ve always felt that these are tools that have the opportunity to improve the quality of decision making,” Vaithianathan said at a November panel. “To the extent that they are used with careful guardrails around them, I think they also offer an opportunity for us to try and address some of those systemic biases.”
+- But when AP asked county officials to address Carnegie Mellon’s findings on the tool’s pattern of flagging a disproportionate number of Black children for a “mandatory” child neglect investigation, Allegheny County questioned the researchers’ methodology by saying they relied on old data.
+- The researchers reran the analysis using newer data to address the county’s concerns and reached many of the same conclusions.
+- In response to AP, Allegheny County provided research that acknowledges the tool has not helped with combating disparities in the rates at which Black and white child neglect cases are investigated. A recent unpublished analysis written by the developers themselves determined “no statistically significant effect of the algorithm on this disparity.”
+- “We don’t frame the entire decision-making process around race, though clearly it’s an important thing that we think about,” Dalton said.
+- Dalton said her team wants to keep improving the tool and is considering new updates, including adding available private insurance data to capture more information about middle class and upper income families, as well as exploring other ways to avoid needless interventions.
+- Dalton also downplayed the algorithm’s role in neglect investigations.
+- “If it goes into court, then there’s attorneys on both sides and a judge,” Dalton said. “They have evidence, right?”
+- Chor said Allegheny’s tool is applied at the most important point of the child welfare system.
+- “The very front end of child protection decision-making is understandably the most impactful decision that you can make on a child’s life, because once you come into contact with the hotline, with an investigator, then your chance of being removed, of course, is increased,” Chor said.
+- The latest version of the tool excludes information about whether a family has received welfare dollars or food stamps, data that was initially included in calculating risk scores. It also stopped predicting whether a child would be reported again to the county in the two years that followed. However, much of the current algorithm’s design remains the same, according to American Civil Liberties Union researchers who have studied both versions.
+- The county initially considered including race as a variable in its predictions about a family’s relative risk but ultimately decided not to, according to a 2017 document. Critics say even if race is not measured outright, data from government programs used by many communities of color can be a proxy for race. In the document, the developers themselves urged continuing monitoring “with regard to racial disparities.”
+- “If over a million dollars have been spent creating and maintaining this tool, only for call screeners to disagree with it, for racial disparities to stay essentially level, and for screen-ins to continue at unreasonably high rates, is that the best use of Allegheny County’s resources?” asked Kath Xu, an attorney at the ACLU.
+- Child welfare agencies in at least 26 states and Washington, D.C., have considered using algorithmic tools, and at least 11 have deployed them, according to a recent ACLU white paper by Xu and colleagues.
+- Family law attorney Frank says she’s always worried about the lack of due process and secrecy surrounding Allegheny County’s child welfare algorithm. Some of her clients have asked if the system was surveilling them because they used public assistance or community programs, but she can’t answer.
+- “I just don’t understand why it’s something that’s kept in secret,” Frank said.
+- Once, Frank recalled, a judge demanded to know a family’s score, but the county resisted, claiming it didn’t want to influence the legal proceeding with the numbers spat out by the algorithm.
+- Bruce Noel, who oversees call screeners using Allegheny’s tool, said that while the risk score advises their decision on whether to launch an investigation, he is torn about sharing that information with families because of the tool’s complexity. He added that he is cognizant of the racial disparities in the underlying data, and said his team didn’t have much input into development.
+- “Given that our data is drawn from public records and involvement with public systems, we know that our population is going to garner scores that are higher than other demographics, such as white middle class folks who don’t have as much involvement with public systems,” Noel said.
+- Dalton said she personally doesn’t support giving parents their score because she worries it could discourage people from seeking services when they need them.
+- “I do think there are risks and I want the community to also be on board with … the risks and benefits of transparency,” Dalton said.
+- Other counties using algorithms are taking a different approach. Larimer County, Colorado, home to Fort Collins, is now testing a tool modeled on Allegheny’s and plans to share scores with families if it moves forward with the program.
+- “It’s their life and their history,” said Thad Paul, a manager with the county’s Child, Youth & Family Services. “We want to minimize the power differential that comes with being involved in child welfare … we just really think it is unethical not to share the score with families.”
+- In the suburbs south of Denver, officials in Douglas County, Colorado, are using a similar tool and say they will share scores with families who request it.
+- Oregon does not share risk score numbers from its statewide screening tool, which was first implemented in 2018 and inspired by Allegheny’s algorithm. The Oregon Department of Human Services – currently preparing to hire its eighth new child welfare director in six years – explored at least four other algorithms while the agency was under scrutiny by a crisis oversight board ordered by the governor.
+- It recently paused a pilot algorithm built to help decide when foster care children can be reunified with their families. Oregon also explored three other tools – predictive models to assess a child’s risk for death and severe injury, whether children should be placed in foster care and if so, where.
+- For years, California explored data-driven approaches to the statewide child welfare system before abandoning a proposal to use a predictive risk modeling tool Putnam-Hornstein’s team developed in 2019. The state’s Department of Social Services spent $195,273 on a two-year grant to develop the concept.
+- “During the project, the state also explored concerns about how the tool may impact racial equity. These findings resulted in the state ceasing exploration,” department spokesman Scott Murray said in an email.
+- Putnam-Hornstein’s team is currently working with one of the nation’s largest local child welfare systems in Los Angeles County as it pilots a related tool.
+- The embattled agency is being audited following high-profile child deaths, and is currently seeking a new director after its previous one stepped down late last year. The “complex-risk algorithm” helps to isolate the highest-risk cases that are being investigated, according to the county’s Department of Children and Family Services.
+- So far, the experiment has been limited to the Belvedere, Lancaster, and Santa Fe Springs offices, the agency said. The tool also has allowed the agency to generate and review reports about cases involving Black children and families who were deemed low-risk, but were still investigated and didn’t result in any conclusive or substantiated allegations, the county said.
+- In the Mojave Desert city of Lancaster, U.S. Census shows 22% of the city’s child population is Black. In the first few months that social workers started using the tool, county data shows that Black children were the subject of nearly half of all the investigations flagged for additional scrutiny.
+- The county did not immediately say why, but said it will decide whether to expand the tool later this year.
+- Back in Pittsburgh, family law attorney Frank is still trying to untangle how, exactly, the county’s algorithm is impacting each client she shepherds through the system.
+- To find strength on the brutal days, she keeps a birthday calendar for the children she’s helped and sends them handwritten cards to remember times when things went right.
+- She’s still haunted by a case in which she says she heard a social worker discuss a mother’s risk score in court around 2018. The case ultimately escalated to foster care, but Frank has never been able to understand how that number influenced the family’s outcome.
+- County officials said they could not imagine how a risk score could end up in court.
+- “There’s no way to prove it—that’s the problem,” Frank said.
+- ___
+- Associated Press reporter Camille Fassett contributed to this report.
+- ___
+- Follow Sally Ho and Garance Burke on Twitter at @_sallyho and @garanceburke.
+- Sign up for the Fortune Features email list so you don’t miss our biggest features, exclusive interviews, and investigations.
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.techdirt.com/2022/06/17/oregon-state-officials-dump-al-tool-used-to-initiate-child-welfare-investigations/
+- (Mis)Uses of Technology
+- There’s plenty of human work to be done, but there never seems to be enough humans to do it. When things need to be processed in bulk, we turn it over to hardware and software. It isn’t better. It isn’t smarter. It’s just faster.
+- We can’t ask humans to process massive amounts of data because they just can’t do it well enough or fast enough. But they can write software that can perform tasks like this, allowing humans to do the other things they do best… like make judgment calls and deal with others humans.
+- Unfortunately, even AI can become mostly human, and not in the sentient, “turn everyone into paperclips” way it’s so often portrayed in science fiction. Instead, it becomes an inadvertent conduit of human bias that can produce the same results as biased humans, only at a much faster pace while being whitewashed with the assumption that ones and zeroes are incapable of being bigoted.
+- But that’s the way AI works, even when deployed with the best of intentions. Unfortunately, taking innately human jobs and subjecting them to automation tends to make societal problems worse than they already are. Take, for example, a pilot program that debuted in Pennsylvania before spreading to other states. Child welfare officials decided software should do some of the hard thinking about the safety of children. But when the data went in, the usual garbage came out.
+- According to new research from a Carnegie Mellon University team obtained exclusively by AP, Allegheny’s algorithm in its first years of operation showed a pattern of flagging a disproportionate number of Black children for a “mandatory” neglect investigation, when compared with white children.
+- Fortunately, humans were still involved, which means not everything the AI spit out was treated as child welfare gospel.
+- The independent researchers, who received data from the county, also found that social workers disagreed with the risk scores the algorithm produced about one-third of the time.
+- But if the balance shifted towards more reliance on the algorithm, the results would be even worse.
+- ​​If the tool had acted on its own to screen in a comparable rate of calls, it would have recommended that two-thirds of Black children be investigated, compared with about half of all other children reported, according to another study published last month and co-authored by a researcher who audited the county’s algorithm.
+- There are other backstops that minimize the potential damage caused by this tool, which the county relies on to handle thousands of neglect decisions a year. Workers are told not to use algorithmic output alone to instigate investigations. As noted above, workers are welcome to disagree with the automated determinations. And this only used to handle cases of potential neglect or substandard living conditions, rather than cases involving more direct harm like physical or sexual abuse.
+- Allegheny County isn’t an anomaly. More locales are utilizing algorithms to make child welfare decisions. The state of Oregon’s tool is based on the one used in Pennsylvania, but with a few helpful alterations.
+- Oregon’s Safety at Screening Tool was inspired by the influential Allegheny Family Screening Tool, which is named for the county surrounding Pittsburgh, and is aimed at predicting the risk that children face of winding up in foster care or being investigated in the future. It was first implemented in 2018. Social workers view the numerical risk scores the algorithm generates – the higher the number, the greater the risk – as they decide if a different social worker should go out to investigate the family.
+- But Oregon officials tweaked their original algorithm to only draw from internal child welfare data in calculating a family’s risk, and tried to deliberately address racial bias in its design with a “fairness correction.”
+- But Oregon officials have decided to ditch this following the AP investigation published in April (as well as a nudge from Senator Ron Wyden).
+- Oregon’s Department of Human Services announced to staff via email last month that after “extensive analysis” the agency’s hotline workers would stop using the algorithm at the end of June to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services.
+- “We are committed to continuous quality improvement and equity,” Lacey Andresen, the agency’s deputy director, said in the May 19 email.
+- There’s no evidence Oregon’s tool resulted in disproportionate targeting of minorities, but the state obviously feels it’s better to get out ahead of the problem, rather than dig out of a hole later. It appears, at least from this report, the immensely important job of ensuring children’s safety will still be handled mostly by humans. And yes, humans are more prone to bias than software, but at least their bias isn’t hidden behind a wall of inscrutable code and is far less efficient than the slowest biased AI.
+- Filed Under: ai, allegheny county, biased algorithms, child services, child welfare, racism, risk scores, screening tool
+- Oregon State Officials Dump Al Tool
+- I believe the character’s name was Al Borland.
+- And here I thought I was just imagining the “upper case I vs lower case L” issue…
+- There’s no issue when serif fonts are used, but most people apparently find them to be less readable on a screen.
+- This comment has been flagged by the community. Click here to show it.
+- Th problem for woke ideologues is that such AI programs look at reality with unwoke eyes, and so see what is really there, not what woke ideologues don’t want anyone to see, or at least not say out loud.
+- Hyman: please note, not every story on our site is about your weird infatuation.
+- This comment has been flagged by the community. Click here to show it.
+- When it comes to their favored victim groups, woke ideologues are always there to firmly plant a thumb on the scale. Performance data on outcomes is their bête noire, and they despise AI systems for gathering such data and revealing truths they prefer to hide. They won’t rest until AI systems are programmed to yield the lies they want.
+- It’s always easier for them to target people than machines, when it’s people pointing out inconvenient facts: https://www.mindingthecampus.org/2018/03/15/why-a-penn-professor-was-vilified-for-telling-the-truth-about-race/
+- You may be the stupidest, most gullible commenter I’ve ever seen on this site Hyman. You don’t understand anything, yet believe you’re an expert. Your level of gullible ignorance, driven by grifters who are lying to you is just sad and pathetic. I don’t know how old you are, but I hope, one day you grow out of your pathetic life, and learn a little.
+- Hyman seems more likely to grow out of his pathetic life via “accidental discharge of a firearm,” IMHO. He’s clearly dumb enough to not realize the dangers of pointing a handgun at yourself without making sure the safety’s on and checking it’s unloaded first, TBH.
+- This comment has been flagged by the community. Click here to show it.
+- 61. The way I’m most likely to grow out of my life is feet-first, although hopefully not for some time yet. I don’t find my life to be pathetic. It would be nice to identify as thin, fit, and not bald, but unlike certain people, when I look in the mirror I see what is really there.
+- You have fallen for a belief system that is patently false, have incorporated it into your identity, and therefore feel fury at anyone who dares oppose it. It’s the mindset that shipped people off to gulags and locked them in asylums for questioning Communism.
+- Your calling me names isn’t going to change anything. If you don’t like hearing opposing views, do what your favored platforms do; call it hate speech and ban it.
+- You have fallen for a belief system that is patently false
+- A belief system cannot be “false,” but either way I don’t think you have the first idea what my “belief” system is. What I will say is that I believe in respecting others. You have shown you do not believe in that, and that’s enough for me to realize you are pathetic.
+- At the same time, you have this weird obsession with other people’s genitals. I find that creepy in the extreme.
+- Just because I respect people does not make me “a woke gender ideologue” which is the label you seem to throw on anyone who asks you to stop being a total asshole. “Woke gender ideologue” is a nonsense term, and generally only shows that whoever is saying it is a foolish, gullible person. Which is exactly what you’ve shown.
+- Imagine getting to the age of 61 and thinking the most important thing in life is making sure you know what everyone’s genitals are, and then deliberately looking to deny them basic dignity when there is extensive evidence in how doing so puts people in harms way.
+- It’s a sick perversion, Hyman. And I do hope one day you realize just how fucked up it truly is.
+- I’m not “woke” because that’s a nonsense term. But I do respect people’s privacy and I prefer to give people the dignity of referring to people as they wish to be referred to.
+- Your calling me names isn’t going to change anything.
+- I wasn’t calling you names to change things. I called you names because nothing else seems to get through your incredibly dense skull. The fact that you pollute my site with utter nonsense and your genital obsession is ridiculous.
+- I am going to ask you now to go away and do not comment here again. I am asking you politely this time. Going forward I may go further.
+- This is not because I don’t wish to hear opposing views. Yours is not an opposing view. Yours is a sick, perverted obsession, and it is frequently off topic, distracting, and obnoxious.
+- Go away. You can read this site all you want, but do not comment here any more unless you can behave yourself.
+- No, I think I’ll persist until you use force.
+- There is no respect in men to demanding to enter women’s single-sex spaces. It is not obsession with genitals to insist that this defining characteristic be the thing that prevents such admission. A belief system that says that men can be pregnant is false. It is perverse for schools to conceal mental health problems of children from their parents.
+- All of the above is so obviously true that it feels like anyone claiming the opposite must be literally insane. And the fury with which you and other commenters react, the insults, the name calling, all support that view – a shared delusion that is as thin as a soap bubble must be protected and nurtured, because it is so easily popped. It’s the same fury with which religions attack heretics, because this is a religion too, and as false as all of them.
+- Why does it not surprise me that you reject my polite request? Okay. I asked nicely. And, as with your obsession with not respecting other people’s boundaries, you continue to do that here. That is a mistake.
+- Hyman, from here on out, your comments get held. I will approve ones that respect others and do not spread bigotry. If you continue to express hatred, they will not get posted. I have never done this with any other commenter, but you are spreading hatred on my site, and I am sick of it. Go fuck off somewhere else.
+- at least their bias isn’t hidden behind a wall of inscrutable code and is far less efficient than the slowest biased AI.
+- I am reminded of the Bureau of Sabotage.
+- If only they had built in a system that allowed for new input when a human disagreed with the score that would help the code adapt better.
+- AI might work great for detecting suspicious growths because its comparing apples to apples in ever case.
+It learned from 2 billion pictures of what cancer can look like and it can flag some scans for human review.
+If the reviewer discovered a series of selected images that definitely weren’t cancer, they would have no problem sounding the alarm that its gone stupid.
+- AI is not like in the movies, it is not all knowing and perfect. You can’t accept anything it says with 100% certainty unless its only comparing single point to single point.
+With the number of points to predict if child welfare should get involved, there is no where near enough data to feed it to cover all of the points fully.
+Then one needs to remove the ‘black swan’ cases where something completely unexpected happened 1 time that might never repeat because it was so from left field.
+- But even then how do you compare parents to each other, I know survivors of abuse who are fantastic parents but the common thinking is that it will repeat.
+I know people who had perfect childhoods who I would never leave alone with a child.
+Not every child of an alcoholic grows up to be a drunk, so the data points aren’t cut & dried.
+- This is one of those times where TACs dream of them living with it first would have been useful.
+Imagine the whole child welfare staff from top to bottom fed into the system to see which of them it thinks needs a visit from the state to protect their child…
+- AI is not like in the movies, it is not all knowing and perfect. You can’t accept anything it says with 100% certainty unless it’s only comparing single point to single point.
+- Like in this movie? 😉
+- As part of the duty, and the imagined “good standing” of me, running a church in an all-black hood for 30 years, i have spent decades as a finger-printed, interviewed, called before the Child-Welfare-Court Judge, Court appointed “Monitor”.
+- Hundreds of days spent as the assigned “monitor” of a 2 hour by-monthly parent visit with their temporary-foster-home-detained “at-risk” child or children.
+- One year, the temporary-foster-home was a three hour drive (each way) from the family’s home & public school teaching job. Sometimes, a parent would buy me a meal..
+- After the “Adoption and Safe Families Act” of 1997 the Fed reimburses the States 100% of the $$ for removing and storing & paperwork of an “at risk” child AWAY FROM THEIR HOUSE for at least 15 months, and forces loss of the parent’s rights to the child, except in specific circumstance. Department of Children and Family Services became a growth industry, with no down side: doubling US child placement numbers in 20 years.
+- Mixed-race child? BINGO!
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://www.wweek.com/news/state/2022/06/04/oregon-department-of-human-services-ends-its-use-of-child-abuse-risk-algorithm/
+- Kids' bikes parked outside Sunnyside School. (Sam Gehrke)
+- The Oregon Department of Human Services will stop using an algorithmic tool that helps social workers decide whether to investigate families for child abuse and neglect, shortly after a study showed a similar tool disproportionately flagged Black families.
+- The algorithm, first used by Oregon officials in 2018, was inspired by a screening tool developed for child welfare officials in Allegheny County, Penn. But the Pennsylvania algorithm has come under scrutiny: Data collected by a Carnegie Mellon University research team and reviewed by the Associated Press in April indicated that Allegheny’s algorithm flagged a disproportionate number of Black children for “mandatory” neglect investigation in its first years of operation.
+- Lacey Andersen, deputy director of Oregon DHS, announced that the agency would stop using the algorithm by the end of June in a May 19 email to staff obtained by the AP. “We are committed to continuous quality improvement and equity,” Andersen said in the email.
+- Oregon’s algorithm, used as part of its Safety at Screening Tool, is meant to assist hotline workers in deciding whether social workers should investigate reports of child abuse and neglect. The reports fielded by hotline workers go through a screening process in which the algorithm generates a numerical risk score that indicates the likelihood of children ending up in foster care or their treatment being investigated in the future. Hotline workers use the numerical risk scores as additional data to inform their decisions about state interventions, but they are permitted to use their own discretion in determining which cases to investigate.
+- The algorithm used by the Allegheny Family Screening Tool provides the “procedural basis” for Oregon DHS’s Safety at Screening Tool, according to a DHS report.
+- Allegheny’s algorithm uses personal data from government data sets—including Medicaid, mental health, and jail and probation records—to calculate numerical risk scores. A study cited by the AP investigation found that the tool, given comparable rates of calls, “would have recommended that two-thirds of Black children be investigated, compared with about half of all other children.”
+- Jake Sunderland, press secretary for the Oregon Department of Human Services, told WW in an email that DHS made adjustments to its algorithm to account for racial bias.
+- “Knowing that algorithms are at risk of perpetuating racial biases and structural inequities, ODHS the Safety at Screening Tool was developed with an algorithmic ‘fairness correction’ to correct for the biases in the data,” Sunderland wrote in the email to WW.
+- Sunderland said there was no connection between recent media coverage of algorithmic bias and the agency’s decision. He told WW that DHS chose to replace its current screening processes in 2021 “with the goal of improving equity, accuracy and consistency.” DHS decided to discontinue the Safety at Screening Tool not because its algorithm yielded racially biased results, but because of the tool’s incompatibility with the agency’s new screening model, Structured Decision Making, Sunderland added.
+- “Because the Structured Decision Making tool uses family specific information, the risk score produced by the Safety at Screening Tool (a predictive analytic tool based on aggregate child welfare data) could not be incorporated into Structured Decision Making,” Sunderland wrote.
+- DHS will replace the algorithm with the less automated Structured Decision Making model June 30.
+- Willamette Week's journalism is funded, in part, by our readers. Your help supports local, independent journalism that informs, educates, and engages our community. Become a WW supporter.
+- We'll send you a newsletter with what you need to know every week.
+
+URL: https://www.engadget.com/oregon-is-shutting-down-its-controversial-child-welfare-ai-in-june-175543329.html
+- In 2018, Oregon's Department of Human Services implemented its Safety at Screening Tool, an algorithm that generates a "risk score" for abuse hotline workers, recommending whether a social worker needs to further investigate the contents of a call. This AI was based on the lauded Allegheny Family Screening Tool, designed to predict the risk of a child ending up in foster care based on a number of socioeconomic factors.
+- But after the Allegheny tool was found to be flagging a disproportionate number of black children for "mandatory" neglect, and a subsequent AP investigative report into the issue, Oregon officials now plan to shutter their derivative AI by the end of June in favor of an entirely new, and specifically less automated, review system.
+- The department's own analysis predicts that the decision will help reduce some of the existing racial disparities endemic to Oregon's child welfare system. “We are committed to continuous quality improvement and equity,” Lacey Andresen, the agency’s deputy director, said in a May 19 email to staff obtained by the AP.
+- A number of states across the country have already implemented, or are considering, similar algorithms within their child welfare agencies. But as with Northpointe's COMPAS before them, their implementation have raised concerns about the transparency and reliability of the process as well as their clear tendency towards racial bias. However, the Allegheny developers did note that their tool was just that and was never intended to operate on its own without direct human oversight.
+- “Making decisions about what should happen to children and families is far too important a task to give untested algorithms,” Senator Ron Wyden (OR-D) said in a statement. “I’m glad the Oregon Department of Human Services is taking the concerns I raised about racial bias seriously and is pausing the use of its screening tool.”
+- In its place, the Oregon DHS will implement a Structured Decision Making model used by California, Texas and New Jersey. Oregon's other child welfare AI, one that generates a score for whether or not a foster kid should be reunited with their family, remains on hiatus.
+
+URL: https://imprintnews.org/news-briefs/oregon-officials-phase-out-use-of-artificial-intelligence-tool-in-child-welfare-cases/65818
+
+- Allegheny County child neglect screening
+- Gladsaxe vulnerable children detection
+- Page info Type: SystemPublished: December 2022

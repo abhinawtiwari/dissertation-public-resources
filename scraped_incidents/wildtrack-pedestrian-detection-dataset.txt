@@ -1,0 +1,24 @@
+- Released: 2017Occurred: April 2019
+- Can you improve this page?Share your insights with us
+- WILDTRACK is a dataset of video recordings of thousands of students, faculty and others to-ing and fro-ing 'in the wild' outside the main building at ETH University, Zurich.
+- Developed by École Polytechnique Fédérale de Lausanne and ETH University researchers in Switzerland, the dataset comprises seven 35 minute videos captured by seven high-definition GoPro cameras during good weather conditions.
+- The videos were subsequently annotated to mark the positions of people in each frame and informed research (pdf) papers on the project.
+- While notices were placed underneath each of the cameras, the recordings were largely made without the knowledge or consent of those captured due to their size and inconspicuous nature.
+- As researcher Adam Harvey notes in his exposing.ai project, this means students will be used as training data and have almost no recourse for redaction as the data is shared, copied, and manipulated across multiple legal jurisdictions.
+- WILDTRACK has been made openly available for any type of research, with potential applications envisaged (pdf) by the researchers including security, surveillance, remote person identification, robotics, autonomous driving, and crowdsourcing.
+- Published research studies reveal that WILDTRACK has been used by a range of academic and commercial entities such as the Nanjing University of Aeronautics (NUAA), the University of Leicester, Microsoft, and Wormplex AI to improve drone and retail surveillance.
+- Harvey notes that 'NUAA has produced over 40 unmanned aerial vehicles (UAVs) for China, most of which are small or micro sized UAVs with consumer or industrial surveillance capabilities ... [with] a limited number .. made specifically for military reconnaissance.'
+- Operator: École Polytechnique Fédérale de Lausanne (EPFL); ETH University; Microsoft; Nanjing University of Aeronautics and Astronautics (NUAA); Universidad Autónoma de Madrid; University of Leicester; Wormplex AI Developer: École Polytechnique Fédérale de Lausanne; ETH University Country: SwitzerlandSector: Technology; Research/academia Purpose: Improve pedestrian detection Technology: Dataset; Pedestrian detection; Computer vision; Pattern recognition Issue: Privacy; Surveillance; Dual/multi-use Transparency: Privacy
+- Website
+- Dataset
+- Research paper
+- Harvey, A., LaPlace, J. (2019). Exposing.ai
+- Zhu H., Qi Y., Shi H., Li N., Zhou H. (2018). Human Detection Under UAV: an Improved Faster R-CNN Approach
+- Chakraborty I., Hua G. (2019). Priming Deep Pedestrian Detection with Geometric Context
+URL: https://www.nzz.ch/schweiz/ueberwachung-wie-unsere-bilder-die-technologie-verbessern-ld.1542751
+- Online gepostete Fotos und Videos von Passanten landen in Datenbanken. Sie dienen der Optimierung von Gesichtserkennung und anderer künstlicher Intelligenz. KI-Datenbanken entstehen auch in der Schweiz.
+- Marcus Pfister bezeichnet sich selbst als Dinosaurier, jedenfalls dann, wenn es um neue Technologien geht. Dementsprechend spärlich ist auch der Online-Auftritt des Berner Kinderbuchautors: eine simple, etwas aus der Zeit gefallene Website, eine Facebook-Site, deren letzter Eintrag von 2011 stammt, und keine zehn Bilder auf Instagram. Umso erstaunter war Pfister, als er erfuhr, dass sich Fotos von ihm, die im Netz stehen, in einer Datenbank befinden, mit der Gesichtserkennungssoftwares getestet und trainiert wurden. «Ich finde das seltsam», sagt er am Telefon, «es würde mich sehr wundern, wenn man mit den wenigen Bildern etwas anfangen kann.»
+
+- DukeMTMC campus facial recognition dataset
+- Stanford University Brainwash cafe facial recognition dataset
+- Page infoType: DataPublished: May 2022

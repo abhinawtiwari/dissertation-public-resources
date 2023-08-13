@@ -1,0 +1,525 @@
+- Occurred: April 2022
+- Can you improve this page?Share your insights with us
+- Intel is collaborating with education start-up Classroom Technologies to develop an AI-based tool that integrates with Zoom to let teachers know their students' state of mind.
+- Protocol reports that Intel claims its system can detect whether students are happy, sad, bored, distracted, or confused by assessing their facial expressions and how they’re interacting with educational content.
+- Some teachers who have tested Intel's system in a physical classroom say the system is useful. Critics of affective computing, however, argue emotion recognition is notoriously inaccurate and often mistakes facial expresssions for real, underlying feelings. It also struggles across different cultures and scenarios.
+- Others are concerned about the intrusive nature of using cameras in an educational context, and in their potential for continual surveillance and misuse.
+- Classroom Technologies co-founder and CEO Michael Chasen told Protocol he hopes to partner with one of the colleges his company works with to evaluate Intel's system.
+- Operator:  Developer: Intel; Classroom Technologies Country: USA Sector: Education Purpose: Improve student engagement Technology: Emotion recognition; Facial analysis Issue: Accuracy/reliability; Pseudoscience; Privacy; Surveillance Transparency: Black box
+- Class website
+- Class/Intel (2023). Class Technologies Announces Partnership with Intel to Improve PC-Based Virtual Learning Experience
+- Stanford HAI (2023). 2023 AI Index Report - 3.2 AI Incidents (pdf)
+URL: https://www.protocol.com/enterprise/emotion-ai-school-intel-edutech
+- Virtual school software startup Classroom Technologies will test the controversial “emotion AI” technology.
+- The system can detect whether students are bored, distracted or confused.
+- When college instructor Angela Dancey wants to decipher whether her first-year English students comprehend what she’s trying to get across in class, their facial expressions and body language don’t reveal much.
+- "Even in an in-person class, students can be difficult to read. Typically, undergraduates don't communicate much through their faces, especially a lack of understanding,” said Dancey, a senior lecturer at the University of Illinois Chicago.
+- Dancey uses tried-and-true methods such as asking students to identify their "muddiest point" — a concept or idea she said students still struggle with — following a lecture or discussion. "I ask them to write it down, share it and we address it as a class for everyone's benefit," she said.
+- But Intel and Classroom Technologies, which sells virtual school software called Class, think there might be a better way. The companies have partnered to integrate an AI-based technology developed by Intel with Class, which runs on top of Zoom. Intel claims its system can detect whether students are bored, distracted or confused by assessing their facial expressions and how they’re interacting with educational content.
+- 
+- “We can give the teacher additional insights to allow them to better communicate,” said Michael Chasen, co-founder and CEO of Classroom Technologies, who said teachers have had trouble engaging with students in virtual classroom environments throughout the pandemic.
+- His company plans to test Intel’s student engagement analytics technology, which captures images of students’ faces with a computer camera and computer vision technology and combines it with contextual information about what a student is working on at that moment to assess a student’s state of understanding. Intel's partnership with Class is a research proof-of-concept undertaking, said Sinem Aslan, a research scientist at Intel, who helped develop the technology.
+- “We are trying to enable one-on-one tutoring at scale,” said Aslan, adding that the system is intended to help teachers recognize when students need help and to inform how they might alter educational materials based on how students interact with the educational content. “High levels of boredom will lead [students to] completely zone out of educational content,” said Aslan.
+- But critics argue that it is not possible to accurately determine whether someone is feeling bored, confused, happy or sad based on their facial expressions or other external signals.
+- Some researchers have found that because people express themselves through tens or hundreds of subtle and complex facial expressions, bodily gestures or physiological signals, categorizing their state with a single label is an ill-suited approach. Other research indicates that people communicate emotions such as anger, fear and surprise in ways that vary across cultures and situations, and how they express emotion can fluctuate on an individual level.
+- “Students have different ways of presenting what’s going on inside of them,” said Todd Richmond, a longtime educator and the director of the Tech and Narrative Lab and a professor at the Pardee RAND Graduate School. “That student being distracted at that moment in time may be the appropriate and necessary state for them in that moment in their life,” he said, if they’re dealing with personal issues, for example.
+- 
+- The classroom is just one arena where controversial “emotion AI” is finding its way into everyday tech products and generating investor interest. It’s also seeping into delivery and passenger vehicles and virtual sales and customer service software. After Protocol's report last week on the use of this technology on sales calls, Fight for the Future launched a campaign urging Zoom not to adopt the technology in its near-ubiquitous video-conferencing software.
+- At this early stage, it’s not clear how Intel’s technology will be integrated with the Class software, said Chasen, who said he expects the company will partner with one of the colleges it already works with to evaluate the Intel system. Chasen told Protocol that Classroom Technologies is not paying Intel to test the technology. Class is backed by investors including NFL quarterback Tom Brady, AOL co-founder Steve Case and Salesforce Ventures.
+- Intel has established partnerships to help distribute other nascent forms of AI it has built. For example, in the hopes of productizing a system that turns data visualizing joints and skeletal movements into analytics to monitor and improve athletic performance, the company has partnered with Purdue University and soccer scouting app AiScout.
+- 
+- Educators and advocacy groups have raised alarms regarding excessive student surveillance and privacy invasions associated with facial recognition deployed in schools for identification and security purposes. Those concerns have accelerated as AI-based software has been used more often than ever during the pandemic, including technologies that monitor student behavior in the hopes of preventing cheating during virtual testing and systems that track content that students view on their laptops in an effort to detect whether they are at risk of self-harm.
+- Class already tracks how often students raise their hands during a session, and offers a “proctor view” feature that lets teachers monitor what students are viewing on their computers if the students agree to share their desktop screen with instructors.
+- “I think we have to be very sensitive about people’s personal rights and not being overly intrusive with these systems,” said Chasen.
+- 
+- As virtual class became the norm in the past couple years, a debate emerged among educators over whether or not to require students to turn on their cameras during class. Today in Dancey’s English program, cameras are optional, in part because in virtual settings students can communicate with instructors through their microphones or via chat.
+- But in order to capture students’ facial expressions, Intel’s technology would need those cameras turned on.
+- “The thing about turning cameras on, it became almost like a social-justice issue,” Dancey said. Not only are some students concerned about others seeing where or how they live, but enabling the cameras drains power, which can be a problem for students using a mobile hotspot to connect for class, she said.
+- “It’s kind of an invasion of privacy, and there are accessibility issues, because having your camera on uses up a huge amount of bandwidth. That could literally be costing them money to do that,” Dancey said.
+- We don’t want this technology to be a surveillance system.
+- “Students shouldn’t have to police how they look in the classroom,” said Nandita Sampath, a policy analyst with Consumer Reports focused on algorithmic bias and accountability issues, who said she wondered whether students would have the ability to contest inaccurate results if Intel’s system leads to negative consequences. “What cognitive and emotional states do these companies claim they are able to assess or predict, and what is the accountability?” she said.
+- Aslan said the goal of Intel’s technology is not to surveil or penalize students, but rather to coach teachers and provide additional information so they can better understand when students need help. “We did not start this technology as a surveillance system. In fact, we don’t want this technology to be a surveillance system,” Aslan said.
+- Sampath said Intel’s technology could be used to judge or penalize students even if that is not the intent. “Maybe they might not intend for this to be the ultimate decision-maker, but this doesn’t mean the teacher or administrator can’t use it in that way,” she said.
+- Dancey said teachers worry about surveillance being used against them, too. “Often surveillance is used against instructors really unfairly,” she said. “I don’t think it would be paranoid to say, especially if it’s going to measure ‘student engagement’ — TM, in quotes — that If I go up for promotion or tenure, is that going to be part of my evaluation? Could they say, ‘So-and-so had a low comprehension quotient?’”
+- 
+- When Intel tested the system in a physical classroom setting, some teachers who participated in the study suggested it provided useful information. “I was able to witness how I could catch some emotional challenges of the students that I could not have anticipated [before],” said one teacher, according to a document provided by Intel.
+- But while some teachers may have found it helpful, Dancey said she would not want to use the Intel system. “I think most teachers, especially at the university level, would find this technology morally reprehensible, like the panopticon. Frankly, if my institution offered it to me, I would reject it, and if we were required to use it, I would think twice about continuing to work here,” she said.
+- Four days after this story was published, Intel said it wanted to offer an additional statement about its emotion AI work and partnership with Classroom Technologies.
+- "Intel’s partnership to test the technology in the Class software at this stage is a research proof of concept. We have no near-term plans to productize the technology and are currently collaborating with Class to conduct further research to identify any socio-technical challenges or outcomes to refine and iterate on this proof of concept," said Mindy Nelson, an Intel representative, in an email.
+- At this early stage, Intel aims to find the best ways to implement the technology so it is most useful for teachers, Aslan said: “How do we make it in a way that it is aligned with what the teacher does on a daily basis?”
+- I think most teachers, especially at the university level, would find this technology morally reprehensible.
+- Intel developed its adaptive learning analytics system by incorporating data gathered from students in real-life classroom sessions using laptops with 3D cameras. To label the ground truth data used to train its algorithmic models, the researchers hired psychologists who viewed videos of the students and categorized the emotions they detected in their expressions.
+- 
+- “We don’t want to start with any assumptions. That’s why we hired the subject matter experts to label the data,” said Nese Alyuz Civitci, a machine-learning researcher at Intel. The researchers only used data when at least two of three labelers agreed how a student’s expressions should be categorized.
+- “It was really interesting to see those emotions — the states are really subtle, they are really tiny differences,” Civitci said. “It was really hard for me to identify those differences.”
+- Rather than assessing Intel’s AI models on whether they accurately reflected the actual emotions of students, the researchers “positioned it as how instrumental or how much a teacher can trust the models,” Aslan said.
+- “I don’t think it’s tech that’s fully reached its maturity yet,” Chasen said regarding Intel’s system. “We need to see if the results are relevant to the performance of the students and see if we can’t get useful data for the instructors out of it. This is what we’re testing to find out.”
+- Ultimately, he said the Intel system will provide one piece of data that Classroom Technologies and its customers will combine with other signals to form a holistic assessment of students.
+- “There’s never one piece of data,” he said. He also suggested that the information revealed by the Intel technology should not be used on its own without context to judge a student’s performance, such as, “if the AI says they’re not paying attention and they have all straight As.”
+- This story was updated to clarify the status of Intel's work with Class Technologies and include an additional statement.
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- His decisions on major cryptocurrency cases have quoted "The Big Lebowski," "SNL," and "Dr. Strangelove." That’s because he wants you — yes, you — to read them.
+- The ways Zia Faruqui (right) has weighed on cases that have come before him can give lawyers clues as to what legal frameworks will pass muster.
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- “Cryptocurrency and related software analytics tools are ‘The wave of the future, Dude. One hundred percent electronic.’”
+- That’s not a quote from "The Big Lebowski" — at least, not directly. It’s a quote from a Washington, D.C., district court memorandum opinion on the role cryptocurrency analytics tools can play in government investigations. The author is Magistrate Judge Zia Faruqui.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- The financial technology transformation is driving competition, creating consumer choice, and shaping the future of finance. Hear from seven fintech leaders who are reshaping the future of finance, and join the inaugural Financial Technology Association Fintech Summit to learn more.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- As AWS preps for its annual re:Invent conference, Adam Selipsky talks product strategy, support for hybrid environments, and the value of the cloud in uncertain economic times.
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- AWS is gearing up for re:Invent, its annual cloud computing conference where announcements this year are expected to focus on its end-to-end data strategy and delivering new industry-specific services.
+- It will be the second re:Invent with CEO Adam Selipsky as leader of the industry’s largest cloud provider after his return last year to AWS from data visualization company Tableau Software.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- Jamie Condliffe (
+	@jme_c) is the executive editor at Protocol, based in London. Prior to joining Protocol in 2019, he worked on the business desk at The New York Times, where he edited the DealBook newsletter and wrote Bits, the weekly tech newsletter. He has previously worked at MIT Technology Review, Gizmodo, and New Scientist, and has held lectureships at the University of Oxford and Imperial College London. He also holds a doctorate in engineering from the University of Oxford.
+- We launched Protocol in February 2020 to cover the evolving power center of tech. It is with deep sadness that just under three years later, we are winding down the publication.
+- As of today, we will not publish any more stories. All of our newsletters, apart from our flagship, Source Code, will no longer be sent. Source Code will be published and sent for the next few weeks, but it will also close down in December.
+- 
+- 
+- 
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- As companies expand their use of AI beyond running just a few machine learning models, and as larger enterprises go from deploying hundreds of models to thousands and even millions of models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- As companies expand their use of AI beyond running just a few machine learning models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- On any given day, Lily AI runs hundreds of machine learning models using computer vision and natural language processing that are customized for its retail and ecommerce clients to make website product recommendations, forecast demand, and plan merchandising. But this spring when the company was in the market for a machine learning operations platform to manage its expanding model roster, it wasn’t easy to find a suitable off-the-shelf system that could handle such a large number of models in deployment while also meeting other criteria.
+- Some MLops platforms are not well-suited for maintaining even more than 10 machine learning models when it comes to keeping track of data, navigating their user interfaces, or reporting capabilities, Matthew Nokleby, machine learning manager for Lily AI’s product intelligence team, told Protocol earlier this year. “The duct tape starts to show,” he said.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- To give you the best possible experience, this site uses cookies. If you continue browsing. you accept our use of cookies. You can review our privacy policy to find out more about the cookies we use.
+
+URL: https://www.techradar.com/news/intel-under-fire-over-its-face-reading-ai
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- Intel has partnered with Class Technologies on face-reading AI for Zoom classes
+- A few weeks ago, Intel announced a partnership with Class Technologies, an e-learning startup working on an artificial intelligence that can detect the emotions of students.
+- "Intel is dedicated to ensuring teachers and students have access to the technologies and tools needed to meet the challenges of the changing world," said Intel's Michael Campbell at the time. "Through technology, we have the ability to set the standard for impactful synchronous online learning experiences that empower educators."
+- The tools from Class Technologies work with Intel-based CPUs and Zoom, the video calling service. The goal is to analyze the emotions of students and provide insights to teachers.
+- The pandemic caused almost all schooling across the world to move online, often facilitated by video calls, with varying degrees of success. An early concept of Class's technology aims to see whether students are less engaged.
+- "As Class works toward achieving its mission to change the way the world learns, it is technology innovators like Intel that will help us enhance the virtual learning experience for educators and students alike," said Class CEO Michael Chasen.
+- "With Intel's leading technologies and expertise, Class will further improve accessibility and user experience across all platforms, including Intel processor-based PCs."
+- But not everyone is happy...
+- But wait, you might be thinking: how can an AI analysing a grainy image from a webcam possibly seek to successfully detect the emotions of students?
+- Speaking to Protocol, critics from multiple fields expressed severe reservations over the proposed system from Class and Intel. Research has found that people express themselves in almost infinite ways, essentially nullifying such a system.
+- "Students have different ways of presenting what’s going on inside of them,” said education Todd Richmond, speaking to Protocol. “That student being distracted at that moment in time may be the appropriate and necessary state for them in that moment in their life."
+- > Communities makes WhatsApp more like Discord or Slack
+
+> Hopefully you'll never have to use this Microsoft Teams update
+
+> Kids won’t stop launching DDoS attacks against their schools
+- As the pandemic has continued, classrooms have become a site for a lot of technological experimentation.
+- Online proctoring services have received heavy criticism – and are now being discontinued in some schools – after seeing a surge in use by American schools to help monitor students during exams.
+- Intel and Class represent only the latest example of surveilling students and coming to conclusions about their behaviour without, well, actually asking them.
+- “We’re able to look at faces and classify them into different emotional expressions established by psychologists that are pretty standard out there,” said Patrick Ehlen, Uniphore’s vice president of AI.The trend of embedding pseudoscience into "AI systems" is such a big one.April 14, 2022
+- For their part, Intel and Class insist that their intent isn't to judge or penalize students but help create better lessons by analysing engagement from those attending. As Protocol highlights, however, the line between these things is thin.
+- Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+- Max Slater-Robins has been writing about technology for nearly a decade at various outlets, covering the rise of the technology giants, trends in enterprise and SaaS companies, and much more besides. Originally from Suffolk, he currently lives in London and likes a good night out and walks in the countryside.
+- This Dell XPS 13 is the one laptop we'd buy in the Memorial Day sales
+- Don't build your own PC this Memorial Day - get a pre-built system instead
+- Here's how to choose a cheap gaming laptop you won't regret
+- By Desire AthowMay 28, 2023
+- By John LoefflerMay 27, 2023
+- By David NieldMay 27, 2023
+- By David NieldMay 27, 2023
+- By Mike MooreMay 27, 2023
+- By Lewis MaddisonMay 27, 2023
+- By Marc McLarenMay 27, 2023
+- By Cesar CadenasMay 26, 2023
+- By Matt HansonMay 26, 2023
+- By Cat BussellMay 26, 2023
+- By Sead FadilpašićMay 26, 2023
+- TechRadar is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+URL: https://gizmodo.com/remote-learning-spyware-tracks-student-emotions-1848806568
+- Intel is learning a tough lesson after partnering with Classroom Technologies to develop a face-reading AI that detects the emotions of students on Zoom calls.
+- The student engagement technology, created by Intel with Classroom Technologies’ Class software, captures images of students’ faces with their webcams and combines them with computer vision technology and contextual information to predict engagement levels through emotions.
+- The goal is to provide educators with emotional response data they can use to customize lessons and improve student engagement. The AI might detect that students become confused during a specific section of a lesson and send that information to teachers so they can reassess how that particular subject is being taught.
+- “Intel is dedicated to ensuring teachers and students have access to the technologies and tools needed to meet the challenges of the changing world,” Michael Campbell, Intel’s global director for the education consumer and commercial segments, said. “Through technology, we have the ability to set the standard for impactful synchronous online learning experiences that empower educators.”
+- Classroom Technologies CEO Michael Chasen says teachers have trouble engaging with students in a pandemic-era virtual classroom, and that the insights offered by this AI tech can help educators better communicate. Classroom Technologies plans to test the emotion-reading technology, which Intel hopes to develop into a product for widespread distribution.
+- As detailed in a Protocol report, this face-reading AI already has its critics, who argue that using face recognition technology on students is an invasion of privacy and that the technology oversimplifies human emotion, which can lead to damaging results.
+- As learning has shifted from the classroom to the home, schools have desperately searched for new ways to engage with students. An early debate revolved around the use of webcams. Those in favor argued that face-to-face interaction improved learning and forced accountability, while those against the use of webcams said it was a breach of privacy and could increase stress and anxiety levels. Reading students’ faces and analyzing them with AI adds another layer to the problem, critics say.
+- “I think most teachers, especially at the university level, would find this technology morally reprehensible, like the panopticon,” Angela Dancey, a senior lecturer at the University of Illinois Chicago, told Protocol. “Frankly, if my institution offered it to me, I would reject it, and if we were required to use it, I would think twice about continuing to work here.”
+- These criticisms arrive at a time when schools are abandoning invasive proctoring software that exploded during the pandemic as students were forced to learn remotely. Often used to discourage cheating, these tools use webcams to monitor eye and head movements, tap microphones to listen to the room, and record every mouse click and keystroke. Students around the country have signed petitions arguing the technology is an invasion of privacy, discriminates against minorities, and punishes those with disabilities, as Motherboard reports.
+- “At Intel, we believe AI can help drive beneficial advancements in medicine, industry and society, and empower us with the right tools and enable a responsible, inclusive and sustainable future,” Intel told Gizmodo in an email. “Intel’s adaptive learning research is rooted in social science and our multi-disciplinary research team works with students, teachers, parents, and other stakeholders in education to explore how human-AI collaboration in education can help support individual learners’ needs, provide more personalized experiences and improve learning outcomes.
+- It continued, “As with all research projects, Intel and its collaborators abide by strict data privacy policies and adhere to ongoing oversight.” Intel didn’t specify how it would protect the privacy of students or teachers when they’re using this particular technology, nor did it address concerns of whether facial expressions can even be accurately used to assess engagement.
+- Researchers have found that people express themselves in immeasurable ways. As such, critics argue that emotions can’t be determined based solely on facial expressions. Assuming that a student has tuned out of a lesson simply because they look uninterested to your algorithm’s metrics is reductive of the complexities of emotion.
+- “Students have different ways of presenting what’s going on inside of them,” Todd Richmond, a professor at the Pardee RAND Graduate School, said speaking to Protocol. “That student being distracted at that moment in time may be the appropriate and necessary state for them in that moment in their life.”
+- There is also some concern that analytics provided by AI could be used to penalize students. If, say, a student is deemed to be distracted, they might get poor participation scores. And teachers might feel incentivized to use the data should a school system evaluate educators by the engagement scores of their students.
+- Intel created the emotional analytics technology using data captured in real-life classrooms using 3D cameras, and worked with psychologists to categorize facial expressions. Some teachers have found the AI to be helpful, but Chasen says he doesn’t think Intel’s system has “reached its maturity yet” and needs more data to determine whether the results the AI spits out actually match the performance of students. Chasen says Intel’s tech will be only one piece of a larger puzzle in assessing students.
+- Intel and Classroom Technologies claim their technology wasn’t designed as a surveillance system or to be used as evidence to penalize students, but as we so often see in the tech industry, products are frequently used in ways not intended by their creators.
+- We’ve reached out to Classroom Technologies for comment and will update this story when we hear back.
+- Update 4/19: We’ve updated this article with a statement from Intel.
+
+URL: https://www.biometricupdate.com/202204/affective-computing-draws-intels-attention-prompts-debate
+- Intel and edtech startup Classroom Technologies have developed a tool for integration with Zoom to let teachers know if their students are learning well by analyzing their facial expressions with artificial intelligence.
+- The idea is to improve student engagement, which has been reduced by virtual classrooms during the pandemic, and is hard for teachers to judge even when in class, Protocol reports.
+- According to critics, however, accurate determinations about how bored or confused a person is are not possible from their facial expressions and similar cues. Furthermore, a student’s reaction, particularly in a home environment, may be caused by a factor other than the educational material.
+- Classroom Technologies Co-founder and CEO Michael Chasen also acknowledges the need to be sensitive to concerns around how intrusive technology can be in comments to Protocol. He also admits the technology is not yet “fully” mature.
+- Even whether to require students to use their webcams when in class is controversial, as the application is relatively resource-intensive, and can also reveal otherwise private information about people’s homes.
+- Some teachers participating in Intel testing gave positive assessments, and the technology is not yet in production.
+- Intel trained its algorithm on data labelled by experts it hired to review videos of students, applying labels agreed on by two out of three experts.
+- Concerns about emotion recognition, or ‘emotion AI,’ are leading to confusion about sentiment analysis, according to experts in the field interviewed for a separate article by Protocol.
+- The terms are often used interchangeably, as in a Fight for the Future campaign cited by Protocol and subsequently updated.
+- They are different, however, in that sentiment analysis is text-based and emotion recognition is based on facial analysis, according to Affectiva CEO and Co-founder Rana el Kaliouby. It could also be based on other biometrics, like gait.
+- Nazanin Andalibi, an assistant professor at the University of Michigan School of Information, argues that sentiment analysis is still looking for “affective phenomena,” or physical manifestations of interior states.  This interpretation would make sentiment analysis a cousin of emotion AI if not a subset of it.
+- The article goes on to explore the implications of this kind of characterization for regulation of facial recognition and biometric data use.
+- With more major tech players investing in emotion recognition, like Zoom, the issue appears to be heating up rapidly.
+- accuracy  |  AI  |  biometrics  |  emotion recognition  |  face biometrics  |  facial analysis  |  Intel  |  privacy  |  sentiment detection  |  Zoom
+- This site uses Akismet to reduce spam. Learn how your comment data is processed.
+- Continue Reading
+- Learn More
+- Copyright © 2023 Biometrics Research Group, Inc. All Rights Reserved.
+- Web Design by Studio1337
+
+URL: https://www.msn.com/en-us/news/technology/intel-ai-tech-can-be-used-to-monitor-student-emotions-through-zoom/ar-AAWnvD5
+- This page is gone.
+- To find something you’ll like, click a category above or use the search box.
+- 2023-05-30T09:29:22.3028763+00:00
+- 0f0aacb2-5b00-42f8-b3b1-078fd222a0b7
+
+URL: https://www.extremetech.com/extreme/334259-intel-tests-controversial-new-student-monitoring-software
+
+URL: https://www.techdirt.com/2022/04/20/intel-wants-to-add-unproven-emotion-detection-ai-to-distance-learning-tech/
+- (Mis)Uses of Technology
+- Last week, Zoom announced its plans to add emotion detecting tech to its virtual meeting platform, something it apparently felt would facilitate the art of the deal. Here’s Kate Kaye, breaking the news for Protocol.
+- Virtual sales meetings have made it tougher than ever for salespeople to read the room. So, some well funded tech providers are stepping in with a bold sales pitch of their own: that AI can not only help sellers communicate better, but detect the “emotional state” of a deal — and the people they’re selling to.
+- In fact, while AI researchers have attempted to instill human emotion into otherwise cold and calculating robotic machines for decades, sales and customer service software companies including Uniphore and Sybill are building products that use AI in an attempt to help humans understand and respond to human emotion. Virtual meeting powerhouse Zoom also plans to provide similar features in the future.
+- Advocates for this AI, which includes customers like Zoom, claim this unproven tech could make it easier to “build rapport” during virtual meetings or, at the very least, give those performing pitches a heads up when they’re losing their audiences.
+- That’s all well and good when we’re talking about a bunch of consenting adults playing sales pitch poker while attempting to Voight-Kampff their way into a competitive edge. Any advantage should be exploited, even if it means subjecting potential customers to AI with no proven track record. It’s unclear how consent to be emotionally analyzed is obtained (or if it’s even sought), but, again, we’re dealing with adults in a sales situation where this sort of manipulation is considered normal behavior.
+- The problem with Zoom is it thinks this same tech should be inflicted on non-consenting minors. Again, it’s Kate Kaye with the news for Protocol.
+- Rather than simply allow instructors to draw inferences from student facial expressions and behavior, a couple of companies think they can make teachers better by throwing more tech (and surveillance) at their students.
+- Intel and Classroom Technologies, which sells virtual school software called Class, think there might be a better way. The companies have partnered to integrate an AI-based technology developed by Intel with Class, which runs on top of Zoom. Intel claims its system can detect whether students are bored, distracted or confused by assessing their facial expressions and how they’re interacting with educational content.
+- “We can give the teacher additional insights to allow them to better communicate,” said Michael Chasen, co-founder and CEO of Classroom Technologies, who said teachers have had trouble engaging with students in virtual classroom environments throughout the pandemic.
+- This means the cameras always need to be on, even though some instructors are capable of teaching classes without expecting students to open up a window to their home lives via laptop cameras. IM services, microphones, and texting seem to fill the face-to-face void quite capably. The ability to strip things back to text-only communication allows students without access to speedy internet connections to stay connected without exceeding the bandwidth they’re allotted or burning up their data if their operating under a cap.
+- The business version requires always-on cameras to record footage that can then be processed by the emotion detection AI to provide customers with insights on detected mood swings by their sales pitch recipients. Presumably, the school version will operate the same way until Intel and Classroom Technologies feel the AI has learned enough to go live.
+- The end goal is always-on surveillance of students, with the stated goal being better instruction and more student engagement.
+- “We are trying to enable one-on-one tutoring at scale,” said [Intel research scientist Sinem] Aslan, adding that the system is intended to help teachers recognize when students need help and to inform how they might alter educational materials based on how students interact with the educational content.
+- At this point, the product is still in the testing phase. To become a full-fledged product, it will need significant buy-in from educational institutions. That’s the sort of thing that often happens without consulting the stakeholders most affected by the addition of new in-home surveillance tech: the students who will be the testing ground for the product.
+- Even if the reps for both companies are to be believed — that the product is intended to help teachers better reach their students — the potential for misuse (or deliberate abuse) is omnipresent. On top of that, most humans are incapable of accurately reading the emotions of others and they’ve got a lifetime of experience and better innate learning systems. Add to that the fact that not all cultures utilize the same expressions or body language to signal mood shifts, and you’ve got a product with the potential to generate a ton of useless or counterproductive data.
+- Filed Under: ai, classrooms, emotion detection, surveillance, virtual learning
+
+Companies: classroom technologies, intel, zoom
+- and yet, we have years of evidence any sort of facial recognition based technology is for “whites only”
+- …and like that tech, this stuff has the potential to be profitable while on “intended” to be for guidance rather than full enforcement.
+- Like that tech, this is likely going to be used in practice to enable harassment of vulnerable innocent people while the people doing to so buy themselves a get out clause for when that results in bad consequences.
+- Funny thing is, we’ve seen how this sort of thing is used, and will always be used, whether IT-based or in some other domain. Various psychological, emotional, and intelligence testing schemes in the hands of business for employee or pre-employment evaluation, for one example.
+- Bloody ghastly, it is.
+- Better practice your, “I’m not cheating” face.
+- Wow!
+- The opportunities for abuse are limitless with this system. We already have valid concerns from students about invasion of privacy when HUMAN observers are involved. The likelihood that HUMAN DESIGNED and WRITTEN algorithms will fare better is very low. Reading visual cues comes with experience and empathetic interaction with people, developed over time throughout a teaching period. Usually the only time these technologies get implemented is at exam time when people are stressed, fatigued and outside of their comfort zone.
+- One of the biggest problems with remote interactions is the isolation that students feel. They cannot spontaneously interact like they do in person.
+- one-on-one tutoring at scale
+- I see the potential desire to improve a tutor’s productivity and class learning outcomes, but I can also see the thin end of the wedge, where the bean counters get involved and increase class sizes to maximise profits (especially in private institutions), adding more students to the workload of fewer tutors, and fiddling the KPIs to match the shareholders’ desires, rather than the educational outcomes.
+- As near as I can tell: People will (deliberately or maybe accidentally) continue to optimize for being terrible, until enough people clearly say “No. This is not acceptable behavior”.
+- To make matters worse, the problems with this behavior are not quite so obvious to a casual observer.
+- How will this software deal with “resting bitch-face”?
+- It will flag you as the Queen of England & suggest the sales drone refer to you as your majesty.
+- The smart way would be a shifting baseline that reckognizes that its own estimate is inconsistent or implauisble. But building such a profile without explicit subject feedback has major epistemology issues. To put it blubrly “well he always looks like he is on the verge of panic, how was I to recognize high anxiety”?. One thing that ergonomically most if not all people absolutely suck at it mixing their assumptions with that of a black box output of any given tool when “black box” is anything that they don’t know the precise mechanism behind.
+- In a face to face meeting if you can’t read the room, perhaps sales isn’t for you.
+- It is one thing to be text blind, but when you have the full audio/visual input and can’t something wrong with you.
+Oh the camera makes it different!
+How? Other than your brain trying to 2nd guess itself because you are doing the thing you did every day for years but now through a camera didn’t change the game that much.
+- But hey we have all this data from the suicide prevention app, so we can tell when people are upset now.
+- “The business version requires always-on cameras to record footage that can then be processed by the emotion detection AI to provide customers with insights on detected mood swings by their sales pitch recipients”
+- Cool. Now, does it tell you whether that mood swing is because they find the work difficult, because they’re annoyed at another student’s interaction, because the dog they can hear yapping 4 houses away won’t shut up, or because the abusive parent who promised to beat them if they let on about last night’s sexual adventure just got back from work?
+- I can think about a lot of things that could go horribly wrong when this sort of stuff is inevitably used to replace common sense. It could lead to some serious problems being missed and chalked dow to inattention, it could lead to already abused children being penalised for being abused. This already happens enough in schools where overworked and inattentive teachers give up on students they don’t like, it doesn’t need to be automated.
+- Didn’t the late, great Neil Peart write a song about Emotion Dection?
+- https://youtu.be/V4gG4F5z4OI
+- That’s “Emotion Detection“. I should proofread my own handwriting.
+- I wonder how long it will take for “the AI Body Cam detected an unusual level of suspiciousness” becomes accepted probable cause.
+- “The end goal is always-on surveillance of students, with the stated goal being[…]
+- The end goal is always-on surveillance (period)
+- Bezos includes camera…
+The I/O devices may include any of a variety of components such as a display or display screen having a touch surface or touchscreen; an audio output device for producing sound, such as a speaker; an audio capture device, such as a microphone; an image and/or video capture device, such as a camera; a haptic unit; and so forth.
+- https://patents.google.com/patent/US10096319B1/en
+- Your email address will not be published. Required fields are marked *
+- Have a Techdirt Account? Sign in now. Want one? Register here
+- Name
+- Email
+- Subscribe to the Techdirt Daily newsletter
+- URL
+- Subject
+- Comment *
+- Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop »
+- 
+- 
+- Δ
+- Read the latest posts:
+- Read All »
+- Become an Insider!
+- 
+- This feature is only available to registered users.
+You can register here or sign in to use it.
+
+URL: https://hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language
+- Home
+- Reviews
+- News
+- Blogs
+- Full Site
+- Sitemap
+- PC Components
+- Systems
+- Mobile
+- IT Infrastructure
+- Leisure
+- Videos
+- About
+- Advertise
+- News Tips
+- Contact
+- HotTech
+- Reprints/Permissions
+- Shop
+- Twitter
+- Facebook
+- YouTube
+- RSS
+- Or sign in manually:
+
+URL: https://www.techzine.eu/news/applications/77387/intel-develops-ai-to-detect-students-emotions/
+- "*" indicates required fields
+- Intel and Classroom Technologies are creating tools to identify the emotions of students in virtual classrooms.
+- Intel and Classroom Technologies are working on tools that use artificial intelligence (AI) to detect the mood of children in virtual classrooms. The feature could be used to tell a teacher if a student was bored, confused, or distracted.
+- The Intel-developed software solution aims to apply the power of artificial intelligence to the faces and body language of digital students. According to Protocol, the solution is being distributed as part of the “Class” software product and aims to aid in teachers’ education techniques by allowing them to see the AI-inferred mental states (such as boredom, distraction, or confusion) of each student.
+- Intel aims to expand the program into broader markets eventually. However, the technology has been met with controversy.
+- Also read: Intel acquires AI specialist Granulate Cloud Solutions.
+- The AI-based feature can be used to classify students’ body language and facial expressions whenever digital classes are held through the videoconferencing application. Citing teachers’ own experiences following remote lessons taken during the COVID-19 pandemic, Michael Chasen, co-founder and CEO of Classroom Technologies, told Tom’s Hardware he hopes its software gives teachers additional insights, ultimately bettering remote learning experiences.
+- “We can give the teacher additional insights to allow them to better communicate,” said Chasen, who said teachers have had trouble engaging with students in virtual classroom environments throughout the pandemic.
+- Intel hopes to transform the technology into a product it can distribute more broadly, said Sinem Aslan, a research scientist at Intel, who helped develop the technology.
+- “We are trying to enable one-on-one tutoring at scale,” said Aslan, adding that the system is intended to help teachers recognize when students need help and to inform how they might alter educational materials based on how students interact with the educational content. “High levels of boredom will lead [students to] completely zone out of educational content,” said Aslan.
+- However, critics argue that it is not possible to accurately determine whether someone is feeling bored, confused, happy or sad based on their facial expressions or other external signals.
+- Reports about the potential dangers of AI are coming thick and fast. We often hear these voices emanating fro...
+- A conferencing camera, a laptop dock and a flex workspace management solution: the connection between Logitec...
+- At Microsoft Build, Microsoft is unveiling a number of new developments that should make developers' lives ea...
+- At its annual Build developer conference in Seattle, Microsoft is making a series of announcements. A signifi...
+- Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is tha...
+- Nvidia unveiled the GH200 Grace Hopper "Superchip" at Computex 2023. It is a combination of the company's CPU...
+- The announcement follows the CBL-Mariner project announcement from last year.
+
+
+
+This week at Microsoft's Bui...
+- Hackers are using encrypted Restricted Permission Message (RPMSG) files via compromised Microsoft 365 account...
+- Lenovo suffered greatly for its final results for fiscal year 2023 due to lower PC sales. As a result, total ...
+- Gartner has revealed its findings from a recent analysis. The research report shows that reliance on outdated...
+- HPE and chip manufacturer Ampere are collaborating on an Arm server processor for use in Open Radio Access Ne...
+- Techzine focusses on IT professionals and business decision makers by publishing the latest IT news and background stories. The goal is to help IT professionals get acquainted with new innovative products and services, but also to offer in-depth information to help them understand products and services better.
+- © 2023 Dolphin Publications B.V.All rights reserved.
+- 
+
+URL: https://gigazine.net/gsc_news/en/20220418-intel-edutech-ai/
+- 
+- It is difficult to understand how much a student understands what he / she is learning in a school lesson, whether he / she is able to concentrate on the lesson, and whether he / she has any troubles, etc., unless he / she directly reveals it. Classroom Technologies , a company that sells lesson software in virtual space, is developing a system in partnership with Intel that analyzes students' facial expressions and how they approach teaching materials to help them understand their lesson attitudes and understanding. Can be detected. While it is expected to provide fairly useful information for educators, there are also numerous criticisms that value student rights. Class tests Intel AI to monitor student emotions on Zoom --Protocol https://www.protocol.com/enterprise/emotion-ai-school-intel-edutech Intel is developing a technology that uses artificial intelligence (AI) and image / video analysis to read the state of a student's face capture and learning efforts. Intel researcher Cinem Aslan , who was involved in the development, said, 'With this system, teachers recognize when students need help, provide teaching materials that are suitable for students, and help students not get bored in class. It will enable large-scale tutoring. '
+- 'By introducing Intel's Educational Analysis AI into remote lessons in virtual space, we can improve communication between teachers and students, which is difficult without face-to-face,' said Michael Chasen, a collaborator at Classroom Technologies. I can do it, 'he says, saying his expectations for AI systems in the field of education. On the other hand, there are two major criticisms about analyzing students' facial expressions and attitudes with AI. The first is the feasibility that 'it is impossible to accurately judge emotions such as boredom, confusion, happiness and sadness from facial expressions and other external information in the first place'. Kate Crawford, who studies AI social impact, criticized making false guesses about abilities and emotional states from human appearance, calling it 'Phrenological Impulse' and 'even with the same facial expression. Reading emotions by ignoring the context and using only facial movements can be misleading. ' Experts warn of the danger of 'emotion recognition AI', what is the problem? --GIGAZINE
+- There are also criticisms from a moral point of view, such as the anxiety that facial recognition monitors students when verifying the identity of individual students for the purpose of security and prevention of fraudulent examinations, and the significant invasion of privacy. increase. In addition, since face recognition technology tends to have a high false positive rate for colored races, it is often argued that face recognition technology is banned because it is racially discriminatory. Big cities in the United States ban face recognition systems one after another --GIGAZINE
+- by Mike MacKenzie 'We are sensitive to people's personal rights and we need to prevent excessive intrusion into their rights by the system,' Chason said, with a good understanding of the criticisms of facial recognition AI. .. Also, Aslan is better off teaching teachers to ensure correct and appropriate lessons and when students are asking for help, rather than using Intel technology to monitor or detect and punish students for fraud. He says the prospect is to provide additional information. But on the other hand, Nandia Sampas, an analyst on AI bias and accountability issues in Consumer Reports , a non-profit consumer organization, said, 'With Intel's facial recognition AI technology, it's unintentional. But it can monitor and punish students. ' Introducing Intel's facial recognition AI technology into Classroom Technologies' virtual lecture software is in the testing stage, and Chason said, 'Whether the results of AI analysis are related to student performance, useful data in education from there. 'We need to make sure we can get it,' he said, 'I don't think it's a fully mature technology yet. The data analyzed is just an idea and used alone without context.' You shouldn't do it. '
+- Related Posts:
+- << Next
+- The iOS version of Opera's crypto browser 'Opera Crypto Browser' is officially released
+- Prev >>
+- 'It's painful to ask Twitter for free speech,' former Reddit CEO advises Elon Musk.
+- Apr 18, 2022 13:00:00 in Note, Posted by log1e_dh
+- 
+
+URL: https://www.tomshardware.com/uk/news/intel-students-ai-controversy
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- But debates on AI, science, ethics and privacy abound.
+- An Intel-developed software solution aims to apply the power of artificial intelligence to the faces and body language of digital students. According to Protocol, the solution is being distributed as part of the "Class" software product and aims to aid in teachers' education techniques by allowing them to see the AI-inferred mental states (such as boredom, distraction, or confusion) of each student. Intel aims to expand the program into broader markets eventually. However, the technology has been met with pushbacks that bring debates on AI, science, ethics and privacy to the forefront.
+- The AI-based feature, which was developed in partnership with Classroom Technologies, is integrated with Zoom via the former's "Class" software product. It can be used to classify students' body language and facial expressions whenever digital classes are held through the videoconferencing application. Citing teachers' own experiences following remote lessons taken during the COVID-19 pandemic, Michael Chasen, co-founder and CEO of Classroom Technologies, hopes its software gives teachers additional insights, ultimately bettering remote learning experiences.
+- The software makes use of students' video streams, which it feeds into the AI engine alongside contextual, real-time information that allows it to classify students' understanding of the subject matter. Sinem Aslan, a research scientist at Intel who helped develop the technology, says that the main objective is to improve one-on-one teaching sessions by allowing the teacher to react in real-time to each student's state of mind (nudging them in whatever direction is deemed necessary).
+- But while Intel and Classroom Technologies' aim may be well-intentioned, the basic scientific premise behind the AI solution - that body language and other external signals can be accurately used to infer a person's mental state - is far from being a closed debate.
+- For one, research has shown the dangers of labeling: the act of fitting information - sometimes even shoehorning it - into easy to perceive (but ultimately and frequently too simplistic) categories.
+- We don't yet fully understand the external dimensions through which people express their internal states. For example, the average human being expresses themselves through dozens (some say even hundreds) of micro expressions (dilating pupils, for instance), macro expressions (smiling or frowning), bodily gestures, or physiological signals (such as perspiration, increased heart rate, and so on).
+- It's interesting to ponder the AI technology's model - and its accuracy - when the scientific community itself hasn't been able to reach a definite conclusion on translating external action toward internal states. Building houses on quicksand rarely works out.
+- Another noteworthy and potential caveat for the AI engine is that expressing emotions also vary between cultures. While most cultures would equate smiling with an expression of internal happiness, Russian culture, for instance, reserves smiles for close friends and family - being overly smiley in the wrong context is construed as a lack of intelligence or honesty. Expand this towards the myriad of cultures, ethnicities, and individual variations, and you can imagine the implications of these personal and cultural "quirks" on the AI model's accuracy.
+- According to Nese Alyuz Civitci, a machine-learning researcher at Intel, the company's model was built with the insight and expertise of a team of psychologists, who analyzed the ground truth data captured in real-life classes using laptops with 3D cameras. The team of psychologists then proceeded to examine the videos, labeling the emotions they detected throughout the feeds. For the data to be valid and integrated into the model, at least two out of three psychologists had to agree on how to label it.
+- Intel's Civitci himself found it exceedingly hard to identify the subtle physical differences between possible labels. Interestingly, Aslan says Intel's emotion-analysis AI wasn't assessed on whether it accurately reflected students' actual emotions, but rather on its results being instrumental or trustable by teachers.
+- There are endless questions that can be posed regarding AI systems, their training data (which has severe consequences, for instance, on facial recognition tech used by law enforcement) and whether its results can be trusted. Systems such as these can either prove beneficial, leading teachers to ask the right question, at the right time, to a currently troubled student. But it can also be detrimental to student performance, well-being, and even their academic success, depending on its accuracy and how teachers use it to inform their opinions on students.
+- Questions surrounding long-term analysis of students' emotional states also arise - could a report from systems such as these be used by a company hiring students straight out of university, with labels such as "depressed" or "attentive" being thrown around? To what measure of this data should the affected individuals have access? And what about students' emotional privacy - their capacity to keep their emotional states internalized? Are we comfortable with our emotions being labeled and accessible to anyone - especially if there's someone in a position of power on the other side of the AI?
+- The line between surveillance and AI-driven, assistive technologies seems to be thinning, and the classroom is but one of the environments at stake. That brings an entirely new interpretation for wearing our hearts on our sleeves.
+- Join the experts who read Tom's Hardware for the inside track on enthusiast PC tech news — and have for over 25 years. We'll send breaking news and in-depth reviews of CPUs, GPUs, AI, maker hardware and more straight to your inbox.
+- Francisco Pires is a freelance news writer for Tom's Hardware with a soft side for quantum computing.
+- NSA, Microsoft Issue Critical Cyberthreat Report to US Infrastructures Backed by Chinese State-Sponsored Actor
+- Windows 11 Moment 3 Update: Isolated x32 Apps, No RAR Support Yet
+- Nvidia Unveils DGX GH200 Supercomputer, Grace Hopper Superchips in Production
+- By Avram PiltchMay 28, 2023
+- By Ash HillMay 27, 2023
+- By Zhiye LiuMay 27, 2023
+- By Ash HillMay 27, 2023
+- By Anton ShilovMay 27, 2023
+- By Ash HillMay 27, 2023
+- By Ash HillMay 27, 2023
+- By Avram PiltchMay 27, 2023
+- By Stewart BendleMay 27, 2023
+- By Les PounderMay 27, 2023
+- By Paul AlcornMay 27, 2023
+- Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+- Gaggle student behavioural monitoring
+- Spotify AI emotion recognition
+- Page infoType: IncidentPublished: April 2022

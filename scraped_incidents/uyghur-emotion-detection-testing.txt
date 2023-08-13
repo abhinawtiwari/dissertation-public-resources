@@ -1,0 +1,262 @@
+- Occurred: May 2021
+- Can you improve this page?Share your insights with us
+- The Chinese government is testing a camera system that detects the emotions of the Uyghur people in the Xinjiang region of China. The allegations were made to the BBC on condition of anonymity by a software engineer who says he installed the system.
+- 'The Chinese government use Uyghurs as test subjects for various experiments just like rats are used in laboratories', the software engineer said. He went on to allege the system is used for 'pre-judgment without any credible evidence.' Most people, he says, are categorised as 'anxious' or 'scared'.
+- Home to 12 million ethnic minority Uyghurs, Xinjiang residents are under more or less constant surveillance. Human Rights Watch has recently published a report detailing a policy of torture, disappearances, and cultural erasure in the province.
+- Operator: Government of China Developer: Zhejiang Dahua Technology; Hikvision Country: ChinaSector: Govt - police Purpose: Strengthen security Technology: Emotion detection Issue: Privacy; Surveillance; Accuracy/reliabilityTransparency: Governance
+URL: https://www.bbc.co.uk/news/technology-57101248
+- A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been told.
+- A software engineer claimed to have installed such systems in police stations in the province.
+- A human rights advocate who was shown the evidence described it as shocking.
+- The Chinese embassy in London has not responded directly to the claims but says political and social rights in all ethnic groups are guaranteed.
+- Xinjiang is home to 12 million ethnic minority Uyghurs, most of whom are Muslim.
+- Citizens in the province are under daily surveillance. The area is also home to highly controversial "re-education centres", called high security detention camps by human rights groups, where it is estimated that more than a million people have been held.
+- Beijing has always argued that surveillance is necessary in the region because it says separatists who want to set up their own state have killed hundreds of people in terror attacks.
+- The software engineer agreed to talk to the BBC's Panorama programme under condition of anonymity, because he fears for his safety. The company he worked for is also not being revealed.
+- But he showed Panorama five photographs of Uyghur detainees who he claimed had had the emotion recognition system tested on them.
+- "The Chinese government use Uyghurs as test subjects for various experiments just like rats are used in laboratories," he said.
+- And he outlined his role in installing the cameras in police stations in the province: "We placed the emotion detection camera 3m from the subject. It is similar to a lie detector but far more advanced technology."
+- He said officers used "restraint chairs" which are widely installed in police stations across China.
+- "Your wrists are locked in place by metal restraints, and [the] same applies to your ankles."
+- He provided evidence of how the AI system is trained to detect and analyse even minute changes in facial expressions and skin pores.
+- According to his claims, the software creates a pie chart, with the red segment representing a negative or anxious state of mind.
+- He claimed the software was intended for "pre-judgement without any credible evidence".
+- The Chinese embassy in London did not respond to questions about the use of emotional recognition software in the province but said: "The political, economic, and social rights and freedom of religious belief in all ethnic groups in Xinjiang are fully guaranteed.
+- "People live in harmony regardless of their ethnic backgrounds and enjoy a stable and peaceful life with no restriction to personal freedom."
+- The evidence was shown to Sophie Richardson, China director of Human Rights Watch.
+- "It is shocking material. It's not just that people are being reduced to a pie chart, it's people who are in highly coercive circumstances, under enormous pressure, being understandably nervous and that's taken as an indication of guilt, and I think, that's deeply problematic."
+- According to Darren Byler, from the University of Colorado, Uyghurs routinely have to provide DNA samples to local officials, undergo digital scans and most have to download a government phone app, which gathers data including contact lists and text messages.
+- "Uyghur life is now about generating data," he said.
+- "Everyone knows that the smartphone is something you have to carry with you, and if you don't carry it you can be detained, they know that you're being tracked by it. And they feel like there's no escape," he said.
+- Most of the data is fed into a computer system called the Integrated Joint Operations Platform, which Human Rights Watch claims flags up supposedly suspicious behaviour.
+- "The system is gathering information about dozens of different kinds of perfectly legal behaviours including things like whether people were going out the back door instead of the front door, whether they were putting gas in a car that didn't belong to them," said Ms Richardson.
+- "Authorities now place QR codes outside the doors of people's homes so that they can easily know who's supposed to be there and who's not."
+- There has long been debate about how closely tied Chinese technology firms are to the state. US-based research group IPVM claims to have uncovered evidence in patents filed by such companies that suggest facial recognition products were specifically designed to identify Uyghur people.
+- A patent filed in July 2018 by Huawei and the China Academy of Sciences describes a face recognition product that is capable of identifying people on the basis of their ethnicity.
+- Huawei said in response that it did "not condone the use of technology to discriminate or oppress members of any community" and that it was "independent of government" wherever it operated.
+- The group has also found a document which appears to suggest the firm was developing technology for a so-called One Person, One File system.
+- "For each person the government would store their personal information, their political activities, relationships... anything that might give you insight into how that person would behave and what kind of a threat they might pose," said IPVM's Conor Healy.
+- "It makes any kind of dissidence potentially impossible and creates true predictability for the government in the behaviour of their citizens. I don't think that [George] Orwell would ever have imagined that a government could be capable of this kind of analysis."
+- Huawei did not specifically address questions about its involvement in developing technology for the One Person, One File system but said: "Huawei opposes discrimination of all types, including the use of technology to carry out ethnic discrimination.
+- "As a privately-held company, Huawei is independent of government wherever we operate. We do not condone the use of technology to discriminate against or oppress members of any community."
+- The Chinese embassy in London said it had "no knowledge" of these programmes.
+- IPVM also claimed to have found marketing material from Chinese firm Hikvision advertising a Uyghur-detecting AI camera, and a patent for software developed by Dahua, another tech giant, which could also identify Uyghurs.
+- Dahua said its patent referred to all 56 recognised ethnicities in China and did not deliberately target any one of them.
+- It added that it provided "products and services that aim to help keep people safe" and complied "with the laws and regulations of every market" in which it operates, including the UK.
+- Hikvision said the details on its website were incorrect and "uploaded online without appropriate review", adding that it did not sell or have in its product range "a minority recognition function or analytics technology".
+- Dr Lan Xue, chairman of China's National committee on AI governance, said he was not aware of the patents.
+- "Outside China there are a lot of those sorts of charges. Many are not accurate and not true," he told the BBC.
+- "I think that the Xinjiang local government had the responsibility to really protect the Xinjiang people... if technology is used in those contexts, that's quite understandable," he said.
+- The UK's Chinese embassy had a more robust defence, telling the BBC: "There is no so-called facial recognition technology featuring Uyghur analytics whatsoever."
+- China is estimated to be home to half of the world's almost 800 million surveillance cameras.
+- It also has a large number of smart cities, such as Chongqing, where AI is built into the foundations of the urban environment.
+- Chongqing-based investigative journalist Hu Liu told Panorama of his own experience: "Once you leave home and step into the lift, you are captured by a camera. There are cameras everywhere."
+- "When I leave home to go somewhere, I call a taxi, the taxi company uploads the data to the government. I may then go to a cafe to meet a few friends and the authorities know my location through the camera in the cafe.
+- "There have been occasions when I have met some friends and soon after someone from the government contacts me. They warned me, 'Don't see that person, don't do this and that.'
+- "With artificial intelligence we have nowhere to hide," he said.
+- Find out more about this on Panorama's Are you Scared Yet, Human? - available on iPlayer from 26 May
+- Who are the Uyghurs?
+- Uighur camp detainees allege systematic rape
+- Fresh attack on Kyiv after intense drone barrage
+- What's in the US debt ceiling deal?
+- Why famous faces are popping up on UK streets
+- What to expect from newly emboldened Erdogan
+- Why Erdogan's victory matters for the West
+- Who is Linda Yaccarino, Twitter's 'superwoman'?
+- Entire village burned down by marauding Darfur militias
+- The abandoned gang houses being returned to locals
+- Why prosperity can't break India's dowry curse
+- Katty Kay: A growing case of transatlantic heartburn
+- The European capital where rent is triple the minimum wage
+- 'No-one else should have to use rags for sanitary pads'
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.bbc.co.uk/programmes/m000wft2
+- 
+- As artificial intelligence changes our world, it has sparked a new arms race between China and the US. Experts warn that without urgent regulation, we could lose control of AI.
+- From Amazon’s Alexa to improvements in cancer care, artificial intelligence is changing our world. But today leading tech figures from Silicon Valley worry about the future that’s being created. Brad Smith, president of Microsoft, believes George Orwell's 1984 could become reality by 2024. Panorama has uncovered new evidence of AI being used by police in China to recognise the emotions of detainees in order to help determine guilt or innocence. China has vowed to become the world's AI superpower by 2030, sparking a new arms race with America. Both countries are pouring billions into cutting-edge military tech, including autonomous weapons. AI could usher in a golden age, but without urgent regulation, experts warn we could lose control of artificial intelligence, a prospect, they say, that should scare us all.
+- 59 minutes
+- See all episodes from Panorama
+- Timings (where shown) are from the start of the programme in hours and minutes
+- Clubbed To Death
+- ????? ???? (?????????? ??????)
+- Mindfields
+- Ageispolis
+- White Cyclosa
+- Do Matter
+- Opening From Mishima
+- Find out more with The Open University.
+
+URL: https://www.businessinsider.nl/software-engineer-who-installed-ai-recognition-in-xinjiang-says-china-tested-the-software-on-uighurs-bbc/
+- Secties
+- Edities
+- Specials
+- Over Business Insider
+- Copyright © 2023 Business Insider Nederland. Alle rechten voorbehouden. Registratie of gebruik van deze site vindt plaats onder Algemene Voorwaarden en Privacybeleid.
+Algemene voorwaarden | Privacybeleid | Cookie-overzicht | Adverteren | Vacatures
+- A software engineer said he installed a camera system that could detect emotions in police stations in Xinjiang that are being tested on the Uighurs, the BBC reported.
+- The system uses AI and facial recognition that could pick up on a person's emotions and is similar to a lie detector test but "far more advanced technology," the engineer who was kept anonymous for his safety.
+- The engineer, who showed the BBC five photos of Uighur detainees, said the recognition system was meant for "pre-judgment without any credible evidence."
+- "The Chinese government use Uighurs as test subjects for various experiments just like rats are used in laboratories," he said.
+- Xinjiang is a western region in China, where roughly half of the population of 25 million is made up of Uighurs and other Turkic minorities, the vast majority of which are Muslim.
+- The engineer told the BBC that the cameras were placed 3 meters, a little less than 10 feet, away from the subjects. He said subjects are put in "restraint chairs," where their wrists and ankles are locked in place by metal restraints.
+- The AI system can detect and analyze even minor changes in expressions and the software makes a pie chart where red segments represent negative states of mind.
+- The Chinese embassy in London did not respond to the BBC's questions about the use of emotional recognition software in the province, but said, "The political, economic, and social rights and freedom of religious belief in all ethnic groups in Xinjiang are fully guaranteed."
+- At least one million Uighurs are being detained in what the Chinese government calls "reeducation camps" in Xinjiang. The region is also under mass surveillance.
+- Reports about the internment camps have told of forced labor, surveillance, confinement, verbal and physical abuse, forced sterilization, and an intense Chinese Communist Party indoctrination regimen.
+- China sees Uighurs as religious extremists and claims all its actions against the group are "counterterrorism and de-extremism measures."
+- The country has also used that claim to defend its mass surveillance of the region, the BBC reported.
+- Last month, Human Rights Watch released a 53-page report that detailed a policy of torture, disappearances, and cultural erasure in the predominantly Turkic region.
+- "Chinese authorities have systematically persecuted Turkic Muslims - their lives, their religion, their culture," Sophie Richardson, HRW's China director, said in a statement. "Beijing has said it's providing 'vocational training' and 'deradicalization,' but that rhetoric can't obscure a grim reality of crimes against humanity."
+- University of Colorado professor Darren Byler told the BBC that Uighurs also have to routinely give DNA and many have to download a government phone app that gathers data including contact lists and text messages. That data is then sent through a computer system called the Integrated Joint Operations Platform,
+- Richardson was shown evidence of the facial recognition system, the BBC reported.
+- "It is shocking material. It's not just that people are being reduced to a pie chart, it's people who are in highly coercive circumstances, under enormous pressure, being understandably nervous and that's taken as an indication of guilt, and I think, that's deeply problematic."
+- In een onrustige markt kan een ander perspectief precies zijn wat je nodig hebt. Benieuwd naar onze aanpak?
+- Lastige beslissingen moet je durven maken en niet uitstellen. Weten waar de groei in jouw bedrijf ligt?
+- Productiviteit verhogen met minder mensen, het kan. Benieuwd hoe jij je werk slimmer kan organiseren?
+- Bekijk alle vacatures →
+- Copyright © 2023 Business Insider Nederland. Alle rechten voorbehouden. Registratie of gebruik van deze site vindt plaats onder Algemene Voorwaarden en Privacybeleid.
+Algemene voorwaarden | Privacybeleid | Cookie-overzicht | Adverteren | Vacatures
+
+URL: https://www.independent.co.uk/asia/china/china-uighur-muslims-ai-huawei-b1854180.html
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- The revelation has come as a shock to many
+- Find your bookmarks in your Independent Premium section, under my profile
+- A member of the Uighur community holds a placard as she joins a demonstration to call on the British parliament to vote to recognise alleged persecution of China's Muslim minority people as genocide and crimes against humanity in London on April 22, 2021
+- China has been testing facial recognition and artificial intelligence camera systems on Uighur Muslims in the Xinjiang region to detect their emotions, a software engineer has revealed.
+- Speaking to BBC’s Panorama, the software engineer — who preferred to remain anonymous — said he installed these systems in police stations in the Xinjiang province.
+- China has always maintained that surveillance of the region is important given that separatists, who want their own state, have killed hundreds of people in attacks. Xinjiang, home to at least 12 million ethnic minority Uighurs, most of whom are Muslim, has seen massive human rights violations and poor treatment of Uighurs in the region. China has also set up “re-education centres” for them in the area that have been criticised for human rights abuses, mistreatment, rape and torture.
+- The revelation has shocked many. The Chinese embassy in London maintained that “political and social rights of all ethnic groups are guaranteed” and that “People live in harmony regardless of their ethnic backgrounds and enjoy a stable and peaceful life with no restriction to personal freedom.”
+- The software engineer, fearing for his safety, has also not revealed the name of the company he worked for. He, however, showed photographs of five Uighurs on whom he claimed the government tested the facial recognition system.
+- He told BBC’s Panorama: “The Chinese government use Uighurs as test subjects for various experiments just like rats are used in laboratories.”
+- “We placed the emotion detection camera 3m from the subject. It is similar to a lie detector but far more advanced technology,” he said.
+- He also explained his role in installing cameras in police stations in the province.
+- In Xinjiang, police officers use restraint chairs in which one’s wrists and ankles are locked by metal restraints, the engineer said. He spoke about how the AI is trained to recognise and analyse “even minute changes in facial expressions and skin pores.”
+- According to his claims, the software then makes a pie chart with the red segment indicating a negative or anxious state of mind.
+- Sophie Richardson, China director of Human Rights Watch, who saw the evidence provided by the software engineer, said: “It is shocking material. It’s not just that people are being reduced to a pie chart, it’s people who are in highly coercive circumstances, under enormous pressure, being understandably nervous and that’s taken as an indication of guilt, and I think, that’s deeply problematic.”
+- In July 2018, a patent was filed by Huawei and the China Academy of Sciences to describe a face recognition product that is capable of identifying people on the basis of their ethnicity. Huawei had said that it did “not condone the use of technology to discriminate or oppress members of any community” and that it was “independent of government” wherever it operated.
+- Join thought-provoking conversations, follow other Independent readers and see their replies
+- A member of the Uighur community holds a placard as she joins a demonstration to call on the British parliament to vote to recognise alleged persecution of China's Muslim minority people as genocide and crimes against humanity in London on April 22, 2021
+- Photo by JUSTIN TALLIS/AFP via Getty Images
+- Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+- Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
+- Log in
+- New to The Independent?
+- Or if you would prefer:
+- Want an ad-free experience?
+- 
+
+URL: https://www.insider.com/china-is-testing-ai-recognition-on-the-uighurs-bbc-2021-5
+- Jump to
+- 
+- 
+- 
+- A software engineer said he installed a camera system that could detect emotions in police stations in Xinjiang that are being tested on the Uighurs, the BBC reported.
+- The system uses AI and facial recognition that could pick up on a person's emotions and is similar to a lie detector test but "far more advanced technology," the engineer who was kept anonymous for his safety.
+- The engineer, who showed the BBC five photos of Uighur detainees, said the recognition system was meant for "pre-judgment without any credible evidence."
+- "The Chinese government use Uighurs as test subjects for various experiments just like rats are used in laboratories," he said.
+- Xinjiang is a western region in China, where roughly half of the population of 25 million is made up of Uighurs and other Turkic minorities, the vast majority of which are Muslim.
+- The engineer told the BBC that the cameras were placed 3 meters, a little less than 10 feet, away from the subjects. He said subjects are put in "restraint chairs," where their wrists and ankles are locked in place by metal restraints.
+- The AI system can detect and analyze even minor changes in expressions and the software makes a pie chart where red segments represent negative states of mind.
+- The Chinese embassy in London did not respond to the BBC's questions about the use of emotional recognition software in the province, but said, "The political, economic, and social rights and freedom of religious belief in all ethnic groups in Xinjiang are fully guaranteed."
+- At least one million Uighurs are being detained in what the Chinese government calls "reeducation camps" in Xinjiang. The region is also under mass surveillance.
+- Reports about the internment camps have told of forced labor, surveillance, confinement, verbal and physical abuse, forced sterilization, and an intense Chinese Communist Party indoctrination regimen.
+- China sees Uighurs as religious extremists and claims all its actions against the group are "counterterrorism and de-extremism measures."
+- The country has also used that claim to defend its mass surveillance of the region, the BBC reported.
+- Last month, Human Rights Watch released a 53-page report that detailed a policy of torture, disappearances, and cultural erasure in the predominantly Turkic region.
+- "Chinese authorities have systematically persecuted Turkic Muslims — their lives, their religion, their culture," Sophie Richardson, HRW's China director, said in a statement. "Beijing has said it's providing 'vocational training' and 'deradicalization,' but that rhetoric can't obscure a grim reality of crimes against humanity."
+- University of Colorado professor Darren Byler told the BBC that Uighurs also have to routinely give DNA and many have to download a government phone app that gathers data including contact lists and text messages. That data is then sent through a computer system called the Integrated Joint Operations Platform,
+- Richardson was shown evidence of the facial recognition system, the BBC reported.
+- "It is shocking material. It's not just that people are being reduced to a pie chart, it's people who are in highly coercive circumstances, under enormous pressure, being understandably nervous and that's taken as an indication of guilt, and I think, that's deeply problematic."
+- Read next
+
+URL: https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech
+- Xi Jinping wants ‘positive energy’ but critics say the surveillance tools’ racial bias and monitoring for anger or sadness should be banned
+- “Ordinary people here in China aren’t happy about this technology but they have no choice. If the police say there have to be cameras in a community, people will just have to live with it. There’s always that demand and we’re here to fulfil it.”
+- So says Chen Wei at Taigusys, a company specialising in emotion recognition technology, the latest evolution in the broader world of surveillance systems that play a part in nearly every aspect of Chinese society.
+- Emotion-recognition technologies – in which facial expressions of anger, sadness, happiness and boredom, as well as other biometric data are tracked – are supposedly able to infer a person’s feelings based on traits such as facial muscle movements, vocal tone, body movements and other biometric signals. It goes beyond facial-recognition technologies, which simply compare faces to determine a match.
+- But similar to facial recognition, it involves the mass collection of sensitive personal data to track, monitor and profile people and uses machine learning to analyse expressions and other clues.
+- The industry is booming in China, where since at least 2012, figures including President Xi Jinping have emphasised the creation of “positive energy” as part of an ideological campaign to encourage certain kinds of expression and limit others.
+- Critics say the technology is based on a pseudo-science of stereotypes, and an increasing number of researchers, lawyers and rights activists believe it has serious implications for human rights, privacy and freedom of expression. With the global industry forecast to be worth nearly $36bn by 2023, growing at nearly 30% a year, rights groups say action needs to be taken now.
+- The main office of Taigusys is tucked behind a few low-rise office buildings in Shenzhen. Visitors are greeted at the doorway by a series of cameras capturing their images on a big screen that displays body temperature, along with age estimates, and other statistics. Chen, a general manager at the company, says the system in the doorway is the company’s bestseller at the moment because of high demand during the coronavirus pandemic.
+- Chen hails emotion recognition as a way to predict dangerous behaviour by prisoners, detect potential criminals at police checkpoints, problem pupils in schools and elderly people experiencing dementia in care homes.
+- Taigusys systems are installed in about 300 prisons, detention centres and remand facilities around China, connecting 60,000 cameras.
+- “Violence and suicide are very common in detention centres,” says Chen. “Even if police nowadays don’t beat prisoners, they often try to wear them down by not allowing them to fall asleep. As a result, some prisoners will have a mental breakdown and seek to kill themselves. And our system will help prevent that from happening.”
+- Chen says that since prisoners know they are monitored by this system – 24 hours a day, in real time – they are made more docile, which for authorities is a positive on many fronts. “Because they know what the system does, they won’t consciously try to violate certain rules,” he says.
+- As part of our Rights and Freedoms project, we investigate how rapid advances in data-intensive technologies are affecting human rights around the world.
+- Under the cover of the pandemic, many governments have used digital technologies to track and analyse citizens' movements, quash dissent and curtail free speech – while on digital platforms truth has been manipulated and misinformation spread.
+- But technology can also be a powerful force for hope and justice, helping to preserve rights and freedoms in the face of rising authoritarianism.
+- Besides prisons and police checkpoints, Taigusys has deployed its systems in schools to monitor teachers, pupils and staff, in care homes for older people to detect falls and changes in the emotional state of residents, and in shopping centres and car parks.
+- While the use of emotion-recognition technology in schools in China has sparked some criticism, there has been very little discussion of its use by authorities on citizens.
+- Chen, while aware of the concerns, played up the system’s potential to stop violent incidents. He cites an incident where a security guard stabbed about 41 people in the province of Guangxi in southern China last June, claiming it was technologically preventable.
+- Vidushi Marda is a digital program manager at the British human rights organisation Article 19 and a lawyer focused on the socio-legal implications of emerging technologies. She disputes Chen’s view on the Guangxi stabbing.
+- “This is a familiar and slightly frustrating narrative that we see used frequently when newer, ‘shiny’ technologies are introduced under the umbrella of safety or security, but in reality video surveillance has little nexus to safety, and I’m not sure how they thought that feedback in real time would fix violence,” Marda told the Guardian.
+- “A lot of biometric surveillance, I think, is closely tied to intimidation and censorship, and I suppose [emotion recognition] is one example of just that.”
+- A recent report by Article 19 on the development of these surveillance technologies – which one Chinese firm describes as “biometrics 3.0” – by 27 companies in China found its growth without safeguards and public deliberation, was especially problematic, particularly in the public security and education sectors.
+- Ultimately, groups such as Article 19 say that the technology should be banned before widespread adoption globally makes the ramifications too difficult to contain.
+- The Guardian contacted a range of companies covered in the report. Only Taigusys responded to an interview request.
+- Another problem is that recognition systems are usually based on actors posing in what they think are happy, sad, angry and other emotional states and not on real expressions of those emotions. Facial expressions can also vary widely across cultures, leading to further inaccuracies and ethnic bias.
+- One Taigusys system that is used by police in China, as well as security services in Thailand and some African countries, includes identifiers such as “yellow, white, black”, and even “Uighur”.
+- “The populations in these countries are more racially diverse than in China, and in China, it’s also used to tell Uighurs from Han Chinese,” Chen says, referring to the country’s dominant ethnicity. “If an Uighur appears, they will be tagged, but it won’t tag Han Chinese.”
+- Asked if he was concerned about these features being misused by authorities, Chen says that he is not worried because the software is being used by police, implying that such institutions should be automatically trusted.
+- “I’m not concerned because it’s not our technology that’s the problem,” Chen says. “There are demands for this technology in certain scenarios and places, and we will try our best to meet those demands.”
+- For Shazeda Ahmed, a visiting researcher at New York University’s AI Now Institute who contributed to the Article 19 report, these are all “terrible reasons”.
+- “That Chinese conceptions of race are going to be built into technology and exported to other parts of the world is really troubling, particularly since there isn’t the kind of critical discourse [about racism and ethnicity in China] that we’re having in the United States,” she tells the Guardian.
+- “If anything, research and investigative reporting over the last few years have shown that sensitive personal information is particularly dangerous when in the hands of state entities, especially given the wide ambit of their possible use by state actors.”
+- One driver of the emotion-recognition technology sector in China is the country’s lack of strict privacy laws. There are essentially no laws restricting the authorities’ access to biometric data on grounds of national security or public safety, which gives companies such as Taigusys complete freedom to develop and roll out these products when similar businesses in the US, Japan or Europe cannot, says Chen.
+- “So we have the chance to gather as much information as possible and find the best scenarios to make use of that data,” he says.
+
+URL: https://metro.co.uk/2021/05/26/china-uses-artificial-intelligence-to-read-uyghur-prisoners-emotions-14648755/
+- NEWS... BUT NOT AS YOU KNOW IT
+- Artificial intelligence systems that can 'read' emotions have allegedly been used on China's minority Uyghur population, according to a whistleblower software engineer who helped install the systems.
+- The technology has reportedly been tested on at least five Uyghur detainees who were strapped in to chairs by their hands and ankles.
+- The muslim Uyghur population in China has allegedly been subject to mass 'reeducation' camps, where human rights abuses have been reported, though China denies this is the case.
+- 'We placed the emotion detection camera 3m from the subject. It is similar to a lie detector but far more advanced technology,' the whistleblower told the BBC.
+- The software is claimed to be intended for 'pre-judgement without any credible evidence', and allegedly uses AI to detect minute changes in facial expressions to create emotional 'pie charts'.
+- One human rights advocate who has seen the evidence said it was 'shocking'.
+- The whistleblower's full testimony will be aired tonight on BBC's Panorama program at 7.30pm.
+- Sorry, this video isn't available any more.
+- Chinese representatives have yet to respond directly to the claims, but argue that all minority groups in the country are respected.
+- 'The political, economic, and social rights and freedom of religious belief in all ethnic groups in Xinjiang are fully guaranteed', said the Chinese embassy in London.
+- This sex toy makes my life so much more pleasurable – not just in the obvious way
+- Why AI could be the secret to better money management
+- Ancient Egyptian necropolis reveals more stunning finds - including mummification workshop
+- 'People live in harmony regardless of their ethnic backgrounds and enjoy a stable and peaceful life with no restriction to personal freedom.'
+- But this is in stark contrast to a number of media and human rights groups' reports of high security detention camps, where an estimated million people have been held, as well as mass surveillance on the 12 million strong Uyghur population
+- China argues that this surveillance is necessary because of the risk of terrorist attacks from Uyghur separatist groups.
+- BBC's Panorama program has reportedly seen at least five photos of detainees having the technology tested on them, who were in 'highly coercive circumstances, under enormous pressure, being understandably nervous', which was being taken 'as an indication of guilt', according to Sophie Richardson of Human Rights Watch.
+- Sorry, this video isn't available any more.
+- The whistleblower added that 'the Chinese government use Uyghurs as test subjects for various experiments just like rats are used in laboratories.'
+- The Chinese Uyghur population are already under mass surveillance, both by direct camera observation but also from mobile phone data, DNA samples and digital scans.
+- All this data is fed into a system called 'Integrated Joint Operations Platform', which Human Rights Watch claims flags up supposedly suspicious behaviour so that offenders can be detained.
+- Using artificial intelligence to 'read' emotions would form another data point for the Chinese government to act on and detain people with, according to the whistleblower's allegations.
+- MORE : China effectively bans cryptocurrency and Bitcoin
+- MORE : EU proposes new laws to limit use of ‘harmful’ artificial intelligence
+- Privacy Policy
+- 
+- Get us in your feed
+
+URL: https://www.standard.co.uk/tech/china-s-ai-emotion-detection-cameras-fuel-human-rights-storm-b937367.html
+- uman rights advocates say they are shocked after an investigation revealed Chinese authorities are using an “Orwellian” camera system equipped with AI and facial recognition to probe a prisoner’s emotional state.
+- Citizens in Xinjiang province, which is home to 12 million ethnic minority Uyghurs, are under daily CCTV surveillance and now a software engineer on the monitoring project says emotion recognition is being deployed as well.
+- The engineer told BBC’s Panorama programme the technology is fitted in police stations as a kind of advanced lie detector, analysing facial expressions and even the reaction of skin pores to create an anxiety chart to ‘pre-judge’ a prisoner’s alleged guilt.
+- Beijing is yet to comment.
+- Shares of GameStop soared by more than 16% after hitting their highest level since late March on Tuesday, and other so-called “meme” stocks also rallied as investors shifted back into the retail favourites that had won big gains earlier in the year.
+- The video game retailer’s shares finished at $209.43, marking their first close above $200 since March 19.
+- The Biden administration’s  Department of Homeland Security say they are working with pipeline firms to strengthen protections against cyber attacks following the Colonial Pipeline hack
+- A ransomware attack forced Colonial Pipeline, which runs from Texas to New Jersey, to shut much of its network for several days this month.
+- Norway are being urged to cancel an invasive hearing experiment on 12 young Minke whales, scientists are testing a world-first concept which could clear one of the major hurdles in developing fusion energy, and, like something out of a 90’s film, a Florida high school have photoshopped year book photos causing a sexism row. Plus, after becoming wiped out by dingoes the Tasmanian devil is making a comeback for the first time in 3,000 years.
+- Listen here:
+- Loading....
+- You can find us on your Spotify Daily Drive or wherever you stream your podcasts.
+- Sign up for exclusive newsletters, comment on stories, enter competitions and attend events.
+- By clicking Sign up you confirm that your data has been entered correctly and you have read and agree to our Terms of use, Cookie policy and Privacy notice.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+- Beijing Uyghur fake influence campaign
+- Huawei Uyghur-spotting patent
+- Page infoType: IssuePublished: October 2022

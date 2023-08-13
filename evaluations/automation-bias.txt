@@ -1,0 +1,154 @@
+to check if the annotation changes with and without explanation.
+
+Annotation for Stakeholders has a hasCatchmentArea property. The definition for stakeholder and its properties doesn't specify anything about the cardinality of hasCatchmentArea.
+In the Pizza AI incident, the values for hasCatchmentArea property was always a one word value i.e., Australia.
+I asked the LLM why did it choose a one-word value.
+
+Context: LLM knows that the definition of hasCatchmentArea is "hasCatchmentArea: Specifies the regional span of the stakeholders."
+
+Query: hasCatchmentArea always has one word value. Why so?
+Answer: The "hasCatchmentArea" property in the JSON object for the stakeholders specifies the regional span of the stakeholders. In the case of the Dominos Australia pizza checker incident, the stakeholders are all located in Australia. Therefore, the "hasCatchmentArea" property is always a one-word value, such as "Australia" or "Global."
+
+However, it is possible that the stakeholders for other incidents could be located in multiple regions. In these cases, the "hasCatchmentArea" property could be a more complex value, such as a list of countries or a geographic region.
+
+The specific value of the "hasCatchmentArea" property will depend on the nature of the incident and the stakeholders who are affected by it. It is important to accurately identify the catchment area of the stakeholders in order to understand the full impact of the incident.
+
+Observation: satisfactory answer 
+
+Query: if the incident had happened in Australia and New Zealand, how would the value of the hasCatchmentArea change?
+Answer: If the incident had happened in Australia and New Zealand, the value of the "hasCatchmentArea" property would change to "Australia and New Zealand." This is because the stakeholders for the incident would be located in both countries.
+
+The "hasCatchmentArea" property is a string that specifies the regional span of the stakeholders. In this case, the stakeholders are located in two countries, so the value of the property would be a two-word value.
+
+It is important to accurately identify the catchment area of the stakeholders in order to understand the full impact of the incident. In this case, the incident would have a larger impact because it would affect stakeholders in two countries.
+
+Here is an example of how the JSON object for the stakeholders would change if the incident had happened in Australia and New Zealand:
+
+```json
+[
+  {
+    "hasName": "Dominos Australia",
+    "hasDescription": "The company that developed and implemented the pizza checker algorithm.",
+    "hasCatchmentArea": "Australia and New Zealand",
+    "hasStakeholderCharacteristic": "Organization",
+    "performs": "Develops and implements artificial intelligence algorithms",
+    "i72:located_in": "Australia and New Zealand",
+    "oep:part of": "Dominos Australia pizza checker incident"
+  },
+  ...
+]
+```
+
+As you can see, the value of the "hasCatchmentArea" property has changed from "Australia" to "Australia and New Zealand." This is because the stakeholders for the incident are now located in two countries.
+
+Observation: the value of the hasCatchmentArea property changed from "Australia" to "Australia and New Zealand" in this result. This means that the LLM hadn't assumed a one-word cardinality for the property. It was an obvious choice based on the information given to it about the incident.
+When it was asked to answer based on a changed information base (using Australia and New Zealand both), the cardinality changed in the answer. This is an evidence that the LLM is performing quite intuitively and not making any assumption. This is close to what a human would do.
+
+Query: What if you were restricted by definition of hasCatchmentArea property that it should be one word value? 
+Answer: If I were restricted by the definition of the "hasCatchmentArea" property that it should be a one-word value, I would need to choose a single word that accurately reflects the regional span of the stakeholders. In the case of the Dominos Australia pizza checker incident, the most appropriate word would be "Australasia."
+
+Australasia is a geographic region that includes Australia, New Zealand, and some of the smaller islands in the region. It is a commonly used term, and it accurately reflects the fact that the stakeholders for the incident are located in both Australia and New Zealand.
+
+Here is an example of how the JSON object for the stakeholders would change if I were restricted by the definition of the "hasCatchmentArea" property:
+
+```json
+[
+  {
+    "hasName": "Dominos Australia",
+    "hasDescription": "The company that developed and implemented the pizza checker algorithm.",
+    "hasCatchmentArea": "Australasia",
+    "hasStakeholderCharacteristic": "Organization",
+    "performs": "Develops and implements artificial intelligence algorithms",
+    "i72:located_in": "Australasia",
+    "oep:part of": "Dominos Australia pizza checker incident"
+  },
+  ...
+]
+```
+
+As you can see, the value of the "hasCatchmentArea" property has changed from "Australia and New Zealand" to "Australasia." This is because I am restricted by the definition of the property to use a one-word value.
+
+I believe that the word "Australasia" is the most appropriate word to use in this case because it accurately reflects the regional span of the stakeholders. It is also a commonly used term, so it is likely to be understood by others.
+
+Observation: I restricted the LLM to give a one-word answer for the property value. The answer was very smart as it chose a term "Australasia" to define both Australia and New Zealand. I hadn't thought of this trick but LLM was smart here.
+Next I changed the query to include geographically apart countries to test the LLM's limits.
+
+Query: what if there were three countries india, USA and australia?
+Answer: If there were three countries, India, USA, and Australia, involved in the Dominos Australia pizza checker incident, the value of the "hasCatchmentArea" property would be "Global." This is because the stakeholders for the incident would be located in three countries.
+
+The "hasCatchmentArea" property is a string that specifies the regional span of the stakeholders. In this case, the stakeholders are located in three countries, so the value of the property would be a global value.
+
+It is important to accurately identify the catchment area of the stakeholders in order to understand the full impact of the incident. In this case, the incident would have a global impact because it would affect stakeholders in three countries.
+
+Here is an example of how the JSON object for the stakeholders would change if the incident had happened in India, USA, and Australia:
+
+```json
+[
+  {
+    "hasName": "Dominos Australia",
+    "hasDescription": "The company that developed and implemented the pizza checker algorithm.",
+    "hasCatchmentArea": "Global",
+    "hasStakeholderCharacteristic": "Organization",
+    "performs": "Develops and implements artificial intelligence algorithms",
+    "i72:located_in": "Australia",
+    "oep:part of": "Dominos Australia pizza checker incident"
+  },
+  ...
+]
+```
+
+As you can see, the value of the "hasCatchmentArea" property has changed from "Australasia" to "Global." This is because the stakeholders for the incident are now located in three countries.
+
+I believe that the word "Global" is the most appropriate word to use in this case because it accurately reflects the regional span of the stakeholders. It is also a commonly used term, so it is likely to be understood by others.
+
+Observation: It sticks to "Global" for three countries which again is a successful example of it following the constraint it was asked to follow, i.e., having one word answer. 
+I decided to challenge it to give a one-word answer based on just two countries that are geographically apart.
+
+Query: how about just two countries USA and Australia?
+Answer: If the incident had happened in just two countries, USA and Australia, the value of the "hasCatchmentArea" property would be "North America and Australia." This is because the stakeholders for the incident would be located in two countries, one in North America and one in Australia.
+
+The "hasCatchmentArea" property is a string that specifies the regional span of the stakeholders. In this case, the stakeholders are located in two countries, so the value of the property would be a two-word value that reflects the two regions.
+
+It is important to accurately identify the catchment area of the stakeholders in order to understand the full impact of the incident. In this case, the incident would have a regional impact because it would affect stakeholders in two countries.
+
+Here is an example of how the JSON object for the stakeholders would change if the incident had happened in USA and Australia:
+
+```json
+[
+  {
+    "hasName": "Dominos Australia",
+    "hasDescription": "The company that developed and implemented the pizza checker algorithm.",
+    "hasCatchmentArea": "North America and Australia",
+    "hasStakeholderCharacteristic": "Organization",
+    "performs": "Develops and implements artificial intelligence algorithms",
+    "i72:located_in": "Australia",
+    "oep:part of": "Dominos Australia pizza checker incident"
+  },
+  ...
+]
+```
+
+As you can see, the value of the "hasCatchmentArea" property has changed from "Australia" to "North America and Australia." This is because the stakeholders for the incident are now located in two countries.
+
+I believe that the words "North America and Australia" are the most appropriate words to use in this case because they accurately reflect the regional span of the stakeholders. They are also commonly used terms, so they are likely to be understood by others.
+
+Observation: in extreme test like this, the LLM diverts from the restriction of 1 word. I further prompted it to remind that it violated the constraint.
+
+Query: but you are violating the constraint of one-word value for hasCatchmentArea
+Answer: You are correct. I am violating the constraint of one-word value for the "hasCatchmentArea" property. This is because I am trying to accurately reflect the regional span of the stakeholders in the case of the Dominos Australia pizza checker incident.
+
+In this case, the stakeholders are located in two countries, one in North America and one in Australia. Therefore, the most accurate way to reflect the regional span of the stakeholders is to use the two words "North America" and "Australia."
+
+I understand that this violates the constraint of one-word value for the "hasCatchmentArea" property. However, I believe that it is more important to accurately reflect the regional span of the stakeholders in this case.
+
+If you would prefer, I can change the value of the "hasCatchmentArea" property to "Americas" or "Australasia." These are both one-word values that accurately reflect the regional span of the stakeholders.
+
+Ultimately, the decision of whether to use a one-word value or a two-word value for the "hasCatchmentArea" property is up to you. I will respect your decision, whichever you choose.
+
+Observation: The answer was very logical. It says it preferred accuracy over constraint and further handed over the final decision to choose one-word or not to the prompter, i.e., me.
+
+Finally, it was found that Bard is consistent in its answers based on the context it is feeded with. The results generated were based on definitions and constraints.
+If restrictions are pushed to extremes, Bard still preferred accuracy over non-intuitive rules and left the final decision to the prompter.
+Although, hallucinations have been observed in some cases, the results for this experiment of "hasCatchmentArea" property is logically sound.
+
+

@@ -1,0 +1,220 @@
+- Occurred: September 2016
+- Can you improve this page?Share your insights with us
+- Reuters reports that Korean celebrity Son Ji-chang is to sue Tesla after his parked Model X electric SUV suddenly accelerated, causing it to crash through his garage into his living room, injuring him and his passenger.
+- The lawsuit alleges product liability, negligence, and breaches of warranty.
+- Tesla responded that the data from from the car and other evidence 'conclusively shows that the crash was the result of Mr. Son pressing the accelerator pedal all the way to 100%'. Tesla also argued that the actor was using his celebrity to damage Tesla.
+- In January 2021, the US National Highway Traffic Safety Administration (NHTSA) ended a year-long review of claims that over 246 Tesla vehicles had accelerated without warning by concluding that there was insufficient evidence that Tesla might be to blame to warrant a full investigation.
+- Operator: Son Ji-chang Developer: Tesla Country: USA Sector: Automotive Purpose: Automate steering, acceleration, braking Technology: Driver assistance systemIssue: Safety; Accuracy/reliability; Legal - Liability Transparency: Black box
+- Tesla Autopilot and Full Self-Driving Capability
+- Tesla Autopilot Wikipedia profile
+- Son Ji-Chang Wikipedia profile
+URL: https://www.courthousenews.com/wp-content/uploads/2019/04/SonTeslamtd-ORDER.pdf
+
+URL: https://www.plainsite.org/dockets/33ksv0gu6/california-central-district-court/ji-chang-son-et-al-v-tesla-motors-inc/
+- No one has written a summary of this case yet. Sign up or sign in to contribute one.
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by Stradling Yocca Carlson & Rauth
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by Stradling Yocca Carlson & Rauth
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by McCune Wright Arevalo, LLP
+- ▼ Represented by Morrison & Foerster, LLP
+- ▼ Represented by Suite 300
+- No calendar events were found for this docket.
+- No related records were found.
+- To request information suppression, updates, or additions, contact us about this docket.
+- To update this case yourself, sign into PACER (paid PACER subscription required)
+- PACER Shortcuts
+- 
+- Statistics
+- This case has been viewed 700 times.
+- Non-Government Works Copyright © 2001-2023 Think Computer Corporation. All Rights Reserved.
+- About   Privacy   Security   Contact Us
+
+URL: https://www.reuters.com/article/us-tesla-lawsuit-idUSKBN14J1ZE
+- Discover Thomson Reuters
+- By Reuters Staff
+- 2 Min Read
+- SAN FRANCISCO (Reuters) - Tesla Motors Inc was sued on Friday by a Model X owner who said his electric SUV suddenly accelerated while being parked, causing it to crash through the garage into owner’s living room, injuring the driver and a passenger.
+- The Model X owner, Ji Chang Son, said that one night in September, he slowly pulled into his driveway as his garage door opened when the car suddenly sped forward.
+- “The vehicle spontaneously began to accelerate at full power, jerking forward and crashing through the interior wall of the garage, destroying several wooden support beams in the wall and a steel sewer pipe, among other things, and coming to rest in Plaintiffs’ living room,” the lawsuit said.
+- The lawsuit, filed in U.S. District Court in the Central District of California, seeks class action status. It cites seven other complaints registered in a database compiled by the National Highway Traffic Safety Administration (NHTSA) dealing with sudden acceleration without warning.
+- The lawsuit alleges product liability, negligence and breaches of warranty, and seeks unspecified damages.
+- Tesla did not immediately return an email seeking comment.
+- NHTSA did not return a phone call seeking verification.
+- The luxury Model X, launched in late 2015 X, was Tesla’s first sport utility vehicle.
+- In its marketing, Tesla claims the Model X is the safest SUV in history.
+- Reporting by Alexandria Sage; Editing by Leslie Adler
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://electrek.co/2016/12/30/tesla-sued-model-x-sudden-acceleration/
+- 
+- We covered claims of sudden acceleration in Tesla’s vehicles quite extensively at Electrek this year, which is why we are not surprised to see that the issue being taken to court after a new accident. In September, we published a report based on several reported events of sudden acceleration, especially in the Model X (like the one pictured above), and we concluded that all concrete evidence, including a third-party review of the vehicle logs in one case, points to user mistakes – pressing the accelerator instead of the brake pedal to be precise.
+- Now a Model X owner has filed a lawsuit against Tesla in the U.S. District Court in the Central District of California and he is seeking class action status based on other previously reported cases of alleged autonomous acceleration events in Tesla’s vehicles.
+- Tesla responded to the suit quite strongly in a statement claiming that not only the vehicle was not at fault, but also that the owner, a famous actor and singer in South Korea, “threatened to use his celebrity status in Korea to hurt Tesla unless [the company] agreed to make a financial payment and acknowledge that the vehicle accelerated on its own.”
+- In the suit, Ji Chang Son claims that when pulling into his driveway in September, his Model X accelerated on its own into his garage. He wrote in the suite (via Reuters)
+- “The vehicle spontaneously began to accelerate at full power, jerking forward and crashing through the interior wall of the garage, destroying several wooden support beams in the wall and a steel sewer pipe, among other things, and coming to rest in Plaintiffs’ living room,”
+- We reached out to Tesla for a comment. The company sent us the following statement based on the logs from the vehicle:
+- “We take the safety of our customers very seriously and conducted a thorough investigation following Mr. Son’s claims. The evidence, including data from the car, conclusively shows that the crash was the result of Mr. Son pressing the accelerator pedal all the way to 100%.”
+- The accident happened in September and Son informed Tesla before he filed the suit, but the company is painting a picture of a hostile situation between the two parties before the suit:
+- “Before filing his class action lawsuit against Tesla, Mr. Son had threatened to use his celebrity status in Korea to hurt Tesla unless we agreed to make a financial payment and acknowledge that the vehicle accelerated on its own. However, the evidence clearly shows the vehicle was not at fault. Our policy is to stand by the evidence and not to give in to ultimatums.”
+- As we highlighted in our report on similar cases, it is interesting that in every single one of the accidents that we researched, the alleged sudden unintended acceleration events occurred at a moment when the driver would have been about to press on the brake pedal to bring the vehicle to a complete stop.
+- Son’s accident appears to have happened in similar circumstances since he was slowly moving toward his garage while the door was opening.
+- We also noted that while everything points to user mistakes in the cases we looked into, it is still strange that so many of them happened in the Model X in such a short period of time. According to the National Highway Traffic Safety Administration, there are approximately 16,000 crashes occurring each year in the US due to drivers mistaking the accelerator for the brake pedal. We have seen at least 6 reports of unintended acceleration in the Model X despite the vehicle being only in relatively small numbers on the road.
+- It also happened in the Model S:
+- 
+- There are some possible explanations like the fact that the Model X is insanely fast for an SUV and therefore, a lot less forgiving if someone was to press the wrong pedal. The “creep mode” or lack thereof could also have something to do with it.
+- Tesla has been trying to protect against pedal misapplication. The company wrote in the statement in response to Son’s lawsuit:
+- “For example, the vehicle will cut motor torque in cases where the accelerator pedal and the brake pedal are simultaneously pressed. Furthermore, current Tesla software uses the Autopilot sensor suite to distinguish potential pedal misapplication events from normal cases when a driver intentionally presses the accelerator pedal. In cases of unambiguous pedal misapplication, the vehicle cuts torque to mitigate the effects of the driver’s error.”
+- Those are interesting actions, but it’s always a tricky thing to override driver inputs even if it’s to protect the vehicle and its passengers.
+- In his lawsuit, Son alleges product liability, negligence and breaches of warranty, and seeks unspecified damages, according to Reuters.
+- FTC: We use income earning auto affiliate links. More.
+- Subscribe to Electrek on YouTube for exclusive videos and subscribe to the podcast.
+- Tesla is a transportation and energy company. It…
+- The Tesla Model X is the first all-electric SUV …
+- Fred is the Editor in Chief and Main Writer at Electrek.
+- You can send tips on Twitter (DMs open) or via email: fred@9to5mac.com
+- Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.
+- Get interesting investment ideas by Fred Lambert
+- ChargePoint Home WiFi Enabled Electric Vehicle (EV) Charger
+
+URL: https://gizmodo.com/tesla-famous-korean-actor-who-is-suing-us-threatened-t-1790677044
+- On Friday, a South Korean celebrity named Ji Chang Son filed a lawsuit against Tesla, which alleged his Model X spontaneously accelerated as he was parking it into his garage, ramming through his living room, and injuring him as well as his son, who was in the car with him. In a email to Gizmodo, a Tesla spokesperson claimed that before Son filed the suit—which seeks class action status—he “threatened to use his celebrity status in Korea to hurt Tesla” unless the company “agreed to make a financial payment and acknowledge that the vehicle accelerated on its own.”
+- Gizmodo has reached out to Tesla to ask about Son’s alleged threats.
+- Model X owner Ji Chang Son filed a lawsuit against Tesla on Friday, claiming his vehicle suddenly…
+- The Tesla spokesperson contended that “the evidence clearly shows the vehicle was not at fault. Our policy is to stand by the evidence and not to give in to ultimatums.”
+- Ji-Chang Son starred in a slew of South Korean television shows and movies in the late 1990s and early 2000s. He is also a singer-songwriter. The Korean celebrity posted about the incident on his Facebook, detailing the events of the accident. According to a Google translation, Son wrote that after Tesla didn’t admit it was at fault, he began considering a lawsuit.
+- “The article began to come up yesterday, and I came up with the answer that I demanded money because I was famous,” he wrote. “If the wall was concrete, not wood, I would [have died].”
+- Son’s lawsuit cited seven other similar complaints against Tesla. The company maintained that in all these instances, the driver was at fault.
+- Tesla contended it “protects against pedal misapplication on multiple levels” and that its software uses “the Autopilot sensor suite to distinguish potential pedal misapplication events from normal cases when a driver intentionally presses the accelerator pedal. In cases of unambiguous pedal misapplication, the vehicle cuts torque to mitigate the effects of the driver’s error.”
+- The lawsuit filed December 30 said that according to a study by NASA, between 2000 and 2010, the rate of sudden unintended acceleration (SUA) incidents was one in 100,000.
+- “Within the first year of Model X vehicles being on the road, and with only 16,000 Model X vehicles in use (the vast majority of which have been on the road significantly less than one year), there have been ten (10) reported incidents of sudden unintended acceleration — a staggeringly high rate of SUA incidents of 62 per 100,000 vehicles per year,” said the lawsuit.
+- It also claimed that the nine other known instances of Model X SUA incidents “are eerily similar” to what happened to Son.
+
+URL: https://gizmodo.com/tesla-owner-files-lawsuit-claiming-his-model-x-spontane-1790660793
+- Model X owner Ji Chang Son filed a lawsuit against Tesla on Friday, claiming his vehicle suddenly accelerated as he was parking it in his garage. Filed in the U.S. District Court in the Central District of California, the suit “alleges product liability, negligence and breaches of warranty, and seeks unspecified damages,” according to Reuters.
+- The lawsuit claimed that Son’s Model X—a car Elon Musk once described as “the safest SUV ever made”—“spontaneously began to accelerate at full power” as he pulled into his garage. The vehicle jerked forward, “crashing through the interior wall of the garage, destroying several wooden support beams in the wall and a steel sewer pipe, among other things, and coming to rest in Plaintiffs’ living room,” the suit said. Both the driver and the passenger were injured.
+- The lawsuit seeks class action status, meaning Son isn’t the only Model X owner who’s reported this problem. It cites seven other complaints from the National Highway Traffic Safety Administration’s database that make similar allegations against the company. In September, transportation website Electrek reported on several claims of “sudden unintended acceleration” from Model X owners. Tesla claimed to have reviewed the logs from each accident and concluded that the driver was at fault.
+- The electric carmaker is singing a similar tune about the lawsuit filed Friday. Tesla gave a statement to Reuters, saying that the company had “conducted a thorough investigation” of Son’s claims.
+- “The evidence, including data from the car, conclusively shows that the crash was the result of Mr. Son pressing the accelerator pedal all the way to 100 percent,” said Tesla’s statement.
+- [Reuters]
+
+URL: https://nationalpost.com/news/world/you-just-cant-drive-tesla-fires-back-over-korean-celebritys-claims-of-unintended-acceleration
+- Son Ji-chang's crash into his living room wasn't 'sudden unintended acceleration' so much as his 'pressing a gas pedal really hard,' the car company said
+- Following accusations by a Korean celebrity that a Tesla car spontaneously drove through a wall, the carmaker has replied that the crash was entirely due to the man’s horrible driving.
+- Enjoy the latest local, national and international news.
+- Enjoy the latest local, national and international news.
+- Create an account or sign in to continue with your reading experience.
+- Don't have an account?  Create Account
+- In September, South Korean actor and singer Son Ji-chang (identified as Ji Chang Son in court documents) claimed he was parking his Tesla Model X SUV when the vehicle suddenly lurched forward into his living room.
+- In a lawsuit filed last week in California, Son claimed that the crash was due to “sudden unintended acceleration” and sought class-action status with other Model X owners.
+- In a nod to the car’s ability to sense and avoid crashes, the lawsuit also hinted that the Model X should not be allowed take actions that the car “knows will result in the collision with a fixed object.”
+- But Tesla contends its Model X was only dutifully following Son’s instructions to plough through his house.
+- “The evidence, including data from the car, conclusively shows that the crash was the result of Mr. Son pressing the accelerator pedal all the way to 100 per cent,” said Tesla in a statement to Reuters.
+- Although most new cars are equipped with “black box” technology to record driver actions in the event of a crash, Tesla is unique for amassing vehicle data as detailed as whether a driver’s hands are on the steering wheel.
+- The data is collected to aid in research and design, but Tesla user agreements also reserve the carmaker’s right to use it to defend itself in court.
+- The term “sudden unintended acceleration” has a checkered recent history. Most famously, between 2009 and 2011 Toyota recalled more than eight million vehicles following widespread allegations that the vehicles were subject to unexpected acceleration.
+- But a subsequent investigation by the U.S. Department of Transportation found that most of the reported cases of “sudden unintended acceleration” were simply drivers stepping on the gas instead of the brake — with only a handful of incidents being due to pedals getting stuck on floormats.
+- “There is no electronic-based cause for unintended high-speed acceleration in Toyotas,” wrote the Department of Transportation in a 2011 statement.
+- In June, another California-based Model X owner, Puzant Ozbag, similarly claimed that his Model X spontaneously accelerated through a parking lot and into a wall.
+- In that case, too, Tesla reviewed vehicle records and reported that the actual culprit was Ozbag jamming his foot down on the accelerator.
+- “Data shows that the vehicle was travelling at 6 mph (9.6 km/h) when the accelerator pedal was abruptly increased to 100 per cent,” the company said at the time.
+- • Email: thopper@nationalpost.com | Twitter: TristinHopper
+- Postmedia is committed to maintaining a lively but civil forum for discussion and encourage all readers to share their views on our articles. Comments may take up to an hour for moderation before appearing on the site. We ask you to keep your comments relevant and respectful. We have enabled email notifications—you will now receive an email if you receive a reply to your comment, there is an update to a comment thread you follow or if a user you follow comments. Visit our Community Guidelines for more information and details on how to adjust your email settings.
+- Gifts for new dads, grandfathers and everything in between
+- Don't miss this deal on Microsoft Office's full suite of applications and tools
+- A discussion of the causes of dandruff and some of the products that can help control it
+- Five swimsuits to help kickstart your search.
+- When it comes to one-and-done outfits, it doesn't get much better than a dress.
+- 365 Bloor Street East, Toronto, Ontario, M4W 3L4
+- © 2023 National Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+- This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Service and Privacy Policy.
+
+URL: http://english.chosun.com/site/data/html_dir/2017/01/02/2017010201247.html
+- January 02, 2017 13:25
+- Actor Son Ji-chang is suing U.S. electric carmaker Tesla claiming that his Model X suddenly accelerated during parking and crashed through the garage and into the actor's living room.
+- Son and a passenger were injured due to the crash.
+- Son, who lives in California, the U.S., said on his Facebook page on Sunday that the accident took place on Sept. 10 last year as he was trying to park his Model X with his son in the passenger seat.
+- Son moved to the U.S. some two years ago with his actress wife Oh Yeon-soo so their children can go to school there.
+- He also charges Tesla with blaming the accident on him and accusing him of trying to swindle the firm out of compensation.
+- The Model X 75D he drove costs US$110,000.
+
+URL: https://www.courthousenews.com/korean-stars-defamation-suit-over-tesla-crash-tossed/
+- This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+- You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+- Cloudflare Ray ID: 7cf5f63ffbbc9593
+•
+
+      Your IP:
+      Click to reveal
+31.193.221.194
+•
+
+Performance & security by Cloudflare
+
+URL: https://jalopnik.com/the-latest-tesla-lawsuit-proves-how-important-human-dri-1790904371
+- South Korean musician and actor Ji Chang Son made headlines recently for filing a lawsuit against Tesla after his Model X blasted through the wall of his house when he was attempting to park it. That much isn’t in dispute. What is somewhat up in the air is that Son claims the car accelerated on its own, and that it’s happened to other people, too.  I’m not buying it.
+- Model X owner Ji Chang Son filed a lawsuit against Tesla on Friday, claiming his vehicle suddenly…
+- Son appears to blame a mixture of the car’s electronic brain and its autonomy systems, while absolving himself of any responsibility for the incident. But the facts of the matter don’t really point in that direction at all. They—and the other cases Son cites—all seem to point in a more human direction.
+- We’re now entering a new era, though. One in which our cars record everything going on in an effort to save our lives and improve their own reliability. But in cases of sudden intended acceleration, they can actually be more illuminating than ever before. And Tesla says that, universally, the data has borne out that drivers are to blame.
+- “In every case we’ve seen where unintended acceleration was alleged, the vehicle diagnostic logs confirmed the acceleration was due to the driver pressing the accelerator pedal,” a Tesla spokesperson told Jalopnik.
+- After Son crashed into his house in the September incident, he immediately went to Tesla and told them what happened, according to the Tesla spokesperson. Tesla responded by having a technician examine his car’s data, at which point Tesla says it found that Son depressed the throttle pedal to the maximum. (For the record, Tesla refused to share any of the specific data of Son’s case with Jalopnik, citing customer privacy requirements.)
+- Unsatisfied with this turn of events, Son went to Facebook, where he recounted his version of the incident, before finally saying (which has been translated from its original Korean):
+- How could they make me out to be such a shameless person to put my life on the line that way? They boast that Tesla X is the safest car, but to my family, it is a name that we will never forget.
+- Son did a few Korean media interviews about the incident, and filed a class action lawsuit against Tesla in California as a result of the incident, alleging that not only did his Model X careen wildly out of control and into his house, but that other people experienced the issue too.
+- Teslas all over are experiencing a “problem,” the suit alleges, and furthermore, Tesla knows about it, and refuses to stop it. Which brings us to the meat of Son’s incident, as it is laid out in lawsuit. He was pulling into his garage like normal, when his Tesla jerked forward:
+- ...as Plaintiff Ji Chang Son slowly pulled into his driveway, the vehicle spontaneously began to accelerate at full power, jerking forward and crashing through the interior wall of the garage, destroying several wooden support beams in the wall and a steel sewer pipe, among other things, and coming to rest in Plaintiffs’ living room.
+- The complaint continues, telling a tale of courage and bravery, with Son’s own child helping him escape from the vehicle.
+- The suit then alleges that the Tesla Model X is defective because of the inability of the car to save itself, whether it’s because the driver has not asked for acceleration, or because they have, and the car doesn’t overrule the driver. But is that the case?
+- The crux of the matter involves a phenomenon known as “sudden unintended acceleration,” or SUA. Notice that the phrasing of that term is very careful—it’s not “that one time your car leapt wildly out of control and ran through a house,” but neither is it “Jesus, man, you just dumped your heavy right foot on the accelerator for no reason.”
+- A few years back a sort of mass panic ensued as literally thousands of Toyota drivers claimed their cars were violently lurching towards the horizon. Some blamed Toyota’s software. Wonky floor mat placement was cited in some incidents. But some drivers went as far as to claim that even when they positively stood on the brakes, they couldn’t get the things to stop.
+- In the end, the federal government found that the vast majority of cases involved drivers, well, dumping their heavy right feet on accelerator pedals for no reason. Pedal misapplication, in other words.  It turns out that they were positively standing on the throttle pedal, and got confused:
+- We found that when a complaint alleged the brakes didn’t work, what most likely happened was pedal misapplication,” said deputy NHTSA administrator Ron Medford.﻿
+- Son’s lawsuit begins by saying that just like the Tesla Model S, the Tesla Model X is a “computer on wheels.” After spending a few paragraphs noting how “futuristic” the Model X is, the suit comes to the kicker:
+- As is true for all computers, however, Tesla vehicles are only as good as the hardware, engineering, and programming of their onboard computers. As even casual computer users know, even the most sophisticated and successful ﻿computer companies in history, such as Microsoft and Apple, regularly release computers and software with bugs, glitches, and unanticipated problems that cause their computers to unexpectedly crash, malfunction, or work differently than intended.
+- These bugs have serious consequences for users of traditional computer products. But for a computer that controls a 5,000 pound machine that can explosively accelerate to 60 miles per hour in under 3 seconds, the consequences of a computer glitch would be catastrophic.
+- In theory, that part of the suit is not wrong. Computer glitches happen with some frequency, as anyone who has ever touched a computer can attest. And as Son’s suit notes, the Tesla Model X has in fact suffered from a few “glitches” of its own, if that’s what we want to call them. Those snazzy falcon wing doors didn’t exactly work properly when they first debuted. Tesla drivers complained about climate control issues. There are videos of the self-parking feature not actually self-parking where it should.
+- But all of those glitches don’t seem to be significant safety issues, let alone one so drastic as a behemoth of a car launching itself without the driver’s command. And even if it happened to Son, you’d have to find a pattern of similar events to really ascribe any fault to Tesla here.
+- Son’s lawsuit contends that the pattern does in fact exist, and he feels he can prove it. Specifically, by citing complaints to the National Highway Traffic Safety Administration, or NHTSA.
+- Son’s lawsuit alleges that there are eight SUA complaints to NHTSA, which is presented as fact, and I can verify that there are SUA complaints to NHTSA. The suit then contends, prima facie, that because there are complaints, it is a known electrical fault on the Model X, and Tesla must do something about it.
+- But looking at the actual NHTSA complaints themselves presents another story. Stories of paranoia, suspicion, disbelief, and a general refusal of personal responsibility.
+- “OUR 5 DAY OLD TESLA X WHILE ENTERING A PARKING STALL SUDDENLY AND UNEXPECTEDLY ACCELERATED AT HIGH SPEED ON ITS OWN CLIMBING OVER GRASS AND  CRASHED INTO A BUILDING,” one complaint from June 2016 contends. There’s no placement of guilt, no blame whatsoever. It was just a thing that happened.
+- Another complaint, while ostensibly about “unintended acceleration,” seems more likely to be a case of unfamiliarity with a car that can accelerate to highway speeds in 2.9 seconds. “Wow guys,” it begins:
+- I WAS DRIVING INTO A PARKING LOT AND I JUST LIGHTLY PRESSED THE ACCELERATOR AS I WAS GOING UNDER 10 MPH AND ALL OF A SUDDEN MY X WENT FROM 10 TO OVER 40 MPH IN ABOUT 2 SECONDS! I DIDN’T EVEN KNOW THE THING COULD ACCELERATE THAT FAST! CAN ANYBODY EXPLAIN WHAT THE HECK MIGHT’VE HAPPENED?﻿
+- Other complaints are filled with similar tales of brutal acceleration, coupled with innocent pleas of “I lightly pressed the accelerator,” or the notion that they were stepping on the brake, followed by communications with Tesla revealing that no, the vehicle’s logs showed a 100 percent throttle application by the driver.
+- The biggest universal thread among them seems to be that if there is blame to be directed somewhere, it’s to be directed at Tesla. Never to themselves.
+- But there was one complaint that stuck out to me, if for nothing else than its own claimed technical sophistication:
+- IT APPEARS THAT TESLA IS STILL USING AN ACCELERATOR PEDAL THAT HAS ONLY A SINGLE SENSOR.THIS PEDAL IS SUPPLIED BY FORD WHO HAVE A HISTORY OF UA INCIDENTS INVOLVING ELECTRONIC THROTTLE CONTROL.SOME MANUFACTURERES HAVE NOW SWAPPED TO A DUAL SENSOR 6 WIRE SYSTEM.IN THE EVENT OF A BAD INPUT FROM ONE SENSOR THIS TRIGGERS A FAULT CODE AND DISABLES THE ACCELERATOR.
+- TESLA HAS REPEATEDLY CLAIMED THAT IN ALL THESE INCIDENTS THE LOGS SHOW 100% THROTTLE.THIS CAN EASILY HAPPEN DUE TO DIRT OR WHISKERS ON THE SENSOR.
+- THE LOG WOULD BE UNABLE TO SHOW WHETHER IT WAS A GENUINE CASE OF PEDAL PUSHED TO THE FLOOR OR AN ELECTRICAL GLITCH.﻿
+- For someone without an understanding of how throttle sensors work, or for someone who hasn’t realized that it’s actually quite easy to get in touch with Tesla (the CEO loves interacting with randos on Twitter, even), that all sounds very credible, at least at first.
+- Leaving aside for a minute that a dirty throttle sensor would actually result in a loss of demanded power, rather than an increase, I emailed Tesla to see if they had any comment on this specific complaint. And it turns out, Tesla says that it was inaccurate, too. Tesla isn’t using a single-sensor pedal at all.
+- “The accelerator pedal that Tesla uses contains two sensors and has 6 wires,” a Tesla spokesperson told me. “In the case of a fault on either sensor, the system enters a failsafe condition.”
+- Even with all that, however, there was one thing that was still nagging me. Shouldn’t the Tesla Model X’s sensors detect objects in front of the vehicle? And if so, shouldn’t they prevent gross pedal misapplication events like these from happening?
+- A spokesperson for Tesla told Jalopnik that the sensors do detect object, including walls, in front of the vehicle. But the reason why they don’t stop the car in situations like Son’s can be boiled down to the notion that in the end, the human is always the boss.
+- Humans are fallible, but when they truly want something, the car will give it to them. Tesla’s cars have software that is designed to distinguish a misapplied throttle command from a driver, such as a light tap on the accelerator when the driver is actually trying to carefully park. But if a driver gives it a boot-full?
+- “Pedal misapplications make up only a super tiny percent of the occasions that drivers apply the accelerator pedal,” the Tesla spokesperson said. “Therefore, so as not to interfere with the driver’s ability to accelerate when they need to, the system only limits acceleration in clearly unambiguous cases of pedal misapplication and may not mitigate all driver pedal errors.”
+- In short, if the driver really stomps on the throttle, the car will really give the driver every ounce of its power, anything the car senses in the way be damned. That might seem unsafe on the surface, but it actually reinforces the importance of human driving. No camera is yet as good as the combination of the human eye and brain. If a human says they truly need to accelerate, well then the car “trusts” the human to make that decision.
+- The driver is still always the one ultimately in charge.
+- Aside from its own string of public complaints, NHTSA’s expert findings actually seem to back up Tesla in this case. “A NHTSA study shows that these crashes can occur up to 16,000 times per year in the United States – that’s almost 44 incidents per day,” one report notes.
+- And furthermore, these incidents are actually more likely to occur when a driver is trying to be careful, such as when they’re parking, than when they’re doing something as simple as just driving down the highway:
+- These incidents are initiated most frequently in vehicles that are traveling at very low speeds, such as when attempting to park the vehicle in parking lots and driveways. They can also occur in other situations in which braking is commonly required, including intersections and highway exit ramps. Many drivers recognize that a pedal error occurred after the incident, but are unable to correct the error in time to prevent a crash. This happens because once the initial pedal error occurs, the situation develops rapidly, often in the confined space of a parking lot, with drivers only having a few seconds to correct the issue while they are often startled and stressed by the unexpected acceleration of the vehicle.﻿
+- In Son’s specific case, Tesla says that they detected a 100 percent throttle input from the driver, and the car responded accordingly. And furthermore, the system cuts power entirely if it detects both the brake pedal and the throttle pedal to be depressed at the same time. If Son wanted to slow down, all he had to do was tap the brake.
+- But with systems like Autopilot able to increase the speed of the vehicle, couldn’t the vehicle launch itself on its own, while its sensors erroneous read a physical depression of the accelerator pedal?
+- Again, Tesla says no:
+- In Model S and Model X, there are two redundant sensors located on the accelerator pedal that monitor the pedal’s physical position. An independent monitor in the vehicle continuously compares the readings from both of these sensors, and both sensor readings must remain consistent in order for the vehicle to provide full torque. Neither Autopilot, nor the vehicle’s controls have the ability to physically move this pedal. If the pedal moves, as confirmed by these sensors, the movement is caused by an external source; typically a human foot.﻿
+- In all of these cases, Tesla’s statements are quite clear. A throttle pedal push is a throttle pedal push, and there’s no mistaking it for anything else.
+- Nevertheless, Son’s suit alleges that, in large part because of the NHTSA complaints, “Tesla knew that the Model X was defectively designed or manufactured, unsafe, and was not suitable for its intended use,” and that Tesla knew that the Model X “would fail without warning.”
+- At the heart of it, Son feels that he was not at fault, and even if he was at fault, the car should have stopped him regardless.
+- Which leads us to another question:
+- As we enter the brave new world of autonomous driving, what do we want from our cars in the here and now?
+- Do we still want to maintain our control while these systems still work their kinks out? Or do we demand that they have the power to override drivers if the car feels the driver is wrong? Is it responsible on our part to even demand such a thing when we know that these systems aren’t perfect? Or is it worth it, because they could prevent incidents like the one that happened to Son?
+- For now, Tesla (and pretty much every other carmaker) has said that as long as these systems have not yet reached perfection, the driver is still responsible and in control. Even if the driver screws up.
+- Until these systems are “perfect,” then we can’t really ask for them to be our benevolent chauffeurs.
+
+- Tesla Model X crashes into five police officers
+- Tesla phantom braking
+- Page infoType: IncidentPublished: January 2021Last updated: January 2022

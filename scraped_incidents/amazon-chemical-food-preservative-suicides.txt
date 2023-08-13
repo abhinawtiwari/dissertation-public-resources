@@ -1,0 +1,390 @@
+- Occurred: February 2022
+- Can you improve this page?Share your insights with us
+- Amazon is facing pressure from a bipartisan set of US federal lawmakers to stop sales of a food preservative containing a chemical compound that is being used as a poison in suicides.
+- The internet company has come under further pressure after a New York Times investigation identified 10 people who had killed themselves after buying a chemical compound through the site in the past two years, and over 300 members of a suicide website who had publicly said they intended to kill themselves using it.
+- While the compound is sold legally in the US and many other countries, Etsy, eBay and some other internet commerce companies have banned its sale on their platforms. Some firms have also stopped making the products containing the compound.
+- Families of suicide victims have been warning Amazon of the danger of selling the compound since it became clear it was being used in suicides in 2017. Nonetheless, it has resisted limiting or stopping its sale.
+- The NYT also reports that Amazon's algorithm recommends other items people planning suicide typically purchase. Furthermore, Lori Trahan, a prominent Democrat lawmaker, suggested that reviews warning others about the product have been removed on Amazon.
+- Operator: AmazonDeveloper: Amazon
+- Country: USA; India
+- Sector: Retail
+- Purpose: Recommend products
+- Technology: Recommendation algorithm
+- Issue: Safety Transparency: Governance; Complaints/appeals; Black box
+URL: https://www.nytimes.com/interactive/2021/12/09/us/where-the-despairing-log-on.html
+- By Megan Twohey and Gabriel J.X. DanceDec. 9, 2021
+- It has the trappings of popular social media, a young audience and explicit content on suicide that other sites don’t allow. It is linked to a long line of lives cut short.
+- Editors’ note: This article focuses on suicide and contains details about those who have taken their own lives. If you are having thoughts of suicide, or are concerned that someone you know may be, resources are available here.
+- As Matthew van Antwerpen, a 17-year-old in suburban Dallas, struggled with remote schooling during the pandemic last year, he grew increasingly despondent. Searching online, he found a website about suicide.
+- “Any enjoyment or progress I make in my life simply comes across as forced,” he wrote on the site after signing up. “I know it is all just a distraction to blow time until the end.”
+- Roberta Barbos, a 22-year-old student at the University of Glasgow, first posted after a breakup, writing that she was “unbearably lonely.” Shawn Shatto, 25, described feeling miserable at her warehouse job in Pennsylvania. And Daniel Dal Canto, a 16-year-old in Salt Lake City, shared his fears that an undiagnosed stomach ailment might never get better.
+- Soon after joining, each of them was dead.
+- Most suicide websites are about prevention. This one — started in March 2018 by two shadowy figures calling themselves Marquis and Serge — provides explicit directions on how to die.
+- The four young members were among tens of thousands around the world who have been pulled in. On the site’s public forums, in live chats and through private messaging, they discuss hanging, poison, guns and gas. Strangers seek out partners to meet face to face and kill themselves together.
+- Participants routinely nudge one another along as they share suicide plans, posting reassuring messages, thumbs-up and heart emojis, and praise for those who follow through: “brave,” “a legend,” “a hero.”
+- Though members are anonymous, The New York Times identified 45 who had killed themselves in the United States, the United Kingdom, Italy, Canada and Australia — and found that the trail of deaths is likely much longer.
+- More than 500 members — a rate of more than two a week — wrote “goodbye threads” announcing how and when they planned to end their lives, and then never posted again. In many of them, people narrated their attempts in real-time posts. Some described watching as other members live-streamed their deaths off the site.
+- Most of the narratives cited the same lethal method, a preservative used for curing meat, The Times found. By promoting the preservative as a poison, the site has helped give rise to a means of suicide that is alarming some coroners and doctors. Yet many public health and law enforcement officials are unaware of it.
+- “It’s disgusting that anyone would create a platform like this,” said Dr. Daniel Reidenberg, a psychologist and the executive director of Suicide Awareness Voices of Education, a national nonprofit. “There’s no question that this site, the way they created it, operate it and allow it to continue, is extremely dangerous.”
+- While 10 of the identified suicides have been previously reported, the Times investigation reveals the broader scope of the deaths, the growing use of the poison and the influence of the site. Reporters analyzed more than 1.2 million messages from the site, examined members’ online histories, reviewed hundreds of pages of police and coroner records, and interviewed dozens of families left behind.
+- The site now draws six million page views a month, on average — quadruple that of the National Suicide Prevention Lifeline, according to data from Similarweb, a web analytics company.
+- Most members reported that they had experienced mental illness and were 30 or younger, according to a survey last year by the site. That age group roughly aligns with the demographic in the United States — 15 to 24 — that had the sharpest rise in suicide rate from 2009 to 2019, the most recent data available.
+- 60% higher
+- than in 2009
+- 15-24 years old
+- 45% higher than in 2009
+- 40
+- 25-34 years
+- 20
+- 45-54 years
+- 0
+- Older age groups
+- −20
+- 2010
+- 2012
+- 2014
+- 2016
+- 2018
+- 60% higher
+- than in 2009
+- 15-24 years old
+- 45% higher than in 2009
+- 40
+- 25-34 years
+- 20
+- 45-54 years
+- 0
+- Older age groups
+- −20
+- 2010
+- 2012
+- 2014
+- 2016
+- 2018
+- 60% higher
+- than in 2009
+- 15-24 years old
+- 45% higher than in 2009
+- 40
+- 20
+- 0
+- Older
+- age groups
+- −20
+- 2010
+- 2012
+- 2014
+- 2016
+- 2018
+- Among them was Matthew. Despite the strain of virtual high school, he had appeared to be looking to the future. He and his older brother were mapping out a summer road trip with friends. He had applied to Texas A&M University and intended to become a public defender.
+- “‘I want to help people,’” his mother, Sharon Luft, recalled him telling her. “He was just a sweet kid.”
+- His other plans took shape quickly and secretly. In only 29 days, Matthew joined the site, learned of the lethal preservative and ended his life, listening to a playlist that he’d said made him nostalgic for his childhood.
+- “My son committed suicide at 17 two weeks ago,” Ms. Luft tweeted in January, calling out the site. “They told him how to, encouraged him after he took the mix.”
+- “Please help me,” she wrote, joining the calls of other parents for Marquis and Serge to be held accountable and for the banning of the site, called Sanctioned Suicide.
+- about the website and its content, Times journalists interviewed mental health officials and suicide researchers, as well as parents and former members of the forum. Editors decided to identify the site and the preservative used in many of the suicides — as some other news outlets have done — in order to fully inform readers about the dangers they pose, particularly to the young and vulnerable.
+- Australia, Germany and Italy succeeded in restricting access to the site within their borders, but American law enforcement officials, lawmakers and technology companies have been reluctant to act.
+- While most states have laws against assisting suicide, they are inconsistent, rarely enforced and don’t explicitly address online activity. Federal law shields website operators from liability for most harmful content posted by users. Court decisions have left unsettled questions about protected speech.
+- And when asked to stop steering visitors to the suicide site, the world’s most powerful search engine deflected responsibility. “Google Search holds a mirror up to what is on the internet,” a senior manager for the company wrote to Australian officials in February 2019.
+- Marquis and Serge have vowed to fight any efforts to take down the site. They have experience running websites with dark content: They operate several online forums for “incels,” or involuntary celibates, men who believe that women will never have sex with them because of their looks or social status. Many on those sites openly discuss a fatalistic outlook, including thoughts of self-harm.
+- The two men have worked to shield the suicide site and to frustrate efforts to learn who is behind it. The servers have been moved from country to country. Marquis and Serge use multiple aliases and have removed nearly every trace of their real identities from the internet. Still, The Times found them, thousands of miles apart, in a city in Alabama and the capital of Uruguay.
+- In online posts, Marquis repeatedly said that the site complied with U.S. law and did not permit the assisting or encouraging of suicide.
+- He has several times referred to the site as a “pro-choice” forum that supports members’ decisions to live or to die. “People are responsible for their own actions at the end of the day,” Marquis wrote last year, “and there’s not much we can do about that.”
+- Daniel Dal Canto, a high school junior, arrived on the suicide site with little idea of how to end his life.
+- Three years earlier, he had been depressed, prompting his parents to steer him into months of therapy and medication. Now he was drumming in a jazz band, playing video games with friends and getting straight A’s. To those around him, including his father, a physician, the 16-year-old seemed to be doing well.
+- “It almost created a false sense of security for me because I thought I knew what a depressed Daniel looked like,” his mother, Pam Dal Canto, said in an interview.
+- But in September 2019, Daniel, expressing anxiety over his stomach pain, was gathering information and advice from the website.
+- It came online after Reddit shut down a group where people had been sharing suicide methods and encouraging self-harm. Reddit prohibited such discussion, as did Facebook, Twitter and other platforms. Serge wrote days after the new site opened that the two men had started working on it because they “hated to see the community disperse and disappear.” He assured users that “this isn’t our first rodeo and we know how to keep the website safe.”
+- On their site, Daniel could browse a “resource” thread, a table of contents linking to methods that were compiled by members and stretched for dozens of pages. Or he could click on a suicide wiki page with similar instructions. Fellow members often derided therapy and other treatments and encouraged one another to keep their suicidal intentions hidden from relatives and medical professionals.
+- In posts, Serge and Marquis noted their own struggles.
+- “Not much to tell about myself except that I’ve never really found a reason to be here,” Serge wrote. “There is little that I find worthy in this life.”
+- Marquis had been on the brink of suicide at one point, he disclosed. And he had concluded that the mental health system “fails everyone” and treats people with problems as “outcasts.”
+- Explaining the purpose of the site, he wrote, “This community was made as a place where people can freely speak about their issues without having to worry about being ‘saved’ or giving empty platitudes.”
+- While some of those drawn to the website described suffering from physical pain, most mentioned depression, bipolar disorder or other mental illnesses.
+- About half were 25 or younger, the survey showed; like Daniel, some were minors. One shared, “I’m 13, I ran away from home 1 month ago.” Another, who claimed to be 14, wrote in a post about contemplating suicide, “My dad would probably be really angry.”
+- The suicide rate has risen over the past 20 years in the United States. About 45,000 people take their own lives each year — more than die from traffic accidents. (That figure does not count the hundreds of physician-assisted deaths in the nine states where they are legal and restricted to the terminally ill.)
+- 2019
+- 14 deaths per 100,000
+- 15 deaths
+- per 100,000
+- 10
+- 2000
+- 10.7 deaths
+- per 100,000
+- 5
+- 0
+- 1960
+- 1970
+- 1980
+- 1990
+- 2000
+- 2010
+- 2019
+- 14 deaths per 100,000
+- 15 deaths
+- per 100,000
+- 10
+- 2000
+- 10.7 deaths
+- per 100,000
+- 5
+- 0
+- 1960
+- 1970
+- 1980
+- 1990
+- 2000
+- 2010
+- 2019
+- 14 deaths per 100,000
+- 15 deaths
+- per 100,000
+- 10
+- 2000
+- 10.7 deaths
+- per 100,000
+- 5
+- 0
+- 1960
+- 1970
+- 1980
+- 1990
+- 2000
+- 2010
+- For many people, suicidal thoughts will eventually pass, experts say. Treatment and detailed plans to keep safe can help. But clinicians and researchers warn that people are much more likely to attempt suicide if they learn about methods and become convinced that it’s the right thing to do. The suicide site facilitates both.
+- “It’s like when someone’s having road rage, handing them a gun,” said Dr. Matthew Nock, a psychology professor and suicide researcher at Harvard University.
+- While there is discussion on the site about not giving up hope and the merits of staying alive, there is much more about the reasons to die. Among the most viewed posts, for example, are the “goodbye threads.”
+- One member, a 45-year-old Englishwoman named Emma Davis, recalled feeling shocked the first time she read a goodbye thread and the messages of support it drew. But reading more and more of them, “it just becomes normal,” she said in an interview.
+- “It felt like you were wrapping yourself up in this blanket of all of this misery and darkness,” said Ms. Davis, who eventually found the site dangerous and quit. “You sort of felt safe, but you weren’t safe.”
+- Within several weeks, Daniel settled on the lethal preservative, sodium nitrite, one of the most discussed topics on the website. Members guided one another to online sellers. They advised on obtaining it without alerting family. And they shared directions for using it.
+- As Daniel took in the information, he asked in a post: What could he do if his attempt with the preservative failed?
+- Moments later, a member calling himself Stan responded.
+- Stan, who had shared on the site that he was depressed, divorced and largely estranged from his children, made it his mission to learn all he could about the preservative as poison. He would later write a guide on the method that turned him into a celebrity on the site.
+- In September 2019, when someone posted that she was planning to die by poisoning the next night, Stan quickly replied, “Keep talking to us, you are not alone.” When another member wrote that he had booked a hotel and decided on dosage, then asked if the plan was OK, Stan responded, “Don’t stray from the method now.”
+- And he had an answer for Daniel about trying again. Still, the teenager had doubts as he planned his demise.
+- “I thought that you were supposed to feel happy as you near your bus date,” Daniel wrote, shorthand for “catch the bus,” a phrase that members use in referring to suicide. “Is a part of me just desperately hanging on?”
+- In the site’s written rules, assisting and encouraging suicide were prohibited, while providing “factual information” and “emotional support” was not. In practice, some members urged others on, whether with gentle reassurance or with more force.
+- When a woman with bipolar disorder from Brighton, England, explained that she had twice attempted suicide and didn’t want to further distress her two sons, another member messaged her, “I’m sorry your sons got traumatized but you know you need to kill yourself.”
+- When an Australian disclosed that he had become suicidal because of persistent behavioral problems, several members taunted him. “Maybe he/she can film it,” wrote one person, joining others in sarcastically calling for popcorn for a viewing. Weeks later, the young man took his life.
+- No sooner had Daniel expressed his uncertainty than another member commented: “Setting a date has always upset me. I just keep extending it, but I won’t be able to forever. I don’t think you’re doing anything wrong. Hang in there.”
+- Then, on Oct. 3, the teenager posted a photograph of a bottle of the lethal preservative and announced that he would take it that weekend. But hours later, he posted again. Things had changed: A disagreement with his parents had prompted him to move up his plans.
+- “I hope you’ll be there :),” he wrote.
+- Later that night, he thanked other members for “all of the good wishes.” He noted that he was “a little scared” but had specific plans, drawing a flood of messages: 11 “hugs,” four “likes,” three “loves” and two “awws” — the emoji crying a single tear.
+- At 2:30 a.m., Ms. Dal Canto lay awake and got up to check on Daniel. There was her son, dead in bed.
+- Thank you for all of the good wishes, and for the amazing community. You have all been a great help in many ways. I’m a little scared...
+- 3
+- 11
+- 4
+- 2
+- I wish you safe travel and the peace you deserved.
+- I really want it to work as planned for you.
+- Can u keep us posted? How do you feel?
+- What was the taste like?
+- All the best. Wish it was me
+- Good luck, I wish you peace. You are so brave.
+- In December 2019, two months after Daniel’s death, a coroner in England called for a government inquiry after discovering that members of the site had advised a troubled young woman on ending her life. German officials had already begun an investigation, worried about potential harm to children.
+- And Australia’s eSafety Commission, the nation’s regulator for online safety, had been looking into the site for months, after a father reported that his 22-year-old son had poisoned himself with the preservative.
+- “We were very concerned about having it out there in the open, what that would mean to potentially thousands of other families who had a vulnerable child or a vulnerable person,” Julie Inman Grant, the eSafety commissioner, said in an interview.
+- Later, a site member in Leeds, England, would ask in his parting words for the forum to be shut down. “Please do your best in closing that website for anyone else,” Joe Nihill, 23, implored in a suicide note.
+- Serge and Marquis were determined to protect the site — and themselves.
+- The two men had taken pains to scrub their personal identifying information from the internet and obscure the names of companies hosting the website, making it difficult for authorities and families of the deceased to take action against them.
+- As Australia began its investigation, the site was moved to a new server, according to a post by Marquis. And when Australian law enforcement officials tried to contact the site, he later wrote, “We ignored their emails and requests for information.”
+- In March 2020, after the site was removed from online search results in Germany, the company hosting the site threatened to take it down over its “violation of German law.” Once again, the site was moved.
+- “We have been planning for the worst for years,” Marquis wrote in November 2020, citing daily server backups and the purchase of alternative domains, “and we are confident even if they coordinated all those takedowns at the same time (which is very unlikely), we could be back online within 24 hours.”
+- The two took other precautions. Serge warned members they would crack down on anyone publicly sharing personal contact information. He also said they would begin closing the accounts of those who had posted goodbye threads, a step that kept loved ones and law enforcement from gaining access to them later.
+- “If you’re preparing your departure, please contact a mod so we can help with preparations,” Serge wrote, directing members to moderators.
+- Concerned about legal liability, Marquis explained, the men were requiring prospective members to tick a box affirming they were 18 or older, though he made clear in a post that the site would not ask for proof.
+- Links to a suicide hotline and other mental health resources appeared on the site, as did a new public forum focusing on recovery from suicidal thoughts. But Marquis also noted that people who registered only to use the recovery forum “will be denied most likely.”
+- As several deaths drew scrutiny from news organizations, he claimed that critics wanted “total annihilation of this website,” dismissed coverage as “the usual pro-life BS” and vowed to take “drastic measures” — going to court — to stop efforts to take it down.
+- “They’ll never prevail with censorship and we will fight every one of their attempts to do so,” Marquis wrote.
+- His fierce defense drew praise from members. Many said the site was a rare safe space to share their feelings. Some said it had helped them realize they did not want to die.
+- “People idolized him,” Ms. Davis, the former member, said of Marquis, the more vocal of the two men.
+- For all the devotion they commanded online, website participants had little idea who Marquis and Serge actually were.
+- Marquis dropped some hints in his posts. His father had been in the military. He was “about 7-8 years old” on Sept. 11. And he acknowledged his struggles with suicidal thoughts and wrote that he was among those who had been “immensely helped by talking to people on the forum.”
+- Serge was more private. He didn’t appear to share biographical information and would later remove his posts from the site, essentially erasing his visible connection to it. (The Times viewed screenshots and archived web pages that had captured messages posted by Serge before he deleted them.)
+- On video chats and other virtual events, neither man showed his face.
+- But in June 2019, BuzzFeed News reported that in addition to the suicide site, the two men were running the incel websites.
+- Money didn’t appear to be the motivation. Both men seemed to have found their identity and sense of purpose in the online world of incels, many of whom share a dark outlook known as “black pill.” In 2017, when Reddit had banned an online group of incels for encouraging violence, Serge started an independent site for them, soon joined by Marquis, who had written to him about his interest and skills as a system administrator.
+- By then, several deadly attacks had been carried out by men expressing grievances common among incels. American authorities would later flag incels as an emerging extremist threat. Radicalization experts warned that some were prone to misogyny, suicide and violence.
+- On the incel sites that Serge and Marquis run, many members have expressed anger at society; some commend those who commit violence, and fantasize about doing the same. An Ohio man who was a frequent poster on one site was indicted this past July for allegedly plotting to slaughter women. In a podcast interview about incels, Serge said that much of the discussion was “suicide fuel.”
+- But he and Marquis claimed they were helping those on the sites by allowing them to freely express themselves and face hard truths, a rationale similar to one they have offered about their suicide site.
+- Instruction or discussion posts about suicide methods
+- Posts narrating suicide attempts
+- Other discussions
+- “If people want to change, if they want self-improvement, basically the whole web is out there to go for that — Reddit, Facebook, Twitter, all the big ones,” Serge said during a virtual panel discussion about incels in January. “But if we are being honest, not everyone has a way out.”
+- The sites rely on search engines to drive traffic. About half of all visits to the suicide site come that way, according to data from Similarweb.
+- But when Australian officials asked Google, the dominant business, and Microsoft’s Bing in 2019 to remove the site from their search results, they refused to do so absent a legal requirement.
+- It was not Google’s role to pass judgment on any sites containing content that was legal, “as objectionable as it might be,” a senior manager told the Australians.
+- Parents of those who had died would later get a similar answer.
+- Jess Miers, a legal policy specialist in Google’s Trust and Safety division, responded to a request for help from Kelli Wilson, whose 18-year-old son hanged himself in Texas last year after finding instructions on the site. Ms. Miers told her in a private written exchange that she had spoken with someone running the site — who was using one of Serge’s known aliases — and found him “unhinged.”
+- In tweets, Ms. Miers acknowledged that the site had moderation problems and that content encouraging suicide slipped through. But she also said that the website and Google were shielded by the First Amendment. (Ms. Miers said in a recent interview that she hadn’t been speaking on behalf of Google.)
+- Asked about the website, a Google spokeswoman, Lara Levin, said, “This is a deeply painful and challenging issue.”
+- In a written statement, she said Google tried to help protect vulnerable users, including ensuring that suicide hotlines are visible. But, she said, “we balance these safeguards with our commitment to give people open access to information.”
+- As for Bing, a Microsoft spokesperson said the company was continually working “to help keep users safe.”
+- Jackie Bieber went to the district attorney’s office in York County, Pa., in July 2019, pleading with officials to investigate the death of her daughter, Shawn Shatto, two months earlier.
+- In most states, including Pennsylvania, assisting suicide is a crime. Ms. Bieber shared with prosecutors some exchanges on the suicide site that she thought showed just that activity.
+- When Ms. Shatto, who suffered from severe social anxiety, depression and other mental health conditions, posted that she wanted to die because she hated her Amazon warehouse job, members offered affirmation.
+- When she worried that she had screwed up her suicide plans, others assured her she was on track. And when she shared after taking the preservative that she was “terrified,” several wished her success and “safe travels.”
+- Ms. Bieber, in an interview, recalled identifying the relevant section of the Pennsylvania statute and telling the officials, “‘Look, here’s the Crimes Code.’”
+- While federal law protects the site operators from being held liable for most content posted by users, the members could be vulnerable to criminal charges.
+- William Haider, a retired detective in St. Paul, Minn., helped investigate a man convicted in 2011 for assisting in the suicide of someone he had met on a previous suicide website and sent instructions on hanging. “I’m convinced that there are smart people out there wearing a badge that could handle this type of internet crime,” Mr. Haider said in an interview.
+- But the definition of a crime depends on the jurisdiction. State suicide laws vary. Some specify that assistance must be physical. Only a handful criminalize encouragement.
+- And the laws haven’t always withstood court scrutiny. In the Minnesota case, the state Supreme Court found that the law was overly broad: While it affirmed that assisting suicide by offering instructions was a crime, the court ruled that prohibiting the encouragement of suicide was an infringement on free speech.
+- What’s more, police forces and prosecutors are often unaware of the state laws, The Times found. And because suicide is no longer considered a crime, as it was for centuries, they see little reason to investigate it.
+- “Law enforcement is reflecting societal attitudes,” said Guyora Binder, a law professor at the University at Buffalo, who has written about suicide laws. “We typically see suicide as the unfortunate decision of an individual.”
+- In Pennsylvania, the local police told Ms. Bieber they didn’t have jurisdiction if the site members who had communicated with her daughter lived out of state. The county prosecutor promised to pursue the case, but two years later, there is no sign that he did.
+- In Long Beach, Miss., a friend of a 35-year-old man who died from the preservative also sought police help. One site member had offered to advise the man on acquiring the poison discreetly; another exchanged private messages as he was ingesting it.
+- But Detective Brad Gross, who handled the case, said in an interview that without evidence of physical assistance with the suicide, it wouldn’t be considered criminal behavior. To him, online communication “didn’t feel malicious.”
+- “It would have been different if it was, ‘Hey look, man, I need you to do this, and hold the pillow,’” he said. “As far as any kind of cybercrime,” he added, “we’re far from equipped to deal with any of that.”
+- Some law enforcement officials outside the United States have also declined to investigate the operators and members of the site, believing the online activity falls outside their jurisdiction.
+- Officials in several countries consider the forum an American website. Italian investigators said they concluded that because a site administrator — apparently Marquis, using another of his fake names — provided them with a business address in the United States.
+- Those factors influenced an investigation in Scotland. Roberta Barbos, a Romanian psychology student at the University of Glasgow, was contacted by a man after she posted a message in November 2019 that she was 22, based in Scotland and looking for a male partner to hold her hand through her suicide.
+- She and her boyfriend had broken up, and she had sunk into a deep depression, writing, “Sometimes loneliness hurts so much that I can barely hold myself together.” In private messages on the suicide site and later on WhatsApp, a fellow member said he could help.
+- “I’m based in Glasgow, and have a hell of a lot of experience with hanging … I’d be happy to aid if you want. No pressure, no judgment and at your own pace.”
+- Ms. Barbos met the man, Craig McInally, at a local cafe. But afterward she cut off communication.
+- Within weeks, prosecutors in Glasgow contacted her. Mr. McInally had persuaded two other women from the site to meet him, and then had sexually assaulted and tried to hang each of them, court documents say. (Last week, he pleaded guilty to reckless conduct; charges involving the second woman had been dropped after she declined to participate.)
+- Law enforcement officials, however, were not investigating the site, which a spokeswoman for the Scottish police said was hosted out of its jurisdiction.
+- Ms. Barbos got pulled deeper into the suicide forum. She was learning more and more about poisoning. And she was getting swept up in private messaging with a member in Bulgaria, who had offered support. “I wish I could’ve felt real affection before doing this,” she told him.
+- She managed to escape a predator. But she didn’t escape suicide. In February 2020, Ms. Barbos ended her life while messaging with that member on the site.
+- “It swallowed her,” said her mother, Maria.
+- The Times investigation led to an elegant three-story apartment building in Montevideo, Uruguay, and a modest two-bedroom townhouse in Huntsville, Ala.
+- The man calling himself Serge is Diego Joaquín Galante; Marquis is Lamarcus Small.
+- Reporters pieced together their identities and roles with the site from domain registration and financial documents, their online activity, public documents including court records, and interviews with seven people who had interacted with either of them.
+- The domain and financial records were never intended to become public. They came to light after a domain seller the site operators had used was hacked this fall, resulting in the release of millions of records. In addition, The Times obtained photographs of Mr. Small and Mr. Galante that were a match with Marquis and Serge.
+- Records show that Mr. Galante, 29, resides in the Montevideo apartment with his family — several siblings, his mother and his father, who is a lawyer. Mr. Small, 28, lives with his mother and brother in the townhouse.
+- Mr. Small’s family life has been tumultuous. His father, who has served as an Army officer, and his mother divorced. She was accused of attacking her husband in 2010, and then her adult daughter four years later, according to police complaints.
+- Mr. Small had his own troubles. In 2017, a bank sued him for $6,578, and wages from his remote work for a Colorado tech company were garnished until that job ended in 2019.
+- In two recent phone interviews, Mr. Small denied any involvement with the site. He said that he did not know how his credit card number, name, address and phone number had appeared on an invoice for the suicide website domain name. He suggested first that the information might have been stolen, then that his brother, whose name appears on several documents, might have made the purchase.
+- Mr. Small did not respond to subsequent phone calls, texts, emails and a letter delivered to his townhouse. Despite similar efforts by The Times to contact his brother, he did not respond.
+- Mr. Galante, when reached by phone, initially said he knew nothing about the suicide website and hung up. Days later, after receiving a letter from The Times, he acknowledged in an email that he had posted on the site as Serge, but he denied that he was a founder or operator of it.
+- Records show that Marquis described him as a co-founder of the site and often mentioned in posts that the two had conferred on rules and practices. Serge’s own posts identified him as an administrator.
+- In his email to The Times, Mr. Galante defended the site as a positive influence that improved the lives of some members. But, he said, “I am deeply sorry that there are people who decide to end their life.” He noted that the suicide wiki page has been taken down. The extensive information about methods remains, however.
+- Sharon Luft, Matthew’s mother, and other parents want more.
+- “I’m talking to moms that their kids are dying, they’re so frustrated,” Ms. Luft said in an interview. And friends ask, “‘How is this site still allowed?’”
+- In January, Robert Davis, a senior vice president at Epik, the domain seller that was later hacked, read Ms. Luft’s tweet pleading for help.
+- Concerned, he had several phone conversations with someone he identified as “the site owner.” In an email to The Times, Mr. Davis said he had concluded that that person and the site administrators “lacked the empathy, compassion or intent to appropriately utilize the platform for future good.” Epik terminated its services for the suicide site, effectively removing it from the internet.
+- Within days, it was back, with a slightly different domain name.
+- Some parents had taken their battle to shut down the site to Washington, in phone calls and Zoom meetings with lawmakers. Those efforts also had little effect.
+- There has been growing bipartisan agreement that a 1996 law governing online activity — Section 230 of the Communications Decency Act — is in need of reform. In most circumstances, the law shields websites from liability for content that users post on their platforms.
+- The need for more regulation was repeatedly raised during congressional hearings in October, as Democrats and Republicans alike blasted Facebook and Instagram for content about body image and eating disorders that harms teenage girls. But with tech companies resisting sweeping reform, and the two political parties pursuing different agendas, not much has changed.
+- As the months went by, more members of the suicide site died. A 21-year-old lifeguard outside Vancouver. A 25-year-old online gamer in Portadown, Northern Ireland. A 31-year-old musician in Kansas City, Mo. An 18-year-old high school student in Italy.
+- And just this fall, a 30-year-old man in Grapevine, Texas. Newly unemployed, going through a breakup and deeply in debt, he found his way to the site, making his first post in late September. Three days later, he was gone.
+- If you are having thoughts of suicide, in the United States call the National Suicide Prevention Lifeline at 800-273-8255 (TALK) or go to SpeakingOfSuicide.com/resources for a list of additional resources. Go here for resources outside the United States.
+- Additional reporting Emma Bubola, Aditya Jaishankar, Aaron Krolik, Gerardo Lissardy, Aimee Ortiz and Morven Quin.Research Susan C. Beachy, Kitty Bennet, Michael LaForgia, Sheelagh McNeill and Julie Tate.Graphics Eleanor Lutz and Duy Nguyen.Production Aliza Aufrichtig and Rumsey Taylor. Additional production by Gabriel Gianordoli.
+- Advertisement
+
+URL: https://www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html
+- Please enable JS and disable any ad blocker
+
+URL: https://www.yahoo.com/news/lawmakers-press-amazon-sales-chemical-152416937.html
+
+URL: https://gizmodo.com/amazon-sales-chemical-compound-suicide-1848485532
+- Editor’s note: This article contains discussions of suicide. If you or someone you know is having a crisis, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text the Crisis Text Line at 741-741.
+- You can also reach The Trevor Project’s TrevorLifeline 24/7 at 1-866-488-7386. Counseling is also available 24/7 via chat every day at TheTrevorProject.org/Help, or by texting 678-678.
+- A bipartisan group of seven lawmakers from the House of Representatives told Amazon CEO Andy Jassy in a letter that they were gravely concerned over how easy and fast it was for people to buy a chemical compound, which is legal in the U.S., used to die by suicide on its platform, according to a new report in the New York Times.
+- Published on Friday, the report states that Amazon didn’t take action on the availability of the chemical compound on its platform after it was informed of the deaths and potential danger associated with the product by family members of the deceased and others. Most importantly, it found that enough people had bought the chemical compound to kill themselves that Amazon’s algorithm began recommending other products that users bought to help them take their lives.
+- In addition, Rep. Lori Trahan, Democrat of Massachusetts, told the outlet that there are claims that reviews warning others about the product were removed on Amazon.
+- The lawmakers asked Jassy for more information on sales of the chemical compound and related suicides. They also want to know how it handled the potential dangers surrounding the product and the complaints it received.
+- The Times found that at least 10 people had killed themselves using the chemical compound after buying it on Amazon in the past two years. Gizmodo has chosen not to name the substance out of an abundance of caution and sensitivity for those struggling with thoughts of suicide. As of Friday, the substance was still available on Amazon.
+- “We extend our deepest condolences to the families and loved ones personally affected by suicide,” an Amazon spokesperson told Gizmodo in a statement on Friday. The spokesperson added that the chemical compound “is commonly used to preserve foods such as meats and fish, and can also be used in laboratories as a reagent. It is a widely available product offered by retailers, and unfortunately, like many products, it can be misused.”
+- The company pointed out that it requires its partners to follow the law and its own policies when selling on Amazon. It also stated that it had provided customers in crisis with various resources, such as including a banner under certain search results in its store with the phone number for the National Suicide Prevention Hotline.
+- One of my searches on Amazon did indeed show the hotline number. However, my search also brought up extremely alarming and triggering content, including explicit methods that guaranteed death, on suicide as one of the first results. We’ve followed up with Amazon to ask why this type of content remains on its platform.
+- Trahan explained to the Times that lawmakers were focusing on Amazon because they believe the platform is the one most often used to obtain the chemical compound quickly, as well as over concerns raised by families and others that product reviews urging caution were removed.
+- “Amazon had the opportunity with their response to collaborate with us on this issue that’s tragically ending the lives of people across our nation,” Trahan told the outlet. “Instead, they failed to answer many of our most critical questions.”
+- As someone who has struggled with suicidal thoughts in the past, I can assure you that’s not helpful to have a chemical compound like this available at the click of a button with lightning-fast delivery. It’s risky and dangerous. Furthermore, failing to acknowledge or have a conversation on what’s being done with these products, and taking appropriate action, can cost people their lives.
+- To all of those who are struggling with suicidal thoughts, you are not alone. Help is available and it can make a difference. Take it from someone who’s been there and who is, gratefully, still here.
+
+URL: https://www.businessinsider.com/us-lawmakers-probe-amazon-for-selling-chemical-compound-used-suicide-2022-2
+- Jump to
+- 
+- 
+- 
+- A bipartisan group of lawmakers is probing Amazon for its continued sale of a food preservative reportedly used to aid suicides.
+- Seven members of the US House of Representatives pressed Amazon CEO Andy Jassy for answers this week regarding the company's sale of the chemical compound, The New York Times first reported. In a letter sent to the top executive, the legislators asked for details about suicides reported to be tied to the product, as well as for information on how Amazon is addressing the dangers of the preservative and complaints demanding it be pulled from the site.
+- The Times identified 10 people who died by suicide using the compound after purchasing it on Amazon in the past two years. Enough individuals bought the preservative to attempt suicide that the company's algorithm started recommending other products buyers often purchased in tandem with the chemical for that reason, the Times reported.
+- In their letter, the lawmakers wrote that the ease and speed of purchasing the product on Amazon was a "grave concern."
+- "When a person is having suicidal thoughts, limiting fast access to methods by which to die can make the difference between life and death," they wrote, according to CNET, which viewed a copy of the letter.
+- Amazon did not immediately respond to Insider's request for comment. In a statement to Gizmodo, a company spokesperson said Amazon extends its "deepest condolences to the families and loved ones personally affected by suicide" and clarified the product's wider use.
+- "[The chemical] is commonly used to preserve foods such as meats and fish, and can also be used in laboratories as a reagent," the spokesperson said. "It is a widely available product offered by retailers, and unfortunately, like many products, it can be misused."
+- If you or someone you know is struggling with depression or has had thoughts of harming themselves or taking their own life, get help. The National Suicide Prevention Lifeline (1-800-273-8255) provides 24/7, free, confidential support for people in distress, as well as best practices for professionals and resources to aid in prevention and crisis situations.
+- Read next
+
+URL: https://www.cnet.com/tech/services-and-software/amazon-challenged-by-lawmakers-over-listings-for-preservative-tied-to-suicides/
+- Your guide to a better future
+- Saying it's legal to sell the compound, Amazon hasn't answered questions on how it addresses the danger.
+- A mother is suing Amazon for wrongful death after her adult son died by suicide after buying the chemical from the company's website, according to the New York Times.
+- If you're struggling with negative thoughts or suicidal feelings, resources are available to help. In the US, call the National Suicide Prevention Lifeline at 1-800-273-8255; in the UK, call the Samaritans at 116 123; and in Australia, call Lifeline at 13 11 14. Additionally, you can find help at these 13 suicide and crisis intervention hotlines.
+- A bipartisan group of lawmakers has questioned 
+  Amazon
+ for allowing third-party vendors to use its vast marketplace to sell a preservative that's been tied to a spate of suicides.
+- In a letter to Amazon CEO Andy Jassy last week, seven members of Congress asked the e-commerce giant 15 specific questions regarding the sale of the chemical, including how many purchasers have died. The group is led by Lori Trahan, a Democrat from Massachusetts, and David B. McKinley, a Republican from West Virginia.
+- The lawmakers labeled Amazon's allowing listings of the chemical a "grave concern," particularly given that some of the company's sellers make it available for overnight delivery.
+- "When a person is having suicidal thoughts, limiting fast access to methods by which to die can make the difference between life and death," the lawmakers wrote in the letter, which was reviewed by CNET. The lawmakers asked CNET not to publish the letter in full because it contains the name of the chemical.
+- The letter, which was reported earlier by The New York Times, underscores the latest safety issue raised about products sold by third-party sellers on Amazon. A 2019 Wall Street Journal investigation found several examples of dangerous products, one of which the Food and Drug Administration has warned can suffocate infants, still listed on the website. Counterfeits also cause problems for Amazon shoppers because they may have faulty features, and they prompt complaints from companies that say their trademark is being infringed. Amazon has worked with multiple companies to sue sellers of counterfeit products, many of whom are based overseas.
+- Amazon wasn't the only company whose platform was used to sell the chemical linked to suicides. The Times reported that the preservative has also been sold on Etsy and eBay. Etsy confirmed it banned the sale of the chemical in November 2020. EBay didn't respond to a request for comment, but the Times reported the company has also banned it.
+- In a statement, an Amazon spokesperson extended condolences to the families of people who've died by suicide.
+- "Regarding [the chemical], it is commonly used to preserve foods such as meats and fish, and can also be used in laboratories as a reagent," the spokesperson said. "It is a widely available product offered by retailers, and unfortunately, like many products, it can be misused."
+- Brian Huseman, the company's vice president of public policy, responded to the lawmakers' letter. He emphasized that the chemical is being sold legally.
+- "All products sold in our store must comply with applicable laws and regulations and we have a robust product safety program to protect our customers," Huseman said in his reply, which lawmakers shared with CNET.
+- The chemical has been associated with suicides since 2017, the lawmakers said, adding that their concerns arise from the easy availability of the chemical on online marketplaces at the same time that other websites provide detailed instructions for abusing it.
+- Huseman's response didn't address requests for information on whether the company has removed reviews that warn the chemical can be abused for suicide or ask for the listings to be taken down. The response also didn't address lawmakers' inquiries about whether Amazon knows how many of its customers died after ordering the chemical or if activity on the accounts of buyers dropped after purchase of the chemical.
+- The Times reported that the mother of a man who ordered the chemical via Amazon has sued the company for wrongful death in the suicide of her son. CNET couldn't confirm the lawsuit. The newspaper also found reports that shoppers who search for the preservative may see recommendations for other items people typically buy when they purchase the chemical as part of a plan to kill themselves.
+
+URL: https://www.techtimes.com/articles/271473/20220205/amazon-questioned-third-party-sellers-listing-preservatives-tied-self-harm.htm
+- (Photo : Unsplash/Marques Thomas @querysprout.com) Amazon website
+- Amazon is in hot water yet again after a group of lawmakers questioned the e-commerce giant over listings that its third-party vendors had made.
+- The lawmakers stated that Amazon's third-party vendors had been selling preservatives on the site that tied to several cases of suicides.
+- At least seven members of Congress sent a letter to Amazon's CEO, Andy Jassy. They asked the e-commerce company 15 questions about the sale of the preservatives, including the number of customers that had passed away after the sale.
+- Lori Trahan, a Democrat from Massachusetts, and David B. McKinley, a Republican from West Virginia, led the group of lawmakers.
+- Both McKinley and Trahan labeled the issue as concerning, especially since listings for the preservatives are available for all customers, and some sellers even offer overnight delivery. There are also no warnings added to listings for customers to see.
+- Also Read: Apple and Amazon are Facing Investigation in Spain for Teaming Up to Remove Third-Party Sellers of Apple Products
+- According to CNET, the lawmakers stated in the letter that Amazon is giving suicidal customers fast access to dangerous methods like chemicals, thus increasing the number of deaths. The letter was not published as it contains the names of the chemicals under investigation.
+- This is not the first time that safety issues have been raised about products sold by third-party sellers on the e-commerce site.
+- In 2019, The Wall Street Journal reported that they'd discovered several dangerous products on Amazon, including those that have been banned by the Food and Drug Administration or FDA.
+- Counterfeits are also listed on the site, and it causes issues for both buyers that bought items with faulty features and companies that got their trademarks infringed.
+- Amazon has teamed up with several businesses to sue third-party sellers who posted counterfeit items on the site, but most are from outside the United States.
+- Even though Congress has specifically called out Amazon over the types of items that are posted on the site, it does not mean that the other e-commerce sites do not have listings of chemicals tied to suicides.
+- The New York Times reported that the same chemicals had been sold on eBay and Etsy. In November 2020, Etsy announced that they've officially banned the sale of all preservatives.
+- Meanwhile, eBay did not respond to the accusations, but it was reported by The New York Times that the company eventually banned the preservatives too.
+- An Amazon spokesperson sent condolences to the loved ones of those who have died by suicide. The spokesperson stated that the chemicals listed on the site are used to preserve foods and also can be used as a reagent in laboratories. Unfortunately, the products were misused.
+- Amazon's vice president of public policy, Brian Huseman, responded to the letter from Congress and said that all of the preservatives on the site are sold legally, and the listings passed the site's strict guidelines.
+- The products comply with laws and regulations, and Amazon has a product safety program that ensures the safety of its customers.
+- The use of chemicals for suicide has been going on since 2017. The concerns of lawmakers stem from the easy availability of the chemicals and the lack of precautions in the listings.
+- In 2016, Amazon UK was fined for mislabeling and airmailing chemicals, and other dangerous packages.
+- Last year, Amazon's third-party sellers were exposed for undermining the system and deleting negative comments left by their customers, which makes listings even more unreliable.
+- 
+- Related Article: Amazon Allegedly Exploits Small Businesses Through Hefty Fees! Third-Party Sellers Pay $34 per $100 Sale?
+- This article is owned by Tech Times
+- Written by Sophie Webster
+- Sign up for our free newsletter for the Latest coverage!
+- 
+- 
+
+URL: https://www.inputmag.com/culture/amazon-selling-products-suicide-lawmakers
+- Culture
+- “Like many widely-available consumer products, [the preservative] can unfortunately be misused.”
+- Brian Huseman, Amazon VP of public policy
+- CW: This article contains discussion of death by suicide.
+- Lawmakers are demanding Amazon take down listings for a food preservative that’s often linked to deaths by suicide, after early questions about the preservative yielded no results. Amazon has been selling this preservative for years now, and both the government and the public have been asking Amazon to remove the listings for nearly as long.
+- In the past two years, at least 10 people have killed themselves with the preservative after buying it via Amazon, The New York Times has found. Many of those identified were either teenagers or people in their 20s. The mother of a 27-year-old who died after purposefully ingesting chemicals bought on Amazon has filed a wrongful death lawsuit against the company in Texas.
+- This week, a members of Congress and the House sent a letter to Amazon CEO Andy Jassy with a request for the company to tally just how many times the preservative has been sold, as well as any information about suicides related to those sales. They’re no longer willing to take the company’s silence as a complete answer.
+- E-commerce complicity — This use of the preservative is not new; Amazon reviews going back years warn of its danger. The full picture of how often it’s used is more recent. A late December NYT investigation found that quite a few websites have been pushing this particular meat preservative as a method by which one might commit suicide.
+- Lawmakers now believe Amazon is the main retailer being used for quick delivery of the product. They’ve seen reports from parents that Amazon is even removing some reviews that warn others of the preservatives’ dangers.
+- Brian Huseman, Amazon’s VP of public policy, sent a written response to lawmakers, in which he expresses sympathy for the affected families and — in the same breath — asserts that Amazon doesn’t hold any culpability in the matter.
+- “Amazon makes a wide selection of products available to our customers because we trust that they will use those products as intended by the manufacturers,” Huseman said. “Like many widely-available consumer products, (the preservative) can unfortunately be misused.”
+- An ongoing battle with itself — As much as we’d like to chalk this up to a one-time misunderstanding of ethics, Amazon has basically been pulling this for as long as it’s existed. At the beginning of the pandemic, Amazon quickly became overwhelmed with counterfeit COVID-19 “cures”. It took Amazon more than a month and a half to implement new policies to curb this behavior. Price-gouging on basic pandemic necessities has continued into 2022 despite Amazon’s promises to stop sellers from doing so.
+- Amazon’s arguments here in many ways echo those made by Spotify CEO Daniel Ek this week. We’re just a conduit, really. We’re not responsible for the ways in which people use our product. It’s a line that’s growing stale very fast.
+- Whether or not Amazon will feel compelled to actually remove the product from its site is anyone’s guess, but we’re not feeling too optimistic based on its early response. Maybe — just a thought — it would be worth some new legislation to address issues like this in a comprehensive manner.
+
+URL: https://www.reddit.com/r/technology/comments/skzkep/lawmakers_press_amazon_on_sales_of_chemical_used/
+- Reddit and its partners use cookies and similar technologies to provide you with a better experience.
+- By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising.
+- By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform.
+- For more information, please see our
+              Cookie Notice
+              and our
+              Privacy Policy.
+- Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+- Amazon Flex algorithm delivery driver firings
+- Amazon algorithmic vaccine misinformation
+- Page infoType: IncidentPublished: February 2022

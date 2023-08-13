@@ -1,0 +1,723 @@
+[
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dominos-australia-pizza-checker",
+        "bard_impact_risk": "The risk of unfair disciplinary action is high.",
+        "aiaaic_risks": "Dual/multi-use; Employment; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.40373209896243667
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/virginia-non-violent-risk-assessment",
+        "bard_impact_risk": "The risk of unfair treatment is high.",
+        "aiaaic_risks": "Bias/discrimination - race, ethnicity, age",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.47868412561510376
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ai-confuses-bus-ad-for-jaywalker",
+        "bard_impact_risk": "The risk of injury or death is high.",
+        "aiaaic_risks": "Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.27103944431416777
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dubai-usd-35m-voice-cloning-fraud",
+        "bard_impact_risk": "The risk of fraud is high.",
+        "aiaaic_risks": "Ethics; Security",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.35206025881211456
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/celeba-dataset",
+        "bard_impact_risk": "The risk of deception is high.",
+        "aiaaic_risks": "Accuracy/reliability; Dual/multi-use; Privacy; Safety; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3664062617415625
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sony-photography-awards-ai-victory",
+        "bard_impact_risk": "The risk of bias is high.",
+        "aiaaic_risks": "Ethics; Mis/disinformation",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.231586947239467
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/trelleborg-welfare-management-automation",
+        "bard_impact_risk": "The risk of bias is low.",
+        "aiaaic_risks": "Safety; Employment - jobs; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.36199159281938204
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moscow-metro-face-pay-facial-recognition",
+        "bard_impact_risk": "The system could be used to track passengers' movements or to discriminate against certain groups of people",
+        "aiaaic_risks": "Privacy; Dual/multi-use; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.33083223202511575
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/alonzo-sawyer-facial-recognition-mistaken-arrest",
+        "bard_impact_risk": "The use of facial recognition could lead to wrongful arrests, discrimination, and a loss of privacy",
+        "aiaaic_risks": "Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2331575537272339
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pentagon-deepfake-explosion",
+        "bard_impact_risk": "Deepfakes could be used to spread misinformation, propaganda, and fear",
+        "aiaaic_risks": "Mis/disinformation",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": -0.007520319882418136
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/hyderabad-police-facial-recognition",
+        "bard_impact_risk": "The use of facial recognition could lead to wrongful arrests, discrimination, and a loss of privacy",
+        "aiaaic_risks": "Privacy; Surveillance; Dual/multi-use",
+        "cosine_similarity_score": 0.1263146087158642,
+        "spacy_similarity_score": 0.4208576409962496
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/huq-gps-location-data-sharing",
+        "bard_impact_risk": "The collection and sharing of GPS location data could be used to track people's movements, target them with advertising, or even commit crimes",
+        "aiaaic_risks": "Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.19740416401998398
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/anthony-bourdain-voice-deepfake",
+        "bard_impact_risk": "Deepfakes could be used to spread misinformation, propaganda, and fear",
+        "aiaaic_risks": "Ethics; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.25956472175536394
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/generated-photos-infinite-diversity-face-collection",
+        "bard_impact_risk": "The technology could be used to create fake news or propaganda, or to impersonate real people",
+        "aiaaic_risks": "Accuracy/reliability; Dual/multi-use; Employment",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2644183338325241
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-autocomplete-suggests-australian-surgeon-is-bankrupt",
+        "bard_impact_risk": "Google autocomplete could be used to spread misinformation and damage people's reputations",
+        "aiaaic_risks": "Accuracy/reliability; Mis/disinformation; Privacy; Legal - defamation/libel",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.10051089987394159
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/binance-cco-deepfake-impersonation",
+        "bard_impact_risk": "Deepfakes could be used to spread misinformation, damage people's reputations, and commit fraud",
+        "aiaaic_risks": "Security; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2989139969864663
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robot-kills-skh-metals-worker",
+        "bard_impact_risk": "Robots could malfunction and cause injury or death",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.1258002155566484
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/suzhou-social-civility-score-trial",
+        "bard_impact_risk": "The social civility score could be used to discriminate against citizens, to restrict their freedom of movement, and to punish them for minor infractions",
+        "aiaaic_risks": "Ethics; Fairness; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3417591256385864
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dukemtmc-facial-recognition-dataset",
+        "bard_impact_risk": "The \"DukeMTMC\" dataset could be used to create facial recognition algorithms that are biased against certain groups of people, such as women and minorities",
+        "aiaaic_risks": "Privacy; Ethics; Dual/multi-use",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.34400050151117106
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tamoco-location-data-sharing",
+        "bard_impact_risk": "Location data could be used to track people's movements, to target them with advertising, or to discriminate against them",
+        "aiaaic_risks": "Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.18843583367714167
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cleveland-state-university-online-proctor-room-scanning",
+        "bard_impact_risk": "The AI-powered proctoring software could be used to unfairly target students, to violate their privacy, or to discriminate against them",
+        "aiaaic_risks": "Privacy",
+        "cosine_similarity_score": 0.13819929773426579,
+        "spacy_similarity_score": 0.23753139201110457
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-s-kills-truck-driver-pedestrian",
+        "bard_impact_risk": "The \"Autopilot\" feature could be used to cause accidents, or to discriminate against certain groups of people",
+        "aiaaic_risks": "Accuracy/reliability; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.23138059298086414
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/iarpa-janus-benchmark-c-ijp-c-dataset",
+        "bard_impact_risk": "The Iarpa Janus Benchmark-C dataset could be used to create facial recognition algorithms that are biased against certain groups of people, such as women and minorities",
+        "aiaaic_risks": "Privacy; Dual/multi-use; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.45719525348457574
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/xiao-yu-deepfake-pornography",
+        "bard_impact_risk": "Deepfake pornography can be used to harass, intimidate, and exploit people",
+        "aiaaic_risks": "Privacy; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.25123102316522783
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/deliveroo-italy-rider-shift-management-algorithm",
+        "bard_impact_risk": "Risk of future discrimination against Deliveroo riders",
+        "aiaaic_risks": "Bias/discrimination - productivity; Fairness; Employment - pay",
+        "cosine_similarity_score": 0.0845798608014702,
+        "spacy_similarity_score": 0.5119107096469085
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/usps-rural-letter-carrier-algorithmic-pay-cuts",
+        "bard_impact_risk": "Risk of future pay cuts for rural letter carriers",
+        "aiaaic_risks": "Employment - pay",
+        "cosine_similarity_score": 0.1414305679255449,
+        "spacy_similarity_score": 0.5811638055187899
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-adsense-shows-lower-paying-jobs-to-women",
+        "bard_impact_risk": "Risk of future discrimination against women in the job market",
+        "aiaaic_risks": "Bias/discrimination - gender",
+        "cosine_similarity_score": 0.10371551133313006,
+        "spacy_similarity_score": 0.3407930594915757
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-derm-assist-dermatology-app-bias-privacy",
+        "bard_impact_risk": "Risk of future misdiagnosis and harm to patients",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.32641755287497715
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-zo-chatbot",
+        "bard_impact_risk": "Risk of future chatbots generating offensive and harmful content",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.26834864938039094
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias",
+        "bard_impact_risk": "Risk of future gender bias in algorithmic decision-making",
+        "aiaaic_risks": "Bias/discrimination - gender",
+        "cosine_similarity_score": 0.25213870694526264,
+        "spacy_similarity_score": 0.5594807485228422
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tiktok-bold-glamour-filter",
+        "bard_impact_risk": "Risk of future beauty filters reinforcing unrealistic beauty standards",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.27776659554720573
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/accessibe-automated-accessibility",
+        "bard_impact_risk": "Accessible automated accessibility tools could be used to discriminate against people with disabilities. For example, a tool that is designed to help people with visual impairments could be used to prevent people with visual impairments from accessing certain websites or applications.",
+        "aiaaic_risks": "Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2367298803356397
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bodega-ai-automated-mom-and-pop-stores",
+        "bard_impact_risk": "Medium",
+        "aiaaic_risks": "Business model; Employment",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.5036769416955128
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/knightscope-hp-robocop-ignores-woman-reporting-crime",
+        "bard_impact_risk": "Medium",
+        "aiaaic_risks": "Accuracy/reliability; Anthropomorphism; Employment; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.41572572273283526
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/google-images-links-music-promoter-to-criminal-underworld",
+        "bard_impact_risk": "Medium",
+        "aiaaic_risks": "Accuracy/reliability; Mis/disinformation; Legal - defamation/libel",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.439454749554424
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-ring-blm-protest-surveillance",
+        "bard_impact_risk": "High",
+        "aiaaic_risks": "Surveillance; Privacy; Dual/multi-use",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.18940948887801748
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/clarifai-okcupid-dataset-appropriation",
+        "bard_impact_risk": "data privacy and security",
+        "aiaaic_risks": "Privacy; Ethics",
+        "cosine_similarity_score": 0.22028815056182974,
+        "spacy_similarity_score": 0.40300725627498285
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-teen-alcohol-drug-gambling-ads-approvals",
+        "bard_impact_risk": "Algorithmic bias and discrimination",
+        "aiaaic_risks": "Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3540884077778206
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/pro-china-deepfake-spamouflage-campaign",
+        "bard_impact_risk": "Misinformation and disinformation",
+        "aiaaic_risks": "Mis/disinformation",
+        "cosine_similarity_score": 0.2605556710562624,
+        "spacy_similarity_score": 0.283062446064272
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/midjourney-image-generator",
+        "bard_impact_risk": "Algorithmic bias and discrimination",
+        "aiaaic_risks": "Copyright; Ethics; Employment - jobs; Privacy; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.4876740821235926
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-paris-fatal-crash",
+        "bard_impact_risk": "Autonomous driving",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2897701845237395
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-passport-photo-application-racism",
+        "bard_impact_risk": "Algorithmic bias and discrimination",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, ethnicity",
+        "cosine_similarity_score": 0.26055567105626243,
+        "spacy_similarity_score": 0.5692103559670316
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tencent-app-link-blocking",
+        "bard_impact_risk": "Monopolization",
+        "aiaaic_risks": "Competition/price fixing",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.0
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ocado-robot-collision",
+        "bard_impact_risk": "Safety",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 1.0,
+        "spacy_similarity_score": 1.0
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/met-police-gangs-violence-matrix",
+        "bard_impact_risk": "Discrimination",
+        "aiaaic_risks": "Bias/discrimination - race, ethnicity, income, location; Accuracy/reliability; Privacy",
+        "cosine_similarity_score": 0.24395572500006343,
+        "spacy_similarity_score": 0.6317846243912266
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/san-francisco-police-killer-robots",
+        "bard_impact_risk": "Safety, discrimination, and public distrust",
+        "aiaaic_risks": "Safety; Scope creep/normalisation; Ethics",
+        "cosine_similarity_score": 0.11234277891542777,
+        "spacy_similarity_score": 0.458593180831642
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/nypd-digidog",
+        "bard_impact_risk": "Safety, discrimination, and public distrust",
+        "aiaaic_risks": "Bias/discimination - race, ethnicity; Dual/multi-use; Privacy; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.49814391832057114
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/livonia-skating-rink-misidentifies-black-teenager",
+        "bard_impact_risk": "Discrimination, public distrust, and harm to individuals",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race",
+        "cosine_similarity_score": 0.09349477497536716,
+        "spacy_similarity_score": 0.2527868085850838
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/frasers-group-facial-recognition",
+        "bard_impact_risk": "Potential for misuse of facial recognition technology",
+        "aiaaic_risks": "Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.1950698351102651
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-y-crashes-into-tractor-trailer",
+        "bard_impact_risk": "Potential for misuse of Tesla Autopilot driving software",
+        "aiaaic_risks": "Accuracy/reliability; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.40132487073799644
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-reincarnation-chatbot",
+        "bard_impact_risk": "Potential for chatbots to be used to \"exploit\" or \"deceive\" people",
+        "aiaaic_risks": "Appropriateness/need; Privacy; Copyright; Defamation",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2090434630990716
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ethiopia-bayraktar-tb2-drone-tigray-school-attack",
+        "bard_impact_risk": "Potential for Bayraktar TB2 drones to be used to cause civilian casualties and destruction of infrastructure",
+        "aiaaic_risks": "Lethal autonomous weapons; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.5047368494736841
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/microsoft-celeb-ms-celeb-1m-facial-recognition-dataset",
+        "bard_impact_risk": "Increased risk of privacy violations, including misuse of facial recognition technology for surveillance, identification, and tracking.",
+        "aiaaic_risks": "Privacy; Copyright; Dual/multi-use",
+        "cosine_similarity_score": 0.05699752852140605,
+        "spacy_similarity_score": 0.5067206602509565
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-crash-detection-false-positives",
+        "bard_impact_risk": "Potential for false positives, including notifications for non-crash events, such as riding \"rollercoasters\".",
+        "aiaaic_risks": "Accuracy/reliability; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3729679810567887
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model",
+        "bard_impact_risk": "Potential for the AI \"model\" to be used to create unauthorized or inappropriate \"content\"",
+        "aiaaic_risks": "Copyright; Ethics; Mis/disinformation; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.21782548770657506
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mindar-robot-buddhist-priest",
+        "bard_impact_risk": "Potential for Mindar to be used to spread misinformation about \"Buddhism\", to exploit people's vulnerabilities, or to replace human interaction with a \"robot\"",
+        "aiaaic_risks": "Appropriateness/need; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.21192396599968227
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/ibm-diversity-in-faces-dataset",
+        "bard_impact_risk": "Potential for the dataset to be used to create facial recognition systems that are biased against certain groups of people",
+        "aiaaic_risks": "Privacy; Copyright; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.29595446647211376
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/dubai-drone-weather-engineering",
+        "bard_impact_risk": "Potential for environmental damage, such as flooding and desertification",
+        "aiaaic_risks": "Dual/multi-use; Environment",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.45851450189316206
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-3-hits-tow-truck-explodes",
+        "bard_impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.31765621342405753
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-labels-black-men-primates",
+        "bard_impact_risk": "Potential for AI to be biased and discriminatory",
+        "aiaaic_risks": "Bias/discrimination - race",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.23386171234243303
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-x-crashes-into-five-police-officers",
+        "bard_impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.31765621342405753
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/deliveroo-uk-rider-management-algorithm",
+        "bard_impact_risk": "Potential for the algorithm to be biased and discriminatory",
+        "aiaaic_risks": "Employment - pay, working conditions",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.6096153081898991
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/cruzcampo-lola-flores-deepfake-ad",
+        "bard_impact_risk": "Potential for deepfake technology to be used to create misleading or offensive content.",
+        "aiaaic_risks": "Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.11078497601461859
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-autopilot-confused-by-billboard",
+        "bard_impact_risk": "Potential for Tesla Autopilot to malfunction and cause accidents",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.31765621342405753
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/sleeping-driver-speeds-on-highway-with-autopilot-switched-on",
+        "bard_impact_risk": "Potential for Tesla Autopilot to be misused and cause accidents",
+        "aiaaic_risks": "Accuracy/reliability; Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2156442129982057
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/hirevue-recruitment-facial-analysis-screening",
+        "bard_impact_risk": "Potential for facial analysis software to be biased and discriminatory",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - gender, disability; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.4179154815728593
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rio-de-janeiro-facial-recognition-wrongful-arrests",
+        "bard_impact_risk": "Potential for facial recognition software to be inaccurate and lead to wrongful arrests",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, ethnicity; Privacy; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.30271030956767314
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uber-upfront-fares-driver-pay-algorithm",
+        "bard_impact_risk": "Potential for the Upfront Fares algorithm to be biased and lead to lower driver earnings",
+        "aiaaic_risks": "Employment - pay; Fairness",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.4370236283794833
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-aws-panorama-workplace-surveillance",
+        "bard_impact_risk": "Potential for AI-powered cameras to be used to collect and store sensitive data, and to track and monitor employees without their consent",
+        "aiaaic_risks": "Privacy; Surveillance; Dual/multi-use",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.41350053147471844
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/mobileye-630-pro-tricked-by-drones-projectors",
+        "bard_impact_risk": "Potential for Mobileye 630 PRO self-driving technology to be tricked by other objects and systems",
+        "aiaaic_risks": "Security, Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.47104529131974393
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition",
+        "bard_impact_risk": "Potential for facial recognition technology to be used to track and monitor customers without their consent, and to discriminate against customers based on their race, gender, or other factors",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, ethnicity, income; Privacy ",
+        "cosine_similarity_score": 0.029032707475956265,
+        "spacy_similarity_score": 0.5241864359580031
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/toyota-paralympics-self-driving-bus-hits-athlete",
+        "bard_impact_risk": "Potential for self-driving technology to be inaccurate and lead to accidents",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2396177437134775
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/vgg-face-facial-recognition-dataset",
+        "bard_impact_risk": "Potential for the dataset to be used to discriminate against people based on their race, gender, or other factors",
+        "aiaaic_risks": "Privacy; Copyright",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3400681351401299
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-model-3-crashes-into-bus-in-ruian-kills-one",
+        "bard_impact_risk": "Potential for Tesla Autopilot technology to be inaccurate and lead to accidents",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.20136147062883536
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-watch-blood-oximeter-racial-bias",
+        "bard_impact_risk": "Potential for Apple Watch blood oximeter to be used to discriminate against people with darker skin tones",
+        "aiaaic_risks": "Accuracy/reliability; Appropriateness/need; Bias/discrimination - race, ethnicity",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.22549762491429787
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-cycle-tracking-fertility-predictions",
+        "bard_impact_risk": "Potential for Apple cycle tracking app to be used to discriminate against people based on their fertility status",
+        "aiaaic_risks": "Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.22781549418459449
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/syri-welfare-fraud-detection-automation",
+        "bard_impact_risk": "Potential for SyRI to be used to discriminate against people based on their race, ethnicity, or other factors",
+        "aiaaic_risks": "Bias/discrimination - race, ethnicity, economic; Privacy; Scope creep/normalisation",
+        "cosine_similarity_score": 0.08203264007347356,
+        "spacy_similarity_score": 0.48770292063114856
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/80-million-tiny-images-dataset",
+        "bard_impact_risk": "potential for the dataset to be used to discriminate against people based on their race, gender, or other factors, as well as potential for the dataset to be used to create deepfakes or other forms of synthetic media",
+        "aiaaic_risks": "Bias/discrimination - race, gender; Privacy; Safety",
+        "cosine_similarity_score": 0.05524402556623147,
+        "spacy_similarity_score": 0.45858380188603576
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/barclays-employee-spyware-monitoring",
+        "bard_impact_risk": "potential for employee spyware to be used to discriminate against employees based on their race, gender, or other factors",
+        "aiaaic_risks": "Surveillance; Privacy",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3548341925577618
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/oostoanyvision-facial-recognition-drones",
+        "bard_impact_risk": "potential for facial recognition drones to be used to discriminate against people based on their race, gender, or other factors",
+        "aiaaic_risks": "Surveillance; Privacy; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3091362111216824
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-ring-police-data-sharing",
+        "bard_impact_risk": "potential for Amazon Ring police data sharing to be used to discriminate against people based on their race, gender, or other factors",
+        "aiaaic_risks": "Privacy; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.2781424991761487
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking",
+        "bard_impact_risk": "potential for eye tracking technology to be used to discriminate against moviegoers based on their race, gender, or other factors",
+        "aiaaic_risks": "Appropriateness/need; Privacy; Security",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3291751318518357
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/facebook-military-gear-advertising",
+        "bard_impact_risk": "potential for Facebook to be used to spread misinformation and propaganda about military gear and weapons accessories",
+        "aiaaic_risks": "Safety; Accuracy/reliability; Ethics",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.21684337892457034
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/joe-rogan-libido-booster-alpha-grind-ad-deepfake",
+        "bard_impact_risk": "potential for the deepfake technology to be used to spread misinformation or propaganda",
+        "aiaaic_risks": "Mis/disinformation",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.06789498931114703
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/walgreens-fridge-screen-door-biometrics",
+        "bard_impact_risk": "potential for the biometric data to be stolen or used for fraudulent purposes",
+        "aiaaic_risks": "Appropriateness/need; Privacy; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.3778798499752041
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lapd-social-media-data-collection",
+        "bard_impact_risk": "potential for the LAPD to violate the privacy of individuals by collecting and storing their social media data",
+        "aiaaic_risks": "Privacy; Surveillance",
+        "cosine_similarity_score": 0.09339537641256736,
+        "spacy_similarity_score": 0.43993951850887875
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rio-de-janeiro-facial-recognition-wrongful-arrests",
+        "bard_impact_risk": "potential for the facial recognition technology to be biased against certain groups of people, such as people of color",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, ethnicity; Privacy; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.42971179157983913
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/tesla-paris-fatal-crash",
+        "bard_impact_risk": "potential for the Tesla Autopilot feature to be unreliable or unsafe",
+        "aiaaic_risks": "Safety; Accuracy/reliability",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.24867930273268712
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/seoul-bridge-suicide-detection",
+        "bard_impact_risk": "potential for the AI-powered cameras to be biased against certain groups of people, such as people of color",
+        "aiaaic_risks": "Privacy; Dual/multi-use; Surveillance",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.4213220903855402
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/harrisburg-university-criminality-prediction-study",
+        "bard_impact_risk": "potential for the software to be biased against certain groups of people, such as people of color",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, gender, age, income; Ethics; Pseudoscience",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.5310576211529501
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-chemical-food-preservative-suicides",
+        "bard_impact_risk": "potential for Amazon's chemical food preservatives to be harmful to people's health, including their mental health",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.1496461169068658
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/apple-card-accused-of-gender-bias",
+        "bard_impact_risk": "potential for Apple's credit scoring algorithm to be biased against women",
+        "aiaaic_risks": "Bias/discrimination - gender",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.20344348111998461
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/amazon-flex-delivery-driver-routing-safety",
+        "bard_impact_risk": "potential for Amazon's algorithm to route Amazon Flex delivery drivers in a way that increases their risk of accidents and injuries",
+        "aiaaic_risks": "Safety; Fairness",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.32863949244287066
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bodega-ai-automated-mom-and-pop-stores",
+        "bard_impact_risk": "potential for Bodega AI's technology to be used to replace store clerks, to collect data on customers without their consent, or to be hacked and used to steal customer data",
+        "aiaaic_risks": "Business model; Employment",
+        "cosine_similarity_score": 0.0,
+        "spacy_similarity_score": 0.41089482593826737
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/lucknow-women-in-distress-facial-recognition",
+        "bard_impact_risk": "Accuracy/reliability, privacy, surveillance",
+        "aiaaic_risks": "Accuracy/reliability; Privacy; Surveillance",
+        "cosine_similarity_score": 1.0,
+        "spacy_similarity_score": 0.7642831138710032
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/bosco-electricity-subsidy-assessment",
+        "bard_impact_risk": "Accuracy/reliability, privacy, bias",
+        "aiaaic_risks": "Accuracy/reliability",
+        "cosine_similarity_score": 0.5797386715376658,
+        "spacy_similarity_score": 0.7235549844818614
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/teleperformancetp-observer-employee-monitoring",
+        "bard_impact_risk": "Privacy, bias, employee morale",
+        "aiaaic_risks": "Appropriateness/need; Surveillance; Privacy",
+        "cosine_similarity_score": 0.14438355527738675,
+        "spacy_similarity_score": 0.42108772734299427
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/rite-aid-facial-recognition",
+        "bard_impact_risk": "Accuracy/reliability, privacy, bias",
+        "aiaaic_risks": "Accuracy/reliability; Bias/discrimination - race, ethnicity, income; Privacy ",
+        "cosine_similarity_score": 0.5797386715376657,
+        "spacy_similarity_score": 0.8745935511601053
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/moviepass-preshow-eye-tracking",
+        "bard_impact_risk": "Privacy, bias",
+        "aiaaic_risks": "Appropriateness/need; Privacy; Security",
+        "cosine_similarity_score": 0.22028815056182974,
+        "spacy_similarity_score": 0.44301572381077203
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/robot-kills-skh-metals-worker",
+        "bard_impact_risk": "Safety, reliability, bias",
+        "aiaaic_risks": "Safety",
+        "cosine_similarity_score": 0.44943641652398214,
+        "spacy_similarity_score": 0.40397919693140794
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/illustrator-hollie-mengert-converted-into-ai-model",
+        "bard_impact_risk": "Copyright infringement, bias, lack of creativity",
+        "aiaaic_risks": "Copyright; Ethics; Mis/disinformation; Safety",
+        "cosine_similarity_score": 0.10163066979112656,
+        "spacy_similarity_score": 0.4635302245051716
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/uk-nhs-digital-medical-history-database",
+        "bard_impact_risk": "Data security, privacy, bias",
+        "aiaaic_risks": "Privacy; Security",
+        "cosine_similarity_score": 0.5797386715376658,
+        "spacy_similarity_score": 0.5956848257397508
+    },
+    {
+        "source": "https://www.aiaaic.org/aiaaic-repository/ai-and-algorithmic-incidents-and-controversies/singapore-xavier-patrol-robots",
+        "bard_impact_risk": "Accuracy, reliability, bias, privacy, safety",
+        "aiaaic_risks": "Surveillance; Privacy; Employment - jobs",
+        "cosine_similarity_score": 0.12735952979479354,
+        "spacy_similarity_score": 0.5465666397147169
+    }
+]

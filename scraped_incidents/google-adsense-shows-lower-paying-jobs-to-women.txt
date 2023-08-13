@@ -1,0 +1,261 @@
+- Occurred: July 2015
+- Can you improve this page?Share your insights with us
+- Google's AdSense ad-serving system is more likely to display adverts offering higher salaries to people identifying themselves as males than females, according to a study by researchers at Carnegie Mellon University and the International Computer Science Institute.
+- Using a custom-built programme called AdFisher that simulates users’ web-browsing habits, the researchers discovered that users identifying as male saw a career-coaching ad on the Times of India website 1,852 times, while users identifying as women were shown it 318 times.
+- The complexity and opacity of Google's ad targetting system made it hard to explain the researchers' findings. 'I think our findings suggest that there are parts of the ad ecosystem where kinds of discrimination are beginning to emerge and there is a lack of transparency,' one said.
+- Operator: Alphabet/Google Developer: Alphabet/Google
+- Country: USA
+- Sector: Business/professional services
+- Purpose: Serve advertising
+- Technology: Advertising management system Issue: Bias/discrimination - gender
+- Transparency: Governance; Black box
+- Google AdSense website
+- Google AdSense Wikipedia profile
+- Datta A., Tschantz M.C., Datta A. (2014). Automated Experiments on Ad Privacy Settings: A Tale of Opacity, Choice, and Discrimination
+URL: https://www.technologyreview.com/2015/07/06/110198/probing-the-dark-side-of-googles-ad-targeting-system/
+- That Google and other companies track our movements around the Web to target us with ads is well known. How exactly that information gets used is not—but a research paper presented last week suggests that some of the algorithmic judgments that emerge from Google’s ad system could strike many people as unsavory.
+- Researchers from Carnegie Mellon University and the International Computer Science Institute built a tool called AdFisher to probe the targeting of ads served up by Google on third-party websites. They found that fake Web users believed by Google to be male job seekers were much more likely than equivalent female job seekers to be shown a pair of ads for high-paying executive jobs when they later visited a news website.
+- AdFisher also showed that a Google transparency tool called “ads settings,” which lets you view and edit the “interests” the company has inferred for you, does not always reflect potentially sensitive information being used to target you. Browsing sites aimed at people with substance abuse problems, for example, triggered a rash of ads for rehab programs, but there was no change to Google’s transparency page.
+- What exactly caused those specific patterns is unclear, because Google’s ad-serving system is very complex. Google uses its data to target ads, but ad buyers can make some decisions about demographics of interest and can also use their own data sources on people’s online activity to do additional targeting for certain kinds of ads. Nor do the examples breach any specific privacy rules—although Google policy forbids targeting on the basis of “health conditions.” Still, says Anupam Datta, an associate professor at Carnegie Mellon University who helped develop AdFisher, they show the need for tools that uncover how online ad companies differentiate between people.
+- “I think our findings suggest that there are parts of the ad ecosystem where kinds of discrimination are beginning to emerge and there is a lack of transparency,” says Datta. “This is concerning from a societal standpoint.” Ad systems like Google’s influence the information people are exposed to and potentially even the decisions they make, so understanding how those systems use data about us is important, he says.
+- Even companies that run online ad networks don’t have a good idea of what inferences their systems draw about people and how those inferences are used, says Datta. His group has begun collaborating with Microsoft to develop a version of AdFisher for use inside the company, to look for potentially worrying patterns in the ad targeting on the Bing search engine. A paper by Datta and two colleagues—Michael Tschantz, of the International Computer Science Institute, and Amit Datta, also at Carnegie Mellon—was presented at the Privacy Enhancing Technologies Symposium in Philadelphia last Thursday.
+- Google did not officially respond when the researchers contacted the company about their findings late last year, they say. However, this June the team noticed that Google had added a disclaimer to its ad settings page. The interest categories shown are now said to control only “some of the Google ads that you see,” and not those where third parties have made use of their own data. Datta says that greatly limits the usefulness of Google’s transparency tool, which could probably be made to reveal such information if the company chose. “They are serving these ads, and if they wanted to they could reflect these interests,” he says.
+- “Advertisers can choose to target the audience they want to reach, and we have policies that guide the type of interest-based ads that are allowed,” said Andrea Faville, a Google spokeswoman, in an e-mail. “We provide transparency to users with ‘Why This Ad’ notices and Ads Settings, as well as the ability to opt out of interest-based ads.” Google is looking at the methodology of the study to try to understand its findings.
+- The AdFisher tool works by sending out hundreds or thousands of automated Web browsers on carefully chosen trails across the Web in such a way that an ad-targeting network will infer certain interests or activities. The software then records which ads are shown when each automated browser visits a news website that uses Google’s ad network, as well as any changes to the ad settings page. In some experiments that page is edited to look for differences between the ways ads are targeted to, say, males and females. AdFisher automatically flags any statistically significant differences in how ads are targeted using the particular interest categories or demographics it is investigating.
+- Roxana Geambasu, an assistant professor at Columbia University, says there’s considerable value in the way AdFisher can statistically extract patterns from the complexity of targeted ads. A tool called XRay, which her own research group released last year, can reverse-engineer the connection between ads shown to Gmail users and keywords in their messages. For example, ads for low-requirement car loans might be targeted to those using words associated with financial difficulties.
+- However, Geambasu says that the results from both XRay and AdFisher are still only suggestive. “You can’t draw big conclusions, because we haven’t studied this very much and these examples could be rare exceptions,” she says. “What we need now is infrastructure and tools to study these systems at much larger scale.” Being able to watch how algorithms target and track people to do things like serve ads or tweak the price of insurance and other products is likely to be vital if civil rights groups and regulators are to keep pace with developments in how companies use data, she says.
+- A White House report on the impact of “big data” last year came to similar conclusions. “Data analytics have the potential to eclipse longstanding civil rights protections in how personal information is used in housing, credit, employment, health, education, and the marketplace,” it said.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- The workplace tool’s appeal extends far beyond organizing work projects. Many users find it’s just as useful for managing their free time.
+- Historically, learn-to-code efforts have provided opportunities for the few, but new efforts are aiming to be inclusive.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://www.wired.com/2015/07/googles-ad-system-become-big-control/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Kevin Montgomery
+- Google is one of the most advanced search and advertising platforms on the Internet, but a research paper suggests the company may lack the ability to keep discriminatory and privacy policy-violating advertisements off its services.
+- Research conducted by three computer scientists from Carnegie Mellon University and the International Computer Science Institute discovered that Google's AdSense platform is capable of discriminating against women looking for employment and targeting consumers based on their health information.
+- Using an automated tool they built called AdFisher, the research team utilized more than 17,000 simulated user profiles across 21 experiments to analyze how different user traits defined by Google's Ad Settings would impact which ads were served. In one experiment, Google predominantly showed ads for executive-level positions to accounts identified as male. Female accounts, on the other hand, were more likely to be served job postings from an auto parts dealer, Goodwill, and a generic job-hunting service.
+- In another experiment, ads for drug and alcohol rehabilitation centers were served to accounts which previously browsed websites about substance abuse. Similarly, accounts that visited websites regarding physical disabilities were shown ads for accessibility products.
+- "We cannot claim that Google has violated its policies," the team wrote in the paper. "In fact, we consider it more likely that Google has lost control over its massive, automated advertising system."
+- While the study's findings would suggest Google is enabling discrimination, the situation is much more complicated.
+- Currently, Google allows advertisers to target their ads based on gender. That means it’s possible for an advertiser promoting high-paying job listings to directly target men. However, Google's algorithm may have also determined that men are more relevant for the position and made the decision on its own. And then there's the possibility that user behavior taught Google to serve ads in this manner. It’s impossible to know if one party here is to blame or if it’s a combination of account targeting from all sources at play.
+- "Users can train [Google's] models to act in a discriminatory fashion," study co-author Michael Tschantz told WIRED. "If only males are clicking on the ad that promote high-paying jobs, the algorithm will learn to only show those ads to males. Machine learning algorithms produce very opaque models that are very hard for humans to understand. It's extremely difficult to determine exactly why something is being shown."
+- It’s also problematic that Google lacks clear standards for when advertisers can target users based on "sensitive information," which further muddles whether any of this is okay or not.
+- The researchers believe that the ads shown for rehabilitation centers and accessibility products could be a result of "remarketing." Google permits companies to target users who have previously visited their sites, prompting those users to return in order to complete a purchase. However, Google's advertising privacy policy "[prohibits] advertisers from remarketing based on sensitive information, such as health information or religious beliefs." (Google did not respond to a request for comment.)
+- WIRED Staff
+- Adrienne So
+- Lauren Goode
+- Scott Gilbertson
+- That policy is enough for the team to conclude the health ads were being served illicitly. "Although Google does not specify what [it] consider[s] to be 'health information,’ we view the ads as in violation of Google’s policy, thereby raising the question of how Google should enforce its policies."
+- By some estimates, Google controls more than 31 percent of the digital ad market. The staggering scale of its operation has made it nearly impossible to monitor all the ads published through its platform.
+- "It is definitely possible for advertisers to violate Google's Terms and Conditions and privacy policies," says Tschantz. "They are not doing anything to check ads for compliance. Google does simple technical checks for style issues—stuff like too many exclamation points or to make sure the ad's link is active—but there is nothing in place to check for semantic properties, like an ad being discriminatory."
+- One of Tschantz's research partner's, Anupam Datta, suggests Google may be kicking responsibility down to the advertisers.
+- "Google's policies say [users] should not be doing anything illegal," Datta says. "They have assigned some responsibility to the advertisers to do the right thing."
+- Consumer privacy advocates worry that, permitted or not, these advertisements could already be impacting users.
+- "Our computers are mirrors as well as windows, and the personalization that we encounter across the Web sends signals about our value and what opportunities are available to us," said Ali Lange, a consumer privacy policy analyst for the Center for Democracy & Technology. "So what signals are sent by ads that are delivered based on potentially sensitive information, like ads for rehab?"
+- Datta believes it’s possible to develop more advanced oversight tools that companies can use internally that can detect discriminatory and other tracking abuses, as well as help assign responsibility when abuses occur. The team is already in the process of working with Microsoft to automate advertisement compliance checking. Microsoft is particularly concerned about how discriminatory ads could be placed on its Bing search engine.
+- Machine-learned discrimination may prove to be a difficult problem for companies like Google and Facebook to stomp out. But the researchers agree that algorithmic discrimination can't be ignored. And AdSense isn’t the singular platform responsible for such bias: Recently, Google’s new photo service, which uses its filtering smarts to identify the contents of a photo, mistook photos of black people for gorillas. Flickr’s similarly smart photo engine labeled a black man as an “ape” and an “animal,” and called a Nazi concentration camp a “jungle gym.” Just because the creator of such offensive statements is a machine doesn’t mean it should run uninhibited through the Internet.
+- As the researchers put it: "The amoral status of an algorithm does not negate its effects on society.”
+- UPDATE 3:41pm ET 7/8/2015: Google offered the following statement after publishing this story:
+- "Advertisers can choose to target the audience they want to reach, and we have policies that guide the type of interest-based ads that are allowed. We provide transparency to users with 'Why This Ad' notices and Ad Settings, as well as the ability to opt out of interest-based ads."
+- Lauren Goode
+- Reece Rogers
+- Reece Rogers
+- David Nield
+- David Nield
+- Nicole Gull McElroy
+- Alden Wicker
+- Reece Rogers
+- TurboTax coupon: Up to an extra $15 off all tax services
+- 20% Off All H&R Block 2023 Tax Software | H&R Block Coupon
+- Summer Clean Sale: 25% off household essentials + free delivery
+- Extra 20% off sitewide - Dyson promo code
+- GoPro promo code: 10% OFF all sitewide purchases + free shipping
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
+- WSJ Membership
+- Customer Service
+- Tools & Features
+- Ads
+- More
+- Dow Jones Products
+
+URL: https://marketingland.com/carnegie-mellon-study-finds-gender-discrimination-in-ads-shown-on-google-134479
+- You don't have permission to access
+	/carnegie-mellon-study-finds-gender-discrimination-in-ads-shown-on-google-134479 on this server.
+- If this is your Web site and you're not sure why you're seeing
+	this message, the permissions on this file may be set
+	incorrectly: the file should be world-readable.
+
+URL: https://techcrunch.com/2015/07/09/researchers-probe-online-ad-targeting-bias/
+- As algorithmic decision-making touches more and more aspects of our lives, questions about the underlying rules that route these bits and bytes — and ultimately determine the digital content and opportunities we are exposed to — are growing.
+- A study by researchers from Carnegie Mellon University and the International Computer Science Institute, reported this week in the MIT Technology Review, has highlighted potential gender bias in Google’s ad-targeting algorithms. The researchers found that male job seekers were more likely than equivalent female job seekers to be shown ads for high-paying executive jobs when they visited a news website.
+- The researchers used a tool of their own making, called AdFisher, to gain intel on how Google’s ad-targeting works, recording the ads served by Google on third party websites after created scores of carefully curated web user profiles — giving them a benchmark to compare how ads were being served to users based on their interests and gender.
+- However they caution it’s difficult to definitively determine how ads are being targeted because the process is so complex and opaque. Ad buyers can make demographic decisions about the targeting themselves and also incorporate their own data sources on people’s online behavior to do additional targeting for certain types of ads. So where exactly any gender bias in ad serving is coming from is difficult to determine without more data.
+- The researchers write:
+- We cannot determine who caused these findings due to our limited visibility into the ad ecosystem, which includes Google, advertisers, websites, and users. Nevertheless, these results can form the starting point for deeper investigations by either the companies themselves or by regulatory bodies.
+- Another finding was that Google’s ad settings transparency tool, which lets users view and edit the interests the company has inferred for them (based on tracking their digital behavior), does not always reflect potentially sensitive information that is being used to target them with ads.
+- “Browsing sites aimed at people with substance abuse problems, for example, triggered a rash of ads for rehab programs, but there was no change to Google’s transparency page,” reports the MIT Technology Review. It goes on to quote Anupam Datta, an associate professor at Carnegie Mellon University who helped develop the AdFisher tool, criticizing the lack of transparency around ad targeting.
+- “I think our findings suggest that there are parts of the ad ecosystem where kinds of discrimination are beginning to emerge and there is a lack of transparency. This is concerning from a societal standpoint,” said Datta.
+- Asked for its response to the research, Google provided the following statement to TechCrunch: “Advertisers can choose to target the audience they want to reach, and we have policies that guide the type of interest-based ads that are allowed. We provide transparency to users with ‘Why This Ad’ notices and Ad Settings, as well as the ability to opt out of interest-based ads.”
+- Google’s policy for interest-based advertising apparently includes restrictions on advertisers targeting based on a variety of “sensitive” categories, such as health and medical, sexual orientation and negative financial status. However, based on the research findings, it appears that substance abuse data is being used to target Google users with ads for rehab clinics — which surely strays into the health/medical category targeting exclusion. So it’s possible advertisers are relying on their own data for such sensitive targeting.
+- The researchers note that since being contacted by them about their research Google has added a disclaimer to its ad settings page to note that the information shown on the page reflects only “some of the Google ads that you see”. Datta argues that limits the usefulness of the transparency tool, adding that he believes Google could reveal a fuller picture around interest-based ad-targeting if it chose to. “They are serving these ads, and if they wanted to they could reflect these interests,” he said.
+- Other issues that might be influencing ad targeting could include aspects such as the relative value of different demographics and genders to advertisers — and the resulting volume of ad inventory to serve each. The sites where ads are being served are another influencing variable.
+
+URL: https://www.csmonitor.com/Technology/2015/0707/Google-ads-suggest-higher-paying-jobs-to-men.-Is-the-algorithm-sexist
+- A deeper view that unites instead of divides, connecting why the story matters to you.
+- Behind the news are values that drive people and nations. Explore them here.
+- A week ago, a British researcher published an article titled “Stories of kindness may counteract the negative effects of looking at bad news.” As you might imagine, I was intrigued.Kathryn Buchanan of the University of Essex shared four main takeaways from her research: Stories of kindness remind us of our shared values. They support “the belief that the world and people in it are good.” And they provide “relief to the pain we experience when we see others suffering.”It was her fourth point that stuck with me. She defined kindness and heroism as “moral beauty,” which “triggers ‘elevation’ – a positive and uplifting feeling” that “acts as an emotional reset button, replacing feelings of cynicism with hope, love and optimism.”The study suggested this happens when one watches a news story about kindness after watching ones about bombings, cruelty, and violence. That is a good start. But can this elevation only happen with stories of kindness? Must the rest of the news abandon us to despair?The world is asking us to consider that question deeply. Mental health is at crisis levels. People are avoiding the news in droves. What is the media’s responsibility?Author and anti-apartheid activist Alan Paton once said of the Monitor, “It gives no shrift to any belief in the irredeemable wickedness of man, nor in the futility of human endeavor.”In addition to reporting acts of kindness, perhaps a next step is to see the world through a lens of kindness. Never to excuse or ignore cruelty or crime, but to recognize that how we view the world shapes the world. Even when the world is unkind, we can be unmoved in our determination to love, to build, to seek credible hope. That is an awesome responsibility and a revolutionary opportunity.
+- A deeper view that unites instead of divides, connecting why the story matters to you.
+- We want to bridge divides to reach everyone.
+- Already a subscriber? Log in to hide ads.
+- A selection of the most viewed stories this week on the Monitor's website.
+- Every Saturday
+- Hear about special editorial projects, new product information, and upcoming events.
+- Occasional
+- Select stories from the Monitor that empower and uplift.
+- Every Weekday
+- An update on major political events, candidates, and parties twice a week.
+- Twice a Week
+- Stay informed about the latest scientific discoveries & breakthroughs.
+- Every Tuesday
+- A weekly digest of Monitor views and insightful commentary on major events.
+- Every Thursday
+- Latest book reviews, author interviews, and reading trends.
+- Every Friday
+- A weekly update on music, movies, cultural trends, and education solutions.
+- Every Thursday
+- The three most recent Christian Science articles with a spiritual perspective.
+- Every Monday
+- A new study shows that Google ads display more high-paying job ads to men than to women. How do we get human bias out of computer programs?
+- Loading...
+- July 7, 2015
+- Google and advertisers may be discriminating against users, says a new study by researchers at Carnegie Mellon University and the International Computer Science Institute. The group found that male profiles receive ads for high-paying jobs at a rate about six times higher than female profiles do, even when all other aspects of the profiles – search history, online behavior – were kept equal.
+- The scientists who led the study set out to investigate concerns over Web-tracking and ad-privacy settings by creating a tool they called AdFisher. The program creates multiple accounts to simulate user behavior and records the advertising results. It then calculates whether these results are statistically significant. By using this tool in coordination with Google’s Ads Settings, the team was able to test for transparency and discrimination among online ads.
+- “This is concerning from a societal standpoint,” says Anupam Datta, associate professor at Carnegie Mellon and a co-author of the study, in an interview with MIT Technology Review. Google and its targeted advertising are so pervasive that their effects on content can have a serious impact on people’s lives and decision making, he says.
+- This isn’t the first time Google’s search algorithms have come under fire for discriminatory results. A study published in April found gender bias in Google image searches, displaying significantly fewer images of women in the results for “CEO” or other executive positions. But that study looked at the results given, not at the gender of the user account submitting the query. Google has also admitted to a lack of workplace diversity within the company.
+- In addition to gender discrepancies, the team’s experiment found that visiting websites about substance abuse displayed ads for rehab centers and clinics, even after the team changed a simulated users’ ads settings. The study says though that this may simply be due to “remarketing,” or displaying ads of sites recently visited, not because of Google’s user-targeted advertising algorithms, but the team could not be sure. This highlights an opacity within Google’s ads algorithm that the report noted could be problematic. This lack of transparency would affect those on shared or public computers and it may also violate Google’s advertising terms on collecting sensitive information “such as health information.”
+- Since the study was published in March, Google has added a disclaimer to its user ads settings stating that users can only control “some” of the ads that they see.
+- The team says it’s unlikely that Google intentionally discriminated against users or obfuscated its policy. “We consider it more likely that Google has lost control over its massive, automated advertising system,” they say in the study.
+- The question of attribution here is a difficult one. With so many variables, the researchers are unsure of whether this falls at a fault of Google, the advertisers, both, or neither. Indeed, machine-learned algorithms can behave oddly under lots of data, and systems programmed by people may hold the biases of people.
+- “Given the pervasive structural nature of gender discrimination in society at large, blaming one party may ignore context and correlations that make avoiding such discrimination difficult,” writes Dr. Datta. “Furthermore, we cannot determine whether Google, the advertiser, or complex interactions among them and others caused the discrimination.”
+- Whatever complex factors led to the study’s findings still need to be researched further, Roxana Geambasu, an assistant professor at Columbia University, tells Technology Review.
+- “You can’t draw big conclusions, because we haven’t studied this very much and these examples could be rare exceptions,” she says. “What we need now is infrastructure and tools to study these systems at much larger scale.”
+- Algorithmic discrimination not same as human biases ("let me not hire this woman") but they're there. New, sometimes weird (to us) forms.
+- Though their research found discrimination and a lack of transparency in Google’s advertising operations, Datta and his team cannot say whether this breaks any of the company’s rules. “Indeed, Google’s policies allow it to serve different ads based on gender,” the study notes.
+- But AdFisher was not investigating how the ads were discriminating, just if they were. And they found that result with a statistical significance “1000 times more significant than the standard 0.05 significance.”
+- They hope that the tools they’ve created can be used in the future to figure out how this discrimination was caused so that it can be corrected. This information, the report notes, can be easily used by Google, the advertisers, or a regulatory body to spur deeper investigations.
+- Get stories that empower and uplift daily.
+- Already a subscriber? Log in to hide ads.
+- “We encourage research developing tools that ad networks and advertisers can use to prevent such unacceptable outcomes,” says the report.
+- At the time of this article, Google has been investigating the study and has yet to release a statement.
+- Already a subscriber? Login
+- Monitor journalism changes lives because we open that too-small box that most people think they live in. We believe news can and should expand a sense of identity and possibility beyond narrow conventional expectations.
+- Our work isn't possible without your support.
+- Already a subscriber? Login
+- 
+- 
+- Link copied.
+- Dear Reader,
+- About a year ago, I happened upon this statement about the Monitor in the Harvard Business Review – under the charming heading of “do things that don’t interest you”:
+- “Many things that end up” being meaningful, writes social scientist Joseph Grenny, “have come from conference workshops, articles, or online videos that began as a chore and ended with an insight. My work in Kenya, for example, was heavily influenced by a Christian Science Monitor article I had forced myself to read 10 years earlier. Sometimes, we call things ‘boring’ simply because they lie outside the box we are currently in.”
+- If you were to come up with a punchline to a joke about the Monitor, that would probably be it. We’re seen as being global, fair, insightful, and perhaps a bit too earnest. We’re the bran muffin of journalism.
+- But you know what? We change lives. And I’m going to argue that we change lives precisely because we force open that too-small box that most human beings think they live in.
+- The Monitor is a peculiar little publication that’s hard for the world to figure out. We’re run by a church, but we’re not only for church members and we’re not about converting people. We’re known as being fair even as the world becomes as polarized as at any time since the newspaper’s founding in 1908.
+- We have a mission beyond circulation, we want to bridge divides. We’re about kicking down the door of thought everywhere and saying, “You are bigger and more capable than you realize. And we can prove it.”
+- If you’re looking for bran muffin  journalism, you can subscribe to the Monitor for $15. You’ll get the Monitor Weekly magazine, the Monitor Daily email, and unlimited access to CSMonitor.com.
+- Subscribe to insightful journalism
+- Already a subscriber? Log in to hide ads.
+- A selection of the most viewed stories this week on the Monitor's website.
+- Every Saturday
+- Hear about special editorial projects, new product information, and upcoming events.
+- Occasional
+- Select stories from the Monitor that empower and uplift.
+- Every Weekday
+- An update on major political events, candidates, and parties twice a week.
+- Twice a Week
+- Stay informed about the latest scientific discoveries & breakthroughs.
+- Every Tuesday
+- A weekly digest of Monitor views and insightful commentary on major events.
+- Every Thursday
+- Latest book reviews, author interviews, and reading trends.
+- Every Friday
+- A weekly update on music, movies, cultural trends, and education solutions.
+- Every Thursday
+- The three most recent Christian Science articles with a spiritual perspective.
+- Every Monday
+- Follow us:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+URL: https://finance.yahoo.com/news/does-googles-ad-network-discriminate-against-123674289134.html
+- Thank you for your patience.
+- Our engineers are working quickly to resolve the issue.
+
+URL: https://www.cio.com/article/2997514/artificial-intelligence-can-go-wrong-but-how-will-we-know.html
+- You needn't worry about our robot overlords just yet, but AI can get you into a world of trouble unless we observe some best practices.
+- 
+- Every time we hear that “artificial intelligence” was behind something – from creating images to inventing recipes to writing a description of a photo – we thought was uniquely human, you’ll see someone worrying about the dangers of AI either making humans redundant, or deciding to do away with us altogether. But the real danger isn’t a true artificial intelligence that’s a threat to humanity – because despite all our advances, it isn’t likely we’ll create that.
+- What we need to worry about is creating badly designed AI and relying on it without question, so we end up trusting “smart” computer systems we don’t understand, and haven’t built to be accountable or even to explain themselves.
+- Most of the smart systems you read about use machine learning. It’s just one area of artificial intelligence – but it’s what you hear about most, because it’s where we’re making a lot of progress. That’s thanks to an Internet full of information with metadata; services like Mechanical Turk where you can cheaply employ people to add more metadata and check your results; hardware that’s really good at dealing with lots of chunks of data at high speed (your graphics card); cloud computing and storage; and a lot of smart people who’ve noticed there is money to be made taking their research out of the university and into the marketplace.
+- Machine learning is ideal for finding patterns and using those to either recognize, categorize or predict things. It’s already powering shopping recommendations, financial fraud analysis, predictive analytics, voice recognition and machine translation, weather forecasting and at least parts of dozens of other services you already use.
+- Outside the lab, machine learning systems don’t teach themselves; there are human designers, telling them what to learn. And despite the impressive results from research projects, machine learning is still just one piece of how computer systems are put together. But it’s far more of a black box than most algorithms, even to developers — especially when you’re using convolutional neural networks, commonly known as “deep learning” systems.
+- [Related: Are robots really going to steal your job?]
+- “Deep learning produces rich, multi-layered representations that their developers may not clearly understand,” says Microsoft Distinguished Scientist Eric Horvitz, who is sponsoring a 100-year study at Stanford of how AI will influence people and society, looking at why we aren’t already getting more benefits from AI, as well as concerns AI may be difficult to control.
+- The power of deep learning produces “inscrutable” systems that can’t explain why they made decisions, either to the user working with the system or someone auditing the decision later. It’s also hard to know how to improve them. “Backing up from a poor result to ‘what’s causing the problem, where do I put my effort, where do I make my system better, what really failed, how do I do blame assignments,’ is not a trivial problem,” Horvitz explains; one of his many projects at MSR is looking at this.
+- In some ways, this is nothing new. “Since the start of the industrial revolution, automated systems have been built where there is an embedded, hard-to-understand reason things are being done,” Horvitz says. “There have always been embedded utility functions, embedded design decisions that have tradeoffs.”
+- With AI, these can be more explicit. “We can have modules that represent utility functions, so there’s a statement that someone has made a tradeoff about how fast a car should go or when it should slow down or when it should warn you with an alert. Here is my design decision: You can review it and question it.” He envisages self-driving cars warning you about those trade-offs, or let you change them – as long as you accept liability.
+- Getting easier to understand systems, or ones that can explain themselves, is going to be key to reaping the benefits of AI.
+- It’s naïve to expect machines to automatically make more equitable decisions. The decision-making algorithms are designed by humans, and bias can be built in. When the algorithm for a dating site matches men with only women who are shorter than them, it perpetuates opinions and expectations about relationships. With machine learning and big data, you can end up automatically repeating historical bias in the data you’re learning from.
+- When a CMU studyfound ad-targeting algorithms show ads about high-paying jobs to men more than to women, it might have been economics rather than assumptions; if more ad buyers target women, car companies or beauty products could out-bid recruiters. But unless the system can explain why, it looks like discrimination.
+- The ACLU has already raised questions about whether online ad tracking breaks the rules of the Equal Credit Opportunity Act and the Fair Housing Act. And Horvitz points out machine learning could sidestep privacy protections for medical information in the American Disability Act and the Genetic Information Non Discrimination Act that prevent it being used in decisions about employment, credit or housing, because it can make “category-jumping inferences about medical conditions from nonmedical data.”
+- It’s even more of an issue in Europe, he says. “One thread of EU law is that when it comes to automated decisions and automation regarding people, people need to be able to understand decisions and algorithms need to explain themselves. Algorithms need to be transparent.” There are currently exemptions for purely automatic processing, but the forthcoming EU data privacy regulation might require businesses to disclose the logic used for that processing.
+- The finance industry has already had to start dealing with these issues, says Alex Gray, CTO of machine learning service SkyTree, because it’s been using machine learning for years, especially for credit cards and insurance.
+- “They’ve got to the point where it affects human lives, for example by denying someone credit. There are regulations that force credit card companies to explain to the credit applicant why they were denied. So, by law, machine learning has to be explainable to the everyman. The regulation only exists for the financial industry but our prediction is you will see that everywhere, as machine learning inevitably and quickly makes its way into every critical problem of human society.”
+- Explanations are obviously critical in medicine. IBM Watson CTO Rob High points out “It’s very important we be transparent about the rationale of our reasoning. When we provide answers to a question, we provide supporting evidence for a treatment suggestion and it’s very important for the human who receives those answers to be able to challenge the system to reveal why it believed in the treatment choices it suggested.”
+- But he believes it’s important to show the original data the system learned from, rather than the specific model it used to make the decision. “The average human being is not well-equipped to understand the nuance of why different algorithms are more or less relevant,” he says, “but they can test them quickly by what they produce. We have to explain in a form the person who is an expert in that field will recognise, not show that it’s justified by the mathematics in the system.”
+- Medical experts often won’t accept system that don’t make sense to them. Horvitz found this with a system that advised pathologists on what tests to run. The system could be more efficient if it wasn’t constrained to the hierarchies we used to categorise disease but the users disliked it until it was changed to work in a more explicable way. “It wouldn’t be as powerful, it would ask more questions and do more tests but the doctor would say ‘I get it, I can understand this and it can really explain what it’s doing.”
+- [Related: Instead of robots taking jobs, A.I. may help humans do their jobs better]
+- Self-driving cars will also bring more regulation to AI, says Gray. “Today, a bunch of that [self-driving system] is neural networks and it’s not explainable. Eventually, when a car hits somebody and there’s an investigation, that issue will come up. The same will be true of everywhere that’s high value, which affects people or their businesses; there’s going to have to be that kind of explainability.”
+- In future, Gray says machine learning systems may need to show how the data was prepared and why a particular machine learning model was chosen. “You’ll have to explain the performance of the model and its predictive accuracy in specific situations.”
+- That might mean compromises between how transparent a model is and how powerful it is. “It’s not always the case that the more powerful methods are less transparent but we do see those trade-offs,” says Horvitz. “If you push very hard to get transparency, you will typically weaken the system.”
+- As well as the option of making systems more explainable, it’s also possible to use one machine learning system to explain another. That’s the basis of a system Horvitz worked on called Ask MSR. “When it generated an answer it could say here’s the probability it’s correct,” he says – and it’s a trick Watson uses too. “At a metalevel, you’re doing machine learning about a complex process you can’t see directly to characterize how well it’s going to do.”
+- Ryan Caplan, CEO of ColdLight, which builds AI-based predictive analytics, suggests systems may ask how much they will need to explain before they give you an answer. “Put the human being in control by asking ‘do you need to legally explain the model or do you need the best result?’ Sometimes it’s more important to have accuracy over explainability. If I’m setting the temperature in different areas of an airport, maybe I don’t need to explain how I decide. But in many industries, like finance, where a human has to be able to explain a decision, that system may have to be curtailed to certain algorithms.”
+- Hector Yee, who worked on AI projects at Google before moving to AirBnB, insists that “machine learning should involve humans in the loop somewhere.” When he started work on AirBnB’s predictive systems he asked colleagues if they wanted a simple model they could understand or a stronger model they wouldn’t. “We made the trade-off early on to go human interpretable models,” he says, because it makes dealing with bugs and outliers in the data far easier.
+- “Even the most perfect neural net doesn’t know what it doesn’t know. We have a feedback loop between humans and machine learning; we can look at what the machine has done and what we need to do to add features that improve the model. We know what data we have available. We can make an informed decision what to do next. When you do that, suddenly your weaker model becomes stronger.”
+- Patrice Simard of Microsoft Research is convinced that applies beyond today’s PhD-level machine learning experts. His goal is “to democratise machine learning and make it so easy to use my mother could build a classifier with no prior knowledge of machine learning.”
+- Given the limited number of machine learning experts, he says the best way to improve machine learning systems is to make them easier to develop. “You can build a super smart system that understands everything or you can break it down into a lot of multiple tasks and if each of these tasks can be done in an hour by a person of normal expertise, we can talk about scaling the numbers of contributors instead of making one particular algorithm smarter.”
+- When he was running Bing Ad Center, he abandoned a complex but powerful algorithm for something far simpler. “It took a week to train 500 million parameters using 20 machines and every time something went wrong people pointed to the algorithm and we had to prove it was computing the right thing – and then a week later, the same thing would happen again. I replaced it with a very simple algorithm that was similar in performance but could train in a matter of minutes or hours.” It was easier to understand, easier to develop and there were no more time-wasting arguments about whether the algorithm was wrong.
+- Being able to retrain quickly is key to keeping machine learning systems current, because the data feeding into machine learning systems is going to change over time, which will affect the accuracy of the predictions they make. With too complex a system, Simard warns “You’ll be stuck with an algorithm you don’t understand. You won’t know if you can keep the system if no-one has the expertise to tell you whether it still works. Or you might have one system that depends on another and one of those systems gets retrained. Can you still rely on it?”
+- And if AI is really effective, it’s going to change our world enough that it will have to evolve to keep up, Horvitz points out. A system to identify patients at risk of hospital readmission that keeps them out of the emergency room, will change the mix of patients it has to assess.
+- On the one hand, AI systems need to know their limitations. “When you take a system and put out in the real open world, there are typically many unforeseen circumstances that come up. How do you design systems that one explicitly understand they’re in an open world and explicitly know that the world is bigger than their information?”
+- But, on the other hand, they also need to know their own impact. “The AI systems themselves as we build them have to understand the influences they make in the world over time, and somehow track them. They have to perform well, even though they’re changing the world they’re acting in.”
+- Sponsored Links
+
+- Google search conflates 'black girls' with pornography
+- Google Images under-represents female CEOs
+- Page infoType: IncidentPublished: March 2023

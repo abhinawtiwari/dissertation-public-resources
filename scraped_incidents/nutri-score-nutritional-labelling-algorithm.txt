@@ -1,0 +1,842 @@
+- Released: 2017
+- Can you improve this page?Share your insights with us
+- Nutri-Score is a system for calculating the nutritional quality of food products with A to E grades, and showing them with a sliding scale, with the healthiest products marked with a green A and the unhealthiest with a red E.
+- The assessment is based on an algorithm which ranks foods from -15 for the healthiest products to +50 for the most unhealthy, allocates negative points to nutrients like saturated fats, calories, sugar and sodium and positive ones for the proportion of fruits, vegetables, proteins and fibres in the product.
+- Since its release in France in 2017, Nutri-Score has been adopted by a number of EU countries, including Belgium, Switzerland, Germany, Spain, the Netherlands and Luxembourg. Approximately a quarter of food sold in France is said to use the voluntary labelling system.
+- Nutri-Score has proved controversial as it is seen to over-simplify nutritional assessments, discriminate against foods with a high fat content such as olive oil, cured meats, cheese, fish, and fruit, and mislead consumers.
+- For example, Spanish and Italian food producers have been anxious to ensure their olive oil and cured meats are exempted from the system as they believe it fails to take into account their health benefits.
+- Italy has proposed another nutrition labelling system.
+- The European Commission has been working towards the introduction of a single, compulsory front-of-pack nutrition labelling system for years. It has postponed what it has called a 'complex' decision until 2023.
+- Operator: Government of France; Government of Germany; Government of Belgium; Nestle; Auchan; Danone Developer: Santé Publique France
+- Country: Spain; Italy
+- Sector: Agriculture; Health
+- Purpose: Determine nutritional score
+- Technology: Nutri-Score algorithm Issue: Accuracy/reliability; Fairness; Bias/discrimination - food type
+- Transparency: Marketing
+- Nutri-Score website
+- Nutri-Score Wikipedia profile
+- Nutri-Score scientific and technical FAQs (pdf)
+- European Commission (2020). Report to the European Parliament and the Council regarding the use of additional forms of expression and presentation of the nutrition declaration (pdf)
+- Hercberg S., Touvier M., Salas-Salvado J. (2022). The Nutri-Score nutrition label
+- Deschasaux M. et al (2020). Association between nutritional profiles of foods underlying Nutri-Score front-of-pack labels and mortality: EPIC cohort study in 10 European countries
+URL: https://www.theguardian.com/world/2021/feb/09/spains-iberian-pork-producers-see-red-over-traffic-light-labelling
+- Nutri-Score system fails to take account of health benefits of meats like jamón ibérico, say farmers
+- Spain’s Iberian pork producers are hoping their famous meats will follow in the wake of olive oil and be excused from a new traffic-light food labelling scheme, arguing it fails to take account of what they claim are the health benefits of jamón ibérico.
+- Spain is in the process of implementing the Nutri-Score system, which grades foods from a green A to a red E on packaging. The voluntary scheme has been billed as a way to help EU countries advance towards bloc-wide food labelling by the end of 2022 as part of the European commission’s “fair, healthy and environmentally friendly” Farm-to-Fork strategy.
+- But it has not been well received everywhere. Spain’s consumer affairs ministry on Monday said it was working to ensure olive oil was kept out of Nutri-Score after producers warned a yellow C rating meant that the health benefits of the oil would be rendered unclear, leading many people to assume they needed to limit their consumption.
+- The ministry said in a statement that olive oil was “essential to the Mediterranean diet”.
+- The decision was applauded by the Inter-professional Iberian Pig Association, whose members farm pigs to make products including the richly fatty and highly prized jamón ibérico. Under the Nutri-Score ratings, such products carry an orange D or red E label.
+- “If olive oil’s going to be exempted from the system, then we think we should be too,” a spokesman for the association told the Guardian, adding that studies had shown that Iberian pigs fed on acorns and fodder produce meats that are high in protein, B vitamins and minerals.
+- “The system just doesn’t offer a proper evaluation of the qualities of one of the basic products of the Mediterranean diet, which is regarded as one of the healthiest diets in the world,” he said.
+- “Given the scientific evidence and the nutritional and health value of things you get in Iberian pork products, we are asking that they are left out of the Nutri-Score system.”
+- The agriculture minister, Luis Planas, said on Monday he was concerned by the way some components of the Mediterranean diet, such as olive oil and Iberian pork, were rated by the Nutri-Score system.
+- “I’ll only give my agreement if products that form part of the Mediterranean diet are fairly evaluated when they appear, or are exempted,” he said.
+- The ministry of food and agriculture referred the Guardian to Planas’s comments, adding the Nutri-Score algorithms could be updated to take into account “the products’ high-value protein content as well as their vitamins and minerals”.
+- The ministry of consumer affairs did not respond to requests for comment.
+
+URL: https://www.oliveoiltimes.com/business/spanish-producers-join-concerns-over-nutri-score/88032
+- Europe
+- The Nutri-Score food label­ing sys­tem is under­go­ing harsh scrutiny from the Spanish olive oil indus­try and gov­ern­ment offi­cials, as its for­mal intro­duc­tion in the coun­try approaches.
+- With plans to inte­grate the sys­tem into the food chain in the first few months of 2021 going ahead, the National Sectoral of Virgin Olive Oil with a Protected Designation of Origin has heav­ily crit­i­cized the French FOPL (front-of-pack label).
+- According to the Catalan news agency, La Vanguardia, at a meet­ing with the Spanish food secu­rity agency, Aesan, the pres­i­dent and exec­u­tive sec­re­tary of the sec­toral called Nutri-Score ​“incom­plete, mis­lead­ing and, as such, false.”
+- Enric Dalmau and José Manuel Bajo added that the numer­ous health ben­e­fits of extra vir­gin olive oil are not taken into account by Nutri-Score, which clas­si­fies all food items with a let­ter and asso­ci­ated color grade from A to E (A being most healthy, E being least healthy).
+- Seven dif­fer­ent para­me­ters – con­tent of fruits, veg­eta­bles and nuts, fiber, pro­tein, calo­ries, sugar, fat and sodium per 100 grams or per liter of food – are taken into account when cal­cu­lat­ing the score.
+- “The gov­ern­ment can­not put its weight behind an out­rage that will irre­me­di­a­bly dam­age the image and rep­u­ta­tion of one of the most pres­ti­gious agri-food prod­ucts in the coun­try, base of the Mediterranean diet,” the PDO pro­ducer orga­ni­za­tion said.
+- In state­ments reported by the news­pa­per El País, Dalmau and Bajo fur­ther crit­i­cized the way Nutri-Score clas­si­fies olive oil.
+- “To even con­sider olive oil to be on the same level as seed oils, includ­ing rape­seed oil, is a com­plete fraud against con­sumers,” they said. ​“Spain can not allow a nutri­tional clas­si­fi­ca­tion sys­tem that mis­leads the con­sumer. It is an absolute scan­dal.”
+- According to Serge Hercberg, a pro­fes­sor of nutri­tion at the University of Paris and head of the team that devised Nutri-Score, the point of the FOPL is to com­pare the nutri­tional qual­i­ties of foods in the same cat­e­gory. He main­tains that it is not meant to be the only fac­tor used by con­sumers in their pur­chase choices.
+- “[The C for olive oil] is the best score pos­si­ble for added fats and even for veg­etable oils,” he told Olive Oil Times in a July 2020 inter­view. ​“The pub­lic health rec­om­men­da­tions do not sug­gest con­sum­ing olive oil with­out lim­its, but they encour­age con­sumers to favor it over other veg­etable oils and espe­cially over ani­mal fats.”
+- Proponents of Nutri-Score have also argued that the clas­si­fi­ca­tions are not set in stone. For exam­ple, olive oil was orig­i­nally graded with a D by Nutri-Score before being revised up to a C after the qual­ity of its fat con­tent – monoun­sat­u­rated fatty acids as opposed to sat­u­rated fatty acids – was taken into account.
+- To this end, the Spanish Ministry of Health, Consumption and Social Welfare did not rule out future changes, which would be looked at dur­ing the peri­odic meet­ings held by the coun­tries that have already adopted Nutri-Score.
+- “There is an idea to cre­ate a sci­en­tific com­mit­tee that will adopt future clas­si­fi­ca­tions and mod­i­fi­ca­tions fol­low­ing the avail­able sci­en­tific evi­dence,” the min­istry said, adding that changes can only be made based on sci­en­tific knowl­edge and ​“no deci­sion can be taken in the inter­est of any sin­gle coun­try.”
+- However, not all experts within the min­istry agree about the effi­cacy of Nutri-Score. Montaña Cámara, pres­i­dent of the Aesan sci­en­tific com­mis­sion, said she con­sid­ered Nutri-Score a ​“con­fus­ing” sys­tem.
+- According to the local agri­cul­tural mag­a­zine Agrodiario, Cámara said that Nutri-Score ​“aims at sim­pli­fy­ing, but it really is not easy to under­stand” because con­sumers ​“could think that [Nutri-Score] allows them to com­pare fruits and cere­als, or meat-based prod­ucts with legumes, but that is not the case, since it only has mean­ing if used to com­pare prod­ucts belong­ing to the same food cat­e­gory.”
+- Juan Revenga, a pro­fes­sor at the University of San Jorge, mem­ber of the Spanish Nutritional Academy and the sci­en­tific com­mit­tee of the Spanish Foundation of Nutritionists, agrees with Cámara’s assess­ment and added that Nutri-Score may under­mine efforts to edu­cate peo­ple about the healthy qual­i­ties of extra vir­gin olive oil.
+- “Consumers will have a hard time under­stand­ing why a prod­uct that has been asso­ci­ated with a healthy diet for so long – extra vir­gin olive oil – gets such a clas­si­fi­ca­tion,” he told Olive Oil Times. ​“It is even dif­fi­cult for the experts in the sec­tor to under­stand.”
+- “No one can under­stand why such a score is attrib­uted to olive oil with­out con­sid­er­ing its dif­fer­ent qual­i­ties: within Nutri-Score a C includes extra vir­gin olive oil, vir­gin olive oil, non-vir­gin olive oil and olive oil obtained through refin­ing,” he added. ​“That is non­sense.”
+- However, what con­cerns Revenga the most about Nutri-Score is the high clas­si­fi­ca­tions for processed foods.
+- “According to a study, more than 40 per­cent of all prod­ucts clas­si­fied A or B [by Nutri-Score] are ultra-processed,” he said. ​“That can not be accepted, con­sumers are informed that those foods are healthy when they are not.”
+- Revenga cited Coca Cola Zero and Chocapic cere­als, both of which are clas­si­fied with a B by Nutri-Score, as exam­ples.
+- “One of the most dan­ger­ous fea­tures of the Nutri-Score algo­rithm is, on one hand, that it fac­tors in the neg­a­tive con­tents present in a food, while empha­siz­ing appar­ently pos­i­tive con­tents,” Revenga said. ​“These can be used to white­wash the neg­a­tive ele­ments in the final clas­si­fi­ca­tion.”
+- “It is incom­pre­hen­si­ble how the C clas­si­fi­ca­tion for extra vir­gin olive oil is the same for rape­seed oil or nut oil or with any other vari­ety of lower qual­ity olive oils,” he added.
+- This lack of dif­fer­en­ti­a­tion among veg­etable oils also con­cerns pro­duc­ers of olive oils with geo­graph­i­cal indi­ca­tors.
+- “We are tak­ing a lot of risks, because that is a label con­sumers will look at, and can deter them from con­sum­ing extra vir­gin olive oil,” Jesús Sutil, who man­ages the Sierra Mágina PDO in Jaén, told El País.
+- Spain is the world’s largest pro­ducer of olive oil and a major exporter. Roughly one-third of the country’s olive oil exports are des­tined for other coun­tries in the European Union. Sutil believes the adop­tion of Nutri-Score may have a sig­nif­i­cant impact extra vir­gin olive oil con­sump­tion in the bloc.
+- Bajo, the exec­u­tive direc­tor of National Sectoral of Virgin Olive Oil with a Protected Designation of Origin, struck a sim­i­lar note and said ​“there is a lot at stake because we are putting at risk a sym­bol of iden­tity as a coun­try.”
+- “The Marca España is in dan­ger, and our inter­na­tional influ­ence is in ques­tion,” he added. ​“If E.U. con­sumers do not see the dif­fer­ence between olive oil and other oils, if it is not iden­ti­fied by its high healthy value, we do not know how much European con­sump­tion is going to fall. It’s a risk we’re not will­ing to take.”
+- More articles on:  Spain, import/export, olive oil consumption
+- Oct. 12, 2022
+- Olive Oil and Agri-Food Exports Rise Even as Italy Re-Enters Trade Deficit
+- Olive oil exports grew by 17 percent, and total agri-food exports increased by 18 percent in the first half of 2022. However, imports rose faster.
+- Aug. 10, 2022
+- Nutri-Score Algorithm Update Improves Olive Oil Scores
+- With the update, Nutri-Score will differentiate between the type of fat content and consider micronutrients. Both factors will result in a higher score for olive oil.
+- Feb. 10, 2023
+- From Andalusia to Madrid, Spain Shocked at Wave of Olive Thefts
+- The soaring price of olives and olive oil has led to an epidemic of fruit thefts and damage to groves across Spain.
+- Sep. 12, 2022
+- Drought, Heat Hit the Table Olive Harvest in Spain
+- Prices will rise due to poor harvests elsewhere and increasing production costs.
+- Jul. 13, 2022
+- Agricultural Incomes Rise in Andalusia, Boosted by Resurgent Olive Oil Sector
+- Andalusian agricultural income exceeded €10 billion for the first time, spurred on by a 77-percent increase in the value of its olive oil production.
+- Mar. 28, 2023
+- Tunisian Officials See Bright Future for Local Olive Oil Industry
+- While producers face plenty of challenges, especially from climate change, Tunisian olive oil exports continue to gain ground in international markets.
+- Oct. 17, 2022
+- Greece Hails Strong Presence in U.S. Table Olive Market as Exports Rise
+- Greece ranked second among table olives exporters to the United States in the first half of 2022 but received the highest prices.
+- Mar. 9, 2023
+- Third-Generation Producer Brings the World's Best Olive Oils to London
+- Danilo Manco opened The Olive Oil Co. more than 20 years ago to help nourish the United Kingdom’s growing olive oil culture.
+- World
+- Health
+- Basics
+- Business
+
+URL: https://www.oliveoiltimes.com/world/italian-researchers-say-nutri-score-treats-shoppers-like-children/86229
+- Europe
+- A pair of Italian food sci­en­tists and nutri­tion researchers have reit­er­ated their belief that Nutri-Score does not pro­vide the most accu­rate reflec­tion of cer­tain food’s nutri­tional value.
+- Italian detrac­tors of Nutri-Score, includ­ing the min­is­ter of agri­cul­ture, Teresa Bellanova, have crit­i­cized the French-backed front-of-pack label­ing sys­tem as overly sim­plis­tic and believe it should not be adopted by the European Union.
+- Despite the oppo­si­tion, Nutri-Score has been steadily gain­ing trac­tion in north­ern and west­ern Europe and has already been adopted by sev­eral large food pro­duc­tion com­pa­nies and sev­eral stud­ies have come out in sup­port of its adop­tion by the 27-mem­ber bloc.
+- However, a pair of Italian food sci­ence and nutri­tion experts told Olive Oil Times that those in favor of adopt­ing Nutri-Score should more care­fully con­sider the con­se­quences of hav­ing such a sim­ple and poten­tially ​“mis­lead­ing” pan-European label­ing sys­tem.
+- “The Nutri-Score mes­sage – five cat­e­gories, five let­ters and five col­ors – con­sti­tutes a mis­lead­ing sim­pli­fi­ca­tion,” said Francesco Capozzi, a pro­fes­sor at the agri­cul­tural and food sci­ences depart­ment of the University of Bologna and co-founder of the Foodomics dis­ci­pline.
+- “We have been work­ing to let the con­sumer receive ade­quate food edu­ca­tion. Do we really have to begin treat­ing our cit­i­zens like chil­dren?” he asked.
+- “Nutri-Score is a very arbi­trary sys­tem that takes into con­sid­er­a­tion sev­eral known para­me­ters, con­sid­er­ing some neg­a­tive and some pos­i­tive, and gets a score out of them,” added Luca Piretta, a gas­troen­terol­o­gist and pro­fes­sor of food sci­ence and human nutri­tion at the University Campus Biomedico in Rome.
+- “This brings us to mis­lead­ing results, where calo­ries, fats or pro­teins are counted arbi­trar­ily and used to pro­duce col­ors and labels to clas­sify food,” he added.
+- Capozzi noted that the cur­rent E.U. reg­u­la­tion 1169/11 already pro­vides con­sumers with all the infor­ma­tion that they need to make an informed deci­sion when com­par­ing food items.
+- “When some­one buys some type of food, it is not because the con­sumers trust adver­tis­ing, it hap­pens because there is a con­tract between seller and buyer,” he said. ​“As a con­sumer, I can count on the fact that a truth­ful list of mean­ing­ful con­tents must be pub­lished on the pack­age.”
+- “Oversimplifying nutri­tional infor­ma­tion to the point that it becomes inac­cu­rate rep­re­sents a vio­la­tion of that reg­u­la­tion,” Capozzi added. ​“What counts is the mes­sage the con­sumers receive. It is not only dam­ag­ing to the con­sumers’ free­dom of choice, but also to food sci­ence and nutri­tion.”
+- “The quan­ti­ties of energy, fats or macro nutri­ents are a rel­e­vant part of food con­tent, but food is also made of many other com­po­nents,” he con­tin­ued.
+- Capozzi also argued that Nutri-Score does not reflect an accu­rate snap­shot of a food’s health­ful qual­i­ties because the algo­rithm clas­si­fies food on the basis of a stan­dard­ized quan­tity, such as 100 grams or 100 mil­li­liters.
+- In the case of a food item such as extra vir­gin olive oil, which receives a C‑grade from Nutri-Score due to its fat con­tent, the afore­men­tioned quan­ti­ties do not reflect real­is­tic con­sump­tion lev­els.
+- “No one will ever eat 100 mil­li­liters of olive oil while din­ing. Maybe some could eat 100 grams of oats, but in just a small spoon of extra vir­gin olive oil we find polyphe­nols and many other com­pounds which are essen­tial for our own health,” Capozzi said.
+- “If we con­sider the alter­na­tive label­ing sys­tem pro­posed by the Italian gov­ern­ment, the Nutrinform Battery, we enter a totally dif­fer­ent field, one that focuses on edu­cat­ing con­sumers while not manip­u­lat­ing their choices,” Piretta added.
+- According to the spe­cial­ist, the argu­ment between which front-of-pack label­ing sys­tem is best comes down to a cul­tural divide.
+- “There is no such thing as a bad food or a good food, there is no such thing as a food that can be eaten and one that can­not,” he said. ​“We need to focus on the quan­ti­ties as related to the over­all food and nutri­tional daily intake.”
+- Piretta agreed with Capozzi that the way in which Nutri-Score com­pares the nutri­tional con­tent of food is inad­e­quate to cap­ture the health ben­e­fits asso­ci­ated with extra vir­gin olive oil.
+- “[Nutri-Score] is wrong,” Piretta said. ​“It is the fear of one spe­cific macronu­tri­ent — fat in this case — that anni­hi­lates all of the other char­ac­ter­is­tics of that food.”
+- “That also hap­pens with hard cheese, which gets low scores from Nutri-Score because of the 100 grams quan­tity stan­dard,” he added. ​“Portions of food should be taken into con­sid­er­a­tion. In a Nutri-Score envi­ron­ment, we could even find sugar-free car­bon­ated drinks that rank bet­ter than olive oil because, once again, not all of their con­tents are con­sid­ered,” since they are pack­aged in con­tain­ers far larger than the stan­dard 100-mil­li­liter mea­sure­ment used by Nutri-Score.
+- The two experts believe that if a prod­uct is labeled with the warn­ing col­ors and low scores employed by Nutri-Score, con­sumers will sim­ply select foods labeled with an A or B grade and ignore the con­tents of the item.
+- “The traf­fic light sys­tem in Nutri-Score is sim­ple, yet com­plex things can­not always be made sim­ple,” Piretta said. ​“Food edu­ca­tion requires time.”
+- Piretta and Capozzi believe that if a label­ing sys­tem is to be intro­duced, it should be used to value the bal­ance among the dif­fer­ent prod­ucts’ aver­age intake.
+- On the other hand, sup­port­ers of Nutri-Score believe that con­sumers make com­par­isons among prod­ucts of the same cat­e­gory.
+- They argue that, for exam­ple, the sim­pli­fied label allows con­sumers to more eas­ily deter­mine that extra vir­gin olive oil – graded with a ​“C” – is health­ier than other com­mon cook­ing oils, such as palm oil, which is graded as an ​“E.”
+- However, Nutri-Score detrac­tors do not believe that con­sumers will inter­pret the system’s grades in such a nuanced fash­ion.
+- “The con­sumer will not buy a prod­uct labeled C, sim­ply because it is labeled that way,” Piretta rebutted.
+- To this end, Capozzi argued that ​“con­sumers are not used to mak­ing a com­par­i­son between foods of the same cat­e­gory, but their atten­tion is mainly cap­tured by the absolute score.”
+- The Nutrinform Battery label­ing idea, Piretta argued, con­sid­ers pro­por­tion­al­ity, with no demo­niza­tion of the food con­tents, includ­ing sat­u­rated fat, sugar or salt.
+- “With Nutrinform, those are bal­anced in serv­ings, that means that if you eat your serv­ing of Parmigiano cheese the Battery will show you how much that por­tion counts in your over­all daily intake,” Piretta said. ​“Nutrinform allows con­sumers to iden­tify the cat­e­gory of each nutri­ent and how much it fills up the bat­tery.”
+- “It is mis­lead­ing to believe that to com­bat the obe­sity epi­demic, for instance, we should remove fat or sug­ars,” Piretta con­cluded. ​“We need to focus on edu­ca­tion and not on sim­pli­fi­ca­tion. We can­not hope to win over obe­sity mis­lead­ing peo­ple, we need the exact oppo­site.”
+- Which label­ing sys­tems do you pre­fer?
+- 
+- More articles on:  health, Italy, trending
+- Nov. 14, 2022
+- French Scientists and Health Professionals Reiterate Support for Nutri-Score
+- A Change.org petition for mandatory European adoption of Nutri-Score has received more than 35,000 signatures. It comes shortly after an open letter failed to yield results.
+- Oct. 13, 2022
+- Olive Oil Prices Hit Record Highs in Spain After 'Unprecedented' Market Events
+- Prices for all grades of olive oil shot up after the Spanish and Andalusian governments released official harvest estimates well below initial expectations.
+- Jun. 9, 2022
+- Spanish Producers Achieve Record Success at World Competition
+- Producers from across the country overcame drought and extreme weather events to earn a record-high 128 awards at the World Competition.
+- Mar. 28, 2023
+- PDO and PGI Producers Celebrated at Ercole Olivario
+- Lazio, Sardinia and Sicily were the most awarded regions, with three prizes each, followed by Campania, Puglia and Tuscany, with one prize each.
+- May. 18, 2023
+- Triumph of Northern Italian Producers Rooted in Profound Bond with the Land
+- Farrmers in five northern Italian regions overcame drought to achieve another year of high-quality extra virgin olive oil production.
+- Sep. 13, 2022
+- Ahead of the Harvest, Olive Oil Production Costs Keep Rising
+- The energy crisis will dramatically raise the cost of doing business for millers. However, they will not be able to pass those increases along to consumers.
+- Sep. 29, 2022
+- Following MedDiet Linked to Healthier Brain Activity
+- Researchers found lower levels of six metabolites known to lower cognitive function in study participants following the Mediterranean diet.
+- Jun. 22, 2022
+- Croatia’s Zadar County Celebrates NYIOOC Success in Official Ceremony
+- Local officials praised the efforts of olive oil producers who yielded eleven awards at the World Competition. Their success was attributed to hard work and cooperation.
+- World
+- Health
+- Basics
+- Business
+
+URL: https://eutoday.net/news/business-economy/2021/nutri-score-a-step-backwards-for-european-consumers-in-the-name-of-progress
+- May 30, 2023
+- May 28, 2023
+- May 27, 2023
+- May 24, 2023
+- May 23, 2023
+- May 24, 2023
+- May 22, 2023
+- May 22, 2023
+- May 19, 2023
+- May 11, 2023
+- May 20, 2023
+- May 14, 2023
+- May 9, 2023
+- May 5, 2023
+- April 30, 2023
+- May 26, 2023
+- May 26, 2023
+- May 15, 2023
+- May 11, 2023
+- May 10, 2023
+- May 29, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 19, 2023
+- March 20, 2023
+- February 10, 2023
+- January 3, 2023
+- October 22, 2022
+- June 19, 2022
+- May 14, 2022
+- April 13, 2022
+- February 14, 2022
+- April 24, 2023
+- April 17, 2023
+- April 15, 2023
+- April 8, 2023
+- April 1, 2023
+- March 30, 2023
+- March 30, 2023
+- March 23, 2023
+- May 29, 2023
+- May 14, 2023
+- April 12, 2023
+- April 11, 2023
+- March 7, 2023
+- February 13, 2023
+- February 2, 2023
+- January 30, 2023
+- May 29, 2023
+- May 19, 2023
+- May 19, 2023
+- May 14, 2023
+- May 13, 2023
+- May 8, 2023
+- April 29, 2023
+- April 24, 2023
+- May 30, 2023
+- May 28, 2023
+- May 27, 2023
+- May 24, 2023
+- May 23, 2023
+- May 24, 2023
+- May 22, 2023
+- May 22, 2023
+- May 19, 2023
+- May 11, 2023
+- May 20, 2023
+- May 14, 2023
+- May 9, 2023
+- May 5, 2023
+- April 30, 2023
+- May 26, 2023
+- May 26, 2023
+- May 15, 2023
+- May 11, 2023
+- May 10, 2023
+- May 29, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 19, 2023
+- March 20, 2023
+- February 10, 2023
+- January 3, 2023
+- October 22, 2022
+- June 19, 2022
+- May 14, 2022
+- April 13, 2022
+- February 14, 2022
+- April 24, 2023
+- April 17, 2023
+- April 15, 2023
+- April 8, 2023
+- April 1, 2023
+- March 30, 2023
+- March 30, 2023
+- March 23, 2023
+- May 29, 2023
+- May 14, 2023
+- April 12, 2023
+- April 11, 2023
+- March 7, 2023
+- February 13, 2023
+- February 2, 2023
+- January 30, 2023
+- May 29, 2023
+- May 19, 2023
+- May 19, 2023
+- May 14, 2023
+- May 13, 2023
+- May 8, 2023
+- April 29, 2023
+- April 24, 2023
+- May 30, 2023
+- May 28, 2023
+- May 27, 2023
+- May 24, 2023
+- May 23, 2023
+- May 24, 2023
+- May 22, 2023
+- May 22, 2023
+- May 19, 2023
+- May 11, 2023
+- May 20, 2023
+- May 14, 2023
+- May 9, 2023
+- May 5, 2023
+- April 30, 2023
+- May 26, 2023
+- May 26, 2023
+- May 15, 2023
+- May 11, 2023
+- May 10, 2023
+- May 29, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 19, 2023
+- March 20, 2023
+- February 10, 2023
+- January 3, 2023
+- October 22, 2022
+- June 19, 2022
+- May 14, 2022
+- April 13, 2022
+- February 14, 2022
+- April 24, 2023
+- April 17, 2023
+- April 15, 2023
+- April 8, 2023
+- April 1, 2023
+- March 30, 2023
+- March 30, 2023
+- March 23, 2023
+- May 29, 2023
+- May 14, 2023
+- April 12, 2023
+- April 11, 2023
+- March 7, 2023
+- February 13, 2023
+- February 2, 2023
+- January 30, 2023
+- May 29, 2023
+- May 19, 2023
+- May 19, 2023
+- May 14, 2023
+- May 13, 2023
+- May 8, 2023
+- April 29, 2023
+- April 24, 2023
+- OOPS! Page you're looking for doesn't exist. Please use search for help
+- Back to Home Page
+- EU Today brings you the latest news and commentary from across the EU and beyond.
+- May 30, 2023
+- May 28, 2023
+- May 27, 2023
+- May 24, 2023
+- May 23, 2023
+- May 24, 2023
+- May 22, 2023
+- May 22, 2023
+- May 19, 2023
+- May 11, 2023
+- May 20, 2023
+- May 14, 2023
+- May 9, 2023
+- May 5, 2023
+- April 30, 2023
+- May 26, 2023
+- May 26, 2023
+- May 15, 2023
+- May 11, 2023
+- May 10, 2023
+- May 29, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 19, 2023
+- March 20, 2023
+- February 10, 2023
+- January 3, 2023
+- October 22, 2022
+- June 19, 2022
+- May 14, 2022
+- April 13, 2022
+- February 14, 2022
+- April 24, 2023
+- April 17, 2023
+- April 15, 2023
+- April 8, 2023
+- April 1, 2023
+- March 30, 2023
+- March 30, 2023
+- March 23, 2023
+- May 29, 2023
+- May 14, 2023
+- April 12, 2023
+- April 11, 2023
+- March 7, 2023
+- February 13, 2023
+- February 2, 2023
+- January 30, 2023
+- May 29, 2023
+- May 19, 2023
+- May 19, 2023
+- May 14, 2023
+- May 13, 2023
+- May 8, 2023
+- April 29, 2023
+- April 24, 2023
+- May 30, 2023
+- May 28, 2023
+- May 27, 2023
+- May 24, 2023
+- May 23, 2023
+- May 24, 2023
+- May 22, 2023
+- May 22, 2023
+- May 19, 2023
+- May 11, 2023
+- May 20, 2023
+- May 14, 2023
+- May 9, 2023
+- May 5, 2023
+- April 30, 2023
+- May 26, 2023
+- May 26, 2023
+- May 15, 2023
+- May 11, 2023
+- May 10, 2023
+- May 29, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 29, 2023
+- May 27, 2023
+- May 26, 2023
+- May 25, 2023
+- May 21, 2023
+- May 21, 2023
+- May 20, 2023
+- May 19, 2023
+- March 20, 2023
+- February 10, 2023
+- January 3, 2023
+- October 22, 2022
+- June 19, 2022
+- May 14, 2022
+- April 13, 2022
+- February 14, 2022
+- April 24, 2023
+- April 17, 2023
+- April 15, 2023
+- April 8, 2023
+- April 1, 2023
+- March 30, 2023
+- March 30, 2023
+- March 23, 2023
+- May 29, 2023
+- May 14, 2023
+- April 12, 2023
+- April 11, 2023
+- March 7, 2023
+- February 13, 2023
+- February 2, 2023
+- January 30, 2023
+- May 29, 2023
+- May 19, 2023
+- May 19, 2023
+- May 14, 2023
+- May 13, 2023
+- May 8, 2023
+- April 29, 2023
+- April 24, 2023
+
+URL: https://www.foodnavigator.com/Article/2020/12/14/Should-reformulated-junk-food-ever-receive-Nutri-Score-A-The-case-against-an-across-the-board-algorithm
+- Or wait...
+- News
+- Science
+- Market Trends
+- Business
+- Policy
+- Views
+- Food Safety & Quality
+- Promotional Features
+- Site Archive
+- Multimedia
+- Sectors
+- Bakery
+- Meat
+- Beverage
+- Confectionery
+- Dairy
+- Healthy foods
+- Prepared foods
+- Snacks
+- Site Archive
+- Multimedia
+- Trends
+- COVID-19
+- CBD and hemp
+- Digitalisation
+- Free-from
+- Innovation and NPD
+- Mergers and acquisitions
+- Transparency and supply chain
+- Start-ups and disruptors
+- Organics
+- GM food
+- Diet and health
+- Food waste
+- Alternative proteins
+- Sustainability
+- Natural and clean label
+- Reformulation
+- Labelling
+- Site Archive
+- Multimedia
+- Resources
+- Type of resources
+- Events
+- All Events
+- Shows & Conferences
+- Online Events
+- Editorial Webinars
+- Events
+- Podcast
+- 
+- 14-Dec-2020
+                            - Last updated on
+                                14-Dec-2020 at 17:57 GMT
+- Related tags
+nutri-score
+- The European Commission plans to introduce its harmonised, mandatory front-of-pack (FOP) nutrition labelling scheme by the end of 2022.
+- While the Commission has yet to reveal what this FOP labelling scheme will look like, a number of Member States and food manufacturers are campaigning for Nutri-Score to be rolled out across the bloc. Backers include governments in France, Switzerland, Belgium, and food brands Nestlé, Danone, and Kellogg.
+- Yet not all are convinced. Nutri-Score, which uses an across-the-board algorithm to rank a product’s nutritional composition, allows for certain reformulated junk food products to receive a dark green ‘A’ rating – the scheme’s highest possible score.
+- Dutch consultancy Voedingsjungle, which specialises in children’s nutrition, has spoken out against across-the-board algorithms for this purpose, and instead is calling for a label that uses category specific criteria.
+- According to the World Health Organization’s (WHO) framework for FOP labelling, first and foremost, an FOP labelling system should be aligned with national public health and nutrition policies and food regulations, as well as with relevant WHO guidance and Codex guidelines.
+- At a recent European Food Forum (EFF) event, Voedingsjungle senior advisor Manon van Eijsden raised concerns that Nutri-Score does not always encourage the consumption of products recommended by those guidelines.
+- Equally, the nutritionist and epidemiologist suggested the scheme does, in every instance, discourage the consumption of products that are not recommended by public health guidelines.
+- Nutri-Score’s algorithm ranks foods from -15 for the ‘healthiest’ product to +50 for those that are ‘less healthy’. On the basis of this score, the product receives a letter with a corresponding colour code: from dark green (A) to dark red (F).
+- The algorithm does not account for the role each food product plays in terms of nutritional guidelines, van Eijsden argued at the EFF event. This means that Nutri-Score ranks nutritious foods – such as breads, vegetables, and nuts – in the same way as indulgent foods – such as cookies, ice cream, or savoury snacks.
+- “To be able to make this distinction, we think FOP labels should use category specific criteria rather than an across-the-board algorithm,” ​she told delegates.
+- The issue for van Eijsden is that Nutri-Score allows for ‘discrepancies’ – whereby a dark green ‘A’ ranking does not necessarily mean a healthy choice.
+- One such example, the nutritionist told delegates, is Nutri-Score’s ranking of Colruyt-owned Boni plant-based minced meat alternative. The product has received the highest possible Nutri-Score ranking, because the ‘added points’ for its fibre (more than 4.7g per 100g) and protein content (more than 8g per 100g) has, in some way, outweighed its sodium content (more than 630mg per 100g).
+- “So what an across-the-board algorithm does is merely show you which products score high enough to get an endorsed green logo…but it doesn’t necessarily show you a healthy choice.”​
+- Van Eijsden also referenced ice cream company Ice Crime, which has developed a vanilla ice cream product with 60% reduced sugar. The product is sweetened with stevia. At only 76kcal per portion, and 4g of natural sugars, the product has received a Nutri-Score of A.
+- “I wouldn’t want to recommend eating a larger amount of this product or eating it more frequently,” ​said the nutritionist. “Even if it may contain less sugar, or if it is perhaps the better choice within the ice cream [category].”​
+- Within product categories, van Eijsden also takes issue with the one-size-fits-all algorithm, drawing attention to Nestlé Cereal’s Nesquik Alphabet product, which has a dark green ‘A’ ranking – the same score as organic muesli.
+- “If we look at comparisons within the across-the-board algorithm of Nutri-Score, it doesn’t always discriminate enough between the truly healthy products that are recommended to eat and the products that are less healthy,” ​she told delegates.
+- While of course there are examples were Nutri-Score ‘works really well’, the nutritionist argued there are enough discrepancies to influence consumer trust.
+- With 40% of the Dutch population stating they are confused if a product is ‘healthy’ according to an FOP label, but not according to dietary guidelines, according to research from the Dutch Ministry of Health, van Eijsden believes Nutri-Score’s algorithm “negatively affects [consumer] trust in both label and dietary guidelines”.​
+- On behalf of nutritionists, Voedingsjungle’s senior advisor pleaded to the Commission to develop a label that is not only easy to understand, but that aligns with national dietary guidelines.
+- It should use category-specific criteria to “really take into account the role products have in the dietary [framework] and the nutrients they provide. This makes a clear distinction between basic, nutritious foods and discretionary products”, ​she argued.
+- “Because only in that way may a label really be able to help consumers with a healthier diet.”​
+- In response to van Eijsden’s argument, Associate Professor Julia Chantal, from Sorbonne Paris Nord University’s Faculty of Medicine, stressed that nutrition labelling is ‘only one of the tools’ that are helpful for consumers. “It’s not [like waving] a magic wand. It’s not going to solve all the [problems] and it needs to be seen as part of a general framework of nutritional policy.”​
+- The Nutri-Score expert continued: “Nutrition labelling only helps to choose products in the supermarket and more specifically, in my point of view, to help select a product within a group that is healthier. This is the only goal of nutritional labelling. It can’t do everything.”​
+- Further, Chantal stressed that Nutri-Score focuses solely on the nutritional composition of a product. “It takes into account what is on the back of the pack and translates it. So when a food gets an ‘A’, it is [due] to what is on the back of the pack.”​
+- The Associate Professor suggested that van Eijsden’s argument concerning discretionary foods related to another dimension: that of food processing. “But this is completely separated from the nutritional composition.” ​
+- 
+- Copyright - Unless otherwise stated all contents of this web site are © 2023 - William Reed Ltd - All Rights Reserved - Full details for the use of materials on this site can be found in the Terms & Conditions
+- Related topics
+Market Trends
+Labelling
+Food labelling
+- Show more
+- Upcoming supplier webinars
+- Upcoming editorial webinars
+- On-demand webinars
+- More promotional features
+
+URL: https://www.foodnavigator.com/Article/2022/10/27/EU-wide-labelling-scheme-decision-pushed-forward-to-2023-as-Commission-admits-complex-situation
+- Or wait...
+- News
+- Science
+- Market Trends
+- Business
+- Policy
+- Views
+- Food Safety & Quality
+- Promotional Features
+- Site Archive
+- Multimedia
+- Sectors
+- Bakery
+- Meat
+- Beverage
+- Confectionery
+- Dairy
+- Healthy foods
+- Prepared foods
+- Snacks
+- Site Archive
+- Multimedia
+- Trends
+- COVID-19
+- CBD and hemp
+- Digitalisation
+- Free-from
+- Innovation and NPD
+- Mergers and acquisitions
+- Transparency and supply chain
+- Start-ups and disruptors
+- Organics
+- GM food
+- Diet and health
+- Food waste
+- Alternative proteins
+- Sustainability
+- Natural and clean label
+- Reformulation
+- Labelling
+- Site Archive
+- Multimedia
+- Resources
+- Type of resources
+- Events
+- All Events
+- Shows & Conferences
+- Online Events
+- Editorial Webinars
+- Events
+- Podcast
+- 
+- 27-Oct-2022
+                            - Last updated on
+                                28-Oct-2022 at 09:32 GMT
+- Related tags
+nutri-score
+Nutrition labeling
+Nutritional labelling
+front-of-pack labelling
+FOP
+- In 2020 the European Commission committed to introduce a mandatory and harmonised front-of-pack nutritional labelling scheme across member states as part of the Green Deal and its Farm to fork strategy and to reduce obesity.​
+- The Commission said it would submit a proposal by the end of this year. A European Parliament roundtable debate on Wednesday (October 26) organized by Italy's European Union representation and supported by Italy's food industry association Federalimentare, examined various schemes currently used across various parts of Europe including Nutri-Score, the Nordic KeyHole and Italian NutrInform Battery system.
+- After the debate Italy's European Union representation said that a final decision has now been postponed to the second quarter of 2023. In responce, a European Commission spokesperson told FoodNavigator: “The proposal for a revision of the Regulation on Food Information to Consumers is scheduled for adoption in the coming months. ​The Commission is still assessing the outcome of the past impact assessment and the consultations it held with Member States and stakeholders. ​No decision has been taken yet on how sustainable food labelling will be exactly framed and regulated.”​
+- Jindřich Fialka, Deputy Minister of Agriculture from the Czech presidency of the Council of the EU, told the European Parliament roundtable that consumers show strong willingness to increase their knowledge about the content of their food.
+- He claimed that discussions in September revealed that half of member states were in favour of voluntary harmonisation of nutritional FOP labelling, with several in favour of a mandatory scheme.
+- But there was acknowledgement that SMEs should be protected from new obligations during an “energy and economic crisis”,​ he said.
+- The Nutri-Score FOP label has always been considered a front runner. But Roser Domenech Amado, acting head of the European Commission’s Directorate-General for Health and Food Safety, said Nutri-Score is very “well known… but only one of a few under consideration”.​ Calling the debate “complex”, she said the decision, from the Commission's point of view, ‘is far from finished’. “We are taking all the evidence into account and checking with all the member states because most want harmonised FOP rules but there is clearly not an agreement on which rules.”​
+- Nutrition labelling has been mandatory on all pre-packaged foods since 13 December 2016 (EU Regulation 1169/2011 of 25 October 2011 on the provision of food information to consumers). However, the way in which nutrition information is presented on the front-of-pack (FOP) is not harmonised by European law. This information is simply provided voluntarily by food business operators.
+- Nutri-Score – which classifies food and beverages according to their nutritional profile using a scale of five colours and letters (A is green to represent the best nutritional quality while E is a red to show it’s the lowest) -- is being pushed by the likes of France, Belgium, Germany and Luxembourg, where it is used as a national voluntary label scheme. It is also supported by large food manufacturers such as Nestlé and Danone.
+- The Nordic Keyhole nutrition label, meanwhile, is used in Sweden, Denmark, Norway and Lithuania (and European economic area countries Norway and Iceland). The NutrInform Battery recently became the official system in Italy, which has long argued that the NutriScore system unfairly discriminates against its famous food delicacies such as olive oil, Parma ham and Parmigiano cheese. Italy fears these items, under NutriScore, would receive a red-to-orange warning sign on labels owing to their high fat and salt content. The debate also discussed the merits of the UK's traffic light sysyem, which express a separate evaluation for calories, sugars, salt and saturated fats, indicating their quantities.
+- It’s further believed that the Commission will not propose taking possession of one of these already-existing labels.
+- A European Commission spokesperson told FoodNavigator: “The proposal for a revision of the Regulation on Food Information to Consumers is scheduled for adoption in the coming months. ​The Commission is still assessing the outcome of the past impact assessment and the consultations it held with Member States and stakeholders. ​No decision has been taken yet on how sustainable food labelling will be exactly framed and regulated.”​
+- The spokesperson said: “The different options which the Commission will put forward will build on already existing formats already developed in the European Union, such as Nutriscore (France) NutrInform Battery label (Italy) or the Keyhole (Sweden).”​
+- Italy used the European Parliament debate to air its objections to Nutri-Score. Ambassador Stefano Verrecchia said: “Italy remains committed to fostering an open and science-based debate on how to encourage healthy diets through adequate consumer information. We support the EU’s laudable objective of reducing obesity and non-communicable diseases, but warn against disregarding national dietary traditions and artificially classifying some foods as healthy and others as unhealthy”.​
+- Italy also complains that Nutri-Score is computed on the basis of 100g of food and not per serving. Prof. Luca Piretta, nutritionist, specialist in Gastroenterology and Digestive Endoscopy of the University of Rome told the debate “we must not forget the products and producers that represent the territories, history and tradition in Europe, and that we have a duty to defend."​
+- She added: “Communication to consumers through a front-of-pack label must be informative and educational. Limiting the responsibility for proper nutrition to the evaluation of a single product available on a shelf is absolutely misleading and sometimes totally counterproductive since one cannot know how much of that product will be consumed (unless the portion is intended), what type of diet it will be included in, let alone the health status of the individual who will be consuming it.”​
+- Carla Valeiras, from the European consumer association SAFE (Safe Food Advocacy Europe), and supporter of a harmonised FOP label rollout, highlighted the key findings of their recent report on the main voluntary nutrition labelling schemes in use in Europe and around the world: “Noncommunicable diseases and obesity due to unhealthy eating habits are a serious problem for modern society. It is essential that consumers be adequately informed about their choices. Without accurate and reliable information, there is no choice.”​
+- Nutri-Score proponents, however, hit back at what they saw as a one-sided debate. Serge Hercberg, professor of nutrition at the Université of Sorbonne Paris Nord’s Faculty of Medicine, who helped devise label, told us the event  contained "​all the ususal fake news disseminated against Nutri-Score, especially by cheese and processed meats sectors and their representative/lobbies... there is a lot of disinformation trying without any scientific basis to discredit Nutri-Score with a total negation of the science (more than 110 papers published in peer review journals)." ​
+- He further compained Nutri-Score was facing "direct pressures coming from COPA COGECA, big food companies opposed to Nutri-Score (Ferrero, Lactalis, Coca-Cola, Mars, Mondelez, Kraft,...) and Italy,"​ adding: "If EC favours science and public health, Nutri-Score should be chosen. If not, considering that Nutri-Score is too 'polarizing' (due to the opposition of economic sectors and  Italy), we may consider that the European commission has yielded to the agro-food lobbies."​
+- 
+- 
+- Copyright - Unless otherwise stated all contents of this web site are © 2023 - William Reed Ltd - All Rights Reserved - Full details for the use of materials on this site can be found in the Terms & Conditions
+- Related topics
+Policy
+Bakery
+Beverage
+Confectionery
+Dairy
+Healthy foods
+Prepared foods
+Snacks
+Diet and health
+Reformulation
+Labelling
+Flavours and colours
+Food labelling
+Food safety
+Meat
+- Show more
+- 
+- Content provided by ADM: Gain an Edge with Global Consumer Trends | 10-May-2023
+                     | Case Study
+- Our collaborative global team of expert citrus flavorists combines technology and experience to make ADM the full-service partner you need to shape your...
+- 
+- Content provided by Glanbia Nutritionals | 05-May-2023
+                     | Insight Guide
+- The strong appeal of functional beverages to support health is changing the RTD landscape in Europe. Here’s a look at Europe’s functional beverage trends...
+- 
+- Content provided by SweeGen | 04-May-2023
+                     | Product Presentation
+- Consumers are growing wiser about wellness. Create reduced-sugar products that are better tasting and better for your consumers with Sweegen’s expertise...
+- 
+- Content provided by Lycored | 28-Apr-2023
+                     | Product Brochure
+- Whether flavored waters, sports drinks, juices, mocktails or low alcoholic beverages, the beauty behind coloration doesn’t just lie in visual appeal, but...
+- Show
+                        more
+- Upcoming supplier webinars
+- Upcoming editorial webinars
+- On-demand webinars
+- More promotional features
+
+URL: https://algorithmwatch.org/en/story/nutriscore/
+- 
+- The German government, which currently holds the rotating EU presidency, will push for EU-wide guidelines on nutrition labeling at Tuesday's Council of agriculture ministers, which it chairs. In particular, the German minister should advocate the use of Nutri-Score, an algorithm that informs consumers of the nutritional qualities of edible products.
+- Nutri-Score is entirely transparent. There is even an implementation in Excel if you want to test it. Products receive positive points for fiber, proteins, fruits, nut and olive or rapeseed oil. They receive negative points for sugar, energy, saturated fat and salt. All values are expressed per 100 grams (or 100 milliliters) of product. The score goes from -15 to 40 and is further summarized on a 5-step scale that goes from A (green) to E (red). It is shown in front of the packaging, unlike the list of ingredients, which remains in the back.
+- The team of academics that developed the system tested several formats of labels in experiments and found this solution to be best understood by consumers.1 The choice of variables that make up the Nutri-Score is based on the United Kingdom’s Food Standards Agency nutrient profiling system, which is correlated with health outcomes: people eating products with a high Nutri-Score have worse health outcomes, all things being equal. Finally, the Nutri-Score was tested in a large-scale randomized trial. The average nutritional value of the median shopping cart was about one point lower (out of 55 possible points) for people who were exposed to the Nutri-Score.2
+- In other words, the Nutri-Score works. It was developed by scientists from various European countries and underwent thorough testing, which led to publications in peer-reviewed journals. This is why the backlash against it is especially interesting.
+- Nutri-Score is not mandatory anywhere, but governments in France, Belgium, Switzerland and Germany strongly encourage it. In France, where uptake is strongest, about one in four products on supermarkets’ shelves display the label.3
+- Critics of Nutri-Score point to the reference amount, which is fixed at 100 grams or milliliters. Olive oil, for instance, can only achieve a C score (oil is pure fat), even if people only use tiny amounts. While it is easy to see the problem, it is harder to find a better solution.
+- In the United States, serving size of the “nutrition facts” box is defined by law. The serving size for brownies is 40 grams, but only 30 grams for cookies.4 It is unclear why this system would make more sense for consumers, compared to a fixed reference amount. More importantly, it could be possible, at least in theory, for an industry to lobby to reduce the weight of a serving size to make the numbers on a label appear more innocuous.
+- Some consumer groups find it problematic that the Nutri-Score can be easily twisted. A food company can improve the score of its products by adding fibers, by replacing butter with rapeseed oil or by changing the amount of salt by just the microgram needed to reach a B or C ranking.5 Here again, it is hard to imagine how a 5-step scale could avoid cut-off values (researchers experimented with other systems, which were much harder for consumers to understand).
+- Perhaps more worryingly, a food company could improve the score of its products by replacing sugar with artificial sweeteners. Diet sodas have a B score, for instance, while most natural fruit juices have a C score6. Other molecules, like antioxidants, are likewise disregarded by Nutri-Score.
+- There was a trade-off: Nutri-Score is explainable because it focuses on less than 10 variables. It is very likely that a more complex algorithm would have left room for even more manipulations. More importantly, the promoters of Nutri-Score focused on measures for which there is very strong evidence that they are linked to health outcomes. There is still no evidence that antioxidants, olive oil or green tea are more healthy than diet soda.7 (Most studies detailing the benefits of superfoods stop at correlations. They usually show that richer people are healthier).
+- The lobbies of large Italian (and many other) food manufacturers are currently running a massive campaign against the label, arguing that it would jeopardize much of Italy’s food exports and that it is a ploy by the French to destroy the Italian economy8. While Nutri-Score does give low rankings to cheese and olive oils, this is because of their fat content, not their origin. And if you are wondering, the secret of the Mediterranean diet is the quasi-absence of sugar and red meat, not Gorgonzola.
+- The magnitude of the smear campaign against Nutri-Score, coupled with a clear lack of love from consumers, who tend to equate it with the dozens of other labels that decorate food packages, shows that transparency and scientific evidence are far from enough to achieve success. It is too early to know whether the label will become normal and help citizens improve their health or join the PDO, PGI, SG, TSG and many more labels that few, apart from a handful of consultants, understand.
+- The Nutri-Score story also shows the risk of depoliticizing an issue. The health goals of the program could probably be achieved even more simply, through a sugar tax or other restrictions on sugar. Despite its transparency and simplicity, the algorithm can be seen as a smokescreen for a clearer, and understandably divisive, issue.
+- 1 Egnell, Manon, et al. "Objective understanding of Nutri-Score Front-Of-Package nutrition label according to individual characteristics of subjects: Comparisons with other format labels." PLoS One 13.8 (2018).
+- 2 Julia, C., and S. Hercberg. "Nutri-Score: Evidence of the effectiveness of the French front-of-pack nutrition label." Ernahrungs Umschau 64.12 (2017).
+- 3 According to Nutri-Score: The story so far, EuroHealthNet magazine, 5 Dec. 2019.
+- 4 That’s article 101.12(b) of title 21 of the US Code of Federal Regulations.
+- 5 See for instance the report by Cécile Tran-Tien for RTS on 21 June 2020.
+- 6 See for instance the report by Sébastien Giron for RTBF on 13 January 2020.
+- 7 On the absence of evidence of a link between cancer and artificial sweeteners: Mishra, Ankit, et al. "Systematic review of the relationship between artificial sweetener consumption and cancer in humans: analysis of 599,741 participants." International journal of clinical practice 69.12 (2015) ; Mallikarjun, Sreekanth, and Rebecca McNeill Sieburth. "Aspartame and risk of cancer: a meta-analytic review." Archives of environmental & occupational health 70.3 (2015). On the absence of evidence of the health benefits of antioxidants: Ye, Yizhou, Jing Li, and Zhongxiang Yuan. "Effect of antioxidant vitamin supplementation on cardiovascular outcomes: a meta-analysis of randomized controlled trials." PloS one 8.2 (2013) (there might be small positive effects on specific diseases). For tea, see Tea: A cup of good health?, Harvard Health Publishing, Aug. 2014. For olive oil, this meta analysis concludes that there is probably a link between consumption and health outcomes, but there is also “low or moderate certainty of evidence”: Schwingshackl, Lukas, et al. "Impact of different types of olive oil on cardiovascular risk factors: A systematic review and network meta-analysis." Nutrition, Metabolism and Cardiovascular Diseases 29.10 (2019).
+- 8 Nutri-score, Il ministro Speranza: «Dico no all’etichetta a semaforo per il cibo», Corriere.it, 19 December 2019.
+- Did you like this story?
+- Every two weeks, our newsletter Automated Society delves into the unreported ways automated systems affect society and the world around you. Subscribe now to receive the next issue in your inbox!
+
+URL: https://www.elmundo.es/ciencia-y-salud/salud/2021/02/27/603926b4fdddffc00d8b4647.html
+- Portada
+- La implantación del etiquetado frontal, que se espera para antes del verano, divide a los expertos. Algunos señalan que sólo aporta más confusión
+- Yogures, cereales, postres, precocinados... Desde hace unas semanas, distintos productos de supermercado han comenzado a lucir en sus envases un nuevo sistema de etiquetado frontal con cinco colores. Este semáforo nutricional, denominado NutriScore, es el núcleo de una nueva normativa que el Ministerio de Consumo está ultimando para «facilitar la comprensión de las propiedades alimentarias de los productos».
+El objetivo, ha subrayado el ministro Alberto Garzón, es que el ciudadano pueda elegir,
+- Hazte Premium desde 1€ el primer mes
+- Aprovecha esta oferta por tiempo limitado y accede a todo el contenido web
+- Cancela cuando quieras
+
+URL: https://www.europeanscientist.com/fr/redactions-choice-fr/interview-professeur-philippe-legrand-les-experts-francais-ne-sont-pas-tous-daccord-sur-le-nutriscore/
+- Le Professeur Philippe Legrand est directeur du laboratoire Biochimie Nutrition Humaine à l’Agrocampus-INSERM de Rennes, NuMeCan. Il a été expert ANSES et a publié l’ouvrage Coup de pied dans le plat. EuropeanScientist a eu l’occasion de le rencontrer. Il nous expose ici sa définition d’une alimentation saine et partage son expertise sur les systèmes d’étiquetages nutritionnels de type Nutriscore.
+- TheEuropeanScientist : Dans votre livre Coup de pied dans le plat, vous définissez ce qu’est une alimentation saine. Pouvez-vous nous nous en dire plus ?
+- Professeur Philippe Legrand : Il est fondamental de bien s’entendre sur ce qu’est une alimentation saine. Une réponse simpliste pourrait être : « on évite les pathologies, l’obésité etc…. ». Mais avant d’être obsédé par la maladie, il faut se nourrir, pour grandir, vivre et vieillir en bonne santé. L’aliment apporte d’abord des nutriments, pas des médicaments.
+- TES : Vous accordez une grande place à la responsabilité de chacun et à l’éducation dans la composition du menu
+- Prof. PL : Cela tombe sous le sens. Car une fois définie ce qu’était une alimentation saine, on peut en déduire un première règle : il n’y a pas de mauvais aliments, même s’ils sont tous (même les plus naturels) plus ou moins déséquilibrés. Par exemple, une huile c’est 100 % de gras ; un muscle de poisson ou de poulet ce ne sont quasiment que des protéines ; les pâtes c’est quasi 100 % de glucose sous forme d’amidon, etc… C’est au consommateur de composer son menu équilibré en piochant harmonieusement dans tous ces aliments plus ou moins déséquilibrés, avec son bon sens et son éducation alimentaire.
+- C’est donc lui qui est responsable et qu’il faut éclairer. Certes l’organisme peut s’adapter et réguler un peu, mais pas pour ce qui concerne l’énergie totale ingérée qui ne pourra pas être évacuée si elle est excédentaire par rapport à la dépense. La responsabilité et le pouvoir du consommateur sont donc énormes, mais quand on y réfléchit bien, c’est une bonne nouvelle : il peut se prendre en charge et/ou se faire aider par des professionnels (diététiciens) plutôt que de rejeter la faute sur « les glandes, les hormones, les gènes et les industriels » se dédouaner et finalement abdiquer trop souvent devant les « kilos de trop ». Hors pathologies, en nutrition et prévention primaire, il faut d’abord éduquer à la quantité et ensuite valoriser la force de la responsabilité, du pouvoir et du bon sens individuels.
+- C’est pourquoi, l’éducation alimentaire est fondamentale. Il est essentiel de savoir composer un menu équilibré quantitativement et qualitativement, basé sur la diversité des aliments (des plus naturels aux plus transformés en passant par les plus pratiques…) sur plusieurs jours, voire une petite semaine. On peut tout mettre au menu, mais en respectant des portions et quantités adaptées par notre bon sens à nos besoins donc à nos styles de vie. Une bonne éducation alimentaire garantit de bien composer soi-même son menu. Plutôt que de désespérer sur l’alimentation, éduquons donc en évitant toujours les deux écueils limites : la surconsommation en termes d’énergie et la carence en nutriments indispensables par les évictions qui ne respectent pas notre caractère omnivore.
+- TES : Que pensez-vous des systèmes d’étiquetage en général et du Nutriscore en particulier ?
+- Pro.f PL : Si l’éducation alimentaire est nécessaire, les étiquetages n’en sont pas les piliers performants. Bien évidemment tout étiquetage répond à une démarche positive d’accès à de l’information. Mais tous les systèmes d’étiquetage ne se valent pas. Vous citez le Nutriscore, et je regrette de vous dire qu’il ne participe pas beaucoup à améliorer l’éducation alimentaire des individus.
+- En effet, il n’informe pas sur la composition des aliments mais assène un verdict global sur l’aliment. Ce n’est ni plus ni moins qu’une opinion ou un jugement. Donc c’est faible en termes d’information scientifique. À cela s’ajoute le fait que le jugement en question peut être biaisé ou maladroit car il repose sur un algorithme caché pour le consommateur. Et surtout, les bases et piliers de cet algorithme sont discutables et très discutés. En tant que spécialiste français des lipides, ayant présidé la mise au point des ANC (Apports Nutritionnels Conseillés de l’ANSES) pour les lipides pendant de longues années de travaux, je peux vous confirmer que le pilier lipidique de cet algorithme du Nutriscore est erroné (car daté) et en contradiction totale avec les ANC de l’ANSES.
+- Je vais rentrer un peu dans les détails. En nutrition lipidique, l’apport conseillé (ANC) indique un pourcentage de lipides entre 35 et 40 % de l’apport énergétique dans le régime, et la consommation en France est à 37 %, c’est donc parfait. Alors pourquoi ce combat violent anti-lipides de l’algorithme du Nutriscore puisqu’il est dépassé et ne repose sur aucune base, même si au niveau individuel, beaucoup consomment trop d’énergie glucidique et de lipides par rapport à leur dépense. En effet, les problèmes de surpoids et d’excès sont d’abord une question de quantité consommée individuelle, pas de pourcentage de gras dans les aliments.
+- Le pilier lipidique est faux également pour d’autres raisons : le combat contre les acides gras saturés (AGS) est totalement dépassé, comme le montrent toutes les récentes méta-analyses, et du fait de l’absence de distinction (dans les algorithmes du Nutriscore) entre les différents « saturés » qui ont pourtant des fonctions importantes et des effets très variés. Enfin, il n’est tenu aucun compte du fait que les acides gras saturés dans nos organismes proviennent en grande part des sucres ingérés en excès et de l’alcool. Difficile de se sortir de cinquante ans de haine primaire anti-lipides ! Primaire parce que oui, nos bedaines et autres bourrelets sont bien constitués de lipides, mais d’origine mixte : glucides, alcool et lipides, traces d’un excès d’énergie totale mais pas spécifiquement lipidique. C’est désormais bien connu… Sauf du Nutriscore !
+- Illustration : dans le Nutriscore, toutes les huiles sont classées entre C et E et la plupart entre D et E. Pourquoi cette punition alors qu’elles devraient s’étaler de A à E, en fonction de leur teneur en acides gras indispensables, oméga-6, oméga-3, et en acides gras saturés ? Leur péché originel est impardonnable, « c’est du gras ». C’est tout de même un comble d’apprendre que les sodas lights étaient même mieux classés par le Nutriscore que les jus de fruits et que l’huile d’olive.
+- Voici donc démontré que ceux qui ont construit l’algorithme du Nutriscore se sont littéralement assis sur les rapports de l’ANSES concernant les lipides. Ceci souligne à propos des lipides que le Nutriscore reflète surtout une opinion dogmatique, un jugement global de l’aliment et pas vraiment un outil éducationnel.
+- Autre point critique : le Nutriscore dans son objectif compréhensible de faire évoluer l’industrie alimentaire aurait dû se limiter aux aliments transformés et manufacturés, sans inclure les aliments naturels de base (huile, produits laitiers, pain, sucre, poissons…). Cela aurait amélioré sa crédibilité et réduit les effets contre-productifs cités plus loin.
+- Un dernier point : l’application du Nutriscore pénalise des aliments dont la consommation très répandue mais en quantité raisonnable n’est pas forcément défavorable (exemple le chocolat noté E). Cette pénalisation peut avoir la conséquence néfaste d’entretenir les démarches orthorexiques et restrictives chez des faibles consommateurs. Pour autant, les gros mangeurs de chocolat ont-ils besoin de Nutriscore pour savoir quand ils sont dans l’excès ?
+- TES : sur le plan philosophique vous avez également des critiques à émettre à l’égard de ce système
+- Prof. PL : Je partage totalement l’impression dans le Nutriscore que « l’intention justifie l’action à défaut de démonstration » (JP Laplace). En effet, l’intérêt santé de ce système n’a jamais été démontré, car ce qui a été démontré, c’est seulement qu’il a changé la composition du panier. Soit, mais vers quelles tendances, pour quels consommateurs et avec quels effets santé ? Amélioration de critères de santé objectifs ou détérioration vers des déséquilibres pour certains groupes ? Comportements orthorexiques ?… À suivre
+- Ensuite ce Nutriscore encourage une sorte de prohibition qui crée des peurs et exacerbe des comportements (voir l’orthorexie dont nous parlions précédemment).
+- De plus, l’usage simpliste de quelques lettres colorées ne favorise pas la culture nutritionnelle des consommateurs. Un collègue chercheur a même affirmé non sans humour au sujet du Nutriscore : « on n’est pas loin du conditionnement des rats de laboratoire ».
+- Tout cela nous recentre trop exclusivement et négativement sur les maux de la nutrition et pose la question fondamentale : « à qui doit-on faire porter la cause de nos maux, qui est coupable : le mangeur ou l’aliment ? De mon point de vue, il est évident que les torts sont partagés, mais le mangeur reste le premier « responsable-mais-pas-coupable », c’est lui qui remplit son assiette et porte la fourchette à sa bouche. Avec le Nutriscore c’est tout l’inverse : on condamne les aliments a priori plutôt que d’essayer d’éduquer le mangeur, alors que celui-ci est plein de bon sens et qu’on peut lui faire confiance une fois qu’il a reçu un minimum d’éducation alimentaire. Faire porter la faute exagérément sur l’aliment est au mieux inutile, au pire contreproductif… mais c’est tellement populaire et idéologique … car ça permet au passage de blâmer nos cellules, nos hormones, nos gènes donc nos parents, et les méchants industriels, etc. À l’égard des industriels, si on veut émettre une critique constructive, il vaudrait mieux instaurer un débat/combat sur la taille des portions, afin d’inciter les industriels à en proposer de plus petites, car ce qui est acheté est difficile à ne pas consommer, ne serait-ce qu’au nom du gaspillage….
+- J’aimerais formuler une ultime question/critique sur le plan économique : il a été démontré que les produits rouges seront probablement moins consommés, donc leurs prix vont baisser et au final ce sont les plus pauvres qui les achèteront ?
+- TES : Vous parlez d’un affrontement idéologique au sujet de l’efficacité du Nutriscore au niveau des instances officielles
+- Prof. PL : Tout à fait ! L’ANSES a publié en 2017 un avis qui souligne un « niveau de preuve insuffisant pour démontrer la pertinence de ces étiquetages au regard des enjeux de santé publique». Mais les auteurs du Nutriscore n’ont nullement tenu compte de cette considération et le Haut Comité de Santé Publique (HCSP), bien que ne pouvant justifier son choix, a mis en place le Nutriscore. Oui, il y a bien affrontement idéologique et méthodologique : L’ANSES publie et décrit l’état de la science sur la base d’expertises collectives longues rigoureuses et performantes, tandis que le Nutriscore s’impose à la force de pétitions « citoyennes » envahissantes et d’opinions dogmatiques et discutables.
+- TES : Quelle aurait été selon vous la bonne solution en termes d’étiquetage ?
+- Prof. PL : Il y avait d’autres solutions plus éducatives qui portaient sur les portions et les quantités et responsabilisaient mieux le consommateur avec de l’information relative au poids et/ou quantité calorique (dans les portions) des 5 grands groupes de nutriments : glucides, lipides, protéines, vitamines, minéraux. C’est le cas, par exemple, du système Nutri-couleurs, ou SAIN. Pouvait également être ajoutée la contribution relative de cette portion au besoin journalier. Beaucoup de scientifiques et de nutritionnistes pensaient que ces systèmes seraient plus utiles et plus éducatifs, sachant néanmoins que la puissance éducative repose plus encore et dès l’enfance, sur les parents, les instituteurs et formateurs, les professionnels de santé, mais c’est une autre histoire…..
+- This post is also available in: EN (EN)DE (DE)
+- The European Scientist gives the floor to researchers and experts who wish to explain to our fellow citizens the ins and outs of the scientific debates taking place in Europe. The site seeks to rise above the level of political speeches that are all too often biased or reductionist.
+- Cliquez ici pour annuler la réponse.
+- 
+- Δ
+- Alors que l’inflation frappe le panier de la ménagère comme jamais, d’autres chiffres inquiètent : notamment l’épidémie d’obésité. D’après une enquête menée par l’INSERM, de plus en plus de Français
+- Dans une actualité de plus en plus polémique, où les faits scientifiques sont régulièrement occultés par les discours politiques, The European Scientist cherche à remettre les pendules à l’heure. Publié en trois langues (anglais, français et allemand) notre site internet donne la parole aux chercheurs et aux experts qui souhaitent expliquer à nos concitoyens les tenants et les aboutissants des débats scientifiques qui ont lieu en Europe.
+
+URL: https://www.euroweeklynews.com/2021/02/18/bendodo-defends-iberian-ham-and-olive-oil-from-government-attack/
+
+URL: https://www.europeanscientist.com/en/public-health/the-european-food-labelling-dispute-explained/
+- With Kellogg’s decision to adopt the much-debated Nutri-Score labelling scheme for its cereal products, the already polarising debate in the EU regarding different food labelling schemes is only set to intensify.
+- Brussels has been debating a front-label approach for food products for years to help consumers make well-informed choices. Nutri-Score is one of the labelling systems proposed and has been implemented partially in countries like France and Belgium, with Germany to follow suit this year.
+- However, Nutri-Score is not enjoying unanimous support. Italy, for example, has criticised Nutri-Score and has proposed its own “battery”-labelling system.
+- A French product, the Nutri-Score system assesses the nutritional value of packaged products and labels them using a sliding scale. The healthiest products are marked with a green A and those deemed most unhealthy are marked with a red E. The assessment is based on an algorithm which allocates negative points to nutrients like saturated fats, calories, sugar and sodium and positive ones for the proportion of fruits, vegetables, proteins and fibres in the product.
+- This scaling has been criticised for being overly reductionist as it inherently red-flags foods like olive oil, cheese and cured meats as harmful due to their fat content. As such, Nutri-Score tends to disproportionally discriminate against diets heavy in oil, fish and fruit, such as the Mediterranean diet, widely considered beneficial for well-being.
+- The algorithm does not account for the positive benefits of eating certain products in moderation even though dieticians recommend them as healthy sources of good fats and proteins. Hence, the main criticism of this “traffic-light” system is that it oversimplifies nutritional content in a manner that is misleading and could make consumers eliminate entire food groups at the expense of their health.
+- This system was proposed in response to Nutri-Score’s shortcomings by the Italian government. Listing and calculating all the major nutrients in the product as a percentage of the daily recommended intake, the battery label is regarded as more comprehensive. By going into details, this method provides a more accurate description of type of nutrients and their amount contained in a product.
+- It is less alarmist than the Nutri-Score scheme since it does not reduce food items into broad green or red, or good and bad categories. The battery system consequently allows for a more informed choice, where consumers are enabled to see the consumption of high-fat and high-protein food, like salami for example, in the context of their overall diet.
+- Although Italy is the staunchest critic of the traffic-light system in the EU, other countries have also expressed their reservations in implementing the Nutri-Score system. In the countries where it has been implemented, like in France, the labelling is not mandatory and depends upon the discretion of the producers.
+- Given that lifestyle and nutrition related diseases are on the rise across the European Union, consumers need to be educated so that they can make healthy and sustainable decisions organically. While Nutri-Score might appear to be a simpler system at first glance, owing to its colouring scale and letters, its simplicity could backfire by misleading customers into exchanging healthy food products for unhealthier ones. For example, trading off olive oil for a sugar-free soda.
+- Considering the public health impact of food labels, the EU has still a long way to go before making any one system mandatory across the board.
+- Image credit: Smabs Sputzer/Flickr.
+- This post is also available in: DE (DE)
+- The European Scientist gives the floor to researchers and experts who wish to explain to our fellow citizens the ins and outs of the scientific debates taking place in Europe. The site seeks to rise above the level of political speeches that are all too often biased or reductionist.
+- As a member of the “Étude Nutrinet-Santé” currently running in France (since 2010), I had the privilege of attending a meeting in 2016 chaired and addressed by Prof. Serge Hercberg, with several of his assistants, presenting the proposed “Nutri-Score”.
+I had one question for the esteemed professor:
+“Concerning the five-coloured labelling system: energy values; carbohydrates (including sugars); fatty acids, saturated in particular; and salt; complemented by the quantities of fibre, protein, fruits and vegetables
+“What is the point of indicating salt content, considering that many studies, for example that by Profs. Mente, O’Donnell, et al., published in the Lancet on 20th May 2016 (ref. 1), or that in JAMA, 4th May 2011, by Stolarz-Skrzypek, Kuznetsova et al (ref. 2), indicate not only that salt is not damaging to health, but that consumption that is too low is much more dangerous for cardiovascular health than consumption that is too high?
+“And what is the point of indicating a high proportion of saturated fats, considering that studies such as that by Chowdhury et al (ref. 3) show that there is no relationship between fat consumption and cardiovascular disease, and other studies such as that in Cancer & Metabolism, 6 April 2016 by Monzavi-Karbassi, Gentry, Kaur et al (ref. 4) have shown that the best indicator for the prognosis of breast cancer is not fat consumption at all, but blood sugar levels?
+“Does this system not actually look like a set of warnings against werewolves, zombies and witches?”
+- Poor Prof. Hercberg could only reply that science is difficult, that nutrition is an inexact science, and that all he and his colleagues could do was to communicate what they considered to be the best information available.
+That of course was precisely the mistake made by the McGovern Committee of the US Senate in 1977, which formulated the first Dietary Goals for Americans— “Unlike scientists, politicians do not have the luxury of waiting until all the research results are in!”
+Those Dietary Goals and subsequent Dietary Guidelines, slavishly imitated all round the world, may well have been responsible for more deaths than anything since the 1918 Spanish Flu, considering the soaring death toll from heart disease, obesity, hypertension and cancer that has followed on from them.
+- Now we see the Nutri-Score system being used to foist that same bad science on unsuspecting European consumers. Isn’t it our duty to combat it wherever possible, using real science?
+- REFERENCES:
+(1) Associations of urinary sodium excretion with cardiovascular events in individuals with and without hypertension: a pooled analysis of data from four studies; Mente, O’Donnell, Rangarajan, Dagenais, Lear, McQueen, Diaz, et al.
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30467-6/abstract
+- (2) Fatal and Nonfatal Outcomes, Incidence of Hypertension, and Blood Pressure Changes in Relation to Urinary Sodium Excretion, Katarzyna Stolarz-Skrzypek, MD, PhD; Tatiana Kuznetsova, MD, PhD; Lutgarde Thijs, MSc et al. http://jama.jamanetwork.com/article.aspx?articleid=899663
+- (3) Association of Dietary, Circulating, and Supplement Fatty Acids With Coronary Risk: A Systematic Review and Meta-analysis; Rajiv Chowdhury; Samantha Warnakula; Setor Kunutsor; Francesca Crowe; Heather A. Ward; Laura Johnson; Oscar H. Franco; Adam S. Butterworth; Nita G. Forouhi; Simon G. Thompson; Kay-Tee Khaw; Dariush Mozaffarian; John Danesh; and Emanuele Di Angelantonio
+http://annals.org/article.aspx?articleid=1846638
+- (4) “The data suggest that elevated blood glucose is associated with poor prognosis of breast cancer patients. Given the potential clinical implication, these findings warrant further investigation.”
+Pre-diagnosis blood glucose and prognosis in women with breast cancer
+Behjatolah Monzavi-Karbassi, Rhonda Gentry, Varinder Kaur, Eric R. Siegel, Fariba Jousheghany, Srikanth Medarametla, Barbara J. Fuhrman, A. Mazin Safar, Laura F. Hutchins and Thomas Kieber-Emmons
+Cancer & Metabolism 20164:7 DOI: 10.1186/s40170-016-0147-7 Published: 6 April 2016
+- Click here to cancel reply.
+- 
+- Δ
+- As inflation affects household budgets more than ever, other rising figures have also become worrying, particularly the obesity epidemic. A new survey by INSERM reveals that a growing number of
+- In an increasingly fraught environment, where scientific fact is often superseded by political dogma, The European Scientist aims to set the record straight. Publishing in three languages (English, French and German), TES gives a voice to researchers and experts looking to explain the ins and outs behind the most seemingly complex scientific debates in Europe.
+
+- DEFRA Biodiversity Net Gain metric
+- Page infoType: SystemPublished: March 2023

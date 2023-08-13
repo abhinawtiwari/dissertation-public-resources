@@ -1,0 +1,164 @@
+- Occurred: January 2023
+- Can you improve this page?Share your insights with us
+- NVIDIA's January 2023 announcement that it had added Eye Contact to its NVIDIA Broadcast livestreaming and video conferencing tool has met with a mixed reaction.
+- Eye Contact uses deep learning to make it appear like your webcam image is staring into the camera, even if you're looking away in real life - an effect achieved by replacing your eyes in the video stream with software-controlled simulated eyeballs with replicated eye colour and blink patterns that always stare directly into the camera.
+- While some commentators praised it for its ability to fool people into thinking you are constantly paying attention and looking into the camera, others reckon it is 'unnnatural', 'creepy' and 'terrifying'.
+- Tom's Hardware journalist Jarred Walton questioned whether Eye Contact is needed. 'If you want to look like you're looking at the camera, you should probably learn to look... at the camera,' he pointed out.
+- Operator: NVIDIADeveloper: NVIDIA Country: USA; Global Sector: Media/entertainment/sports/arts Purpose: Mimic eye retina Technology: Computer vision; Deep learning; Gaze redirection algorithm Issue: Accuracy/reliability; Appropriateness/need; Dual/multi-use Transparency:
+URL: https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
+- NVIDIA Broadcast — our tool for livestreaming and video conferencing that turns your room into a home studio — is updating today with two exciting effects, Eye Contact and Vignette, drastic enhancements to Virtual Background and more.
+- Broadcast continues its strong momentum with double the active users from the previous year. And over 20 partners have integrated Broadcast effects directly into their apps. Broadcast is also preinstalled in select laptops from Acer, Asus, Gigabyte, MSI, Lenovo and Razer providing users superior, AI-powered experiences with their microphone, webcam and speakers.
+- The updated Virtual Background effects are also available directly in your favorite apps including OBS, Streamlabs and Elgato Camera Hub. Get the enhanced effects by updating to the latest version of the redistributables in the NVIDIA Broadcast Download Center.
+- Get started and download NVIDIA Broadcast today, free for all NVIDIA and GeForce RTX GPU owners.
+- The new Eye Contact effect moves the eyes of the speaker to simulate eye contact with the camera — achieved by estimating and aligning gaze. The eyes retain their natural color and blinks, and there’s even a disconnect feature in case you look too far away, to transition smoothly between simulated and real eyes.
+- Eye Contact is ideal for content creators seeking to record themselves while reading their notes or a script, or avoiding having to stare directly at the camera. Video conference presenters will look at the eyes of the person they’re speaking with, improving engagement with their audiences.
+- Currently in beta, we want to work with you, the community, to help improve Eye Contact. There are millions of eye colors and lighting combinations. If you test it and find any issues, or just want to help us develop this AI effect further, please send us a quick video here, we would really appreciate it!
+- A Vignette effect - similar to those seen in apps like Instagram - has been integrated into Broadcast. Combine it with a subtle Background Blur effect to get an AI-simulated bokeh visual on your webcam, instantly improving visual quality.
+- In addition, the Blur, Replacement, and Removal Virtual Background effects - have been enhanced with temporal information to achieve better segmentation and stability, enabling the AI to make better decisions. In cases where the network makes a mistake, you will not see parts of the background popping in and out as much.
+- Any Virtual Background issues? Please send us a video (link) so we can improve the effect for you.
+- Broadcast has also integrated two of the most popular community requested features: the option to mirror your camera, and to take a screenshot of your webcam! Check out the two new icons under the camera preview labeled Camera Mirroring and Selfies.
+- Want more features and effects? Continue to share your concerns, report bugs or make requests in the forums. Your feedback is incredibly valuable to the entire team, we can’t stress that enough.
+- App developers can integrate the SDKs powering NVIDIA Broadcast - known as Maxine - into their apps, including the latest features. At CES 2023, NVIDIA Maxine announced SDK updates, including the new Eye Contact feature; improved performance and quality for Virtual Background; a Speaker Focus feature; will also be available as microservices; and opened early access to test out our latest feature: Live Portrait.
+- Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video with Broadcast.
+
+URL: https://www.tomshardware.com/news/testing-nvidia-broadcast-eye-contact
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- It's still in beta, and it should stay there
+- Last week, Nvidia launched a new version of Nvidia Broadcast — the deep learning and AI-powered software that can do noise suppression, background removal/replacement, camera framing, and now... Eye Contact. That last one is currently in beta, and... should probably stay in beta.
+- AI and deep learning has been in the news a lot lately, for good reason. Stuff like Dall-E, Midjourney, and Stable Diffusion are creating art from text, often with rather striking results. Of course, at other times you end up with mangled mutant creatures with two and a half heads and too many limbs. On the text side, ChatGPT is churning out legible writing that many fear means the death knell for English essays and journalism (and no, it did not write this news post).
+- The idea behind Eye Contact is simple enough: When you're on a webcast or meeting, often you look away from the camera. In fact, there's a real chance you're always looking away from the camera — because it's sitting at the top of the screen and the things you want to look at are on the screen. But what if there was a way to look like you're looking at your camera without looking at your camera?
+- What if you could train an AI model on faces and teach it to correct image where someone isn't looking straight into the lens? Get millions of images that are appropriately tagged, feed it into the network, and out pops an amazing tool, right?
+- Implementing it is not quite as simple; Nvidia has been talking about its Eye Contact feature for well over a year, and it's only now going into public (beta) release. Differences between myriad faces around the world makes it a tough problem to "solve," and even now the results are... imperfect (and that's putting it nicely).
+- I went ahead and tested it anyway, on a system with an RTX 3090 Ti:
+- One of the things I noticed in testing is that often the live video feed would oscillate between me looking at the camera and me looking elsewhere, even though my focus stayed in the same spot. I guess this could be intentional, because having someone staring directly into the camera throughout an entire video chat would be a little creepy — but if it is, some adjustments to timing need to be made.
+- What's more difficult to say is whether this sort of effect is even beneficial in the first place. If you want to look like you're looking at the camera, you should probably learn to look... at the camera. Solving human error through AI might just end up encouraging bad habits — what happens if you end up on a video feed that doesn't correct eye contact?
+- Regardless, Nvidia Broadcast with Eye Contact is now available for RTX owners to test. I tested it with an RTX 3090 Ti, but Nvidia lists the RTX 2060 as the entry point (and this should include mobile RTX 3050 GPUs, as far as I know). Long-term, I suspect at some point Nvidia will end up with some AI models that are more complex and require faster hardware than an RTX 2060 — just like how DLSS 3's Frame Generation feature requires an RTX 40-series graphics card — but for now any RTX GPU made in the past four years can power this feature.
+- Do you like the effect, hate it, find it creepy, or something else? Let us know in the comments, along with other effects you'd rather see. I'm personally looking forward to the time when we can all have virtual cartoon avatars like Toy Jensen talking in place of real people, perhaps reading articles that were written by AI, with the videos and articles both being consumed by AI.
+- It's bots all the way down from there!
+- Join the experts who read Tom's Hardware for the inside track on enthusiast PC tech news — and have for over 25 years. We'll send breaking news and in-depth reviews of CPUs, GPUs, AI, maker hardware and more straight to your inbox.
+- Jarred Walton is a senior editor at Tom's Hardware focusing on everything GPU. He has been working as a tech journalist since 2004, writing for AnandTech, Maximum PC, and PC Gamer. From the first S3 Virge '3D decelerators' to today's GPUs, Jarred keeps up with all the latest graphics trends and is the one to ask about game performance.
+- Asus' ROG Matrix RTX 4090 Is Ultra-Premium, Liquid-Cooled, and Likely Ultra-Expensive
+- Asus Demos RTX 4070 GPU With No Power Connectors on BTF Motherboard
+- Lian Li Debuts Cases With Glass on Many Sides, Case Fan with Screen
+- By Zhiye LiuMay 29, 2023
+- By Ash HillMay 29, 2023
+- By Matt SaffordMay 29, 2023
+- By Aaron KlotzMay 29, 2023
+- By Ash HillMay 29, 2023
+- By Mark TysonMay 29, 2023
+- By Matt SaffordMay 29, 2023
+- By Jarred WaltonMay 29, 2023
+- By Paul AlcornMay 29, 2023
+- By Paul AlcornMay 29, 2023
+- By Avram PiltchMay 29, 2023
+- Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+URL: https://futurism.com/the-byte/horrifying-algorithm-gaze
+- Tech company NVIDIA has released a beta of an unintentionally hilarious new feature called Eye Contact, Tom's Hardware reports, a horrifying piece of software that uses deep learning to make your webcam image stare into the camera, even if you're looking away in real life.
+- Eye Contact is part of the company's latest version of its NVIDIA Broadcast, a software suite designed for live streamers.
+- But as it turns out, having an AI model artificially adjust your face by redirecting your gaze has some undesirable consequences — which could easily creep out a streamer's audience.
+- Tom's Hardware's Jarred Wilson tried the beta out for himself. In his recording, his pupils dance back and forth and popped in and out of place like he was possessed.
+- Other users who tried out the feature called it "creepy and uncomfortable."
+- Despite the bone-chilling results, others were impressed. The Verge's Tom Warren called it "damn impressive, even if it's not always perfect," while PC Gamer called it mostly "pretty good" and good enough to "fool most," especially on a video conference call.
+- NVIDIA did try to make some adjustments to make the results feel just a little bit less unnerving.
+- Wilson noticed that "the live video feed would oscillate between me looking at the camera and me looking elsewhere, even though my focus stayed in the same spot."
+- "I guess this could be intentional, because having someone staring directly into the camera throughout an entire video chat would be a little creepy," he added, "but if it is, some adjustments to timing need to be made."
+- But that still leaves the question: why does Eye Contact even need to exist in the first place?
+- "If you want to look like you're looking at the camera, you should probably learn to look... at the camera," Wilson pointed out.
+- READ MORE: Nvidia's AI-Powered Eye Contact Feature is Terrifying and Hilarious [Tom's Hardware]
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://www.polygon.com/23571376/nvidia-broadcast-eye-contact-ai
+- We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audiences come from. To learn more or opt-out, read our Cookie Policy. Please also read our Privacy Notice and Terms of Use, which became effective December 20, 2019.
+- By choosing I Accept, you consent to our use of cookies and other tracking technologies.
+- Filed under:
+- Please don’t use this in a Zoom call
+- If you buy something from a Polygon link, Vox Media may earn a commission. See our ethics statement.
+- Nvidia has released its most unnerving AI-powered software yet. A new camera feature added in a recent update to the Nvidia Broadcast app edits a live feed so that it looks like someone is always looking into the camera, even if that’s not the case. It’s an unsettling feature that had me shouting and screaming the first time I saw it in real time.
+- Known as Eye Contact, the feature debuted earlier this month as part of the 1.4 patch for Nvidia Broadcast, software that enhances video for livestreaming and videoconferencing. Nvidia said in a blog post that Eye Contact is intended for content creators who want to maintain eye contact with the camera at all times, even if they’re, say, looking at notes or a script off screen. Now that it’s been out for a few weeks, we have a better idea of what it can do.
+- In one interesting demo of the feature posted on Twitter, you can see scenes from Jurassic Park edited with Eye Contact so that the actors are always looking (mostly) at the camera. It’s weird and off-putting! Probably even if you’ve never seen the movie before! It’s like the person was so preoccupied with whether or not they could do this that they didn’t stop to think if they should...
+- Jurassic Park with Eye Contact pic.twitter.com/bfX4VRYyfy
+- I hopped into a video call with a Polygon colleague to see Eye Contact in action myself. It felt uncanny, even though I was just looking at my co-worker the entire time. I think it’s partly because completely uninterrupted eye contact doesn’t feel natural or normal if you’re having a casual conversation. Also, the software isn’t perfect — Nvidia says it’s in the beta stage — so at points he would turn his head and look to the side, and his eyes would snap back to staring directly at the camera; it sort of looked like he was a possessed character from a horror movie.
+- The Eye Contact feature is yet another example of AI becoming easily usable by everyday consumers. ChatGPT, which can be used for a variety of applications like writing essays, became an overnight sensation due to its natural-language output. Other software like DALL-E, Midjourney, and Free AI Art Generator is being used to create memes and recreate the look of certain directors’ films.
+- If you, too, would like to use this AI black magic, all you need to do is download Nvidia Broadcast — although your computer will need certain hardware for it to work, including an Nvidia GeForce RTX graphics card; you can view the full system requirements here.
+- A weekly roundup of the best things from Polygon
+- Please check your email to find a confirmation email, and follow the steps to confirm your humanity.
+- Oops. Something went wrong. Please enter a valid email and try again.
+- Please check your email to find a confirmation email, and follow the steps to confirm your humanity.
+- Oops. Something went wrong. Please enter a valid email and try again.
+
+URL: https://arstechnica.com/information-technology/2023/01/with-nvidia-eye-contact-youll-never-look-away-from-a-camera-again/
+- Front page layout
+- Site theme
+- Benj Edwards
+    -  Jan 24, 2023 8:31 pm UTC
+- Nvidia recently released a beta version of Eye Contact, an AI-powered software video feature that automatically maintains eye contact for you while on-camera by estimating and aligning gaze. It ships with the 1.4 version of its Broadcast app, and the company is seeking feedback on how to improve it. In some ways, the tech may be too good because it never breaks eye contact, which appears unnatural and creepy at times.
+- To achieve its effect, Eye Contact replaces your eyes in the video stream with software-controlled simulated eyeballs that always stare directly into the camera, even if you're looking away in real life. The fake eyes attempt to replicate your natural eye color, and they even blink when you do.
+- So far, the response to Nvidia's new feature on social media has been largely negative. "I too, have always wanted streamers to maintain a terrifying level of unbroken eye contact while reading text that obviously isn't displayed inside their webcams," wrote The D-Pad on Twitter.
+- A former TV news anchor named Scott Baker also chimed in about Nvidia Eye Contact with his analysis: "As a TV news anchor for decades ... this is not quite the right approach. To make communication effective ... you have to naturally break eye contact with the camera (just as you would in real life) fairly often. The power of eye contact in human communication is deeply researched. Locking eyes with someone for more than 7-10 seconds is intuitively regarded as creepy or uncomfortable. True across a dinner table, in front of a group, or through a camera."
+- This isn't the first time a company has used simulated eyeballs to maintain eye contact in video calls or video streams. In 2019, Apple introduced its "Eye Contact" feature in FaceTime that kept your peepers always glued to the camera. Like Nvidia's version of the technology, it also faced a generally negative reception upon launch.
+- But hey, if non-stop soul-searing eye contact is your thing, you can run Eye Contact yourself by downloading Nvidia Broadcast for free from the company's website. It requires Windows, an Nvidia RTX graphics card, and a deep desire to freak out anyone watching your video.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://kotaku.com/creepy-eye-contact-stare-ai-nvidia-broadcast-1-4-update-1850025394
+- Nvidia’s come up with new AI-powered tech that swaps out your real eyes for digital ones that will never stop looking at your webcam. It’s very creepy, and one more sign of how unnatural you have to act online to become a popular streamer in 2023.
+- That’s just how it is: To succeed in the world of livestreaming, you need to be “on” all the time, always “engaged,” and never taking too many breaks for fear of shrinking your potentially fickle audience. It can quickly lead to burnout. Time and time again we’ve seen big, medium, and small streamers lose their passion for playing games online, leading to extended breaks, panic attacks, and more. But what if an AI-powered tool could help you fake some of that oh-so-important engagement? Enter Nvidia’s latest update to its Broadcast software.
+- This suite of tools is meant to help you look and sound better as you stream, with features like background removal and keyboard noise suppression. As of this new version you can, with the push of a button, now apply fake, AI-powered eyeballs to your real human face. And these new eyes will stare directly at the camera at all times, letting you never stop “engaging” with your audience even as you read your chat or look around at other things in your room. It looks wild, and very creepy!
+- Some have suggested that this tech could help people with autism who struggle to keep eye contact during meetings and livestreams. And while I respect that use case, I do question if this is the path we want to go down. I don’t think constant eye contact—especially creepy, direct staring eye contact like this—is something we all need or should want. I certainly don’t think pasting creepy AI eyes on everyone is a good thing. And as pointed out by one tweet, this kind of static, dead stare is not how people actually look when talking to large groups. Looking away or toward other people and cameras is natural, and can be useful and even important.
+- Online reactions to this new tech have included people freaking out over how creepy and weird it looks and pointing out how unnatural it feels. Even so, you can also find a lot more positive responses to the above tweet and other online examples of this strange new AI gizmo: people excited about how it will help their YouTube videos or livestreams on Twitch, and happy they can read chat or look away from the stream, while their audience is tricked into thinking they are still “engaged” with them. To me that just seems like a really unhealthy (and unsustainable) mindset that will eventually lead to more burnout that AI-powered tech can’t fix, treat, or prevent.
+
+URL: https://www.theverge.com/2023/1/12/23552606/nvidia-broadcast-1-4-eye-contact-ai-generation-webcam
+- By  Mitchell Clark
+- If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.
+- Nvidia’s streaming software now has an option to make it appear like you’re making eye contact with the camera, even if you’re looking somewhere else in real life. Using AI, the “Eye Contact” feature added to Nvidia Broadcast 1.4 will replace your eyes with “simulated” ones that are aligned with your camera — an effect that worked really well when we tested it ourselves, except for all the times it didn’t.
+- In an announcement post, the company writes the feature is meant for “content creators seeking to record themselves while reading their notes or a script” without having to look directly at a camera. Pitching it as something you’d use during a public performance, instead of something you’d use socially, does kind of sidestep the dilemmas that come with this sort of tech. Is it rude to use AI to trick my mom into thinking I’m engaged in our video call when I’m actually looking at my phone? Or, to make my boss think I’m not writing an article on my other monitor during a meeting? (I’m going to say yes, given that getting caught in either scenario would land me in hot water.)
+- Nvidia suggests that Eye Contact will try to make your simulated eyes match the color of your real ones, and there’s “even a disconnect feature in case you look too far away.”
+- Here’s a demo side by side with an unedited stream, so you can compare how my eyes are actually moving to how Nvidia’s software renders them:
+- Looking at the results I got, I’m not a huge fan of Eye Contact — I think it makes things just look a little off. Part of that is the animated eye movement. While it’s very cool that it’s even possible, it sometimes ends up making it look like my eyes are darting around at superhuman speeds. There’s also the odd, very distracting pop-ins that you can see near the end of the video.
+- There were definitely a few times when the feature got it right, and when it did, it was very impressive. Still, the misses were too frequent and noticeable for me to use this the next time I show up to a meeting (though, in theory, I could).
+- Nvidia does label the feature as a beta and is soliciting feedback from community members to help it improve. “There are millions of eye colors and lighting combinations,” the company says. “If you test it and find any issues, or just want to help us develop this AI effect further, please send us a quick video here, we would really appreciate it!”
+- Nvidia has been leaning heavily into this sort of AI generation in recent years — a major selling point of its graphics cards is DLSS, a feature that uses machine learning to intelligently upscale images, adding information that’s not there when you go to a lower (but easier to run) resolution. The latest version, DLSS 3, generates and inserts entirely new frames into your gameplay, like how Broadcast generates and adds a new pair of eyes to your face.
+- Broadcast also has other AI-powered features, such as background replacement that works as a virtual green screen and the ability to clean up background noises that your microphone picks up.
+- This isn’t the first eye contact feature we’ve seen. Apple started testing a similar feature called “Attention Correction” for FaceTime in 2018. In current versions of iOS, it’s labeled as “Eye Contact” in Settings > FaceTime. Microsoft also has a version of the feature in Windows 11 for devices with a neural processing unit.
+- Eye Contact isn’t the only feature Nvidia added to Broadcast version 1.4. The latest update also brings a vignette effect that Nvidia says is similar to Instagram’s and improves the Blur, Replacement, and Removal Virtual Background effects. The update is currently available to download for anyone with an RTX graphics card.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.standard.co.uk/tech/nvidia-eye-contact-tool-ai-deepfake-meetings-zoom-b1053244.html
+- The latest version of Nvidia’s Broadcast software will fix your eyes on the camera and even blinks on your behalf.
+- Nvidia Broadcast eye-contact mode
+- eing dragged into interminable pointless meetings which seem to drag on forever is one of the hazards of modern office life, but somehow it’s worse when working from the comfort of your own home over Zoom.
+- The temptation to check in on WhatsApp or see how your fantasy football team are getting on is enormous, but the tell-tale webcam will always give you away. Just think back to those group calls — you can always tell who’s actually paying attention and who’s (poorly) faking it.
+- But now it could be a bit harder to tell if you have PC gamers for colleagues. Nvidia, the hardware maker behind the GeForce graphics cards aimed at PC gamers and creators, has updated its Broadcast software to let users deepfake their eyes on the webcam at all times.
+- Nvidia Broadcast plugs into both video conferencing (eg Skype and Zoom) and streaming (eg Discord and Twitch) software to provide AI enhancements, like custom backgrounds, noise reduction, and movement tracking to webcams.
+- Only available to those with Nvidia RTX GPUs, the latest addition is the ability to fake attention. When the ‘eye contact’ filter is enabled, your pupils will be redrawn to be fixed on the camera at all times.
+- Perhaps aware that this could be used deceptively, Nvidia pitches it more at content creators “seeking to record themselves while reading their notes or a script” rather than people aiming to fake enthusiasm for a 4.45pm catch-up call, but the results are ultimately the same.
+- As the video below demonstrates, the software will not only copy your natural eye colour, but introduce blinks to make the deception more convincing.
+- Neatly, should the filter stop working — if you look too far away, say — Nvidia has included a disconnection system. This gently transitions away from the artificial eyes and back to your real ones, saving your colleagues the jarring experience of seeing your pupils snap across the screen, and wondering if they should dial 111 on your behalf.
+- Nvidia isn’t the only company experimenting with this. In 2019, Apple added “Attention Correction” to iOS 13, which mimics eye contact in the company’s own FaceTime software. Microsoft, meanwhile, signalled a plan to do similar with Windows 11 apps back in April.
+- There are non-underhand reasons to try to adjust a user’s eyes in film, of course. Video calls have never felt hugely personal because the webcam has to be away from the screen, meaning people are never seeing each other eye to eye — and eye contact is associated with trust, perceived intelligence, and human bonding more generally.
+- In other words, nudging your eyeballs down a bit to maintain eye contact could take away some of the impersonal feel of video calls - even if someone maintaining eye contact for the duration of an hour-long video call can be a touch unnerving in its own right.
+- But it’s interesting to speculate where deep-faking video calls could go next. Camera apps have been putting smiles on faces for years —  is it really impossible to believe that a company could develop an overlay to help you feign interest in what the other person is saying in the same way?
+- It’s up to consumers to decide when these features cross the line between handy and creepy — if that point hasn’t already been reached.
+- Sign up for exclusive newsletters, comment on stories, enter competitions and attend events.
+- By clicking Sign up you confirm that your data has been entered correctly and you have read and agree to our Terms of use, Cookie policy and Privacy notice.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+- MoviePass PreShow eye tracking
+- Walgreens fridge screen door biometrics
+- Page info Type: IncidentPublished: January 2023

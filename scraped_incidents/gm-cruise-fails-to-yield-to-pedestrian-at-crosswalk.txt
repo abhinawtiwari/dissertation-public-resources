@@ -1,0 +1,156 @@
+- Occurred: March 2018
+- Can you improve this page?Share your insights with us
+- A self-driving Chevrolet Bolt EV test car was issued a ticket in San Francisco for not yielding to a pedestrian at a crosswalk. The car was pulled over by a police officer shortly after having gone through the crosswalk.
+- The Bolt EV had been in an autonomous driving mode, meaning that its sensors were collecting data as it drove down the street and the car logged the information as it used it to make decisions on how to operate.
+- Cruise contested the ticket on the basis that data from the car suggests the pedestrian was 10.8 feet away when it passed through the intersection, and that the pedestrian had not been put in danger.
+- Operator: GM Cruise Developer: GM Cruise; General Motors/Chevrolet Country: USA Sector: Automotive Purpose: Automate steering, acceleration, braking Technology: Self-driving system Issue: Safety; Accuracy/reliability; Legal - liability Transparency: Governance; Black box
+- Cruise website
+- Cruise Wikipedia profile
+URL: https://sanfrancisco.cbslocal.com/2018/03/27/self-driving-car-ticketed-san-francisco/
+- Watch CBS News
+- March 27, 2018 / 6:43 PM
+          / CBS San Francisco
+- SAN FRANCISCO (KPIX 5) -- A self-driving car was slapped with a ticket after police said it got too close to a pedestrian on a San Francisco street.
+- The self-driving car owned by San Francisco-based Cruise was pulled over for not yielding to a pedestrian in a crosswalk. Cruise says its data shows the person was far away enough from the vehicle and the car did nothing wrong.
+- A witness, Kevin O'Connor, snapped a photo after seeing the motorcycle officer pull over the self-driving car as O'Connor drove through the South of Market area last week. "There was another car stopped alongside and he looked a little befuddled," said O'Connor. "The cop was just writing a regular ticket like they always do."
+- According to data collected by Cruise, the pedestrian was 10.8 feet away from the car when, while the car was in self-driving mode, it began to continue down Harrison at 14th St. Shortly after the car accelerated, the officer pulled it over.
+- • ALSO READ: Feds Launch Investigation Of Fiery Fatal Tesla Crash
+- In a statement, Cruise said, "Safety is our priority in testing our self-driving vehicles. California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection. Our data indicates that's what happened here."
+- The pedestrian involved didn't get hurt. It happened a week after an Uber car in self-driving mode hit and killed a woman crossing the street, outside a crosswalk, in Tempe, Arizona.
+- • ALSO READ: Uber Driver Says Map App Told Him To Take The Stairs
+- It's incidents like these that make people like O'Connor skeptical about whether self-driving cars will ever be safe enough.
+- "To me, it's almost impossible. I just don't see it happening unless every car was autonomous," he said.
+- • ALSO READ: Two Airline Pilots Report Seeing The Same UFO Pass Their Planes
+- The company claims the human test driver did everything right but is now responsible for the citation. San Francisco police did not immediately respond to a KPIX inquiry about the incident.
+- 
+- First published on March 27, 2018 / 6:43 PM
+- © 2018 CBS Broadcasting Inc. All Rights Reserved.
+- ©2023 CBS Broadcasting Inc. All Rights Reserved.
+
+URL: https://electrek.co/2018/03/30/self-driving-chevy-bolt-ev-test-car-ticket-pedestrian-gm/
+- A lot of eyes are on self-driving test programs right now, especially since the fatal accident involving a Uber test vehicle earlier this month.
+- Now a self-driving Chevy Bolt EV test car gets a ticket in San Francisco for not yielding to a pedestrian, but GM doesn’t agree with the police officer.
+- A pedestrian was reportedly about to cross the street at a crosswalk at 14th St., but the vehicle, which was apparently in autonomous mode, continued down Harrison street, too close to the pedestrian and it was quickly pulled over.
+- KPIX 5 talked to a witness who took the picture seen above:
+- “A witness, Kevin O’Connor, snapped a photo after seeing the motorcycle officer pull over the self-driving car as O’Connor drove through the South of Market area last week. “There was another car stopped alongside and he looked a little befuddled,” said O’Connor. “The cop was just writing a regular ticket like they always do.”
+- But Cruise, GM’s self-driving subsidiary, pulled out data logs from the vehicle and says that it detected the pedestrian at 10.8 feet away from the car, which they think was safe for the car to continue.
+- In a statement, Cruise said:
+- “Safety is our priority in testing our self-driving vehicles. California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection. Our data indicates that’s what happened here.”
+- Here’s KPIX 5’s report on the accident:
+- GM recently announced a $100 million investment to start making the production version of its self-driving Chevy Bolt EV with plans to launch a commercial autonomous ride-sharing service soon.
+- Electrek’s Take
+- Cruise has been quite bold about testing in busy city streets where there a lot of pedestrians, cyclists, and other trickier situations for self-driving vehicles.
+- They have successfully managed to log a lot of autonomous mileage without any major accident and that’s a good thing.
+- It’s hard to know for sure what happened here, but I’m glad that they are responding with some data and trying to explain themselves.
+- I think that companies testing self-driving technology need to have this open attitude going forward because there will inevitably be more accidents involving self-driving vehicles in the relatively short futures.
+- That’s unfortunate, but it’s the cost to pay to get them to improve and eventually they will save thousands of lives every year.
+- FTC: We use income earning auto affiliate links. More.
+- Subscribe to Electrek on YouTube for exclusive videos and subscribe to the podcast.
+- The Chevy Bolt EV is GM's first long-range all-e…
+- GM designs and manufactures a few electric vehic…
+- Fred is the Editor in Chief and Main Writer at Electrek.
+- You can send tips on Twitter (DMs open) or via email: fred@9to5mac.com
+- Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.
+- Get interesting investment ideas by Fred Lambert
+- ChargePoint Home WiFi Enabled Electric Vehicle (EV) Charger
+
+URL: https://www.thedrive.com/news/19805/one-of-gms-cruise-self-driving-cars-just-got-a-ticket-in-california
+- Cruise says that its car did nothing wrong.
+- RobDrivesCars
+- allthingslow/
+- Autonomous car development is having a rough month. From a self-driving Uber striking and killing a pedestrian in Arizona to Tesla's Autopilot being engaged in a fatal crash in California, the news just keeps piling up. Now, an autonomous Chevy Bolt by GM's autonomous division, Cruise, has been ticketed according to local news. The company disagrees and says it has the data to prove that no wrongdoing occurred.
+- The car was pulled over by an officer on the streets of San Francisco for not yielding to a pedestrian in a crosswalk, according to reports. Cruise feels that this is an incorrect assertation of events. The Bolt was in an autonomous driving mode, meaning that its sensors were collecting data as it drove down the street and the car logged the information as it used it to make decisions on just how to operate. The data it collected suggests that the pedestrian was 10.8 feet away from the car while it passed through the intersection, insinuating that the car did nothing wrong.
+- “Safety is our priority in testing our self-driving vehicles," Cruise said in a statement. "California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection. Our data indicates that’s what happened here.”
+- One concern that many have is the ability for autonomous cars to be "bullied" by pedestrians who walk into traffic or are otherwise aggressive with oncoming cars. As long as the technology is working right, we should be seeing autonomy being more adaptive to pedestrians who are in its path. Cruise stated that its systems were functioning as intended and followed all laws pertaining to pedestrians.
+- The driver behind the wheel of the Bolt has been issued a ticket, according to the Bay Area news station. This brings into question just who should be held responsible for scenarios such as the one which Cruise found themselves in. If a ticket is issued, whether valid or not, while a car is in an autonomous driving mode, who is ultimately responsible for the illegal maneuver? Should drivers be expected to override the vehicle? These are all questions which further elaborate on the need for legislation surrounding self-driving cars.
+- Sign Up For Our Newsletters
+- The chronicle of car culture, delivered to your inbox.
+- © 2022 Recurrent Ventures. All Rights Reserved.
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+URL: https://www.theguardian.com/technology/2018/mar/06/california-self-driving-cars-attacked
+- Local residents are hitting back at their new robot neighbors – literally – as reports detail assaults on driverless cars
+- The great promise of self-driving cars is that they will save innumerable lives by removing the most fallible and unpredictable element from vehicle traffic: the human.
+- But in San Francisco at least, fickle human behavior is taking a stand.
+- Two of the six collisions involving autonomous vehicles in California so far this year involved humans colliding with self-driving cars, apparently on purpose, according to incident reports collected by the California department of motor vehicles.
+- On 10 January, a pedestrian in San Francisco’s Mission District ran across the street to confront a GM Cruise autonomous vehicle that was waiting for people to cross the road, according to an incident report filed by the car company. The pedestrian was “shouting”, the report states, and “struck the left side of the Cruise AV’s rear bumper and hatch with his entire body”.
+- No injuries occurred, but the car’s left tail light was damaged.
+- In a separate incident just a few blocks away on 28 January, a taxi driver in San Francisco got out of his car, approached a GM Cruise autonomous vehicle and “slapped the front passenger window, causing a scratch”.
+- The police were not called in either case.
+- The two human-on-robot assaults are not the first time San Franciscans have fought back – physically – against robots.
+- In December, the local SPCA animal shelter removed its 400lb Knightscope security robot from the streets around its building amid backlash from residents and the homeless population who complained the robot was harassing them. While most residents simply complained about the robot’s presence, one person reportedly “put a tarp over it, knocked it over and put barbecue sauce on all the sensors”.
+- And in April, a drunk man was arrested after he allegedly attacked and knocked over another Knightscope security robot in Mountain View, the Silicon Valley town that is home to Google.
+- Other efforts to rein in robots have been more genteel.
+- Last year, the San Francisco supervisor Jane Kim launched a thus far unsuccessful effort to tax robots that take human jobs. And in December, San Francisco passed a bill strictly limiting the number of autonomous delivery robots that are allowed to roam the city’s sidewalks.
+- Not shitting you, but I actually just rescued a robot in distress on the street after someone had tipped it over. This is one of those weird dreams, right. pic.twitter.com/Jh57DNqw1M
+- “Not every innovation is all that great for society,” the San Francisco supervisor Norman Yee, who authored the legislation, said at the time. “If we don’t value our society, if we don’t value getting the chance to go to the store without being run over by a robot … what is happening?”
+
+URL: https://www.businessinsider.com/gm-cruise-self-driving-car-ticket-not-yielding-pedestrian-2018-3
+- Jump to
+- 
+- 
+- 
+- A self-driving car owned by General Motors was ticketed in San Francisco Monday after not yielding to pedestrian on a crosswalk, the San Francisco Police Department confirmed to Business Insider.
+- KPIX, the CBS affiliate in San Francisco, first reported the incident. The pedestrian involved was not harmed.
+- The ticket comes as scrutiny of self-driving cars is on the rise, following a deadly accident in Tempe, Arizona one week ago involving one of Uber's self-driving vehicles. The incident has reignited the debate over how safe self-driving cars are during testing.
+- Giselle Linnane, a SFPD spokeswoman, told Business Insider on Wednesday that the GM vehicle was pulled over in San Francisco's South of Market neighborhood earlier this week after an officer saw the car cut off a woman walking on a crosswalk.
+- Cruise, a self-driving car startup acquired by GM in 2016, disputes the ticket according to KPIX, and says its own data shows the pedestrian was far enough way from the vehicle. According to Cruise data, KPIX reported, the pedestrian was 10.8 feet away from the vehicle while in self-driving mode.
+- "We don't look at or work with that data," Linnane said. "It's whatever the officer observed at the scene and from his observation, there was a violation."
+- The human test driver, who was in the car at the time and ultimately received the citation, is not at fault and did everything right, Cruise told KPIX. It is unclear if Cruise will attempt to legally fight the ticket.
+- “Safety is our priority in testing our self-driving vehicles. California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection. Our data indicates that’s what happened here," a Cruise spokesperson told Business Insider.
+- This isn't the first time a self-driving car has been pulled over by police. In 2015, a Google self-driving car was pulled over in Mountain View for driving too slow.
+- Read next
+
+URL: https://arstechnica.com/cars/2018/03/a-cruise-car-got-a-traffic-ticket-gm-says-it-did-nothing-wrong/
+- Front page layout
+- Site theme
+- Timothy B. Lee
+    -  Mar 29, 2018 1:28 pm UTC
+- A car from GM's self-driving car unit, Cruise, received a traffic ticket from a San Francisco police officer who said that a Cruise car drove uncomfortably close to a pedestrian. Cruise disputes the officer's accusation, saying that the vehicle stayed more than 10 feet away from the pedestrian.
+- The incident was first reported Tuesday by Jackie Ward, a reporter for the local CBS station in San Francisco. She was tipped off by a viewer, Kevin O’Connor, who snapped the above picture of the car being pulled over a few days after a fatal Uber self-driving car crash in Tempe, Arizona.
+- "According to data collected by Cruise, the pedestrian was 10.8 feet away from the car," Ward says. The car was in self-driving mode and "it began to continue down Harrison at 14th St. Shortly after the car accelerated, the officer pulled it over."
+- Cruise defended the behavior of its vehicle in a statement to the station. "California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection," Cruise said. "Our data indicates that’s what happened here."
+- There's relatively little systematic reporting about the behavior of self-driving vehicles from Cruise or other companies. California does require companies like Cruise to report when one of its vehicles is involved in a crash, and companies also file annual reports listing how often human drivers have to take over the wheel for safety-related reasons.
+- But other aspects of the vehicles' driving behavior only come to light through sporadic press reports. A story from the Information earlier this month cited anonymous sources who said that "Cruise cars frequently swerve and hesitate,” and have trouble with construction zones, tunnels, and distinguishing between motorcycles and bicycles.
+- And reporting is practically non-existent outside of California. Arizona, the site of last week's fatal driverless car crash in Tempe, does not require driverless car companies to file reports on all crashes or disengagements as California does.
+- Correction: We originally reported that the incident occurred a day after the Uber crash in Tempe because that's what the CBS 5 story originally said. But they have since updated the story to say it was a week afterwards. We have updated the story and regret the error.
+- Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up →
+- CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+URL: https://www.carscoops.com/2018/03/self-driving-chevy-bolt-ticketed-close-pedestrian-san-francisco/
+- GM denies police claims the car got too close to a pedestrian
+- A self-driving car from GM’s Cruise unit was pulled over by police in San Francisco earlier this week for driving too close to a pedestrian.
+- CBS Local reports that the autonomous Chevrolet Bolt was pulled over for failing to yield to a pedestrian at a crosswalk. However, Cruise claims that the vehicle kept a safe distance from the pedestrian.
+- Cruise asserts that the pedestrian was 10.8 feet away from the pedestrian when the vehicle was operating in self-driving mode. The car continued to drive down Harrison at 14th Street before it was pulled over.
+- In a statement, Cruise said the autonomous prototype followed Californian law.
+- “Safety is our priority in testing our self-driving vehicles. California law requires the vehicle to yield the right of way to pedestrians, allowing them to proceed undisturbed and unhurried without fear of interference of their safe passage through an intersection. Our data indicates that’s what happened here.”
+- It happened a week after the fatal Uber crash
+- Witness Kevin O’Connor was on the scene at the time of the citation.
+- “There was another car stopped alongside and he looked a little befuddled. The cop was just writing a regular ticket like they always do,” he said.
+- Cruise says the human test driver is responsible for the citation.
+- We have asked GM for an additional statement and will update this post as soon as we hear back.
+
+URL: https://www.gm-volt.com/threads/self-driving-chevy-bolt-ev-ticketed-in-san-francisco.338425/
+
+URL: https://www.autoblog.com/2018/03/30/cruise-autonomous-car-ticket-sf/
+- This page is for personal, non-commercial use. You may order presentation ready copies to distribute to your colleagues, customers, or clients, by visiting https://www.parsintl.com/publication/autoblog/
+- Elon Musk's latest financial advice: Don't pour your life savings into dogecoin
+- 2023 Ford Super Duty now shipping, having passed new Zero Defect tests
+- Thieves are now stealing cars via a headlight 'CAN injection'
+- 2015 Chevrolet Colorado rock crawler is a Hot Wheels Legends Tour finalist
+- New Toyota Tacoma, Ranger, Colorado/Canyon fight for midsize truck dominance
+- 2023 Toyota Sienna Long-Term Update: Plugs and ports aplenty
+- News, Reviews, Photos, Videos delivered straight to your in-box.
+- Thanks for subscribing. Check your in-box to get started.
+- More Info
+- Please enter a display name
+- Please sign in to leave a comment.
+
+- Cruise driverless car pulls away from police
+- Cruise AV impedes San Francisco firefighters
+- Page infoType: IncidentPublished: March 2023

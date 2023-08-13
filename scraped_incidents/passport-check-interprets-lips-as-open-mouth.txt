@@ -1,0 +1,227 @@
+- Occurred: September 2019
+- Can you improve this page?Share your insights with us
+- An automated passport photo checker facial detection system run by the UK Home Office mistook the 'big lips' of a young Black man hoping to renew his passport for an open mouth, resulting in his application being refused.
+- The incident prompted Bada to share his experience online, leading to accustations of algorithmic bias and racism. The UK's Race Equality Foundation said it believed the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it 'technological or digital racism'.
+- A New Scientist report published one month after Bada's incident revealed that the Home Office system was known to fail for people with dark skin, but that it decided to use it regardless. The documents were released following a Freedom of Information request by MedConfidential.
+- Operator: UK Home Office Developer:
+- Country: UK
+- Sector: Govt - immigration
+- Purpose: Automate passport checks
+- Technology: Facial detection Issue: Bias/discrimination - race, ethnicity
+- Transparency: Governance
+URL: https://www.standard.co.uk/news/uk/man-stunned-as-passport-photo-check-sees-lips-as-open-mouth-a4241456.html
+- young black man hoping to renew his passport online was stunned when the automated photo checker mistook his lips for an open mouth.
+- The facial detection system informs people when it thinks the photo uploaded may not meet strict requirements, which include a plain expression and a closed mouth.
+- Joshua Bada, 28, from west London, used a high-quality photo booth image to apply for his passport.
+- He said: “I was a bit annoyed but it didn’t surprise me because it’s a problem I have faced on Snapchat with the filters, where it hasn’t quite recognised my mouth, obviously because of my complexion and just the way my features are.
+- “After I posted it online, friends started getting in contact, saying it’s funny but it shouldn’t be happening.”
+- SPONSORED
+- When asked by the system if he wanted to submit the photo anyway, Mr Bada wrote in a comment box: “My mouth is closed, I just have big lips.”
+- Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, believes an unrepresentative sample of black people is one possible reason for the error.
+- The Home Office said: “We are determined to make the experience of uploading a digital photograph as simple as possible, and will continue working to improve this process for all of our customers.
+- "In the vast majority of cases where a photo does not pass our automated check, customers may override the outcome and submit the photo as part of their application.”
+- Sign up for exclusive newsletters, comment on stories, enter competitions and attend events.
+- By clicking Sign up you confirm that your data has been entered correctly and you have read and agree to our Terms of use, Cookie policy and Privacy notice.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+- This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+URL: https://www.mirror.co.uk/news/uk-news/mans-lips-mistaken-open-mouth-20098853
+
+URL: https://www.telegraph.co.uk/technology/2019/09/19/racist-passport-photo-system-rejects-image-young-black-man-despite/
+- A facial detection system used by the Government rejected a passport photograph of a young black man because it mistook his lips for an open mouth.
+- Passport photographs require the subject to have a plain expression with their mouth closed.
+- Joshua Bada, 28, shared images online of the rejection of his passport photo by the government system.
+- "When I saw it, I was a bit annoyed but it didn't surprise me because it's a problem that I have faced on Snapchat with the filters, where it hasn't quite recognised my mouth, obviously because of my complexion and just the way my features are," he said.
+- Mr Bada was forced to explain to the gov.uk website that he still wished to submit the photograph.
+- He explained in a comment box on the website: "My mouth is closed, I just have big lips."
+- "After I posted it online, friends started getting in contact with me, saying, it's funny but it shouldn't be happening,” he said.
+- The Race Equality Foundation said it believes the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it "technological or digital racism".
+- Samir Jeraj, the charity's policy and practice officer, said: "Presumably there was a process behind developing this type of technology which did not address issues of race ethnicity and as a result it disadvantages black and minority ethnic people."
+- This is not the first example of biased algorithms failing to properly recognise images of black and ethnic minority people.
+- Earlier this week, an online image database which uses 14m images as a training guide for artificial intelligence systems was found to have classified photographs of black people with  labels such as “blackamoor”, “negroid” or “black person”, while results from caucasian faces varied more widely as “researcher”, “scientist” or “singer”.
+
+URL: https://www.irishnews.com/magazine/technology/2019/09/19/news/passport-photo-checker-falsely-flags-black-man-s-lips-as-open-mouth-1716760/
+- A young black man hoping to renew his passport online was stunned when the automated photo checker mistook his lips for an open mouth.
+- The facial detection system informs people when it thinks the photo uploaded may not meet strict requirements, which include a plain expression and the mouth to be kept closed.
+- Joshua Bada used a high quality photo booth image to apply for his passport, with a digital code that he had to note down and enter on gov.uk.
+- The 28-year-old from west London told PA that it was not the first time technology had issues with the size of his lips.
+- “When I saw it, I was a bit annoyed but it didn’t surprise me because it’s a problem that I have faced on Snapchat with the filters, where it hasn’t quite recognised my mouth, obviously because of my complexion and just the way my features are,” he explained.
+- “After I posted it online, friends started getting in contact with me, saying, it’s funny but it shouldn’t be happening.”
+- When asked by the system if he wanted to submit the photo anyway, Mr Bada was forced to explain why in a comment box, writing: “My mouth is closed, I just have big lips.”
+- The incident is not an isolated case – in April, a black woman shared a post on Twitter of similar struggles.
+- Cat Hallam, an educational technologist from Staffordshire, stressed that she does not believe it amounts to racism, but thinks it is a result of algorithmic bias.
+- She became frustrated after the system told her it looked like her eyes are closed and that it could not find the outline of her head.
+- “The first time I tried uploading it and it didn’t accept it,” she told PA.
+- “So perhaps the background wasn’t right. I opened my eyes wider, I closed my mouth more, I pushed my hair back and did various things, changed clothes as well – I tried an alternative camera.”
+- Ms Hallam said she begrudged paying extra to have an image taken in a photo booth when free smartphone photos work for others.
+- “How many other individuals are probably either spending money unnecessarily or having to go through the process on numerous occasions of a system that really should be able to factor in a broad range of ethnicities?” she explained.
+- Ms Hallam proceeded with one of the images and received her passport without any further problems.
+- When posting about the issue on Twitter at the time, the Passport Office tweeted back to her, saying it was sorry the photo upload service hadn’t “worked as it should”.
+- The Home Office responded to PA, saying: “We are determined to make the experience of uploading a digital photograph as simple as possible, and will continue working to improve this process for all of our customers.
+- “In the vast majority of cases where a photo does not pass our automated check, customers may override the outcome and submit the photo as part of their application.
+- “The photo checker is a customer aide that is designed to check a photograph meets the internationally agreed standards for passports.”
+- Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, believes lack of diversity in the workplace and an unrepresentative sample of black people is one of the reasons why the error may have happened.
+- “We know that it (automated systems) has problems with gender as well, it has a real problem with women too generally, and if you’re a black woman you’re screwed, it’s really bad, it’s not fit for purpose and I think it’s time that people started recognising that,” he said.
+- “People have been struggling for a solution for this in all sorts of algorithmic bias, not just face recognition, but algorithmic bias in decisions for mortgages, loans, and everything else and it’s still happening.”
+- Dr Saurabh Johri, an AI and data science specialist at Babylon, said AI is only as good as the data it uses and for some time it has been known that these systems are prone to exacerbate biases in the data.
+- “In this instance, it’s possible that there is bias in the training data but equally it could simply be a wider limitation of the technology,” he added.
+- The Race Equality Foundation said it believes the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it “technological or digital racism”.
+- “Presumably there was a process behind developing this type of technology which did not address issues of race ethnicity and as a result it disadvantages black and minority ethnic people,” Samir Jeraj, the charity’s policy and practice officer, commented.
+- Subscribe now to get full access
+- 
+- See a different horoscope:  Select
+                    sign
+- Get the day's headlines delivered directly to your inbox
+
+URL: https://www.dailymail.co.uk/news/article-7481357/Passport-photo-checker-falsely-flags-black-man-s-lips-open-mouth.html
+- By Alexander Robertson For Mailonline
+- Published:  11:03, 19 September 2019   |  Updated:  12:53, 19 September 2019
+- 
+- 587
+- View  comments
+- 
+- Joshua Bada (pictured) was stunned when the automated photo checker mistook his 'big lips' for an open mouth in this picture
+- A black man hoping to renew his passport online was stunned when the automated photo checker mistook his 'big lips' for an open mouth.
+- The facial detection system informs people when it thinks the photo uploaded may not meet strict requirements, which include a plain expression and the mouth to be kept closed.
+- Joshua Bada used a high quality photo booth image to apply for his passport, with a digital code that he had to note down and enter on gov.uk.
+- The 28-year-old from west London said that it was not the first time technology had issues with the size of his lips.
+- 'When I saw it, I was a bit annoyed but it didn't surprise me because it's a problem that I have faced on Snapchat with the filters, where it hasn't quite recognised my mouth, obviously because of my complexion and just the way my features are,' he explained.
+- 'After I posted it online, friends started getting in contact with me, saying, it's funny but it shouldn't be happening.'
+- When asked by the system if he wanted to submit the photo anyway, Mr Bada was forced to explain why in a comment box, writing: 'My mouth is closed, I just have big lips.'
+- The incident is not an isolated case; in April, a black woman shared a post on Twitter of similar struggles.
+- When the system asked if he wanted to submit the photo, Mr Bada was forced to explain why in a comment box, writing: 'My mouth is closed, I just have big lips'
+- Cat Hallam, an educational technologist from Staffordshire, stressed that she does not believe it amounts to racism, but thinks it is a result of algorithmic bias.
+- She became frustrated after the system told her it looked like her eyes are closed and that it could not find the outline of her head.
+- 'The first time I tried uploading it and it didn't accept it,' she told PA.
+- 'So perhaps the background wasn't right. I opened my eyes wider, I closed my mouth more, I pushed my hair back and did various things, changed clothes as well – I tried an alternative camera.'
+- Ms Hallam said she begrudged paying extra to have an image taken in a photo booth when free smartphone photos work for others.
+- 'How many other individuals are probably either spending money unnecessarily or having to go through the process on numerous occasions of a system that really should be able to factor in a broad range of ethnicities?' she explained.
+- Ms Hallam proceeded with one of the images and received her passport without any further problems.
+- Ms Hallam was told by the system that it looked like her eyes were closed and that it could not find the outline of her head
+- When posting about the issue on Twitter at the time, the Passport Office tweeted back to her, saying it was sorry the photo upload service hadn't 'worked as it should'.
+- The Home Office said: 'We are determined to make the experience of uploading a digital photograph as simple as possible, and will continue working to improve this process for all of our customers.
+- 'In the vast majority of cases where a photo does not pass our automated check, customers may override the outcome and submit the photo as part of their application.
+- 'The photo checker is a customer aide that is designed to check a photograph meets the internationally agreed standards for passports.'
+- Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, believes lack of diversity in the workplace and an unrepresentative sample of black people is one of the reasons why the error may have happened.
+- The online photo checker system tells users whether the image is suitable for their passport, such as lighting and expressions
+- 'We know that it (automated systems) has problems with gender as well, it has a real problem with women too generally, and if you're a black woman you're screwed, it's really bad, it's not fit for purpose and I think it's time that people started recognising that,' he said.
+- 'People have been struggling for a solution for this in all sorts of algorithmic bias, not just face recognition, but algorithmic bias in decisions for mortgages, loans, and everything else and it's still happening.'
+- Dr Saurabh Johri, an AI and data science specialist at Babylon, said AI is only as good as the data it uses and for some time it has been known that these systems are prone to exacerbate biases in the data.
+- 'In this instance, it's possible that there is bias in the training data but equally it could simply be a wider limitation of the technology,' he added.
+- The Race Equality Foundation said it believes the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it 'technological or digital racism'.
+- 'Presumably there was a process behind developing this type of technology which did not address issues of race ethnicity and as a result it disadvantages black and minority ethnic people,' Samir Jeraj, the charity's policy and practice officer, commented.
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://guernseypress.com/news/uk-news/2019/09/19/passport-photo-checker-falsely-flags-black-mans-lips-as-open-mouth/
+- The Passport Office’s automated online system criticised for failing to work properly on some black people’s faces.
+- A young black man hoping to renew his passport online was stunned when the automated photo checker mistook his lips for an open mouth.
+- The facial detection system informs people when it thinks the photo uploaded may not meet strict requirements, which include a plain expression and the mouth to be kept closed.
+- Joshua Bada used a high quality photo booth image to apply for his passport, with a digital code that he had to note down and enter on gov.uk.
+- The 28-year-old from west London told PA that it was not the first time technology had issues with the size of his lips.
+- “After I posted it online, friends started getting in contact with me, saying, it’s funny but it shouldn’t be happening.”
+- When asked by the system if he wanted to submit the photo anyway, Mr Bada was forced to explain why in a comment box, writing: “My mouth is closed, I just have big lips.”
+- The incident is not an isolated case – in April, a black woman shared a post on Twitter of similar struggles.
+- Cat Hallam, an educational technologist from Staffordshire, stressed that she does not believe it amounts to racism, but thinks it is a result of algorithmic bias.
+- She became frustrated after the system told her it looked like her eyes are closed and that it could not find the outline of her head.
+- “The first time I tried uploading it and it didn’t accept it,” she told PA.
+- “So perhaps the background wasn’t right. I opened my eyes wider, I closed my mouth more, I pushed my hair back and did various things, changed clothes as well – I tried an alternative camera.”
+- Ms Hallam said she begrudged paying extra to have an image taken in a photo booth when free smartphone photos work for others.
+- “How many other individuals are probably either spending money unnecessarily or having to go through the process on numerous occasions of a system that really should be able to factor in a broad range of ethnicities?” she explained.
+- Ms Hallam proceeded with one of the images and received her passport without any further problems.
+- When posting about the issue on Twitter at the time, the Passport Office tweeted back to her, saying it was sorry the photo upload service hadn’t “worked as it should”.
+- “In the vast majority of cases where a photo does not pass our automated check, customers may override the outcome and submit the photo as part of their application.
+- “The photo checker is a customer aide that is designed to check a photograph meets the internationally agreed standards for passports.”
+- Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, believes lack of diversity in the workplace and an unrepresentative sample of black people is one of the reasons why the error may have happened.
+- “People have been struggling for a solution for this in all sorts of algorithmic bias, not just face recognition, but algorithmic bias in decisions for mortgages, loans, and everything else and it’s still happening.”
+- Dr Saurabh Johri, an AI and data science specialist at Babylon, said AI is only as good as the data it uses and for some time it has been known that these systems are prone to exacerbate biases in the data.
+- “In this instance, it’s possible that there is bias in the training data but equally it could simply be a wider limitation of the technology,” he added.
+- The Race Equality Foundation said it believes the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it “technological or digital racism”.
+- “Presumably there was a process behind developing this type of technology which did not address issues of race ethnicity and as a result it disadvantages black and minority ethnic people,” Samir Jeraj, the charity’s policy and practice officer, commented.
+
+URL: https://uk.news.yahoo.com/passport-photo-checker-falsely-flags-100055240.html
+- A young black man hoping to renew his passport online was stunned when the automated photo checker mistook his lips for an open mouth.
+- The facial detection system informs people when it thinks the photo uploaded may not meet strict requirements, which include a plain expression and the mouth to be kept closed.
+- Joshua Bada used a high quality photo booth image to apply for his passport, with a digital code that he had to note down and enter on gov.uk.
+- The 28-year-old from west London told PA that it was not the first time technology had issues with the size of his lips.
+- “When I saw it, I was a bit annoyed but it didn’t surprise me because it’s a problem that I have faced on Snapchat with the filters, where it hasn’t quite recognised my mouth, obviously because of my complexion and just the way my features are,” he explained.
+- “After I posted it online, friends started getting in contact with me, saying, it’s funny but it shouldn’t be happening.”
+- When asked by the system if he wanted to submit the photo anyway, Mr Bada was forced to explain why in a comment box, writing: “My mouth is closed, I just have big lips.”
+- The incident is not an isolated case – in April, a black woman shared a post on Twitter of similar struggles.
+- Cat Hallam, an educational technologist from Staffordshire, stressed that she does not believe it amounts to racism, but thinks it is a result of algorithmic bias.
+- She became frustrated after the system told her it looked like her eyes are closed and that it could not find the outline of her head.
+- “The first time I tried uploading it and it didn’t accept it,” she told PA.
+- “So perhaps the background wasn’t right. I opened my eyes wider, I closed my mouth more, I pushed my hair back and did various things, changed clothes as well – I tried an alternative camera.”
+- Ms Hallam said she begrudged paying extra to have an image taken in a photo booth when free smartphone photos work for others.
+- “How many other individuals are probably either spending money unnecessarily or having to go through the process on numerous occasions of a system that really should be able to factor in a broad range of ethnicities?” she explained.
+- Ms Hallam proceeded with one of the images and received her passport without any further problems.
+- When posting about the issue on Twitter at the time, the Passport Office tweeted back to her, saying it was sorry the photo upload service hadn’t “worked as it should”.
+- The Home Office responded to PA, saying: “We are determined to make the experience of uploading a digital photograph as simple as possible, and will continue working to improve this process for all of our customers.
+- “In the vast majority of cases where a photo does not pass our automated check, customers may override the outcome and submit the photo as part of their application.
+- “The photo checker is a customer aide that is designed to check a photograph meets the internationally agreed standards for passports.”
+- Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, believes lack of diversity in the workplace and an unrepresentative sample of black people is one of the reasons why the error may have happened.
+- “We know that it (automated systems) has problems with gender as well, it has a real problem with women too generally, and if you’re a black woman you’re screwed, it’s really bad, it’s not fit for purpose and I think it’s time that people started recognising that,” he said.
+- “People have been struggling for a solution for this in all sorts of algorithmic bias, not just face recognition, but algorithmic bias in decisions for mortgages, loans, and everything else and it’s still happening.”
+- Dr Saurabh Johri, an AI and data science specialist at Babylon, said AI is only as good as the data it uses and for some time it has been known that these systems are prone to exacerbate biases in the data.
+- “In this instance, it’s possible that there is bias in the training data but equally it could simply be a wider limitation of the technology,” he added.
+- The Race Equality Foundation said it believes the system was not tested properly to see if it would actually work for black or ethnic minority people, calling it “technological or digital racism”.
+- “Presumably there was a process behind developing this type of technology which did not address issues of race ethnicity and as a result it disadvantages black and minority ethnic people,” Samir Jeraj, the charity’s policy and practice officer, commented.
+
+URL: https://www.newscientist.com/article/2219284-uk-launched-passport-photo-checker-it-knew-would-fail-with-dark-skin/
+- Advertisement
+- Explore by section
+- Explore by subject
+- Explore our products and services
+- By Adam Vaughan
+- 9 October 2019
+- Face recognition often struggles to recognise people with certain skin tonesIza habur/Getty Images
+- Face recognition often struggles to recognise people with certain skin tones
+- Iza habur/Getty Images
+- The UK government went ahead with a face-detection system for its passport photo checking service, despite knowing the technology failed to work well for people in some ethnic minorities.
+- Face recognition technology has a record of failing to recognise people with certain skin tones. For example, Google had to apologise in 2015 when its photos app labelled a black couple as gorillas.
+- Now, documents released by the Home Office this week show it was aware of problems with its website’s passport photo checking service, but decided to use it regardless.
+- Advertisement
+- “User research was carried out with a wide range of ethnic groups and did identify that people with very light or very dark skin found it difficult to provide an acceptable passport photograph,” the department wrote in a document released in response to a freedom of information (FOI) request. “However; the overall performance was judged sufficient to deploy.”
+- Since the service went live in June 2016, some users have had problems with the photo checking service. Joshua Bada, a black sports coach, was told by the system recently that his photo didn’t meet requirements after it mistook his lips for an open mouth.
+- Cat Hallam, a black technology officer at Keele University, UK, found the service wrongly suggested her eyes were closed and her mouth was open. “What is very disheartening about all of this is they were aware of it,” Hallam told New Scientist.
+- “A person’s race should not be a barrier to using technology for essential public services,” says a spokesperson for the UK’s Equality and Human Rights Commission. “We are disappointed that the government is proceeding with the implementation of this technology despite evidence that it is more difficult for some people to use it based on the colour of their skin.”
+- Face detection software is normally trained on thousands of images. One way bias can enter the system is if the training data isn’t large enough or diverse enough to represent the group it will be used on.
+- Sam Smith of campaign group MedConfidential, which submitted the FOI request, says: “Clearly, they deployed what they had anyway – they’ve taken the standard as ‘if no one else’s image analysis works for black people, then ours doesn’t have to either’.”
+- The Home Office says users can override the photo checker and proceed with their passport application, but observers say that misses the point.
+- “Even with the user being able to override the selection, it is still creating a – largely racialised – disparity in experience between users,” says Os Keyes at the University of Washington, Seattle.
+- Users may be reluctant to use the override function given that the website warns people they may have a problem with their application if the photo doesn’t meet the rules, says Hallam.
+- The government said that to mitigate the issue it would: “continue to conduct user research and usability testing with appropriate participants to ensure that users from different ethnicities can follow the photo guidance and provide a photo that passes the photo checks.”
+- A Home Office spokesperson told New Scientist: “We are determined to make the experience of uploading a digital photograph as simple as possible, and will continue working to improve this process for all of our customers.”
+- The government promise of “we’ll fix it later” is “a depressingly common response to people pointing out biases in technology”, says Keyes.
+- Samir Jeraj at the Race Equality Foundation says: “It’s outrageous. It clearly shows it wasn’t a priority for them that it would work for people with black skin.” Jeraj called on the government to be clearer and more robust about what improvements it will make, and by when. In the meantime, he adds it would not cost the passport office anything to put a note on its website acknowledging the issue.
+- Noel Sharkey, a computer scientist at the University of Sheffield, UK, says the case shows the need for new regulation. “It is well known that current face recognition systems are highly inaccurate for people with darker shades of skin. That is bad enough, but then using a technology that the passport office knows to be biased is unacceptable and normalises injustice. We urgently need new regulation to stop any inequalities.”
+- Topics:
+- Advertisement
+- Explore the latest news, articles and features
+- Regulars
+- Subscriber-only
+- Culture
+- Subscriber-only
+- News
+- Subscriber-only
+- Features
+- Subscriber-only
+- Trending New Scientist articles
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- Advertisement
+- Download the app
+
+URL: https://www.mirror.co.uk/tech/uk-government-launched-passport-photo-20545844
+
+- UK passport photo application 'racism'
+- US border imposter identification failures
+- Page infoType: IncidentPublished: March 2023

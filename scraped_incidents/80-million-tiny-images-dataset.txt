@@ -1,0 +1,96 @@
+- Released: November 2008
+- Can you improve this page?Share your insights with us
+- 80 Million Tiny Images is an image database that is used to train machine learning systems to identify people and objects in an environment.
+- Created in November 2008, the dataset contains over 79 million 32×32 pixel colour images, scaled down from images collected from search engine queries, and a set of 75,062 non-abstract nouns derived from WordNet.
+- In June 2020, University of Toronto researchers Vinay Uday Prabhu and Abeba Birhane discovered (pdf) that large-scale image datasets like 80 Million Tiny Images were associating offensive labels with real pictures.
+- According to the research, the dataset labeled Black and Asian people with racist slurs, women holding children labeled as whores, and included pornographic images.
+- They also found that WordNet, from which 80 Million Tiny Images copied content, contains derogatory terms, resulting in images and labels that confirm and reinforce stereotypes and biases, albeit inadvertently.
+- The creators of 80 Million Images apologised and took the dataset offline in June 2020 and urged that researchers refrain from using it in the future and delete downloaded copies.
+- How many copies were downloaded, how they were used, and whether their plea was followed remains unclear.
+- Operator: University of TorontoDeveloper: MIT
+- Country: USA
+- Sector: Technology; Research/academia
+- Purpose: Identify & classify objects, people
+- Technology: Dataset; Computer vision; Object recognition Issue: Bias/discrimination - race, gender; Privacy; Safety
+- Transparency: Governance
+- Website
+- Research paper (pdf)
+- Wikipedia profile
+- Prabhu V.U., Birhane A. (2020). Large Image Datasets: A Pyrrhic Win for Computer Vision?
+- Krizhevsky A. (2009). Learning Multiple Layers of Features from Tiny Images (pdf)
+URL: https://www.theregister.com/2020/07/01/mit_dataset_removed/
+
+URL: https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/
+- You have been blacklisted, KTHXBAI
+- XID: 13946348
+- Varnish cache server
+
+URL: https://www.dailymail.co.uk/sciencetech/article-8483929/MIT-pulls-racist-misogynistic-dataset-offline.html
+- By Jonathan Chadwick For Mailonline
+- Updated:  18:46, 2 July 2020
+- 
+- 15
+- View  comments
+- 
+- MIT has had to take offline a giant dataset that taught AI systems to assign 'racist and misogynistic labels' to people in images.
+- The database, known as '80 Million Tiny Images', is a massive collection of photos with descriptive labels, used to teach machine learning models to identify images.
+- But the system, developed at the US university, labelled women as 'whores' and 'bitches' and used other abhorrent terms against ethnic minorities.
+- It also contained close-up pictures of female genitalia labelled with the C-word and other images with the labels 'rape suspect' and 'molester'.
+- Images labelled with the slur 'whore' ranged from a woman in a bikini to a photo of 'a mother holding her baby with Santa', tech website the Register reported.
+- The respected research university in Massachusetts had to apologise for the dataset, which was removed this week after a tip, claimed by the Register and based on concerns from two academics.
+- MIT has also had to urge its researchers and developers to stop using the training library and to delete any copies.
+- Despite this, apps and websites relying on neural networks that were trained using the database may spout out these shocking terms when analysing photos and camera footage.
+- The Register's screenshot of the dataset before it was taken offline this week. It shows pixelated examples for the label 'whore', including 'a mother holding her baby with Santa', the Register said
+- 'It is clear that we should have manually screened them,' said Antonio Torralba, a professor of electrical engineering and computer science at MIT's Computer Science & Artificial Intelligence Laboratory
+- 'For this, we sincerely apologise – indeed, we have taken the dataset offline so that the offending images and categories can be removed.'
+- Torralba and fellow researchers posted an open letter on the MIT website that explains the decision to remove the dataset – and why it listed images with such language in the first place.
+- 'The dataset is too large (80 million images) and the images are so small (32 x 32 pixels) that it can be difficult for people to visually recognise its content,' they say.
+- 'Therefore, manual inspection, even if feasible, will not guarantee that offensive images can be completely removed.'
+- The dataset was created in 2006 and contains 53,464 different nouns, directly copied from WordNet – a database of English words grouped into related sets and developed by Princeton University.
+- This graph shows the number of images in the dataset labelled with different slurs. The dataset has been taken offline and it will not be put back onlinet, MIT said
+- WordNet was built in the mid-1980s, however, and contains racist slang and insults, the Register said, which now 'haunt modern machine learning'.
+- All the 53,000 nouns from WordNet were then used by MIT to automatically download images from internet search engines that contained the corresponding noun, in order to collect the final total of 80 million images.
+- The training set has been used at MIT to train machine learning models to use these terms to automatically identify people and objects in still images.
+- For example, a trained neural network may be able to identify a pleasant scene of a park with words such as 'picnic', 'grass' and 'trees'.
+- But the dataset's unpleasant side means it may also identify women in the scene as 'whores' or black and Asian minorities with racial slurs.
+- Therefore MIT's community have been asked to refrain from using the dataset in future and also delete any existing copies of the dataset that may have been downloaded.
+- 'Biases, offensive and prejudicial images, and derogatory terminology alienates an important part of our community – precisely those that we are making efforts to include,' the MIT professors wrote.
+- 'It also contributes to harmful biases in AI systems trained on such data.
+- 'Additionally, the presence of such prejudicial images hurts efforts to foster a culture of inclusivity in the computer vision community.
+- Heavily pixelated image samples taken from the dataset that were labelled with a highly offensive slur described as 'probably the most offensive word in English' by Dictionary.com
+- 'This is extremely unfortunate and runs counter to the values that we strive to uphold.'
+- Two researchers – Vinay Prabhu at US privacy startup UnifyID and Abeba Birhane at University College Dublin in Ireland – examined the MIT database before it was taken offline and have prepared a research paper on their findings.
+- The team highlight the issues of scraping thousands of words from the web that haven't been checked by a human eye and using them to train machine learning systems.
+- 'The very aim of that [WordNet] project was to map words that are close to each other,' Birhane told the Register.
+- 'But when you begin associating images with those words, you are putting a photograph of a real actual person and associating them with harmful words that perpetuate stereotypes.'
+- In a 2018 study titled Gender Shades, a team of researchers discovered that popular facial recognition services from Microsoft, IBM and Face++ can discriminate based on gender and race.
+- The data set was made up of 1,270 photos of parliamentarians from three African nations and three Nordic countries where women held positions.
+- The faces were selected to represent a broad range of human skin tones, using a labelling system developed by dermatologists, called the Fitzpatrick scale.
+- All three services worked better on white, male faces and had the highest error rates on dark-skinned males and females.
+- Microsoft was unable to detect darker-skinned females 21% of the time, while IBM and Face++ wouldn't work on darker-skinned females in roughly 35% of cases.
+- In a 2018 study titled Gender Shades, a team of researchers discovered that popular facial recognition services from Microsoft, IBM and Face++ can discriminate based on gender and race
+- 'You let your fame and your power corrupt you': Eamonn Holmes blasts 'narcissist' Phillip Schofield in bombshell interview, claiming star and lover would 'hit the town on Thursdays' for 'playtime' and reveals how 'life is tough' for the young man
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.foxnews.com/tech/mit-pulls-massive-ai-dataset-over-racist-misogynistic-content
+- This material may not be published, broadcast, rewritten,
+      or redistributed. ©2023 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Powered and implemented by FactSet Digital Solutions. Legal Statement. Mutual Fund and ETF data provided by Refinitiv Lipper.
+- Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.
+- The Massachusetts Institute of Technology permanently took down its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment—because it used a range of racist, misogynistic, and other offensive terms to label photos.
+- In a letter published Monday to MIT’s CSAIL website, the three creators of the huge dataset, Antonio Torralba, Rob Fergus, and Bill Freeman, apologized and said they had decided to take the dataset offline.
+- "It has been brought to our attention that the Tiny Images dataset contains some derogatory terms as categories and offensive images. This was a consequence of the automated data collection procedure that relied on nouns from WordNet. We are greatly concerned by this and apologize to those who may have been affected," they wrote in the letter.
+- According to the letter, the dataset was created in 2006 and contains 53,464 different nouns, directly copied from Wordnet. Those terms were used to download images of the corresponding noun from Internet search engines at the time to collect the 80 million images (at tiny 32x32 resolution).
+- HIGH-TECH GLOVE CAN TRANSLATE SIGN LANGUAGE WITH 99 PERCENT ACCURACY
+- MIT pulled a gigantic artificial intelligence dataset from use this week. (Gettty Images)
+- NEW YORK CITY MAY TEST SEWAGE FOR CORONAVIRUS: REPORT
+- "Biases, offensive and prejudicial images, and derogatory terminology alienates an important part of our community -- precisely those that we are making efforts to include. It also contributes to harmful biases in AI systems trained on such data," they wrote.
+- "Additionally, the presence of such prejudicial images hurts efforts to foster a culture of inclusivity in the computer vision community. This is extremely unfortunate and runs counter to the values that we strive to uphold."
+- Biased datasets can have a major impact on the machine learning technologies and AI programs they are used to train. A range of critics inside and outside of Silicon Vallley have called attention to biases against black people specifically and people of color in general in various AI systems.
+- The dataset will not be re-uploaded.
+- Get a daily look at what’s developing in science and technology throughout the world.
+- Subscribed
+- You've successfully subscribed to this newsletter!
+- This material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Powered and implemented by FactSet Digital Solutions. Legal Statement. Mutual Fund and ETF data provided by Refinitiv Lipper.
+

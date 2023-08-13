@@ -1,0 +1,431 @@
+- Released: 2017
+- Can you improve this page?Share your insights with us
+- Starship Technologies is an Estonian company that makes autonomous delivery robots. Starship launched started launching  commercial services in 2017 in the UK, USA, Germany, and other countries, often in partnership with local supermakets.
+- The robots, which can travel at a max speed of 6 kilometres per hour (3.7 mph), use 10 cameras, ultrasound, radar, and GPS to travel along pavements and cross streets.
+- People have generally welcomed Starship Technologies' robots for their convenience, time-saving, and cuteness. However, there have been instances of robots crashing, getting lost, or taking too much time to make deliveries, leading to negative feedback and, occasionally, physical backlashes.
+- In August 2020, the BBC reported that a Starship Technologies robot delivering groceries in Milton Keynes, UK, veered into a canal. It is not known how the robot made a mistake, or if human interference was to blame.
+- In December 2022, a group of Starship robots in Cambridge, UK, were filmed being kicked by a construction worker, drawing a mixture of sympathy for the robots and concern about their impact on jobs.
+- The same month a Starship robot made the news by thanking a passer-by for his help after it had got stuck on an icy pavement in Cambridge.
+- Operator: Starship Technologies; Co-op; Sodexo; TescoDeveloper: Starship TechnologiesCountry: UK Sector: Transport/logistics Purpose: Deliver groceries Technology: Robotics Issue: Accuracy/reliability; Employment; Robustness, SafetyTransparency: Black box
+URL: https://www.starship.xyz/
+- Over 4 million autonomous deliveries now completed!
+Thousands of Starship delivery robots are operating globally, every day.
+- Starship robots make food and package deliveries more efficient, more convenient and more sustainable - improving everyday life. Our cute robots bring joy to the delivery world and save customers time in the process.
+- Delivery by Starship, our delivery-as-a-service solution for partners, allows stores and restaurants to offer both cost-efficient and energy-efficient last mile deliveries by integrating robots into their delivery fleets.
+- starshiprobots
+- May 19
+- starshiprobots
+- May 17
+- starshiprobots
+- May 11
+- starshiprobots
+- May 4
+- starshiprobots
+- May 4
+- starshiprobots
+- May 3
+- starshiprobots
+- May 2
+- starshiprobots
+- Apr 27
+- starshiprobots
+- Apr 26
+- starshiprobots
+- Apr 25
+- starshiprobots
+- Apr 22
+- starshiprobots
+- Apr 21
+- 
+- 
+- 
+- © Starship Technologies
+- 
+
+URL: https://en.wikipedia.org/wiki/Starship_Technologies
+- 
+- Starship Technologies is an Estonian company developing autonomous delivery vehicles.[1] The company is headquartered in San Francisco, California, with engineering operations in Tallinn, Estonia and in Helsinki, Finland.[2] Starship also has offices in London, UK, Germany, Washington, DC, US, and Mountain View, California, US.[3]
+- In January and February 2022, Starship raised nearly US$100 million in funding from European Investment Bank and venture investors, which is expected to be put towards research and development and 1,700 additional robots to the company’s fleet.[4] The company has raised approximately $202 million since being founded in 2014.[4]
+- Starship Technologies was founded by Skype co-founders Janus Friis and Ahti Heinla.[5] Initially, it was called Project Echo.[2] A core team of the company became the team Kuukulgur, which led by Ahti Heinla had participated in NASA Centennial Challenge by building experimental sample retrieval robots.[2] Starship Technologies OÜ was registered on 11 June 2014 in Tallinn, Estonia.[6] Starship Technologies, Inc., a Delaware corporation, was registered in San Francisco, United States, on 28 September 2016.[7]
+- Starship Technologies launched pilot services in 2016, in the US and the UK among other countries, with commercial services launched in 2017.[8] In April 2018, Starship launched its autonomous delivery service in Milton Keynes, England, in partnership with Co-op and Tesco.[9] In March 2020, Starship became the first robot delivery service to operate in a British town center with the rollout of its service in Milton Keynes.[10] By November 2020, said Starship, Milton Keynes had the 'world's largest autonomous robot fleet'[11] By March 2023 Starship was delivering in seven British cities.[12]
+- In January 2019, Starship partnered with Sodexo to launch robot food delivery services at George Mason University in Virginia, US. With a fleet of 25 robots at launch, this was the largest implementation of autonomous robot food delivery services on a university campus that time.[13][14] In 2019, it expanded its services to other US universities: Northern Arizona University in Flagstaff, Purdue University in West Lafayette, University of Pittsburgh, James Madison University in Virginia, University of Wisconsin in Madison, University of Houston, and University of Texas at Dallas,[15]
+and in 2020 to the University of Mississippi and Bowling Green State University.[16][17][18]
+- In March 2020, following the start of the COVID-19 pandemic, Starship made many redundancies. However, half a year later, and after the US universities reopened, it rehired many of the staff.[19][20][21][22]
+- In October 2021, Starship said that its autonomous delivery robots had completed 2 million deliveries worldwide, with over 100,000 road crossings daily.[23][24]
+According to the company, it reached 100,000 deliveries in August 2019 and 500,000 deliveries in June 2020.[25]
+- As of January 2022, Starship's autonomous delivery robots had made more than 2.5 million autonomous deliveries, and traveled over 3 million miles globally,[1][26] making an average 10,000 deliveries per day.[1]
+- Starship develops and operates electrically-powered last-mile delivery robots. The robots ride on sidewalks with a maximum speed of 6 kilometres per hour (3.7 mph) (pedestrian speed), can be remotely controlled if autonomous operation fails, and are only used for relatively short-distance local delivery.[8] The robots use feature detection of edges and mapping techniques to determine the suitability of navigable terrain.[27] They weigh 55 pounds (25 kg) unloaded, and can carry up to 20 pounds (9.1 kg) of deliveries.[28] Their average battery life is 18 hours, and the typical robot can travel around 40 km per day.[1] The robots are equipped with a sensor suite that includes cameras, GPS,[29] inertial measurement, ultrasonic sensors, radar, and possibly other sensors[citation needed]. The robots have loudspeakers to communicate with humans they meet. Users order Starship deliveries using the company's iOS and Android applications.[1] Once the robot arrives to make a delivery, the user receives an alert and can unlock the robot through the app once their identity has been verified through biometric authentication technology.[30]
+- Before operating commercially the service was tested in over 100 cities and 20 countries around the world.[31] The company operates in the United States, the United Kingdom, Germany, Finland and Estonia. From 2019 Starship has focused mainly on delivery services on college campuses. It has announced plans to expand its service to 100 university campuses in the United States, with the goal of reaching one million students.[32][33] During the COVID-19 pandemic, Starship expanded the number of delivery robots used for grocery in the UK[34][35] and the US to help with the delivery driver shortage.[36][1]
+- According to Starship, its technology operates delivery robots that are "powered by zero carbon electricity, with the average delivery for a Starship robot consuming as little energy as boiling the kettle to make a single cup of tea".[37] Starship Technologies worked in conjunction with Milton Keynes Council to conduct a study to review the impact of zero-emissions robots in cities over the course of 31⁄2 years.[37] According to the study report, "Starship’s fleet has prevented 280,000 car journeys, and over 500,000 miles travelled in cars, leading to 137 tons of CO2 saved, and 22 kg of NOx saved during the study period".[37][38]
+- The Starship's original headquarters were established in London but were moved to San Francisco in 2018.[39]  Its engineering operations are located in Tallinn, Estonia and in Helsinki, Finland.[2]
+- In 2014–2018, Allan Martinson served as the chief operating officer of Starship.[2] In 2018, the chief executive officer Ahti Heinla switched to the position of the chief technology officer and Lex Bayer, Airbnb's former head of business development, payments, and Airbnb for business, was hired as the new CEO.[40] Starship hired Alastair Westgarth, former CEO of Google X company, Loon, as their CEO in June 2021.[41]
+- By 2019, Starship had received US$85 million in venture funding.[32][33] In addition to Janus Friis and Ahti Heinla, other investors include Airbnb co-founder Nathan Blecharczyk, Skype founding engineer Jaan Tallinn, Morpheus Ventures, Shasta Ventures, Matrix Partners, MetaPlanet Holdings, Daimler AG, Grishin Robotics, ZX Ventures, Playfair Capital and others.[33][40][42]
+- In January 2022, Starship received a €50 million investment from the European Investment Bank.[1]
+- Starship also announced a partnership with Veriff in January 2022 to provide authentication and re-verification services for its fleet of autonomous delivery robots in the UK.[43] This partnership makes Starship the first company to create a fully autonomous end-to-end delivery service for age restricted items.[30]
+- Economically, Starship's robots are considered to be cheaper than human-staffed delivery services such as DoorDash, which uses human-driven vehicles. Starship's robots cost US$5500 in 2018, and it was hoped to reduce this to $2250.[44] Fully-charged they can run for 18 hours.[45][46] However, a 2016 McKinsey report said that bicycles were still the most cost-competitive last-mile delivery method: "If droids do not become significantly cheaper, bike couriers are likely to be the best delivery form for instant delivery in urban areas."[47]
+- Automated delivery services using pedestrian spaces—not restricted to Starship—have several problems in busy cities which are not present in quieter locations. They must avoid pedestrians on busy footways, which may be narrow, and are subject to vandalism, even if cargo is secured against theft. Starship have said "After our robots have been in an area for a while, people get used to them. They become part of the community and residents look out for their well-being", though the robots did sometimes get kicked. They must compete with bicycle couriers for short-distance small deliveries.[47]
+
+URL: https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53678376
+- A delivery robot had to be rescued when it veered into a canal.
+- The machine, one of many which deliver take-aways and groceries in Milton Keynes, went into water near New Bradwell on 28 July.
+- Bex Morgan said she had been walking her dog when the "robot just drove straight into the canal".
+- Starship Technologies, which developed and runs the robots, said anyone who spots one of its machines "swimming" should get in touch.
+- The robots are a regular sight in Milton Keynes and use 10 cameras, ultrasound, radar and GPS to travel along pavements and cross streets to make their deliveries.
+- Ms Morgan posted on Facebook how she witnessed the robot lose its way and plunge into the canal.
+- She said Starship Technologies had "gone to fish it out".
+- The robot's plight spread across the social media platform, with the MK Community Hub page asking whether it had been "so hot from the weather he tried cooling down".
+- A spokesman for Starship Technologies said: "If people see a robot not moving, they shouldn't do anything because we're aware of where every single robot is to the nearest inch and it may just be having a rest."
+- "However if on the rare occasion someone sees a robot swimming or in any other odd situation then feel free to email community@starship.xyz with the details."
+- Find BBC News: East of England on Facebook, Instagram and Twitter. If you have a story suggestion email eastofenglandnews@bbc.co.uk
+- Robot parcel delivery starts
+- Robot company plans 1,000 delivery bots
+- Herts Chamber of Commerce CEO Briege Leahy to step down
+- Hertsmere: Applications open for community grants programme
+- Hertsmere: Applications open for community grants programme
+- Herts Chamber CEO reflects on ‘deep emotional tie’ as she steps down
+- Have you seen the new bench on our High Street designed by Hitchin Hackspace in collaboration with Tom Hardy and his team
+- Rail company apologises after Bucks passengers get left behind
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Lula welcomes back banned Venezuelan leader
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.miltonkeynes.co.uk/news/people/watch-delivery-robot-rescued-teenager-milton-keynes-after-getting-stuck-upside-down-2962174
+- Carers in Milton Keynes will be entitled to 5 days of unpaid leave per year
+- East West Rail moves a step closer for Milton Keynes after major route announcement in updated proposals
+- A robot in distress needed rescuing by a valiant young passer-by - after the machine got stuck UPSIDE-DOWN on a grassy cycle path.
+- The robot, part of the popular Starship delivery fleet in Milton Keynes, ran into a bit of trouble mid-journey on Wednesday, and ended up tipped the wrong way up.
+- Advertisement
+- Advertisement
+- It is not yet known how the robot took a tumble, or if human interference was to blame.
+- But Jack Graves, 17, who was passing by with a friend, spotted the robot's plight - and quickly took action to turn the robot over back onto its wheels, and see it on its merry way.
+- In a short video clip, guitar teacher Jack, from Milton Keynes, can be seen spotting the robot, and approaching it to turn it the right way up.
+- Jack said: "The robots are quite important in Milton Keynes - they help a lot of people out.
+- Advertisement
+- Advertisement
+- "That one could have been carrying food for a person who really needed it.
+- "I just filmed it to show people that you can help them. I think a lot of people think that alarms will go off on the robot if you try to touch them or help them - but that's not the case.
+- "And normally, when people see someone doing a good deed, it makes them more inclined to do a good deed themselves."
+- Jack added he did not know how long the robot had been stuck for.
+- Advertisement
+- Advertisement
+- And after he righted it, it sat still on the path for a few moments, before continuing on its journey.
+- The robot, developed by technology company Starship, is part of a fleet of 100 autonomous delivery vehicles used to deliver groceries and takeaway food to residents of Milton Keynes.
+- The electric robots can carry up to two full grocery bags of shopping, making them perfect for shoppers who just need to buy the basics, like milk or bread.
+- The popular, electric-powered robots move at pedestrian speed, around six kilometers an hour, and can navigate easily around objects and people.
+- Advertisement
+- Advertisement
+- They are also programmed to say 'thank you' if someone helps them.
+- And seeing the robot tipped upside-down certainly bought out unexpected emotions among the residents of Milton Keynes.
+- Ann Sweeney commented: "Oh no! Poor baby."
+- And Susan Hassett wrote: "I keep an eye out for them when they have to navigate the entrance to the building site opposite us, it’s very rough ground, I worry about them getting stuck."
+- Advertisement
+- Advertisement
+- And Anita Raichura added: "Well done boys. I think the robots are fab and make me smile whenever I see them. Really hope no one deliberately pushed it over."
+- A spokesman for the robot inventors, Starship, said: “The robots appreciate a helping human hand when they’re in need. Anyone should feel free to contact [email protected] if they see anything out of the ordinary, thank you!”
+
+URL: https://www.fox5ny.com/news/delivery-robot-plunges-into-canal
+- Share
+- 
+- NEW YORK - A British company has urged residents not to worry if they see one of its robots in distress after a delivery robot fell into a canal.
+- Milton Keynes resident Bex Morgan said she was walking her dog when she saw the Starship Technologies robot drive “straight into the canal.” She posted on Facebook about the incident, and the pictures started circulating social media, prompting a statement from the company.
+- "If people see a robot not moving, they shouldn’t do anything because we’re aware of where every single robot is to the nearest inch and it may just be having a rest,” a Starship spokesman told the MK Citizen. "However, if on the rare occasion someone sees a robot swimming or in any other odd situation then feel free to email community@starship.xyz with the details."
+- If an unauthorized person tries to pick the robot up, the robot will “screech” loudly.
+- “We have had incidents. But we feel comfortable with where we’re at right now, because no one has managed to steal one or anything like that,” spokesman Henry Harris-Burland told The Engineer magazine.
+- Get breaking news alerts in the FOX5NY News app. It is FREE! Download for iOS or Android
+- Starship rolled out the robots in 2015, with the beer cooler-sized machines bringing small deliveries to residents in various test-pilot neighborhoods. Milton Keynes has hosted the first commercial deployment in the UK in March, just as Britain entered its coronavirus lockdown, the Guardian reported.
+- The robots are a regular sight in Milton Keynes and use 10 cameras, ultrasound, radar and GPS to travel along pavements and cross streets to make their deliveries.
+- AMAZON TESTS SELF-DRIVING DELIVERY ROBOTS
+- “I’ve got a fairly young demographic in my ward, and they love it,” Sam Crooks, the mayor of Milton Keynes, said. “There was obviously a burst of use at the beginning, because of the novelty, but already it’s just a part of people’s routines.”
+- Read more at FoxBusiness.com
+- All the news you need to know, every day
+- By clicking Sign Up, I confirmthat I have read and agreeto the Privacy Policy and Terms of Service.
+- 
+- This material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX Television Stations
+
+URL: https://www.foxbusiness.com/technology/british-delivery-robot-canal
+- Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset.
+            Powered and implemented by FactSet Digital Solutions. 
+            Legal Statement. Mutual Fund and ETF data provided by Refinitiv Lipper.
+- This material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX News Network, LLC. All rights reserved. FAQ - New Privacy Policy
+- A British company has urged residents not worry if they see one of its robots in distress after a delivery robot fell into a canal.
+- Milton Keynes resident Bex Morgan said she was walking her dog when she saw the Starship Technologies robot drive “straight into the canal.” She posted on Facebook about the incident, and the pictures started circulating social media, prompting a statement from the company.
+- TIRED OF ZOOM CALLS? COMPANY OFFERS AT-HOME HOLOGRAM MACHINES
+- "If people see a robot not moving, they shouldn’t do anything because we’re aware of where every single robot is to the nearest inch and it may just be having a rest,” a Starship spokesman told the MK Citizen. "However, if on the rare occasion someone sees a robot swimming or in any other odd situation then feel free to email community@starship.xyz with the details."
+- If an unauthorized person tries to pick the robot up, the robot will “screech” loudly.
+- “We have had incidents. But we feel comfortable with where we’re at right now, because no one has managed to steal one or anything like that,” spokesman Henry Harris-Burland told The Engineer magazine.
+- HAWAII AIRPORTS USE THERMAL SCREENING TO PREVENT CORONAVIRUS SPREAD
+- Starship rolled out the robots in 2015, with the beer cooler-sized machines bringing small deliveries to residents in various test-pilot neighborhoods. Milton Keynes has hosted the first commercial deployment in the UK in March, just as Britain entered its coronavirus lockdown, the Guardian reported.
+- The robots are a regular sight in Milton Keynes and use 10 cameras, ultrasound, radar and GPS to travel along pavements and cross streets to make their deliveries.
+- CLICK HERE FOR THE FOX NEWS APP
+- “I’ve got a fairly young demographic in my ward, and they love it,” Sam Crooks, the mayor of Milton Keynes, said. “There was obviously a burst of use at the beginning, because of the novelty, but already it’s just a part of people’s routines.”
+- Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset.
+            Powered and implemented by FactSet Digital Solutions. 
+            Legal Statement. Mutual Fund and ETF data provided by Refinitiv Lipper.
+- This material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX News Network, LLC. All rights reserved. FAQ - New Privacy Policy
+
+URL: https://www.miltonkeynes.co.uk/news/people/one-milton-keynes-famous-starship-robots-found-face-down-river-2933564
+- Carers in Milton Keynes will be entitled to 5 days of unpaid leave per year
+- East West Rail moves a step closer for Milton Keynes after major route announcement in updated proposals
+- Their comments come after photos of one of the friendly robots face down in a river are circulating on social media.
+- The picture was snapped last week and the location is unknown.
+- Advertisement
+- Advertisement
+- But it seems the robot was rescued and is now fully recovered.
+- A Starship spokesman told the Citizen: "If people see a robot not moving, they shouldn’t do anything because we’re aware of where every single robot is to the nearest inch and it may just be having a rest."
+- He added: "However, if on the rare occasion someone sees a robot swimming or in any other odd situation then feel free to email [email protected] with the details."
+- Advertisement
+- Advertisement
+- Starship robots have delivered food and takeaway meals to thousands of customers in MK during lockdown. They delivered free to NHS workers and even joined in the Thursday night tributes to the NHS, blinking their headlights instead of clapping.
+- The 4mph machines can carry items within a four mile radius. Customers book a delivery through a mobile app and, once ordered, the robots' entire journey and location can be monitored on a smartphone.
+- If anybody unauthorised tries to pick them up, the robots will "screech" a loud alarm.
+- Advertisement
+- Advertisement
+- Starship spokesman Henry Harris-Burland told The Engineer magazine: “We have had incidents. But we feel comfortable with where we’re at right now, because no one has managed to steal one or anything like that. There’s alarms if you pick it up. As soon as you pick it up it’s like a screeching car alarm going off.”
+- The robots move at pedestrian speed, can steer around objects and people and can cross roads safely. They use machine vision, sensor fusions and GPS to navigate, enabling them to build up a detailed picture of their environment over time.
+- .
+
+URL: https://medium.com/geekculture/heres-how-robots-are-taking-over-the-world-f92ce160cb93
+- Member-only story
+- Shamar M
+- Follow
+- Geek Culture
+- --
+- 4
+- Share
+- Just like every family, there is always someone consistently posting irrelevant stuff in the family WhatsApp group. I’m the one who…
+- --
+- --
+- 4
+- Geek Culture
+- Based in the UK. PG DIP HR Management. Chief of publication The First Time. Editor in About Me Stories. Top Writer in Feminism and This Happened To Me.
+- Shamar M
+- in
+- Feedium
+- --
+- 40
+- Jacob Bennett
+- in
+- Geek Culture
+- --
+- 15
+- Sung Kim
+- in
+- Geek Culture
+- --
+- 13
+- Shamar M
+- --
+- 61
+- Patrick Metzger
+- in
+- Crow’s Feet
+- --
+- 111
+- Rui Alves
+- in
+- The Generator
+- --
+- 47
+- Thomas A Dorfer
+- in
+- Towards Data Science
+- --
+- 9
+- Sam Westreich, PhD
+- --
+- 17
+- Shankar Narayan
+- --
+- 11
+- The PyCoach
+- in
+- Artificial Corner
+- --
+- 377
+- Help
+- Status
+- Writers
+- Blog
+- Careers
+- Privacy
+- Terms
+- About
+- Text to speech
+
+URL: https://www.hottytoddy.com/2020/02/06/new-food-delivery-robots-generally-well-accepted-after-first-week/
+- By Emily Dewitt
+Hottytoddy.com intern
+esdewitt@go.olemiss.edu
+- The start of the spring semester began with the addition of Starship Robots, an on-campus food delivery service, that helps relieve a bit of stress from hungry students by saving them from standing in long food lines.
+- The robots have been in action for about a week and they’ve invoked curiosity, awe and in a few cases, frustration since their arrival.
+- Morgan Daily, a junior at Ole Miss, said she uses them constantly since the fleet arrived on campus.
+- “I personally really like them. They are definitely a fun novelty, but as someone who lives on campus it is super convenient – especially when it’s cold out and I don’t want to leave the house,” Daily said.
+- She continued on about the stigma circling campus that the robots are creating a lazy environment for students.
+- “I get how people can think it’s lazy, but when I’m studying and want to eat, I can continue to work rather than go to the Union and become distracted,” Daily said. “It can be slow at times because it gets stuck at crosswalks, but it takes about the same time as a person delivering.”
+- According to a Starship spokesperson, the robots are meant to make students’ lives a little easier. Time is hard to come by in college and stress is always present, so they wanted to create something that would help both. These robots have traveled more than 350,000 miles and crossed more than 5 million roads while making more than 100,000 deliveries in several countries. Starship Technologies began in 2014 and was founded by Skype co-founders Janus Friis and Ahti Heinla.
+- “We are a company building a network of robots ready to serve you anytime, anywhere,” the Starship Technologies website states.
+- Campus seems to be embracing this innovation, but what about the competing delivery services? Cody Bryan, a DoorDash employee, said the robots have not affected his work at all.
+- “Doordash does not deliver food from campus to students. We only deliver food off-campus, to students,” Bryan said.
+- Hailey Rikard, another junior, had an interesting experience with the delivery service.
+- “I ordered Starbucks just for fun and it took over an hour to get my drink,” she said. “Someone had to get it for me because I had to go to class. My robot had also gotten lost so it took them forever to find it.”
+- Rikard said that although the robots aren’t perfect, she loved seeing them around campus and if she had enough time next time she would order from them again.
+- Freshman Sarah Ruffin said she was accidentally hit by one of the robots that are supposed to stop for pedestrians as she was walking.
+- “I was walking out of the Union down the steps, where they load the food into the robots, crossing the crosswalk towards the ROTC building and I went around the robot—that was already halfway in the street—to avoid being hit, but I guess it thought there was a car coming so it backed up really fast right into me,” Ruffin said. “I have a bruise on my leg and everything. It was just really weird.”
+- When asked about how to deal with any incidents like Ruffin’s, Kathy Tidwell, manager of contractual services and director of university licensing, commented on the university’s procedure used for these instances.
+- “All vendors for the University must have insurance,” Tidwell said. “The robots have cameras and GPS so Starship knows where they are at all times and they have a repair team on-site to correct problems.”
+- Hotty Toddy News is the trusted source for news, sports, and more in the LOU community. Follow us (@HottyToddyNews) for the latest coverage.
+- 
+- 
+
+URL: https://www.ladbible.com/news/man-kicks-delivery-robot-faces-backlash-234287-20221217
+- To make sure you never miss out on your favourite NEW stories, we're happy to send you some reminders
+- Click 'OK' then 'Allow' to enable notifications
+- Published 17:07, 17 December 2022 GMT| Last updated 20:04, 20 December 2022 GMT
+- People are flocking to social media in outrage after a man was caught on camera kicking a 'poor' delivery robot.
+- Prepare to feel like you're in an episode of Black Mirror:
+- Loading…
+- It may be a week before Christmas, but one man is yet to feel the festive spirit, having been recorded unleashing his Grinch-like bad energy onto a Starship food delivery robot.
+- With some of the 'grocery badgers' dressed up as reindeer, the man is sure to end up on Santa's naughty list.
+- But that's if an angry mob of TikTokers don't get to him first, one user having resolved to 'find the man and tell him off' for lashing out at the 'innocent' robot.
+- While the evolution of robots could be considered as a cause for concern - one particular android having to be shut down by its owner after saying artificial intelligence is a 'threat' - the 'grocery badgers' which have been spotted around Cambridge are simply programmed to pick up deliveries from Co-op and drop them off to residents.
+- Alas, despite the best intentions of the robots - using a combination of machine learning, AI and sensors to navigate their way along the streets - a TikTok video has exposed a man in a high-vis jacket for giving one 'poor' android a good few kicks.
+- Fair enough, it's definitely quite an alarming sight to see - a herd of small robots with flags meandering their way down the street towards you. But you could just cross to the other side of the road or sprint the other way.
+- Perhaps the man was trying to help the robot make its way across the icy pavement? Whatever his intentions, the forceful nature of his kicks has ruffled a fair few feathers online.
+- Many social media users have since flooded to the video in outrage over the man's treatment of the bot.
+- One said: "Why did he kick them? I even felt sorry."
+- "These robots are learning now. And they WILL remember," another warned.
+- A third commented: "Come on it's just a robot but why do I feel bad for it when he kicked it?"
+- "They need to stop with these innocent robots they can get so easily manipulated and abused they're just on their own all vulnerable," a fourth said.
+- A final resolved: "This should be taken to the police or the people who are in charge of the robots. The man who kicked it should have a fine."
+- A Starship spokesperson jokingly told LADbible: "The overwhelming majority of residents in Cambridge have really taken in our robots as part of the community and we’re proud to serve them.
+- "On this occasion though, our little robots will remember this unfriendly human, ready for the inevitable robot uprising scheduled sometime in the future."
+- Featured Image Credit: @seenintheworld/TikTok
+- Topics: TikTok, Viral, Social Media, Technology, UK News
+
+URL: https://www.thesun.co.uk/tech/20793591/coop-delivery-robots-cambridge-kicked-by-workers-tiktok/
+- AN ANGRY construction worker has been slammed after he kicked food delivery robots and TikTok viewers felt sorry for "the little guys."
+- Footage shows the man dressed in an orange high-vis suit repeatedly kick the innocent little robot into bushes at the side of the pavement.
+- Outraged social media users rushed to the defence of the 'grocery badgers' that deliver Co-op food to nearby residents in Cambridge.
+- Other AI-guided motors also travelled alongside but struggled on the icy pavements.
+- People flooded the comment section with sympathy for the food delivery robots.
+- One person posted: "Awww poor robots leave them alone they are only trying to do our jobs."
+- Another wrote: "I like these little guys, always give me a chuckle when I see them navigating obstacles."
+- "Is it just me or do others feel bad when something happens to these guys," a third added.
+- Someone else even suggested "the man who kicked it should have a fine."
+- But other people poked fun at the situation, "where are their winter tyres?" they asked, amid the snowy weather.
+- "Just need better tyres and they will be solid for next run," a second commented.
+- Ironically, a Deliveroo rider was also spotted in the video, watching the robot cross the road at a set of lights.
+- TikTok users pointed out: "Deliveroo driver looking at their job getting taken away."
+- "Deliveroo guy giving them evils," another joked.
+- A spokesperson for Starship said: "The overwhelming majority of residents in Cambridge have really taken in our robots as part of the community and we're proud to serve them.
+- "On this occasion, our little robots seem upset by this unfriendly human’s behaviour, but it’s all part of their learning process out there in the big wide world, and they’ve got a long memory.”
+- But other people were not so supportive of the grocery badgers and left comments expressing their frustration.
+- One said: "They're taking up a big portion of the sidewalk, they're motorised vehicles, they really should be on the road."
+- "Or, and hear me out, we give a person a job to do this delivery for a reasonable wage, just a thought," someone else posted.
+- Another claimed: "If the temperature is freezing the battery becomes flat and they stop in the middle of the street impairing traffic."
+- A spokesperson for Co-op said: "In terms of continuing with the Robots, they are going from strength to strength and we have just expanded the service into Leeds area, as they are extremely popular with our customers where they provide a quick and convenient shopping delivery service in all the locations we operate them in.
+- "There are no plans to stop using them."
+- Dani Dyer reveals adorable names she's called her twin daughters
+- Schofield breaks silence on This Morning axing blaming ‘people with grudges’
+- Love Island full cast revealed from Corrie star's daughter to legend's pal
+- Phil Schofield snapped with young aide as insider says relationship was 'odd'
+- ©News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy. To inquire about a licence to reproduce material, visit our Syndication site. View our online Press Pack. For other inquiries, Contact Us. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the Independent Press Standards Organisation (IPSO)
+- Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click this link: thesun.co.uk/editorial-complaints/
+
+URL: https://www.dailymail.co.uk/news/article-11550997/Construction-worker-filmed-KICKING-food-delivery-robot-faces-backlash-people-feel-sorry-it.html
+- By Hannah Mcdonald For Mailonline
+- Published:  10:58, 18 December 2022   |  Updated:  11:37, 18 December 2022
+- 
+- 1.3k
+- View  comments
+- 
+- A construction worker who was filmed kicking a food delivery robot has faced online backlash from viewers who claimed they 'felt sorry' for the machine.
+- The video, posted on TikTok, shows the delivery robots struggling to navigate in the snowy conditions.
+- Four robots are seen getting stuck along their journey before getting kicked by a construction worker wearing an orange jumpsuit.
+- Some people shared their upset at the video saying they felt bad for the robots while others raised their concerns over a 'villain back story' of the machines starting to 'plot against us'.
+- A construction worker who was filmed kicking a food delivery robot has faced online backlash from viewers who claimed they 'felt sorry' for the machine
+- Four robots are seen getting stuck along their journey before getting kicked by a construction worker wearing an orange jumpsuit
+- Frozen Cambridge delivery robots in trouble. Part 2 Humans "trying" to help #ice #frozen #starshiprobots #fooddelivery #unitedkingdom #seenincambridge #winter #robots #coopfoodmarket #cambridge #help #human #introuble
+- The 'grocery badgers', which have been spotted around Cambridge, are programmed to pick up supplies from supermarket Co-op and deliver them to residents.
+- The robots use a combination of machine learning, AI, and sensors to navigate their way along the streets however the challenging winter conditions have proved too much for them.
+- It is not known whether the man kicking the robots was trying to help them on their way or not.
+- However the force of the kick has caused social media users to express their concern for the 'little guys'.
+- The force of the kick has caused social media users to express their concern for the 'little guys' but it is not known if the construction worker was trying to help them on their way
+- The 'grocery badgers', which have been spotted around Cambridge, are programmed to pick up supplies from supermarket Co-op and deliver them to residents
+- It seems the 'grocery badgers' are causing division as some felt sorry for them while others saw them as an annoyance.
+- One TikTok user commented: 'Why did he kick them? I even felt sorry,' with another suggesting that instead of kicking it, the man should have helped it on its way and they 'need better wheels for the winter.'
+- Another fan of the robots said: 'I like these little guys, always give me a chuckle when I see them navigating obstacles.'
+- While another hinted at a possible concern the robots were taking jobs away from humans by saying: 'Awww poor robots leave them alone, they are only trying to do OUR jobs.'
+- 
+- 
+- 
+- It seems the 'grocery badgers' are causing division as some felt sorry for them while others saw them as an annoyance
+- One user said they work for Co-op and claimed the company is 'doing away with the robots' as '78%' of deliveries have an issue.
+- Some viewers were really not a fan of the 'grocery badgers', with one claiming the pavement is for humans and to 'turn them on their backs'.
+- A spokesperson for Starship said: 'The overwhelming majority of residents in Cambridge have really taken in our robots as part of the community and we're proud to serve them.
+- 'On this occasion though, our little robots will remember this unfriendly human, ready for the inevitable robot uprising scheduled sometime in the future.'
+- Share what you think
+- The comments below have not been moderated.
+- The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+- We are no longer accepting comments on this article.
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.bbc.co.uk/news/uk-england-cambridgeshire-63997868
+- A delivery robot that got stuck in the snow has thanked the man who put it back on the right track.
+- Graham Smith came across the robot struggling to mount an icy kerb in Cherry Hinton, Cambridge, on Monday.
+- Posting a photo on Facebook, he said he was concerned about the plight of the "poor little mite", which said "thank you" after he helped it up the kerb.
+- Starship Technologies, which run the robots, said they were designed to run at temperatures as low as -20C (-4F).
+- They were introduced in Cambridge last month.
+- Heavy snow fell across the city on Sunday night and by Monday it was blanketed in white.
+- A photo taken late on Sunday shows several of them happily trundling along a snowy pavement in Cambridge.
+- However, the Cherry Hinton bot hit a bit of bother on its journey the following day.
+- Mr Smith, who was out walking in Chequers Close, spotted it having trouble and took a photograph.
+- On his Facebook post he wrote: "Saw this poor little mite trying to negotiate a high, slippery kerb in Chequers Close earlier today, wheels spinning like crazy, we gave it a push onto the path, it very politely thanked us and carried on its way.
+- "Should it have been let out on its own in these weather conditions? It didn't even have a scarf."
+- He said the robot "looked a little lost" as it came across the road and then became stuck on the snow and ice trying to mount the kerb.
+- "I lifted its back end up to help it on, and it shunted backwards and forwards a bit, and then said 'thank you very much' before heading away."
+- A Starship Technologies spokesman said: "Our little helpers are busy delivering in the run up to Christmas, and a light dusting of snow won't stop them.
+- "They're designed to deliver in a range of different weather conditions, and although temperatures in the UK have fallen these past few days, the robot's batteries are designed to operate at -20C."
+- Find BBC News: East of England on Facebook, Instagram and Twitter. If you have a story suggestion email eastofenglandnews@bbc.co.uk
+- 'Very English' robots form orderly crossing queue
+- Food delivery robot pilot expands to city
+- People may get one last chance to voice opinion on Wisbech incinerator
+- Fenland woman helps ukulele band smash fundraising target for life-saving air ambulance
+- Steeplejacks check spire at Our Lady of The Assumption and The English Martyrs Church, Cambridge
+- Celebrate and explore nature at this year’s Cambridge Nature Festival
+- Memorial night to go ahead for popular Peterborough poet Ron Graves at pub
+- Watch as 'man with 'gun' fails to rob Peterborough shop’
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Lula welcomes back banned Venezuelan leader
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+- São Geraldo Magela drone delivery
+- Instacart gig shopper robotisation
+- Page infoType: SystemPublished: December 2021Last updated: January 2023

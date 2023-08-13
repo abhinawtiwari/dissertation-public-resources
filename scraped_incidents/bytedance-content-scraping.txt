@@ -1,0 +1,328 @@
+- Occurred: April 2022
+- Can you improve this page?Share your insights with us
+- TikTok parent company Bytedance scraped content from Instagram, Snapchat and other platforms and used them to train the algorithms of Flipagram, a TikTok predecessor, according to a Buzzfeed report.
+- Former employees and internal documents reveal Bytedance took hundreds of thousands of short-form videos, usernames, profile pictures, and profile descriptions without the knowledge of their owners or the social media platforms on which they had been posted.
+- Two employees told Buzzfeed the scraped content was later used to train the US version of TikTok's 'For You' recommendation algorithm.
+- Bytedance denies the allegations.
+- Operator: ByteDance/TikTok/Flipagram Developer: ByteDance/TikTok/FlipagramCountry: China Sector: Technology Purpose: Recommend content Technology: Content recommendation system Issue: Privacy; Copyright Transparency: Governance; Privacy
+URL: https://www.buzzfeednews.com/article/emilybakerwhite/bytedance-scraped-fake-accounts-instagram-snapchat
+- The China-based company scraped public accounts and then duplicated them on Flipagram, a predecessor to TikTok, according to four former employees and documents viewed by BuzzFeed News.
+- BuzzFeed News Reporter
+- In 2017, TikTok’s parent company, ByteDance, scraped short-form videos, usernames, profile pictures, and profile descriptions from Instagram, Snapchat, and other sources and then uploaded them — without users’ knowledge or consent — to Flipagram, a TikTok predecessor, according to four former employees of the company.
+- BuzzFeed News spoke with the four former ByteDance employees, all of whom worked on Flipagram (later renamed Vigo Video), and viewed internal documents that indicate the scraping was run by an engineering team in China and began soon after ByteDance acquired Flipagram in January 2017. The former employees described the project as one of several “growth hacks” — including the manipulation of like and video view statistics — employed by the company. One of the former employees said the scraping affected hundreds of thousands of accounts, and a document viewed by BuzzFeed News detailed plans to “crawl video > 10k/day in P0 countries” — according to the former employee, this meant the team’s goal was to scrape more than 10,000 videos a day in the highest priority countries. The former employees spoke to BuzzFeed News under the condition of anonymity because they feared retribution from ByteDance.
+- The former employees do not know when the scraping they say they were aware of stopped. Two of them say that the scraped content was used to train ByteDance’s powerful “For You” personalization algorithm on US-based content so that it would better reflect the preferences of US users. Today, the “For You” algorithm powers both TikTok and its Chinese equivalent, Douyin. (Disclosure: In a previous life, I held policy positions at Facebook and Spotify.)
+- BuzzFeed News sent ByteDance a comprehensive list of the allegations we intended to print in this article as well as a detailed set of questions, including if data sets from Flipagram were ever used to train the “For You” algorithm that powers TikTok today or to train any other algorithms currently in use by ByteDance.
+- In response, ByteDance spokesperson Jennifer Banks wrote back two sentences: “ByteDance acquired Flipagram in 2017 and operated it, and subsequently Vigo, for a short time. Flipagram and Vigo ceased operations years ago and aren't connected to any current ByteDance products.”
+- Flipagram founder and former CEO Farhad Mohit did not respond to requests for comment, nor did his cofounders Raffi Baghoomian and Joshua Feldman. BuzzFeed News did reach Brian Dilley, who was Flipagram’s chief technology officer until October 2017, at his home. When asked whether the company had been scraping and reuploading content in 2017, he replied, “No, in fact I’m positive we were not.” He then ended the interview. BuzzFeed News sent Dilley a follow-up email asking for him to elaborate on his answer and explain his understanding of what was happening at the time. Dilley reiterated that the company had not scraped other platforms during his time there.
+- The documents reviewed by BuzzFeed News include explicit references to scraped content and the use of fake accounts. In one document, an employee lays out the reasons that the company used “fake accounts” and scraped content; among them were that the accounts could be used to test which content performed best on the platform, and that current users could mimic the scraped content to improve their own popularity. In another document, a different employee explains that a certain account had been scraped and copied onto Flipagram from Instagram. A third document lists account scraping as an “OKR” (‘objective and key result’) for an engineering team in China.
+- According to the documents, ByteDance began copying content from some of its China-focused short-form video apps and uploading it to Flipagram through fake accounts in early 2017. One document details how the company tried to curate content that was “not too Chinese” and would resonate with US users, but three of the former employees say the content still didn’t perform well with Flipagram’s user base.
+- The ByteDance logo is seen at the company’s headquarters on Jan. 6, 2022, in Shanghai, China.
+- In mid-2017, according to the four former employees, ByteDance began scraping and reuploading content from the US. Three of the former employees, and one of the documents, identify Instagram as a source of the scraped content. Two of the former employees remember the company scraping and uploading content from Snapchat and Musical.ly — an app popular with tweens and teens that ByteDance acquired in late 2017, and that would eventually become TikTok.
+- One of the former employees who identified Snapchat and Musical.ly as sources of the scraping did not identify Instagram as one. This person expressed doubt that the platform was scraped because at least some Instagram videos at the time were square in shape, and videos in the Flipagram app were not. However, another former employee told BuzzFeed News that they recalled conversations about resizing videos and removing watermarks placed on content by other platforms, so that users could not tell that the scraped content originated elsewhere.
+- Instagram’s and Snap’s terms of service forbade scraping in 2017, as they do today. At the time, Musical.ly’s terms of service prohibited users from “mak[ing] unauthorized copies of any content made available on or through” the platform.
+- Jason Grosse, a representative for Instagram’s parent company Meta, said the company would not comment at this time. Russ Caditz-Peck, a spokesperson for Snap, said, “Our Terms of Service prohibit scraping and reposting public content from our services, and we implement defenses to limit such attempts.”
+- In other circumstances, allegations that companies have scraped and reused content without permission have spurred litigation, both by companies and individuals who made the content in question. (Scraping, or crawling, which simply means using a computer to copy information at scale, can also be an invaluable research tool for researchers and journalists seeking to better study and analyze public content.) Companies that have used fake accounts to lure users to their platforms have also been sued by state and federal regulators for deceptive business practices.
+- Flipagram’s former headquarters on Sunset Boulevard in West Hollywood on July 16, 2014.
+- Some people noticed that their content had been uploaded to Flipagram without their knowledge or consent, according to the four former employees and complaints made on Twitter. The four former employees told BuzzFeed News that the company received emails from creators who said they were being impersonated on the app. Two of those people recall inquiries from parents asking why their children’s content was on a platform that neither they nor their children had ever heard of. The four sources said employees were instructed to delete the offending accounts or give the person complaining control over them, and tell the complaining creators that Flipagram cannot prevent a user (or fan) from uploading someone else’s content.
+- The former employees also described other “growth hacks” that ByteDance used to try to make Flipagram popular in 2017. According to three of the former employees, the company manipulated like and video view counts displayed in the app to make creators believe they were more popular than they were. “One like was not one like,” said a former employee who witnessed the manipulation. (Facebook has faced similar allegations that it knowingly inflated video view metrics to increase advertising revenue, which it has disputed.)
+- According to an internal document, ByteDance also capped video views from scraped content at a certain level; one of the former employees explained this was so that scraped content views would not overwhelm content posted by real Flipagram users. Additionally, according to two sources, Flipagram limited how frequently it would recommend “cross-posts” — content posted first to other platforms, and then reposted to Flipagram — to incentivize creators to post content first to Flipagram and only later to other platforms.
+- ByteDance did not respond to questions about manipulation of metrics and recommendations practices for Flipagram.
+- One former employee portrayed ByteDance’s growth tactics as a symptom of a larger, industry-wide obsession with growth at any cost. "The US public and US media often attribute unethical growth strategies practiced by Chinese tech companies to ‘Chinese tech culture,’ when very often those tactics are directly copied from FAANG companies," they said, using an acronym for the American tech giants Facebook, Amazon, Apple, Netflix, and Google. Invoking Steve Jobs’ famous quote that “great artists steal,” and Mark Zuckerberg’s controversial axiom “move fast and break things,” this person continued: “Chinese tech culture is not the enemy. Chinese tech culture is an honest mirror.”
+- Farhad Mohit
+- Flipagram was founded in Los Angeles by Farhad Mohit in 2013 as a photo collage and short-form video app. It attracted a young audience — largely teens and tweens — and was once viewed as a threat to Instagram. In January 2017, it was acquired by ByteDance’s news aggregator app, Toutiao, which later rebranded it as Vigo Video. Later that year, ByteDance also acquired the lip-synching app Musical.ly, one of Flipagram’s key rivals.
+- For a while, staff for the two apps worked alongside one another in Flipagram’s open-plan office building in Los Angeles. The former employees described the period as awkward; as one former employee put it, the teams’ history of competition “led to an uncomfortable and very uncollaborative energy in the workplace.” The products, the source said, “were so similar I don’t think anyone felt like ByteDance was going to put their funding fully behind both.” In February 2018, ByteDance laid off members of the LA-based Flipagram team. Months later, it rebranded Musical.ly as TikTok.
+- The relationship between Flipagram and TikTok is described differently by different people. On his website and LinkedIn profile, Flipagram founder Mohit describes Flipagram as “now TikTok.” Flipagram’s company profile on LinkedIn describes it the same way. But when ByteDance rolled out TikTok in the US, it was Musical.ly users, not Flipagram users, who opened their apps to a new name, logo, and experience.
+- ByteDance also did not answer questions from BuzzFeed News about where and how it stored any data it allegedly scraped from Instagram and other platforms. TikTok has undergone a massive initiative in the past year to isolate data from users inside the US in an effort to quell regulators’ fears that the data could be accessed by the Chinese government. But it is unclear whether data from Flipagram — including the allegedly scraped data — was ever kept in data centers in China, or whether it remains there today.
+- When reached for comment by BuzzFeed News about the alleged scraping, Sen. Richard Blumenthal called on regulators to investigate: “The FTC must swiftly investigate ByteDance’s alleged theft of data from Instagram and Snapchat users — including kids and teens — to deceive the public and boost their algorithm. This type of wrongful and greedy corporate conduct only underscores the urgent need for Congress to pass stronger kids’ privacy and safety legislation.”
+- This is not the first time ByteDance has been accused of controversial intellectual property practices. Last year, competing Chinese tech giant Tencent filed numerous claims against ByteDance for alleged copyright infringement on its Douyin app. Audiovisual software company Beijing Meishe Network Technology Co. also filed a suit alleging that the company stole, and removed copyright restrictive language from, proprietary code. (ByteDance did not respond to a request for comment on either of the suits.) The company has also faced privacy lawsuits in the past: ByteDance agreed to pay $92 million last year to settle a lawsuit alleging that the company harvested biometric information from TikTok users without permission. When asked for comment by the Associated Press at the time, TikTok provided the following statement: “While we disagree with the assertions, rather than go through lengthy litigation, we’d like to focus our efforts on building a safe and joyful experience for the TikTok community.”
+- Flipagram had a fraught history with intellectual property too, even before ByteDance acquired it. In 2016, CEO Farhad Mohit admitted that the company had initially allowed users to create content using music that the platform did not have the right to play. In an interview with Recode at the time, Mohit revealed his thinking on bending rules in search of growth.
+- “We did it kind of like entrepreneurs do sometimes, we kind of just did it and [decided] we’d ask for permission after.” ●
+- Sarah Emerson and Sal Hernandez contributed reporting.
+- BuzzFeed News Reporter
+- Contact Emily Baker-White at emily.bakerwhite@buzzfeed.com.
+- Got a confidential tip? 👉 Submit it here
+
+URL: https://www.businessinsider.in/tech/apps/news/tiktoks-parent-bytedance-made-fake-accounts-scraping-content-from-instagram-snapchat-and-other-platforms-claims-report/articleshow/90656168.cms
+- Copyright © 2023. Times Internet Limited. All rights reserved.For reprint rights. Times Syndication Service.
+
+URL: https://techcrunch.com/2022/04/04/tiktok-owner-bytedance-reportedly-scraped-content-from-instagram-snapchat-posted-flipagram/
+- TikTok’s parent company ByteDance made fake accounts with content taken from Instagram, Snapchat and other social media platforms and posted them on Flipagram in 2017, according to a new report today from BuzzFeed News. The report says the company took videos, usernames, pictures and more from the social media platforms and uploaded them to the app without users’ consent or knowledge.
+- BuzzFeed News spoke with four former ByteDance employees who say the scraping began shortly after the company acquired Flipagram in January 2017. Internal documents reviewed by BuzzFeed News indicate that the scraping was seen as a “growth hack” for the company. One employee said that ByteDance’s goal was to scrape more than 10,000 videos a day.
+- Two of the employees said that the scraping was used to train and inform ByteDance’s “For You” algorithm, which is currently used today by TikTok and its Chinese equivalent, Douyin. The employees say ByteDance was looking to train the algorithm on U.S.-based content. The report also indicates that ByteDance was scraping and uploading content from Musical.ly, which would later become TikTok once ByteDance acquired the company in 2017.
+- BuzzFeed News sent ByteDance a list of the allegations along with questions, to which ByteDance responded: “ByteDance acquired Flipagram in 2017 and operated it, and subsequently Vigo, for a short time. Flipagram and Vigo ceased operations years ago and aren’t connected to any current ByteDance products.”
+- The internal documents include references to the scraped data and reasons explaining why the company was doing so. In one document, an employee explained that the scraped content could be used to test which types of videos performed the best on the platform. The employee had also noted that current users could mimic the content to enhance their own videos and gain popularity.
+- The former employees said that some people had noticed their social media content was being posted on Flipagram and had reached out to the company. Employees were told to either delete the fake accounts or give control of the account to the person who filed the complaint, the report claims.
+- Flipagram was founded in 2013 and allowed users to create and share short videos as something of a TikTok pre-cursor.
+- The practice of scraping content as a growth hack, as this report claims took place, was not unusual for services operating at the time. But it does lead to questions as to whether TikTok’s algorithms were trained using video content from competitor apps. (BuzzFeed was able to get a comment from former Flipagram CTO Brian Dilley, who denied any scraping took place.)
+- Flipagram’s app garnered popularity among young users and at one point was considered a major threat to Instagram. But while ByteDance took many learnings from Flipagram, it ultimately chose to merge Musical.ly with TikTok and laid off the Flipagram team in February 2018.
+
+URL: https://www.engadget.com/tik-tok-owner-byte-dance-scraped-content-from-instagram-and-others-to-push-predecessor-app-232135784.html
+- To fuel the rise of its app Flipagram, TikTok parent company Bytedance scraped profiles, videos, usernames and other content from Instagram and other social media platforms. Buzzfeed reported that the Chinese company scraped “hundreds of thousands” of accounts for content without users’ consent. Flipagram, which ByteDance acquired back in 2017, allowed users to create short slideshow videos set to music — sort of a simplified version of TikTok and other short-form video apps. The app has since been rebranded as Vigo Video.
+- The scraping strategy was meant to be a “growth hack” for Flipagram, allowing it to expand its user base, according to former ByteDance employees interviewed by Buzzfeed. Flipagram was scraping up to 10,000 videos per day from high-priority countries, according to one former employee. The three platforms that Flipagram allegedly scraped content from are Instagram, Snapchat and Musical.ly (which is owned by ByteDance and was later absorbed by TikTok). One former Bytedance employee disputes that Instagram was involved in the scrape due to the incompatible sizing of their videos at the time.
+- The employees also allege that the scraped content from major US social media platforms was then used to build Bytedance’s “For You” algorithm. TikTok has yet to comment on whether Flipagram’s stolen data was used to build TikTok’s “For You” algorithm.
+- Scraping publicly available data isn’t illegal by itself. Many social platforms find "creative" ways to boost their audience in their early days, like harvesting external content, creating fake profiles or mass-emailing potential users. But companies can also ban unauthorized scraping in their terms and conditions for users, which Instagram and Snapchat both do. Violating such contracts can often lead to lawsuits.
+- There's an irony to Bytedance in its early days allegedly scraping data from Instagram, since Reels was Instagram's attempt to capture TikTok's audience and instead became a receptacle for old TikToks. In order to keep Reels from driving more traffic to its rival app, Instagram recently announced it would no longer promote TikToks.
+
+URL: https://www.deccanherald.com/business/technology/tiktok-owner-bytedance-scraped-content-from-instagram-snapchat-1097799.html
+- Chinese short-video-making app TikTok's parent company ByteDance allegedly made fake accounts with content taken from Instagram, Snapchat and other social media platforms, a new report has claimed.
+- According to BuzzFeed News, the company then posted those fake accounts on the popular mobile app Flipagram to grow further.
+- "The China-based company scraped public accounts and then duplicated them on Flipagram, a predecessor to TikTok, according to four former employees and documents viewed by BuzzFeed News," the report said late on Monday.
+- Founded in 2013, Flipagram allowed users to create and share short videos as something of a TikTok precursor.
+- ByteDance allegedly took videos, usernames, pictures and more from the social media platforms and uploaded them to the app without users' consent or knowledge.
+- Internal documents reviewed by BuzzFeed News indicate that the scraping was seen as a "growth hack" for the company.
+- According to the former employee, the team's goal was to "scrape more than 10,000 videos a day in the highest priority countries".
+- The scraped content was used to train ByteDance's powerful "For You" personalisation algorithm on the US-based content.
+- "Today, the 'For You' algorithm powers both TikTok and its Chinese equivalent, Douyin," the report noted.
+- The report also said that ByteDance was scraping and uploading content from Musical.ly, which would later become TikTok as ByteDance acquired the company in 2017.
+- In a statement, a ByteDance spokesperson said: "ByteDance acquired Flipagram in 2017 and operated it, and subsequently Vigo, for a short time. Flipagram and Vigo ceased operations years ago and aren't connected to any current ByteDance products."
+- Short video-making platform TikTok has crossed one billion monthly active users around the world.
+- It has overtaken Facebook as the most downloaded social media app in the world.
+- Check out the latest videos from DH:
+- 
+- Check out all newsletters
+- Deccan Herald News now on Telegram - Click here to subscribe
+- Follow us on Facebook  | Twitter  | Dailymotion  | YouTube
+- 'Drishyam' franchise to be remade in South Korea
+- Leee John throws light on UK black music history
+- Jharkhand gets ‘Hospital on Wheels’ for stray animals
+- Karnataka CM Siddaramaiah flaunts new Rado watch
+- Chhattisgarh health minister skydives in Australia
+- Arsenal undone by Guardiola mind games, lean squad
+- UK musician finds his calling: Saving unwanted pianos
+- PM Modi pays tribute at Hiroshima Peace Memorial Park
+- Humans used fire in Europe 50K yrs earlier than thought
+- Pvt mission carrying Saudi astronauts to visit ISS set
+- 'Drishyam' franchise to be remade in South Korea
+- Leee John throws light on UK black music history
+- Jharkhand gets ‘Hospital on Wheels’ for stray animals
+- Karnataka CM Siddaramaiah flaunts new Rado watch
+- Chhattisgarh health minister skydives in Australia
+- Arsenal undone by Guardiola mind games, lean squad
+- UK musician finds his calling: Saving unwanted pianos
+- PM Modi pays tribute at Hiroshima Peace Memorial Park
+- Humans used fire in Europe 50K yrs earlier than thought
+- Pvt mission carrying Saudi astronauts to visit ISS set
+- National
+- Karnataka
+- Bengaluru
+- Sports
+- Business
+- Multimedia
+- Opinion
+- Entertainment
+- PM Modi, Rishi Sunak review bilateral strategic ties
+- K'taka Cabinet: Siddaramaiah, DKS clash over names
+- Plane crashes in Croatia, rescuers search for crew
+- INS Vikrant docks at Karwar naval base
+- DH Galleries
+- DH Picks
+- Latest stories
+- Trending news
+- Download DH APP
+- Services
+- Our group sites
+- Download DH APP
+- We use cookies to understand how you use our site and to improve user experience. This includes personalising content and advertising. By continuing to use our site, you accept our use of cookies, revised Privacy Policy.
+- We use cookies.
+
+URL: https://techstory.in/bytedance-made-fake-accounts-with-content-scraped-from-instagram-and-snapchat/
+- ByteDance reportedly scraped content like usernames, profile pictures, etc. from Instagram and Snapchat and uploaded them without consent. In 2017, the TikTok owner reportedly stole short form videos, usernames, profile pictures and descriptions from these platforms. They uploaded the content in order to make fake accounts on Flipagram, a predecessor of TikTok. Four former employees of the Chinese company made the revelation of this occurrence.
+- These employees had worked on Flipagram, which went on to be named Vigo Video later on. Moreover, internal documents revealed that the content scraping was carried out by an engineering team in China, which took off right after Flipagram’s acquisition in 2017. The ex-employees listed this one of its many ‘growth hacks,’ including the company’s manipulation of its like and views statistics. Apparently, the scraping impacted various accounts, and how the team hoped to scrape over 10,000 videos everyday.
+- Neither reporters nor the former workers know when such scraping by the company finally stopped. They claimed that the content’s purpose was to train the company’s personalised algorithm for content based in the US for American users. The popular “For You” algorithm is currently used extensively both in TikTok and Duoyin, its Chinese equivalent. ByteDance received a detailed list of the accusations from reporters who wanted to report on it. This include the question of whether the company ever used Flipagram’s data to train its current personalised algorithm.
+- None of the people involved with Flipagram, including its former Chief Executive Farhad Mohit, responded to any requests made for comments on the situation. However, the chief technology officer of Flipagram, Brian Diller denied the allegations of the company ever having scraped and reuploaded content.
+- 
+- Documents on the matter revealed detailed aspects and references about content scraped from platforms. ByteDance reportedly used ‘fake accounts’ and such content to test which of it performed well on the app. Additionally, how real users could copy those and improve their online popularity. The content scraped were at times from Instagram which were posted on Flipagram.
+- The company apparently started off by copying content from certain short-form video apps based in China, then putting it on Flipagram in 2017. Some documents revealed they determined to look for contents less ‘Chinese’ in nature to target users in the United Staes.
+- comments
+- ByteDanceChinaFlipagramInstagramSnapchatSocial MediatechnewsTikTok
+- Your email address will not be published. Required fields are marked *
+- Comment *
+- Name *
+- Email *
+- Website
+- 
+- 
+- Make data loading to flash drives a simple process. Nexcopy USB Duplicator Systems.
+- 
+
+URL: https://www.phoneworld.com.pk/bytedance-in-hot-waters-after-scraping-short-form-videos-from-social-media/
+- According to four former employees of TikTok’s parent company, ByteDance, the company scraped short-form videos, usernames, profile pictures, and profile descriptions from Instagram, Snapchat, and other sources in 2017 and then uploaded them to Flipagram, a TikTok predecessor, without users’ knowledge or consent.
+- The internal documents of the ‘Source’ contain references to the scraped data as well as explanations for why the company did so. An employee indicated in one document that the collected content might be used to see what kinds of videos performed well on the site. Current users might potentially use the content to improve their own movies and acquire popularity, according to the employee of the source leaked the news.
+- “ByteDance acquired Flipagram in 2017 and operated it, as well as Vigo, for a brief period,” said Jennifer Banks, a representative for ByteDance. Flipagram and Vigo have been dead for years and are no longer associated with any ByteDance products.”
+- The technique of scraping content as a growth hack, as claimed in this report, was not uncommon for services at the time. However, it raises the question of whether TikTok’s algorithms were trained on video footage from other apps.
+- About ByteDance
+- ByteDance was created by Zhang Yiming in March 2012, and company is well recognised for its entertaining smartphone apps. It competes with other Chinese tech behemoths such as Alibaba, Baidu, and Tencent.
+- 
+- PhoneWorld is the most popular news and analysis website in Pakistan. It focuses on the mobile ecosystem and covers the latest news and hot topics. We offer comprehensive coverage of industry-related topics, including policy, regulations, operators, distribution, application development, devices, and academia. Readmore
+- Privacy Policy
+Advertise
+Contact Us
+- Session expired
+- Please log in again.
+The login page will open in a new tab. After logging in you can close it and return to this page.
+
+URL: https://observer.com/2022/04/tiktoks-addictive-algorithm-may-be-powered-by-content-scraped-from-its-rivals/
+- TikTok’s parent company ByteDance allegedly scraped content from competitors Instagram and Snapchat and posted it from fake accounts to Flipagram, another site it owned. That stolen content may have seeded the algorithm that makes recommendations to TikTok’s users, the special sauce that has powered the platform to more than 1 billion monthly users.
+Some of the fake accounts were used to understand what content was popular among U.S. users and drive engagement with ByteDance’s platforms, former employees of ByteDance told BuzzFeed News in an article published April 4. TikTok’s ForYou page (FYP) which is also used by its Chinese equivalent Douyin, is known for its addictive qualities that draw users in and makes it feel like the app is reading their minds. TikTok’s algorithm has received criticism for promoting content related to drugs and sex to minors, which was detailed in a September Wall Street Journal investigation.
+“TikTok’s FYP algorithm has become famous for its incredible ability to learn the interests of users in a very short period of time. It would have taken a lot of data and refinement to achieve this,” social media consultant Matt Navarra said. “Scraping of content could be one way to speed up this process.”
+ByteDance spokesperson Jennifer Banks told BuzzFeed  Flipagram no longer operates and is not “connected to any current ByteDance products.”
+
+ByteDance’s scraping of content from competitors potentially might explain how TikTok rose to prominence quickly. Under pressure to appeal to and entertain new users, it is plausible that ByteDance used content from other platforms to test and inform users interests on TikTok, Navarra said.
+
+“One of the challenges for any new social media platform is providing users with an endless stream of engaging and relevant content,” Navarra said. “A new platform will initially only have a small number of users creating content or engaging with existing content on the platform. Scraping popular videos from rival platforms could have given Flipagram a source of tried and tested content to keep its own users engaged.”
+Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- Some of the fake accounts were used to understand what content was popular among U.S. users and drive engagement with ByteDance’s platforms, former employees of ByteDance told BuzzFeed News in an article published April 4. TikTok’s ForYou page (FYP) which is also used by its Chinese equivalent Douyin, is known for its addictive qualities that draw users in and makes it feel like the app is reading their minds. TikTok’s algorithm has received criticism for promoting content related to drugs and sex to minors, which was detailed in a September Wall Street Journal investigation.
+“TikTok’s FYP algorithm has become famous for its incredible ability to learn the interests of users in a very short period of time. It would have taken a lot of data and refinement to achieve this,” social media consultant Matt Navarra said. “Scraping of content could be one way to speed up this process.”
+ByteDance spokesperson Jennifer Banks told BuzzFeed  Flipagram no longer operates and is not “connected to any current ByteDance products.”
+
+ByteDance’s scraping of content from competitors potentially might explain how TikTok rose to prominence quickly. Under pressure to appeal to and entertain new users, it is plausible that ByteDance used content from other platforms to test and inform users interests on TikTok, Navarra said.
+
+“One of the challenges for any new social media platform is providing users with an endless stream of engaging and relevant content,” Navarra said. “A new platform will initially only have a small number of users creating content or engaging with existing content on the platform. Scraping popular videos from rival platforms could have given Flipagram a source of tried and tested content to keep its own users engaged.”
+Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- “TikTok’s FYP algorithm has become famous for its incredible ability to learn the interests of users in a very short period of time. It would have taken a lot of data and refinement to achieve this,” social media consultant Matt Navarra said. “Scraping of content could be one way to speed up this process.”
+ByteDance spokesperson Jennifer Banks told BuzzFeed  Flipagram no longer operates and is not “connected to any current ByteDance products.”
+
+ByteDance’s scraping of content from competitors potentially might explain how TikTok rose to prominence quickly. Under pressure to appeal to and entertain new users, it is plausible that ByteDance used content from other platforms to test and inform users interests on TikTok, Navarra said.
+
+“One of the challenges for any new social media platform is providing users with an endless stream of engaging and relevant content,” Navarra said. “A new platform will initially only have a small number of users creating content or engaging with existing content on the platform. Scraping popular videos from rival platforms could have given Flipagram a source of tried and tested content to keep its own users engaged.”
+Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- ByteDance spokesperson Jennifer Banks told BuzzFeed  Flipagram no longer operates and is not “connected to any current ByteDance products.”
+
+ByteDance’s scraping of content from competitors potentially might explain how TikTok rose to prominence quickly. Under pressure to appeal to and entertain new users, it is plausible that ByteDance used content from other platforms to test and inform users interests on TikTok, Navarra said.
+
+“One of the challenges for any new social media platform is providing users with an endless stream of engaging and relevant content,” Navarra said. “A new platform will initially only have a small number of users creating content or engaging with existing content on the platform. Scraping popular videos from rival platforms could have given Flipagram a source of tried and tested content to keep its own users engaged.”
+Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- “One of the challenges for any new social media platform is providing users with an endless stream of engaging and relevant content,” Navarra said. “A new platform will initially only have a small number of users creating content or engaging with existing content on the platform. Scraping popular videos from rival platforms could have given Flipagram a source of tried and tested content to keep its own users engaged.”
+Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- Correction: An earlier version of this article said Flipagram was an earlier version of TikTok. That is incorrect; they are separate apps.
+- 
+- We get it: you like to have control of your own internet experience. But advertising revenue helps support our journalism. To read our full stories, please turn off your ad blocker.We'd really appreciate it.
+- Below are steps you can take in order to whitelist Observer.com on your browser:
+- Click the AdBlock button on your browser and select Don't run on pages on this domain.
+- Click the AdBlock Plus button on your browser and select Enabled on this site.
+- Click the AdBlock Plus button on your browser and select Disable on Observer.com.
+
+URL: https://www.digitalinformationworld.com/2022/04/tiktoks-parent-company-accused-of.html
+- Post a Comment
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+URL: https://cbnc.com/tiktok-owner-bytedance-scraped-content-from-instagram-and-others-to-push-predecessor-app/
+- An appropriate representation of the requested resource could not be found on this server. This error was generated by Mod_Security.
+
+URL: https://onlinemarketing.de/cases/kopierte-tiktok-konzern-bytedance-content-von-instagram
+- Hat TikToks Mutterkonzern ByteDance im großen Stil User-Daten und Content von Instagram und Snapchat gestohlen? Die Berichte ehemaliger Angestellter sowie interne Dokumente deuten auf eine Reihe fragwürdiger Praktiken hin.
+- Erst kürzlich machten Berichte einer Schmutzkampagne von Meta gegen TikTok die Runde, in welcher eine von Meta bezahlte Consulting-Firma die Konkurrenzplattform als gefährlich für die Gesellschaft darstellte. Ein nun von BuzzFeed News veröffentlichter Report bringt derweil ans Licht, dass sich auch TikToks Mutterkonzern ByteDance im Konkurrenzkampf unlauterer Mittel bediente.
+- Die Berichte von vier ehemaligen Angestellten sowie interne Dokumente, die der News-Plattform vorliegen, deuten darauf hin, dass ByteDance nach Übernahme der TikTok-ähnlichen App Flipagram Inhalte von Konkurrenzplattformen wie Instagram und Snapchat kopierte, und diese anhand von Fake-Profilen auf der Plattform verbreitete.
+- In der 2017 von ByteDance erworbenen App Flipagram konnten User mit Musik unterlegte Slideshow-Videos erstellen. Auch heute gibt es die App noch, welche mittlerweile jedoch unter dem Namen Vigo Video läuft. Dem Bericht zufolge kopierte ByteDance Content, Usernames, Profilbeschreibungen und Profilbilder und duplizierte diese in der Flipagram-App. Mehrere Hunderttausend Profile wurden, ohne Zustimmung der User, übernommen, erklären die ehemaligen Angestellten.
+- Die Übernahme von Content, der ursprünglich auf Konkurrenzplattformen wie Instagram und Snapchat gepostet wurde, war laut den Ex-Angestellten nur einer von mehreren sogenannten Growth Hacks. Auch die Anzeige von Gefällt-Mir-Angaben und Videoaufrufen wurde mutmaßlich manipuliert, und ließ Creator somit erfolgreicher erscheinen, als sie es tatsächlich waren.
+- Die Zahl der gescrapten, also zum Zweck der Duplizierung heruntergeladenen Videos belief sich auf bis zu 10.000 Stück am Tag, erklärt ein:e ehemalige:r Angestellte:r. Neben Inhalten von Instagram und Snapchat wurde auch Content von Musical.ly (welches schließlich zu TikTok wurde) kopiert. Eine ehemalige angestellte Person zweifelte aufgrund des damaligen Videoformats an, dass Content von Instagram übernommen wurde. Eine andere gab an, sich daran zu erinnern, dass das Unternehmen mittels Skalierung der Videos und der Entfernung von Wasserzeichen versuchte, den Content originell erscheinen zu lassen.
+- Laut den ehemaligen Angestellten meldeten sich mehrere User der betroffenen Plattformen bei Flipagram und beschwerten sich, dass ihr Content unberechtigt in der App gepostet wurde. Darunter waren auch mehrere Eltern, deren Kinder Content auf Instagram und Co. veröffentlicht hatten.
+- Eine weitere brisante Behauptung der ehemaligen ByteDance-Mitarbeiter:innen ist, dass die von Flipagram gestohlenen Daten dazu verwendet wurden, den TikTok-Algorithmus zu entwickeln. Die aus den USA stammenden kopierten Profile sollten demnach dazu dienen, die Präferenzen der US-amerikanischen User besser zu verstehen. Brian Dilley, welcher bis Oktober 2017 als Chief Technology Officer bei Flipagram tätig war, bestritt die Vorwürfe. TikTok reagierte nach Anfrage von BuzzFeed News nur knapp auf die Anschuldigungen:
+- While we disagree with the assertions, rather than go through lengthy litigation, we’d like to focus our efforts on building a safe and joyful experience for the TikTok community.
+- Scraping an sich ist nicht illegal – es sei denn, dieses wird in den Nutzungsbedingugen einer App oder Website verboten. Dies ist sowohl bei Instagram als auch bei Snapchat der Fall. US-Senator Richard Blumenthal erklärte nach Anfrage von BuzzFeed News, die Federal Trade Commission (FTC) müsse den Fall untersuchen. Ob und wann dies tatsächlich geschieht, bleibt abzuwarten.
+- Caroline Immer hat ihr geisteswissenschaftliches Studium in Hamburg absolviert und unterstützt die Redaktion von OnlineMarketing.de seit September 2020.
+- Über 30.000 Subscriber können nicht irren. Melde dich jetzt zu unserem NEWSLETTER an:
+- Deine E-Mail-Adresse wird nicht veröffentlicht. Erforderliche Felder sind mit * markiert
+- Über 30.000 Subscriber können nicht irren. Melde dich jetzt zu unserem NEWSLETTER an:
+- COPYRIGHT © 2023 OnlineMarketing.de GmbH
+
+URL: https://economictimes.indiatimes.com/tech/tech-bytes/tiktok-owner-bytedance-scraped-content-from-instagram-snapchat/articleshow/90656516.cms
+- 5 Stories
+- 7 Stories
+- 9 Stories
+- 9 Stories
+- 8 Stories
+- 6 Stories
+- Don’t miss out on ET Prime stories! Get your daily dose of business updates on WhatsApp. click here!
+- Prime Minister Narendra Modi on Saturday underlined the need for evolving a common vision between the Centre and states to achieve the goal of a developed India by 2047 and asked states to take financially prudent decisions so as not to burden future generations.
+- Indian women are going places – queueing up in droves to pursue higher education in foreign destinations such the US, UK and other parts of Europe, not just in the metros but in smaller towns as well.
+- India is the top destination being explored by multinational corporations as an alternative to China, according to a survey of 100 CEOs who primarily represent foreign B2B-focused firms.
+- ETPrime stories of the day
+- IndiGo’s pride, other’s envy: how the airline’s fleet milestones sent its rivals on a tailspin
+- The mystery of 3 missed WhatsApp calls: inside a potential bait for scams, and how to stay safe
+- How last-mile tech is automating logistics operations, and what it means for supply-chain managers
+- Layoff Tracker
+- 
+- Company Name
+- Layoffs
+- 
+- Byju's
+- 3,500
+- 
+- Unacademy
+- 1,350
+- 
+- Vedantu
+- 1,100
+- 
+- Cars24
+- 600
+- 
+- Oyo
+- 600
+- 
+- Udaan
+- 530
+- 
+- Mohalla Tech
+- 500
+- 
+- Mfine
+- 500
+- 
+- Swiggy
+- 380
+- 
+- Frontrow
+- 280
+- 
+- Ola
+- 200
+- 
+- DealShare
+- 100
+- 
+- Cashfree
+- 100
+- 
+- WazirX
+- 60
+- 
+- Meesho
+- 150
+- Trending Now
+- Popular Categories
+- Hot on Web
+- In Case you missed it
+- Top Calculators
+- Top Searched Companies
+- Top Prime Articles
+- Top Commodities
+- Top Definitions
+- Top Videos
+- Popular Articles
+- Top Trending Topics
+- Private Companies
+- Top Story Listing
+- Most Searched Articles
+- Top Slideshow
+- Follow us on:
+- Find this comment offensive?
+- Choose your reason below and click on the Report button. This will alert our moderators to take action
+- Reason for reporting:
+- Your Reason has been Reported to the admin.
+- Log In/Connect with:
+- Will be displayed
+- Will not be displayed
+- Will be displayed
+- Stories you might be interested in
+
+- Bytedance/TikTok Bev Standing voice theft
+- TikTok  mandatory beauty filtering
+- Page info Type: IncidentPublished: April 2022

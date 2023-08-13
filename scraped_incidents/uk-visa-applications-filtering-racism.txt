@@ -1,0 +1,295 @@
+- Released: 2015 Occurred: October 2019
+- Can you improve this page?Share your insights with us
+- Since 2015, the UK Home Office filtered visa applications using an algorithmically-driven 'Visa Streaming' traffic light system that assigns a red, amber or green risk level to each applicant. People assigned a red risk level were more likely to be refused.
+- The UK government stopped using the system in August 2020 after a legal challenge that accused it of prioritising 'speedy boarding for white people' for the most favoured countries in the system.
+- In October 2019, justice advocacy group Foxglove and the Joint Council for the Welfare of Immigrants (JCWI) launched a case to legally force the Home Office to explain on what basis the algorithm 'streams' visa applicants.
+- Critics had previously raised concerns that the system was discriminating against individuals based on their nationality in a discriminatory form, and violated the 2010 Equality Act.
+- The suit also alleged that the algorithm was not transparent. Aside from admitting the existence of a secret list of 'suspect' nationalities, the Home Office refused to provide meaningful information about how the system worked, inclusing what other factors were used to grade applications.
+- Having insisted the algorithm was used only to allocate applications and that immigration officers ultimately ruled on them, the Home Office announced in August 2020 that it would settle the suit and halt the use of the system until it had been redesigned considering 'issues around unconscious bias and the use of nationality'.
+- In April 2021, WIRED reported that a 'secretive' Home Office Data Services & Analytics unit had been collecting data on 650 million people, including data from immigration and border systems, and police and intelligence agencies.
+- The 'super database' reputedly 'provides members of law enforcement agencies, such as Border Force, with the names of individuals with previous immigration history, those of interest to detection staff, police or matters of national security.'
+- Operator: UK Home Office Developer: UK Home Office
+- Country: UK
+- Sector: Govt - immigration
+- Purpose: Assess visa applications
+- Technology: Risk assessment algorithm Issue: Bias/discrimination - race, ethnicity
+- Transparency: Governance; Black box; Marketing
+- JCWI (2020). We won! Home Office to stop using racist visa algorithm
+- Foxglove (2019). Legal action to challenge Home Office use of secret algorithm to assess visa applications
+- Foxglove Freedom of Information request
+- Digital Freedom Fund case study (pdf)
+URL: https://www.bbc.com/news/technology-53650758
+- The Home Office has agreed to stop using a computer algorithm to help decide visa applications after allegations that it contained "entrenched racism".
+- The Joint Council for the Welfare of Immigrants (JCWI) and digital rights group Foxglove launched a legal challenge against the system.
+- Foxglove characterised it as "speedy boarding for white people".
+- The Home Office, however, said it did not accept that description.
+- "We have been reviewing how the visa application streaming tool operates and will be redesigning our processes to make them even more streamlined and secure," it said in a statement.
+- The controversy centred over an applicant's nationality being used as a part of the automatic system.
+- Use of the controversial algorithm will be suspended on Friday 7 August, with a redesigned system expected to be in place by the autumn.
+- Foxglove said the system had "been used for years to process every visa application to the UK".
+- The Home Office characterised the algorithm as a "streamlining" system.
+- The system took some information provided by visa applicants and automatically processed it, giving each person a colour code based on a "traffic light" system - green, amber, or red.
+- One metric used was nationality - and FoxGlove alleged that the Home Office kept a "secret list of suspect nationalities" which would automatically be given a red rating.
+- Those people were likely to be denied a visa, the group said.
+- "The visa algorithm discriminated on the basis of nationality - by design," added JCWI.
+- People from red-flagged countries, it said, "received intensive scrutiny by Home Office officials, were approached with more scepticism, took longer to determine, and were much more likely to be refused".
+- The group argued this process amounted to racial discrimination, putting it in breach of the Equality Act.
+- There was another factor at play, which the JCWI and Foxglove called a "feedback loop".
+- Visa decision rates would be used to decide which countries were on the "suspect nationalities" list, they said.
+- But the algorithm used that list, and red-flagged applications were less likely to succeed. Those results were then used to reinforce the list.
+- The JCWI said it was "a vicious circle".
+- "We're delighted the Home Office has seen sense and scrapped the streaming tool. Racist feedback loops meant that what should have been a fair migration process was, in practice, just speedy boarding for white people," said Cori Crider, founder of Foxglove.
+- Chai Patel, legal policy director of JCWI, said the Windrush scandal had shown the Home Office was "oblivious to the racist assumptions and systems it operates".
+- "This streaming tool took decades of institutionally racist practices, such as targeting particular nationalities for immigration raids, and turned them into software," he said.
+- The Home Office said it could not comment further while litigation was still ongoing.
+- Until the new system is in place, the streaming of visa applications will be based on information about the specific person - such as their previous travel - and nationality will not be taken into account.
+- Face-scanning 'criminal predictor' sparks bias row
+- The battle against AI bias
+- Algorithms face scrutiny over potential bias
+- Sexist and biased? How credit firms make decisions
+- US lawmakers to probe algorithm bias
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Race to secure US debt deal votes as deadline looms
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.theguardian.com/uk-news/2020/jan/01/visa-applications-home-office-refuses-to-reveal-high-risk-countries
+- Campaigners criticise decision not to reveal data in algorithm that filters UK visa applications
+- Campaign groups have criticised the Home Office after it refused to release details of which countries are deemed a “risk” in an algorithm that filters UK visa applications.
+- Campaigners for immigrants’ rights were sent a fully redacted list of nations in different categories of “risk”, which were entirely blacked out, on a Home Office response to their legal challenge over the artificial intelligence programme.
+- In defence of its use of the AI system a Home Office spokesperson said the programme fully complied with equality legislation.
+- Foxglove, an advocacy group promoting justice in the new technology sector, is supporting the case brought by the Joint Council for the Welfare of Immigrants (JCWI) to force the Home Office to explain on what basis the algorithm “streams” visa applicants.
+- Responding to a letter from the JCWI as part of a pre-legal action move, the Home Office admitted that it decides who gets into the UK on the visa system through nationality.
+- But Foxglove said the Home Office refused to publish its list of what the campaign group labelled “the undesirable” nations in its correspondence to them and the JCWI.
+- “The list provided to us is entirely redacted,” said Cori Crider, a director at Foxglove.
+- “Boris Johnson claims he wants ‘people of talent’ coming into Britain, but the Home Office’s secret list of undesirable countries sure makes it look like its visa algorithm is a convenient way of keeping people of colour out.”
+- Chai Patel, JCWI’s legal policy director, added: “We know from the independent chief inspector of borders and immigration that Home Office enforcement activity is primarily targeted at only a few nationalities that are easy to remove, so it is likely that information about ‘high risk’ nationalities will be biased by definition.
+- “We also know that Home Office databases are full of errors, and decisions are hugely flawed with 52% of appeals against Home Office decision-making being ruled incorrect. Algorithms, and streaming tools are only ever as good as the data that goes into them: if discriminatory data and decisions go in, then that is what you will get out.”
+- But the Home Office defended the use of the AI tool, stressing that the final decision on entry to the UK was made by immigration officers.
+- A Home Office spokesperson said: “As the public would expect, we have always used processes that enable UK Visas and Immigration to allocate its high volume of cases in an efficient way.
+- “The streaming tool, first developed in 2015, attributes a risk rating to an application based on a number of criteria, including nationality, and this rating is used to allocate work to caseworkers, not decide the application. Every application is decided by an entry clearance officer.
+- “The tool complies fully with the relevant legislation under the Equality Act 2010.”
+- The Home Office spokesperson added that UK Visas and Immigration received more than 3.3 million visa applications in the year ending June 2019, of which just under 2.9 million were granted.
+- “The service standard for processing a visit visa is 15 working days. Last year we processed 97% within this target. The UK welcomes genuine visitors. Over 2.4 million visitor visas were granted, for leisure, study or business, an increase of 8% in the past year.”
+- In its legal action the JCWI is demanding all the technical details that drive the streaming tool be revealed, along with further information such as case-working targets in each of the three categories, and if there have been any complaints about the deployment of the algorithm.
+- The campaign group argues that the use of the streaming tool is a more modern version of a visa entry system ruled unlawful by the House of Lords in 2005.
+- It concerned Roma applicants who were said to have been treated with more suspicion and subjected to more intense and intrusive questioning than non-Roma applicants. The Lords concluded that the “stereotyping of Roma as being less likely to be genuine visitors” to the UK was unlawful.
+
+URL: https://www.theguardian.com/uk-news/2019/oct/29/ai-system-for-granting-uk-visas-is-biased-rights-groups-claim
+- Immigrant rights campaigners bring legal challenge to Home Office on algorithm that streams visa applicants
+- Immigrant rights campaigners have begun a ground-breaking legal case to establish how a Home Office algorithm that filters UK visa applications actually works.
+- The challenge is the first court bid to expose how an artificial intelligence program affects immigration policy decisions over who is allowed to enter the country.
+- Foxglove, a new advocacy group promoting justice in the new technology sector, is supporting the case brought by the Joint Council for the Welfare of Immigrants (JCWI) to legally force the Home Office to explain on what basis the algorithm “streams” visa applicants.
+- The two groups both said they feared the AI “streaming tool” created three channels for applicants including a “fast lane” that would lead to “speedy boarding for white people”.
+- The Home Office has insisted that the algorithm is used only to allocate applications and does not ultimately rule on them. The final decision remains in the hands of human caseworkers and not machines, it said.
+- A spokesperson for the Home Office said: “We have always used processes that enable UK Visas and Immigration to allocate cases in an efficient way.
+- “The streaming tool is only used to allocate applications, not to decide them. It uses data to indicate whether an application might require more or less scrutiny and it complies fully with the relevant legislation under the Equalities Act 2010.”
+- Cori Crider, a director at Foxglove, rejected the Home Office’s defence of the AI system.
+- “The Home Office insists its ‘visa streaming’ algorithm has no racial bias, but that claim is pretty threadbare. We’re told the system uses nationality to ‘stream’ applicants green, yellow and red – and it’s easy to guess who ends up in the green queue and who gets pushed to the back of the bus in red. If your algorithm singles out people for a digital pat-down and offers speedy boarding to white people, well, that’s unlawful.”
+- In its pre-action legal letter this month to the home secretary, Priti Patel, the Joint Council for the Welfare of Immigrants argues that even the streaming process will affect the final decision on visas.
+- The case is being backed by a gofundme.com page titled “Deported by algorithm”.
+- Its letter to the home secretary states: “An individual visa applicant allocated by the streaming tool to the ‘Red’ category because of their nationality might still be granted a visa. However, their prospects of a successful application are much lower than the prospect of an otherwise equivalent individual with a different nationality allocated to the ‘Green’ category. To similar effect, the same ‘Red’ application is likely to take much longer than the ‘Green’ one, again involving less favourable treatment of the applicant because of their nationality.”
+- Among the information the JCWI seeks from the Home Office is all “policy and guidance documents that deal with the process of streaming visa applications and the use of the streaming tool”.
+- It is also demanding all the technical details that drive the streaming tool be revealed, along with further information such as case-working targets into each of the three categories, and if there have been any complaints about the deployment of the algorithm.
+- The JCWI argues that the use of the streaming tool is a more modern version of a visa entry system ruled unlawful by the House of Lords in 2005. It concerned Roma applicants who were said to have been treated with more suspicion and subjected to more intense and intrusive questioning than non-Roma applicants. The Lords concluded that the “stereotyping of Roma as being less likely to be genuine visitors” to the UK was unlawful.
+- The Home Office has emphasised that the new system is fully compliant with the Equalities Act 2010.
+- It added that out of more than 3.3m visa applications to the UK by the end of June this year, 2.9 million people were given entry into Britain.
+
+URL: https://www.politicshome.com/news/article/home-office-to-end-use-of-racist-algorithm-for-uk-visa-decisions-in-face-of-legal-challenge-by-migrants-rights-group
+- This site requires JavaScript for certain functions and interactions to work. Please turn on JavaScript for the best possible experience.
+- Newsletter sign-up
+- Follow us:
+- The Home Office is set to stop using the algorithm this week
+- John Johnston
+- @johnjohnstonmi
+- The Home Office is set to scrap the use of a controversial algorithm for sorting UK visa applications in the face of a legal challenge by migrants' rights campaigners.
+- The decision comes ahead of a planned judicial review from the Joint Council for the Welfare of Immigrants and digital rights group Foxglove, who argued the system had been designed around "decades of institutionally racist practices".
+- Campaigners had said the "streaming algorithm" used a traffic light system for sorting applications, with a so-called "fast lane" offering "speedy boarding for white people" from certain countries.
+- According to the Guardian, the Home Office is to stop using the algorithm as soon as Friday, but denied the description put forward by the groups.
+- Responding to the news, Chai Patel, Legal Policy Director of the JCWI, said the decision was proof the immigration system needed to be "rebuilt from the ground up".
+- "The Home Office’s own independent review of the Windrush scandal found that it was oblivious to the racist assumptions and systems it operates," he said.
+- "This streaming tool took decades of institutionally racist practices, such as targeting particular nationalities for immigration raids, and turned them into software. The immigration system needs to be rebuilt from the ground up to monitor for such bias and to root it out."
+- In their application to the High Court, the group alleged the Home Office used a "secret list of suspect nationalities" to flag some applications for further inspection, making it less likely to be approved.
+- Meanwhile, Cori Crider, founder of Foxglove, claimed the system included "racist feedback loops" which provided a easier route for white people.
+- "We’re delighted the Home Office has seen sense and scrapped the streaming tool," she said.
+- "Racist feedback loops meant that what should have been a fair migration process was, in practice, just 'speedy boarding for white people.'
+- "What we need is democracy, not government by algorithm. Before any further systems get rolled out, let’s ask experts and the public whether automation is appropriate at all, and how historic biases can be spotted and dug out at the roots."
+- A letter from the department's solicitors, seen by the Guardian, confirmed Home Secretary Priti Patel had "decided that she will discontinue the use of the streaming tool to assess visa applications, pending a substitute review of its operation".
+- It said the redesign would include an effort to "consider and assess the points you have raised in your claim including, issues around unconcious bias and the use of nationality generally in the streaming tool".
+- But the lawyers added: "For clarity, the fact of the redesign does not mean that the secretary of state for the home department accepts the allegations in your claim form."
+- The Home Office has been approached for comment.
+- PoliticsHome Newsletters
+- PoliticsHome provides the most comprehensive coverage of UK politics anywhere on the web, offering high quality original reporting and analysis: Subscribe
+- Read the most recent article written by John Johnston - MP Warns That Online Hate Could Lead To More Real World Attacks On Parliamentarians
+- Tags
+- Categories
+- PoliticsHome & The House Magazine organise a number of industry leading political events throughout the year.
+- Find out more
+- Get daily news alerts and weekend round-ups straight to your inbox.
+- Subscribe
+- Registered in England & Wales under No. 07291783
+- © Political Holdings Limited
+
+URL: https://www.technologyreview.com/2020/08/05/1006034/the-uk-is-dropping-an-immigration-algorithm-that-critics-say-is-racist/
+- The news: The UK Home Office has said it will stop using an algorithm to process visa applications that critics claim is racially biased. Opponents to it argue that the algorithm’s use of nationality to decide which applications get fast-tracked has led to a system in which “people from rich white countries get “Speedy Boarding”; poorer people of color get pushed to the back of the queue.”
+- Time for a redesign: The Home Office denies that its system is racially biased and litigation is still ongoing. Even so, the Home Office has agreed to drop the algorithm and plans to relaunch a redesigned version later this year, after conducting a full review that will look for unconscious bias. In the meantime the UK will adopt a temporary system that does not use nationality to sort applications.
+- Traffic system: Since 2015 the UK has filtered visa applications using a traffic light system that assigns a red, amber or green risk level to each applicant. People assigned a red risk level were more likely to be refused.
+- Broader trend: Algorithms are known to entrench institutional biases, especially racist ones. Yet they are being used more and more to help make important decisions, from credit checks to visa applications to pretrial hearings and policing. Critics have complained that the US immigration system is racially biased too. But in most cases, unpacking exactly how these algorithms work and exposing evidence of their bias is hard because many are proprietary and their use has little public oversight.
+- But criticism is growing. In the US, some police departments are suspending controversial predictive algorithms and tech companies have stopped supplying biased face recognition technology. In February a Dutch court ruled that a system that predicted how likely a person was to commit welfare or tax fraud was unlawful because it unfairly targeted minorities. The UK Home Office’s decision to review its system without waiting for a legal ruling could prove to be a milestone.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://tech.newstatesman.com/policy/home-office-shelve-racist-visa-algorithm-jcwi-legal-challenge
+- Please try the search tool, above, or visit our                 
+                    Homepage                .
+- 
+
+URL: https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants
+- Tool criticised for creating hostile environment for migrants and ‘speedy boarding for white people’
+- The Home Office is to scrap a controversial decision-making algorithm that migrants’ rights campaigners claim created a “hostile environment” for people applying for UK visas.
+- The “streaming algorithm”, which campaigners have described as racist, has been used since 2015 to process visa applications to the UK. It will be abandoned from Friday, according to a letter from Home Office solicitors seen by the Guardian.
+- The decision to scrap it comes ahead of a judicial review from the Joint Council for the Welfare of Immigrants (JCWI), which was to challenge the Home Office’s artificial intelligence system that filters UK visa applications.
+- Campaigners claim the Home Office decision to drop the algorithm ahead of the court case represents the UK’s first successful challenge to an AI decision-making system.
+- Chai Patel, JCWI’s legal policy director, said: “The Home Office’s own independent review of the Windrush scandal found it was oblivious to the racist assumptions and systems it operates.
+- “This streaming tool took decades of institutionally racist practices, such as targeting particular nationalities for immigration raids, and turned them into software. The immigration system needs to be rebuilt from the ground up to monitor such bias and to root it out.”
+- In their submission to the high court, JWCI and the technology justice campaign group Foxglove said the algorithm created three channels for applicants, including a so-called “fast lane” that would lead to “speedy boarding for white people” from the most favoured countries in the system.
+- In the Home Office letter, its solicitors confirm that the home secretary, Priti Patel, “has decided that she will discontinue the use of the streaming tool to assess visa applications, pending a substitute review of its operation”.
+- Referring to the redesign of a new streaming visa system, the letter continues: “In the course of that redesign, our client intends carefully to consider and assess the points you have raised in your claim including, issues around unconscious bias and the use of nationality generally in the streaming tool.”
+- However, the Home Office solicitors add: “For clarity, the fact of the redesign does not mean that the secretary of state for the home department accepts the allegations in your claim form.”
+- Cori Crider, the founder and director of Foxglove, said: “What we need is democracy, not government by secret algorithm. Before any further systems get rolled out, let’s ask the public whether automation is appropriate at all, and make the systems transparent so biases can be spotted and dug out at the roots.”
+- A Home Office spokesperson said: “We have been reviewing how the visa application streaming tool operates and will be redesigning our processes to make them even more streamlined and secure.
+- “We do not accept the allegations Joint Council for the Welfare of Immigrants made in their judicial review claim and whilst litigation is still ongoing it would not be appropriate for the department to comment any further.”
+
+URL: https://www.thejusticegap.com/price-and-prejudice-automated-decision-making-and-the-uk-government/
+- It can be hard in the era of big data and mass surveillance to remember that, once upon a time, technology was meant to set us free.
+- Those twentieth-century titans of British intellectual life, Bertrand Russell and John Maynard Keynes, both saw a future in which it would reduce working hours to a minimum, freeing human beings up and allowing them to live richer, more fulfilling lives. Before that, Karl Marx proposed that in the end machinery would establish the conditions of mankind’s emancipation.
+- Visions of utopia have often included technology but so too have visions of dystopia. Science fiction is full of predictive systems of control, all-seeing eyes and malign robots. It is that portrait of technology that seems more familiar in the 21st century. Today, a small group of all-powerful companies in Silicon Valley are misusing our data and a dizzying array of software is deployed across public life, from the border to the police station to the job centre.
+- The UK is no exception. In keeping with the often unseen nature of artificial intelligence, automated decision-making happens behind closed doors. It is a world the government keeps hidden. But we know that machines are being used to make decisions in the public sphere. We know too that this is having a profound impact on democracy and the rule of law, not to mention the people on the receiving end of what can be bias or poor quality decisions.
+- Algorithms are being deployed to administer crucial public services at every level of government. Research shows that at least 53 UK local authorities are using algorithms for predictive analytics. The real number is likely to be higher as the research was based on requests made under the Freedom of Information Act, more than 100 of which weren’t responded to. We also know that about a quarter of police authorities in the UK are now using algorithms for prediction, risk assessment and assistance in decision-making.
+- The Department for Work and Pensions (DWP), the largest UK government department, is developing “welfare robots” – artificial intelligence – in delivering welfare and pension payments. These systems are being put to use as part of the government’s rollout of Universal Credit, with claimants already reporting that their benefits had been incorrectly withheld following errors made by the technology and that civil servants seemed unwilling or unable to contradict their machine overlords.
+- We know, too, that the Home Office is using algorithms as part of its settled status scheme and in sorting through visa applications. A July 2017 government report by David Bolt, Independent Chief Inspector of Borders and Immigration, disclosed that since 2015, UK Visas and Immigration “has been developing and rolling out a ‘streaming tool’ that assesses the perceived risks attached to an application” and which “streams applications ‘Green’ (low risk), ‘Amber’ (medium risk) or ‘Red’ (high risk)”.
+- Bolt told an inquiry by the All-Party Parliamentary Group (APPG) for Africa that he was concerned that overreliance on the algorithmic “streaming tool” could mean that decisions were not being made on the merits of the individual case but on a set of generalised and detached indicators. The Labour MP Chi Onwurah, the chair of the parliamentary group, was more blunt: “The Home Office is broken. We know that it is unable to fulfil its basic visa-processing duties in a timely or consistent manner. If we add to that a powerful and unregulated new technology, Brexit and bias, we have a recipe for disaster.”
+- Although the Home Office has refused to disclose the full details of the streaming algorithm it has admitted that the risk level applied to a visa application will depend partly on the applicant’s nationality. This categorising of nations was already in use, openJustice understands, before it was automated.
+- The Joint Council for the Welfare of Immigrants, supported by the not-for-profit organisation Foxglove, has begun a ground-breaking legal case to establish how this Home Office system works.
+- “What we call it, in our slightly glib way, is ‘speedy boarding for white people’”, says Cori Crider, director of Foxglove, who says the algorithm they think is allocating these decisions is “shaking out in a patently biased and frankly racist way”. Across a number of areas of government, citizens are being deprived of the chance to take up their case with a human being. More than that, existing inequalities can become baked in, with algorithms or artificial intelligence taking the worst human biases and enshrining them in code.
+- The obvious advantage to using machines instead of humans, the government claims, is the speed at which they can process information. The DWP successfully removed a backlog of 30,000 pension claims within two weeks of deploying welfare robots. An increased efficiency leads to a faster service and financial savings which (in the right hands) could be reinvested to the advantage of its service users, for example in providing a more generous welfare state.
+- “Lots of the concern about this is basically nostalgia, but I can’t think why people are nostalgic for the benefits system, every incarnation has been riddled with problems”, a former DWP official told openJustice.
+- They are being told to do more with less, in a way that seems fresh and contemporary
+- It’s clear that efficiency is the backdrop to the deployment of such methods, but we are unlikely to see the benefit. Since the austerity agenda that began under David Cameron’s government in 2010, departments are scrambling for solutions to their squeezed purse.
+- They are being told to do more with less in a way that seems fresh and contemporary. This is one reason behind the rise of software like Xperian’s Mosaic, “a cross-channel consumer classification system which segments the population into 15 groups and 66 types that helps you to understand an individual’s likely customer behaviour”, which is now being used across government.
+- This software was designed for brands looking to target customers but now, “Mosaic is used everywhere”, says Silkie Carlo, director of the non-profit civil liberties organisation Big Brother Watch. “By local authorities, by political parties – it was even used by the fire service. The sales pitches are, I think, very effective at a local government level because using something like Mosaic can be branded as innovative and modern”.
+- We are all on Mosaic, broken down and packaged up into one of the software’s 66 types. Those types are not uncontroversial. The first, or A01, is “World Class Wealth”. These gilded figures are, according to the Xperian tool, “global high flyers and families of privilege living luxurious lifestyles in London’s most exclusive boroughs”.
+- Further down the consumer food chain, we find quite a loaded language relating to race and class. Type K45 is named “Crowded Kaleidoscope”, referring to “multi-cultural households with children renting social flats in over-crowded conditions”. Type N59 is simply “Asian Heritage”.
+- openJustice understands that local councils and local police forces have – with the help of Mosaic – used data points relating to income and racial background to determine anything from council tax avoidance to the chance of an offender re-offending to, extraordinarily, the likelihood a family will have a member who is sexually abusive.
+- Policing algorithms create a feedback loop in which communities subjected to the most intrusive policing continue to be targeted because the algorithm reinforces biases relating to class and race. This has played out in predictive policing methods in the US. Statistics show that black and white people there sell and use drugs at similar rates, but black people are 2.7 times more likely to be arrested for drug-related offences. Using a tool to predict future crimes based on past policing actions such as arrests creates a feedback loop and an even more biased police force.
+- All of this is done in the name of saving time and money. The Home Office has had £1.9 billion (15%) cut from its day-to-day budgetsince 2010-11. In this environment, employees are under pressure to meet stringent targets. According to Onwurah, investigations by the APPG for Africa found “this impacted on the quality and fairness of decision-making”.
+- The all-party group’s investigations also found that African applicants are refused UK visas at twice the rate of those from any other part of the world.
+- Speaking to openJustice, the Nigerian musician Villy Odili said that his band Villy and the Xtreme Volumes was asked to headline a stage at Glastonbury Festival. “I was excited,” he remembers. “I had always wanted to play in Britain and to be asked to play at such a big festival was even better.” He soon found, though, that his application to get a visa was time consuming and expensive. “They ask for so many documents. It takes up all your focus.”
+- For one, Odili was asked for evidence that he owned property. Luckily enough, he had in fact just bought somewhere, but he didn’t have the paperwork completed yet, and so he went to great lengths to obtain it ahead of time. He was asked about his family and told that if he had a wife and children he needed to provide evidence that this was in fact the case. He had to send in three months’ worth of bank statements.
+- “I thought surely after all this, they will let me in,” he says. But they didn’t. His dream was smashed. He was, he says, rejected simply because he was “Nigerian and a musician”. If there was a human being involved in the decision, that human being was simply following the kind of checklist that we now know the Home Office’s algorithms run on.What is a problem for African applicants is also one for Syrians. Abdullah Karam is from Hama, a city in the west of Syria that has been bound up with struggles against the authoritarianism of successive Assad governments.
+- Karam’s eighteenth birthday came in 2014, three years after the beginning of the Syrian uprising, with his country in the midst of a civil war that continues to this day. “Suddenly, we turned eighteen and we were expected to join the military and fight against our own people,” he tells openJustice. “My parents made the decision that I should flee the country. I wasn’t raised to kill someone or be killed.”
+- “I will just say that it was hard,” Karam says of his journey out of Syria, through Turkey, where he lived for a time, and into Europe. Arriving in Austria, he felt accepted and began working for a computer games developer. It was here that he helped create Path Out, a game about a young man who has to leave Syria because of the war. He was also, of course, the game’s protagonist.
+- Path Out won a number of awards and in 2018 it was a finalist in the Indie Prize, with the ceremony in London. His application for a visa – which he had to pay for twice, following a computer error – was processed in a Home Office hub in the Polish capital of Warsaw, and it is highly likely that the automated system based on the long-established streaming method was put to use. “I applied with all the papers that were needed. They needed fingerprints, a photo and a video saying why I wanted to visit Britain,” says Karam.
+- His application was denied, with the rejection letter he was sent revealing some curious details. The young, childless Syrian was told that he had two children and that he should have applied for visas for them as well. He was told it was assumed he would use the visa to then relocate to Britain.
+- The Home Office letter was “a weird mix of bureaucratic bullying and a sense of overestimating the attractiveness of their own nation”
+- His boss at the time described the rest of the letter as “a weird mix of bureaucratic bullying and a sense of overestimating the attractiveness of their own nation on behalf of the British authorities”.
+- “I felt like I had a stamp on my head”, says Karam. “Living your life as a Syrian you know you are going to get treated horribly. I don’t think anyone even looked at my application. I think whatever or whoever processed it just went: ‘Another Syrian? Rejected!’”. He points out that “if Europeans were treated the way Syrians are treated they would rebel”.
+- Having dreamt of going to London, Karam stayed at home in Austria. A couple of games sites picked up his story and then, with its public relations to think about, the Home Office sent him an email apologising for the whole affair.
+- Neither Karam nor Odili know for sure what role automated decision-making played in their visa rejections, but in both cases computerised errors played a part and a decision seemed to be made primarily based on nationality.
+- This level of service from the Home Office doesn’t come cheap. A standard visitor visa application costs £95 and the department even monetises its communications, charging £5.48 per email from an overseas email address and £1.37 per minute of a phone call.
+- To mitigate against the obvious risk of placing too much trust in machines, the EU has passed a regulation – under the General Data Protection Regulation which is currently the only regulation on this area in force in the UK – that algorithmic decisions still be checked by people.
+- Software engineers tend to come from a very narrow demographic – few are women, from ethnic minorities or working class
+- But as Cori Crider told us, “Imagine you are a Home Office worker in Croydon. Let’s say you are working the green queue, you have a massive load of targets to get through every single day. You are not going to be doing a really sharp meaningful review of those applications in the green queue… The idea that it is not going to make a material difference to the outcome which of these queues you get in, it just doesn’t wash.”
+- Crider is referring to the phenomena of ‘automation bias’ in which people tend to defer to decisions made by machines. When we use spell-checking programmes, for example, many of us tend to assume that a suggestion will be correct or that, where no errors have been highlighted, there are none.
+- This phenomenon raises a larger question around the extent to which humans are more likely to place trust in the apparent neutrality of algorithms. But they are only as neutral as the humans behind them.
+- “Software engineers… tend to come from a very narrow demographic – few are women, from ethnic minorities or working class. The design will necessarily reflect the limits of their backgrounds, unless a significant effort is made for it not to,” suggests Chi Onwurah.
+- In the UK, there are fears that an algorithm currently in use by the Home Office to categorise prisoners will result in a similar feedback loop to ones found in policing. But as the government has refused to provide enough information about these data points, as yet no meaningful challenge can be made against it. This raises what is perhaps the most significant problem with automatic decision-making – a lack of transparency.
+- The government has not even disclosed exactly where it is using automated decision-making tools, let alone what data points the tools are using in reaching their outcome. This is in stark contrast to when a person makes a decision. The grounds on which they are obliged to make that decision (for example, statutory requirements and guidance) are known. This makes the decision far easier to scrutinise.
+- Two years ago the House of Commons Science and Technology Committee recommended that “government should produce, publish, and maintain a list of where algorithms with significant impacts are being used within Central Government, along with projects underway or planned for public service algorithms”. This has not happened.
+- Even when we do have details about an algorithm and its data points, in some cases it may still be incomprehensible. The information can be in a ‘black box’ so complex that it cannot not be meaningfully comprehended by lawyers, judges or the public at large. In a world in which trade secrets are jealously guarded there can also be an element of intentional opacity.
+- Without this basic information around how a public decision is being made, our rights to scrutinise and challenge decisions are completely undermined. With that, the rule of law is made a mockery.
+- Hovering over all of this is a spectre of disempowerment. “Through lack of understanding and access to relevant information, the power of the public to criticise and control the systems which are put in place to undertake vital activities in both the private and the public sphere is eroded. Democratic control of law and the public sphere is being lost,” argues Supreme Court Justice, Lord Sales.
+- Contrary to the apparent cloak of tech neutrality which the government promotes in its public messaging, this all shows how the use of algorithms is highly political. Not only do their inner workings reflect the political biases of their human creator, but by handing over power to technology we are giving it to an elite of unelected software engineers.
+- Organisations like the Joint Council for the Welfare of Immigrants, who, despite the evidential hurdles, are bringing legal challenges against the use of algorithms, are performing a vital role. There are few legal challenges like this but they are on the rise. In a groundbreaking ruling, a Dutch court recently found that the use of an automated system used to predict the likelihood of an individual committing benefit or tax fraud or violating labour laws was unlawful. The court found that it disproportionately targeted poorer citizens.
+- If, in the words of Philip Alston, the UN’s Special Rapporteur on extreme poverty and human rights, we want to avert the “grave risk of stumbling zombie-like into a digital welfare dystopia”, civil society must urgently respond to these challenges. Our democracy and rule of law depend on it.
+- To hear more on this issue, tune into the openJustice podcast where we talk to Cori Crider, who is working on the legal challenge against the visa streaming algorithm in use by the Home Office.
+
+URL: https://www.wired.co.uk/article/home-office-immigration-data
+- We may earn a commission if you buy something from any affiliate links on our site. Learn more.
+- Samuel Woodhams
+- A data analytics team close to the heart of government has collected data on more than 650 million people, including children under the age of 13, according to newly unearthed documents.
+- The Data Services & Analytics unit is described as “one of the most advanced data analytics centres in government” and forms part of the Home Office’s Digital, Data and Technology (DDaT) department. It builds decision-making tools and provides data-driven insights to the rest of the Home Office – although details of exactly what it does remain tightly guarded.
+- The huge amount of data being analysed and the Home Office’s lack of transparency has prompted accusations from privacy campaigners that the unit could be creating a “super database” that risks exacerbating racial biases among law enforcement agencies.
+- On top of transparency concerns, two of the unit’s projects are currently being reviewed by the Biometrics and Forensics Ethics Group, a government advisory body investigating “ethical issues in the use of complex datasets”. When asked what these projects were and on what basis they were being looked at, a Home Office spokesperson declined to comment.
+- By Matt Kamen
+- By Angela Watercutter
+- By Chris Stokel-Walker
+- By WIRED
+- Freedom of Information requests sent by charity Privacy International and shared with WIRED reveal the data unit has information about people’s ethnicity, immigration status, nationality, criminal record history, and biometrics. The data could be used to build up a detailed picture of the millions of people who are included in the databases.
+- But little is known about where the data comes from. While a government procurement notice published in January 2020 says the unit has access to commercial databases, data from immigration and border systems, and data from police and intelligence agencies as sources of information, almost all of the specifics were redacted in the Data Privacy Impact Assessment documents made available by the Home Office.
+- In total, more than 30 data providers are listed in the documents. Only two of these, fraud prevention company GB Group and data analytics firm, Dun & Bradstreet, were not redacted. GB Group acknowledged it provided data to the unit but declined to provide any further details citing “confidentiality obligations”. Dun & Bradstreet says it is against its policy to comment on its work with clients.
+- “The potential scope of this secret mass data gathering is truly frightening,” says Edin Omanovic, the advocacy director of Privacy International. “Unfortunately, this is the kind of thing you would expect from an intelligence agency, not a little-known department in the Home Office.”
+- The Home Office stressed that all data is held securely and processed in line with relevant human rights and privacy legislation – including data protection laws and the Human Rights Act 1998. “As expected, the Home Office holds a large amount of data to carry out essential operations and deliver on the people’s priorities,” a Home Office spokesperson says. The government department oversees work on everything from policing and immigration and border control to alcohol strategy and the threat of terrorism.
+- While the Home Office declined to provide further information on the unit’s activity, a recent industry event indicates the unit is involved in at least two Home Office projects, the warnings index and status checking project.
+- The warnings index is the UK’s immigration watchlist database. It provides members of law enforcement agencies, such as Border Force, with the names of individuals “with previous immigration history, those of interest to detection staff, police or matters of national security”, according to a report published by the Independent Chief Inspector of Borders and Immigration. The system was developed in 1995 and has been regularly criticised in the past decade. It has been described as “unfit for purpose” and in 2019 a whistleblower told the Guardian that employees lacking the relevant security clearance had been accessing the system.
+- By Matt Kamen
+- By Angela Watercutter
+- By Chris Stokel-Walker
+- By WIRED
+- The status checking project seeks to document and share live immigration status information across government and law enforcement agencies. It can be used to provide “proof of entitlement to a range of public and private services, such as work, rented accommodation, healthcare and benefits,” according to a government report. Liberty, the human rights advocacy group, sounded the alarm over the project in 2019, saying the secrecy surrounding it was “deeply sinister”.
+- “The fact that [the Home Office] is now trying to build what is effectively a massive migrant database to make it easier to deny people access to essential goods and services shows that it has learned absolutely none of the lessons of the Windrush Scandal,” Gracie Bradley, Liberty’s policy and campaigns manager, told the Guardian at the time.
+- Last year, the independent advocacy organisation Foxglove and the Joint Council for the Welfare of Immigrants (JCWI) mounted a legal challenge in response to the Home Office’s use of a visa streaming algorithm which they claim “entrenched racism and bias into the visa system”. The algorithm was shown to automatically give individuals from certain countries a ‘red’ traffic-light score, making it more likely their visa application would be denied. The Home Office ditched the algorithm ahead of the legal challenge reaching court and said it was “redesigning” its processes.
+- Although it remains unclear whether the Data Services & Analytics team were involved in the visa streaming algorithm, Chai Patel, the legal policy director of JCWI, claims discriminatory data processing is widespread within the Home Office.
+- “The datasets the Home Office uses are tainted by decades of institutional racial bias, and this data therefore poses grave risks to both British and migrant ethnic minorities,” Patel says. “We need root and branch reform of the Home Office and complete transparency over how they use the personal information entrusted to them.”
+- According to a recent job listing, which has since been removed, the data analytics unit is capable of receiving real-time streams of data and is overseeing the world’s largest public sector deployment of IBM’s data matching software, IBM Big Match. The software can be used to group records that represent the same person and run probabilistic searches across multiple datasets.
+- By Matt Kamen
+- By Angela Watercutter
+- By Chris Stokel-Walker
+- By WIRED
+- By performing data matching on a large scale, there is a risk that the Data Services & Analytics unit may encourage discriminatory practices and policies, Omanovic warns. “We’ve seen a whole industry develop which aims to ‘predict’ things like crime based on gathering huge amounts of data. The idea, however, that more data leads to more accurate conclusions is fundamentally flawed. In reality, what we’ve seen is that if junk goes in, then junk comes out,” he says.
+- A significant barrier to much of the work done by teams such as the Data Services & Analytics is transforming data from multiple sources to be useful. In an apparent bid to overcome these difficulties, the Home Office awarded almost £20 million in contracts related to the unit in 2020. These included contracts for cloud migration, cloud operations, and data matching services.
+- Greater efficiency in sharing and analysing data between government departments may undermine important oversight procedures, warns Michael Veale, a lecturer in digital rights and regulation at University College London. “A real concern is that technical efforts to make matching smooth and easy across all parts of the public sector is never replaced by enacting proper, procedural oversight,” he says.
+- While internal oversight of the unit’s activity may exist, public oversight and scrutiny remains hampered by a lack of transparency. “Rather than have a meaningful public debate, telling the public what data it will use, show why it is necessary and proportionate, and tell us what safeguards exist, the Home Office has up until now decided to proceed without telling anyone,” Omanovic says. “The Home Office now must come clean and reveal the true extent of this secret mass data exploitation programme.”
+- 💊 A dying child, a mother’s love and the drug that changed medicine
+- 😷 Coronavirus vaccines are making some long Covid sufferers feel better
+- 🎧 Upgrading your headphones on a budget? We tested all of Amazon’s cheapest sets
+- 🔊 Listen to The WIRED Podcast, the week in science, technology and culture, delivered every Friday
+- 👉 Follow WIRED on Twitter, Instagram, Facebook and LinkedIn
+- By Matt Burgess
+- By Matt Burgess
+- By Matt Burgess
+- By Lily Hay Newman
+- By Grace Browne
+- By Parth M.N.
+- By Matt Burgess
+- By Joel Khalili
+- © Condé Nast Britain 2023.
+
+- UK visa foreign language test cheating
+- UK Home Office sham marriage algorithm
+- Page infoType: SystemPublished: March 2023

@@ -1,0 +1,209 @@
+- Occurred: March 2022
+- Can you improve this page?Share your insights with us
+- Researchers tweaked an AI system usually used to predict the toxicity of pipeline drugs to invent 40,000 potentially lethal molecules in just six hours in order to demonstrate to participants at a conference in Switzerland how these kinds of systems can be misused and abused.
+- The experiment shows how easy it is to turn a 'good' or 'helpful' medical technology into one with potentially negative or terrifying consequences. Commentators also noted the naivety of the researchers - and many of their colleagues - for failing to consider the broader  implications of their work.
+- In their paper, the researchers had confessed that 'The thought had never previously struck us. We were vaguely aware of security concerns around work with pathogens or toxic chemicals, but that did not relate to us; we primarily operate in a virtual setting. Our work is rooted in building machine learning models for therapeutic and toxic targets to better assist in the design of new molecules for drug discovery.'
+- Operator: Collaborations Pharmaceuticals Developer: Collaborations PharmaceuticalsCountry: USA; UK; Switzerland Sector: Health Purpose: Predict molecule toxicity Technology: Machine learning Issue: Safety; Security; Dual/multi-use Transparency:
+- Urbina F., Lentzos F., Invernizzi C., Ekins S. (2020). Dual use of artificial-intelligence-powered drug discovery
+URL: https://www.scientificamerican.com/article/ai-drug-discovery-systems-might-be-repurposed-to-make-chemical-weapons-researchers-warn/#
+- Forbidden
+- Details: cache-lga21925-LGA 1685367189 2304830228
+- Varnish cache server
+
+URL: https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx
+- By  Justine Calma, a science reporter covering the environment, climate, and energy with a decade of experience. She is also the host of the Hell or High Water podcast.
+- It took less than six hours for drug-developing AI to invent 40,000 potentially lethal molecules. Researchers put AI normally used to search for helpful drugs into a kind of “bad actor” mode to show how easily it could be abused at a biological arms control conference.
+- All the researchers had to do was tweak their methodology to seek out, rather than weed out toxicity. The AI came up with tens of thousands of new substances, some of which are similar to VX, the most potent nerve agent ever developed. Shaken, they published their findings this month in the journal Nature Machine Intelligence.
+- The paper had us at The Verge a little shook
+- The paper had us at The Verge a little shook, too. So, to figure out how worried we should be, The Verge spoke with Fabio Urbina, lead author of the paper. He’s also a senior scientist at Collaborations Pharmaceuticals, Inc., a company that focuses on finding drug treatments for rare diseases.
+- This interview has been lightly edited for length and clarity.
+- This paper seems to flip your normal work on its head. Tell me about what you do in your day-to-day job.
+- Primarily, my job is to implement new machine learning models in the area of drug discovery. A large fraction of these machine learning models that we use are meant to predict toxicity. No matter what kind of drug you’re trying to develop, you need to make sure that they’re not going to be toxic. If it turns out that you have this wonderful drug that lowers blood pressure fantastically, but it hits one of these really important, say, heart channels — then basically, it’s a no-go because that’s just too dangerous.
+- So then, why did you do this study on biochemical weapons? What was the spark?
+- We got an invite to the Convergence conference by the Swiss Federal Institute for Nuclear, Biological and Chemical Protection, Spiez Laboratory. The idea of the conference is to inform the community at large of new developments with tools that may have implications for the Chemical/Biological Weapons Convention.
+- We got this invite to talk about machine learning and how it can be misused in our space. It’s something we never really thought about before. But it was just very easy to realize that as we’re building these machine learning models to get better and better at predicting toxicity in order to avoid toxicity, all we have to do is sort of flip the switch around and say, “You know, instead of going away from toxicity, what if we do go toward toxicity?”
+- Can you walk me through how you did that — moved the model to go toward toxicity?
+- I’ll be a little vague with some details because we were told basically to withhold some of the specifics. Broadly, the way it works for this experiment is that we have a lot of datasets historically of molecules that have been tested to see whether they’re toxic or not.
+- In particular, the one that we focus on here is VX. It is an inhibitor of what’s known as acetylcholinesterase. Whenever you do anything muscle-related, your neurons use acetylcholinesterase as a signal to basically say “go move your muscles.” The way VX is lethal is it actually stops your diaphragm, your lung muscles, from being able to move so your lungs become paralyzed.
+- “Obviously, this is something you want to avoid.”
+- Obviously, this is something you want to avoid. So historically, experiments have been done with different types of molecules to see whether they inhibit acetylcholinesterase. And so, we built up these large datasets of these molecular structures and how toxic they are.
+- We can use these datasets in order to create a machine learning model, which basically learns what parts of the molecular structure are important for toxicity and which are not. Then we can give this machine learning model new molecules, potentially new drugs that maybe have never been tested before. And it will tell us this is predicted to be toxic, or this is predicted not to be toxic. This is a way for us to virtually screen very, very fast a lot of molecules and sort of kick out ones that are predicted to be toxic. In our study here, what we did is we inverted that, obviously, and we use this model to try to predict toxicity.
+- The other key part of what we did here are these new generative models. We can give a generative model a whole lot of different structures, and it learns how to put molecules together. And then we can, in a sense, ask it to generate new molecules. Now it can generate new molecules all over the space of chemistry, and they’re just sort of random molecules. But one thing we can do is we can actually tell the generative model which direction we want to go. We do that by giving it a little scoring function, which gives it a high score if the molecules it generates are towards something we want. Instead of giving a low score to toxic molecules, we give a high score to toxic molecules.
+- Now we see the model start producing all of these molecules, a lot of which look like VX and also like other chemical warfare agents.
+- Tell me more about what you found. Did anything surprise you?
+- We weren’t really sure what we were going to get. Our generative models are fairly new technologies. So we haven’t widely used them a lot.
+- The biggest thing that jumped out at first was that a lot of the generated compounds were predicted to be actually more toxic than VX. And the reason that’s surprising is because VX is basically one of the most potent compounds known. Meaning you need a very, very, very little amount of it to be lethal.
+- Now, these are predictions that we haven’t verified, and we certainly don’t want to verify that ourselves. But the predictive models are generally pretty good. So even if there’s a lot of false positives, we’re afraid that there are some more potent molecules in there.
+- Second, we actually looked at a lot of the structures of these newly generated molecules. And a lot of them did look like VX and other warfare agents, and we even found some that were generated from the model that were actual chemical warfare agents. These were generated from the model having never seen these chemical warfare agents. So we knew we were sort of in the right space here and that it was generating molecules that made sense because some of them had already been made before.
+- For me, the concern was just how easy it was to do. A lot of the things we used are out there for free. You can go and download a toxicity dataset from anywhere. If you have somebody who knows how to code in Python and has some machine learning capabilities, then in probably a good weekend of work, they could build something like this generative model driven by toxic datasets. So that was the thing that got us really thinking about putting this paper out there; it was such a low barrier of entry for this type of misuse.
+- Your paper says that by doing this work, you and your colleagues “have still crossed a gray moral boundary, demonstrating that it is possible to design virtual potential toxic molecules without much in the way of effort, time or computational resources. We can easily erase the thousands of molecules we created, but we cannot delete the knowledge of how to recreate them.” What was running through your head as you were doing this work?
+- This was quite an unusual publication. We’ve been back and forth a bit about whether we should publish it or not. This is a potential misuse that didn’t take as much time to perform. And we wanted to get that information out since we really didn’t see it anywhere in the literature. We looked around, and nobody was really talking about it. But at the same time, we didn’t want to give the idea to bad actors.
+- “Some adversarial agent somewhere is maybe already thinking about it”
+- At the end of the day, we decided that we kind of want to get ahead of this. Because if it’s possible for us to do it, it’s likely that some adversarial agent somewhere is maybe already thinking about it or in the future is going to think about it. By then, our technology may have progressed even beyond what we can do now. And a lot of it’s just going to be open source — which I fully support: the sharing of science, the sharing of data, the sharing of models. But it’s one of these things where we, as scientists, should take care that what we release is done responsibly.
+- How easy is it for someone to replicate what you did? What would they need?
+- I don’t want to sound very sensationalist about this, but it is fairly easy for someone to replicate what we did.
+- If you were to Google generative models, you could find a number of put-together one-liner generative models that people have released for free. And then, if you were to search for toxicity datasets, there’s a large number of open-source tox datasets. So if you just combine those two things, and then you know how to code and build machine learning models —  all that requires really is an internet connection and a computer — then, you could easily replicate what we did. And not just for VX, but for pretty much whatever other open-source toxicity datasets exist.
+- “I don’t want to sound very sensationalist about this, but it is fairly easy for someone to replicate what we did.”
+- Of course, it does require some expertise. If somebody were to put this together without knowing anything about chemistry, they would ultimately probably generate stuff that was not very useful. And there’s still the next step of having to get those molecules synthesized. Finding a potential drug or potential new toxic molecule is one thing; the next step of synthesis — actually creating a new molecule in the real world — would be another barrier.
+- Right, there’s still some big leaps between what the AI comes up with and turning that into a real-world threat. What are the gaps there?
+- The big gap to start with is that you really don’t know if these molecules are actually toxic or not. There’s going to be some amount of false positives. If we’re walking ourselves through what a bad agent would be thinking or doing, they would have to make a decision on which of these new molecules they would want to synthesize ultimately.
+- As far as synthesis routes, this could be a make it or break it. If you find something that looks like a chemical warfare agent and try to get that synthesized, chances are it’s not going to happen. A lot of the chemical building blocks of these chemical warfare agents are well known and are watched. They’re regulated. But there’s so many synthesis companies. As long as it doesn’t look like a chemical warfare agent, they’re most likely going to just synthesize it and send it right back because who knows what the molecule is being used for, right?
+- You get at this later in the paper, but what can be done to prevent this kind of misuse of AI? What safeguards would you like to see established?
+- For context, there are more and more policies about data sharing. And I completely agree with it because it opens up more avenues for research. It allows other researchers to see your data and use it for their own research. But at the same time, that also includes things like toxicity datasets and toxicity models. So it’s a little hard to figure out a good solution for this problem.
+- We looked over towards Silicon Valley: there’s a group called OpenAI; they released a top-of-the-line language model called GPT-3. It’s almost like a chatbot; it basically can generate sentences and text that is almost indistinguishable from humans. They actually let you use it for free whenever you want, but you have to get a special access token from them to do so. At any point, they could cut off your access from those models. We were thinking something like that could be a useful starting point for potentially sensitive models, such as toxicity models.
+- Science is all about open communication, open access, open data sharing. Restrictions are antithetical to that notion. But a step going forward could be to at least responsibly account for who’s using your resources.
+- Your paper also says that “[w]ithout being overly alarmist, this should serve as a wake-up call for our colleagues” — what is it that you want your colleagues to wake up to? And what do you think that being overly alarmist would look like?
+- We just want more researchers to acknowledge and be aware of potential misuse. When you start working in the chemistry space, you do get informed about misuse of chemistry, and you’re sort of responsible for making sure you avoid that as much as possible. In machine learning, there’s nothing of the sort. There’s no guidance on misuse of the technology.
+- “We just want more researchers to acknowledge and be aware of potential misuse.”
+- So putting that awareness out there could help people really be mindful of the issue. Then it’s at least talked about in broader circles and can at least be something that we watch out for as we get better and better at building toxicity models.
+- I don’t want to propose that machine learning AI is going to start creating toxic molecules and there’s going to be a slew of new biochemical warfare agents just around the corner. That somebody clicks a button and then, you know, chemical warfare agents just sort of appear in their hand.
+- I don’t want to be alarmist in saying that there’s going to be AI-driven chemical warfare. I don’t think that’s the case now. I don’t think it’s going to be the case anytime soon. But it’s something that’s starting to become a possibility.
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://www.latimes.com/opinion/story/2022-03-30/ai-artificial-intelligence-chemical-weapons
+
+URL: https://www.morningbrew.com/emerging-tech/stories/2022/03/18/drug-discovery-ai-can-be-inverted-to-create-chemical-weapons-scientists-find
+- Dbenitostock/Getty Images
+- · less than 3 min read
+- Tech Brew informs business leaders about the latest innovations, automation advances, policy shifts and more to help them make smart decisions.
+- On the one hand, harnessing the power of data-crunching algorithms to discover new drugs is extremely exciting—a tangible example of AI for good. On the other, those same algorithms can easily be inverted to develop bioweapons, according to a new article in Nature Machine Intelligence.
+- Wait, what? Collaborations Pharmaceuticals, a company that uses AI for drug discovery, was asked to prepare a conference presentation about the risks drug-discovery AI poses regarding dual use—a term describing the potential for ostensibly good scientific and technological developments to be used for not-good things.
+- Collaboration found that, in this case, the potential for dual use is alarmingly high. In under six hours—and with a couple tweaks to optimize for toxic compounds—a machine learning-powered molecule generator that the company had originally created to help guide drug discovery was spitting out deadly designs.
+- To be clear…Collaboration did not actually synthesize any of these toxic compounds, but the researchers pointed out that “with a global array of hundreds of commercial companies offering chemical synthesis, that is not necessarily a very big step, and this area is poorly regulated.”
+- The authors suggest a number of safeguards to protect against such misuse of commercial products, from API restrictions to reporting hotlines to more investment in ethics education for STEM students.
+- Zoom out: Concerns about dual-use technologies are nothing new: A compound used to prevent earwax is regulated as a chemical weapon because it is a key input to mustard gas, for example. But the burgeoning bioeconomy will present new iterations of the problem.
+- Tech Brew informs business leaders about the latest innovations, automation advances, policy shifts and more to help them make smart decisions.
+- Brands
+- Search
+- Brew
+- © 2023 Morning Brew, Inc.
+- All Rights Reserved.
+
+URL: https://www.sciencealert.com/ai-experiment-generated-40-000-hypothetical-bioweapons-in-6-hours-scientists-warn
+- The cutting-edge number-crunching capabilities of artificial intelligence mean that AI systems are able to spot diseases early, manage chemical reactions, and explain some of the mysteries of the Universe.
+- But there's a downside to this incredible and virtually limitless artificial brainpower.
+- New research emphasizes how easily AI models can be trained for malicious purposes as well as good, specifically in this case to imagine the designs for hypothetical bioweapon agents. A trial run with an existing AI identified 40,000 such bioweapon chemicals in the space of only six hours.
+- In other words, while AI can be incredibly powerful – and much, much faster than humans – when it comes to spotting chemical combinations and drug compounds to improve our health, the same power can be used to dream up potentially very dangerous and deadly substances.
+- "We have spent decades using computers and AI to improve human health – not to degrade it," the researchers write in a new commentary.
+- "We were naive in thinking about the potential misuse of our trade, as our aim had always been to avoid molecular features that could interfere with the many different classes of proteins essential to human life."
+- The team ran the trial at an international security conference, putting an AI system called MegaSyn to work – not in its normal mode of operation, which is to detect toxicity in molecules in order to avoid them, but to do the opposite.
+- In the experiment, the toxic molecules were kept rather than eliminated. What's more, the model was also trained to put these molecules together in combinations – which is how so many hypothetical bioweapons were generated in so short a time.
+- In particular, the researchers trained the AI with molecules in databases of drug-like molecules, instructing that they'd like something similar to the potent nerve agent VX.
+- As it turned out, a lot of the generated compounds were even more toxic than VX. As a result, the authors behind the new study are keeping some of the details of their research secret, and have seriously debated whether or not to make these results public at all.
+- "By inverting the use of our machine learning models, we had transformed our innocuous generative model from a helpful tool of medicine to a generator of likely deadly molecules," the researchers explain.
+- In an interview with The Verge, Fabio Urbina – lead author of the new paper and senior scientist at Collaborations Pharmaceuticals, where the research took place – explained that it doesn't take much to "flip the switch" from good AI to bad AI.
+- While none of the listed bioweapons were actually explored or put together in a lab, the researchers say their experiment serves as a warning of the dangers of artificial intelligence – and it's a warning that humanity would do well to heed.
+- While some expertise is required to do what the team did here, a lot of the process is relatively straightforward and uses publicly available tools.
+- The researchers are now calling for a "fresh look" at how artificial intelligence systems can potentially be used for malevolent purposes. They say greater awareness, stronger guidelines, and tighter regulation in the research community could help us to avoid the perils of where these AI capabilities might otherwise lead.
+- "Our proof of concept thus highlights how a non-human autonomous creator of a deadly chemical weapon is entirely feasible," the researchers explain.
+- "Without being overly alarmist, this should serve as a wake-up call for our colleagues in the 'AI in drug discovery' community."
+- The research has been published in Nature Machine Intelligence.
+
+URL: https://www.theregister.com/2022/03/18/ai_weapons_learning/
+
+URL: https://www.theblaze.com/news/an-ai-designed-to-find-new-drugs-created-40000-potential-chemical-weapons-in-less-than-6-hours
+- Please verify
+- An artificial intelligence designed to help drug manufacturers find new medicines to treat diseases invented 40,000 new potential chemical weapons in just six hours.
+- Researchers with the North Carolina-based startup Collaboration Pharmaceuticals Inc. say they have computational proof that AI technologies designed for drug discovery could be "misused for de novo design of biochemical weapons." In a study published in the journal Nature Machine Intelligence, they describe how a "thought exercise" turned into a "wake up call" for the "AI in drug discovery community."
+- The company has a commercial machine learning model, called MegaSyn, which is trained to identify potential drug candidates by filtering out compounds that would be toxic for human beings. Scientists wanted to know what would happen if the logic of the AI's algorithm was reversed — what would it do if it were trained to find toxic compounds instead of eliminate them.
+- Using an open-source database, scientists instructed their AI to look for molecules with similar chemical properties to the nerve agent VX, one of the most dangerous chemical weapons invented in the 20th century.
+- 
+- VX is a tasteless and odorless chemical that attacks the body's nervous system, paralyzing muscles and preventing a person exposed to the agent from breathing. The extremely toxic compound was used to assassinate Kim Jong-nam, the half-brother of North Korean dictator Kim Jong-un.
+- 
+- In less than six hours after it was turned on, the AI not only generated a copy of VX, but also modeled 40,000 molecules that were either known chemical warfare agents or could potentially be turned into new chemical weapons. Some were predicted to be even more toxic than known chemical warfare agents.
+- "By inverting the use of our machine learning models, we had transformed our innocuous generative model from a helpful tool of medicine to a generator of likely deadly molecules," the paper's authors wrote.
+- "Our toxicity models were originally created for use in avoiding toxicity, enabling us to better virtually screen molecules (for pharmaceutical and consumer product applications) before ultimately confirming their toxicity through in vitro testing. The inverse, however, has always been true: the better we can predict toxicity, the better we can steer our generative model to design new molecules in a region of chemical space populated by predominantly lethal molecules."
+- Perhaps the most frightening conclusion of the researchers is that their research is easily replicated.
+- Fabio Urbina, a senior scientist at Collaboration Pharmaceuticals and the paper's lead author, told The Verge in an interview that anyone with a background in chemistry and internet access could replicate their work.
+- "If you were to Google generative models, you could find a number of put-together one-liner generative models that people have released for free. And then, if you were to search for toxicity datasets, there’s a large number of open-source tox datasets. So if you just combine those two things, and then you know how to code and build machine learning models — all that requires really is an internet connection and a computer — then, you could easily replicate what we did. And not just for VX, but for pretty much whatever other open-source toxicity datasets exist," Urbina said.
+- "Of course, it does require some expertise. If somebody were to put this together without knowing anything about chemistry, they would ultimately probably generate stuff that was not very useful. And there’s still the next step of having to get those molecules synthesized. Finding a potential drug or potential new toxic molecule is one thing; the next step of synthesis — actually creating a new molecule in the real world — would be another barrier."
+- Importantly, not every molecule the AI identifies as a chemical weapons candidate would work if it were somehow synthesized. Some will be false positives — just like how new drug candidates identified by the AI don't always lead to medicines that work.
+- Still, the AI technology clearly has dangerous implications, so much so that the scientists were even hesitant to publish their findings, in case some individuals were to use their work for evil.
+- “The dataset they used on the AI could be downloaded for free and they worry that all it takes is some coding knowledge to turn a good AI into a chemical weapon-making machine,” Urbina explained.
+- “At the end of the day, we decided that we kind of want to get ahead of this. Because if it’s possible for us to do it, it’s likely that some adversarial agent somewhere is maybe already thinking about it or in the future is going to think about it.”
+- The paper recommends several precautions drug researchers using AI technology should take to prevent their work from falling into the wrong hands. Among their recommendations is a reporting structure or hotline to authorities should researchers become aware of someone developing toxic molecules for non-therapeutic uses.
+- "We hope that by raising awareness of this technology, we will have gone some way toward demonstrating that although AI can have important applications in healthcare and other industries, we should also remain diligent against the potential for dual use, in the same way that we would with physical resources such as molecules or biologics," the paper concludes.
+- 
+- YOU ARE A BOT
+- 
+- We use cookies to better understand website visitors, for advertising, and to offer you a better experience. For more information about our use of cookies, our collection, use, and disclosure of personal information generally, and any rights you may have to access, delete, or opt out of the sale of your personal information, please view our Privacy Policy.
+
+URL: https://www.dailymail.co.uk/sciencetech/article-10636357/AI-came-thousands-chemical-weapons-just-hours-task-scientists.html
+- By Ryan Morrison For Dailymail.Com
+- Updated:  12:29 EDT, 21 March 2022
+- 
+- 251
+- View  comments
+- 
+- An artificial intelligence model was able to create 40,000 chemical weapons compounds in just six hours, after being given the task by researchers.
+- A team of scientists were using AI to look for compounds that could be used to cure disease, and part of this involves filtering out any that could kill a human.
+- As part of a conference on potentially negative implications of new technology, biotech startup Collaborations Pharmaceuticals, from Raleigh, North Carolina, 'flipped a switch' in its AI algorithm, and had it find the most lethal compounds.
+- The team wanted to see just how quickly and easily an artificial intelligence algorithm could be abused, if it were set on a negative, rather than positive task.
+- Once in 'bad mode' the AI was able to invent thousands of new chemical combinations, many of which resembled the most dangerous nerve agents in use today, according to a report by The Verge.
+- Among the compounds invented by the AI, were some similar to VX, an extremely toxic nerve agents, that can cause twitching in even tiny doses.
+- The researchers said one of the scariest aspects of their discovery, was how easy it was to take a widely available dataset of toxic chemicals, and use AI to design chemical weapons similar to the most dangerous currently.
+- A team of scientists were using AI to look for compounds that could be used to cure disease, but decided to 'set it to evil mode', and have it look for bio-weapons. Stock image
+- Creating a compound as powerful as VX was a shock to the researchers, as even a tiny drop of this chemical can cause a human to twitch.
+- A large enough dose can lead to convulsions and stop a person from breathing, and the new compound created by the AI could ave a similar effect, the team predict.
+- Fabio Urbina, lead author of the paper, said they have a lot of datasets of molecules that have been tested to see if they are toxic or not.
+- 'In particular, the one that we focus on here is VX. It is an inhibitor of what's known as acetylcholinesterase,' he told The Verge.
+- 'Whenever you do anything muscle-related, your neurons use acetylcholinesterase as a signal to basically say 'go move your muscles.'
+- 'The way VX is lethal is it actually stops your diaphragm, your lung muscles, from being able to move so your lungs become paralyzed.'
+- The idea for 'flipping the switch' on the AI to turn it 'bad' came from the Convergence Conference, organised by the Swiss Federal Institute for Nuclear, Biological and Chemical Protection.
+- The goal is to explore the implication that new tools and developments could have in the realm of chemical and biological weapons, even unintentionally.
+- Meeting every two years, the conferences bring together an international group of scientific and disarmament experts to explore the current state of the art in the chemical and biological fields and their trajectories.
+- 'We got this invite to talk about machine learning and how it can be misused in our space. It's something we never really thought about before,' said Urbina.
+- 'But it was just very easy to realize that as we're building these machine learning models to get better and better at predicting toxicity in order to avoid toxicity, all we have to do is sort of flip the switch around and say, 'You know, instead of going away from toxicity, what if we do go toward toxicity?''
+- The team wanted to see just how quickly and easily an artificial intelligence algorithm could be abused, if it were set on a negative, rather than positive task. Stock image
+- The machine learning specialist works to implement models in the area of drug discovery, and a large fraction of them focuses on how toxic a compound might be.
+- 'If it turns out you have this wonderful drug that lowers blood pressure fantastically, but it hits one of those really important, say, heart channels - then basically, it's a no-go because that's just too dangerous,' said Urbina.
+- They use large datasets of what is toxic, how it is toxic and its impact. They do this to determine whether potential new drugs will prove too dangerous for humans.
+- The Artificial Intelligence model used in the study had never seen a chemical used in warfare before.
+- It was starting blind - with just access to a toxic compounds dataset.
+- The team had it scour through the dataset, look for potentially potent chemicals, and work out ways to place them together.
+- This model is more often used to find safe drugs that can treat rare disease - the toxic dataset is used to reduce the risk of those drugs being harmful.
+- Flipping the switch, the team found it was able to quickly, and easily, produce dangerous compounds, similar to those in warfare, such as VX, a toxic nerve agent.
+- Researchers said the scariest aspect was how easy it managed it, and how anyone with Python knowledge could design chemical warfare compounds using artificial intelligence.
+- 'Then we can give this machine learning model new molecules, potentially new drugs that maybe have never been tested before. And it will tell us this is predicted to be toxic, or this is predicted not to be toxic.
+- 'This is a way for us to virtually screen very, very fast a lot of molecules and sort of kick out ones that are predicted to be toxic.'
+- For the new study they flipped it around - using the AI model they created to look for the most toxic, most dangerous molecules, and see if they can make it worse.
+- 'The other key part of what we did here are these new generative models. We can give a generative model a whole lot of different structures, and it learns how to put molecules together,' Urbina told The Verge, adding they 'can, in a sense, ask it to generate new molecules.'
+- They found it could generate these molecules through any space of chemistry, and not just random, but ones that can be directed by the team.
+- 'We do that by giving it a little scoring function, which gives it a high score if the molecules it generates are towards something we want. Instead of giving a low score to toxic molecules, we give a high score to toxic molecules.
+- Most of the toxic molecules resembled chemicals used in warfare, including VS, and this was done despite the model having never seen these chemicals before - or any chemical warfare agent.
+- 'For me, the concern was just how easy it was to do,' said Urbina, 'a lot of the things we used are out there for free. You can go and download a toxicity dataset from anywhere.
+- 'If you have somebody who knows how to code in Python and has some machine learning capabilities, then in probably a good weekend of work, they could build something like this generative model driven by toxic datasets.
+- 'So that was the thing that got us really thinking about putting this paper out there; it was such a low barrier of entry for this type of misuse.'
+- The findings have been published in the journal Nature Machine Intelligence.
+- AI systems rely on artificial neural networks (ANNs), which try to simulate the way the brain works in order to learn.
+- ANNs can be trained to recognise patterns in information - including speech, text data, or visual images - and are the basis for a large number of the developments in AI over recent years.
+- Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information.
+- AI systems rely on artificial neural networks (ANNs), which try to simulate the way the brain works in order to learn. ANNs can be trained to recognise patterns in information - including speech, text data, or visual images
+- Practical applications include Google's language translation services, Facebook's facial recognition software and Snapchat's image altering live filters.
+- The process of inputting this data can be extremely time consuming, and is limited to one type of knowledge.
+- A new breed of ANNs called Adversarial Neural Networks pits the wits of two AI bots against each other, which allows them to learn from each other.
+- This approach is designed to speed up the process of learning, as well as refining the output created by AI systems.
+- EXCLUSIVE: Tina Turner lived in agony for years... but her biggest heartache was her children: Singer's daughter-in-law reveals her fears that Ronnie would 'turn out like' abusive father Ike - and how she could never overcome devastation of Craig's suicide
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://interestingengineering.com/artificial-intelligence-chemical-weapons
+- By subscribing, you agree to our Terms of Use and Policies You may unsubscribe at any time.
+- In today's society, artificial intelligence (A.I.) is mostly used for good. But what if it was not?
+- This is the question researchers from Collaborations Pharmaceuticals asked themselves when conducting experiments using an A.I. that was built to search for helpful drugs.
+- They, therefore, tweaked this A.I. to look for chemical weapons, and impressively enough the machine learning algorithm found 40,000 options in just six hours, according to a paper published this month in the journal Nature Machine Intelligence.
+- "The thought had never previously struck us. We were vaguely aware of security concerns around work with pathogens or toxic chemicals, but that did not relate to us; we primarily operate in a virtual setting. Our work is rooted in building machine learning models for therapeutic and toxic targets to better assist in the design of new molecules for drug discovery," wrote the researchers in their paper.
+- "We have spent decades using computers and A.I. to improve human health—not to degrade it. We were naive in thinking about the potential misuse of our trade, as our aim had always been to avoid molecular features that could interfere with the many different classes of proteins essential to human life."
+- The researchers said that even their work on Ebola and neurotoxins, which could have raised concerns about the potential negative implications of their machine learning models, had not set their alarm bells ringing. They were blissfully unaware of the damage they cond inflict.
+- Collaborations Pharmaceuticals had published computational machine learning models for toxicity prediction. All the researchers had to do was adapt their methodology to seek out, rather than weed out toxicity and what they got was a thought exercise that evolved into a computational proof of concept for making biochemical weapons.
+- The experiment is a clear indication of why we need to monitor A.I. models more closely and really think about the consequences of our work.
+- Abstract:
+- The Swiss Federal Institute for NBC (nuclear, biological and chemical) Protection —Spiez Laboratory— convenes the ‘convergence’ conference series set up by the Swiss government to identify developments in chemistry, biology and enabling technologies that may have implications for the Chemical and Biological Weapons Conventions. Meeting every two years, the conferences bring together an international group of scientific and disarmament experts to explore the current state of the art in the chemical and biological fields and their trajectories, to think through potential security implications and to consider how these implications can most effectively be managed internationally. The meeting convenes for three days of discussion on the possibilities of harm, should the intent be there, from cutting-edge chemical and biological technologies. Our drug discovery company received an invitation to contribute a presentation on how AI technologies for drug discovery could potentially be misused.
+
+URL: https://www.chemistryworld.com/news/drug-discovery-ai-that-developed-new-nerve-agents-raises-difficult-questions/4015462.article
+
+- ChatGPT chatbot
+- Epic Deterioration Index accuracy, bias
+- Page infoType: Incident Published: March 2023

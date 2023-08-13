@@ -1,0 +1,286 @@
+- Released: June 2020
+- Can you improve this page?Share your insights with us
+- The Southern Co-op operates over 200 retail stores and 50 funeral homes across southern England. A mutual society, it is owned by 130,000+ members who share in its profits and control its operations.
+- In December 2020, WIRED picked up on a blog post by Southern Co-op executive Gareth Lewis that 18 Southern Co-op stores had 'successfully' completed a trial in which shoppers entering Co-op premises were being scanned using real-time facial recognition cameras in order to reduce shoplifting and abuse and violence against staff.
+- News of the trial sparked privacy campaigners to express concerns about data rights and privacy, transparency, and increasing use of surveillance technology in the private sector.
+- According to the Co-op, individuals (or 'Subjects of Interest') reasonably suspected of having committed offences which have been witnessed by CCTV or staff members are added to a database, and their data kept for one year.
+- When a subject of interest is added, the Southern Co-op's facial recognition supplier Facewatch's system automatically alerts other retail clients within an eight-mile radius in London, a 15-mile radius in other cities, and a 43-mile radius in rural areas, thereby forming a de facto private facial recognition network, or set of networks.
+- Civil liberties advocates such as Privacy International and Big Brother Watch are concerned that Facewatch's cloud-based network may not to be proportionate, and is potentially illegal under UK data privacy law.
+- By contrast, Facewatch argues 'the privacy intrusion to genuine shoppers is negligible'.
+- In July 2022, civil liberties group Big Brother Watch filed a complaint (pdf) to the UK’s Information Commissioner’s Office against Southern Co-op and Facewatch.
+- The complaint alleges that the Southern Co-op and Facewatch process more data than is necessary for generating and storing watchlist entries, and that the two entities lack transparency about how they collect and process people’s data.
+- Despite Southern Co-op stating that 'distinctive signage' is on display in the relevant stores, rights groups argue the chain failed to inform customers sufficiently clearly, made a meaningful general public announcement before the trials started.
+- Big Brother Watch is also concerned that individuals are not informed if they are added to the Co-op and Facewatch's databases, despite the chance they may be innocent, and that there is very little visible information on what data is stored, how it is stored,  the length of storage, and with whom it may be shared, including the police.
+- Nor is it clear how individuals can have appeal against having their data stored.
+- In January 2022, the Daily Mail published details of an investigation by video research company IPVM that found that nine stores out of the 35 it investigated used Hikvision CCTV cameras.
+- Hikvision cameras have been widely used in the surveillance and repression of the Muslim minority Uyghurs in Xinjiang province, China. Facewatch says it is 'agnostic to the hardware and will follow the Government’s lead on whether to continue using Hikvision hardware or not.'
+- IPVM also found one store with no viewable signage, and seven seven with small and often obscured signage.
+- Operator: Southern Co-op Developer: Facewatch; Hikvision Country: UK Sector: Retail Purpose: Reduce crime, violence Technology: Facial recognition Issue: Privacy Transparency: Governance; Complaints/appeals; Marketing; Privacy
+- Southern Co-op website
+- Southern Co-op Wikipedia profile
+- Facewatch website
+- Big Brother Watch (2023). Big Brother Watch files legal challenge with the ICO against Southern Co-op's use of facial recognition systems
+- Big Brother Watch (2023). ICO complaint (pdf)
+- IPVM (2022). UK Grocer Facial Recognition With Hikvision Cameras, GDPR And Ethical Risks Examined
+- Privacy International (2020). Cooperating With Who?! Answers Needed as UK Retailer Southern Co-Op Tests Facewatch
+URL: https://www.bbc.co.uk/news/technology-55259179
+- A trial of facial recognition technology within 18 Co-op food stores has sparked outrage from privacy advocates.
+- The system, from start-up Facewatch, alerts workers if someone enters the store who had a past record of "theft or anti-social behaviour".
+- The supermarket said the pilot was done to protect workers from assaults by shoplifters.
+- Privacy groups say they are "deeply concerned" by the trial.
+- The initiative was organised by the Southern Co-operative, which is independent of the larger Co-op chain but runs more than 200 stores in the south of England using the same brand.
+- The trial was first reported by Wired's news site, which picked up on a blog posted on Facewatch's website by Southern Co-op's loss prevention officer Gareth Lewis.
+- Mr Lewis wrote that the retailer has completed a "successful trial using Facewatch in a select number of stores where there is a higher level of crime".
+- The technology is still being used in those stores but there are no plans to roll it out more widely, the firm told the BBC.
+- In an open letter to the retailer, Privacy International questioned the legality of the technology in stores. It also asked whether information was being shared with the police.
+- Director of civil rights group Big Brother Watch, Silkie Carlo, said: "To see a supposedly ethical company secretly using rights-abusive tech like facial recognition on its customers in the UK is deeply chilling.
+- "This surveillance is well-known to suffer from severe inaccuracy and biases, leading to innocent people being wrongly flagged and put on criminal databases.
+- "Live facial recognition is more commonly seen in dictatorships than democracies. This is a serious error of judgement by Southern Co-op and we urge them to drop these Big Brother-style cameras immediately."
+- The Southern Co-operative said there were clear signs about the system in the stores involved in the trial and it was GDPR-compliant.
+- In a statement to the BBC, it added that no data had been shared with police.
+- "Already this year, we have seen an 80% increase in assaults and violence against our store colleagues.
+- "The purpose of our limited and targeted use of facial recognition is to identify when a known repeat offender enters one of our stores.
+- "This gives our colleagues time to decide on any action they need to take, for example, asking them to politely leave the premises or notifying police if this is a breach of a banning order."
+- It added that violence in stores occurred when "a colleague intervenes after a theft has already taken place" and using facial recognition "improved the safety of our store colleagues".
+- The Co-op is not the only supermarket to use image recognition technology to catch thieves.
+- This summer, Sainsbury's trialled an AI-enabled concealment detector in several stores, which was able to spot if a customer had pocketed an item and send a short video to security staff.
+- The supermarket partnered with start-up ThirdEye, which claims the system stopped 5,591 attempted thefts.
+- Facial recognition tech has proved controversial, with questions over how well it recognises darker shades of skin, alongside ethical concerns about invasion of privacy.
+- In August, the use of the technology by British police forces was ruled unlawful in a case brought by a civil rights campaigner.
+- And in the US, big tech firms including Amazon and IBM, have suspended the use of facial recognition software by police to allow lawmakers to consider legislation on how it should be deployed.
+- Facewatch describes itself as a "cloud-based facial recognition security system" and works with retailers in Argentina, Brazil and Spain.
+- Last year, it was reported the firm was on the verge of signing data-sharing deals with the Metropolitan Police and the City of London police, and was in talks with constabularies in Hampshire and Sussex.
+- Facial recognition fails on race, study says
+- IBM abandons 'biased' facial recognition tech
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Lula welcomes back banned Venezuelan leader
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://www.bbc.co.uk/news/uk-england-62297546
+- The Southern Co-Op chain is facing a legal challenge to its use of facial recognition technology to cut crime.
+- Big Brother Watch has complained to the Information Commissioner's Office about biometric surveillance at its shops.
+- The privacy campaign group says the system at the convenience stores breaches data protection and people may end up on a watch-list without knowing.
+- But Southern says it is only using the Facewatch system in shops with a history of crime, to protect its staff.
+- The co-operative runs 200 convenience stores across southern England, of which 35 have the system installed.
+- A single camera captures the faces of people who enter the shops, and the images are analysed and converted into biometric data.
+- This is then compared with a database of people the co-operative says have stolen from its shops, or been violent.
+- A spokeswoman said the watch-list was not a list of people with criminal convictions, but of people for which the business had evidence of criminal or anti-social behaviour.
+- Any shopper previously banned would be asked to leave, and others would be approached by staff with an offer of "how can I help?" to make it clear their presence had been detected.
+- Big Brother Watch has challenged the legality of the system in a submission to the Information Commissioner's Office (ICO), shared with the BBC.
+- The group says the biometric scans are "Orwellian in the extreme".
+- "The supermarket is adding customers to secret watch-lists with no due process, meaning shoppers can be spied on, blacklisted across multiple stores and denied food shopping despite being entirely innocent," said Big Brother Watch's director Silkie Carlo.
+- "This is a deeply unethical and a frankly chilling way for any business to behave."
+- The complaint to the ICO claims the system breaches data protection laws because the information is processed in ways which are not proportionate to the need to prevent crime.
+- Big Brother Watch argues that facial recognition is "privacy-intrusive" in general, and "highly privacy-intrusive" for people whose details are on the watch-list.
+- This was not justified because the system was not necessary for preventing crime, it said.
+- "It does not bring serious criminals to justice... it does not protect the public from harm in any meaningful way," the complaint says.
+- "At best, it displaces crime, empowering individual businesses to keep 'undesirables' out of their stores and move them elsewhere."
+- The data produced from the facial recognition cameras is deleted after being compared with the watch-list, but the original picture is kept for 72 hours in case an individual subsequently breaks the law or is violent.
+- Southern Co-Op said it would welcome any "constructive feedback" from the Information Commissioner.
+- "We take our responsibilities around the use of facial recognition extremely seriously and work hard to balance our customers' rights with the need to protect our colleagues and customers from unacceptable violence and abuse," it said.
+- "The safety of our colleagues and customers is paramount and this technology has made a significant difference to this, in the limited number of high-risk locations where it is being used.
+- "Signage is on display in the relevant stores. As long as it continues to prevent violent attacks, then we believe its use is justified."
+- The cameras are in use at Southern Co-Op shops in towns and cities including Portsmouth, Southampton, Bristol, Bournemouth, Hove, Croydon and Chichester.
+- Facewatch also provides the biometric cameras to Costcutter, Sports Direct, Spar, Nisa stores and Frasers Group.
+- The security system company said: "Facial recognition may be used where it is necessary because other methods to prevent crime, such as policing, CCTV and manned guarding, have tried and failed.
+- "Any privacy intrusion is minimal and proportionate. Facewatch is proven to be effective at crime prevention, and our clients experience a significant reduction in crime."
+- Facial recognition firm faces possible £17m fine
+- Legality of collecting faces online challenged
+- Face-collecting company database hacked
+- Attacks on Kosovo peacekeepers unacceptable - Nato
+- Russia seeks arrest of Lindsey Graham over video
+- Lula welcomes back banned Venezuelan leader
+- After a synagogue shooting, can a community heal?
+- The 'exploding' demand for giant heat pumps
+- Holmes is going to jail. Will she pay victims too?
+- The Thai election upstart who vows to be different
+- Man uniting Indian families torn by colonialism
+- Crackdown is 'untenable', Imran Khan tells BBC
+- What to expect from newly emboldened Erdogan
+- Why famous faces are popping up on UK streets
+- The generation clocking the most hours
+- Why it's 'imperative' to start using AI
+- Jellyfish blooms: Why not just eat them?
+- A 5,000-year-old craft under threat
+- © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+URL: https://news.sky.com/story/co-ops-use-of-facial-recognition-on-customers-prompts-legal-complaint-12659309
+- The campaigners say that the technology has been installed in 35 of the Southern Co-operative's 200 stores across Portsmouth, Bournemouth, Bristol, Brighton and Hove, Chichester, Southampton, and London.
+- Wednesday 27 July 2022 09:59, UK
+- A legal complaint has been filed against the Southern Co-operative convenience store chain's use over its use of live facial recognition cameras.
+- According to Big Brother Watch and data rights firm AWO, the biometric technology is infringing on the privacy rights of people in the UK.
+- The campaigners have filed their complaint to the Information Commissioner's Office (ICO) which is responsible for regulating privacy laws.
+- The system, which is sold by Facewatch, allegedly "uses novel technology and highly invasive processing of personal data, creating a biometric profile of every visitor to stores where its cameras are installed."
+- The campaigners say that the technology has been installed in 35 of the Southern Co-operative's 200 stores across Portsmouth, Bournemouth, Bristol, Brighton and Hove, Chichester, Southampton, and London.
+- It allows staff to add people to a "blacklist" without the shoppers being informed that their details will be kept for up to two years.
+- According to the Southern Co-op the technology is being used to protect staff in shops with a history of crime.
+- Christian curriculum using textbooks that deny climate change and say evolution is impossible
+- The 'black gold' that could help fight climate change for centuries to come
+- One in 10 female gamers feel suicidal over abuse they face while playing online, survey reveals
+- Southern said that staff don't receive or give photos of customers to police, but input them into the system which will create an alert if certain shoppers enter their stores.
+- Silkie Carlo, director of Big Brother Watch said: "Our legal complaint to the Information Commissioner is a vital step towards protecting the privacy rights of thousands of people who are affected by this dangerously intrusive, privatised spying.
+- "The Southern Co-op's use of live facial recognition surveillance is Orwellian in the extreme, highly likely to be unlawful, and must be immediately stopped by the Information Commissioner.
+- "The supermarket is adding customers to secret watchlists with no due process, meaning shoppers can be spied on, blacklisted across multiple stores, and denied food shopping despite being entirely innocent.
+- "This would sound extreme even in an episode of Black Mirror, and yet it is taking place right now in Britain," added Ms Carlo.
+- "This is a deeply unethical and frankly chilling way for any business to behave and I'd strongly recommend that people do not shop at the Southern Co-op whilst they continue to spy on their shoppers."
+- Alex Lawrence-Archer, solicitor at AWO said: "Our legal analysis shows there are good reasons to believe that Facewatch and Southern Co-op's implementation of live facial recognition technology is in breach of data protection legislation. And it could be causing serious harm to people on their 'watchlists'."
+- Read more: Facial recognition technology 'will turn our streets into police line-ups', campaigners sayPolice warned against 'sinister' use of facial recognition to find potential witnesses and not just suspects
+- AWO is arguing that the system has "significant risks of unfair bias and inaccuracy" and is calling for the ICO to rule it unlawful.
+- A spokesperson for Southern said: "We take our responsibilities around the use of facial recognition extremely seriously and work hard to balance our customers' rights with the need to protect our colleagues and customers from unacceptable violence and abuse.
+- "The safety of our colleagues and customers is paramount and this technology has made a significant difference to this, in the limited number of high-risk locations where it is being used.
+- "Signage is on display in the relevant stores. As long as it continues to prevent violent attacks, then we believe its use is justified."
+- © 2023 Sky UK
+
+URL: https://www.thegrocer.co.uk/convenience/southern-co-op-defends-facial-recognition-tech-after-privacy-backlash/651298.article
+
+URL: https://www.dailymail.co.uk/news/article-9041339/Big-Brother-watching-shopping-op.html
+- By Sean Poulter Consumer Affairs Editor For The Daily Mail
+- Published:  23:16, 10 December 2020   |  Updated:  11:19, 11 December 2020
+- 
+- 257
+- View  comments
+- 
+- A supermarket trial of facial-recognition cameras that spot known criminals as they enter a store has been branded ‘chilling’ by privacy campaigners.
+- The CCTV system, called Facewatch FR, alerts staff if it spots someone with a past record of theft or violence. Using stored images of individuals who have been banned or excluded for shoplifting or violence, it was carried out across 18 Co-op stores.
+- The Southern Co-operative said it introduced the cameras after attacks on workers rose by 80 per cent during the pandemic.
+- The group, which is independent of the larger Co-op chain but runs more than 200 stores in southern England under the same brand, said the scheme did not break data protection laws, and insisted that clear signage had been put up in the 18 stores.
+- However, privacy campaigners said the cameras had ‘deeply chilling’ implications of a Big Brother-style surveillance state.
+- The Co-op has trialled facial-recognition cameras that spot known criminals in 18 of its stores after attacks on workers rose by 80 per cent during the pandemic
+- The trial came to light in a blog posted on Facewatch’s website by Southern Co-op’s loss prevention officer Gareth Lewis. He wrote that the retailer has completed a ‘successful trial using Facewatch in a select number of stores where there is a higher level of crime’.
+- The Southern Co-operative said: ‘The purpose of our limited and targeted use of facial recognition is to identify when a known repeat offender enters one of our stores.
+- ‘This gives our colleagues time to decide on any action they need to take – for example, asking them to politely leave the premises or notifying police if this is a breach of a banning order.
+- ‘The No 1 reason for violence in our stores is when a colleague intervenes after a theft has already taken place. Using facial recognition in this limited way has improved the safety of our store colleagues.
+- ‘Already this year, we have seen an 80 per cent increase in assaults and violence against our colleagues.’
+- Facewatch has boasted of plans to introduce its system in more than 500 stores and petrol stations following trials with other businesses including Budgens.
+- It claims the system is 97.8 per cent accurate at recognising faces, even when face masks are worn – and stressed that it used only images of previous offenders, and none were shared with the police or other organisations.
+- Spokesman Stuart Greenfield rubbished the complaints of privacy campaigners, saying: ‘We are sick of these people being so negative about this. These critics are actually helping the criminals by trying to create scare stories. This is about crime prevention.’
+- But critics have questioned the legality of the technology in stores. Silkie Carlo, director of civil rights group Big Brother Watch, said of the Co-op trial: ‘To see a supposedly ethical company secretly using rights-abusive tech like facial recognition on its customers in the UK is deeply chilling.
+- ‘This surveillance is well known to suffer from severe inaccuracy and biases, leading to innocent people being wrongly flagged and put on criminal databases. Live facial recognition is more commonly seen in dictatorships than democracies.
+- ‘This is a serious error of judgment by Southern Co-op and we urge them to drop these Big Brother-style cameras immediately.’
+- In the trial, the database of images was collated by the Co-op in partnership with Facewatch from its own CCTV pictures of individuals who had previously been caught and reported to the police for shoplifting or violence.
+- Facewatch said the law allows it to keep these as a reference for up to two years, and stressed that it keeps a separate database for each retailer it works with and does not share images between them.
+- Facial recognition technology is controversial, with questions over how well it recognises darker shades of skin, alongside ethical concerns about privacy.
+- In August, the use of the cameras by British police forces was ruled unlawful in a case brought by a civil rights campaigner.
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/
+- You have been blacklisted, KTHXBAI
+- XID: 9008253
+- Varnish cache server
+
+URL: https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Matt Burgess
+- Branches of Co-op in the south of England have been using real-time facial recognition cameras to scan shoppers entering stores.
+- This story originally appeared on WIRED UK.
+- In total 18 shops from the Southern Co-op franchise have been using the technology in an effort to reduce shoplifting and abuse against staff. As a result of the trials, other regional Co-Op franchises are now believed to be trialing facial recognition systems.
+- Use of facial recognition by police forces has been controversial, with the Court of Appeal ruling parts of its use to be unlawful earlier this year. But its use has been creeping into the private sector, and the true scale of its use remains unknown.
+- Southern Co-op's facial recognition was quietly introduced for limited trials during the the last 18 months. While shops with face recognizing cameras displayed signs telling customers about its operation, no general public announcement was made before the trials started. The rollout has left privacy advocates questioning whether the shops can fully justify the use of the technology under data protection laws. They also worry about creeping surveillance and the ability of police forces to access private systems.
+- Southern Co-op is using facial recognition technology from Facewatch, a London-based startup. Every time someone enters one of the 18 shops using the tech cameras scan their faces. These CCTV images are converted to numerical data and compared against a watchlist of ‘suspects’ to see if there’s a match. If a match is made, staff within the store receive notifications on smartphones.
+- “The system alerts our store teams immediately when someone enters their store who has a past record of theft or anti-social behavior,” Gareth Lewis, Southern Co-op’s loss prevention lead wrote in a blog post on the Facewatch website. The post is the only public acknowledgement of the use of the technology and Lewis says it has been “successful,” with the tech being deployed in branches where there are higher levels of crime.
+- In response to police use of facial recognition technology, the Court of Appeal criticized a lack of transparency around the creation of watchlists and who could be on them. Co-op staff decide who is added to its watchlists based on behavior. A spokesperson for the firm says its “limited and targeted” use of facial recognition is to “identify when a known repeat offender enters one of our stores.”
+- “Only images of individuals known to have offended within our premises, including those who have been banned/excluded, are used on our facial recognition platform,” the spokesperson says. “Using facial recognition in this limited way has improved the safety of our store colleagues.”
+- Southern Co-op says there has been an 80 percent increase in assaults and violence against store staff this year and the “number one” reason why this happens is when staff try to apprehend shoplifters. “This gives our colleagues time to decide on any action they need to take, for example, asking them to politely leave the premises or notifying police if this is a breach of a banning order,” the spokesperson says. They add it is not planning on rolling out the tech to all of its Southern Co-op stores.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- In a Facewatch promotional video published in October, Co-op’s Lewis says the tech has been used in inner city stores for 18 months and it has “diverted over 3,000 incidents of theft.” In the same video Facewatch CEO Nick Fisher says the Co-op has “the best watchlist in the UK.”
+- The Facewatch system doesn’t store or add everyone’s faces to a central database but instead amalgamates watchlists created by the companies it works with. Facewatch says “subjects of interest” can be individuals “reasonably suspected” of carrying out crimes, which have been witnessed by CCTV or staff members. A person does not have to be charged or convicted with a crime to be flagged and their data is kept for two years.
+- “The data is then held stored and shared proportionally with other retailers creating a bigger watchlist where all benefit,” a spokesperson for Facewatch says. Its website claims it is the “ONLY shared national facial recognition watchlist” and the watchlist works by essentially linking up multiple private facial recognition networks. It adds that since the Southern Co-op trial it has started a trial with another division of Co-op.
+- Facewatch refuses to say who all of its clients are, citing confidential reasons, but its website includes case studies from petrol stations and other shops in the UK. Last year, the Financial Times reported Humber prison is using its tech, as well as police and retailers in Brazil. Facewatch said its tech was going to be used in 550 stores across London. This can mean huge numbers of people have their faces scanned. In Brazil during December 2018, 2.75 million faces were captured by the tech with the company founders telling the FT it reduced crime “overall by 70 percent.” (The report also said one Co-op food store around London’s Victoria station was using the tech.)
+- However, civil liberties advocates and regulators are cautious of the expansion of private facial recognition networks, with concerns about their regulation and proportionality.
+- “Once anyone walks into a Co-op store, they'll be subject to facial recognition scans... that might deter people from entering the stores during a pandemic,” says Edin Omanovic, an advocacy director who has been focussing on facial recognition at NGO Privacy International. The group has written to Co-op, regulators and law enforcement about the use of the tech. Further than this, his colleague Ioannis Kouvakas says the use of the Facewatch technology raises legal concerns. “It's unnecessary and disproportionate,” Kouvakas, a legal officer at Privacy International, says.
+- Facewatch and Co-op both rely upon their legitimate business interests under GDPR and data protection laws for scanning people’s faces. They say that using the facial recognition technology allows them to minimize the impact of crimes and improve safety for staff.
+- “You still need to be necessary and proportionate. Using an extremely intrusive technology to scan people's faces without them being 100 percent aware of the consequences and without them having the choice to provide explicit, freely given, informed and unambiguous consent, it's a no go” Kouvakas says.
+- WIRED Staff
+- Angela Watercutter
+- Jennifer M. Wood
+- Chris Stokel-Walker
+- It’s not the first time Facewatch’s technology has been questioned. Other legal experts have cast doubt on whether there is a substantial public interest in using the facial recognition technology. The UK’s data protection regulator, the Information Commissioner’s Office (ICO), says companies must have clear evidence that there’s a legal basis for these systems to be used.
+- “Public support for the police using facial recognition to catch criminals is high, but less so when it comes to the private sector operating the technology in a quasi-law enforcement capacity,” a spokesperson for the ICO says. The ICO is investigating where live facial recognition is being used in the private sector and expects to report its findings early next year.
+- “The investigation includes assessing the compliance of a range of private companies who have used, or are currently using, facial recognition technology,” the ICO spokesperson says. “Facewatch is amongst the organizations under consideration.”
+- Part of the ICO’s investigation into private sector facial recognition use includes where police forces are involved. There is growing concern around how police officials and law enforcement may be able to access images captured by privately run surveillance systems.
+- In the US, Amazon’s smart Ring doorbells, which includes movement tracking and face recognition, have been setup to provide data to police in some circumstances. And London’s Met Police was forced to apologize after handing images of seven people to a controversial private facial recognition system in Kings Cross in October 2019.
+- Both Co-op and Facewatch say their work involves no data sharing with police. “No facial images are shared with the police or with any other organization, nor are any other organization’s images shared with us for use within facial recognition,” the shop’s spokesperson says. However, Facewatch in the past has talked about striking relationships with police bodies around the UK. “Facewatch do not share data with the police and vice versa,” a spokesperson says.
+- In the coming years, the use of private facial recognition networks is certainly set to increase. Cameras and the cloud technology needed to run the AI systems are becoming increasingly more powerful and cheaper.
+- Civil liberties groups say as this expansion grows it needs to be transparent and properly regulated. “Public spaces in general will become completely surrounded by surveillance networks of some sort,’ Omanovic says. “So if police are having access to any of them, or a large proportion of them, it will essentially obliterate the ability to walk down the street or enter any retail centre or any cafe without somehow being subject to surveillance network.”
+- This story originally appeared on WIRED UK.
+- 📩 Want the latest on tech, science, and more? Sign up for our newsletters!
+- A race car crash from hell—and how the driver walked away
+- Orientalism, Cyberpunk 2077, and Yellow Peril in sci-fi
+- Wish List: Gift ideas for your social bubble and beyond
+- Hacker Lexicon: What is the Signal encryption protocol?
+- The free-market approach to this pandemic isn't working
+- 🎮 WIRED Games: Get the latest tips, reviews, and more
+- ✨ Optimize your home life with our Gear team’s best picks, from robot vacuums to affordable mattresses to smart speakers
+- Chris Stokel-Walker
+- Chris Stokel-Walker
+- Will Knight
+- Gregory Barber
+- Virginia Heffernan
+- Vittoria Elliott
+- Matt Burgess
+- Will Knight
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.dailymail.co.uk/news/article-10406421/Co-op-using-cameras-Chinese-state-owned-company-track-shoppers.html
+- By Jake Ryan Home Affairs Correspondent For The Mail On Sunday
+- Published:  22:12, 15 January 2022   |  Updated:  15:12, 16 January 2022
+- 
+- 412
+- View  comments
+- 
+- Co-op supermarkets are using facial recognition cameras made by a Chinese state-owned company to track its shoppers, The Mail on Sunday can reveal.
+- The ethical food retailer is using Hikvision's live facial recognition technology to monitor customers.
+- Hikvision cameras have been listed as a national security threat in the US while the UK's Ministry of Defence has issued guidance not to use the company's equipment.
+- And the firm has been blacklisted by US authorities over links to human rights abuses against Muslim Uighurs in China while MPs have called for a UK-wide ban.
+- But at Southern Co-op bosses have rolled out facial recognition technology across 35 stores in the south of England.
+- Co-op are set to use facial recognition cameras made by Chinese state-owned company Hikvision in 35 supermarkets across south England. Pictured: Co-op store in central London
+- An investigation by video surveillance researchers at IPVM, and passed to the Mail on Sunday, found that all nine stores out of the 35 it investigated used Hikvision facial recognition devices.
+- Live facial recognition is used by Co-op at stores in Southampton, Portsmouth, West London, Bristol and Chichester.
+- The supermarket's system is provided by Facewatch, a live facial recognition company which says it helps retailers catch shoplifters and violent customers.
+- Facewatch says it keeps a database of the faces of 'subjects of interest' for two years, though facial recognition technology is known to return large numbers of false matches.
+- The company also claims unmatched faces are 'deleted instantly'.
+- Fraser Sampson, the Government's independent Biometrics and Surveillance Camera Commissioner for England and Wales, warned of the importance of 'ethical leadership' in relation to facial recognition technology.
+- He said: 'I was asked to do an interview with Facewatch this week in which I addressed the importance of ethical practice – individual and corporate – if we are to retain public trust and confidence in the legitimate use of facial recognition generally.
+- Hikvision cameras (one is pictured) have been listed as a national security threat in the US while the UK's Ministry of Defence has issued guidance not to use the company's equipment
+- 'I also spoke about the importance of ethical leadership in this area which I believe involves not only responding to challenge but actively inviting it.
+- 'I have publicly raised a number of pertinent questions with Hikvision several months ago.
+- 'So far their answer has said very little but their response tells people a lot'.
+- Authorities in the US fear the companies' camera technology present a national security concern because of their Chinese state ownership, which the firms' bosses strongly deny.
+- Hikvision's cameras have been also widely used in the repression of the Muslim minority Uighurs in China, including inside internment camps.
+- Conservative MP Alicia Kearns, of the China Research Group, said: 'I understand that high-tech security cameras are important for shops like Co-Op.
+- 'Using cameras from a company like Hikvision isn't the answer. A company complicit in the genocide of the Uyghur, and surveiling the concentration camps in Xinjiang.
+- 'The Co-Op must rip this technology from their shops or risk giving the Chinese Government a map of each and every one of our faces, endangering us all.'
+- The MoS has also uncovered that police forces are using Chinese state-made cameras to track vehicles on the roads.
+- Hikvision's cameras have been widely used in the repression of the Muslim minority Uighurs in China, including inside internment camps. Pictured: Hikvision face-recognition camera
+- Staffordshire, Leicestershire and West Midlands Police all use Hikvision cameras for their automatic number plate recognition technology, leading to security concerns, while others use the firm's CCTV equipment.
+- A Southern Co-op spokeswoman said: 'No facial images from the Southern Co-op platform are shared with any other organisation.
+- 'Our limited and targeted use of this technology is only where there is a high level of crime and is used to protect our store colleagues from assaults and violence.
+- 'Our process uses a combination of facial recognition technology and human verification. If a facial image match takes place upon store entry, these are flagged as an alert to the store or duty manager and then validated by a colleague in store.'
+- A Hikvision spokesman said: 'Hikvision is committed to upholding the right to privacy and protecting people and their property.
+- 'The UK Government recently rejected a call for Hikvision to be banned from the United Kingdom. We remain resolute in our mission to enhance safety for all.'
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+- Mercadona facial recognition
+- Kohler, BMW, MaxMara China facial recognition
+- Page infoType: Incident Published: January 2023

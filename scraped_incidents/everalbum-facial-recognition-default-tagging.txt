@@ -1,0 +1,710 @@
+- Everalbum personal facial data harvesting
+- Occurred: August 2020
+- Can you improve this page?Share your insights with us
+- In August 2020, NBC News reported that cloud photo storage app Ever is using its users' photographs to train its facial recognition technology (FRT) system without informing them or letting them turn the system off.
+- Furthermore, the report discovered that Ever was selling its FRT system to companies, police, and military customers.
+- The report sparked multiple privacy and civil rights organisations to accuse Ever of egregious privacy abuse and opaque and misleading marketing, and to a wave of complaints by its users.
+- The furore also prompted a January 2021 complaint (pdf) by the US Federal Trade Commission (FTC), which was settled (pdf) in May 2021, with Ever instructed to all user data harvested from its app and to delete 'any models or algorithms developed in whole or in part' using that data.
+- Ever rebranded as Paravision days after NBC's 2019 report and closed Ever in August 2020, blaming increased competition from Apple and Google.
+- Operator: Paravision/Everalbum Developer: Paravision/Everalbum Country: USA Sector: Technology Purpose: Train facial recognition system Technology: Facial recognition Issue: Privacy Transparency: Governance; Privacy; Marketing
+URL: https://www.corporationwiki.com/p/2h37pq/everalbum-inc
+
+URL: https://index.co/company/everalbum
+
+URL: https://www.ftc.gov/news-events/news/press-releases/2021/01/california-company-settles-ftc-allegations-it-deceived-consumers-about-use-facial-recognition-photo
+- An official website of the United States government
+- Here’s how you know
+- The .gov means it’s official.
+
+                Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+- The site is secure.
+
+                The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+- We enforce federal competition and consumer protection laws that prevent anticompetitive, deceptive, and unfair business practices.
+- View Enforcement
+- Find legal resources and guidance to understand your business responsibilities and comply with the law.
+- Browse legal resources
+- View all Competition Matters Blog posts
+- We work to advance government policies that protect consumers and promote competition.
+- View Policy
+- Find legal resources and guidance to understand your business responsibilities and comply with the law.
+- Browse legal resources
+- Memo from Chair Lina M. Khan to commission staff and commissioners regarding the vision and priorities for the FTC.
+- Learn more
+- View all Tech@FTC Blog posts
+- Learn more about your rights as a consumer and how to spot and avoid scams. Find the resources you need to understand how consumer protection law impacts your business.
+- Visit militaryconsumer.gov
+- Visit consumer.gov
+- Visit Competition Counts
+- Competition Guidance
+- View News and Events
+- View more Events
+- Sign up for the latest news
+- 
+- Track enforcement and policy developments from the Commission’s open meetings.
+- Explore refund statistics including where refunds were sent and the dollar amounts refunded with this visualization.
+- Our mission is protecting consumers and competition by preventing anticompetitive, deceptive, and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitimate business activity.
+- Learn more about the FTC
+- Lina M. Khan was sworn in as Chair of the Federal Trade Commission on June 15, 2021.
+- Chair Lina M. Khan
+- Looking for legal documents or records? Search the Legal Library instead.
+- Looking for legal documents or records? Search the Legal Library instead.
+- Tags:
+- A California-based developer of a photo app has settled Federal Trade Commission allegations that it deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts.
+- As part of the proposed settlement, Everalbum, Inc. must obtain consumers’ express consent before using facial recognition technology on their photos and videos. The proposed order also requires the company to delete models and algorithms it developed by using the photos and videos uploaded by its users.
+- “Using facial recognition, companies can turn photos of your loved ones into sensitive biometric data,” Andrew Smith, Director of the FTC’s Bureau of Consumer Protection, said. “Ensuring that companies keep their promises to customers about how they use and handle biometric data will continue to be a high priority for the FTC.”
+- Everalbum offered an app called “Ever” that allowed users to upload photos and videos from their mobile devices, computers, or social media accounts to be stored and organized using the company’s cloud-based storage service. In its complaint, the FTC alleges that, in February 2017, Everalbum launched a new feature in the Ever app, called “Friends,” that used facial recognition technology to group users’ photos by the faces of the people who appear in them and allowed users to “tag” people by name. Everalbum allegedly enabled facial recognition by default for all mobile app users when it launched the Friends feature.
+- Between July 2018 and April 2019, Everalbum allegedly represented that it would not apply facial recognition technology to users’ content unless users affirmatively chose to activate the feature. Although, beginning in May 2018, the company allowed some Ever app users—those located in Illinois, Texas, Washington and the European Union—to choose whether to turn on the face recognition feature, it was automatically active for all other users until April 2019 and could not be turned off.
+- The FTC’s complaint alleges that Everalbum’s application of facial recognition to Ever app users’ photos was not limited to providing the Friends feature. Between September 2017 and August 2019, Everalbum combined millions of facial images that it extracted from Ever users’ photos with facial images that Everalbum obtained from publicly available datasets to create four datasets for use in the development of its facial recognition technology. The complaint alleges that Everalbum used the facial recognition technology resulting from one of those datasets to provide the Ever app’s Friends feature and also to develop the facial recognition services sold to its enterprise customers; however, the company did not share images from Ever users’ photos or their photos, videos, or personal information with those customers.
+- According to the complaint, Everalbum also promised users that the company would delete the photos and videos of Ever users who deactivated their accounts. The FTC alleges, however, that until at least October 2019, Everalbum failed to delete the photos or videos of any users who had deactivated their accounts and instead retained them indefinitely.
+- The proposed settlement requires Everalbum to delete:
+- In addition, the proposed settlement prohibits Everalbum from misrepresenting how it collects, uses, discloses, maintains, or deletes personal information, including face embeddings created with the use of facial recognition technology, as well as the extent to which it protects the privacy and security of personal information it collects. Under the proposed settlement, if the company markets software to consumers for personal use, it must obtain a user’s express consent before using biometric information it collected from the user through that software to create face embeddings or develop facial recognition technology.
+- The Commission voted 5-0 to issue the proposed administrative complaint and to accept the consent agreement with the company. Commissioner Rohit Chopra issued a separate statement.
+- The FTC published a description of the consent agreement package in the Federal Register. The agreement will be subject to public comment until February 24, 2021 after which the Commission will decide whether to make the proposed consent order final. Instructions for filing comments will appear in the published notice. Once processed, comments will be posted on Regulations.gov.
+- NOTE: The Commission issues an administrative complaint when it has “reason to believe” that the law has been or is being violated, and it appears to the Commission that a proceeding is in the public interest. When the Commission issues a consent order on a final basis, it carries the force of law with respect to future actions. Each violation of such an order may result in a civil penalty of up to $43,280.
+- The Federal Trade Commission works to promote competition and protect and educate consumers. Learn more about consumer topics at consumer.ftc.gov, or report fraud, scams, and bad business practices at ReportFraud.ftc.gov. Follow the FTC on social media, read consumer alerts and the business blog, and sign up to get the latest FTC news and alerts.
+
+URL: https://www.ftc.gov/system/files/documents/cases/everalbum_order.pdf
+
+URL: https://www.ftc.gov/system/files/documents/public_statements/1585858/updated_final_chopra_statement_on_everalbum_for_circulation.pdf
+
+URL: https://www.federalregister.gov/documents/2021/01/25/2021-01430/everalbum-inc-analysis-of-proposed-consent-order-to-aid-public-comment
+- Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs.
+- If you are human user receiving this message, we can add your IP address to a set of IPs that can access FederalRegister.gov & eCFR.gov; complete the CAPTCHA (bot test) below and click "Request Access". This process will be necessary for each IP address you wish to access the site from, requests are valid for approximately one quarter (three months) after which the process may need to be repeated.
+- An official website of the United States government.
+- If you want to request a wider IP range, first request access for your current IP, and then use the "Site Feedback" button found in the lower left-hand side to make the request.
+
+URL: https://epic.org/ftc-orders-photo-app-to-delete-algorithms-built-on-personal-data/
+- January 11, 2021
+- The Federal Trade Commission has reached a settlement with Everalbum, Inc., a California-based developer of a photo storage app, over allegations that it deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts. The proposed order requires the company to delete the facial recognition technologies it illegally developed using user photos and videos. According to the FTC complaint, Everalbum represented that it would not apply facial recognition technology to users’ content unless users affirmatively chose to activate the feature. But the company allowed some Ever app users—those located in Illinois, Texas, and Washington state —to choose whether to turn on the face recognition feature, even though it was automatically active for all other users and could not be turned off. Commissioner Rohit Chopra noted in an accompanying statement that residents of those states were afforded stronger protections because their legislatures had passed laws regulating facial recognition and biometric identifiers. Everalbum's differential treatment of users illustrates why Congress must ensure that any proposed federal privacy law sets a baseline for the country while protecting the ability of states to enact stronger privacy laws.
+- EPIC's work is funded by the support of individuals like you, who allow us to continue to protect privacy, open government, and democratic values in the information age.
+- 1519 New Hampshire Avenue NW
+- Washington, DC 20036
+- Phone number: 202.483.1140
+- Sign Up for EPIC Alerts
+- © 1994 - 2023 EPIC, all rights reserved.
+
+URL: https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371
+- Morning Rundown: Biden and McCarthy reach a debt deal, a building collapse in Iowa and ‘Succession’ finale
+- 
+- Profile
+- Sections
+- tv
+- Featured
+- More From NBC
+- Follow NBC News
+- SAN FRANCISCO — “Make memories”: That’s the slogan on the website for the photo storage app Ever, accompanied by a cursive logo and an example album titled “Weekend with Grandpa.”
+- Everything about Ever’s branding is warm and fuzzy, about sharing your “best moments” while freeing up space on your phone.
+- What isn’t obvious on Ever’s website or app — except for a brief reference that was added to the privacy policy after NBC News reached out to the company in April — is that the photos people share are used to train the company’s facial recognition system, and that Ever then offers to sell that technology to private companies, law enforcement and the military.
+- In other words, what began in 2013 as another cloud storage app has pivoted toward a far more lucrative business known as Ever AI — without telling the app’s millions of users.
+- “This looks like an egregious violation of people’s privacy,” said Jacob Snow, a technology and civil liberties attorney at the American Civil Liberties Union of Northern California. “They are taking images of people’s families, photos from a private photo app, and using it to build surveillance technology. That’s hugely concerning.”
+- Doug Aley, Ever’s CEO, told NBC News that Ever AI does not share the photos or any identifying information about users with its facial recognition customers.
+- Rather, the billions of images are used to instruct an algorithm how to identify faces. Every time Ever users enable facial recognition on their photos to group together images of the same people, Ever’s facial recognition technology learns from the matches and trains itself. That knowledge, in turn, powers the company’s commercial facial recognition products.
+- Aley also said Ever is clear with users that facial recognition is part of the company’s mission, and noted that it is mentioned in the app’s privacy policy. (That policy was updated on April 15 with more disclosure of how the company uses its customers’ photos.)
+- There are many companies that offer facial recognition products and services, including Amazon, Microsoft and FaceFirst. Those companies all need access to enormous databases of photos to improve the accuracy of their matching technology. But while most facial recognition algorithms are trained on well-established, publicly circulating datasets — some of which have also faced criticism for taking people’s photos without their explicit consent — Ever is different in using its own customers’ photos to improve its commercial technology.
+- Facial recognition companies’ use of photos of unsuspecting people has raised growing concerns from privacy experts and civil rights advocates. They noted in interviews that millions of people are uploading and sharing photos and personal information online without realizing how the images could be used to develop surveillance products they may not support.
+- On Ever AI’s website, the company encourages public agencies to use Ever’s “technology to provide your citizens and law enforcement personnel with the highest degree of protection from crime, violence and injustice.”
+- The Ever AI website makes no mention of “best moments” snapshots. Instead, in news releases, it describes how the company possesses an “ever-expanding private global dataset of 13 billion photos and videos” from what the company said are tens of millions of users in 95 countries. Ever AI uses the photos to offer “best-in-class face recognition technology,” the company says, which can estimate emotion, ethnicity, gender and age. Aley confirmed in an interview that those photos come from the Ever app’s users.
+- Ever AI promises prospective military clients that it can “enhance surveillance capabilities” and “identify and act on threats.” It offers law enforcement the ability to identify faces in body-cam recordings or live video feeds.
+- So far, Ever AI has secured contracts only with private companies, including a deal announced last year with SoftBank Robotics, makers of the “Pepper” robot, a customer service robot designed to be used in hospitality and retail settings. Ever AI has not signed up any law enforcement, military, or national security agencies.
+- NBC News spoke to seven Ever users, and most said they were unaware their photos were being used to develop face-recognition technology.
+- Sarah Puchinsky-Roxey, 22, from Lemoore, California, used an expletive when told by phone of the company’s facial recognition business. “I was not aware of any facial recognition in the Ever app,” Roxey, a photographer, later emailed, noting that she had used the app for several years. “Which is kind of creepy since I have pictures of both my children on there as well as friends that have never consented to this type of thing.”
+- She said that she found the company’s practices to be “invasive” and has now deleted the app.
+- Aley, who joined Ever in 2016, said in a phone interview that the company decided to explore facial recognition about two-and-a-half years ago when he and other company leaders realized that a free photo app with some small paid premium features “wasn’t going to be a venture-scale business.”
+- Aley said that having such a large “corpus” of over 13 billion images was incredibly valuable in developing a facial recognition system.
+- “If you are able to feed a system many millions of faces, that system is going to end up being better and more accurate on the other side of that,” he said.
+- An industry benchmarking test found last year that Ever AI’s facial recognition technology is 99.85 percent accurate at face matching.
+- When asked if the company could do a better job of explaining to Ever users that the app’s technology powers Ever AI, Aley said no.
+- “I think our privacy policy and terms of service are very clear and well articulated,” he added. “They don’t use any legalese.”
+- After NBC News asked the company in April if users had consented to their photos being used to train facial recognition software that could be sold to the police and the military, the company posted an updated privacy policy on the app’s website.
+- Previously, the privacy policy explained that facial recognition technology was used to help “organize your files and enable you to share them with the right people.” The app has an opt-in face-tagging feature much like Facebook that allows users to search for specific friends or family members who use the app.
+- In the previous privacy policy, the only indication that the photos would be used for another purpose was a single line: “Your files may be used to help improve and train our products and these technologies.”
+- On April 15, one week after NBC News first contacted Ever, the company added a sentence to explain what it meant by “our products.”
+- “Some of these technologies may be used in our separate products and services for enterprise customers, including our enterprise face recognition offerings, but your files and personal information will not be,” the policy now states.
+- In an email, Aley explained why the change was made.
+- “While our old policy we feel covered us and our consumers well, several recent stories (this is not a new story), and not NBC's contact, caused us to think further clarification would be helpful,” he wrote. “We will continue to make appropriate changes as this arena evolves and as we receive feedback, just as we have always done.”
+- Ever AI has recently been mentioned in Fortune and Inc.
+- Jason Schultz, a law professor at New York University, said Ever AI should do more to inform Ever app’s users about how their photos are being used. Burying such language in a 2,500-word privacy policy that most users do not read is insufficient, he said.
+- “They are commercially exploiting the likeness of people in the photos to train a product that is sold to the military and law enforcement,” he said. “The idea that users have given real consent of any kind is laughable.”
+- Mariah Hall, 19, a Millsaps College sophomore in Jackson, Mississippi, has been using Ever for five years to store her photos and free up space on her phone.
+- When she learned from NBC News that her photos were being used to train facial recognition technology, she was shocked.
+- “The app developers were not clear about their intentions nor their use of my photos. It’s saddening because I believe it’s a huge invasion of privacy,” she wrote in an email.
+- “If a company uses their consumers’ information to partner with anyone — the police, the FBI — it should be one of the first things that is told to consumers before they download the app.”
+- Evie Mae, 18, from the United Kingdom, agreed. She said via Twitter direct message that the idea of her face being used to develop a commercial facial recognition product made her “uncomfortable” and that she would “definitely be more careful” about where she uploads her photos in the future.
+- When NBC News told Aley that some of Ever’s customers did not understand that their photos were being used to develop facial recognition technology that eventually could wind up in the government’s hands, he said he had never heard any complaints.
+- “We’re always open to feedback and if anybody does have a problem with it they can deal with it by one of two things: They can not be an Ever Album user anymore and they can also say that they want to be an Ever Album user but they would not like to have their photos used to train models. Those options are available to consumers today and always have been.”
+- After further correspondence with NBC News, Aley wrote on April 30 that the company had added a new pop-up feature to the app that gives users an easy way of opting out of having their images used in the app’s facial recognition tool. The pop-up does not mention that the facial recognition technology is being used beyond the app and marketed to private companies and law enforcement.
+- “That in-product feature has previously been available to users in certain geographic regions,” Aley wrote, “and we have now made it available to all Ever users globally, whether it is legally required or not.”
+- CORRECTION (May 10, 2019, 5:26 p.m. ET): An earlier version of this article misstated the timing of a $16 million investment in Ever. That investment was made in 2016, before Ever’s shift to a facial recognition business, not in 2017. A reference to the investment suggesting that the shift to facial recognition benefited the company financially has been removed from the article.
+- Olivia Solon is a senior reporter on the tech investigations team for NBC News.
+- Cyrus Farivar is a reporter on the tech investigations unit of NBC News in San Francisco.
+- © 2023 NBC UNIVERSAL
+
+URL: https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/
+- Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Last year, NBC News reported the company had been using its customers’ photos to develop facial recognition technology that it turned around and offered for sale by way of the Ever API to business clients, including law enforcement and the military.
+- The company’s real business model wasn’t properly disclosed to consumers who visited the Ever website or app, the report said.
+- Ever had argued at the time it wasn’t sharing people’s private photos or any identifying information with its facial recognition customers. Instead, it had used the billions of images its customers had uploaded to build an algorithm that can learn from matches and is now able to train itself on other data.
+- The American Civil Liberties Union (ACLU) of Northern California said the business was an “egregious violation of people’s privacy,” as few knew their family photos were being used to build surveillance technology.
+- While other companies, including Amazon and Microsoft, have built out facial recognition technology products of their own in recent years, they do so using public data sets. Ever had used its own users’ photos and without informed consent. (A line was added to Ever’s privacy policy only after NBC News had begun to investigate and reached out to the company, the report said.)
+- After the news report came out, Ever rebranded its Ever AI as Paravision to distance itself from the controversy.
+- As of last month, Paravision was continuing to tout its product. In a July press release, the company announced it had achieved top-two accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition Vendor Test (FRVT) July 27 report focused on face recognition with masks. The company also sells a suite of activity recognition tools in addition to its face-detection solutions. It appears this business lives on, despite the consumer app closure.
+- Unfortunately, 2019 was not the first time Ever had made headlines for its poor business practices.
+- Amid the increased pressure from Google and Apple’s photo technology advances, Ever back in 2016 began to spam its users’ contacts over SMS with invites to check out its app. SMS invite spam had been a popular, if generally disliked, growth hack technique for social apps at the time. In Ever’s case, it helped the app climb the iOS charts ahead of its Android release.
+- It’s also notable that Ever is attempting to use the current focus on tech company monopolies as a way to redirect blame for the Ever app shutdown.
+- Today, Apple, Google and other tech giants are under antitrust investigations in the U.S., as the government works to determine if these companies have used their platform status to damage or even eliminate their competition.
+- Ever specifically calls out Apple and Google in its announcement, saying that:
+- The service has been around for over seven years, but with increasing competition over the last several years from Apple and Google’s photo storage products (excellent products in their own right, and worth checking out as an alternative), the Ever service is no longer sustainable.
+- The implication here is that Ever didn’t have a chance when faced with such steep competition, and now its business is over.
+- The announcement fails to mention how Ever’s own behavior may have played a role in eroding its users’ trust over the years or how it has later found success as a B2B technology solution provider.
+- However, the company’s shutdown FAQ makes reference to its facial recognition technology. Here, the company explains that once Everalbum shuts down the Ever service, users’ photos and videos will “never be used for any purpose, including improving computer vision capabilities such as face recognition.” It says also it will delete user data, except in cases where it’s required by law to keep it, and confirms users’ actual photos were never sold to third parties.
+- That’s too little, too late for Ever’s customers, who would never had agreed to allowing their photos to be used to build facial recognition technology in the first place. Now that the technology is built, it seems Ever has no further need for the initial training data collected over the years.
+- The Ever service shuts down at 11:59 p.m PDT on August 31, 2020. Customers will be able to export data and delete their account before then, the company says.
+- Paravision, as the remaining part of Ever’s company is called, has raised $29 million in venture funding, according to data from Crunchbase. (This includes funds raised as Everalbum.) Investors in the company to date include Icon Ventures, Felicis Ventures, Khosla Ventures, Trinity Capital Investment, UpHonest Capital, Atomic and several others. Typically, Atomic functions as both co-founders and investors.
+
+URL: https://www.latimes.com/business/story/2021-01-29/column-facial-recognition-privacy
+
+URL: https://nymag.com/intelligencer/2019/11/the-future-of-facial-recognition-in-america.html
+- 
+- Things you buy through our links may earn Vox Media a commission.
+- This article was featured in One Great Story, New York’s reading recommendation newsletter. Sign up here to get it nightly.
+- This article was featured in One Great Story, New York’s reading recommendation newsletter. Sign up here to get it nightly.
+- On Friday, August 16, at around 7 a.m., a pair of suspicious appliances was found on a subway platform at the Fulton Street station in lower Manhattan and, an hour later, a third near a garbage can on West 16th Street. Initially, police thought they might be improvised bombs, like the shrapnel-filled pressure cookers that blew up at the 2013 Boston Marathon and in Chelsea in 2016, but upon inspection they turned out to be harmless empty rice cookers, probably meant to scare but not explode. Trains were delayed during the morning commute, but since that happens often enough without any terrorist help at all, the scariest thing about this episode may have been the way the alleged perpetrator was caught.
+- Minutes after the discovery, the NYPD pulled images of a man leaving the devices from subway surveillance cameras and gave them to its Facial Identification Section (FIS), which ran them through software that automatically compared his face to millions of mug shots in the police department’s database. The program spit back hundreds of potential matches in which officers quickly spotted their person of interest: Larry Griffin II, a homeless 26-year-old the NYPD had arrested in March with drug paraphernalia. FIS double-checked its surveillance pictures against Griffin’s social-media accounts, and by 8:15 a.m., his name and photos were sent to the cell phones of every cop in New York. He was arrested in the Bronx late that night and charged with three counts of planting a false bomb. (He pleaded not guilty.)
+- This might seem like a feel-good story: A potentially dangerous person was identified and apprehended with previously impossible speed and no casualties thanks to by-the-book use of new technology (or newish; the NYPD has used facial-recognition software since 2011). But zoom out a little and it looks more like a silver lining on one of this year’s biggest feel-bad stories: The facial-recognition system that ensnared Griffin is only a small piece of a sprawling, invisible, privacy-wrecking surveillance apparatus that now surrounds all of us, built under our noses (and using our noses) by tech companies, law enforcement, commercial interests, and a secretive array of data brokers and other third parties.
+- In 2019, facial recognition may have finally graduated from dystopian underdog — it was only the fourth- or fifth-most-­frightening thing in Minority Report; it’s never played more than a supporting role on Black Mirror; and in the Terminator movies, it was a crucial safety feature preventing the Terminator from terminating the wrong people — to full-grown modern worry.
+- A brief recap of the year of Face Panic:
+- This spring, we heard that the FBI’s facial recognition database now includes more than 641 million images and the identities of an unsuspecting majority of Americans, which can be searched anytime without warrant or probable cause.
+- We also heard that spooked lawmakers banned police use of facial recognition in Oakland; Berkeley; Somerville, Massachusetts; and San Francisco, of all places, where Orwellian tech products are the hometown industry.
+- But everywhere else and in all other contexts, facial recognition is legal and almost completely unregulated — and we heard that it’s already being used on us in city streets, airports, retail stores, restaurants, hotels, sporting events, churches, and presumably lots of other places we just don’t know about.
+- Over the summer, we heard a rumor about a novelty photo app that might be a secret ploy by the Russian government to harvest our selfies for its own facial recognition database. That turned out to be false (or at least we think so), but it might’ve made us reconsider all the photos we’ve given to other companies whose loophole-filled terms of use agreements translate to “we own your face” — including Facebook, which is thought to have one of the world’s largest facial recognition databases and has not exactly proven itself to be the most responsible custodian of our private information.
+- We barely heard about the Commercial Facial Recognition Privacy Act of 2019, a bill introduced in March by Republican Senator Roy Blunt and Democrat Brian Schatz that would have prohibited companies from using facial recognition to track you in public, and collect or sell your face data, without your consent. It was the kind of common-sense bipartisan proposal that almost everybody can agree with; it was referred to a committee and never made it to a vote.
+- But we heard a lot about facial recognition’s unreliability, and that misidentifications are common, especially for people of color, and that the London Metropolitan Police’s system has an appalling failure rate, and that Amazon’s software once mistook a bunch of seemingly upstanding congresspeople for criminal suspects. Maybe that meant, we hoped, that the technology was still only half-baked and that our worries were premature, and that one big lawsuit could make it all go away.
+- And then we heard about Larry Griffin II. And if his story was meant to calm any fears about facial recognition, well, mission not necessarily accomplished. If the software works well enough to identify one bomb-hoax suspect among 8.4 million New Yorkers in under an hour using only a couple of grainy surveillance photos, maybe our worries aren’t so premature after all. Because even though facial recognition isn’t fully reliable yet, and it might never be, it’s already transforming law enforcement. And it probably won’t need to be perfect before it transforms our everyday lives, too.
+- In a possibly related story, perhaps you have noticed an unusually high demand for pictures of your face over the past several years?
+- Computerized facial recognition has been in development since the 1960s. Progress was steady but slow, though, until the recent arrival of advanced artificial neural networks — i.e., computer systems modeled on animal brains that can recognize patterns by processing ­examples — which have allowed human programmers to feed these networks many photos of faces and then step aside while algorithms teach themselves what faces look like and then how to tell those faces apart and eventually how to decide if a face in one photo is the same face in a different photo, even if that face is wearing sunglasses or makeup or a mustache or is poorly lit or slightly blurry in one image but not the other. The more photos an algorithm has to learn from — millions or billions, ideally — the more accurate it becomes.
+- Some companies asked you to upload your vacation photos and tag yourself in them. And others asked for a selfie in exchange for an autogenerated cartoon caricature of you or to tell you which celebrity or Renaissance painting you most resemble. And then some companies got impatient with all this asking, so they acquired the other companies that had already collected your photos, or they scraped public images of you from social media and dating sites, or they set up hidden cameras in public spaces to take their own pictures.
+- How many algorithms have been trained on your face? Hard to say, because there aren’t really any laws requiring your consent, but Facebook, Google, Amazon, Apple, Microsoft, IBM, and dozens of start-ups with names like Facefirst, FaceX, and Trueface all have their own facial-recognition algorithms, and they had to have learned somewhere.
+- Some of those algorithms are pretty accurate, too, at least under optimal conditions. Last year, the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) tested 127 facial-recognition algorithms from 40 developers to see how often they could find matches in a large database. With high-quality images to compare, the top-performing algorithms only failed to return the correct match in 0.2 percent of searches, which is 20 times better than the results of a similar test in 2014.
+- Facial recognition will inevitably improve on its own, but it might be even more accurate when used in combination with other long-range biometrics. In China, gait recognition is already identifying people based on the way they walk, with 94 percent accuracy according to one company offering the service. And the Pentagon claims to have developed a heartbeat laser — that is, an infrared beam that can read a person’s unique cardiac signature through a shirt or jacket, allegedly with 95 percent accuracy. (The current model can reportedly detect a heartbeat from 200 meters away, but with a slightly better laser, however: “I don’t want to say you could do it from space,” a Pentagon source told the MIT Technology Review, “but longer ranges should be possible.”)
+- For facial-recognition software to recognize you in the wild, it needs to be connected to a database with your photo and identifying information in it. (Just because an algorithm has trained with your face doesn’t mean it knows who you are.) Unless you’re Elena Ferrante or a member of Daft Punk, and maybe even if you are them, there’s a good chance you’re in a database or two.
+- If you’ve ever been tagged in a photo on Facebook or Instagram, for example, you belong to what is by Facebook’s own claims the world’s largest facial-recognition database, to which users add hundreds of millions of new images every day. The company’s facial-recognition algorithm, DeepFace, which is constantly retraining itself on those new images, is presumed to be more accurate than software used by most law-enforcement agencies.
+- For now, Facebook says it only uses DeepFace to suggest tags when users upload new pictures. But that didn’t help the company in August when a federal appeals court ruled that 7 million Facebook users in Illinois can sue the company for storing their face data without permission, which they claim is a violation of the state’s Biometric Information Privacy Act, currently the only such law in the U.S., which could make Facebook liable for as much as $5,000 per affected user or $35 billion total. (In response, Facebook has stopped suggesting tags for photos by default.)
+- The FBI’s facial-recognition database spans mug shots, the State Department’s entire directory of visa and passport pictures, and photos from the Departments of Motor Vehicles in at least 22 states (and counting) that allowed the agency to scan residents’ driver’s licenses without their consent. (In Utah, Vermont, and Washington, where undocumented immigrants can legally drive, DMVs have shared facial recognition data with Immigration and Customs Enforcement.) If you’ve managed to keep yourself out of the FBI’s database so far, that may get harder in October 2020, when Americans in 47 states will be required to show either a passport or a new federally compliant Real ID driver’s license to board any domestic flight.
+- All of this would be bothersome enough in a world with perfect data security or one in which you could get a new face as easily as your bank replaces a stolen debit card. But we live in neither of those worlds, and faces have already been hacked. In June, U.S. Customs and Border Protection announced that hackers had breached the servers of one of its subcontractors and stolen travelers’ face data, some of which reportedly turned up on the dark web.
+- Despite plenty of more deserving scandals, though, none caused as much hysteria in 2019 as FaceApp. In July, all of your friends, plus Snooki, the Jonas Brothers, and Lebron James, shared pictures taken with the image-processing tool, which went viral by making users look like elderly people. But panic ensued when they read FaceApp’s merciless terms of use agreement. (“You grant FaceApp a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully-paid, transferable sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed, without compensation to you.”) And then even more panic ensued when they found out FaceApp is headquartered in St. Petersburg, Russia. Had Vladimir Putin tricked America again, this time into handing over the elusive face data of its influencers?
+- No, or at least probably not. FaceApp denied that the company shares data with third parties, and claimed most user images are deleted within 48 hours, which seemed to stem fears. But if FaceApp did decide to pull up stakes and pivot to facial recognition, it would not be the first company like it to do so: The photo-management app EverRoll launched in 2012 and collected 13 billion images in which users had tagged themselves and their friends. EverRoll’s parent company, which recently renamed itself Paravision, discontinued the app in 2016 and used those images to train its facial recognition software, which is now ranked as the No. 3 most accurate algorithm tested by NIST and is sold to law enforcement.
+- The worst-case scenario for facial recognition might look like something like China’s forthcoming “social credit system.” When the system is fully operational next year, the government will use all surveillance methods at its disposal, including facial recognition and 200 million cameras, to track citizens’ behavior and assign each of them a social score, which will have a variety of consequences. Infractions such as jaywalking and buying too many video games could make it harder to rent an apartment or get a loan from a bank. That probably isn’t likely in the U.S., but a more ordinary kind of surveillance is almost inevitable. Maybe it’s already here.
+- Commercial facial recognition has been around for years, but since there aren’t any laws requiring anyone to disclose that they’re using it on you, it’s impossible to say how widespread it is. Which means any camera you pass could be recognizing your face.
+- Among the many vendors offering commercial facial recognition software is Face-Six, a Tel Aviv–based company founded by Moshe Greenshpan in 2012 after Skakash, a mobile app he was developing that would have identified actors in movies and TV shows, failed to attract investors. Greenshpan says he now serves more than 500 customers worldwide, offering a variety of custom products, including FA6 Retail (to prevent shoplifting), FA6 Class (to take attendance in schools), FA6 Med (for use in hospitals to verify patients identities and prevent treatment errors), and FA6 Drone (which “identifies criminals, missing people, and civilians from a drone’s camera,” and which is available “for government and private uses.”) But Greenshpan’s most controversial product has been Churchix, which he sells to churches that want to keep track of which parishioners are showing up to mass.
+- Churchix attracted negative coverage when it launched in 2015, some of which is linked to on the company’s website. “In the beginning, all press was good press,” says Greenshpan. “You really need to explain to people why facial recognition is more good than bad. Churches manage attendance manually, but when we provide an efficient tool that does it automatically, suddenly there are concerns.” And if those concerns include transparency? “We don’t know what each and every customer does with our software,” Greenshpan says, “but usually churches [that use Churchix] don’t tell their members.”
+- But Greenshpan does connect me with David Weil, founder of the Warehouse, an after-school recreation center and skateboarding park in Bloomington, Indiana, which uses Face-Six’s software on two security cameras, for one extremely specific purpose: “Our building is five acres under one roof, and there are over 200 registered sexual offenders in the area,” says Weil. “So with that much space and that many pedophiles, this software really helped us.”
+- As visitors enter the building, the cameras scan their faces, and Face-Six’s software searches them against a database provided by the local sheriff’s office. According to Weil, the Warehouse had 72,000 visits in 2018, and facial recognition managed to keep out two sex offenders: “We just politely told them, ‘We’re a youth center. You’re not allowed to be here,’” he says. “I had one false ID, but the gentleman was very understanding of the situation.”
+- Among the other ways we know facial recognition is already being deployed:
+- Airlines are using it to replace boarding passes, and the Department of Homeland Security says it plans to use facial recognition on 97 percent of airline passengers by 2022.
+- And at least three arenas have experimented with the technology, including Madison Square Garden.
+- On stops of Taylor Swift’s recent Reputation tour, fans’ faces were scanned and searched against a database of her hundreds of known stalkers.
+- Last year, residents of an apartment complex in Brownsville protested when they found out their landlord wanted to use facial recognition to supplement their key fobs — but other buildings in the city have been known to use it for years, including the 12 that make up the Knickerbocker Village complex on the Lower East Side. Some virtual-doorman systems include it, too.
+- At least eight public-school districts in the U.S. have installed facial-recognition systems to detect suspended students and anyone else banned from school grounds.
+- Retailers use facial recognition to prevent theft, and some software even comes bundled with databases of known shoplifters, but not many stores will admit to it. Last year, the ACLU asked 20 top retail chains whether they use facial recognition, including Best Buy, Costco, Target, and Walmart, and only received two answers — rom the grocery conglomerate Ahold Delhaize, whose brands include Food Lion and Stop & Shop, which doesn’t use it, and from the hardware chain Lowe’s, which tested facial recognition in the past but has since stopped.
+- Retailers don’t need to run facial-recognition software on their premises to benefit from it. Apple denies using the technology in its brick-and-mortar locations, but in one confusing incident last year, a New York teenager was arrested and charged with stealing from multiple Apple Stores when police said he was identified by facial recognition. Apple apparently employs an outside firm called Security Industry Specialists in some locations; SIS may have run facial-recognition software on surveillance footage captured inside the Apple Stores the teen was alleged to have stolen from. (Charges were dropped against him when an NYPD detective realized he looked nothing like the suspect in the footage of the robberies. In April, the teen sued Apple and SIS for $1 billion.)
+- Facial recognition could soon be more valuable to retailers in other ways. One likely possibility is that some will eliminate checkout lines by having customers pay with their faces. Another is using facial recognition to target the people most likely to buy things by tracking their in-person shopping habits the same way cookies track our online ones — or maybe, eventually, using what they know about our virtual selves to direct us toward products in the real world. If you’ve ever been creeped out by an uncannily well-targeted ad served to you on Facebook or Instagram, imagine being helped by a retail employee who knows what’s in your web history.
+- But what if you’re not the person facial recognition says you are? Last year, the ACLU used Amazon’s facial recognition software, Rekognition, to search a database of 25,000 mug shots using photos of members of Congress and found that it misidentified 28 lawmakers as criminals, including six members of the Congressional Black Caucus, and a similar test this summer mistook 26 California state legislators, again with people of color overrepresented in the false matches.
+- Amazon says the ACLU intentionally misrepresented its software by setting its confidence threshold too low — the company recommends that police act only on matches in which the system expresses at least 99 percent confidence — but there’s nothing to prevent police from doing the same thing. “It’s toothless,” says Jacob Snow, the technology-and-civil-liberties attorney at the ACLU who ran the tests. “Amazon could say to law enforcement, ‘We’re going to set the confidence threshold at 99 percent, and you can’t change it.’ But they’re not doing that.”
+- Dark skin isn’t the only thing facial recognition fails with. In NIST’s tests, it found that even top-performing algorithms had trouble identifying photos of the same person at different ages and were often unable to tell the difference between twins — not just identical twins but fraternal ones of the same sex, too. And performance depends on the clarity of the photos being used. NIST was primarily comparing high-quality mug shots to other high-quality mug shots, but under real-world conditions, with blurry surveillance photos taken at bad angles by cameras that may have been set up incorrectly, results may vary.
+- Even a facial-recognition system with low error rates can cause problems when deployed at large scale. During six recent tests of the London police’s facial-recognition system, which scanned the faces of people on public streets in search of wanted suspects, 42 matches were made but only eight were verified to be correct (30 matches were eventually confirmed to be misidentifications, and four of the 42 people disappeared into crowds before officers were able to make contact). Because they scanned thousands of faces in total, the London police said their error rate was 0.1 percent, but most headlines begged to differ: LONDON POLICE FACIAL RECOGNITION FAILS 80% OF THE TIME AND MUST STOP NOW, said one.
+- Police have also been caught taking creative license with the technology. A report published in May by the Georgetown University’s Center on Privacy and Technology found that six departments in the U.S. allow officers to run composite sketches of suspects through facial-recognition software. That same report tells the story of a suspect who’d been caught by surveillance cameras allegedly stealing beer from a CVS in Gramercy Park in 2017, but the video was low quality and no useful matches were returned. A detective noticed, though, that the man bore a resemblance to Woody Harrelson, so he ran a search using an image of the actor — which eventually led to an arrest. “The person they ended up investigating was the tenth person on the candidate list,” says Georgetown Law’s Clare Garvie, the author of the report, “meaning the algorithm thought nine other people [in the NYPD’s mug-shot database] looked more like Woody Harrelson. If you can put person A into an algorithm and find person B, why does that not prove that if you’re looking for looking for person B, you might accidentally find person A? They intentionally forced a misidentification as a valid investigative technique.”
+- NYPD spokesperson Devora Kaye notes that this case was “just one of more than 5,300 requests” to FIS in 2017. The NYPD, she says, only uses facial recognition as an investigative tool and doesn’t arrest or detain suspects whose identities haven’t been corroborated by other means. “A facial recognition match is a lead. No one has ever been arrested solely on the basis of a computer match, no matter how compelling.”
+- If Larry Griffin II’s story typifies a best-case use of facial recognition for law enforcement, Kaitlin Jackson, a public defense attorney with the Bronx Defenders, tells me one that exposes its drawbacks. Jackson represented a man who’d been arrested for the theft of socks from a T.J. Maxx store in February 2018, supposedly after brandishing a box cutter at a security guard. “My client was picked up months after the robbery, and the only way I even found out facial recognition was used was that I just started calling the prosecutor and saying, ‘How in the world did you decide months after that it was my client? There are no forensics,’” she says. “It turned out the police went to T.J. Maxx security and said, ‘We want to pull the surveillance [video], we’re going to run it through facial recognition’ — so they were already cluing him in that any suspect will have been picked by facial recognition. And then they texted the security guard a single photo that he knows has been run through facial recognition, and they said, ‘Is this the person?’ That’s the most suggestive procedure you could possibly imagine. And then they make the arrest and say it’s on the basis of an [eyewitness] ID, and they try to bury that this is a facial-recognition case.” (The NYPD said the defendant had committed a theft at the same store before and said the security guard knew him “from prior interactions.” The detective on the case showed him an image hoping it would “put a name to a face,” the department said in a legal filing.)
+- Jackson’s client had at least two lines of defense: He has a twin brother, who could have triggered the facial-recognition match — although Jackson doesn’t think the twin stole any socks either — but more important, his wife was in labor at the time of the theft and he was in the delivery room. “We had pictures of them at the hospital, and his name was on the birth certificate,” says Jackson. But the prosecution would not dismiss the case — partly, she suspects, because they have an “undying faith that the software doesn’t get it wrong.” Their only recourse, she said, would be to argue, “Maybe he left a few minutes before his baby was delivered and ran out to get socks and then came back.”
+- Jackson says her client spent half of last year in prison. “He was on probation when he was arrested. So our real problem was the way that all these systems interact. Probation lodged a hold, and they would not withdraw the hold because of this case, and the prosecution wouldn’t dismiss this case. And then finally [the prosecution] offered him something that would get him out of jail. So he did what a lot of us would — he took a plea of something he did not do.”
+- But facial recognition is about more than just who you are, and what you’ve bought, and the crimes you have or haven’t committed, and whether your resemblance to a sex offender will make it hard to find places to skateboard — it’s also about how you feel. Because another thing the technology can do, or at least supposedly do, is detect emotions.
+- Amazon, IBM, Microsoft, and others claim their software can guess which emotion you’re feeling based on your facial expressions — or in some cases microexpressions, under the logic that even if you attempt to hide your feelings, certain facial muscles are beyond your control. Amazon, for example, says Rekognition can infer whether a face is expressing happiness, sadness, anger, confusion, disgust, surprise, calmness, or fear — although the documentation warns that results “are not a determination of a person’s internal emotional state and should not be used in such a way,” and that “a person pretending to have a sad face might not be sad emotionally.”
+- Other vendors are more confident in their mood-reading abilities. The London-based start-up RealEyes markets a service to advertisers that scans people’s faces through their computers’ webcams to measure their attention level and emotions while they watch commercials. The Utah-based company Hirevue claims its software can analyze video job interviews to judge personality traits and eliminate disinterested candidates. (Hirevue’s clients include Dunkin’ Donuts, Staples, and Urban Outfitters.)
+- On its website, the facial-recognition company Kairos brags about the work it did for Legendary Pictures gauging reactions of audience members at movie test screenings: “More than 450,000 emotional measurements were recorded per minute over the screening of preview films, for a total of around 100 million facial measurements processed in total.” Kairos says Legendary used that data to determine which parts of movies worked best in ads, identify “the demographics most likely to share trailers,” and ensure Legendary’s movies were “appealing to mainstream audiences as well as their targeted fan demographic.” Neither Kairos nor Legendary Pictures would confirm which movies were involved, but Kairos CEO Melissa Doval says the screenings probably happened in 2013 or 2014, and there’s a picture from the 2013 Superman movie Man of Steel on Kairos’ website.
+- Your facial tics may not necessarily lose you any jobs or give the wrong impression about your taste in superhero movies, though — because emotion-detection software might not really work. In July, a group of five top psychologists published a report in Psychological Science in the Public Interest, which cited over 1,000 other journal articles and found that facial expressions are more complex than the software gives them credit for: “It is not possible to confidently infer happiness from a smile, anger from a scowl or sadness from a frown, as much of current technology tries to do when applying what are mistakenly believed to be the scientific facts.”
+- Ultimately, the most worrisome thing about facial recognition might be how accessible it is. Because it’s not just available to governments and corporations—it’s also for sale to you, me, your landlord, random perverts, and anyone else with a camera and a computer, and for cheaper than you’d probably expect: Amazon’s Rekognition, for example, offers a free year-long trial that lets you identify faces in 5,000 images or 1,000 minutes of video per month (and after that, it’s a penny per ten photos or ten cents per minute of video).
+- If none of the off-the-shelf software packages suit your particular needs, it turns out it’s pretty easy, if you know what you’re doing, to roll your own facial-recognition app using freely available open-source code. I watched one YouTube tutorial in which a programmer built his own facial-recognition system that could distinguish between his face and the cast of Game of Thrones.
+- It’s not hard to imagine more sinister applications. This spring, a developer claimed on Chinese social media that he’d used facial recognition and publicly available photos from Facebook and Instagram to identify 100,000 women in amateur porn videos. He didn’t share any proof and may have been lying — but given all the other seemingly unbelievable things about facial recognition we now know to be true, maybe he wasn’t.
+- I wanted to experiment myself, so I bought a Tend Insights Lynx Indoor 2, a tiny and cheap but well-reviewed home security camera that comes bundled with its own facial-recognition software. It worked well for what it did, which in my case wasn’t much: I set the camera on my desk, connected it to my Wi-Fi network, downloaded the companion iPhone app, and uploaded a picture of myself so it knew what I looked like. I left my apartment, and in a few minutes when I came back, the Lynx sent a push notification to my phone to tell me I was home, along with a short video for proof. That may not sound like $60 well spent, but it was a small price for a feeling of control I might never have again: After the inaugural test of my home facial-recognition system, I unplugged it and stuffed it in a drawer.
+- *This article appears in the November 11, 2019, issue of New York Magazine. Subscribe Now!
+- By submitting your email, you agree to our Terms and Privacy Notice and to receive email correspondence from us.
+- Things you buy through our links may earn Vox Media a commission.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+URL: https://www.theregister.com/2021/01/13/paravision_ftc_settlement/
+
+URL: https://news.bloomberglaw.com/privacy-and-data-security/paravision-faces-claim-it-used-cloud-photos-for-face-recognition
+- By Andrea Vittorio
+- COURT: U.S. District Court for California’s Northern District TRACK DOCKET: No. 3:20-cv-06895 (Bloomberg Law Subscription)COMPANY INFO: Everalbum Inc. (Bloomberg Law Subscription)
+- Software maker Paravision faces a potential class action in a California federal court for allegedly using a cloud photo storage service to train its facial recognition technology.
+- A former user of the Ever photo storage service, Lynette Walton, alleges that Paravision used images from the site without permission in violation of Illinois’ Biometric Information Privacy Act. She filed a complaint Oct. 2 in California’s Northern District Court.
+- Walton, of Illinois, said she didn’t know the company was capturing data on her face or what it was being used for, according to the complaint. Paravision later added a disclosure to its ...
+- AI-powered legal analytics, workflow tools and premium legal & business news.
+- Log in to keep reading or access research tools.
+
+URL: https://www.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission
+- Face recognition developer Paravision AI has been ordered to delete masses of user data it held and used illegally to create face recognition applications from the images stored on its former cloud storage service Ever. The US Federal Trade Commission (FTC) found that the company had made use of pictures uploaded to its service without permission, and that it sold the face recognition algorithms created to third party companies and organisations including law enforcement agencies.
+- Originally set up as a free cloud storage service for consumers the company that ran Ever soon discovered it couldn’t make as much money as expected, so it began harvesting data from the images its users uploaded to develop facial recognition software. It introduced a service called ‘Friends’ that it marketed as allowing users to easily tag their friends and which could filter images according to who was in them. This service was active by default, with only those in Illinois, Texas, Washington and the European Union – places that have laws about personal data and facial recognition – having the ability to decide whether the recognition software would be on or off.
+- The FTC also found that Ever didn’t delete images from accounts that were closed, as it was bound to do by its own terms, and that even when the service closed it kept all customers’ images and continued to use them to develop its software.
+- The ruling by the commission orders Paravision AI, the company’s new name, to delete all user images, all data it holds on those users as well as the algorithms it produced illegally using those pictures. Remarkably though the commission hasn’t fined the company or punished its owners. Commissioner Rohit Chopra from the FTC said in a statement that he is concerned that other than ordering its algorithms deleted the commission isn’t able to impose any penalty on Paravision for its illegal activities.
+- Since the ruling Paravision has announced it has both appointed a Chief AI Ethics Advisor and published a set of AI Principles 'to guide the ethical development and appropriate use of face recognition and related technologies'.
+- To find out more see the FTC website. Press release
+- A California-based developer of a photo app has settled Federal Trade Commission allegations that it deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts.
+- As part of the proposed settlement, Everalbum, Inc. must obtain consumers’ express consent before using facial recognition technology on their photos and videos. The proposed order also requires the company to delete models and algorithms it developed by using the photos and videos uploaded by its users.
+- “Using facial recognition, companies can turn photos of your loved ones into sensitive biometric data,” Andrew Smith, Director of the FTC’s Bureau of Consumer Protection, said. “Ensuring that companies keep their promises to customers about how they use and handle biometric data will continue to be a high priority for the FTC.”
+- Everalbum offered an app called “Ever” that allowed users to upload photos and videos from their mobile devices, computers, or social media accounts to be stored and organized using the company’s cloud-based storage service. In its complaint, the FTC alleges that, in February 2017, Everalbum launched a new feature in the Ever app, called “Friends,” that used facial recognition technology to group users’ photos by the faces of the people who appear in them and allowed users to “tag” people by name. Everalbum allegedly enabled facial recognition by default for all mobile app users when it launched the Friends feature.
+- Between July 2018 and April 2019, Everalbum allegedly represented that it would not apply facial recognition technology to users’ content unless users affirmatively chose to activate the feature. Although, beginning in May 2018, the company allowed some Ever app users—those located in Illinois, Texas, Washington and the European Union—to choose whether to turn on the face recognition feature, it was automatically active for all other users until April 2019 and could not be turned off.
+- The FTC’s complaint alleges that Everalbum’s application of facial recognition to Ever app users’ photos was not limited to providing the Friends feature. Between September 2017 and August 2019, Everalbum combined millions of facial images that it extracted from Ever users’ photos with facial images that Everalbum obtained from publicly available datasets to create four datasets for use in the development of its facial recognition technology. The complaint alleges that Everalbum used the facial recognition technology resulting from one of those datasets to provide the Ever app’s Friends feature and also to develop the facial recognition services sold to its enterprise customers; however, the company did not share images from Ever users’ photos or their photos, videos, or personal information with those customers.
+- According to the complaint, Everalbum also promised users that the company would delete the photos and videos of Ever users who deactivated their accounts. The FTC alleges, however, that until at least October 2019, Everalbum failed to delete the photos or videos of any users who had deactivated their accounts and instead retained them indefinitely.
+- The proposed settlement requires Everalbum to delete:
+- In addition, the proposed settlement prohibits Everalbum from misrepresenting how it collects, uses, discloses, maintains, or deletes personal information, including face embeddings created with the use of facial recognition technology, as well as the extent to which it protects the privacy and security of personal information it collects. Under the proposed settlement, if the company markets software to consumers for personal use, it must obtain a user’s express consent before using biometric information it collected from the user through that software to create face embeddings or develop facial recognition technology.
+- The Commission voted 5-0 to issue the proposed administrative complaint and to accept the consent agreement with the company. Commissioner Rohit Chopra issued a separate statement.
+- The FTC will publish a description of the consent agreement package in the Federal Register. The agreement will be subject to public comment for 30 days after publication in the Federal Register after which the Commission will decide whether to make the proposed consent order final. Instructions for filing comments will appear in the published notice. Once processed, comments will be posted on Regulations.gov.
+- NOTE: The Commission issues an administrative complaint when it has “reason to believe” that the law has been or is being violated, and it appears to the Commission that a proceeding is in the public interest. When the Commission issues a consent order on a final basis, it carries the force of law with respect to future actions. Each violation of such an order may result in a civil penalty of up to $43,280.
+- The Federal Trade Commission works to promote competition and to protect and educate consumers. You can learn more about consumer topics and report scams, fraud, and bad business practices online at ReportFraud.ftc.gov.
+- 👍🏼
+- As a wise old man once said, "just cause you are overly paranoid, does NOT  mean that they are not out to get you."  What a joke! They got to get rid of the nonconsentual images? Have you not read your terms of service? It always includes "affiliates"-- you been already "consented" & dont  know it.
+- Google was seen being discussed on Dpreview  asking for your assistance to develope their database of faces. Since Google already knows everything about you by reading each word of your gmails, listening to your voices, they have the audacity that exceeds the imagination of paranoid nightmares.
+- Too many ugly faces gathered... :))
+- Who, who were the morons, in the last few years, singed up for a social media account with their real details and uploaded pictures of themselves and loved ones?
+- Darwinism at work.
+- There are over a billion of them on Facebook alone.
+- Yes, anyone who isn't paranoid is a moron. That sounds totally sane. Should we all wear tinfoil hats so we don't get Darwin awards, too?
+- Go ahead, allow a foreign private company to have significant data of your family and friends, regardless whether or not there allowed it, full access to their private information including images of them.
+- Instead of a simple alias.
+- Seriously, you're either working for them or you're naive.
+- How many people here store their images on Google???
+- Google's algorithms are known to scan through accounts and has been known to delete some.
+- "full access to their private information including images of them.Instead of a simple alias."
+- Simple alias is not useful here. If your picture is in anyone's collection that has a name associated, you're part of the linked network. Unless you're using Tor or a good VPN, your IP is already part of your account. We've seen this already in DNA information. The government has worked backwards through people who are perhaps related to a criminal as part of investigation
+- Alias and that's it.
+- Don't use your real name, at least not your full name and don't upload any images of people, ever.
+- You're way off the deep end in some sort of spy fiction delusion. It's one thing to think there's a possible risk, and another to be so sure that anyone that disagrees is "working for them".
+- I suppose birds are really government spies too, right?
+- You're probably right.
+- It's not like social media giants haven't been caught red handed listening to microphones, transcribing that audio to text and saving the data, turning on cameras and capturing video -all without consent.
+- I'm paranoid lol
+- Not supposed to talk politics here, but this is how all the Trumper protesters are being so quickly identified. They used aliases on their political or personal accounts but IP addresses & images betray them. Photography is more than ever a political weapon.
+- 'Not supposed to talk politics', but unleashes baseless and completely incorrect assumptions and slander anyway.
+- I'm not even from the country -and trump supporters are the idiots?
+- Thanks for the laugh.
+- You probably should've taken the time to read Huntin's comment before smearing him. He isn't attacking you, he's providing a less radicalized assessment of the risks of sharing images online. There was nothing political about it - but it would seem you do have a strong political lean regardless of where you live to respond that way.
+- Because it's telling post.The blue ties were committing horrible crimes, arguably go a greater extent, also.
+- From our viewpoint, watching the country (during this early point in yet another civil war) and listening to the language is more useful for identifying the political association of individuals than their photography.
+- His post holds tonnage of personal data.
+- I didn't find it offensive, I wasn't bothered at all, it was actually the most interesting reply.
+- I'm not a fan of either of the two parties your poor country has pushed forward as options and I did visit regularly and hope it's all sorted soon.
+- You're at war with another country and they're playing you like a fiddle, using your own technology and yourselves against each other.  You're all smart and you'll stop infighting soon and become strong again 💪
+- Ten years ago, you would be right. False names and avoiding use of images of you and relatives would have been much safer.Think Jason Bourne movies,trying to track Jason. Clumsy. Yet really no truth at all.Pure movie fantasy. But today? It is no longer pure fantasy. It is reality.
+- Think China today. Cameras everywhere. AI and mass storage of data &images. Govt requirement to provide photos and data. Virus reported.. System starts hunting. In real time they find him AND EVERYONE IS IDENTIFIED WHO comes within 6 feet of him.  Be it walking on street in a subway
+- They could go back through days of prior activity to id every person exposed almost instantly. He does not stay home. Within minutes or less, system alerts police & they are on him and anybody he walked by or was on a bus or subway with him. All in real time. Check it out. Alias no good anymore..
+- The USA is far behind the China system in terms of speed. There are not enough cameras connected to the central surveillance system.  But in China, Jason has very short life and is toast. Real world. Real time. In USA,  VPNs & aliases are just going to slow it down, but not enough to matter.
+- in Washington DC one guy was grabbing attention wearing war paint a wig, etc, waving a flag....He was ID almost immediately by name to news media despite his war paint etc by his image history and some post processing to clear off the war paint. CNN was on their knees praising the FBI
+- News media & "liberals" celebrating without realizing what was actually happening right in front of them through the govt photo identification sytem. An Olympic swimmer plus aTexas real estate CEO buried in the crowd who went on a private jet to D.C. TOAST! Moronic now to use alias to remainsafe.
+- It don't much matter to me and most everyone else. Take the criminals  down. That is until you realize that  they are watching your every move... and personal.privacy exists no more.
+- Unfortunately, that seems inevitable. Too many people consider "Minority Report's" precrime Utopian rather than Dystopian...
+- They should be Forced to sell the company to the tjineeeese
+- probably already sold the database of images and identifying info. Or that info has already been hacked by China's and Russian elite. Been sold or shared with law enforcement already. It ain't the tech, it is the information.. Read exactly how collected from other internent news sources.
+- I remember seeing the movie Minority Report when it was first released in 2002. At the timeI thought "this is the future??". From a 2021 perch I now see it is! 🤦🏻‍♂️
+- I think minority report may have been a jab at things that circumvent due process more than anything. The notion of putting people in prison for crimes they haven't yet done totally lines up with throwing suspected would be terrorists in Guantanamo and suspected would be one day criminals in involuntary commitment.
+- "The notion of putting people in prison for crimes they haven't yet done"
+- A step in that direction, banking officials are suggesting that a person's browsing history should be part of their credit score.
+- If you consider that the right direction, perhaps you should consider living in a country that shares your vision. It'll do wonders for you socially.
+- " I see you, but you don't see me ;) "
+- Thats why AI easy develop in China. AI development in analysis on BIG data.However, how Facebook/Apple(iPhone)/Google/Adobe use privacy data when develop own software/AI/M1 chip?
+- What?
+- Tip of the iceberg!
+- Paravision was disingenuous when offering their "friend" feature.  It was sold to customers as a way to organize their photos.  But the real reason for that feature was to sell a dataset harvested from their customer's personal data.  As the saying goes "If the product is free then you are the product".
+- The fine is just pocket change for Paravision and I'm sure the cost of the FTC investigation was much greater than the fine.
+- But the investigation is worth it, anyway.
+- All ladies do it
+- Who cares about the cost of the investigation. The government is not a for-profit entity. It is there to protect our privacy and enforce the law.
+- What fine?
+- "Remarkably though the commission hasn’t fined the company or punished its owners"
+- That's funny because I use a Linux OS, that is free and open (and other software and products) and I'm sure I'm not the product. Same goes for "you get what you paid for" just to justify the cost of something over something else, even if it's the same.
+- Now I'm going to answer some emails on how to get rich quick and the ones offering me free money. What could go wrong :)
+- I should have qualified that as internet applications like google, FB, etc. and not offline packages like open source and GNU stuff :-)
+- Is my face there?
+- Hey, wait, does that laptop looks like a Mac, Fedetral Trade Commission ?
+- I know my face isn't - their software would've glitched out from all the ugly
+- The FTC's slap on the wrist allows Paravision to figuratively save face but prohibits it from literally saving faces.
+- Only the government can use it.   Period.
+- They can use it if you consented via some type of small print via affiliates or vendors;Unless they have already given it to other entitities;Or they really did not really delete it as they agreed to do previously when you closed your account but they failed
+- Leica introduces a tilt screen, USB-C and HDMI ports, 8K video and more to the Q-series.
+- With a bigger battery and better video capabilities, the Fujifilm X-S20 could be the vlogging machine content creators have been waiting for.
+- The Nikon Z8 is a $4000 Stacked-CMOS full-frame mirrorless camera that offers most of the capabilities of the range-topping Z9 but in a smaller, less expensive body.
+- The Canon EOS R10 is compact, mid-level 24MP APS-C mirrorless camera built around Canon's RF mount. We look into whether it offers more than your smartphone.
+- Leica has announced a mono-only version of its M11 60MP manual focus rangefinder. We've been taking a look at what it offers and what it's like to shoot with.
+- Above $2500 cameras tend to become increasingly specialized, making it difficult to select a 'best' option. We case our eye over the options costing more than $2500 but less than $4000, to find the best all-rounder.
+- There are a lot of photo/video cameras that have found a role as B-cameras on professional film productions or even A-cameras for amateur and independent productions. We've combed through the options and selected our two favorite cameras in this class.
+- What’s the best camera for around $2000? These capable cameras should be solid and well-built, have both the speed and focus to capture fast action and offer professional-level image quality. In this buying guide we’ve rounded up all the current interchangeable lens cameras costing around $2000 and recommended the best.
+- Family moments are precious and sometimes you want to capture that time spent with loved ones or friends in better quality than your phone can manage. We've selected a group of cameras that are easy to keep with you, and that can adapt to take photos wherever and whenever something memorable happens.
+- What's the best camera for shooting sports and action? Fast continuous shooting, reliable autofocus and great battery life are just three of the most important factors. In this buying guide we've rounded-up several great cameras for shooting sports and action, and recommended the best.
+- The latest Leica Q camera ups the megapixels but retains Leica's legendary colors. Peep at our sample gallery here.
+- Instagram's own @iamthecatphotographer on the magic of giving cats a little bit of nip.
+- The new Fujifilm X-S20 may have an older sensor, but it's a capable stills camera nevertheless. See our pre-production sample gallery and assess its image quality for yourself.
+- The Leica Q3 is here. We had a few days to test it out – click through to watch our initial thoughts.
+- Leica introduces a tilt screen, USB-C and HDMI ports, 8K video and more to the Q-series.
+- With a bigger battery and better video capabilities, the Fujifilm X-S20 could be the vlogging machine content creators have been waiting for.
+- Wanna go wide? This 12mm equivalent lens is a compact addition to any X-mount camera, and the widest entry in the Fujifilm lineup.
+- If you have a Bluetooth-enabled Fujifilm camera of recent vintage, you're about to get a big app upgrade.
+- The R100 is Canon's smallest and lightest EOS R camera, aimed at entry level users to bring those seeking hybrid functions into the RF lens mount.
+- Canon has announced the RF 28mm F2.8 STM, a $300 pancake prime lens for its RF system. It will act as a wide-angle for full-frame cameras or as 45mm equivalent normal lens on APS-C bodies.
+- 
+- Sony has updated the ZV-1 Type 1 vlogging compact with the addition of an 18-50mm equivalent F1.8-4.0 lens.
+- DPReview visited their local camera store, Glazer's Photo, to ask photography's frontline workers about the state of the industry.
+- Known for creating iconic sports photos with high school athletes, Brad Deel talks about his famous flaming tennis ball shot.
+- We’re putting the finishing touches on the EOS R7 review. In the meantime, sink your teeth into our updated sample image gallery for a sense of real-world IQ (and a taste of springtime in Seattle).
+- The fast-developing field of machine learning promises to take over the tedious tasks of culling and editing photos so you can be behind the shutter button where you belong. But is it quite ready for prime time yet?
+- Camera that make you go hmmm...
+- Taking inspiration from film lenses of yesteryear, Pentax's newest lens comes in two flavors.
+- In a pair of video updates Pentax shares a glimpses of its hopes and plans for future film cameras.
+- Is something in your photo distracting the viewer? Sure, you could go old-school and break out the Clone Stamp, but new tools and features, including AI-assisted technologies, give you more options for removing unwanted elements in far less time.
+- We go hands-on with the brand new Nikon Z8 and take a look at all its features. Does it handle like the Z7 or bolster its status as a 'mini Z9' with its design?
+- You'll need the latest hardware to download Final Cut Pro for iOS. And the app is only available via a subscription.
+- The Nikon Z8 combines some of the best aspects of the Z9 and Z7 II in one camera. But what if you already own both?
+- Select and scale subjects in the frame or even expand the parameters of a composition all with just a few taps of the screen.
+- The Pixel 7a also gets an improved display, wireless charging, and Google's latest chipset and security features.
+- An update from DPReview.com's general manager.
+- We got our hands on a pre-production Nikon Z8 and decided to take it for a spin around New York City. Check out our sample gallery and see how the image quality stacks up.
+- Canon has announced the PowerShot V10, a 'Flip'-like selfie camera for vloggers. The V10 is a 4K-capable compact camera with a Type 1 sensor and 19mm-equiv ultra-wide lens.
+- The Nikon Z8 is a $4000 Stacked-CMOS full-frame mirrorless camera that offers most of the capabilities of the range-topping Z9 but in a smaller, less expensive body.
+- The Nikon Z8 has arrived. Here's our first look at the camera after shooting with it for a day in New York City.
+- Gear is just half the equation, having a good method for managing your files will help ensure your treasures are here for years to come.
+
+URL: https://www.macrumors.com/2020/08/24/everalbum-shutting-down/
+- After seven years of operations, photo storage service Ever has announced that it plans to shut down on August 31, 2020, citing increasing competition from Apple and Google.
+- In a letter to customers, Ever says that all photos and videos stored on its servers are scheduled to be deleted on August 31, so affected users should follow Ever's export instructions below and read its FAQ as soon as possible to preserve their files:
+- - Log into the Ever website or your mobile application.- If you use the website, the export button will appear on the far right of the secondary navigation bar. You can choose to export your photos and videos in the order they were uploaded or by capture year.- For all mobile applications, the ‘Export Photos & Videos’ option appears under Account Settings. You may access Account Settings by selecting the gear icon in the upper right, twice.
+- The export process will send you an email with a link to one or more zip files containing your memorables. Please download these zip files to your local device to save your photos and videos. The export process will take anywhere from a couple of minutes (1,000 photos) to a couple of hours (10,000 photos), or longer. Contact support if you do not receive an email with a link to your memorables within 24 hours.
+- On the iPhone and other Apple devices, photos and videos automatically upload to iCloud when iCloud Photos is enabled.
+- (Thanks, Randy Reighard!)
+- Get weekly top MacRumors stories in your inbox.
+- A selection of macOS tips to make your Mac life a more effortless experience.
+- A selection of quick iOS tips that will make you a lot more time-efficient in the long run.
+- 50 features and changes you might have missed in macOS Ventura.
+- Apple on May 18 released iOS 16.5, delivering several sports-related enhancements for Apple News, a new Pride Celebration wallpaper, and several important bug and security fixes.
+- Apple's new AR/VR headset is expected to be unveiled, along with iOS 17, macOS 14, and more.
+- Apple's most powerful Mac will finally shift to Apple silicon.
+- Apple's AR/VR headset is coming soon with eye- and gesture-tracking, dual 4K displays, M-series chips, and more. Here's what we know so far.
+- Next-generation version of iOS, set to be previewed at WWDC 2023 in June with a public release in September.
+- 3 days ago by Tim Hardwick
+- 1 week ago by Joe Rossignol
+- 6 days ago by Tim Hardwick
+- 2 weeks ago by Joe Rossignol
+- 2 weeks ago by Joe Rossignol
+- 
+- MacRumors attracts a broad audience of both consumers and professionals interested in the latest technologies and products. We also boast an active community focused on purchasing decisions and technical aspects of the iPhone, iPod, iPad, and Mac platforms.
+
+URL: https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- Tom Simonite
+- Application
+- Ethics
+- Face recognition
+- Regulation
+- End User
+- Startup
+- Government
+- Sector
+- Defense
+- Research
+- Source Data
+- Images
+- Technology
+- Machine learning
+- Machine vision
+- Late last year, San Francisco face-recognition startup Everalbum won a $2 million contract with the Air Force to provide “AI-driven access control.” Monday, another arm of the US government dealt the company a setback.
+- The Federal Trade Commission said Everalbum had agreed to settle charges that it had applied face-recognition technology to images uploaded to a photo app without users’ permission and retained them after telling users they would be deleted. The startup used millions of the photos to develop technology offered to government agencies and other customers under the brand Paravision.
+- Paravision, as the company is now known, agreed to delete the data collected inappropriately. But it also agreed to a more novel remedy: purging any algorithms developed with those photos.
+- The settlement throws a shadow on Paravision’s reputation, but chief product officer Joey Pritikin says the company can still fulfill its Air Force contract and obligations to other clients. The startup shut the consumer app in August, the same month it learned of a potential FTC complaint, and it launched face-recognition technology developed without data from the app in September. Pritikin says those changes were in motion before the FTC came knocking, in part due to “evolution in public sentiment” about face recognition.
+- FTC commissioner Rohit Chopra, a Democrat, released a statement Monday praising the commission’s thoroughness with Paravision, saying it had been rightly forced to “forfeit the fruits of its deception.”
+- He contrasted the settlement with a 2019 agreement in which Google paid $170 million for illegally collecting data from children without parental consent. The company was not required to delete anything derived from that data. “Commissioners have previously voted to allow data protection law violators to retain algorithms and technologies that derive much of their value from ill-gotten data,” he wrote. “This is an important course correction.”
+- By Tom Simonite
+- Ryan Calo, a law professor at the University of Washington, says requiring Paravision to delete face-recognition algorithms trained with allegedly ill-gotten images shows the FTC recognizing how the rise of machine learning has tightly entwined data sets and potentially harmful software products.
+- Tech companies once created software solely by paying people to tap the right keys in the right order. But for many products such as face-recognition models or video filtering software, one of the most crucial ingredients is now a carefully curated collection of example data to feed into machine-learning algorithms. “This idea you have to delete the model and the data is acknowledgment those things are closely linked,” Calo says. Face-recognition systems deserve special scrutiny because creating them requires highly personal images. “They’re like Soylent Green—made out of people.”
+- David Vladeck, a former director of the FTC’s Bureau of Consumer Protection and a law professor at Georgetown, says Monday’s settlement is consistent with prior ones that required deletion of data. In 2013, software company DesignerWare and seven rent-to-own retailers agreed to delete geotracking data gathered without consent from spyware installed on laptops.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Monday’s more expansive deletion requirement with Paravision was approved unanimously, 5-0, by the FTC, which is still controlled by a Republican majority. After president-elect Joe Biden’s inauguration this month, the commission could become majority Democrat, and potentially even more eager to police tech companies. It could get new support and resources from the Democrat-controlled Congress.
+- Calo hopes to see the agency get more technical resources and expertise to help it scrutinize the tech industry on a more equal footing. One use for more tech know-how could be to devise ways to check whether a company really has scrubbed not just ill-gotten data but also advantages or tech derived from it. That could be difficult to do for systems involving complex machine-learning models built from multiple sources of data.
+- Vladeck says expanding the FTC’s core powers and headcount is yet more important. The agency may gain considerable new legal powers if Democrats pass the first federal US privacy law, as some, like US senator Maria Cantwell (D-Washington), have proposed. He’s optimistic about such legislation, if it also comes with a lot more people. The FTC has typically had just a few dozen people working on privacy and identity theft, Vladeck, says, while much smaller nations, such as Ireland, have hundreds. “The FTC is two-thirds the size it was 40 years ago,” he says.
+- Matt Burgess
+- Paresh Dave
+- Will Knight
+- Will Knight
+- Morgan Meaker
+- Morgan Meaker
+- Tracy Wen Liu
+- Chris Stokel-Walker
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos
+- By  Kim Lyons
+- The Federal Trade Commission has reached a settlement with photo storage app Ever that it says used customers’ photos to develop facial recognition technology without telling them, the agency announced Monday.
+- Under the terms of the agreement, Everalbum Inc. is required to delete photos and videos of its users who deactivated their accounts, as well as any facial recognition algorithms developed with users’ photos or videos. The company also must delete all “face embeddings,” which it describes as “data reflecting facial features that can be used for facial recognition purposes” that were derived from users’ photos who didn’t give consent for their use.
+- Everalbum, which shut down Ever in August and rebranded itself as Paravision AI, is also prohibited from misrepresenting how it collects and uses personal information and how it protects users’ privacy. If it markets software to consumers for personal use, the company has to obtain express consent before using any biometric information it collects from users to create face embeddings or to develop facial recognition technology.
+- In a 2019 report, NBC News detailed how Ever launched as a cloud storage business in 2013, but then switched to be a facial recognition technology provider four years later because it realized its photo app “wasn’t going to be a venture-scale business.” The report found that the Ever app was using customer’s private photos to train its facial recognition algorithm, which it then sold to clients.
+- The company said at the time that it never shared personal user data. Its privacy policy said “Your files may be used to help improve and train our products and these technologies,” but with little detail.
+- Photo services often use facial recognition to classify photos — Google, Facebook, and Apple have all been criticized in the past for their systems over privacy concerns — and large photo databases are often used by companies to train their facial recognition algorithms. Still, those services request extensive permissions from the user, and it’s extremely rare for a photo service to pivot entirely into facial recognition without notifying users.
+- According to the FTC, Everalbum told users that it would delete photos and videos of users who deactivated their accounts, but the agency said the company had failed to do so through at least October 2019, instead retaining them indefinitely.
+- In an email to The Verge, a Paravision spokesperson said the FTC order “reflects a change that has already taken place,” and the company has “no plans to run a consumer business moving forward.” Paravision’s face recognition model does not use any Ever users’ data, the spokesperson added.
+- “Face recognition and computer vision technology have the potential to improve our lives in profound ways and we take the gravity of its impacts extremely seriously,” the spokesperson continued, adding that Paravision has been recognized as an “accurate provider” of face recognition technology. “We look forward to maintaining this position with our latest generation model, and are deeply committed to the ethical development and use of this technology.”
+- / Sign up for Verge Deals to get deals on products we've tested sent to your inbox daily.
+- The Verge is a vox media network
+- © 2023 Vox Media, LLC. All Rights Reserved
+
+URL: https://jolt.law.harvard.edu/digest/everalbum-inc-in-first-facial-recognition-misuse-settlement-ftc-requires-destruction-of-algorithms-trained-on-deceptively-obtained-photos
+- In the Matter of Everalbum, Inc., File No. 1923172 (FTC Jan. 11, 2021) [Complaint, Proposed Settlement]
+- Everalbum, Inc. has settled Federal Trade Commission (FTC) allegations that it deceived users about its use of facial recognition and improperly retained photos and videos from users who had deactivated their accounts.
+- As described in the FTC’s complaint, the company used photos uploaded to a consumer app called “Ever” (which has since shut down) to develop facial recognition technologies that it then marketed to enterprise customers under a different name, originally “Ever AI” and now “Paravision.” The proposed settlement would require the company not only to obtain users’ express consent before using facial recognition technology, but also to destroy all algorithms and models it developed using photos it deceptively obtained from Ever users.
+- In a statement, FTC Commissioner Rohit Chopra called the requirement that Everalbum delete models and algorithms an “important course correction” to previous settlements that allowed companies to retain algorithms and other technologies that had been developed or enhanced using data obtained illegally. Chopra specifically contrasted earlier cases against Google (a $170 million fine for collecting personal information about children in violation of the Children’s Online Privacy Protection Act) and Facebook (a record-setting $5 billion fine for violating a 2012 FTC order by deceiving users about privacy controls) that did not require the companies to relinquish algorithms and models derived from deceptively obtained data.
+- The Ever app, launched in 2015, began as a straightforward photo storage app. Basic facial recognition features, allowing users to group photos based on the faces of people who appeared in them, were not added until 2017. At first, these facial recognition features were powered by publicly available technology. Eventually, though, the company began developing its own algorithms, and it used its users’ images as training data to improve their accuracy. According to the FTC’s complaint, the company combined user images and publicly available datasets to create four separate training datasets that it used to improve its facial recognition algorithms over several years. In addition to using these algorithms within the Ever app, Everalbum also marketed the resulting technology (but not direct access to user data) to business and government customers for uses including identity programs and access control.
+- The FTC also alleged that Everalbum deceived users about what would happen after accounts were deleted. Despite representations that the company would delete users’ photos and videos if they deactivated their accounts, the company instead stored user data indefinitely.
+- The FTC’s proposed settlement requires Everalbum to delete three broad categories of information: (1) all photos or videos uploaded by users who have deactivated their accounts, (2) all face data, including photos or other numeric representations, derived from photos of users who did not affirmatively consent to the use of facial recognition, and (3) all models and algorithms developed in any part using any biometric information (including face data) collected from users of the Ever app. In addition, it also requires Everalbum to seek affirmative consent before using users’ biometric information and not misrepresent its use of this information moving forward.
+- Privacy researcher and former FTC Chief Technologist Ashkan Soltani called the requirement that Everalbum delete not only deceptively collected data but also the algorithms and models trained on it a “significant precedent” for artificial intelligence and machine learning.
+- Everalbum’s use of consumer photos to develop facial recognition technology marketed to enterprise customers, including law enforcement and military clients, was first reported by NBC News in 2019.
+- The FTC voted unanimously to issue the complaint and accept the proposed settlement agreement with Everalbum, which now awaits 30 days of public comment before it is finalized by the FTC. The settlement is the first FTC case primarily focused on misuse of facial recognition.
+- Zachary Sorenson is a 1L at Harvard Law School.
+- Harvard Law SchoolWasserstein Hall, Suite 30501585 Massachusetts AveCambridge, MA 02138
+
+URL: https://www.protocol.com/policy/ftc-algorithm-destroy-data-privacy
+- It may have found a new standard for penalizing tech companies that violate privacy and use deceptive data practices: algorithmic destruction.
+- Forcing companies to delete algorithmic systems built with ill-gotten data could become a more routine approach.
+- The Federal Trade Commission has struggled over the years to find ways to combat deceptive digital data practices using its limited set of enforcement options. Now, it’s landed on one that could have a big impact on tech companies: algorithmic destruction. And as the agency gets more aggressive on tech by slowly introducing this new type of penalty, applying it in a settlement for the third time in three years could be the charm.
+- In a March 4 settlement order, the agency demanded that WW International — formerly known as Weight Watchers — destroy the algorithms or AI models it built using personal information collected through its Kurbo healthy eating app from kids as young as 8 without parental permission. The agency also fined the company $1.5 million and ordered it to delete the illegally harvested data.
+- When it comes to today’s data-centric business models, algorithmic systems and the data used to build and train them are intellectual property, products that are core to how many companies operate and generate revenue. While in the past the FTC has required companies to disgorge ill-gotten monetary gains obtained through deceptive practices, forcing them to delete algorithmic systems built with ill-gotten data could become a more routine approach, one that modernizes FTC enforcement to directly affect how companies do business.
+- 
+- The FTC first used the approach in 2019, amid scandalous headlines that exposed Facebook’s privacy vulnerabilities and brought down political data and campaign consultancy Cambridge Analytica. The agency called on Cambridge Analytica to destroy the data it had gathered about Facebook users through deceptive means along with “information or work product, including any algorithms or equations” built using that data.
+- It was another two years before algorithmic disgorgement came around again when the commission settled a case with photo-sharing app company Everalbum. The company was charged with using facial recognition in its Ever app to detect people’s identities in images without allowing users to turn it off, and for using photos uploaded through the app to help build its facial recognition technology.
+- In that case, the commission told Everalbum to destroy the photos, videos and facial and biometric data it gleaned from app users and to delete products built using it, including “any models or algorithms developed in whole or in part” using that data.
+- Technically speaking, the term “algorithm” can cover any piece of code that can make a software application do a set of actions, said Krishna Gade, founder and CEO of AI monitoring software company Fiddler. When it comes to AI specifically, the term usually refers to an AI model or machine-learning model, he said.
+- It hasn’t always been clear that the FTC might use algorithmic disgorgement more regularly.
+- “Cambridge Analytica a was a good decision, but I wasn’t certain that that was going to become a pattern,” Pam Dixon, executive director of World Privacy Forum, said regarding the requirement for the company to delete its algorithmic models. Now, Dixon said, algorithmic disgorgement will likely become a standard enforcement mechanism, just like monetary fines. “This is definitely now to be expected whenever it is applicable or the right decision,” she said.
+- 
+- The winds inside the FTC seem to be shifting. “Commissioners have previously voted to allow data protection law violators to retain algorithms and technologies that derive much of their value from ill-gotten data,” former FTC Commissioner Rohit Chopra, now director of the Consumer Financial Protection Bureau, wrote in a statement related to the Everalbum case. He said requiring the company to “forfeit the fruits of its deception” was “an important course correction.”
+- “If Ever meant a course correction, Kurbo means full speed ahead,” said Jevan Hutson, associate at Hintze Law, a data privacy and security law firm.
+- FTC Commissioner Rebecca Slaughter has been a vocal supporter of algorithmic destruction as a way to penalize companies for unfair and deceptive data practices. In a Yale Journal of Law and Technology article published last year, she and FTC lawyers Janice Kopec and Mohamad Batal highlighted it as a tool the FTC could use to foster economic and algorithmic justice.
+- “The premise is simple: when companies collect data illegally, they should not be able to profit from either the data or any algorithm developed using it,” they wrote. “The authority to seek this type of remedy comes from the Commission’s power to order relief reasonably tailored to the violation of the law. This innovative enforcement approach should send a clear message to companies engaging in illicit data collection in order to train AI models: Not worth it.”
+- Indeed, some believe the threat to intellectual property value and tech product viability could make companies think twice about using data collected through unscrupulous means. “Big fines are the cost of doing business. Algorithmic disgorgement traced to illicit data collection/processing is an actual deterrent,” David Carroll, an associate professor of media design at The New School’s Parsons School of Design, said in a tweet. Carroll sued Cambridge Analytica in Europe to obtain his 2016 voter profile data from the now-defunct company.
+- When people sign up to use the Kurbo healthy eating app, they can choose a fruit or vegetable-themed avatar such as an artichoke, pea pod or pineapple. In exchange for health coaching and help tracking food intake and exercise, the app requires personal information about its users such as age, gender, height, weight and their food and exercise choices, which improve the app.
+- 
+- In its case against WW, the FTC said that until late 2019, Kurbo users could sign up for the service either by indicating that they were a parent signing up for their child or that they were over the age of 13 and registering for themselves. The agency said the company failed to ensure that the people signing up were actually parents or adult guardians rather than kids pretending to be adults. It also said that from 2014 to 2019, hundreds of users who signed up for the app originally claiming they were over age 13 later changed their profile birth dates to indicate they were actually under 13, but continued to have access to the app.
+- The fact that algorithmic disgorgement was used by the FTC in relation to one of the country’s only existing federal privacy laws could be a sign that it will be used again, legal and policy experts said. While the Cambridge Analytica and Everalbum cases charged those companies for violating the FTC Act, the Kurbo case added an important wrinkle, alleging that WW violated both the FTC Act and Children’s Online Privacy Protection Act. Both are important pieces of legislation under which the agency can bring consumer protection cases against businesses.
+- “This means that for any organization that has collected data illegally under COPPA that data is at risk and the models built on top of it are at risk for disgorgement,” Hutson said.
+- The use of COPPA could be a foundational precedent paving the way for the FTC to require destruction of algorithmic models under future legislation, such as a would-be comprehensive federal privacy law. “It stands to reason it would be leveraged in any other arena where the FTC has enforcement authority under legislation,” Hutson said.
+- Application of algorithmic disgorgement in the COPPA context is “a clear jurisdiction and trigger of enforcement through a law that exists and explicitly protects kids’ data, [so] if there was a corollary law for everyone it would allow the FTC to enforce in this way for companies that are not just gathering kids’ data,” said Ben Winters, a counsel for the Electronic Privacy Information Center.
+- 
+- He added, “It shows it would be really great if we had a privacy law for everybody, in addition to kids.”
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- His decisions on major cryptocurrency cases have quoted "The Big Lebowski," "SNL," and "Dr. Strangelove." That’s because he wants you — yes, you — to read them.
+- The ways Zia Faruqui (right) has weighed on cases that have come before him can give lawyers clues as to what legal frameworks will pass muster.
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- “Cryptocurrency and related software analytics tools are ‘The wave of the future, Dude. One hundred percent electronic.’”
+- That’s not a quote from "The Big Lebowski" — at least, not directly. It’s a quote from a Washington, D.C., district court memorandum opinion on the role cryptocurrency analytics tools can play in government investigations. The author is Magistrate Judge Zia Faruqui.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Veronica Irwin (@vronirwin) is a San Francisco-based reporter at Protocol covering fintech. Previously she was at the San Francisco Examiner, covering tech from a hyper-local angle. Before that, her byline was featured in SF Weekly, The Nation, Techworker, Ms. Magazine and The Frisc.
+- The financial technology transformation is driving competition, creating consumer choice, and shaping the future of finance. Hear from seven fintech leaders who are reshaping the future of finance, and join the inaugural Financial Technology Association Fintech Summit to learn more.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- As AWS preps for its annual re:Invent conference, Adam Selipsky talks product strategy, support for hybrid environments, and the value of the cloud in uncertain economic times.
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- AWS is gearing up for re:Invent, its annual cloud computing conference where announcements this year are expected to focus on its end-to-end data strategy and delivering new industry-specific services.
+- It will be the second re:Invent with CEO Adam Selipsky as leader of the industry’s largest cloud provider after his return last year to AWS from data visualization company Tableau Software.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on enterprise infrastructure technology, from the 'Big 3' cloud computing providers to data centers. She previously covered the public cloud at CRN after 15 years as a business reporter for the Boston Herald. Based in Massachusetts, she also has worked as a Boston Globe freelancer, business reporter at the Boston Business Journal and real estate reporter at Banker & Tradesman after toiling at weekly newspapers.
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- Jamie Condliffe (
+	@jme_c) is the executive editor at Protocol, based in London. Prior to joining Protocol in 2019, he worked on the business desk at The New York Times, where he edited the DealBook newsletter and wrote Bits, the weekly tech newsletter. He has previously worked at MIT Technology Review, Gizmodo, and New Scientist, and has held lectureships at the University of Oxford and Imperial College London. He also holds a doctorate in engineering from the University of Oxford.
+- We launched Protocol in February 2020 to cover the evolving power center of tech. It is with deep sadness that just under three years later, we are winding down the publication.
+- As of today, we will not publish any more stories. All of our newsletters, apart from our flagship, Source Code, will no longer be sent. Source Code will be published and sent for the next few weeks, but it will also close down in December.
+- 
+- 
+- 
+- Bennett Richardson (
+	@bennettrich) is the president of Protocol. Prior to joining Protocol in 2019, Bennett was executive director of global strategic partnerships at POLITICO, where he led strategic growth efforts including POLITICO's European expansion in Brussels and POLITICO's creative agency POLITICO Focus during his six years with the company. Prior to POLITICO, Bennett was co-founder and CMO of Hinge, the mobile dating company recently acquired by Match Group. Bennett began his career in digital and social brand marketing working with major brands across tech, energy, and health care at leading marketing and communications agencies including Edelman and GMMB. Bennett is originally from Portland, Maine, and received his bachelor's degree from Colgate University.
+- As companies expand their use of AI beyond running just a few machine learning models, and as larger enterprises go from deploying hundreds of models to thousands and even millions of models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- As companies expand their use of AI beyond running just a few machine learning models, ML practitioners say that they have yet to find what they need from prepackaged MLops systems.
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- On any given day, Lily AI runs hundreds of machine learning models using computer vision and natural language processing that are customized for its retail and ecommerce clients to make website product recommendations, forecast demand, and plan merchandising. But this spring when the company was in the market for a machine learning operations platform to manage its expanding model roster, it wasn’t easy to find a suitable off-the-shelf system that could handle such a large number of models in deployment while also meeting other criteria.
+- Some MLops platforms are not well-suited for maintaining even more than 10 machine learning models when it comes to keeping track of data, navigating their user interfaces, or reporting capabilities, Matthew Nokleby, machine learning manager for Lily AI’s product intelligence team, told Protocol earlier this year. “The duct tape starts to show,” he said.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Kate Kaye is an award-winning multimedia reporter digging deep and telling print, digital and audio stories. She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of "Campaign '08: A Turning Point for Digital Media," a book about how the 2008 presidential campaigns used digital media and data.
+- To give you the best possible experience, this site uses cookies. If you continue browsing. you accept our use of cookies. You can review our privacy policy to find out more about the cookies we use.
+
+- Weight Watchers child data harvesting
+- TikTok US personal data harvesting
+- Page infoType: IncidentPublished: March 2022

@@ -1,0 +1,472 @@
+- Released: January 2016
+- Can you improve this page?Share your insights with us
+- Udbetaling Danmark's welfare fraud control system, initially created to profile unemployed citizens, have access to the personal data of citizens who do not receive welfare payments, leading legal, civil rights and privacy advocates to complain of a 'surveillance nightmare'.
+- Operator: Udbetaling Danmark Developer: The Agency for Labour Market and Recruitment (STAR)
+- Country: Denmark
+- Sector: Govt - welfare
+- Purpose: Optimise welfare payments
+- Technology:  Issue: Accuracy/reliability; Privacy; Surveillance
+- Transparency:
+- Udbetaling Danmark website
+- Ministry of Industry, Business and Financial Affairs (2021). Towards a better social contract with big tech (pdf)
+URL: https://www.folketingstidende.dk/RIpdf/samling/20181/lovforslag/L209/20181_L209_som_vedtaget.pdf
+
+- Jørgensen R.F. (2021). Data and rights in the digital welfare state: the case of Denmark
+- Madsen C.Ø., Lindgren I., Melin U. (2021). The accidental caseworker – How digital self-service influences citizens' administrative burden
+- Choroszewicz M., Mäihäniemi B. (2020). Developing a Digital Welfare State: Data Protection and the Use of Automated Decision-Making in the Public Sector across Six EU Countries
+- AlgorithmWatch (2020). In a quest to optimize welfare management, Denmark built a surveillance behemoth
+- DataEthics (2019). Is The Scandinavian Digitalisation Breeding Ground For Social Welfare Surveillance?
+- Justitia (2019). Udebetaling Danmarks systematiske overvågning (pdf)
+- Mploy (2017). Evaluering af projekt ”Samtaler og indsats der modvirker langtidsledighed” (pdf)
+- Ministry of Industry, Business and Financial Affairs (2021). Towards a better social contract with big tech (pdf)
+URL: https://foreignpolicy.com/2018/12/25/the-welfare-state-is-committing-suicide-by-artificial-intelligence/
+- By pitching himself as a hero to the U.S. right, he’s taking a page from the 1960s North Vietnamese playbook to undermine support for Ukraine.
+- The debate about regulating AI urgently needs input from the global south.
+- With their livelihoods threatened and the state stretched thin, agricultural workers are taking demining into their own hands.
+- Too much news is routed through London and New York. The capitals of the global south need to step up.
+- Argument:
+                            
+
+                                The Welfare State Is Committing Suicide by Artificial Intelligence
+- Create an FP account to save articles to read later and in the FP mobile app.
+- Sign Up
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Everyone likes to talk about the ways that liberalism might be killed off, whether by populism at home or adversaries abroad. Fewer talk about the growing indications in places like Denmark that liberal democracy might accidentally commit suicide.
+- Everyone likes to talk about the ways that liberalism might be killed off, whether by populism at home or adversaries abroad. Fewer talk about the growing indications in places like Denmark that liberal democracy might accidentally commit suicide.
+- As a philosophy of government, liberalism is premised on the belief that the coercive powers of public authorities should be used in service of individual freedom and flourishing, and that they should therefore be constrained by laws controlling their scope, limits, and discretion. That is the basis for historic liberal achievements such as human rights and the rule of law, which are built into the infrastructure of the Scandinavian welfare state.
+- Yet the idea of legal constraint is increasingly difficult to reconcile with the revolution promised by artificial intelligence and machine learning—specifically, those technologies’ promises of vast social benefits in exchange for unconstrained access to data and lack of adequate regulation on what can be done with it. Algorithms hold the allure of providing wider-ranging benefits to welfare states, and of delivering these benefits more efficiently.
+- Such improvements in governance are undeniably enticing. What should concern us, however, is that the means of achieving them are not liberal. There are now growing indications that the West is slouching toward rule by algorithm—a brave new world in which vast fields of human life will be governed by digital code both invisible and unintelligible to human beings, with significant political power placed beyond individual resistance and legal challenge. Liberal democracies are already initiating this quiet, technologically enabled revolution, even as it undermines their own social foundation.
+- Consider the case of Denmark. The country currently leads the World Justice Project’s Rule of Law ranking, not least because of its well-administered welfare state. But the country does not appear to fully understand the risks involved in enhancing that welfare state through artificial intelligence applications. The municipality of Gladsaxe in Copenhagen, for example, has quietly been experimenting with a system that would use algorithms to identify children at risk of abuse, allowing authorities to target the flagged families for early intervention that could ultimately result in forced removals.
+- The children would be targeted based on specially designed algorithms tasked with crunching the information already gathered by the Danish government and linked to the personal identification number that is assigned to all Danes at birth. This information includes health records, employment information, and much more.
+- From the Danish government’s perspective, the child-welfare algorithm proposal is merely an extension of the systems it already has in place to detect social fraud and abuse. Benefits and entitlements covering millions of Danes have long been handled by a centralized agency (Udbetaling Danmark), and based on the vast amounts of personal data gathered and processed by this agency, algorithms create so-called puzzlement lists identifying suspicious patterns that may suggest fraud or abuse. These lists can then be acted on by the “control units” operated by many municipalities to investigate those suspected of receiving benefits to which they are not entitled. The data may include information on spouses and children, as well as information from financial institutions.
+- These practices might seem both well intended and largely benign. After all, a universal welfare state cannot function if the trust of those who contribute to it breaks down due to systematic freeriding and abuse. And in the prototype being developed in Gladsaxe, the application of big data and algorithmic processing seems to be perfectly virtuous, aimed as it is at upholding the core human rights of vulnerable children.
+- But the potential for mission creep is abundantly clear. Udbetaling Danmark is a case in point: The agency’s powers and its access to data have been steadily expanded over the years. A recent proposal even aimed at providing this program leviathan access to the electricity use of Danish households to better identify people who have registered a false address to qualify for extra benefits. The Danish government has also used a loophole in Europe’s new digital data rules to allow public authorities to use data gathered under one pretext for entirely different purposes.
+- And yet the perils of such programs are less understood and discussed than the benefits. Part of the reason may be that the West’s embrace of public-service algorithms are byproducts of lofty and genuinely beneficial initiatives aimed at better governance. But these externalities are also beneficial for those in power in creating a parallel form of governing alongside more familiar tools of legislation and policy-setting. And the opacity of the algorithms’ power means that it isn’t easy to determine when algorithmic governance stops serving the common good and instead becomes the servant of the powers that be. This will inevitably take a toll on privacy, family life, and free speech, as individuals will be unsure when their personal actions may come under the radar of the government.
+- Such government algorithms also weaken public accountability over the government. Danish citizens have not been asked to give specific consent to the massive data processing already underway. They are not informed if they are placed on “puzzlement lists,” nor whether it is possible to legally challenge one’s designation. And nobody outside the municipal government of Gladsaxe knows exactly how its algorithm would even identify children at risk.
+- Gladsaxe’s proposal has produced a major public backlash, which has forced the town to delay the program’s planned rollout. Nevertheless, the Danish government has expressed interest in widening the use of public-service algorithms across the country to bolster its welfare services—even at the expense of the freedom of the people they are intended to serve.
+- It may be tempting to dismiss algorithmic governance, or algocracy, as a mere continuation of authoritarianism, as represented by China’s notorious social credit systems, which have often been described as the 21st-century manifestation of Orwellian dystopia. And one-party states do indeed find obvious comfort in using new technologies like AI to consolidate the power of the party and its interests. This conforms to historical examples of dictatorships using newspapers, radio, television, and other media for propaganda purposes while suppressing critical journalism and political pluralism.
+- But algocracy is not a matter of ideology, but rather technology and its inherently attractive potential. As Denmark makes clear, there are strong temptations for liberal democracies to govern with algorithmic tools that promise huge rewards in terms of efficiency, consistency and precision. Algocracies are likely to emerge as by-products of governments seeking to better deliver benefits to citizens. And despite the fundamental differences between China’s one-party state and Danish liberal democracy, the very democratic infrastructure that distinguishes the latter from the former might not be able to fulfil that role into the future.
+- There are good reasons to think judicial procedures would not be able to serve as a check on the growth of public-service algorithms. Consider the Danish case: the civil servants working to detect child abuse and social fraud will be largely unable to understand and explain why the algorithm identified a family for early intervention or individual for control. As deep learning progresses, algorithmic processes will only become more incomprehensible to human beings, who will be relegated to merely relying on the outcomes of these processes, without having meaningful access to the data or its processing that these algorithmic systems rely upon to produce specific outcomes. But in the absence of government actors making clear and reasoned decisions, it will be impossible for courts to hold them accountable for their actions.
+- Thus, algorithms designed with the sole purpose of eliminating social welfare free-riding will almost inevitably lead to increasingly draconian measures to police individual behavior. To prevent AI from serving as a tool toward this dystopian end, the West must focus more on algorithmic governance—regulations to ensure meaningful democratic participation and legitimacy in the production of the algorithms themselves. There is little doubt that this would reduce the efficiency of algorithmic processes. But such a compromise would be worthwhile, given the way that algocracy will otherwise involve the sacrifice of democracy.
+- Jacob Mchangama is CEO of The Future of Free Speech, the author of Free Speech: A History From Socrates to Social Media, and Senior Fellow at the Foundation for Individual Rights and Expression.
+- Hin-Yan Liu is an Associate Professor at the University of Copenhagen, faculty of law, where he coordinates the faculty´s Artificial Intelligence and Legal Disruption Research Group.
+- 
+- NEW FOR SUBSCRIBERS:
+Want to read more on this topic or region? Click + to receive email alerts when new stories are published on
+
+
+
+Science and Technology
+
+
+
+ 
+                        Science and Technology,                    
+
+
+
+Europe
+
+
+
+ 
+                        Europe
+- Read More
+- Denmark, Norway, and Sweden shouldn’t be held up as socialist utopias.
+- In an effort to outflank the populist right, the ruling Social Democrats have adopted one of the harshest refugee policies in the world.
+- For a maritime nation, curtailing transport emissions is the first step.
+- You’re on the list! More ways to stay updated on global news:
+- By submitting your email, you agree to the Privacy Policy and Terms of Use and to receive email correspondence from us. You may opt out at any time.
+- Keri Russell gets Drexel furniture but no Senate confirmation hearing.
+- As a strategic consensus emerges in Europe, France is in the way.
+- Newly declassified documents contain important lessons for U.S. China policy.
+- Moscow’s arms exports have fallen to levels not seen since the Soviet Union’s collapse.
+- Sign up for World Brief
+- By submitting your email, you agree to the Privacy Policy and Terms of Use and to receive email correspondence from us. You may opt out at any time.
+- Your guide to the most important world stories of the day.
+- Essential analysis of the stories shaping geopolitics on the continent. Delivered Wednesday.
+- One-stop digest of politics, economics, and culture. Delivered Friday.
+- The latest news, analysis, and data from the country each week. Delivered Wednesday.
+- Weekly update on developments in India and its neighbors. Delivered Thursday.
+- Weekly update on what’s driving U.S. national security policy. Delivered Thursday.
+- A curated selection of our very best long reads. Delivered Wednesday & Sunday.
+- Evening roundup with our editors’ favorite stories of the day. Delivered Monday-Saturday.
+- A monthly digest of the top articles read by FP subscribers.
+- By signing up, I agree to the Privacy Policy and Terms of Use and to occasionally receive special offers from Foreign Policy.
+- Registered
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Is the White House prepared to deal with the remarkable growth of artificial intelligence? What are the current and potential risks to Americans? If governments should create rules around th...Show moree regulation of AI, what considerations should guide the creation of those rules?
+Alondra Nelson is the architect of the White House’s “Blueprint for an AI Bill of Rights.” Since it was published in October, AI has only become more central to our lives—and Nelson has stepped down from her role as the government’s head of science and technology. 
+How should policymakers think through the challenges presented by AI? Join Nelson for a wide-ranging discussion with FP’s Ravi Agrawal.
+- By signing up, I agree to the Privacy Policy and Terms of Use and to occasionally receive special offers from Foreign Policy.
+- Registered
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- The war in Ukraine has propelled the United States and Europe closer on a variety of foreign-policy issues. But do Washington and Brussels agree on how to deal with Beijing’s growing clout...Show more? 
+The signs are mixed. The trans-Atlantic alliance NATO has formally declared China a strategic threat, but there are also emerging gaps in how various European capitals and Washington want to engage with Beijing. What exactly are these differences, and how will they impact the world’s relations with China? 
+Join FP’s Ravi Agrawal for a discussion with experts on both sides of the Atlantic: Cindy Yu, an assistant editor of the Spectator and host of its podcast Chinese Whispers; and James Palmer, author of FP’s weekly China Brief newsletter. FP subscribers can send in their questions in advance.
+- By signing up, I agree to the Privacy Policy and Terms of Use and to occasionally receive special offers from Foreign Policy.
+- Registered
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Only FP subscribers can submit questions for FP Live interviews.
+- Subscribe
+- ALREADY AN FP SUBSCRIBER? LOGIN
+- Over the last few years, the United States has moved to limit China’s technological rise. U.S.-led sanctions have imposed unprecedented limits on Beijing’s access to advanced computing c...Show morehips. In response, China has accelerated its own efforts to develop its technological industry and reduce its dependence on external imports. 
+According to Dan Wang, a technology expert and visiting scholar at Yale Law School’s Paul Tsai China Center, China’s tech competitiveness is grounded in manufacturing capabilities. And sometimes China’s strategy beats America’s. 
+Where is this new tech war headed? How are other countries being impacted as a result? In what ways are they reassessing their relationships with the world’s largest economic superpowers? Join FP’s Ravi Agrawal in conversation with Wang for a discussion about China’s technological rise and whether U.S. actions can really stop it.
+- The German philosopher’s “Grundrisse” is an indispensable guide to our current chaos—from AI to the rise of China.
+- How the nonstop blare of Russian state media fuels the war effort—and blurs reality.
+- By pitching himself as a hero to the U.S. right, he’s taking a page from the 1960s North Vietnamese playbook to undermine support for Ukraine.
+- The debate about regulating AI urgently needs input from the global south.
+
+URL: https://www.businessinsider.in/denmark-is-using-algorithms-to-dole-out-welfare-benefits-and-undermining-its-own-democracy-in-the-process/articleshow/67279722.cms
+- Franco Origlia/Getty Images
+- Franco Origlia/Getty Images
+- 
+- Everyone likes to talk about the ways that liberalism might be killed off, whether by populism at home or adversaries abroad. Fewer talk about the growing indications in places like Denmark that liberal democracy might accidentally commit suicide.
+- As a philosophy of government, liberalism is premised on the belief that the coercive powers of public authorities should be used in service of individual freedom and flourishing, and that they should therefore be constrained by laws controlling their scope, limits, and discretion.
+- That is the basis for historic liberal achievements such as human rights and the rule of law, which are built into the infrastructure of the Scandinavian welfare state.
+- Frédéric Soltan/Corbis via Getty Images
+- Frédéric Soltan/Corbis via Getty Images
+- 
+- Yet the idea of legal constraint is increasingly difficult to reconcile with the revolution promised by artificial intelligence and machine learning-specifically, those technologies' promises of vast social benefits in exchange for unconstrained access to data and lack of adequate regulation on what can be done with it.
+- Such improvements in governance are undeniably enticing. What should concern us, however, is that the means of achieving them are not liberal.
+- There are now growing indications that the West is slouching toward rule by algorithm-a brave new world in which vast fields of human life will be governed by digital code both invisible and unintelligible to human beings, with significant political power placed beyond individual resistance and legal challenge. Liberal democracies are already initiating this quiet, technologically enabled revolution, even as it undermines their own social foundation.
+- Consider the case of Denmark.
+- The country currently leads the World Justice Project's Rule of Law ranking, not least because of its well-administered welfare state. But the country does not appear to fully understand the risks involved in enhancing that welfare state through artificial intelligence applications.
+- The municipality of Gladsaxe in Copenhagen, for example, has quietly been experimenting with a system that would use algorithms to identify children at risk of abuse, allowing authorities to target the flagged families for early intervention that could ultimately result in forced removals.
+- The children would be targeted based on specially designed algorithms tasked with crunching the information already gathered by the Danish government and linked to the personal identification number that is assigned to all Danes at birth. This information includes health records, employment information, and much more.
+- From the Danish government's perspective, the child-welfare algorithm proposal is merely an extension of the systems it already has in place to detect social fraud and abuse. Benefits and entitlements covering millions of Danes have long been handled by a centralized agency (Udbetaling Danmark), and based on the vast amounts of personal data gathered and processed by this agency, algorithms create so-called puzzlement lists identifying suspicious patterns that may suggest fraud or abuse.
+- TOBIAS SCHWARZ/AFP/Getty ImagesDanish Prime Minister Lars Lokke Rasmussen gives a speech to open the Smart Country Convention on the digitization of public services on November 20, 2018 in Berlin.
+- TOBIAS SCHWARZ/AFP/Getty Images
+- Danish Prime Minister Lars Lokke Rasmussen gives a speech to open the Smart Country Convention on the digitization of public services on November 20, 2018 in Berlin.
+- 
+- These lists can then be acted on by the "control units" operated by many municipalities to investigate those suspected of receiving benefits to which they are not entitled. The data may include information on spouses and children, as well as information from financial institutions.
+- These practices might seem both well intended and largely benign. After all, a universal welfare state cannot function if the trust of those who contribute to it breaks down due to systematic freeriding and abuse. And in the prototype being developed in Gladsaxe, the application of big data and algorithmic processing seems to be perfectly virtuous, aimed as it is at upholding the core human rights of vulnerable children.
+- Udbetaling Danmark is a case in point: The agency's powers and its access to data have been steadily expanded over the years. A recent proposal even aimed at providing this program leviathan access to the electricity use of Danish households to better identify people who have registered a false address to qualify for extra benefits.
+- The Danish government has also used a loophole in Europe's new digital data rules to allow public authorities to use data gathered under one pretext for entirely different purposes.
+- Part of the reason may be that the West's embrace of public-service algorithms are byproducts of lofty and genuinely beneficial initiatives aimed at better governance. But these externalities are also beneficial for those in power in creating a parallel form of governing alongside more familiar tools of legislation and policy-setting. And the opacity of the algorithms' power means that it isn't easy to determine when algorithmic governance stops serving the common good and instead becomes the servant of the powers that be.
+- Frédéric Soltan/GettyStudents of the Royal Danish Academy of Fine Arts, School of Architecture sit along a Copenhagen canal.
+- Frédéric Soltan/Getty
+- Students of the Royal Danish Academy of Fine Arts, School of Architecture sit along a Copenhagen canal.
+- 
+- This will inevitably take a toll on privacy, family life, and free speech, as individuals will be unsure when their personal actions may come under the radar of the government.
+- Danish citizens have not been asked to give specific consent to the massive data processing already underway. They are not informed if they are placed on "puzzlement lists," nor whether it is possible to legally challenge one's designation. And nobody outside the municipal government of Gladsaxe knows exactly how its algorithm would even identify children at risk.
+- Gladsaxe's proposal has produced a major public backlash, which has forced the town to delay the program's planned rollout. Nevertheless, the Danish government has expressed interest in widening the use of public-service algorithms across the country to bolster its welfare services-even at the expense of the freedom of the people they are intended to serve.
+- It may be tempting to dismiss algorithmic governance, or algocracy, as a mere continuation of authoritarianism, as represented by China's notorious social credit systems, which have often been described as the 21st-century manifestation of Orwellian dystopia.
+- Fabrizio Bensch/ReutersThe hand of humanoid robot AILA (artificial intelligence lightweight android) operates a switchboard during a demonstration by the German research centre for artificial intelligence at the CeBit computer fair in Hanover March, 5, 2013.
+- Fabrizio Bensch/Reuters
+- The hand of humanoid robot AILA (artificial intelligence lightweight android) operates a switchboard during a demonstration by the German research centre for artificial intelligence at the CeBit computer fair in Hanover March, 5, 2013.
+- 
+- And one-party states do indeed find obvious comfort in using new technologies like AI to consolidate the power of the party and its interests. This conforms to historical examples of dictatorships using newspapers, radio, television, and other media for propaganda purposes while suppressing critical journalism and political pluralism.
+- But algocracy is not a matter of ideology, but rather technology and its inherently attractive potential. As Denmark makes clear, there are strong temptations for liberal democracies to govern with algorithmic tools that promise huge rewards in terms of efficiency, consistency and precision.
+- And despite the fundamental differences between China's one-party state and Danish liberal democracy, the very democratic infrastructure that distinguishes the latter from the former might not be able to fulfil that role into the future.
+- There are good reasons to think judicial procedures would not be able to serve as a check on the growth of public-service algorithms. Consider the Danish case: the civil servants working to detect child abuse and social fraud will be largely unable to understand and explain why the algorithm identified a family for early intervention or individual for control.
+- As deep learning progresses, algorithmic processes will only become more incomprehensible to human beings, who will be relegated to merely relying on the outcomes of these processes, without having meaningful access to the data or its processing that these algorithmic systems rely upon to produce specific outcomes. But in the absence of government actors making clear and reasoned decisions, it will be impossible for courts to hold them accountable for their actions.
+- Thus, algorithms designed with the sole purpose of eliminating social welfare free-riding will almost inevitably lead to increasingly draconian measures to police individual behavior. To prevent AI from serving as a tool toward this dystopian end, the West must focus more on algorithmic governance-regulations to ensure meaningful democratic participation and legitimacy in the production of the algorithms themselves. There is little doubt that this would reduce the efficiency of algorithmic processes. But such a compromise would be worthwhile, given the way that algocracy will otherwise involve the sacrifice of democracy.
+- Jacob Mchangama is the executive director of Justitia, a Copenhagen based think tank focusing on human rights and the rule of law and the host and producer of the podcast Clear and Present Danger: A History of Free Speech.
+- Hin-Yan Liu is an Associate Professor at the University of Copenhagen, faculty of law, where he coordinates the faculty's Artificial Intelligence and Legal Disruption Research Group.
+- Copyright © 2023. Times Internet Limited. All rights reserved.For reprint rights. Times Syndication Service.
+
+URL: https://www.wired.com/story/algorithms-welfare-state-politics/
+- To revist this article, visit My Profile, then View saved stories.
+- To revist this article, visit My Profile, then View saved stories.
+- By Gabriel Geiger
+- The Suspicion Machine
+- The Fraud Hunters
+- The Welfare War
+- Now Reading
+- The Dirty Secret
+- In a sparsely decorated corner office of the Danish Public Benefits Administration sits one of Denmark’s most quietly influential people. Annika Jacobsen is the head of the agency’s data mining unit, which, over the past eight years, has conducted a vast experiment in automated bureaucracy. Blunt, and with a habit of completing others’ sentences, Jacobsen is clear about her mission: “I’m here to catch cheaters.”
+- Denmark’s Public Benefits Administration employs hundreds of people who oversee one of the world's most well-funded welfare states. The country spends 26 percent of its GDP on benefits—more than Sweden, the United States, and the United Kingdom. It’s been hailed as a leading example of how governments can support their most vulnerable citizens. Bernie Sanders, the US senator, called the Nordic nation of 6 million people a model for how countries should approach welfare.
+- But over the past decade, the scale of Denmark’s benefits spending has come under intense scrutiny, and the perceived scourge of welfare fraud is now at the top of the country’s political agenda. Armed with questionable data on the amount of benefits fraud taking place, conservative politicians have turned Denmark’s famed safety net into a polarizing political battleground.
+- This story is part of a joint investigation between Lighthouse Reports and WIRED. To read other stories from the series, click here.
+- It has become an article of faith among the country’s right-wing politicians that Denmark is losing hundreds of millions of euros to benefits fraud each year. In 2011, KMD, one of Denmark’s largest IT companies, estimated that up to 5 percent of all welfare payments in the country were fraudulent. KMD’s estimates would make the Nordic nation an outlier, and its findings have been criticized by some academics. In France, it’s estimated that fraud amounts to 0.39 percent of all benefits paid. A similar estimate made in the Netherlands in 2016 by broadcaster RTL found the average amount of fraud per benefit payment was €‎17 ($18), or just 0.2 percent of total benefits payments.The perception of widespread welfare fraud has empowered Jacobsen to establish one of the most sophisticated and far-reaching fraud detection systems in the world. She has tripled the number of state databases her agency can access from three to nine, compiling information on people’s taxes, homes, cars, relationships, employers, travel, and citizenship. Her agency has developed an array of machine learning models to analyze this data and predict who may be cheating the system.
+- Documents obtained by Lighthouse Reports and WIRED through freedom-of-information requests show how Denmark is building algorithms to profile benefits recipients based on everything from their nationality to whom they may be sleeping next to at night. They reveal a system where technology and political agendas have become entwined, with potentially dangerous consequences.
+- Danish human rights groups such as Justitia describe the agency’s expansion as “systematic surveillance” and disproportionate to the scale of welfare fraud. Denmark's system has yet to be challenged under EU law. Whether the country’s experiments with machine learning cross a legal line is a question that could be answered by the European Union’s landmark Artificial Intelligence Act, proposed legislation that aims to safeguard human rights against emerging technologies.
+- The debate about welfare in Denmark changed in October 2012, when officials asked residents to send in photos of suspected welfare cheats in their local area. The call led some left-leaning commentators to warn of a “war on welfare,” and arrived as the far-right Danish People’s Party—which criticized the government for “luring” immigrants with welfare benefits—rose up in opinion polls.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Within a year, consulting firm Deloitte released an audit of welfare fraud controls in Denmark, finding them inadequate to detect fraud in an increasingly digitized welfare system. The auditors, commissioned by the Danish finance ministry, estimated the “short-term savings” of a new “risk-scoring infrastructure” to be €126 million.
+- Deloitte’s vision was realized in February 2015 with a bill that overhauled the Danish welfare state. It proposed a massive expansion of the Public Benefit Administration’s powers, including the ability to store and collect data on millions of people, access other authorities’ databases, and even request data from foreign governments. Largely unnoticed at the time, it also called for the creation of a “data mining unit” to “control for social benefits fraud.”
+- “You are not guilty just because we point you out. There will always be a person that looks into your data.”
+- The bill was backed by all of the major political parties in Denmark and became law in April 2015. That month, Jacobsen left an IT job in the financial sector to become Denmark’s first head of data mining and fraud detection.
+- As Jacobsen got to work, conservative politician Troels Lund Poulsen took office in June 2015 as Denmark’s new employment minister. He implemented random airport checks to catch welfare recipients taking undeclared vacations, and proposed giving the new data mining unit access to welfare recipients’ electricity and water bills in order to detect where they were living. He was joined by a growing chorus of supporters, with one municipality reportedly asking for data from cell towers to track where welfare recipients were staying. “It’s about politics,” Poulsen said in March 2018. “It is important for me to send a clear signal that we will not accept social cheating and fraud.”
+- Jacobsen’s critics have accused her unit of conducting mass surveillance, but she argues that there are clear safeguards that prevent overreach. Jacobsen says her algorithms don’t actually cancel benefits—they only flag people as suspicious. Ultimately, it is up to a human fraud investigator to make the final call, and citizens have the right to appeal their decisions. “You are not guilty just because we point you out. There will always be a person that looks into your data,” she says.
+- The majority of Danish residents flagged for investigation are found innocent. Of the nearly 50,000 cases selected by the data mining unit in 2022, 4,000, or 8 percent, resulted in some form of punishment. In the cases where wrongdoing was found, the data mining unit has managed to recover €‎23.1 million—a significant return on its annual budget of €‎3.1 million.
+- But the scale and reach of Denmark's data collection has been criticized by the Danish Institute of Human Rights, an independent human rights watchdog, and the Danish Data Protection Authority, a public body that enforces privacy regulations. Justitia has compared the Public Benefits Administration to the National Security Agency in the US, and claimed that its digital monitoring of millions of Danish residents violates their privacy rights.
+- Jacobsen says the agency’s use of data is proportional under European data protection laws, and that preventing error and fraud is important to maintain trust in the welfare state. The Public Benefits Administration is also looking to have its algorithms check citizens earlier in the process, when they first apply for benefits, to avoid situations where they have to repay large sums of money. “Most citizens are honest; however, there will always be some citizens who try to get welfare benefits that they are not entitled to,” Jacobsen says.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Jacobsen also argues that machine learning is fairer than analog methods. Anonymous tips about potential welfare cheats are unreliable, she claims. In 2017, they made up 14 percent of the cases selected for investigation by local fraud officials, whereas cases from her data unit amounted to 26 percent. That means her unit is more effective than anonymous tips, but nearly half of the cases local investigators decide to take on come from their own leads. Random selection is also unfair, she claims, because it means burdening people when there are no grounds for suspicion. “[Critics] say that when the machine is looking at data, it is violating the citizen, [whereas] I might think it’s very violating looking at random citizens,” Jacobsen says. “What is a violation of the citizen, really? Is it a violation that you are in the stomach of the machine, running around in there?”
+- Denmark isn’t alone in turning to algorithms amid political pressure to crack down on welfare fraud. France adopted the technology in 2010, the Netherlands in 2013, Ireland in 2016, Spain in 2018, Poland in 2021, and Italy in 2022. But it’s the Netherlands that has provided the clearest warning against technological overreach. In 2021, a childcare benefits scandal, in which 20,000 families were wrongly accused of fraud, led to the resignation of the entire Dutch government. It came after officials interpreted small errors, such as a missing signature, as evidence of fraud, and forced welfare recipients to pay back thousands of euros they’d received as benefits payments.
+- As details of the Dutch scandal emerged, it was found that an algorithm had selected thousands of parents—nearly 70 percent of whom were first or second generation migrants—for investigation. The system was abandoned after the Dutch Data Protection Authority found that it had illegally used nationality as a variable, which Amnesty International later compared to “digital ethnic profiling.”
+- The EU’s AI Act would ban any system covered by the legislation that “exploits the vulnerabilities of a specific group,” including those who are vulnerable because of their financial situation. Systems like Jacobsen’s, which affect citizens’ access to essential public services, would also likely be labeled as “high risk” and subject to stringent requirements, including transparency obligations and a requirement for “high levels of accuracy.”
+- The documents obtained by Lighthouse Reports and WIRED appear to show that Denmark’s system goes beyond the one that brought down the Dutch government. They reveal how Denmark’s algorithms use variables like nationality, whose use has been equated with ethnic profiling.
+- One of Denmark's fraud detection algorithms attempts to work out how someone might be connected to a non-EU country. Heavily redacted documents show that, in order to do this, the system tracks whether a welfare recipient or their “family relations” have ever emigrated from Denmark. Two other variables record their nationality and whether they have ever been a citizen of any country other than Denmark.
+- Jacobsen says that nationality is only one of many variables used by the algorithm, and that a welfare recipient will not be flagged unless they live at a “suspicious address” and the system isn’t able to find a connection to Denmark. The documents also show that Denmark’s data mining unit tracks welfare recipients’ marital status, the length of their marriage, who they live with, the size of their house, their income, whether they’ve ever lived outside Denmark, their call history with the Public Benefits Administration, and whether their children are Danish residents.
+- Angela Watercutter
+- WIRED Staff
+- Chris Stokel-Walker
+- Rhett Allain
+- Another variable, “presumed partner,” is used to determine whether someone has a concealed relationship, since single people receive more benefits. This involves searching data for connections between welfare recipients and other Danish residents, such as whether they have lived at the same address or raised children together.
+- “The ideology that underlies these algorithmic systems, and [the] very intrusive surveillance and monitoring of people who receive welfare, is a deep suspicion of the poor,” says Victoria Adelmant, director of the Digital Welfare and Human Rights Project.
+- For all the complexity of machine learning models, and all the data amassed and processed, there is still a person with a decision to make at the hard end of fraud controls. This is the fail-safe, Jacobsen argues, but it’s also the first place where these systems collide with reality.
+- Morten Bruun Jonassen is one of these fail-safes. A former police officer, he leads Copenhagen's control team, a group of officials tasked with ensuring that the city’s residents are registered at the correct address and receive the correct benefits payments. He's been working for the city’s social services department for 14 years, long enough to remember a time before algorithms assumed such importance—and long enough to have observed the change of tone in the national conversation on welfare.
+- “What is a violation of the citizen, really? Is it a violation that you are in the stomach of the machine, running around in there?”
+- While the war on welfare fraud remains politically popular in Denmark, Jonassen says only a “very small” number of the cases he encounters involve actual fraud. For all the investment in it, the data mining unit is not his best source of leads, and cases flagged by Jacobsen’s system make up just 13 percent of the cases his team investigates—half the national average. Since 2018, Jonassen and his unit have softened their approach compared to other units in Denmark, which tend to be tougher on fraud, he says. In a case documented in 2019 by DR, Denmark’s public broadcaster, a welfare recipient said that investigators had trawled her social media to see whether she was in a relationship before wrongfully accusing her of welfare fraud.
+- While he gives credit to Jacobsen’s data mining unit for trying to improve its algorithms, Jonassen has yet to see significant improvement for the cases he handles. “Basically, it’s not been better,” he says. In a 2022 survey of Denmark’s towns and cities conducted by the unit, officials scored their satisfaction with it, on average, between 4 and 5 out of 7.
+- Jonassen says people claiming benefits should get what they’re due—no more, no less. And despite the scale of Jacobsen’s automated bureaucracy, he starts more investigations based on tips from schools and social workers than machine-flagged cases. And, crucially, he says, he works hard to understand the people claiming benefits and the difficult situations they find themselves in. “If you look at statistics and just look at the screen,” he says, “you don’t see that there are people behind it.”
+- Additional reporting by Daniel Howden, Soizic Penicaud, Pablo Jiménez Arandia, and Htet Aung. Reporting was supported by the Pulitzer Center’s AI Accountability Fellowship and the Center for Artistic Inquiry and Reporting.
+- Read next
+- Read next
+- 📨 Understand AI advances with our Fast Forward newsletter
+- 🎧 Our new podcast wants you to Have a Nice Future
+- Doug Rushkoff is ready to renounce the digital revolution
+- This is catfishing on an industrial scale
+- The post office is spying on mail. Senators want to stop it
+- Waluigi, Carl Jung, and the case for moral AI
+- Tears of the Kingdom’s creators answer your questions
+- 📷 Snap into spring with the Gear team’s picks for the best camera bags, fun instant cameras, and mirrorless cameras
+- Gideon Lichfield
+- Andy Greenberg
+- Matt Burgess
+- Bennett Cyphers
+- Lily Hay Newman
+- Matt Laslo
+- Amanda Hoover
+- Andy Greenberg
+- More From WIRED
+- Contact
+- © 2023 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Your California Privacy Rights. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+URL: https://www.information.dk/telegram/2012/03/kommuner-advarer-milliontab-ved-stordrift
+- 50% PÅ AVISEN
+- Få 50% på avisen
+- Jeg har glemt min adgangskode
+- Opret en brugerkonto her
+- Mens byggeriet af nye udbetalingscentre skrider frem flere steder i landet, raser borgmestrene i landets seks største byer over udsigten til at tabe penge på den forestående samling af udbetalinger i fem centre, skriver Morgenavisen Jyllands-Posten.
+- - Det er dyrere for kommunerne og dårligere for borgerne. Jeg kan ikke forstå, at man laver noget så hovedløst i et oplyst samfund, siger Aalborgs borgmester, Henning G. Jensen (S), der opgør Aalborgs samlede tab til knapt 17 millioner kroner om året.
+- Sammen med borgmesterkollegerne fra København, Aarhus, Odense, Randers og Esbjerg har han netop sendt et brev til socialminister Karen Hækkerup (S) med kritikken og krav om, at staten dækker deres tab på godt 100 mio. kr. årligt.
+- - Vi er ærligt talt ved at miste troen på, at grundlaget for at samle udbetalingerne holder, siger Johnny Søtrup (V), borgmester i Esbjerg.
+- - Det var netop at spare penge, og når det ikke er tilfældet, bør regeringen overveje modellen igen. Især når det også giver større afstand for borgerne, tilføjer han.
+- Udbetaling Danmark skal håndtere overførsler, som ikke kræver sagsbehandling - det er folkepension, boligstøtte, barselsdagpenge og familieydelser.
+- Målet er en samlet besparelse på 300 millioner kroner, idet udbetalingerne koster kommunerne 865 millioner kroner om året, mens Udbetaling Danmark lover at levere samme vare til 565 millioner kroner
+- Men regnestykket hænger ifølge kommunerne ikke sammen. Socialminister Karen Hækkerup (S) henviser til, at aftalen om Udbetaling Danmark er indgået imellem den tidligere regering og kommunernes forening, KL.
+- Karen Hækkerup er åben over for at tage problemerne op ved de kommende økonomiforhandlinger.
+- /ritzau/
+- Opdateret 22. marts 2012 kl. 05:05
+- Ønsker du at kommentere artiklerne på information.dk?
+- Du skal være registreret bruger for at kommentere. Log ind eller opret bruger »
+- Du sparer 15% på bøger som abonnent på Information
+- Dagbladet Information, Store Kongensgade 40C, 1264 København · CVR: 63058416 · Ansvarshavende chefredaktør: Rune Lykkeberg
+
+Datapolitik
+       · Cookies
+       · Opdatér samtykke
+       · Ophavsret
+       · Abonnementsbetingelser
+
+
+Ofte stillede spørgsmål
+       · Om Information
+       · Redaktion
+       · Butik
+       · Annoncering
+
+
+Indsend debatindlæg
+       · Ledige stillinger
+       · Information i løssalg
+- Datapolitik
+       · Cookies
+       · Opdatér samtykke
+       · Ophavsret
+       · Abonnementsbetingelser
+- Ofte stillede spørgsmål
+       · Om Information
+       · Redaktion
+       · Butik
+       · Annoncering
+- Indsend debatindlæg
+       · Ledige stillinger
+       · Information i løssalg
+
+URL: https://politiken.dk/viden/Tech/art7202917/Algoritmer-skal-udpege-langtidsledige
+- Tilføj artikler til din læseliste
+- Så du altid let kan finde dem igen
+- Ligegyldig om du er på computer eller mobil
+- Og læse lige når du har tid
+- Klik på 
+        
+
+
+
+
+
+
+            Følg
+          
+ ud for et tag eller en skribent
+- Vi kan sende dig en email, når en ny artikel udgives
+- Alle artikler samles i et feed på siden Du Følger, som du finder i højre hjørne under dit navn og i sidepanelet
+- Hver mandag får du en email med de mest læste artikler om det, du følger. Du kan altid justere dine emails i indstillinger
+- Køb abonnement
+- Allerede abonnent?
+Log ind
+- Du skal være abonnent for at lytte til denne automatiske oplæsning.
+- Allerede abonnent? Login
+- En allerede vedtaget lov baner vej for kunstig intelligens til at udpege mulige langtidsledige ved at analysere data fra alle Danmarks arbejdsløse. Både ideen og lovprocessen møder hård kritik fra eksperter.
+- Der er ikke oplæsning af denne artikel, så den oplæses derfor med maskinstemme. Kontakt os gerne på automatiskoplaesning@pol.dk, hvis du hører ord, hvis udtale kan forbedres. Du kan også hjælpe ved at udfylde spørgeskemaet herunder, hvor vi spørger, hvordan du har oplevet den automatiske oplæsning.
+- Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+- Med et digitalt abonement får du fuld adgang til hele politiken.dk, alle nyhedsbreve og e-avisen leveret hver aften.
+- Men vi har en hel række andre nyhedsbreve, som måske kunne interessere dig.
+- Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+- Hvis du bliver ledig, vil en lang række personlige oplysninger om dig blive lagt ind i en algoritme, hvis formål er at udpege, om du er i risikogruppen for at blive langtidsledig.
+- Det er konsekvensen af en ny lov, som helt under den offentlige radar blev vedtaget 30. april, en uge før folketingsvalgets udskrivelse. Der er tale om datakilder fra flere forskellige myndigheder om eksempelvis din etniske herkomst og alder, din eventuelle frafaldshistorik på en uddannelse samt helbredsoplysninger.
+- De indsamlede persondata bliver samkørt og sat i en algoritme, der så spytter en form for score ud. Scoren skal fungere som et redskab for socialrådgivere og sagsbehandlere landet over til at give de personer, som algoritmen vurderer til at have stor risiko for langtidsledighed, en ekstra hånd til at komme ud på arbejdsmarkedet.
+- »Det er jo værre end sagen om Gladsaxe-modellen, det her«, siger Hanne Marie Motzfeldt, lektor i i digital forvaltning ved Københavns Universitet.
+- Hun henviser til regeringens skrinlagte planer fra sidste år om at overvåge alle landets børnefamilier via databaserede profiler, som skulle udpege børn i farezonen for at være udsatte.
+- »Man vil rulle en systematisk profilering ud over alle ledige mennesker baseret på en ret så mislykket forsøgsrunde. Har de folkevalgte virkelig set de hidtidige resultater og protester, men alligevel sagt velovervejet og gennemtænkt ja til det her?«, siger Hanne Marie Motzfeldt.
+- Ayo Næsborg-Andersen, lektor i persondataret ved Syddansk Universitet, er særlig kritisk, fordi man vil anvende regeringens ’profileringsværktøj’, uden at der er et offentligt kendskab til, præcis hvilke data algoritmen anvender, og hvor højt de forskellige data vægtes i den samlede vurdering.
+- »Det virker som en blind tro på data. Vi ved ikke, hvad der sker inde i den computer. Og så stempler vi nogle mennesker som værende særligt udsatte over for langtidsledighed. Det går simpelthen over min retfærdighedssans. Vi kan ikke være det bekendt. Det er folk, som i forvejen ikke er på toppen«, siger Ayo Næsborg-Andersen.
+- Dataprofilering er tidligere blevet forsøgt i 16 jobcentre. I evalueringen af det pilotprojekt kan man læse, at flere valgte at droppe værktøjet undervejs, fordi det »efter deres opfattelse er stigmatiserende og derfor ikke hensigtsmæssigt i dialogen med borgeren«.
+- Heller ikke i brancheorganisationen Danske A-kasser er man imponeret over udsigten til omfattende profilering af landets ledige.
+- »At lægge alle ledige ind i ét og samme værktøj giver ikke mening. De ledige er i så forskellige situationer, at et one-size-værktøj nærmest er uanvendeligt«, siger formand Torben Poulsen.
+- De juridiske eksperter kritiserer desuden regeringen for tilsyneladende at have puttet med lovens implikationer. Efter sidste års debat om en ny databeskyttelseslov og Gladsaxe-modellen aftalte regeringen og Folketinget, at alle forslag om datasamkøring og profilering af borgerne skal underlægges de folkevalgtes demokratiske kontrol. Alligevel har beskæftigelsesministeren undladt i sin fremsættelsestale at gøre opmærksom på dataprofileringen af de ledige, og embedsværket har specifikt undladt at bede Datatilsynet om i sit høringssvar at vurdere forholdet.
+- Onsdag skred Datatilsynet på ejendommelig vis ind og genåbnede sin behandling af loven: »Det er rigtig ærgerligt for alle parter, at Datatilsynet ikke i første omgang blev gjort opmærksom på alle de relevante dele af lovforslaget. Det er jo både i borgernes og de involverede myndigheders interesse, at vi får fanget det i tide, hvis der er noget i et lovforslag, der kan være i strid med de databeskyttelsesretlige regler«, lyder det fra direktør Cristina Gulisano.
+- Beskæftigelsesminister Troels Lund Poulsen (V) siger, at dataværktøjet blev vedtaget med beskæftigelsesreformen i 2014, og at Folketinget og Datatilsynet af den grund ikke er blevet gjort specifikt opmærksomme på forholdet.
+- »Det her burde være noget, man havde undersøgt tidligere, for det er ikke en ny problemstilling. Når det er sagt, må vi få endevendt, om der er en udfordring eller ej, og hvis der er, må vi gøre noget ved det«.
+- Siden 2014 er databeskyttelsesforordningen GDPR blevet indført, og den stiller skrappe krav til profilering af borgerne. Både nye og eventuelt gamle regler skal vurderes efter GDPR, og derfor kan begge dele vise sig ulovlige, siger Hanne Marie Motzfeldt.
+- Alle partier undtagen Enhedslisten og Alternativet stemte for forslaget, da det blev gennemført. Men måske der snart skal kigges på lovforslaget igen. Flere folketingsmedlemmer, Politiken har talt med, har nemlig ikke været opmærksomme på, at lovforslaget lagde op til samkørsel af data. Det har hverken været til debat eller været ikke nævnt ved fremsættelsestalen.
+- 
+- Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+- Der skete en fejl, prøv igen senere eller søg hjælp via vores kundecenter
+- Annonce
+- Annonce
+- Annonce
+- Annonce
+- Annonce
+- I erkendelse af at man ikke evnede til at ramme den tyske krigsmaskines fabrikker, gik Royal Air Force i 1942 over til at bombe beboelsesområder i de tyske byer.
+- Du skal være abonnent for at lytte til denne automatiske oplæsning.
+- Allerede abonnent? Login
+- Annonce
+- Organet for den højeste oplysning siden 1884
+- 
+- Rådhuspladsen 37
+- 1785 Kbh. V.
+- Kontakt redaktionen: 33 11 85 11
+- Kontakt kundeservice: 70 15 01 01
+- 
+- Kontakt os
+- Politikens vision
+- Politikens journalistik og etik
+- Arkivet
+- Annoncer
+- SecureDrop
+- 
+- 
+- 
+- Copyright Politiken 2023
+- Christian Jensen (ansvarshavende)
+- Amalie Kestler
+- Troels Behrendt Jørgensen
+- Astrid Jørgensen
+- Marie Bering
+- Thomas Berndt
+- Thomas Hervø
+- Eva Holtegaard-Kasler
+- Politiken Digital
+- Politiken Kombi Lørdag
+- Politiken Komplet
+- Kundecenter
+- Erhverv
+- Som abonnent kan du tilpasse hvilken data, der indsamles.
+- Allerede abonnent? Log ind her
+- Du kan altid trække dit samtykke tilbage.
+
+URL: https://fagbladet3f.dk/artikel/ny-lov-om-udpegning-af-ledige-er-muligvis-ulovlig
+- 
+- Det skulle være så smart: Landets jobcentre har med en ny lov fået mulighed for at samkøre flere data på ledige borgere om blandt andet alder, herkomst, sundhed, tidligere beskæftigelse og uddannelse.
+- Sammen med et spørgeskema til borgeren skal det ved hjælp af kunstig intelligens i et snuptag spotte de nyledige borgere, der er i fare for at blive langtidsledige.
+- Men flere eksperter har på Twitter påpeget, at den del af loven er meget problematisk i forhold til privatlivets fred, forbuddet mod profilering og GDPR-forordningen.
+- Lov om Aktiv Beskæftigelsesindsats blev ellers stemt igennem Folketinget uden yderligere debat 30. april i år.
+- Nu vil Datatilsynets genvurdere loven, fordi det ikke mener, at Styrelsen for Arbejdsmarked og Rekruttering (STAR) udpegede den del af lovforslaget, da Datatilsynet fik den 1000 sider lange lovtekst fremsendt under høringsperioden:
+- - Det er rigtig ærgerligt for alle parter, at Datatilsynet ikke i første omgang blev gjort opmærksom på alle de relevante dele af lovforslaget - det er jo både i borgernes og de involverede myndigheders interesse, at vi får fanget det i tide, hvis der er noget i et lovforslag, der kan være i strid med de databeskyttelsesretlige regler. Derfor ser vi nu på lovforslaget og loven igen, siger Datatilsynets direktør Cristina Angela Gulisano i en pressemeddelelse.
+- At Datatilsynet på den måde tager netop vedtaget lovgivning op igen, er aldrig sket før, siger Hanne Marie Motzfeldt, lektor i digital forvaltning ved Københavns Universitet. Hun er godt gammeldags vred over processen:
+- - Det er helt vildt, som de har kørt med mørkelygten. Jeg kan ikke komme på noget eksempel, jeg har aldrig set det her før. Det er svært at finde ord, siger hun.
+- Hun mener, at detaljerne i, hvordan et såkaldt profileringsværktøj skulle udformes er gemt væk på side 212 i lovforslaget, og kritiserer, at hverken Datatilsyn eller de folkevalgte politikere har haft “en kinamands chance” for at være opmærksom på spørgsmålet. Nu er det udelukkende op til embedsværket at vurdere, hvilke parametre arbejdsløse skal vurderes på.
+- - Det er kunstig intelligens, der vurderer din personlighed, bare fordi du bliver arbejdsløs. Er du doven? Er du konfliktsøgende? Man tager den her normalt menneskelig vurdering og overlader det til et computerprogram, siger hun.
+- Advokat Catrine Søndergaard Byrne med speciale i persondata og ansættelsesret kritiserer også, at en så omfattende lov er blevet vedtaget uden yderligere diskussion.
+- - Det er så indgribende et værktøj at tage i brug, at vi begynder at lave individuelle forudsigelser på baggrund af data og mønstre, og at man pludselig lovgiver om det på den her måde, er stærkt problematisk, siger hun og påpeger, at en borger har ret til at få kunne få forklaring på, hvorfor der bliver truffet en given afgørelse.
+- - Vil en sagsbehandler her være i stand til at gennemskue og redegøre for, hvorfor en borger bliver vurderet til at være i høj risiko for at blive langtidsledig? spørger hun.
+- - Det er ikke fordi, at det nødvendigvis er ulovligt, men hvis vi går ned ad den vej, skal vi være meget forsigtige med det og ikke vedtage det uden tilbundsgående undersøgelse eller dybdegående diskussion.
+- I lovteksten bliver der netop gjort rede for, at et profileringsværktøj kan være i strid med forbuddet mod profilering på baggrund af automatiserede data i Databeskyttelsesforordningen – men fordi en sagsbehandler i sidste ende møder den ledige og rådgiver borgeren, så falder det efter STAR’s mening under lovens rammer.
+- STAR arbejder allerede med et såkaldt “profilafklaringsværktøj”, og i en evalueringsrapport om forsøget med at bruge værktøjet i 16 jobcentre svarer lidt under halvdelen af jobcentrene, at de slet ikke eller i mindre grad synes værktøjet er behjælpeligt med at spotte nyledige i risiko for at blive langtidsledige. Samme antal synes ikke, at værktøjet danner et godt grundlag for samtale med borgeren.
+- På den baggrund kritiserer Hanne Marie Motzfeldt STAR’s planer om yderligere at udrulle værktøjet:
+- - Hvis det i er lige under 50 procent af tilfældene kommer med en forkert vurdering, så må vi spørge, om det hjælper til en rigtig eller forkert behandling af borgeren. Hvis vi har digitale løsninger, der kommer med fejlagtige vurderinger, så er det fuldstændig klart for mig, at vi øger risikoen for at rådgive forkert.
+- Over for mediet Version2 stiller professor Thomas Hildebrandt ved Datalogisk Institut i København også spørgsmåltegn ved, om de mange forskellige data fra forskellige registre kan samkøres på en måde, hvor det giver mening og i sidste ende vil give et fyldestgørende billede:
+- – Det nytter ikke at træne en algoritme til at komme med forudsigelser eller beslutninger baseret på data, som blev indsamlet i en anden sammenhæng – hvor lovgivningen gav helt andre muligheder, siger han blandt andet.
+- Styrelsen for Arbejdsmarked og Rekruttering (STAR) skriver til Fagbladet 3F, at styrelsen efter henvendelse fra Datatilsynet udpegede en række områder i loven, hvor reglerne ville blive ændret med lovforslaget.
+- Nu vil styrelsen gerne bidrage til, at Datatilsynet kan se loven igennem på ny.
+- Opdateret kl. 20:30 med kommentar fra STAR.
+
+URL: https://www.dr.dk/nyheder/indland/400-sager-venter-computerprogrammer-afsloerer-barselsfup
+- Fiktive ansættelser kan snyde den danske statskasse for over 200.000 kr. per sag.
+- - Du kan oprette en dansk virksomhed et sted i Europa med et par museklik, og så er det meget nemt at lave en fiktiv ansættelse og dermed blive berettiget til barselsdagpenge - og 200.000 kr, siger Annika Jacobsen, der er afdelingsleder hos Udbetaling Danmark.
+- Som leder for Den Fælles Dataenhed er det hendes job at lave computerbaseret kontrol med sociale ydelser.
+- Og ifølge Annika Jacobsen er det både danskere og udlændinge, der benytter sig af fiktive ansættelser til uberettiget at modtage barselsdagpenge.
+- En fiktiv ansættelse betyder, at den ansatte reelt ikke arbejder og får løn – og dermed heller ikke har ret til barsel.
+- I en konkret sag, som Udbetaling Danmark netop har behandlet, oprettede en udenlandsk borger en virksomhed i Danmark, ifølge Udbetaling Danmark. Måneden efter blev hans kone ansat i virksomheden og var ansat præcis længe nok til at optjene retten til barselsdagpenge, som hun søgte om og fik udbetalt i sin barsel.
+- Efter et år blev konen igen ansat i virksomheden, igen i præcis den periode, det kræver at optjene retten til barsel. Herefter fulgte endnu en barselsperiode. Derefter blev hun ikke ansat i virksomheden igen.
+- Udlægningen af sagen her stammer fra anonymiserede oplysninger fra Udbetaling Danmark.
+- Skat har sidenhen vurderet, at ansættelsen var fiktiv, altså at kvinden ikke reelt har været ansat, og kvinden er nu blevet bedt om at betale omkring 400.000 kroner tilbage.
+- Sagens forløb er typisk for sager om svindel med barselsdagpenge ved brug af fiktive ansættelser, som Udbetaling Danmark er blevet ekstra opmærksomme på, efter at de er begyndt at bruge registersamkøring.
+- Det er en metode, hvor computerprogrammer rutinemæssige læser sig igennem oplysningerne om millioner af borgere i offentlige registre. Det er blandt andet oplysninger fra kommunernes system KMD-Sag, cpr-registret og oplysninger om boliger fra BBR.
+- - Og der er det så, at vores algoritmer, som vores programmører har lavet, får den her sag til at falde ud til kontrol, forklarer Annika Jacobsen.
+- Udbetaling Danmark har ansvaret for at udbetale en række offentlige ydelser. Dermed har de også til opgave at kontrollere, om der er nogen der snyder eller får de forkerte ydelser. Udbetaling Danmark står blandt andet for at udbetale.
+- folkepension
+- førtidspension
+- barselsdagpenge
+- særlig enligydelse
+- Udbetaling Danmark har haft programmer, der kiggede efter fiktive ansættelser siden 2016. Tidligere har man også behandlet lignende sager, men uden systematik.
+- - Jeg vil sige, det er tæt på umuligt at finde den her slags sager uden registersamkøring, siger Annica Jacobsen og uddyber:
+- - Det var tidligere lidt tilfældigt, om vi opdagede dem eller ikke opdagede dem. Med registersamkøring kan vi systematisk pege alle dem ud, der ser ud som om, at de ikke er berettiget til ydelsen. At de har en høj sandsynlighed for det. Og så kan vi få nogle mennesker til at kigge på det for at afgøre, om det er noget, der skal kontrolleres.
+- I en anden sag, som Udbetaling Danmark behandler for øjeblikket, har en mand søgt om barselsdagpenge i Danmark, kort efter at hans kone og barn tilsyneladende er kommet til landet. Sagen bliver trukket ud og kontrolleret af et computerprogram, der kigger efter forhold, der kan tyde på, at der ikke er tale om en reel ansættelse – for eksempel, at ansættelsens længde er præcis lang nok til at optjene retten til barselsdagpenge.
+- Ved manuel kontrol fandt den medarbejder, der undersøgte sagen, at manden og hans familie har adresse på et kollegieværelse i Danmark. Samtidig viser oplysninger fra Sverige, at samme mand også har adresse på et kollegieværelse i Sverige, hvor han ifølge det svenske virksomhedsregister også har et firma, oplyser Udbetaling Danmark.
+- Sagen er endnu ikke afsluttet, men Udbetaling Danmarks formodning er, at der er tale om svindel.
+- Udbetaling Danmark kan endnu ikke sige, præcis hvor mange sager om svindel med barselsdagpenge, som registersamkøringen har fanget, da det kun et fåtal af sagerne, der er afsluttet. Aktuelt har man 700 potentielle sager, hvoraf man regner med at ca. 400 vil blive til sager, der skal kontrolleres af en medarbejder.
+- - Vi kan se rigtig mange sager, som vi skal have oplyst. Og der er selvfølgelig en lang sagsbehandlingstid. Og det, at du falder i registersamkøring, gør jo ikke at du nødvendigvis er skyldig. Der lever vi jo i et retssamfund, siger Annika Jacobsen.
+- I 2017 fangede registersamkøring svindel med barselsdagpenge til en værdi af 4,9 millioner kroner, viser tal fra Udbetaling Danmark. I 2016 var tallet 1,5 millioner kroner. Udbetaling Danmark vurderer, at tallet vil vokse i takt med, at sagerne om fiktive ansættelser, som i de to eksempler ovenfor, bliver afsluttet.
+- Myndighederne afslørede i alt socialt bedrageri for 468 millioner kroner i 2017 og 300 millioner kroner i første halvdel af 2018, viser tal fra Kommunernes Landsforening og Udbetaling Danmark.
+- Selvom Udbetaling Danmark nu er blevet opmærksomme på, at der foregår brug af fiktive ansættelser til uberettiget at få udbetalt barselsdagpenge, er det ikke så lige til at hente pengene hjem igen.
+- - Hvorfor kan man ikke bare sige – inden man udbetaler nogen penge – er du berettiget til det her eller er du ikke?
+- - Hvis du lever op til beskæftigelseskravet på fire måneder, så ser det på papiret ud, som om du er berettiget. Når du kigger i e-indkomst (et offentligt register, red.) hvor alle lønindbetalingerne opgives til Skat, så ser det også ud, som om du har fået løn, siger Annika Jacobsen.
+- Registersamkøring, som Udbetaling Danmark benytter sig af, betyder, at hundredtusindvis af oplysninger om borgere behandles i de computere, der undersøger for snyd. Også selvom det jo altså kun er ganske få af de borgere, der viser sig at have snydt. Det bekymrer tænketanken Justitita.
+- - Når vi lever i et velfærdssamfund, er det helt naturligt at vi skal have en kontrol med de udbetalinger, der foregår. Men det, der foregår i Udbetaling Danmark, rejser nogle spørgsmål om, at der er tale om en krænkelse af retten til privatliv, siger Birgitte Arent Eiriksson, vicedirektør, Justitia.
+- Hun kritiserer, at registersamkøring giver indsigt i oplysninger, som borgerne har opgivet uden at vide, at de ville blive brugt på denne måde.
+- - Der er tale om en meget problematisk og omfattende overvågning af borgerne, hvor man samkører oplysninger fra mange forskellige registre og dermed også kan danne sig et mere generelt indtryk af, hvad det er for nogle borgere, og hvilket liv de har, siger Birgitte Arent Eiriksson.
+- Hos Udbetaling Danmark afviser Annika Jacobsen tænketankens bekymring.
+- - Registersamkøring sorterer bare sagerne. Man tager dem ud, der har en høj sandsynlighed for snyd. Og hvis du bliver taget ud til kontrol, så vil du altid få det at vide. Der sidder ikke nogen og kigger på dig, medmindre der bliver skrevet til dig, siger Annika Jacobsen.
+- Mere end 25.000 danskere på offentlige ydelser bliver årligt undersøgt for socialt bedrageri.
+- Mellem hver tredje og fjerde sag ender med en fremadrettet besparelse, et tilbagebetalingskrav eller begge.
+- De seneste par år har kommunerne og Udbetaling Danmark årligt afsløret socialt bedrageri for tæt på en halv milliard ved at stoppe for udbetalingen af uberettigede ydelser og kræve penge tilbage.
+
+- Gladsaxe vulnerable children protection
+- Trelleborg welfare management automation
+- Page infoType: Incident Published: March 2023

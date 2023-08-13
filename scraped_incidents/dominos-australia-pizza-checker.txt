@@ -1,0 +1,163 @@
+- Occurred: October 2019
+- Can you improve this page?Share your insights with us
+- The DOM Pizza Checker is a tool introduced by Domino's Pizza in Australia and New Zealand to check the quality of pizzas using a scanner, artificial intelligence, and machine learning. Developed by Israel-based Dragontail Systems, the Pizza Checker takes a picture of the pizza, recognises the type, analyses the distribution of toppings and cheese, and then grades it in line with a 'large databank of awesome pizzas'.
+- The system reputedly increased product quality scores from customers of its Australian and New Zealand stores 15% one month after its introduction. But plans (pdf) to incorporate the product into a company 'scorecard' bonus system for franchises and to identify underperforming stores met with accusations of unnecessary scope creep and employee surveillance.
+- Operator: Dominos PizzaDeveloper: Dragontail Systems Country: Australia Sector: Food/food services Purpose: Improve product quality Technology: Computer vision; Machine learning Issue: Dual/multi-use; Employment; SurveillanceTransparency: Governance
+- Domino's Pizza Checker video
+- Domino's (2019). Investor day presentation (pdf)
+URL: https://www.theguardian.com/commentisfree/2019/oct/15/the-dominos-pizza-checker-is-just-the-beginning-workplace-surveillance-is-coming-for-you
+- The company, which uses a smart scanner to analyse whether food has been made correctly, is far from the only business to use tech to track workers
+- Hello? Is that Domino’s? I would like a large cheese pizza with an ominous side of surveillance, please.
+- Earlier this year, Domino’s, the worldwide purveyor of mediocre pizza, introduced a snazzy tool called the Dom Pizza Checker to its Australia and New Zealand locations. According to its website, in-store cameras “use advanced machine learning, artificial intelligence and sensor technology to identify pizza type, even topping distribution and correct toppings”. If your food doesn’t match your order, or internal quality standards, workers are ordered to make it again. Basically, Big Brother is watching your pizza.
+- At first glance, this may sound benign. The tech ensures customers receive consistent quality; what could be wrong with that? The answer, dear reader, is that it is 2019: everything is problematic – even pizza. Nick Knight, who runs Domino’s in the region, provided more details about the tool at a recent investor day, revealing that it will be incorporated into a “‘scorecard’ bonus system” for franchises and used to identify underperforming stores. In short, it is a workplace surveillance tool. Welcome to – as the tech website iTnews put it – “the great pizza panopticon”.
+- Of course, Domino’s would like you to know that there is nothing remotely creepy about this. “Dom Pizza Checker is a tool used to train our team members … not to punish those who make mistakes,” a Domino’s spokesperson told iTnews. But even if that is true, even if we give Domino’s the benefit of the doubt, the Pizza Checker’s all-seeing eyes and calculating AI should still give us pause for thought. Domino’s, after all, is far from the only company tracking workers: workplace surveillance is becoming increasingly pervasive and worryingly sophisticated.
+- In fact, there is a good chance your employer is watching you right now. According to the research firm Gartner, 50% of businesses monitor employees, a figure it expects to rise to 80% by 2020. This monitoring takes a variety of forms. Your employer may be taking remote screenshots of your computer. It may be logging your keystrokes or recording your Google searches. It may be tracking the time you are spending reading this, so it can plug that data into an algorithm to analyse your behaviour and predict whether you are likely to quit. It may even be monitoring your facial expressions or tone of voice and gauging your mood.
+- Many of us are resigned to – and perhaps even fine with – the idea that our employer can scan our emails or keep track of how much time we waste on social media. But we are entering a new world of workplace surveillance in which we are watched 24/7 and every move is scrutinised. And things are only going to get more intrusive as corporations treat us less like human beings and more like machines. Last year, for example, Amazon patented an “ultrasonic bracelet” to be worn by workers to “monitor performance of assigned tasks”. Meanwhile, companies are implanting chips under workers’ skin and China is monitoring employees’ brain waves. It won’t be long until we have all been implanted with chips that keep track of our productivity and trigger a self-combustion protocol when we are no longer deemed useful to our AI overlords. But, hey, while the future may look bleak, at least there is consistently prepared pizza to look forward to.
+- Arwa Mahdawi is a Guardian columnist
+
+URL: https://www.itnews.com.au/news/dominos-turns-its-pizza-checker-ai-into-a-workplace-panopticon-532153
+- Australian pizza empire Domino’s might tout its AI driven “pizza checker” as a big win for customers, but on the floor of the kitchen the device that scans toppings and matches them to orders has become a powerful surveillance tool to keep staff and product on spec.
+- After a rough start out of the gates thanks to teething issues, Domino’s on Thursday revealed progress on deploying the mighty food scanner which is being pushed to investors as a major competitive edge over junk food rivals in terms of efficiency and consistency.
+- Having spent more than a year talking-up the product enhancing potential of the Pizza Checker, Domino’s on Thursday updated impatient shareholders on the rollout and performance of the device, including how it’s being used to assist underperforming franchisees.
+- In a 91 slide deck delivered at Domino’s investor day, chief executive Don Meij and Australian head Nick Knight revealed the automated checker was now being used for “franchisee and operations team alignment” with the head office now “incorporating pizza checker for ‘scorecard’ bonus system”.
+- However company insists the technology isn't being used as a basis to select or initiate store buybacks, telling iTnews that neither franchise profitability nor pizza quality data was not a factor in such discussions.
+- "It’s crucial that we are clear DOM Pizza Checker is a tool used to train our team members and improve the quality and consistency of our pizzas, not to punish those who make mistakes," a spokesperson for Domino's said.
+- "We know that in a busy store environment, mistakes can happen. DOM Pizza Checker was created to work alongside our team members, helping them make and bake pizzas to perfection even in busy periods."
+- However the Pizza Checker does send data back to a central data lake, the spokesperson confirmed.
+- In the investor presentation, the quick service giant also revealed it has “incorporated” Pizza Checker into its “OER process” (operations evaluation report xls ) which reports performance on food output back to head office, a development that means pizza master control can track production levels and quality remotely.
+- There’s clearly a focus on prodding what Domino’s classes as underperformers too, with the deck revealing the integration of Pizza Checker into OER is “focused on stores with below average pizza quality”.
+- Domino’s told investors it’s also using Pizza Checker in “identifying stores with poor customer outcomes”. It seems there's always room for continuous improvement.
+- “Like any new technology, there are always early and late adopters," Domino's spokesperson told iTnews.
+- "As more and more of our stores embrace DOM Pizza Checker, the product quality scores across our network continue to rise. We’ve already seen an increase in product quality scores of more than 15 per cent (as rated by customers) since launch."
+- That said, the franchisor revealed it in its presentation that it is using a “fortressing” strategy – which it again insists is a separate initiative to Pizza Checker – to buy back underperforming stores and then fixing and flipping them so that increased profitability flows into increased royalties and revenues.
+- And there are more technology-driven workplace enhancements on the way thanks to the great pizza panopticon.
+- Domino’s said a second iteration of grading software is en route, though didn’t specify a delivery time. The big leap forward, apparently, is that the AI will now be able to recognise different pizza crusts, a feat apparently too complex for version one.
+- Team members will also be “empowered” by having the Pizza Checker scores displayed “as a live feed on the makeline” – an enhancement to existing functionally that sounds an alarm to order a “remake” before pizzas hit the oven.
+- But there are still clearly residual teething problems affecting Pizza Checker’s ability to focus on the task at hand.
+- Domino’s said it plans to increase the percentage of “pizzas matched to orders and reduce incorrect matching and partial matching”.
+- Like franchisees, the AI is on a leaning curve.
+- "As is the nature of artificial intelligence, this technology will only continue to learn, improve and develop on the job, and we look forward to continuing to deliver a world-class experience for customers.”
+
+URL: https://thetakeout.com/dominos-pizza-checker-camera-technology-1835063625
+- Update, July 15, 2019: Apparently the DOM Pizza Checker has been a fast success. Pizza Marketplace reports product customers’ quality scores for Domino’s pizzas rose 15% since the tool was introduced in Australia and New Zealand. With those measurable results, the company says U.S. locations are watching the technology closely to decide whether or not to implement it stateside.
+- Original story, May 28, 2019: Whatever you might think of Domino’s as a purveyor of pizza, you have to give it to the company for going to great lengths to improve its reputation for being a low-tier chain. From road maintenance around the country to giving customers points for pictures of any pizza at all, from tattoo-based promotions to its Pizza Tracker, the company has scrapped and clawed its way back into the light through no shortage of effort.
+- Now, like so many other carry-out chains, Domino’s is turning to modern technology to help it not just recover, but to thrive. In Australia and New Zealand, the company is debuting its new DOM Pizza Checker artificial-intelligence technology, which will allow franchises to digitally verify topping distribution, temperature, and other key aspects of a good pizza within seconds, by way of a camera mounted over the prep station.
+- A response to common customer complaints about pizzas not appearing as advertised upon delivery, the DOM Pizza Checker will also eventually be able to interface with customers before their food leaves the store. Domino’s Australia CEO Nick Knight notes that  customers will be able to quality-check their own pizza from home as well, through DOM: “Later this year we will be releasing even more features, including the ability to provide customers with a real-time image of their pizza on the cut bench. As part of this process, they will also be notified if their pizza has failed our strong quality testing, resulting in a remake.”
+- As somebody who once worked in the kitchen of a similarly speed-minded but far more local pizza chain, I’d like to editorialize for just a second and say that when a pizza’s not looking great, the chefs usually know, and are probably having the same anxiety you are about all those toppings sliding off to one side and having to start the whole thing over and oh god, now the boss is mad about the wasted ingredients and yelling about trade tariffs again. It’s a stressful aspect of mass-production cooking, and Big Pizza Brother over here probably won’t make it any less so.
+- For now, the DOM Pizza Checker will be a single-continent endeavor. But if it works, we’d hardly be shocked if it finds its way stateside before long at all.
+
+URL: https://www.itnews.com.au/news/dominos-turns-its-pizza-checker-ai-into-a-workplace-panopticon-532153
+- Australian pizza empire Domino’s might tout its AI driven “pizza checker” as a big win for customers, but on the floor of the kitchen the device that scans toppings and matches them to orders has become a powerful surveillance tool to keep staff and product on spec.
+- After a rough start out of the gates thanks to teething issues, Domino’s on Thursday revealed progress on deploying the mighty food scanner which is being pushed to investors as a major competitive edge over junk food rivals in terms of efficiency and consistency.
+- Having spent more than a year talking-up the product enhancing potential of the Pizza Checker, Domino’s on Thursday updated impatient shareholders on the rollout and performance of the device, including how it’s being used to assist underperforming franchisees.
+- In a 91 slide deck delivered at Domino’s investor day, chief executive Don Meij and Australian head Nick Knight revealed the automated checker was now being used for “franchisee and operations team alignment” with the head office now “incorporating pizza checker for ‘scorecard’ bonus system”.
+- However company insists the technology isn't being used as a basis to select or initiate store buybacks, telling iTnews that neither franchise profitability nor pizza quality data was not a factor in such discussions.
+- "It’s crucial that we are clear DOM Pizza Checker is a tool used to train our team members and improve the quality and consistency of our pizzas, not to punish those who make mistakes," a spokesperson for Domino's said.
+- "We know that in a busy store environment, mistakes can happen. DOM Pizza Checker was created to work alongside our team members, helping them make and bake pizzas to perfection even in busy periods."
+- However the Pizza Checker does send data back to a central data lake, the spokesperson confirmed.
+- In the investor presentation, the quick service giant also revealed it has “incorporated” Pizza Checker into its “OER process” (operations evaluation report xls ) which reports performance on food output back to head office, a development that means pizza master control can track production levels and quality remotely.
+- There’s clearly a focus on prodding what Domino’s classes as underperformers too, with the deck revealing the integration of Pizza Checker into OER is “focused on stores with below average pizza quality”.
+- Domino’s told investors it’s also using Pizza Checker in “identifying stores with poor customer outcomes”. It seems there's always room for continuous improvement.
+- “Like any new technology, there are always early and late adopters," Domino's spokesperson told iTnews.
+- "As more and more of our stores embrace DOM Pizza Checker, the product quality scores across our network continue to rise. We’ve already seen an increase in product quality scores of more than 15 per cent (as rated by customers) since launch."
+- That said, the franchisor revealed it in its presentation that it is using a “fortressing” strategy – which it again insists is a separate initiative to Pizza Checker – to buy back underperforming stores and then fixing and flipping them so that increased profitability flows into increased royalties and revenues.
+- And there are more technology-driven workplace enhancements on the way thanks to the great pizza panopticon.
+- Domino’s said a second iteration of grading software is en route, though didn’t specify a delivery time. The big leap forward, apparently, is that the AI will now be able to recognise different pizza crusts, a feat apparently too complex for version one.
+- Team members will also be “empowered” by having the Pizza Checker scores displayed “as a live feed on the makeline” – an enhancement to existing functionally that sounds an alarm to order a “remake” before pizzas hit the oven.
+- But there are still clearly residual teething problems affecting Pizza Checker’s ability to focus on the task at hand.
+- Domino’s said it plans to increase the percentage of “pizzas matched to orders and reduce incorrect matching and partial matching”.
+- Like franchisees, the AI is on a leaning curve.
+- "As is the nature of artificial intelligence, this technology will only continue to learn, improve and develop on the job, and we look forward to continuing to deliver a world-class experience for customers.”
+
+URL: https://www.tomsguide.com/us/dominos-pizza-dom-ai-pizza-checker,news-30182.html
+- When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+- The new DOM Pizza Checker uses a ceiling-mounted camera and artificial intelligence to make sure that every pizza is up to standards.
+- 
+- At last, an objectively good use for artificial intelligence! Domino’s Pizza has implemented a new AI-powered system to make sure that every pie is perfect (to the franchise’s standards, anyway).
+- According to Dominio’s Pizza Australia, its new DOM Pizza Checker is the “world’s first smart scanner” to check the quality of pizza before it gets delivered in Australia and New Zealand.
+- Nick Knight  — the company’s CEO in those two countries — says that the number one complaint from its customers is that pizzas don’t look the same as in advertising photos. “DOM Pizza Checker gives our customers the confidence that their pizza will look as it should — and if it doesn’t, we’ll make it right.”
+- MORE: iRobot’s Newest Robot Vacuums Can Talk to Each Other
+- The device — developed with technology company Dragontail Systems — is pretty straightforward. A ceiling-mounted camera system points at the cut bench, the area where every pizza is cut and boxed for delivery.
+- An AI software trained with machine learning monitors the video feed, judging if each pizza is up to spec. Domino’s claims that it takes a picture of the pizza, recognizes the type, analyzes the distribution of toppings and cheese spread, and grades it. According to the company, the AI has been trained on a “large databank of awesome pizzas”.
+- Then, if the pizza passes the AI test, then it gives the OK for delivery. If not, the pizza gets rejected and a new one is made.
+- Unfortunately, this doesn’t take into consideration the number one enemy of evenly distributed toppings and cheese: delivery. If the driver accelerates suddenly on a curve or catches a big bump, good bye picture perfect pizza. Don’t worry, though: Domino’s pizza drones have you covered.
+- Note that the DOM Pizza Checker is only in Australiaa and New Zealand for now, but it may go worldwide.
+- Get instant access to breaking news, the hottest reviews, great deals and helpful tips.
+- Jesus Diaz founded the new Sploid for Gawker Media after seven years working at Gizmodo, where he helmed the lost-in-a-bar iPhone 4 story and wrote old angry man rants, among other things. He's a creative director, screenwriter, and producer at The Magic Sauce, and currently writes for Fast Company and Tom's Guide.
+- Hubble Nursery Pal Dual Vision review
+- I review 3D printers for a living and this is the one to get for beginners
+- We 'broke' one of the world's toughest laptops
+- By Rory MellonMay 26, 2023
+- By Rory MellonMay 26, 2023
+- By Henry T. CaseyMay 26, 2023
+- By Tom PritchardMay 26, 2023
+- By Henry T. CaseyMay 26, 2023
+- By Tom PritchardMay 26, 2023
+- By Kelly WooMay 26, 2023
+- By Jeff ParsonsMay 26, 2023
+- By Tom PritchardMay 26, 2023
+- By Rory MellonMay 26, 2023
+- By John CarrollMay 26, 2023
+- Tom's Guide is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+- ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036.
+
+URL: https://www.dailymail.co.uk/sciencetech/article-7580681/Dominos-launches-new-AI-powered-camera-monitoring-evaluate-pizza-quality.html
+- By Michael Thomsen For Dailymail.com
+- Updated:  14:54 EDT, 16 October 2019
+- 
+- 45
+- View  comments
+- 
+- Domino's Pizza stores in Australia and New Zealand have finally begun using an elaborate new employee monitoring tool to track employee performance.
+- First announced in 2017, the DOM Pizza Checker was finally implemented at a number of Domino's stores in Oceania beginning this August, according to an investor presentation.
+- The device is a high-powered overhead camera connected to machine-learning software that monitors employee performance as they make a pizza.
+- The DOM Pizza Checker (pictured above) is a high powered camera and computer system that observes and evaluates employees as they make pizza.
+- The camera matches a live image of the pizza being made to an image of the pizza that's been ordered.
+- The algorithm evaluates the pizza as the employee prepares it, measuring the border of the crust, amount of cheese, evenness of 'spread,' proportion of ingredients, and even temperature.
+- An audio alert is played in the store if a pizza deviates from the acceptable range for any of the criteria evaluated by the DOM Pizza Checker, triggering a remake command.
+- 'It's crucial that we are clear DOM Pizza Checker is a tool used to train our team members and improve the quality and consistency of our pizzas, not to punish those who make mistakes,' a Domino's spokesperson told ITNews.
+- Domino's has emphasized increasing efficiency and lowered costs as a main part of its new 'fortressing' strategy.
+- Through fortressing, franchised stores will be reacquired by their corporate parent and restructured to run more efficiently.
+- The DOM Pizza Checker evaluates the distribution of toppings to ensure an even layer.
+- The DOM Pizza Checker can identify individual toppings and even track temperature.
+- The company has prioritized customer satisfaction, finding that its customers generally considered any pizza that had been out of the oven for longer than 25 minutes to be 'old and cold,' leading to complaints.
+- The investor presentation describes Domino's as 'bonding food' that people value in a world where communities are fraying.
+- The DOM Pizza Tracker is part of the company's new 'fortressing' strategy, though which it will reacquire franchised stores and try and improve their efficiency and profitability.
+- 'The hard-wired human need for social connection—seemingly better enabled than ever before—is breaking down,' Domino's warns in its investor presentation.
+- The solution is 'bonding' foods, like pizza and garlic bread and hot wings, which bring people together for communal meals and refresh deteriorating community connections.
+- 
+- Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina
+- Published by Associated Newspapers Ltd
+- Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+
+URL: https://www.forbes.com/sites/aliciakelso/2020/07/01/dominos-australia-is-continuing-its-ai-partnershipa-strong-vote-of-confidence-for-the-technology/
+- The QT camera above the pack station in a Domino's store leverages artificial intelligence to ensure ... [+] product consistency.
+- In 2019, a bunch of restaurant chains started dabbling in artificial intelligence, leveraging the technology to enable voice ordering, ensure quality assurance, improve labor costs and more.
+- McDonald’s
+MCD
+ $300 million purchase of AI company Dynamic Yield may have provided the clearest picture of just how promising this technology could be in the restaurant space.
+- In May 2019, after three years in development, Domino’s Australia business added the “DOM Pizza Checker,” which uses AI to scan each pizza to confirm they measure up to quality standards. The chain collaborated with Dragontail Systems to create the platform, which improved quality scores by 15% in its first month alone.
+- Now, a full year later, we have a better idea of how effective this technology has been for the Domino’s Australia system. In a press release, Domino’s Group CEO and Managing Director Don Meij said this technology has provided customers with peace of mind, a particular advantage during the challenging COVID-19 environment, where food safety and hygiene is paramount.
+- Though having such a system in place during a pandemic is no doubt fortuitous, the impetus behind the launch back in 2019 was simple consistency. The technology is able to gauge this consistency through a smart scanner that sits above the cut bench and uses advanced machine learning, AI and sensors to check the quality of every pizza.
+- “If the pizza meets our high standards, it’s good to go and if it’s not made right, we’ll make it again,” a Domino’s Australia spokesperson said in an emailed statement.
+- Since its launch, the DOM Pizza Checker has scanned more than 50 million pizzas.
+- Pizzas that don’t pass muster are donated to local community groups or homeless organizations, or they’re offered to customers as an add-on for having to wait for another pizza to be made. Local stores are encouraged to use their discretion when it comes to pizzas that require a remake.
+- The company’s spokesperson adds that there are currently no quick-service restaurants in the world that can “assure customers that their products have passed a quality check.”
+- Indeed, the No. 1 complaint Domino’s Australia receives is “my pizza doesn’t look like it should.” Because the chain is solving this specific issue with DOM, the spokesperson said the system has been well received by franchisees, employees and customers. Though that doesn’t answer the direct question of whether or not there is a strong return on investment, Domino’s and Dragontail Systems officially announced the continuation of their partnership this week, a strong vote of confidence.
+- This lends itself to a follow up: What is the potential for AI in the restaurant industry in general?
+- Dragontail CEO Ido Levanon said every restaurant has a unique and urgent pain point that the company works to solve with the most relevant AI technology.
+- “In Domino’s case, it was accuracy and quality of the food preparation for which our AI camera was the perfect solution,” Levanon said. “The consistency and quality of the food is the baseline for every meal delivered. If either of these are compromised, it leads to unsatisfied customers and fewer repeat visits.”
+- AI can be used for many applications because it uses data to make decisions related to anything from food preparation to packing, dispatching and delivery. Dragontail, for instance, has a delivery dispatching system that can automatically detect which drivers should take orders so that the delivery route is optimized without the manager getting involved.
+- Levanon believes AI could become standard in restaurants, especially as more operators look for more efficiencies. In light of the pandemic, for example, Dragontail has made enhancements to its AI camera system that can detect on the issue of cleanliness and sanitation. This means the camera can now detect the presence of gloves and masks, how often equipment and workspaces are sanitized and replaced, and even if customers are socially distanced in stores.
+- “In general, the system has impressive learning capabilities. Once you ‘train it,’ it totally understands whatever the business and customer standards are expected to be and alerts the manager whenever these standards are not fulfilled,” Levanon said.
+- No doubt we’ll see more AI implementation in the industry, and for applications well beyond safety. Consider that Domino’s U.S. system recently started using AI to both create labor scheduling algorithms and take orders, for example. Domino’s Malaysia and Singapore systems recently deployed AI to scale up its business in the region.
+- The possibilities for AI really do seem vast in these relatively early days. And, as the COVID-19 pandemic guts the restaurant industry, AI could serve as a tool for both efficiency (labor scheduling and delivery routes) and differentiation (quality assurance).
+- “We believe more operations that are currently done manually inside and outside the restaurant will be enhanced with machine learning and AI systems to promote safety standards and quality from the moment an order is placed to the moment it is delivered,” Levanon said. “This will be the only way for restaurants to remain competitive in a dynamic industry, improve customer satisfaction with the delivery of hot and fresh meal, and reduce costs to impact the bottom line over time.”
+- 
+
+- McDonald's drive-through chatbot order taker
+- Denny's robot server
+- Page infoType: IncidentPublished: March 2023

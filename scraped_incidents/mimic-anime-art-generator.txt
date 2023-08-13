@@ -1,0 +1,163 @@
+- Released: August 2022
+- Can you improve this page?Share your insights with us
+- Mimic is an anime-style art generator developed by Japanese software developer Radius5 on which artists can upload and customise their work to produce artwork in their own illustration style.
+- A backlash accompanied by the hashtag 'AI学習禁止' ('No AI Learning'), quickly followed Mimic's beta release in August 2022, with artists and illustrators complaining that Mimic would cheapen the art form and be used to recreate artists’ work without their permission.
+- Radius 5 CEO Daisuke Urushihara took to social media to ask critics not to criticise or slander artists. Within 24 hours of its launch, the system was suspended when artists started uploading other artists' work, despite this being explicity banned in Mimic's terms of use.
+- Automaton notes that although some artists admitted the rise of AI art generators is inevitable and could be useful, if used appropriately, a good number expressed concerns about the future of their industry and jobs as AI takes further root.
+- In addition, some artists opined that the value of art as a whole will likely be damaged by AI-generated art, because it lacks the 'warmth' and 'soul' that artists put into their work.
+- Operator: Radius5Developer: Radius5Country: Japan Sector: Media/entertainment/sports/arts Purpose: Generate illustrations Technology: Image generator Issue: Copyright; Employment Transparency: Governance; Black box
+URL: https://illustmimic.com/en/
+- About mimic
+- Plan
+- Illustration Makers List
+- Remake Illustrations List
+- Users List
+- Terms of Use
+- Guideline
+- English
+- Get illustration makerwho has learned your personality!
+- Get illustration makerwho has learned your personality!
+- Copyright © RADIUS5 Inc. 2022 - 2023.
+
+URL: https://twitter.com/illustmimic/status/1564423199009701888
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://twitter.com/illustmimic/status/1564558522766860288
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://restofworld.org/2022/ai-backlash-anime-artists/
+- On October 3, renowned South Korean illustrator Kim Jung Gi passed away unexpectedly at the age of 47. He was beloved for his innovative ink-and-brushwork style of manhwa, or Korean comic-book art, and famous for captivating audiences by live-drawing huge, intricate scenes from memory.
+- Just days afterward, a former French game developer, known online as 5you, fed Jung Gi’s work into an AI model. He shared the model on Twitter as an homage to the artist, allowing any user to create Jung Gi-style art with a simple text prompt. The artworks showed dystopian battlefields and bustling food markets — eerily accurate in style, and, apart from some telltale warping, as detailed as Jung Gi’s own creations.
+- The response was pure disdain. “Kim Jung Gi left us less than [a week ago] and AI bros are already ‘replicating’ his style and demanding credit. Vultures and spineless, untalented losers,” read one viral post from the comic-book writer Dave Scheidt on Twitter. “Artists are not just a ‘style.’ They’re not a product. They’re a breathing, experiencing person,” read another from cartoonist Kori Michele Handwerker.
+- Far from a tribute, many saw the AI generator as a theft of Jung Gi’s body of work. 5you told Rest of World that he has received death threats from Jung Gi loyalists and illustrators, and asked to be referred to by his online pseudonym for safety.
+- Generative AI might have been dubbed Silicon Valley’s “new craze,” but beyond the Valley, hostility and skepticism are already ramping up among an unexpected user base: anime and manga artists. In recent weeks, a series of controversies over AI-generated art — mainly in Japan, but also in South Korea — have prompted industry figures and fans to denounce the technology, along with the artists that use it.
+- While there’s a long-established culture of creating fan art from copyrighted manga and anime, many are drawing a line in the sand where AI creates a similar artwork. Rest of World spoke to generative AI companies, artists, and legal experts, who saw this backlash as being rooted in the intense loyalty of anime and manga circles — and, in Japan, the lenient laws on copyright and data-scraping. The rise of these models isn’t just blurring lines around ownership and liability, but already stoking panic that artists will lose their livelihoods.
+- “I think they fear that they’re training for something they won’t ever be able to live off because they’re going to be replaced by AI,” 5you told Rest of World.
+- One of the catalysts is Stable Diffusion, a competitor to the AI art model Dall-E, which hit the market on August 22. Stability AI is open-source, which means that, unlike Dall-E, engineers can train the model on any image dataset to churn out almost any style of art they desire — no beta invite or subscription needed. 5you, for instance, pulled Jung Gi’s illustrations from Google Images without permission from the artist or publishers, which he then fed into Stable Diffusion’s service.
+- In mid-October, Stability AI, the company behind Stable Diffusion, raised a reported $101 million dollars and earned about a $1 billion valuation. Looking for a cut of this market, AI startups are building off Stable Diffusion’s open-source code to launch more specialized and refined generators, including several primed for anime and manga art.
+- “I think they fear that they’re training for something they won’t ever be able to live off of because they’re going to be replaced by AI.”
+- Japanese AI startup Radius5 was one of the first companies to touch a nerve when, in August, it launched an art-generation beta called Mimic that targeted anime-style creators. Artists could upload their own work and customize the AI to produce images in their own illustration style; the company recruited five anime artists as test cases for the pilot.
+- Almost immediately, on Mimic’s launch day, Radius5 released a statement that the artists were being targeted for abuse on social media. “Please refrain from criticizing or slandering creators,” the company’s CEO, Daisuke Urushihara, implored the swarm of Twitter critics. Illustrators decried the service, saying Mimic would cheapen the art form and be used to recreate artists’ work without their permission.
+- And they were partly right. Just hours after the statement, Radius5 froze the beta indefinitely because users were uploading other artists’ work. Even though this violated Mimic’s terms of service, no restrictions had been built to prevent it. The phrase “AI学習禁止” (“No AI Learning”) lit up Japanese Twitter.
+- A similar storm gathered around storytelling AI company NovelAI, which launched an image generator on October 3; Twitter rumors rapidly circulated that it was simply ripping human-drawn illustrations from the internet. Virginia Hilton, NovelAI’s community manager, told Rest of World that she thought the outrage had to do with how accurately the AI could imitate anime styles.
+- “I do think that a lot of Japanese people would consider [anime] art a kind of export,” she told Rest of World. “Finding the capabilities of the [NovelAI] model, and the improvement over Stable Diffusion and Dall-E — it can be scary.” The company also had to pause the service for emergency maintenance. Its infrastructure buckled from a spike in traffic, largely from Japan and South Korea, and a hacking incident. The team published a blog post in Japanese to explain how it all works, while scrambling to hire friends to translate their Twitter and Discord posts.
+- The ripple effect goes on. A Japanese artist was obliged to tweet screenshots showing layers of her illustration software to counter accusations that she was secretly using AI. Two of country’s most famous VTuber bands requested that millions of social media followers stop using AI in their fan art, citing copyright concerns if their official accounts republished the work. Pixiv has announced it will be launching tags to filter out AI-generated work in its search feature and in its popularity rankings.
+- In effect, manga and anime are acting as an early testing ground for AI art-related ethics and copyright liability. The industry has long permitted the reproduction of copyrighted characters through doujinshi (fan-made publications), partly to stoke popularity of the original publications. Even the late Prime Minister Shinzo Abe once weighed in on the unlicensed industry, arguing it should be protected from litigation as a form of parody.
+- Outside of doujinshi, Japanese law is ordinarily harsh on copyright violations. Even a user who simply retweets or reposts an image that violates copyright can be subject to legal prosecution. But with art generated by AI, legal issues only arise if the output is exactly the same, or very close to, the images on which the model is trained.
+- “If the images generated are identical … then publishing [those images] may infringe on copyright,” Taichi Kakinuma, an AI-focused partner at the law firm Storia and a member of the economy ministry’s committee on contract guidelines for AI and data, told Rest of World. That’s a risk with Mimic, and similar generators built to imitate one artist. “Such [a result] could be generated if it is trained only with images of a particular author,” Kakinuma said.
+- But successful legal cases against AI firms are unlikely, said Kazuyasu Shiraishi, a partner at the Tokyo-headquartered law firm TMI Associates, to Rest of World. In 2018, the National Diet, Japan’s legislative body, amended the national copyright law to allow machine-learning models to scrape copyrighted data from the internet without permission, which offers up a liability shield for services like NovelAI.
+- Whether images are sold for profit or not is largely irrelevant to copyright infringement cases in the Japanese courts, said Shiraishi. But to many working artists, it’s a real fear.
+- Haruka Fukui, a Tokyo-based artist who creates queer romance anime and manga, admits that AI technology is on track to transform the industry for illustrators like herself, despite recent protests. “There is a concern that the demand for illustrations will decrease and requests will disappear,” she told Rest of World. “Technological advances have both the benefits of cost reduction and the fear of fewer jobs.”
+- Fukui has considered using AI herself as an assistive tool, but showed unease when asked if she would give her blessing to AI art generated using her work.
+- “I don’t intend to consider legal action for personal use,” she said. “[But] I would consider legal action if I made my opinion known on the matter, and if money is generated,” she added. “If the artist rejects it, it should stop being used.”
+- But the case of Kim Jung Gi shows artists may not be around to give their blessing. “You can’t express your intentions after death,” Fukui admits. “But if only you could ask for the thoughts of the family.”
+
+URL: https://automaton-media.com/en/nongaming-news/20220831-15350/
+- RADIUS5 released a beta version of their new AI-powered image generating service “mimic” in Japan on August 29 (JST). To use mimic, artists upload their own illustrations to be analyzed by the AI and the service generates new images with a similar style.
+- Coincidentally, the open-source AI image generator Stable Diffusion also made headlines just the other day (related article), but upon the announcement of mimic’s release, a debate broke out among creators in Japan with RADIUS5 temporarily suspending the service on August 30, only a day after its release.
+- 本日、イラストレーターさんの絵の特徴を学んでイラストを生成するAI サービス mimic（ミミック）をリリースいたしました！２回までイラストメーカー（イラスト生成AI）を無料で作成できますので、ご自分のイラストを学習させたい方は是非ご利用ください！https://t.co/fhVVFJUhQM pic.twitter.com/ZGTq8zVVcA
+- The concept behind mimic’s development is, “Shouldn’t AI be used to help creators?” and was made to help creators tackle the variety of problems they deal with. The team behind mimic  propose that creators can use the AI to generate reference materials in their style or use it as a communication tool on social media and in fan communities. The beta version does include watermarks on the generated images but a feature to remove them is planned to be added in the future.
+- The release announcement tweet for mimic has received over 40,000 retweets and over 50,000 likes as of this writing. However, on August 30, just one day after launch, RADIUS5 tweeted a statement saying, “After the service was announced, creators who cooperated with the development of mimic became the subject of criticism and abuse on social media,” and strongly asked the public to refrain from such behavior.
+- That evening, RADIUS5 followed up with another statement. Due to insufficient measures against preventing users from uploading images they don’t have the rights to use, they suspended the service and deleted all images related to the illustration maker. RADIUS5 says an official release is still planned if they are able to improve measures against misuse.
+- But how did we get to creators who cooperated being abused online and the service getting temporarily shut down? One factor is likely that unlike other AI image generators, mimic requires an already existing illustration be provided. One worry many illustrators and creators face daily is their work being used without permission. If a mimic user takes an image they don’t have permission to use, AI generated art resembling the proper rights holder’s style will be made without them even knowing about it.
+- This also opens the possibility of these images being used without the knowledge of the original artist. In addition, some critics brought up that the images are ultimately generated by AI, so it would be difficult for rights holders to make their claim to them.
+- Of course, the mimic terms of use prohibit uploading the work of others and ask users to only upload their own work or illustrations they hold the rights to. They also say that the rights to the generated images belong to the creator of the original illustration. In the event that copyright infringement is discovered, the terms of use state that they will take appropriate measures such as account suspension or sharing necessary information to law enforcement agencies. However, critics say just because it’s written doesn’t mean we can expect misuse to not occur.
+- As a result, in addition to artists having “No use without permission” and “No reposting” in their social media profiles, there’s been an increase in artists adding “No AI learning” as well. “AI学習禁止” (No AI learning) even started trending on Twitter in Japan. As of 6:00 p.m. on August 30 (JST), the mimic release announcement had roughly 28,000 quote tweets, with many of them being creators stating not to use their work in AI learning software. There were even creators expressing how they are tired of the growing list of things they have to say are prohibited in their profiles.
+- Despite the mimic terms of use prohibiting use of someone’s work without permission, you could say it still comes down to the morality of the user. Even if offenders could be punished legally, there are creators who fear that once a work is analyzed by AI, it can’t be undone.
+- This isn’t the first time concerns have come up over AI analysis, though, and even when Midjourney appeared on the scene, more than a few people shared their concerns about data on the internet being analyzed for AI. In this case, you could say the problems AI-generated artwork poses to artists have become even more apparent.
+- Besides copyright infringement, many creators were expressing concerns about their value being reduced over time as AI analyzes their work and develops further. In addition, some are of the opinion that AI-generated art hurts the value of art as a whole as it lacks the “warmth” and “soul” that artists put into their work.
+- 絵描きの職がAIで無くなるんじゃなくて、描いても無いのに自分の絵と酷似したイラストが平気でアイコンになってるのとか見るの、普通にメンタル崩壊して描けなくなり結果的に職を失いそうな結城ゆきさん……
+- But this doesn’t mean that no creators are accepting of mimic and other AI-powered services, with some saying the rise and development of this kind of AI is inevitable. mimic was also developed to assist creators, and if used correctly, could be a convenient tool.
+- Service was suspended for mimic after just one day, but as mentioned above, they plan to release an official version if they can better prevent misuse. We will keep an eye on how these services fare going forward.
+- Related Article:Stable Diffusion and Midjourney can even understand “kawaii.” Anime-style characters created by AI image generators
+- Written by. Nick Mosier based on the original Japanese article (original article’s publication date: 2022-08-30 20:00 JST)
+
+URL: https://www.reddit.com/r/Kengan_Ashura/comments/x16typ/japanese_illustrators_having_a_meltdown_over_an/
+- A subreddit dedicated to the fighting manga and anime, Kengan Asura and its sequel Kengan Omega!
+
+URL: https://futurism.com/the-byte/anime-manga-fans-ai-generated
+- In Japan, where fans can be fiercely loyal to their favorite anime artists, the backlash to AI art has reached another level. According to reporting by Rest of World, Japan's lax laws on copyright and data-scraping have stoked the backlash into paranoia, with artists fearing they'll lose their livelihoods.
+- One of the recent inciting incidents was the Japanese AI startup Radius5 launching its own anime-themed AI art generator called Mimic. Its intended purpose was to allow artists to upload their own work into Mimic, which would then spit out images in the uploading artist's style. But you can see where this is going.
+- In a bid to show off Mimic's capabilities, five anime artists were recruited by Radius5 . This turned fans on social media livid, who viewed the participating artists as AI-reverent scabs that were complicit in potentially letting the technology steal other artist's work.
+- And lo and behold, not long after its launch, Radius5 had to suspend Mimic's beta because, unsurprisingly, tons of users were simply uploading the art of other artists rather than their own.
+- Soon after, RoW reports, the phrase "No AI Learning" went trending across Japanese Twitter.
+- The whole thing looks a bit like an AI witch-hunt. Yet another image generator, by NovelAI, was quickly accused of outright copying anime illustrations found online. Even a flesh and blood Japanese artist had to shut down claims that she was using AI to create her work by sharing screenshots of her illustration software.
+- But the legality of it all remains wishy-washy. Japanese copyright law does allow for fanmade comics called doujinshi to use copyrighted characters. It's that distinction that muddies the waters. At least for now, AI generated art is legally okay as long as it doesn't border on being exactly the same as the input images, according to a Japanese copyright lawyer who spoke to Rest of World.
+- All in all, the Japanese response, legally and publicly, may serve as an omen of things to come. It's already a burgeoning culture war in America and Europe, severely divided between the humanities and technophiles. And despite all the outrage — matched by AI proponents' own choruses of praise — the technology isn't showing any signs of slowing down.
+- More on AI art: People Can't Stop Feeding Their Selfies Into a Super Mean AI
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://stealthoptional.com/news/ai-manga-generator-criticised-japan/
+- Featured
+- Sections
+- An AI Manga Generator called Mimic has been criticised in Japan for cheapening  the art of mangakas.
+- AI art generators are a controversial tool in the art industry. With tools capable of recreating any artists’ style, an AI manga generator has received backlash from fans of the Japanese art form.
+- As AI art tools like Midjourney and Stable Diffusion use datasets to create artwork, they’re all based on pre-existing works. This means that you can directly recreate the style of an artist you like in a form of pseudo-plagiarism.
+- Reported by Rest of World, Japanese AI startup Radius5 has created Mimic, an AI manga generator. However, the anime community has met the tool with a large degree of fervour.
+- In the report, it’s revealed that Japanese social media users turned against the tool. An advertising stunt involving five manga artists using the service led fans to send hate messages to artists claiming they were helping to cheapen the art form.
+- Radius5 quickly released a statement damning Twitter users for defamatory statements. In a roughly translated version of the post, the company said:
+- Despite this, the online backlash continued. In Japan, the phrase “No AI Learning” became a trending topic, albeit in Japanese instead of English.
+- The Mimic service is designed to be used by mangakas to speed up aspects of work. As manga creation is an intensely time consuming process, the tool allows an artist to upload their work and create images in a similar style. This could be used for backgrounds or other ideas that could be touched up afterwards.
+- However, Japanese fans believe that the tool will be abused by those who are not official manga artists. As it turns out, they were right, and Mimic’s beta has already been closed as users began uploading other artists’ work to copy.
+- Mimic will return in the near future, but manga fans are still upset at the AI manga generator. In response to a recent tweet, one Twitter user called the tool “Pandora’s Box” whereas others claimed it still “other people's data for learning”.
+- As commenters state, the release of AI art tools will result in copycats stealing art styles for themselves. At this point, that is unavoidable; Pandora’s Box has indeed been opened.
+- For more articles like this, take a look at our
+					
+News 
+						, 
+						 AI
+						, and 
+						 Anime
+					 pages.
+
+URL: https://www.theregister.com/2022/10/31/in_brief_ai/
+
+URL: https://www.wired.it/article/manga-anime-generati-intelligenza-artificiale-polemica/
+- Andrea Indiano
+- Lo sviluppo dell'intelligenza artificiale trova degli inaspettati antagonisti: i fan dei manga. Nelle ultime settimane, una serie di controversie sull'arte generata dalla tecnologia Ai ha aperto un acceso dibattito online in Giappone e in Corea del Sud. Artisti, lettori e aziende del settore di manga e anime sono al centro di uno scontro che riguarda gli albi a fumetti prodotti dai generatori di immagini automatici. I fan protestano contro i primi lavori realizzati in questo modo e il dibattito si è allargato alle questioni legali sui diritti delle opere create dai bot. Un problema destinato a interessare anche le altre forme d'arte, ma che sembra toccare da vicino soprattutto i lettori di manga affezionati ai loro autori preferiti.
+- Uno degli incidenti scatenanti è stato il lancio, da parte della startup giapponese Radius5, di un programma con intelligenza artificiale generatore di arte a tema anime chiamato Mimic. Lo scopo iniziale era consentire agli artisti di caricare il proprio lavoro su Mimic, il quale avrebbe quindi prodotto immagini nello stile dell'artista. L'azienda aveva reclutato cinque artisti di anime come test di prova per il progetto pilota. Le prime critiche sono arrivate poco dopo: i fan hanno iniziato a lamentarsi su Twitter dei rischi che questa pratica avrebbe potuto portare per l'autenticità delle immagini realizzate. Qualsiasi utente, infatti, poteva caricare le tavole di un artista senza permesso ed ottenere disegni molto simili nello stesso stile. E questo è proprio quello che è successo, anche se ciò violava i termini di servizio di Mimic. La frase "No AI Learning" (no all'apprendimento dell'Ai) è diventata di tendenza su Twitter giapponese.
+- This content can also be viewed on the site it originates from.
+- di Matt Burgess
+- di Paolo Armelli
+- di Anna Lisa Bonfranceschi
+- Un caso simile è avvenuto alla società di intelligenza artificiale NovelAI, che ha lanciato un generatore di immagini manga agli inizi di ottobre 2022. I social si sono rapidamente popolati di lamentele sul fatto che il programma stesse semplicemente rubando illustrazioni disegnate da artisti professionisti. Anche NovelAI ha dovuto eliminare il proprio software in poco tempo. Pixiv, la comunità online di artisti giapponesi, ha annunciato che lancerà dei tag per filtrare il lavoro generato dall'intelligenza artificiale nel suo motore di ricerca e nelle sue classifiche. I programmi nipponici dedicati ai manga che ricordano i software come Dall-E e Midjourney hanno avuto vita breve.
+- Manga e anime stanno agendo come un primo banco di prova per l'etica dell'arte fatta con Ai e il relativo copyright. Le leggi giapponesi consentono la riproduzione di personaggi protetti da copyright per i lavori cosiddetti doujinshi (pubblicazioni create dai fan), ma il discorso cambia se i prodotti vengono poi commercializzati o se l'autore non è un semplice fan bensì un bot automatico. "Se le immagini generate sono identiche o troppo simili, la loro pubblicazione potrebbe violare il diritto d'autore. Tale risultato potrebbe avvenire facilmente se il generatore di immagini viene addestrato solo con immagini di un particolare autore", ha detto al magazine Rest of the World l'avvocato giapponese Taichi Kakinuma. Un utente di Twitter che aveva voluto rendere omaggio a un disegnatore deceduto, Kim Jung Gi, tramite la pubblicazione di opere fatte da un sistema informatico con il suo stile, ha dovuto fermare i post dopo le tante proteste della community.
+- Per i numerosi lavoratori dell'industria fumettistica nipponica la paura è reale. "C'è la preoccupazione che la domanda di illustrazioni diminuirà e le richieste scompariranno per colpa dell'Ai. I progressi tecnologici hanno sia i vantaggi della riduzione dei costi sia il timore per una diminuzione dei posti di lavoro", ha affermato il mangaka Haruka Fukui. Almeno per ora, l'arte generata dall'intelligenza artificiale è legale, purché non sia esattamente la stessa delle immagini di input. Tuttavia, la risposta dei fan dei fumetti giapponesi potrebbe aver scatenato il primo reale dibattito sulle questioni di copyright riguardanti i disegni dai bot.\
+- 🗓 Il 30 maggio il Wired digital day torna in Puglia: appuntamento a Lecce. Iscriviti per partecipare
+- 📩 Scopri le nostre newsletter: le ultime su tecnologia, gadget, ambiente e diritti. Iscriviti subito
+- 🚨 L'alluvione in Emilia Romagna: tutti gli aggiornamenti
+- 🧠 ChatGPT e non solo: tutto quello che devi sapere sull'intelligenza artificiale generativa
+- 🪨 Silo è una serie eccellente, ma arriva con 10 anni di ritardo
+- 👽 C'è una nuova teoria sul perché non abbiamo ancora incontrato gli alieni
+- 🇺🇦 Un anno di guerra in Ucraina: gli aggiornamenti di Wired sul conflitto
+- 🖥 Notizie, recensioni e guide all'acquisto sui migliori gadget del momento
+- 🦹🏼‍♀️ I super umani sono al centro del nostro ultimo numero in edicola
+- 👀 Vuoi comunicare in modo sicuro con la redazione di Wired? Usa Wiredleaks
+- di Lauren Goode
+- di Antonio Dini
+- di Will Knight
+- di Andrea Curiat
+- SCOPRI LE ULTIME NOTIZIE
+- CONDÉ NAST ITALIA
+- © EDIZIONI CONDÉ NAST S.P.A. - PIAZZA CADORNA 5 - 20121 MILANO CAP.SOC. 2.700.000 EURO I.V. C.F E P.IVA REG.IMPRESE TRIB. MILANO N. 00834980153 SOCIETÀ CON SOCIO UNICO
+
+- Novel AI storytelling generator
+- DALL-E image generator
+- Page info Type: SystemPublished: January 2023

@@ -1,0 +1,99 @@
+- Occurred: September 2021
+- Can you improve this page?Share your insights with us
+- Bloomberg reports that the recent 90% collapse in the price of Bitcoin from around USD 41,000 to USD 5,402 was likely due to a glitch on crypto data network Pyth.
+- According to a Pyth investigatory report 'The issue was caused by the combination of (1) two different Pyth publishers publishing a near-zero price for BTC/USD and (2) the aggregation logic overweighting these publishers’ contributions and both publishers encountered problems related to the handling of decimal numbers.'
+- Whilst the impact on Bitcoin investors remains unclear, it seems some financial trading systems automatically sold Bitcoin in response to the apparent drop in price.
+- Operator: Pyth
+- Developer: Pyth  Country: USA
+- Sector: Banking/financial services
+- Purpose: Provide pricing information
+- Technology: Pricing algorithm
+- Issue: Accuracy/reliability Transparency: Black box
+URL: https://twitter.com/PythNetwork/status/1439960003402686469
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://twitter.com/bonfida/status/1439939941992222722
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://www.bloomberg.com/news/articles/2021-09-21/bitcoin-price-crashed-to-5-402-on-network-backed-by-big-quants
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://futurism.com/the-byte/wall-street-glitch-bitcoin-crashing
+- On Monday, some crypto investors may have noticed that the price for Bitcoin plummeted down to about $5,400.
+- That would be catastrophic, coming down from around $50,000 earlier this month. But the price never actually dropped — at least not that much. The precipitous devaluation was a glitch on Pyth, a crypto data platform that's contributed to by several finance giants on Wall Street, Bloomberg reports. It's still not clear how much the glitch — and investors' possible responses to it — had on Bitcoin's real price, which also took a hit, but it's still a shocking error for a platform that's used by such major players.
+- In reality, Bitcoin's price is right around $44,000 as of Wednesday afternoon. That price comes as part of a notable drop over the course of the last week, but even that hallmark crypto volatility is nothing like what Pyth users would have seen before the glitch was corrected on Tuesday.
+- The latest update from Pyth is a tweet from Monday saying that engineers were looking into the issue. It's hard to tell if the glitch had an impact on Bitcoin's price, if it had one at all, according to Bloomberg.
+- A glitch on one platform can easily be exposed by double-checking the data anywhere else, so it's unlikely that most people using Pyth would have panicked and dumped their crypto.
+- However, some automated systems relying on the data did automatically sell off some Bitcoin in response to the perceived sudden drop in price, according to a tweet from the Bonfida network.
+- READ MORE: Bitcoin Crashed to $5,402 in Error on Network Backed by Quants [Bloomberg]
+- More on Bitcoin: In Response to dip, El Salvador Buys a Bunch More Bitcoin
+- DISCLAIMER(S)
+- Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+- Registration on or use of this site constitutes acceptance of our Terms of Service.
+- © Recurrent Ventures Inc, All Rights Reserved.
+
+URL: https://fortune.com/2021/09/22/bitcoin-briefly-crashes-5402-pyth-network-glitch/
+- Our apologies. It may have expired or there could be a typo. Search for what you are looking for or find what you need on ourhomepage
+- © 2023 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information | Ad Choices 
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Terms & Conditions. Powered and implemented by Interactive Data Managed Solutions.
+
+URL: https://www.cnbctv18.com/cryptocurrency/how-bitcoin-prices-briefly-crashed-to-5000-due-to-a-bug-10852832.htm
+
+URL: https://www.livemint.com/market/cryptocurrency/bitcoin-prices-crashed-to-5-402-in-a-tech-glitch-on-pyth-network-this-is-what-caused-the-error-11632290553595.html
+- A cryptocurrency data network run by some of Wall Street’s biggest players showed a roughly 90% plunge in Bitcoin on Monday, a glitch that didn’t show up on other platforms. The platform, called Pyth, tweeted that on Monday the world's largest cryptocurrency's price showed as $5,402 on its platform, whereas it actually was hovering around $41,000.
+- Pyth had said that its engineers are continuing to investigate the cause and a full report is in the works. The network has now released the report of what caused the incident - on a root cause analysis of bad BTC/USD prices, including what caused it and corrective actions.
+- Explaining the root cause, Pyth said that the “issue was caused by the combination of (1) two different Pyth publishers publishing a near-zero price for BTC/USD and (2) the aggregation logic overweighting these publishers’ contributions and both publishers encountered problems related to the handling of decimal numbers.
+- The first publisher encountered a bug in which they submitted their price as a floating-point number where this utility expected an integer and the second publisher encountered a race condition between two programs that resulted in them reading an exponent of 10^0 for BTC/USD instead of 10^-8 for the 2-minute interval of the incident.
+- Things seem to have returned to normal Tuesday. Bitcoin’s price was recently given as $41,888, close to prevailing levels. This was the second recent problem as the network which connects to the Solana blockchain, stopped working for more than 17 hours last week.
+- Pyth said its core developers are taking several steps to prevent these issues from happening again.
+- (With inputs from Bloomberg)
+- 
+- 
+- Get the best recommendations on Stocks, Mutual Funds and more based on your Risk profile!
+- Download the Mint app and read premium stories
+- Log in to our website to save your bookmarks. It'll just take a moment.
+- You are just one step away from creating your watchlist!
+- Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.
+- Your session has expired, please login again.
+- You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+- This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp
+
+URL: https://www.bitcoininsider.org/article/127672/bitcoin-btc-price-plunged-90-5400-due-network-glitch-heres-what-happened
+- Latest news about Bitcoin and all cryptocurrencies. Your daily crypto news habit.
+- Monday’s market crash resulted in billion-dollar liquidations in the crypto space. The Bitcoin (BTC) plummeted under $45,000 that day, however, a network glitch on the Pyth platform showed that the BTC price plummeted 90% dropping all the way to $5,400.
+- The crypto data network Pyth is run by some of Wall streets biggest players. Besides, it provides industrial-grade pricing information for asset classes like stocks and cryptocurrencies. Some of its data feed contributors include giants like FTX, DRW, and the Jump Trading Group. Recently, Mike Novogratz’s Galaxy Digital also joined the Pyth Network.
+- For a very brief period on Monday, the Pyth Network showed the Bitcoin price as $5,400. The platform made an official statement through its Twitter handle that reads:
+- Between 12:21 and 12:23 UTC the Pyth BTCUSD aggregate price was below $40,000 – the lowest price reported was $5,402 with a confidence interval of $21,623 (4x the asset reported price) for a single slot – which was off-market relative to the BTC price available on other markets. Engineers are continuing to investigate the cause and a full report is in the works.
+- On Tuesday, things have returned back to normal. Besides, the Pyth platform has unveiled a root cause analysis of what actually resulted in the software glitch.
+- However, the problem wasn’t just limited to Bitcoin price reporting. Several Solana-based programs relying on the Pyth price were impacted by this incident. As Pyth reported:
+- The impact was exacerbated due to some programs relying on the aggregate price feed without using the confidence, which allowed liquidations to occur even though the published price was highly uncertain.
+- The entire Pyth network was down as a result of the outage. Bonfida, a project built on Solana, said that decline resulted in a series of liquidations on the Audaces protocol BTC-PERP market. Audaces is the perpetual futures platform on Bonfida.
+- The post Bitcoin (BTC) Price Plunged 90% to $5,400 Due to Network Glitch, Here’s What Happened appeared first on Coingape.
+- The views and opinions expressed in this article are solely those of the authors and do not reflect the views of Bitcoin Insider. Every investment and trading move involves risk - this is especially true for cryptocurrencies given their volatility. We strongly advise our readers to conduct their own research when making a decision.
+- © 2023 - Bitcoin Insider - Latest news about Bitcoin and all cryptocurrencies. Your daily crypto news habit..
+- Powered by Linux  - Created with ♥ by WebZein
+
+- Amazon automated pricing glitch
+- Tesla China FSD glitch, recall
+- Page infoType: IncidentPublished: September 2021

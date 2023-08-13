@@ -1,0 +1,367 @@
+- Occurred: November 2019
+- Can you improve this page?Share your insights with us
+- Apple launched its new Apple Card in the USA in August 2019. Underwritten by Goldman Sachs, the card is designed to work with Apple Pay on iPhones, iPads, Apple Watches, and Macs.
+- In November 2019, tech entrepreneur David Hansson complained on Twitter that he had been given a credit limit 20 times larger than that offered to his wife, despite her having a better credit score. He went on to accuse Goldman Sachs of gender discrimination by using algorithms to determine a person's credit limit.
+- Hansson's complaint was followed by Apple co-founder Steve Wozniak saying that he received ten times the credit limit that his wife was offered, resulting in a volley of accusations that Apple and Goldman Sachs were 'sexist'.
+- In response, the New York State Department of Financial Services launched an investigation. In March 2021, the investigation concluded (pdf) that there was no evidence of 'deliberate or disparate' racial discrimination but that there were clear deficiencies in customer service and transparency.
+- Operator: Apple; Goldman Sachs Developer: Apple; Goldman SachsCountry: USA Sector: Banking/financial services Purpose: Streamline card application process Technology: Machine learning Issue: Bias/discrimination - gender Transparency: Governance; Complaints/appeals; Marketing
+- Apple Card website
+- Apple Card Wikipedia profile
+- New York State Department of Financial Services (2021). Report on Apple Card Investigation (pdf)
+URL: https://twitter.com/dhh/status/1193287648087072770
+- We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- Help Center
+- Terms of Service
+Privacy Policy
+Cookie Policy
+Imprint
+Ads info
+      © 2023 X Corp.
+
+URL: https://www.reuters.com/article/us-goldman-sachs-probe/goldman-faces-probe-after-entrepreneur-slams-apple-card-algorithm-in-tweets-idUSKBN1XK00L
+- Discover Thomson Reuters
+- By Reuters Staff
+- 2 Min Read
+- BENGALURU (Reuters) - A probe into Goldman Sachs Group Inc’s credit card practices has been initiated after tweets from a tech entrepreneur alleged gender discrimination in the new Apple Inc card algorithms that are used to determine credit limits.
+- In a series of Twitter posts starting on Thursday, David Heinemeier Hansson railed against the Apple Card for giving him 20 times the credit limit that his wife got, Bloomberg reported on Saturday.
+- Hansson, who is the creator of web-application framework Ruby on Rails, didn’t disclose any specific income-related information for himself or his wife but said they filed joint tax returns and that his wife had a better credit score, the report said. New York’s Department of Financial Services confirmed that an investigation was being conducted. Andrew Williams, a Goldman Sachs spokesman, declined to comment on whether Hansson had contacted Goldman regarding the concerns raised on Twitter because the bank does not discuss matters involving individual customers publicly.
+- The Apple Card, launched in August, is Goldman’s first credit card. The Wall Street investment bank has been offering more products to consumers, including personal loans and savings accounts through its Marcus online bank.
+- The Department of Financial Services “will be conducting an investigation to determine whether New York law was violated and ensure all consumers are treated equally regardless of sex,” a department spokeswoman told Reuters in a statement.
+- “Any algorithm that intentionally or not results in discriminatory treatment of women or any other protected class violates New York law.”
+- The iPhone maker says the card would be synched with iPhone users’ Apple Wallet and could be used to buy Apple products at a discount.
+- Reporting by Mekhla Raina in Bengaluru and Elizabeth Dilts in New York; Editing by Sonya Hepinstall
+- Our Standards: The Thomson Reuters Trust Principles.
+- All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+
+URL: https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/
+- Earlier this week, New York’s Department of Financial Services launched an investigation into Goldman Sachs for potential credit discrimination by gender. The probe came after web entrepreneur David Heinemeier Hansson tweeted that the Apple Card, which Goldman manages, had given him a credit limit 20 times that extended to his wife, though the two filed joint tax returns and she had the better credit score.
+- The @AppleCard is such a fucking sexist program. My wife and I filed joint tax returns, live in a community-property state, and have been married for a long time. Yet Appleâ€™s black box algorithm thinks I deserve 20x the credit limit she does. No appeals work.
+- In response, Goldman posted a statement saying it did not consider gender when determining creditworthiness. The logic was likely meant to be a defense—how can you discriminate against women when you don’t even know someone is a woman? But in fact, failing to account for gender is precisely the problem. Research in algorithmic fairness has previously shown that considering gender actually helps mitigate gender bias. Ironically, though, doing so in the US is illegal.
+- Now preliminary results from an ongoing study funded by the UN Foundation and the World Bank are once again challenging the fairness of gender-blind credit lending. The study found that creating entirely separate creditworthiness models for men and women granted the majority of women more credit.
+- So: should the law be updated?
+- If you don’t want to discriminate by gender, why not simply remove gender from the equation? This was the premise of the Equal Credit Opportunity Act (ECOA), enacted in the US in 1974, during a time when women were regularly denied credit. It made it illegal for any creditor to discriminate on the basis of sex or to consider sex when evaluating creditworthiness. (In 1976, it was updated to forbid discrimination by race, national origin, and other characteristics protected by the federal government.)
+- But in machine learning, gender blindness can be the problem. Even when gender is not specified, it can easily be deduced from other variables that correlate highly with it. As a result, models trained on historical data stripped of gender still amplify past inequities. The same applies to race and other characteristics. This is likely what happened in the Apple Card case: because women were historically granted less credit, the algorithm learned to perpetuate that pattern.
+- In a 2018 study, a collaboration between computer scientists and economists found that the best way to mitigate these issues was in fact to reintroduce characteristics like gender and race into the model. Doing so allows for more control to measure and reverse any manifested biases, resulting in more fairness overall.
+- The latest study is testing a new hypothesis: would separate models for men and women reduce gender bias further? At an event hosted by the UN Foundation on Tuesday, Sean Higgins, an assistant professor at Northwestern University and a researcher on the study, presented preliminary findings that suggest they would.
+- In partnership with a commercial bank in the Dominican Republic, the researchers conducted two separate analyses of 20,000 low-income individuals, half of them women. In the first analysis, the researchers used the individuals’ loan repayment histories and gender to train a single machine-learning model for predicting creditworthiness. In the second analysis, the researchers trained a model with only the loan repayment data from the women. They found that 93% of women got more credit in this model than in the one where men and women were mixed together.
+- This happens, says Higgins, because women and men have different credit histories and different loan repayment behaviors—whether for historical, cultural, or other reasons. Women, for example, are more likely to pay back their loans, he says. But those differences aren’t accounted for in the combined model, which learns to predict creditworthiness on the basis of averages across women and men. Consequently, such models underpredict the likelihood of women repaying their loans and end up granting them less credit than they deserve.
+- While Higgins and his collaborators tested this hypothesis specifically for low-income women in the Dominican Republic, the qualitative results should hold true regardless of context. They should also apply to characteristics other than gender, and in domains other than finance.
+- The problem is, this kind of single-gender model is illegal. The question is whether policymakers should therefore update the ECOA.
+- Higgins is in favor. “The recent research on algorithmic fairness has reached a fairly clear conclusion that we should be using things like race and gender in the algorithms,” he says. “If the banks don’t have access to those variables and can’t even build in the safety checks to make sure that their algorithms aren’t biased, the only way that we find out about these biases is when people tweet about disparities that they’re encountering in the wild.”
+- But Andrew Selbst, an assistant law professor at UCLA who specializes at the intersection of AI and law, cautions against moving too quickly. “Rewriting the law that way opens up avenues for bad actors to start including race variables and gender variables and discriminating wildly in a way that’s very hard to police,” he says. He also worries that this solution wouldn’t account for nonbinary or trans people and unintentionally cause them harm.
+- To have more stories like this delivered directly to your inbox, sign up for our Webby-nominated AI newsletter The Algorithm. It's free.
+- “I have suddenly switched my views on whether these things are going to be more intelligent than us.”
+- The narrative around cheating students doesn’t tell the whole story. Meet the teachers who think generative AI could actually make learning better.
+- Hinton will be speaking at EmTech Digital on Wednesday.
+- Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+- Discover special offers, top stories,
+            upcoming events, and more.
+- Thank you for submitting your email!
+- It looks like something went wrong.
+- We’re having trouble saving your preferences.
+                Try refreshing this page and updating them one
+                more time. If you continue to get this message,
+                reach out to us at
+                customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+- 
+- © 2023 MIT Technology Review
+
+URL: https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/
+- This article was published more than 3 years ago
+- What started with a viral Twitter thread metastasized into a regulatory investigation of Goldman Sachs’ credit card practices after a prominent software developer called attention to differences in Apple Card credit lines for male and female customers.
+- David Heinemeier Hansson, a Danish entrepreneur and developer, said in tweets last week that his wife, Jamie Hansson, was denied a credit line increase for the Apple Card, despite having a higher credit score than him.
+- “My wife and I filed joint tax returns, live in a community-property state, and have been married for a long time. Yet Apple’s black box algorithm thinks I deserve 20x the credit limit she does,” Hansson tweeted.
+- Hansson detailed the couple’s efforts to bring up the issue with Apple’s customer service, which resulted in a formal internal complaint. Representatives repeatedly assured the couple there was no discrimination, citing the algorithm that makes Apple Card’s credit assessments. Jamie Hansson’s credit limit was ultimately bumped up to equal his, but he said this failed to address the root of the problem.
+- Hansson’s tweets drew the attention of Linda Lacewell, superintendent of New York’s State Department of Financial Services, who announced Saturday that her office would investigate the Apple Card algorithm over claims of discrimination.
+- “This is not just about looking into one algorithm,” she wrote in a Medium post. “DFS wants to work with the tech community to make sure consumers nationwide can have confidence that the algorithms that increasingly impact their ability to access financial services do not discriminate and instead treat all individuals equally and fairly.”
+- Apple didn’t immediately respond to a request for comment from The Washington Post.
+- With the spread of automation, more and more decisions about our lives are made by computers, from credit approval to medical care to hiring choices. The algorithms — formulas for processing information or completing tasks — that make these judgments are programmed by people and thus often reproduce human biases, unintentionally or otherwise, resulting in less favorable outcomes for women and people of color. But the public, and even companies themselves, often have little visibility into how algorithms operate.
+- “Women tend to be better credit risks. While it is illegal to discriminate the data indicates that controlling for income, and other things, women are better credit risks,” said Aaron Klein, a Brookings Institution fellow. “So giving men better terms of credit is both illegal and seems to be inconsistent with international experience.”
+- I'm a current Apple employee and founder of the company and the same thing happened to us (10x) despite not having any separate assets or accounts. Some say the blame is on Goldman Sachs but the way Apple is attached, they should share responsibility.
+- Past iterations of Google Translate have struggled with gender bias in translations. Amazon was forced to jettison an experimental recruiting tool in 2017 that used artificial intelligence to score candidates because the prevalence of male candidates resulted in the algorithm penalizing résumés that included “women’s” and downgrading candidates who attended women’s colleges. A study published last month in Science found racial bias in a widely used health-care risk-prediction algorithm made black patients significantly less likely than white patients to get important medical treatment.
+- “It does not matter what the intent of the individual Apple reps are, it matters what the algorithm they’ve placed their complete faith in does,” Hansson tweeted. “And what it does is discriminate.”
+- We wanted to address some recent questions regarding the #AppleCard credit decision process. pic.twitter.com/TNZJTUZv36
+- Dozens of people shared similar experiences after Hansson’s tweets went viral, including Apple co-founder Steve Wozniak, who indicated his credit limit is 10 times that of his wife. The outcry prompted Goldman Sachs to issue a response Sunday stressing that credit assessments are made based on individual income and creditworthiness, which could result in family members having “significantly different credit decisions.”
+- “In all cases, we have not and will not make decisions based on factors like gender,” Andrew Williams, a spokesman for Goldman Sachs, said in a statement.
+- Released in August through a partnership with Goldman Sachs, the Apple Card is a “digital first,” numberless credit card “built on simplicity, transparency and privacy,” according to a news release.
+- Renae Merle contributed to this report.
+
+URL: https://bgr.com/2019/11/10/apple-card-gender-discrimination-goldman-sachs-steve-wozniak/
+- Sign up for our daily newsletter
+- If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs.
+- Over the weekend, one of Apple Card’s most high-profile users — who also happens to be none other than Apple co-founder Steve Wozniak — took the dramatic step of joining in the calls from critics who want more government oversight over the algorithms used to make decisions about card users.
+- Case in point: Wozniak said Goldman Sachs, the financial services giant that teamed up with Apple to offer the banking-type services and infrastructure associated with the card, gave Wozniak a 10x Apple Card credit line compared to the one extended to his wife. That’s despite the fact that the couple shares various bank and credit card accounts and that other lenders more or less treat them the same for credit purposes.
+- 
+- 
+- Woz acknowledged the disparity in a Twitter reply to Ruby on Rails co-creator David Heinemeier Hansson, who on Friday took to Twitter to allege the same thing happening to him:
+- The same thing happened to us. I got 10x the credit limit. We have no separate bank or credit card accounts or any separate assets. Hard to get to a human for a correction though. It's big tech in 2019.
+- — Steve Wozniak (@stevewoz) November 10, 2019
+- 
+- Those tweets have, perhaps understandably, not only kicked up a firestorm. But in a statement provided to Bloomberg, a spokesman for the New York Department of Financial Services made it clear the department has decided to open an investigation because of this. It would seem to be an investigation into Goldman Sachs, which issues the card, and the statement reads: “The department will be conducting an investigation to determine whether New York law was violated and ensure all consumers are treated equally regardless of sex.”
+- The spokesman continued: “Any algorithm that intentionally or not results in discriminatory treatment of women or any other protected class of people violates New York law.”
+- In Hansson’s case, he was able to talk to Apple representatives, and it seems his wife’s credit line was ultimately bumped up to be equal to his. Still, he continued railing about the experience on Twitter:
+- 
+- She spoke to two Apple reps. Both very nice, courteous people representing an utterly broken and reprehensible system. The first person was like “I don’t know why, but I swear we’re not discriminating, IT’S JUST THE ALGORITHM”. I shit you not. “IT’S JUST THE ALGORITHM!”.
+- — DHH (@dhh) November 8, 2019
+- 
+- “Let’s recap here,” Hansson continued in a long Twitter thread. “Apple offers a credit card that bases its credit assessment on a black-box algorithm that 6 different reps across Apple and (Goldman Sachs) have no visibility into. Even several layers of management. An internal investigation. IT’S JUST THE ALGORITHM!
+- “So nobody understands THE ALGORITHM. Nobody has the power to examine or check THE ALGORITHM. Yet everyone we’ve talked to from both Apple and GS are SO SURE that THE ALGORITHM isn’t biased and discriminating in any way. That’s some grade-A management of cognitive dissonance.”
+- Interestingly, this is the second investigation of this kind the New York regulator opened in recent weeks, following another into claims that a UnitedHealth Group Inc. algorithm was biased in favor of white patients over black patients.
+- Apple Card, meanwhile, launched in August as the iPhone maker’s first entry into the world of consumer finance and building on the company’s existing mobile payment system Apple Pay. Goldman Sachs backs Apple Card, which can be used digitally within Apple Pay as well as in a physical card form. In comments last month, Goldman Sachs CEO David Solomon called the introduction of the card “the most successful credit-card launch ever,” with his company having extended some $10 billion in credit to Apple Card users as of September 30.
+- Andy Meek is a reporter based in Memphis who has covered media, entertainment, and culture for over 20 years. His work has appeared in outlets including The Guardian, Forbes, and The Financial Times, and he’s written for BGR since 2015. Andy's coverage includes technology and entertainment, and he has a particular interest in all things streaming.
+- Over the years, he’s interviewed legendary figures in entertainment and tech that range from Stan Lee to John McAfee, Peter Thiel, and Reed Hastings.
+- BGR’s audience craves our industry-leading insights on the latest in tech and entertainment, as well as our authoritative and expansive reviews.
+- We guide our loyal readers to some of the best products, latest trends, and most engaging stories with non-stop coverage, available across all major news platforms.
+- Founded in 2006
+- Over 2 billion visitors
+- 100K articles published
+- Millions of readers helped
+- Honest news coverage, reviews, and opinions since 2006.
+- - Jonathan S. Geller
+- BGR is a part of Penske Media Corporation.
+© 2023 BGR Media, LLC. All Rights Reserved.
+
+URL: https://www.bloomberg.com/news/articles/2019-11-21/goldman-s-ceo-defends-apple-card-says-there-s-no-gender-bias
+- To continue, please click the box below to let us know you're not a robot.
+- Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our Terms of
+                Service and Cookie Policy.
+- For inquiries related to this message please contact
+            our support team and provide the reference ID below.
+
+URL: https://edition.cnn.com/2019/11/12/business/apple-card-gender-bias/index.html
+- Markets
+- Fear & Greed Index
+- Latest Market News
+- Some Apple Card customers say the credit card’s issuer, Goldman Sachs, is giving women far lower credit limits, even if they share assets and accounts with their spouse. But it’s impossible to know if the Apple Card – or any other credit card – discriminates against women, because creditworthiness algorithms are notoriously opaque.
+- “It’s such a mystery we are seeing,” said Sara Rathner, travel and credit cards expert at NerdWallet. “Because we don’t know exactly what those algorithms are looking for, it can be hard to say if there might be some bias built into them.”
+- The New York Department of Financial Services is looking into the allegations of gender discrimination against users of the Apple Card. The allegations blew up on Twitter Saturday after tech entrepreneur David Heinmeier Hansson wrote that Apple Card offered him 20 times the credit limit as his wife, although they have shared assets and she has a higher credit score.
+- Many other users voiced similar experiences — including Apple co-founder Steve Wozniak, who said his credit limit was 10 times that of his wife, despite the fact that they share all assets and accounts.
+- Apple co-founder Steve Wozniak says Apple Card discriminated against his wife
+- It’s not known what led the algorithms to make the assessments they did.
+- “It’s very important to underline that in these two very high-profile cases, we just don’t have enough information about the specific applications to be able to make any hard and fast judgments about it.” said Matt Schulz, chief industry analyst at CompareCards.com.
+- It’s common practice for credit card issuers to use algorithms when they’re making lending decisions, but there’s very little transparency, Schulz said.
+- “Oftentimes, there is a perfectly legitimate explanation for why there could be discrepancies,” he said. “But anytime there’s a lack of transparency in these things, it shouldn’t be surprising that people would raise some issues with these decisions.”
+- Credit decisions are based on a variety of different factors, which makes it difficult to know if an individual factor in particular would have the biggest effect. But things like income and consumer habits can offer some leads about the way the algorithms work.
+- For example, women tend to make less money than men, and with income being a significant factor in determining credit limits, it wouldn’t be surprising to see that women might end up having lower credit limits than men, Schulz said.
+- “The simplest potential explanation for some of the stuff that came out this weekend would be a disparity in income,” he said. “If one spouse makes a lot of money and the other spouse doesn’t make as much, it doesn’t matter how you file your taxes, or what your net worth is. The income you put on the application drives a lot of your credit limit.”
+- Spending habits can also have a big impact on credit score and credit limit, which is another reason why spouses could end up with significantly different credit limits.
+- “If you have a person who has a high income, and spends a lot of money on a credit card on a regular basis, they may get a higher credit limit than somebody with a high income and a high credit score who just doesn’t use their card all that often,” Schulz said. “So that could be the reason why you see disparities between, you know, two individuals who otherwise seemed like they would be likely to get similar credit.”
+- In a statement to CNN Business, Goldman Sachs
+            
+                (GS) said that Apple
+            
+                (AAPL) Card customers do not share a credit line under the account of a family member or another person by getting a supplemental card.
+- “With Apple Card, your account is individual to you; your credit line is yours and you establish your own direct credit history,” a Goldman Sachs spokesperson said in the statement.
+- “As with any other individual credit card, your application is evaluated independently,” the spokesperson said. “We look at an individual’s income and an individual’s creditworthiness, which includes factors like personal credit scores, how much debt you have, and how that debt has been managed.”
+- Based on these factors, it is possible for two family members to receive significantly different credit decisions, the company said.
+- “In all cases, we have not and will not make decisions based on factors like gender,” the statement said.
+- Goldman Sachs also said it frequently hears from its customers that they would like to share their Apple Card with other members of their families, and that the company is looking to enable this in the future.
+- The New York Department of Financial Services confirmed Tuesday the ongoing investigation, and said in a statement that New York law prohibits discrimination against protected classes of individuals, including disparate impact and treatment. The department will be conducting an investigation to determine whether New York law was violated and ensure all consumers are treated equally regardless of sex, the statement said.
+- “Any algorithm that intentionally or not results in discriminatory treatment of women or any other protected class violates New York law,” a DFS spokesperson said in the statement. “DFS is troubled to learn of potential discriminatory treatment in regards to credit limit decisions reportedly made by an algorithm of Apple Card, issued by Goldman Sachs.”
+- Artificial intelligence has been shown in a number of contexts to be biased, and gender bias has occurred in a variety of industries. Nerdwallet’s Rathner said that discrimination has been a problem in the financial services industry for decades, and not just by credit card companies, but also lenders and banks.
+- “These sorts of stories have been going on for a long time,” Rathner said. “The idea is that it sorts out the bias because it’s a machine. But these codes are still written by humans, and humans are biased naturally.”
+- Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+- © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.
+
+URL: https://www.cnbc.com/2019/11/11/goldman-sachs-to-reevaluate-apple-card-credit-limits-after-bias-claim.html
+- Credit Cards
+- Loans
+- Banking
+- Mortgages
+- Insurance
+- Credit Monitoring
+- Personal Finance
+- Small Business
+- Taxes
+- Help for Low Credit Scores
+- Investing
+- SELECT
+- All Credit Cards
+- Find the Credit Card for You
+- Best Credit Cards
+- Best Rewards Credit Cards
+- Best Travel Credit Cards
+- Best 0% APR Credit Cards
+- Best Balance Transfer Credit Cards
+- Best Cash Back Credit Cards
+- Best Credit Card Welcome Bonuses
+- Best Credit Cards to Build Credit
+- SELECT
+- All Loans
+- Find the Best Personal Loan for You
+- Best Personal Loans
+- Best Debt Consolidation Loans
+- Best Loans to Refinance Credit Card Debt
+- Best Loans with Fast Funding
+- Best Small Personal Loans
+- Best Large Personal Loans
+- Best Personal Loans to Apply Online
+- Best Student Loan Refinance
+- SELECT
+- All Banking
+- Find the Savings Account for You
+- Best High Yield Savings Accounts
+- Best Big Bank Savings Accounts
+- Best Big Bank Checking Accounts
+- Best No Fee Checking Accounts
+- No Overdraft Fee Checking Accounts
+- Best Checking Account Bonuses
+- Best Money Market Accounts
+- Best CDs
+- Best Credit Unions
+- SELECT
+- All Mortgages
+- Best Mortgages
+- Best Mortgages for Small Down Payment
+- Best Mortgages for No Down Payment
+- Best Mortgages with No Origination Fee
+- Best Mortgages for Average Credit Score
+- Adjustable Rate Mortgages
+- Affording a Mortgage
+- SELECT
+- All Insurance
+- Best Life Insurance
+- Best Homeowners Insurance
+- Best Renters Insurance
+- Best Car Insurance
+- Travel Insurance
+- SELECT
+- All Credit Monitoring
+- Best Credit Monitoring Services
+- Best Identity Theft Protection
+- How to Boost Your Credit Score
+- Credit Repair Services
+- SELECT
+- All Personal Finance
+- Best Budgeting Apps
+- Best Expense Tracker Apps
+- Best Money Transfer Apps
+- Best Resale Apps and Sites
+- Buy Now Pay Later (BNPL) Apps
+- Best Debt Relief
+- SELECT
+- All Small Business
+- Best Small Business Savings Accounts
+- Best Small Business Checking Accounts
+- Best Credit Cards for Small Business
+- Best Small Business Loans
+- Best Tax Software for Small Business
+- SELECT
+- All Taxes
+- Best Tax Software
+- Best Tax Software for Small Businesses
+- Tax Refunds
+- SELECT
+- All Help for Low Credit Scores
+- Best Credit Cards for Bad Credit
+- Best Personal Loans for Bad Credit
+- Best Debt Consolidation Loans for Bad Credit
+- Personal Loans if You Don't Have Credit
+- Best Credit Cards for Building Credit
+- Personal Loans for 580 Credit Score or Lower
+- Personal Loans for 670 Credit Score or Lower
+- Best Mortgages for Bad Credit
+- Best Hardship Loans
+- How to Boost Your Credit Score
+- SELECT
+- All Investing
+- Best IRA Accounts
+- Best Roth IRA Accounts
+- Best Investing Apps
+- Best Free Stock Trading Platforms
+- Best Robo-Advisors
+- Index Funds
+- Mutual Funds
+- ETFs
+- Bonds
+- 
+- Goldman Sachs denied allegations of gender bias and said on Monday that it will reevaluate credit limits for Apple Card users on a case-by-case basis for customers who received lower credit lines than expected.
+- "We have not and never will make decisions based on factors like gender," Carey Halio, Goldman's retail bank CEO, said in a statement. "In fact, we do not know your gender or marital status during the Apple Card application process."
+- Halio said that customers unsatisfied with their line should contact the company.
+- "Based on additional information we may request, we will re-evaluate your credit line," the statement said.
+- Tweet
+- The controversy surfaced on Friday, when tech entrepreneur David Heinemeier Hansson wrote a series of tweets complaining that he got a credit limit 20 times higher than his wife, despite the fact that the couple files tax returns jointly.
+- A Goldman spokesperson previously told CNBC that the issue was related to how the bank evaluates credit applications independently, which makes it possible for two family members to receive significantly different credit decisions. Goldman s looking into ways for family members to share a single Apple Card account, which would address the issue.
+- In the statement on Monday, Goldman said that the problem stemmed from some applicants having "limited personal credit history."
+- Affected users can contact Goldman Sachs through a chat in the iPhone Wallet app or at the company's customer service number.
+- While Goldman said that it doesn't make underwriting decisions based on gender, Hansson said the opaque methodology behind the card's credit decisions amounts to sexism.
+- "My wife and I filed joint tax returns, live in a community-property state, and have been married for a long time," Hansson tweeted, along with a screenshot showing a $57 dollar spending limit. "Yet Apple's black box algorithm thinks I deserve 20x the credit limit she does."
+- Apple co-founder Steve Wozniak said it happened to his spouse, too.
+- tweet
+- The Apple Card is branded and marketed by Apple. Users sign up for the card and apply for credit inside the Wallet app on iPhones, but the credit component of the product is handled by Goldman, which is pushing into consumer banking.
+- The New York Department of Financial Services said on Monday that it was launching an investigation into Goldman's credit card practices. Halio said in the statement that the company reviewed its credit process with a "third party," which is Charles River Associates, according to a Goldman Sachs representative.
+- An Apple representative didn't return requests for comment.
+- After Goldman released the statement, Hansson returned to Twitter to express his displeasure.
+- "You heard nothing," he wrote. "'I understand your concerns, but here's why they are actually wrong and we are actually right' is not listening. That's patronizing. Please just stop."
+- WATCH: Author of viral tweet on Apple card probe
+- Follow @CNBCtech on Twitter for the latest tech industry news.
+- Got a confidential news tip? We want to hear from you.
+- Sign up for free newsletters and get more CNBC delivered to your inbox
+- Get this delivered to your inbox, and more info about our products and services.
+- © 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+- Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+- Data also provided by
+
+URL: https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html
+- Please enable JS and disable any ad blocker
+
+URL: https://eu.usatoday.com/story/money/2019/11/10/apple-card-goldman-sachs-credit-limit-sex-bias-investigation/2555234001/
+- NEW YORK – A New York regulator is investigating Goldman Sachs for possible sex discrimination in the way it sets credit limits. The bank denies wrongdoing.
+- The investigation follows a series of viral tweets by entrepreneur and web developer David Heinemeier Hansson about algorithms used for the Apple Card, which Goldman Sachs manages in partnership with Apple.
+- Hansson said the card offered him a credit limit 20 times greater than it gave to his wife, even though she has a higher credit score. He called the algorithm a sexist program.
+- A spokeswoman for the New York Department of Financial Services confirmed Saturday that the agency will investigate.
+- I got caught in an online ticket scheme: Venmo, Apple Cash don't protect consumers like credit cards do
+- The agency is “troubled to learn of potential discriminatory treatment in regards to credit limit decisions reportedly made by an algorithm of Apple Card, issued by Goldman Sachs,” said spokeswoman Sophia Kim. She said the department “will be conducting an investigation to determine whether New York law was violated and ensure all consumers are treated equally regardless of sex.”
+- “Our credit decisions are based on a customer’s creditworthiness and not on factors like gender, race, age, sexual orientation or any other basis prohibited by law,” said Goldman Sachs spokesman Andrew Williams. He added that the bank could not comment on decisions about individual customers.
+- Apple directed all comments to Goldman Sachs.
+- In several tweets that were often liked thousands of times and frequently retweeted, Hansson didn’t disclose his or his wife’s income, but wrote that they have been married a long time, file joint tax returns and live in a community-property state. He tweeted that appeals when she got a far lower credit limit fell on deaf ears.
+- Artificial intelligence might be reading your license plate: Here's the company behind it
+- When Apple Card finally raised her credit limit without addressing the scoring system, he tweeted, it was essentially trying to “bribe one loud mouth on Twitter, then we don’t have to actually examine our faulty faith in THE ALGORITHM.”
+- Apple introduced the Apple Card earlier this year in a partnership with Goldman Sachs. A press release announcing the card called Goldman Sachs “a newcomer to consumer financial services” that was “creating a different credit card experience.” It pledged not to share or sell information to other parties for marketing and advertising.
+- “Simplicity, transparency and privacy are at the core of our consumer product development philosophy,” said Goldman Sachs Chairman and CEO David M. Solomon.
+- Social Security: Here are 3 great reasons to take benefits at 62
+- Don't pay more than you actually owe: 4 costly tax mistakes to avoid
+
+URL: https://techxplore.com/news/2019-11-goldman-sachs-ceo-gender-bias.html
+- Your browser sent an invalid request.
+We highly recommend setting a meaningful User-Agent header.
+- We highly recommend setting a meaningful User-Agent header.
+
+URL: https://slate.com/business/2019/11/apple-card-credit-algorithm-bias-discrimination-women.html
+- David Heinemeier Hansson, a well-known software engineer, posted a viral Twitter thread last week denouncing the Apple Card as sexist after its algorithm determined that he deserved a credit limit 20 times higher than his wife’s. In a blog post, his wife, Jamie Heinemeier Hansson, explained that there was no apparent reason for the discrepancy, writing, “I have had credit in the U.S. far longer than David. I have never had a single late payment. I do not have any debts. David and I share all financial accounts, and my very good credit score is higher than David’s.” Apple co-founder Steve Wozniak later revealed that the algorithm had given him a credit line 10 times higher than his wife’s, also for no apparent reason.
+- The @AppleCard is such a fucking sexist program. My wife and I filed joint tax returns, live in a community-property state, and have been married for a long time. Yet Apple’s black box algorithm thinks I deserve 20x the credit limit she does. No appeals work.
+- The thread sparked an uproar on Twitter over the weekend, and the New York State Department of Financial Services announced on Saturday that it was launching an investigation into the credit card program, which Apple operates jointly with Goldman Sachs. The department declared, “Financial services companies are responsible for ensuring the algorithms they use do not even unintentionally discriminate against protected groups.” Goldman Sachs maintains that it has “not and never will make decisions based on factors like gender.”
+- To understand how an algorithm could be systematically giving female Apple Card customers lower credit lines than men—and to discuss how the opacity of such algorithms often allows discrimination to persist—I spoke to Cathy O’Neil, a mathematician and the author of Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Our interview has been condensed and edited for clarity.
+- Aaron Mak: What was your initial reaction to the news of this incident?
+- Cathy O’Neil: Not even surprised. Of course this is going to keep happening as companies that are investing in this kind of [algorithmic] technology keep pretending it’s not a problem. They look at the upside—which is faster, scalable, quick decision-making—and they ignore the downside, which is that they’re taking on a lot of risk.
+- So at first glance, this does seem like a pretty convincing case of algorithm-fueled gender discrimination?
+- We don’t have enough information to know what was really going on there. The truth is they have all sorts of data about us that we don’t even know about, and our profiles, even if they’re not accurate, are available for corporations like Apple to purchase, even though we individuals can’t purchase our own. So there’s all sorts of things that could have happened in that particular case that might not have anything to do with gender. But on the other hand, we don’t know. It could have something to do with gender. The larger point is that it’s unaccountable and opaque, and Apple doesn’t really care. The most important point being that we should demand that they do better than that. We should demand accountability on the part of anybody who’s using an algorithm like that.
+- What kind of information would we want to see in order to determine whether there was gender discrimination?
+- There’s two broad types of evidence that we’d want. One of them is a statistical evidence that indicates they have a definition of fairness in various directions, like for every protected class they’re certain to not be discriminatory. They would have to define what it means to be fair with respect to gender, or fair with respect to race, or fair with respect to veteran status, or whatever the protected class is. They’d have to define fairness and they’d have to show us evidence that they’ve tested the algorithm for fairness. That’s a statistical question; that’s something that an individual probably would never be able to get at, which is why I’m not ready to say this is gender discrimination, because we just have two data points. We cannot categorize this problem right now with the information we have.
+- That’s one of the reasons that the only people who can do it must do it, and those are the people who use and deploy the algorithm. They’re the ones who are capable of doing this. Technically speaking it’s a legal requirement, but the regulators in charge of this kind of thing just simply do not know how to force the companies to do it. So that’s got to change.
+- How could the algorithm have produced a disparity like this? What factors may have been gendered?
+- There are so many different ways that this could have happened that it would be irresponsible for me to say that I know, so I won’t. But I could speculate that in my household, I do way more spending than my husband. If my husband and I were to apply and I got a much higher credit rating, that wouldn’t surprise me. It wouldn’t necessarily be gendered, although there is a gender pattern of who does the shopping. So in that sense there is gender involved, but I’m just saying that it might be an individual behavior that is tipping the scale here. The example from Twitter is that they’re married and they’ve been living in the same household for a long time and the wife has a higher credit score, but we don’t really know what their behaviors are relative to each other, and the point is that a big company like Apple absolutely can buy demographic profiling and behavioral profiling. I don’t know, and point is that we should; we should at least know to trust it in a larger, statistical sense.
+- You were talking about the idea of fairness earlier. How do people usually try to think about fairness with an algorithm like this?
+- We have to develop a new way of talking about it, because the old way of talking about it doesn’t work anymore. The old way of talking about it was, “Let’s not use race or gender explicitly.” That kind of worked back when we didn’t collect a lot of data about each other and about ourselves, and it wasn’t just available everywhere. But nowadays we can infer race and gender based on all sorts of different indicators. There are proxies for those kinds of classes just up the wazoo for companies that are interested in inferring that kind of thing. Statistically they’re a lot better compared to a random guess. It’s no longer sufficient to say, “Let’s not explicitly use race and gender.”
+- There’s no way that an algorithm is colorblind or gender-blind. We have to think through more carefully what it means for an algorithm to be fair. And that might mean we actually do explicitly infer race and gender and compare the results by category. Are you offering lower APR and higher thresholds of credit to white men compared to black women? This is an opportunity for Apple, which prides itself on being such an edgy privacy company, to also be an edgy algorithmic fairness company.
+- Companies often argue that being more transparent about their algorithms would threaten their intellectual property. How do you address that?
+- Trusting an algorithm is different from knowing the source code. And I think they can establish trust at a statistical level. They could say, “We compared black women with this FICO score and what we offered them to white men with the same FICO score. And we found this is the difference.” They’d have to define what the test is and show us the results. But with those kinds of aggregate statistical tests, if they told us the answer to them, would not give away the source code. There’s no IP issue there.
+- Would this alleged algorithmic sexism be the sort of thing that Apple and Goldman should have been able to catch before using it on customers?
+- It’s actually incredible to me how often this does not get caught. It’s because we have no standards in data science. It’s not really even a field yet. I don’t think it should even be considered a science, because science has hypothesis testing and it has a well-defined concept of what is means to have evidence. We still haven’t even maintained what the most basic questions should be. This is the same kind of thing that we saw with the facial recognition software that Amazon and IBM put out to the public, bragging about how great it was. They hadn’t bothered to test to see whether it worked as well on black men as on white men. That’s one of the reasons I keep going back to those categories; you’d think by now with all of these PR debacles that these companies would say, “Let’s do some basic tests and make sure this isn’t crazy.” We need to get to a place where the embarrassment of a PR problem is so bad, or the risk of regulatory oversight is so strong, or the risk of a class-action lawsuit is so real that they start doing this a priori before deploying the algorithms.
+- Why have regulators not been able to catch and curb this sort of algorithmic bias effectively?
+- When I have the privilege of talking to lawmakers, and this is a bipartisan issue for the most part, what they respond to most viscerally is stories. Stories of a person being unfairly denied money, which led to them losing medical care, their job, and their house—real-life blood-and-gore stories. And the problem of course is that it’s really hard to know exactly what went wrong with this opaque algorithm. Most algorithmic harm flies entirely under the radar. It happens in the context of people trying to get a job, but they never get interviewed because they’re filtered out by algorithmic job hiring. So how would they know the reason they didn’t get the interview was because an algorithm unfairly labeled them as lazy or whatever it was? The problem is if you don’t know you’re a victim of algorithmic harm, then you can’t tell the story. It’s this invisible system of harm.
+- On the topic of this invisibility, it seems noteworthy that the person who spotted this alleged gender discrepancy in credit lines was a highly skilled software developer. Is there anything that the average consumer can look out for to detect algorithmic bias, or does it really take a deep knowledge of the technology to spot it?
+- Right, this is a guy who is highly skilled and powerful, and he knew that he had a right to know, and he knew that being denied that right to know was an offense. Most people are told, “It’s math and you wouldn’t understand it,” and they stop asking questions. So it almost requires a person that is as successful as this guy to say, “Yeah, that’s fucked up.” You have to be immune to that kind of math-shaming.
+- And it seems like part of the reason why this incident was noticed and got a lot of attention was because this algorithm is particularly consumer-facing. Do you think this would’ve gotten as much attention if the algorithm was being applied to another area, like the prison system?
+- That’s exactly my problem. This is one of the most used consumer-facing algorithms of all, and even this is very difficult to understand. But think about the algorithms that we don’t even know are being applied. The example I keep coming back to is that when you’re applying for a job, your application goes through a silent filter that you don’t even know exists. These algorithms are everywhere. Everywhere.
+- Slate is published by The Slate
+          Group, a Graham Holdings Company.
+- All contents ©
+        2023
+        The Slate Group LLC. All rights reserved.
+
+- Facebook job ad delivery gender discrimination
+- ImageNet dataset racial, gender stereotyping
+- Page infoType: IncidentPublished: March 2023

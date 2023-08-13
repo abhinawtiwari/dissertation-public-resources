@@ -1,0 +1,21 @@
+- Occurred: 2020
+- Can you improve this page?Share your insights with us
+- In 2020, Wisconsin prison inmate Titus Henderson alleged that prison officials had discriminated against him and other African American inmates by using a 'racially biased actuarial tool,' COMPAS, in their sentencing.
+- Per George Washington University's ETI AI Litigation Database, Henderson had been convicted and incarcerated in July 1995, serving a 40-year sentence. In October 2014, COMPAS determined Henderson was low risk but after a Parole Hearing in November 2015, Henderson claimed he was denied Parole and transfer from Wisconsin to Mississippi because of COMPAS's biased algorithm for gender and against African-Americans.
+- The judge rejected Henderson's claims, arguing there is enough information to infer that the Department of Corrections knew of the racial bias and its harm to African American inmates. In March 2021 the judge dismissed the case.
+- Operator: Wisconsin Court System Developer: Volaris Group/Equivant/Northpointe
+- Country: USA
+- Sector: Govt - justice
+- Purpose: Assess recidivism risk
+- Technology: Recidivism risk assessment system Issue: Bias/discrimination - race, ethnicity, gender
+- Transparency: Governance; Black box
+- COMPAS Wikipedia profile
+- Equivant website
+- Henderson v Stensberg
+- Henderson v Stensberg case dockets
+- George Washington University. ETI AI Litigation Database: case details
+- (2021). Abtracting Injustice. An analysis of the Use of Artificial Intelligence in Criminal Justice (pdf)
+- EPIC (2020, updated 2021). Liberty at Risk: Pre-Trial Risk Assessment Tools in the US (pdf)
+- Eric Loomis COMPAS prison sentencing
+- Virginia non-violent risk assessment
+- Page infoType: IncidentPublished: March 2023
