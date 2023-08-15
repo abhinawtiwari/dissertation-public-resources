@@ -1,6 +1,8 @@
 Bard's suggestion on verification of values:
 
-Yes, you can verify the correctness of the values of the properties in the JSON object by comparing them to the definitions of the properties in the ontology. For example, the `hasImportance` property should have a value of one of the following strings: `high importance`, `moderate importance`, `neutral`, or `unimportant`. You can also check that the values of the properties are consistent with each other. For example, if the `intendedImpact` property is `negative`, then the `hasImportance` property should also be `negative`.
+Yes, you can verify the correctness of the values of the properties in the JSON object by comparing them to the definitions of the properties in the ontology. 
+For example, the `hasImportance` property should have a value of one of the following strings: `high importance`, `moderate importance`, `neutral`, or `unimportant`. 
+You can also check that the values of the properties are consistent with each other. For example, if the `intendedImpact` property is `negative`, then the `hasImportance` property should also be `negative`.
 
 Here are some specific things you can check:
 
