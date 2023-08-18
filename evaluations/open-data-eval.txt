@@ -1,0 +1,70 @@
+NB: The prefix ":" refers to http://example.org/
+
+For dataset :DominosAustraliaPizzaCheckerIncidentDataset , and its distribution :DominosAustraliaPizzaCheckerIncidentDatasetDistribution ,
+
+:DominosAustraliaPizzaCheckerIncidentDataset 
+    a dcat:Dataset ;
+    dcterms:title "Domino's Australia Pizza Checker Incident" ; 
+    dcat:distribution :DominosAustraliaPizzaCheckerIncidentDatasetDistribution
+    .
+
+:DominosAustraliaPizzaCheckerIncidentDatasetDistribution
+    a dcat:Distribution ;
+    dcat:accessURL <http://www.example.org/sparql> ; 
+    dcterms:title "SPARQL access to the dataset"@en ; 
+    dcat:mediaType "application/sparql-results+json" .
+
+An automated quality checker has provided a quality assessment with two AI incidents quality measurements for :DominosAustraliaPizzaCheckerIncidentDatasetDistribution .
+
+:DominosAustraliaPizzaCheckerIncidentDatasetDistribution
+    dqv:hasQualityMeasurement :measurement1, :measurement2
+    .
+
+:measurement1 
+    a dqv:QualityMeasurement ;
+    dqv:computedOn :DominosAustraliaPizzaCheckerIncidentDatasetDistribution ;
+    dqv:isMeasurementOf :annotationAccuracyMetric ;
+    dqv:value "0.5"^^xsd:double 
+    .
+
+:measurement2
+    a dqv:QualityMeasurement ;
+    dqv:computedOn :DominosAustraliaPizzaCheckerIncidentDatasetDistribution ;
+    dqv:isMeasurementOf :annotationCompletenessMetric ;
+    dqv:value "0.5"^^xsd:double 
+    .
+
+#definition of dimensions and metrics
+:accuracy
+    a dqv:Dimension ;
+    skos:prefLabel "Accuracy"@en ;
+    skos:definition "The degree to which data has attributes that correctly represent 
+    the true value of the intended attribute of a concept or event in a specific context of use."@en ; 
+    dqv:inCategory :iso:inherentDataQuality
+    .
+
+:completeness
+    a dqv:Dimension ;
+    skos:prefLabel "Completeness"@en ;
+    skos:definition "Completeness refers to the degree to which all required information
+    is present in a particular dataset."@en ;
+    dqv:inCategory :intrinsicDimensions
+    .
+
+
+:annotationAccuracyMetric 
+    a dqv:Metric ;
+    skos:definition "It checks the degree to which the annotated values represent the true
+    intended value."@en ;
+    dqv:expectedDataType xsd:double ;
+    dqv:inDimension :accuracy
+    .
+
+:annotationCompletenessMetric
+    a dqv:Metric ; 	
+    skos:definition "Ratio between the number of objects represented in the csv and the 
+    number of  objects expected to be represented according to the declared dataset
+    scope."@en ;
+    dqv:expectedDataType xsd:double ;
+    dqv:inDimension :completeness
+    .
